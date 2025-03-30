@@ -33,4 +33,9 @@ jobs:
         git config --global user.name "Neptali"
         git add data/
         git diff --staged --quiet || git commit -m "New entries"
-        git push
+
+    - name: Pull latest changes
+      run: git pull origin main --rebase
+
+      name: Push new data
+      run: git push
