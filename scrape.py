@@ -58,16 +58,16 @@ def fetch_entries_for_page(page_number, cutoff_date):
 
 all_current_entries = []
 
-for page in range(1, 101):
+for page in range(2, 4):
     print(f'Web scrapping page {page}')
     entries = fetch_entries_for_page(page, cutoff_date)
     if not entries:
        break
     all_current_entries.extend(entries)
 
-delay = random.uniform(1, 3)
-print(f'Esperando {delay:.2f} segundos antes de la siguiente página...')
-time.sleep(delay)
+    delay = random.uniform(1, 3)
+    print(f'Esperando {delay:.2f} segundos antes de la siguiente página...')
+    time.sleep(delay)
 
 def parse_article_metadata(article_soup):
     article_tag = article_soup.find('article')
