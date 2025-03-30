@@ -1,0 +1,36 @@
+name: 'Scrape'
+
+on: 
+  workflow_dispatch:
+
+  schedule:
+  - cron: "0 22 * * *"
+
+jobs: 
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/checkout@v4
+
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v2
+      with:
+        pyhton-version: "3.12"
+
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Execute 
+      run: python scrape.py 
+
+    - name: Commit changes 
+      run: |
+        git config --global user.email "neptali.j.saldarriaga@gmail.com"
+        git config --global user.name "Neptali"
+        git add data/
+        git diff --staged --quiet || git commit -m "New entries"
+        git push
