@@ -31,11 +31,10 @@ jobs:
       run: |
         git config --global user.email "neptali.j.saldarriaga@gmail.com"
         git config --global user.name "Neptali"
+        git fetch origin
+        git checkout main
+        git pull origin main --rebase
+
         git add data/
         git diff --staged --quiet || git commit -m "New entries"
-
-    - name: Pull latest changes
-      run: git pull origin main --rebase
-
-      name: Push new data
-      run: git push
+        git push origin main
