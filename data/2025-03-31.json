@@ -1,5 +1,879 @@
 [
     {
+        "title": "Driving business and investor insight across our work",
+        "authors": [
+            "Dr Karen Croxson"
+        ],
+        "posted_on": "2025-04-03T14:00:24",
+        "categories": [
+            "Life at the CMA",
+            "Recruitment"
+        ],
+        "content": [
+            {
+                "content": "The pace of change in today\u2019s digital economy is exciting and unrelenting. Business models are evolving, AI is reshaping markets, and investment strategies are shifting in response to global competition and technological disruption.",
+                "tag": "p"
+            },
+            {
+                "content": "At the Competition and Markets Authority (CMA), we recognise that understanding these market dynamics is critical \u2013 our job is to ensure that consumers get a fair deal, that businesses are free to thrive, and that markets work well. This means ensuring that competition, innovation, and investment can thrive in important areas like AI, so that the vast opportunities are unleashed and can drive positive outcomes right across the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s why we are expanding our capability in strategic business analytics, to bring a stronger business and investor lens into our work in new and impactful ways. This means taking a more sophisticated and forward-looking approach to understanding how firms operate, compete, and scale in fast-moving markets \u2013 especially in AI and digital ecosystems. ",
+                "tag": "p"
+            },
+            {
+                "content": "A strong understanding of firms\u2019 strategies and business models is essential to our work and as our CEO Sarah Cardell announced recently in a speech, deepening our capability in this area is one element of our wider build out of a world-leading strategic insight and analytics capability within a regulatory body.",
+                "tag": "p"
+            },
+            {
+                "content": "Be part of a world-leading strategic insight and analytics function",
+                "tag": "h2"
+            },
+            {
+                "content": "Deepening business and strategic insight is part of a broader transformation within the CMA, which has already led to the creation of a new Executive Directorate for Data, Technology, and Insight (DTI). DTI brings together a cutting-edge mix of expertise across:",
+                "tag": "p"
+            },
+            {
+                "content": "Our AI Centre of Excellence is a dedicated hub within DTI that develops AI expertise, both for internal use and to inform our regulatory approach.",
+                "tag": "p"
+            },
+            {
+                "content": "What this means in practice",
+                "tag": "h2"
+            },
+            {
+                "content": "The Strategic Business Analysis function plays a vital role in helping the CMA stay ahead of market developments. Some of the key areas of focus include:",
+                "tag": "p"
+            },
+            {
+                "content": "By embedding business and investor perspectives across our work, we can ensure that our regulatory decisions are rooted in commercial realities, enabling competition to drive sustainable growth, innovation, and consumer benefits.",
+                "tag": "p"
+            },
+            {
+                "content": "Join the conversation",
+                "tag": "h2"
+            },
+            {
+                "content": "We are looking for people with experience in business, investment, and strategy to join us in shaping the next phase of this work.",
+                "tag": "p"
+            },
+            {
+                "content": "The ideal candidate will:",
+                "tag": "p"
+            },
+            {
+                "content": "You might be considering public service as a long-term career move or want to 'test the waters' while applying strategic business analysis skills to policy and competition, or you may want to contribute to public service and be willing to join us for a focused stint. ",
+                "tag": "p"
+            },
+            {
+                "content": "We are looking for candidates who come from:",
+                "tag": "p"
+            },
+            {
+                "content": "What you'll get from us in return",
+                "tag": "h2"
+            },
+            {
+                "content": "You'll:",
+                "tag": "p"
+            },
+            {
+                "content": "We believe that the CMA is an excellent place to work and we offer a flexible and supportive environment that will help you thrive and achieve your personal work-life balance.",
+                "tag": "p"
+            },
+            {
+                "content": "We offer flexible working \u2013 either in the time you contribute to the CMA\u2019s work (short term appointments are available) or in working patterns, including hybrid home/office working, part time arrangements, compressed hours, and job shares.",
+                "tag": "p"
+            },
+            {
+                "content": "Our colleagues are included, respected, and valued, using their strengths and diverse perspectives and experiences to contribute to our work and reflect the public we serve.",
+                "tag": "p"
+            },
+            {
+                "content": "We offer an average pension employer contribution of 27%, generous leave, family friendly policies, and learning and development.",
+                "tag": "p"
+            },
+            {
+                "content": "Be part of the future",
+                "tag": "h2"
+            },
+            {
+                "content": "If this sounds like you \u2013 or someone in your network \u2013 then we\u2019d love to hear from you.",
+                "tag": "p"
+            },
+            {
+                "content": "Here are links to some initial roles, decoded into consulting language:",
+                "tag": "p"
+            },
+            {
+                "content": "Join us in shaping the next chapter of competition, investment, and innovation in the UK economy.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about working for the CMA",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2025/04/03/driving-business-and-investor-insight-across-our-work/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "We're expanding our capability in strategic business analysis. Find out how you can join us and be part of the future."
+    },
+    {
+        "title": "Joining up the dots: the findings of our recent API discovery",
+        "authors": [
+            "James Freeland - Senior Data and Security Architect, GDS"
+        ],
+        "posted_on": "2025-04-03T13:43:21",
+        "categories": [
+            "Data Standards",
+            "Data Strategy",
+            "Open data"
+        ],
+        "content": [
+            {
+                "content": "Turbo-charging application programming interfaces (API) connectivity across government enables seamless, secure, legal and trusted data sharing. This will help address issues with underutilisation of data that were identified in the state of digital government review, and will help to deliver the six point plan for digital reform across the UK government\u00a0 laid out in the blueprint for modern digital government.",
+                "tag": "p"
+            },
+            {
+                "content": "In January 2024 James Freeland, Senior Data and Security Architect and Alex Smith, Head of Data Security and Platforms at the Government Digital Service (GDS), teamed up to work on the API programme. They set themselves some goals for the end of the year:",
+                "tag": "p"
+            },
+            {
+                "content": "Their intention was to use these engagement activities as a spring board to improve API connectivity and uptake across departments.",
+                "tag": "p"
+            },
+            {
+                "content": "They worked with their delivery partners, Scrumconnect, to conduct an eight week discovery with the main objective of this work being to assess maturity and appetite for using APIs in the sharing of data across departments and ALBs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Undertaking cross government API research\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Scrumconnect discovery team undertook four key phases of activities:",
+                "tag": "p"
+            },
+            {
+                "content": "The research findings",
+                "tag": "h2"
+            },
+            {
+                "content": "At the end of the eight week discovery, their main findings revealed some common pain points:",
+                "tag": "p"
+            },
+            {
+                "content": "API readiness and maturity:",
+                "tag": "p"
+            },
+            {
+                "content": "API in relation to data sharing:",
+                "tag": "p"
+            },
+            {
+                "content": "Key outcomes",
+                "tag": "h2"
+            },
+            {
+                "content": "There\u2019s exciting work to do in this space, with the Government Digital Service helping organisations across the public sector to share data more securely and effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "A set of measurable outcomes were achieved as a result of commissioning the API Discovery work:",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved!",
+                "tag": "h2"
+            },
+            {
+                "content": "James and Alex are looking for colleagues to help move this work forward by participating in upcoming alpha user research. To get involved in this and to join the API community contact them at: api-programme@digital.cabinet-office.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dataingovernment.blog.gov.uk/2025/04/03/joining-up-the-dots-the-findings-of-our-recent-api-discovery/",
+        "blog": "Data in government",
+        "blog_link": "https://dataingovernment.blog.gov.uk",
+        "description": "Joining up the dots - is about turbo-charging API connectivity across government to enable effective data sharing in a seamless, secure, legal and trusted manner.  "
+    },
+    {
+        "title": "Martyn's Law Factsheet",
+        "authors": [
+            "Home Office news team"
+        ],
+        "posted_on": "2025-04-03T12:00:04",
+        "categories": [
+            "Uncategorised"
+        ],
+        "content": [
+            {
+                "content": "This factsheet was updated in April 2025.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u202fTerrorism (Protection of Premises) Act 2025, also known as Martyn\u2019s Law, received Royal Assent on Thursday 3 April 2025.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This Act delivers the Government\u2019s manifesto commitment to strengthen the security of public premises and events.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Government would like to pay tribute to Figen Murray, mother of Martyn Hett, who was killed in the Manchester Arena attack.\u202f Her campaigning has been crucial in driving this Act forward. \u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Government intends for there to be an implementation period of at least 24 months before the Act comes into force. This will allow the SIA\u2019s new function to be established, whilst ensuring those responsible for premises and events in scope have sufficient time to understand their new obligations. This will enable them to plan and prepare appropriately.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Please refer to our wider factsheets and legislation documentation which can be found\u202fon GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does Martyn\u2019s Law do?\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Terrorism (Protection of Premises) Act 20251, also commonly referred to as Martyn\u2019s Law, will improve protective security and organisational preparedness across the UK by requiring that those responsible for certain premises and events consider how they would respond to a terrorist attack. In addition to this, at certain larger premises and events, appropriate steps to reduce vulnerability to terrorist attacks must also be considered. Through the Act, qualifying premises and events should be better prepared and protected, ready to respond in the event of a terrorist attack.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst those that fall within scope of the Act may wish to begin considering the requirements, they should note that guidance will be published in due course. This guidance will assist in understanding the requirements set out in the legislation. The guidance is being designed to be easy to follow, needing neither particular expertise nor the use of third-party products or services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To support enforcement of the regime, a regulator will be established through a new function of the Security Industry Authority (SIA), which will support, advise and guide those responsible for premises and events in meeting the requirements of this legislation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How will it work?\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Act establishes a tiered approach, linked to the number of individuals it is reasonable to expect may be present at the same time at premises and events.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who will be in scope?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Premises that satisfy the following four criteria fall within scope of the Act:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If 800 or more individuals may be expected, the premises will be an enhanced duty premises unless the Act says otherwise.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An event that satisfies the following criteria fall within scope of the Act:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who is the responsible person for qualifying premises? \u200b\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For qualifying premises, the responsible person is the person who has control of the premises in connection with their relevant Schedule 1 use (e.g. the use of a venue as a sports ground or a hotel).\u202fWhere there is more than one Schedule 1 use (e.g. a church that also has a creche), it will be the person in control of the premises in connection with whichever Schedule 1 use is the principal use.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who is the responsible person for qualifying events?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For qualifying events, the responsible person is the person who has control of the premises at which the event will be held for the purposes of the event. The circumstances of the event will need to be considered to determine who the responsible person is. For example, if a concert is to be held in a park and the company putting on the event takes control of an area of the park for the purposes of that concert, the company putting on the event will be the responsible person. Conversely, if a stately home puts on a concert in its grounds and maintains control of the site for the purposes of that concert, the stately home will be the responsible person. This would be the case even if the stately home contracted organisations to do aspects of the event (e.g. to provide door security or ticketing).\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are the requirements for standard duty premises?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Standard duty premises are generally those where it is reasonable to expect that between 200 and 799 individuals (including staff) may be present at the same time at least occasionally. The responsible person will be required to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These public protection procedures are those which should be followed by people working at the premises if an act of terrorism were to occur at the premises, or in the immediate vicinity. They are procedures which may be expected to reduce the risk of physical harm being caused to individuals relating to evacuation, invacuation (moving people to a safe place), locking down the premises, and communicating with individuals on the premises.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The requirements for standard duty premises are centred around simple, low-cost activities with costs relating primarily to time spent. There is no requirement to put in place physical measures.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are the requirements for enhanced duty premises and qualifying events?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Enhanced duty premises and qualifying events are premises or events where it is reasonable to expect that 800 or more individuals (including staff numbers) may be present on the premises at least occasionally2 or attend the event at the same time. In addition to the same requirements as standard duty premises (above), the person responsible for enhanced duty premises and qualifying events will additionally be required to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to assess how many individuals are reasonably expected to be present?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A range of methods can be used to make a reasonable assessment. This includes methods which those responsible for premises and events may already be familiar with, e.g. safe occupancy calculations for the purposes of fire safety or use of historic data.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How will Martyn\u2019s Law be enforced?\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To support enforcement of the regime, a new regulatory function will be established within the Security Industry Authority (SIA). The SIA will seek to support, advise and guide those responsible for premises and events in meeting the requirements of this legislation. Where there are instances of serious or persistent non-compliance the SIA will be able to take enforcement action including compliance notices, monetary penalties and restriction notices. The legislation also includes some criminal offences. The SIA must prepare statutory guidance about how it will discharge its functions under the Act, which must be approved by the Home Secretary before it is published.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There will be a period of time prior to the implementation of the legislation, i.e. when it will come into force. We expect this period to be at least 24 months to allow for the set-up of the regulator and to ensure sufficient time for those responsible for premises and events in scope to understand their new obligations before they come into force, being able to plan and prepare accordingly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How will my business or organisation be supported on Martyn\u2019s Law?\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Guidance will be provided in due course to assist those in scope to understand the requirements set out in the legislation. The guidance is being designed to be easy to follow, needing neither particular expertise nor the use of third-party products or services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Home Office continues to build on the materials already published in relation to this legislation. This includes a bespoke landing page on Protect UK, Government factsheets which set out key aspects of the legislation, social media promotion, various press releases, media briefings, and our substantial stakeholder engagement campaign.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our intention is to augment and further strengthen our communications during the implementation period, to support duty holders and raise awareness amongst the public.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Will Martyn\u2019s Law apply to all of the UK?\u202f\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The legislation will apply across England, Wales, Scotland and Northern Ireland to ensure consistency in keeping the public safe across all parts of the United Kingdom.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have been working closely with stakeholders and the Devolved Governments throughout the development of this Act.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why have we introduced Martyn\u2019s Law?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since March 2017, Counter Terrorism Policing assesses that there have been 15 domestic terror attacks in the UK (not including Northern Ireland-related terrorism), and security services and law enforcement have together disrupted 43 late-stage plots.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The threat picture is complex, evolving and enduring, with terrorists choosing to attack a broad range of locations. It is not possible to predict where in the UK an attack might happen, or the type of premises or event that could be impacted \u2013 either directly as the target of an attack, or indirectly by being located near to the target of an attack.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Engagement with business indicates that preparedness and protective security in the counter-terrorism space often falls behind areas where there are long-established legal requirements, such as health and safety. The police, security services, and other partners continue to do all they can to combat the terror threat; and many businesses and organisations already do excellent work to improve their security and preparedness. However, the absence of legislative requirements means there is no consistency of consideration or of outcomes achieved.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That is what this Act seeks to address.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://homeofficemedia.blog.gov.uk/2025/04/03/martyns-law-factsheet/",
+        "blog": "Home Office in the media",
+        "blog_link": "https://homeofficemedia.blog.gov.uk",
+        "description": "This factsheet was updated in April 2025.\u00a0 The\u202fTerrorism (Protection of Premises) Act 2025, also known as Martyn\u2019s Law, received Royal Assent on Thursday 3 April 2025.\u00a0\u00a0 This Act delivers the Government\u2019s manifesto commitment to strengthen the security of public premises \u2026"
+    },
+    {
+        "title": "Three reasons why England needs more conifer planting",
+        "authors": [
+            "Ian Tubby"
+        ],
+        "posted_on": "2025-04-03T10:25:00",
+        "categories": [
+            "Tree planting",
+            "Woodland creation"
+        ],
+        "content": [
+            {
+                "content": "There is still a perception that the Forestry Commission is \u2018anti-conifer\u2019 and is focused on broadleaf woodland creation. This couldn\u2019t be further from the truth and fundamentally we need more of all types of woodland.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Firstly, I want to open with some positive news. Rates of woodland creation have more than doubled in the last three years, and early signs show that 2025 could see the most woodland planted in England in over 25 years.",
+                "tag": "p"
+            },
+            {
+                "content": "Application trends",
+                "tag": "h2"
+            },
+            {
+                "content": "Interestingly, around 40% of England Woodland Creation Offer (EWCO) applications and agreements are for woodlands of between one and three hectares (ha). These woodlands account for less than 10% of the total area of new woodland. Whereas ~20% are for woodlands larger than 10ha which account for about 65% of new woodland area. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In terms of species used, about 90% of woodland planted in 2023-24 was broadleaf (4110ha) and around 10% conifer (430ha).1 This shows our current grant offer is clearly appealing to landowners and there is a very strong demand for small broadleaf woodlands.",
+                "tag": "p"
+            },
+            {
+                "content": "This is excellent news in terms of progress towards habitat creation targets. We want to see more than 105,000ha of broadleaf woodlands planted by 2042 and we are just about on course to do this if current trends continue.",
+                "tag": "p"
+            },
+            {
+                "content": "1. Planting conifer can help hit environmental net zero targets",
+                "tag": "h2"
+            },
+            {
+                "content": "That said, the current mix of woodlands being planted and the modest scheme sizes mean that we are behind when it comes to climate change mitigation and net zero.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Of course we need more woodland planted full stop but specifically, we need more conifer planted. Why? Because conifer grows fast and stores lots of carbon quickly. The statutory tree planting target assumes that we need to plant at least 30% conifer or other fast-growing species to meet carbon capture targets.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For instance, 10ha of Douglas fir (a popular coniferous tree that grows well in the UK) planted today would produce around 4,000 (4180) m3 of stem wood (a measure of wood from the stem alone, excluding branches) by 2050. This would contain around 820 tonnes of carbon (3,009 tonnes of CO2). Compared to 10ha of oak that would produce around 1,300m3 of stem wood containing 364 tonnes of carbon (1,336 tonnes of CO2) in the same period.2",
+                "tag": "p"
+            },
+            {
+                "content": "The difference in carbon (1,673 tonnes of CO2) stored between the two species is equivalent to the emissions from driving a modern diesel car 16.7 million kilometres!3",
+                "tag": "p"
+            },
+            {
+                "content": "This example suggests that conifers need 55% less land than broadleaves to capture similar levels of carbon. Therefore, from a net zero viewpoint, planting conifer spares more land than broadleaf woodland and this efficiency is an increasingly important subject as competition for land for food production, energy production, nature recovery and house building intensify.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Home-grown conifer can bolster UK timber security and protect forests worldwide",
+                "tag": "h2"
+            },
+            {
+                "content": "Food security is understandably a hot topic \u2013 we produce around 60% of the food we consume by value4 and are the fifth largest importer in the world.5 In contrast, timber security is often overlooked in land use discussions, but as the second largest importer, this is a key reason why we need to increase the area of conifer planted.",
+                "tag": "p"
+            },
+            {
+                "content": "Timber security is a growing issue as supplies throughout the northern hemisphere are disrupted and constrained by outbreaks of insect pests such as Ips typographus, diseases including ash dieback and increasing incidences of wildfire, storm force winds and drought. Global demand for wood is set to increase as the population grows and more governments and businesses design policies to make better use of low carbon building materials, including timber.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The UK is particularly exposed to global supply and demand we import around 73% of the wood it consumes each year from overseas forests. We remain one of the least forested countries in Europe and although the net area of woodland continues to grow in England, the area of conifer woodland is in decline, with statistics showing the area has dropped from by 14% from 356,000ha in 2007 to 305,000ha in 2024.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A 14% loss of broadleaf woodland would have rightly triggered protest and concern, but the decline in conifer has largely gone unnoticed. While causes of this decline include habitat restoration and restructuring woodlands to meet improved forestry standards, reducing the area and volume of conifer will have impacts on local timber security and carbon stocks.",
+                "tag": "p"
+            },
+            {
+                "content": "Although we will never be self-sufficient in timber supply, we need to make every effort to reduce our footprint on the global forest resource, whilst ensuring domestic food production is not negatively impacted. Conifer woodlands also have a part to play in nature recovery, as illustrated by the recent discovery of a red squirrel population in a Sitka spruce plantation in Yorkshire.6",
+                "tag": "p"
+            },
+            {
+                "content": "3. Planting conifer can strengthen the economy",
+                "tag": "h2"
+            },
+            {
+                "content": "Timber is the ultimate sustainable, carbon negative, waste free, recyclable material \u2013 the exemplar of a circular economy. More conifer woodlands will increase the contribution timber production and processing makes to the economy.",
+                "tag": "p"
+            },
+            {
+                "content": "Meeting market demand and strengthening supply chains",
+                "tag": "h3"
+            },
+            {
+                "content": "The timber properties of conifer are particularly well suited to modern markets and construction techniques. Softwood (produced from conifer) is light, durable and easy to work. Growing large volumes of tall, straight conifer is generally less labour intensive and quicker than growing good quality hardwood (produced from broadleaf).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Most softwood that is harvested in the UK is sold to sawmills whose products often have long service lives, locking up carbon for decades, if not centuries, before being recycled or used to generate heat and power. Softwood that is not suitable for sawmills, perhaps because of size or form, is used by panel board mills, as well as supplying paperboard and energy markets.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With current policy aiming at increasing the number of homes built each year, the demand for softwood products will significantly increase in the short term, which could further benefit UK supply chains and woodland owners economically.",
+                "tag": "p"
+            },
+            {
+                "content": "A growing industry with long-term prospects",
+                "tag": "h3"
+            },
+            {
+                "content": "Softwood timber production has increased steadily since the 1970s, attracting international investment from the likes of Iggesund and Egger, who produce high value paper board and wood panel products from softwood. ",
+                "tag": "p"
+            },
+            {
+                "content": "While giving confidence to domestic companies such as James Jones to invest in new sawmills, supplying products to the construction sector as well as the wood pallet that is an essential part of UK and international trade infrastructure. These companies and the dozens of wood processors like them, are important rural employers and their supply chains sustain thousands of jobs from tree planters to house builders.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know consumers and processors will need to adapt to a wider range of tree species over time, as foresters respond to changing climate and pest and disease pressures. ",
+                "tag": "p"
+            },
+            {
+                "content": "Future timber products might look and feel a little different but these products will perform the same function, and it is likely that well managed softwood timber will remain the bread and butter of the timber processing industry for decades to come.",
+                "tag": "p"
+            },
+            {
+                "content": "How EWCO and financial incentives support conifer woodland",
+                "tag": "h2"
+            },
+            {
+                "content": "Back to the here and now, while we\u2019re seeing large proportions of broadleaf woodlands planted, grants like EWCO pay the same basic rate regardless of species planted. Land managers seeking the nature recovery additional contribution, worth up to \u00a33,300 per ha, can also include up to 20% non-native or naturalised species in the compartments of native woodland they will plant for nature recovery.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This could allow schemes to generate income from timber production and use non-native species in situations as nurse crops (trees planted to protect primary trees during infancy), though land managers need to ensure the management of the nurse component won\u2019t compromise the objective of the grant payments.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Feedback from agents and owners generally suggests that grants are the most generous in recent years. They note that it is sometimes cheaper to buy conifer planting stock than broadleaf species and that establishment costs associated with conifer are often lower than for broadleaf.",
+                "tag": "p"
+            },
+            {
+                "content": "Because of typically faster growth rates, planting conifer often provides some early income from the sale of thinnings. Longer term, the capital value of conifer woodlands can increase as timber volumes grow and there is a healthy market for woodlands containing a significant proportion of conifer.",
+                "tag": "p"
+            },
+            {
+                "content": "Future ambitions for forestry",
+                "tag": "h2"
+            },
+            {
+                "content": "We know that barriers to conifer woodland creation are difficult to deconstruct. Land values and the stacking and bundling of income from government grants, carbon markets and payments for ecosystem services can be complex.",
+                "tag": "p"
+            },
+            {
+                "content": "We don\u2019t yet have the key that will unlock the establishment of larger, timber production focused woodlands that we need to hit net zero, improve our timber security and contribute to economic growth, but we are heading in the right direction.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In an increasingly tight financial situation, we need solutions that don\u2019t increase grant dependency and increase burden to the taxpayer. We also need to find solutions whilst simultaneously encouraging more broadleaf woodland creation, more natural colonisation (trees naturally seed into surrounding open habitat), more agroforestry (the integration of trees into farming systems), more riparian woodland creation (trees planted along watercourses) and the restoration of habitats that were planted up with conifer in times past.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is a tall order and something we look forward to working on with others throughout what I\u2019m sure will be a busy 2025.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All images are Crown copyright with the exception of the red squirrel image which was sourced from Pixabay.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2025/04/03/three-reasons-why-england-needs-more-conifer-planting/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Ian Tubby, Head of Policy and Advice at the Forestry Commission, discusses three key reasons why planting more conifer can have a positive impact on the environment, timber security, and the economy.\u00a0"
+    },
+    {
+        "title": "The digital identity and attribute services register is now in public beta",
+        "authors": [
+            "John Peart"
+        ],
+        "posted_on": "2025-04-03T10:00:00",
+        "categories": [
+            "Digital identity",
+            "Register of digital identity and attribute services"
+        ],
+        "content": [
+            {
+                "content": "The register of digital identity and attribute services is now in public beta. This means it\u2019s easier for businesses and the public to check and find trusted digital identity products across the UK. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Faster and easier",
+                "tag": "h3"
+            },
+            {
+                "content": "The new register will make it:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The start, not the end",
+                "tag": "h3"
+            },
+            {
+                "content": "Being in public beta means the register is ready to operate at scale and it does many of the things we need it to do.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But we\u2019re not done! Up to now we\u2019ve been focused on building a \u2018minimum viable product\u2019. Now we\u2019ll be shifting our focus to rapidly iterate and improve upon what we\u2019ve built, so that it can meet more user needs. For example, we\u2019ll be integrating our new trust mark into the register and we\u2019re looking at ways users can be notified when things on the register change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll also be retiring the old spreadsheet-format list very soon, now that providers have had the opportunity to transfer to this new digital service.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Join the register",
+                "tag": "h3"
+            },
+            {
+                "content": "If you are a service provider who would like to join the new register, we\u2019ve created\u202fguidance on how to join the register of digital identity and attribute services.\u202f \u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Tell us what you think\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We think that this new digital service is an improvement over what we had before but we know there is more to do to make it great. We\u2019d welcome any feedback on what you think we should do to make the register better for you.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2025/04/03/the-digital-identity-and-attribute-services-register-is-now-in-public-beta/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "The register of digital identity and attribute services is now in public beta. This means it\u2019s easier for businesses and the public to check and find trusted digital identity products across the UK. \u00a0\u00a0 Faster and easier The new register \u2026"
+    },
+    {
+        "title": "The Final Countdown: Reflecting on the modernisation journey for courts and tribunals",
+        "authors": [
+            "HMCTS Communications"
+        ],
+        "posted_on": "2025-04-03T09:45:00",
+        "categories": [
+            "Civil",
+            "Court and tribunal reform",
+            "Crime",
+            "Digital services",
+            "Family",
+            "Interviews",
+            "Podcast",
+            "Tribunals",
+            "User experience and research"
+        ],
+        "content": [
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Launched in 2016, the HMCTS Reform Programme reaches its formal conclusion at the end of March 2025. It underpins a quiet revolution which has moved our courts and tribunals from paper to digital, stabilised and secured systems and set us up for the 21st century.",
+                "tag": "p"
+            },
+            {
+                "content": "In this episode, host Aaron Wilson is joined by CEO Nick Goodwin and Operations Director Daniel Flury to reflect on the programme\u2019s impact, key learnings, and what comes next.",
+                "tag": "p"
+            },
+            {
+                "content": "They discuss the challenges of modernising the justice system, the transition to digital services, and the sensitivities surrounding change, including managing the impacts on staff and justice partners.",
+                "tag": "p"
+            },
+            {
+                "content": "This candid yet thoughtful conversation acknowledges and thanks the efforts of all involved and looks ahead to the future of continuous improvement.",
+                "tag": "p"
+            },
+            {
+                "content": "Listen to the latest episode now, available wherever you get your podcasts from!",
+                "tag": "p"
+            },
+            {
+                "content": "Amazon",
+                "tag": "p"
+            },
+            {
+                "content": "Apple",
+                "tag": "p"
+            },
+            {
+                "content": "Buzzsprout",
+                "tag": "p"
+            },
+            {
+                "content": "Spotify",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0transcript of the podcast\u00a0is also available.",
+                "tag": "p"
+            },
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Cafodd Rhaglen Ddiwygio GLlTEF ei lansio yn 2016, a daeth i ben yn ffurfiol ddiwedd mis Mawrth 2025. Mae\u2019n sail i chwyldro tawel sydd wedi symud ein llysoedd a\u2019n tribiwnlysoedd o bapur i ddigidol, mae wedi sefydlogi a sicrhau systemau ac mae wedi ein sefydlu ar gyfer yr 21ain ganrif.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn y bennod hon, bydd y gwesteiwr Aaron Wilson yn ymuno \u00e2\u2019r Prif Swyddog Gweithredol Nick Goodwin a\u2019r Cyfarwyddwr Gweithrediadau Daniel Flury i fyfyrio ar effaith y rhaglen, y gwersi allweddol, a\u2019r hyn a ddaw nesaf.",
+                "tag": "p"
+            },
+            {
+                "content": "Maent yn trafod heriau moderneiddio\u2019r system gyfiawnder, y newid i wasanaethau digidol, a\u2019r sensitifrwydd sy\u2019n gysylltiedig \u00e2 newid, gan gynnwys rheoli\u2019r effeithiau ar staff a phartneriaid cyfiawnder.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r sgwrs onest ond meddylgar hon yn cydnabod ac yn diolch i ymdrechion pawb a gymerodd ran ac yn edrych ymlaen at ddyfodol o welliant parhaus.",
+                "tag": "p"
+            },
+            {
+                "content": "Gwrandewch ar y bennod ddiweddaraf nawr, ar gael o ble bynnag rydych chi'n gwrando ar eich podlediadau!",
+                "tag": "p"
+            },
+            {
+                "content": "Amazon",
+                "tag": "p"
+            },
+            {
+                "content": "Apple",
+                "tag": "p"
+            },
+            {
+                "content": "Buzzsprout",
+                "tag": "p"
+            },
+            {
+                "content": "Spotify",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u00a0trawsgrifiad o'r podlediad\u00a0ar gael hefyd.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2025/04/03/the-final-countdown-reflecting-on-the-modernisation-journey-for-courts-and-tribunals/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "The HMCTS Reform Programme was a once-in-a-lifetime opportunity to transform the way people access and engage with the justice system. In this episode, we reflect on its impacts, the challenges the programme faced along the way, and what the future holds for HMCTS."
+    },
+    {
+        "title": "Sustainability, innovation and recognition",
+        "authors": [
+            "HeatherS"
+        ],
+        "posted_on": "2025-04-03T09:13:40",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Read about an inspiring journey unfolding at the Defence Academy, where the Climate Change and Sustainability Team led by Lucy Dale, has been making significant strides.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: Can you tell us about your current role and responsibilities at the Defence Academy?Lucy: I\u2019m Lucy Dale, and I work at the Defence Academy as the Head of Resources. My responsibilities are wide-ranging, from overseeing our IT systems and financial business management to driving sustainability initiatives.",
+                "tag": "p"
+            },
+            {
+                "content": "One of my key focuses is ensuring we meet our Net Zero targets, which ties directly into improving our estate for both our people and the environment. It\u2019s an incredibly rewarding role, and I absolutely love it.",
+                "tag": "p"
+            },
+            {
+                "content": "Ian: I am the HQ Defence Academy Resources Chief of Staff reporting directly to 1* Head of Resources Lucy Dale.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: Congratulations on your team receiving the Commander\u2019s Commendation award! How did it feel to be recognised?Lucy: It was fantastic to be nominated by an organisation outside the Defence Academy. It\u2019s a powerful acknowledgment of the team\u2019s hard work. What stands out to me is that sustainability isn\u2019t part of the team\u2019s core responsibilities. Over the last few years, people have embraced this space simply because they believe in its importance. Also, collaborating with our on-site contractors Serco and ESS has been incredibly rewarding.",
+                "tag": "p"
+            },
+            {
+                "content": "Seeing the team\u2019s efforts recognised and valued so highly, is truly heartening.",
+                "tag": "p"
+            },
+            {
+                "content": "Ian: Surprised and obviously very honoured. Although I am named as a member of the team, the recognition is reflected across a larger team, including our partners at Shrivenham who have all contributed hugely to our sustainability initiatives.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: It\u2019s inspiring that the team took this on. Is there a strong focus on sustainability at the Defence Academy?Lucy: Absolutely. We often talk about three key drivers.",
+                "tag": "p"
+            },
+            {
+                "content": "First, there\u2019s our moral responsibility as human beings to care for the planet. Second, as Crown Servants, we have a duty to deliver value for money and efficiency across government initiatives. Many of our sustainability ideas align with creating more resilient, cost-effective solutions for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, there\u2019s the Defence perspective, which is sometimes overlooked. Sustainability contributes to enhancing Defence capability. By adopting innovative approaches and adapting to extreme environments, we\u2019re building a more capable and resilient Defence. This concept resonates with people\u2014they see how their efforts contribute to something much larger.",
+                "tag": "p"
+            },
+            {
+                "content": "Ian: There is a strong focus on Climate Change & Sustainability within the Defence Academy, both in terms of physical activity as well as education and personal behaviours.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: Can you share some of the sustainability initiatives launched at the Defence Academy?Lucy: Certainly! One initiative we\u2019re particularly proud of is a scheme similar to the \u2018Boris\u2019 bikes scheme in partnership with Serco. This allows people to cycle around the site instead of relying on cars.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re also undertaking larger projects. For example, our Single Living Accommodation (SLA) block and Medical Centre are being developed to meet Defence Related Environmental Assessment Methodology (DREAM) Excellent standards, aiming for Net Zero buildings. We\u2019re electrifying heating systems to reduce dependence on natural gas, and our small solar farm is already helping to cut electricity consumption from the grid.",
+                "tag": "p"
+            },
+            {
+                "content": "Ian: To expand further, the Shrivenham site currently has 5 double Electric Vehicle Charging Points (EVCP), procured, and installed through private finance donated from the Shrivenham Station Officers Mess. With the facility proving very popular. ",
+                "tag": "p"
+            },
+            {
+                "content": "Another project we brought online was an in-vessel food waste composter within the Shrivenham site. The composter turns food scraps, peelings, left-over food, coffee grounds, compostable packaging and garden waste into very nutrient rich compost, resulting in no food waste leaving the site.",
+                "tag": "p"
+            },
+            {
+                "content": "This was an ESS funded project, supported by Serco and MOD.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: What do you hope will come from the team being awarded?Lucy: My hope is that this recognition inspires others to realise they can make a difference. You don\u2019t need to tackle everything at once. Small, meaningful interventions can capture people\u2019s attention and encourage them to rethink their actions.",
+                "tag": "p"
+            },
+            {
+                "content": "If we can spark that kind of change\u2014where individuals feel empowered to contribute\u2014it will have a massive and lasting impact.",
+                "tag": "p"
+            },
+            {
+                "content": "Ian: It will provide a great spring in the step to continue to press forward with CC&S initiatives.",
+                "tag": "p"
+            },
+            {
+                "content": "Congratulations to Lucy Dale, Lieutenant Colonel Ian Lea and Group Captain Simon Brackstone on your well-deserved Commander\u2019s Commendation.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://stratcommand.blog.gov.uk/2025/04/03/sustainability-innovation-and-recognition/",
+        "blog": "Strategic Command",
+        "blog_link": "https://stratcommand.blog.gov.uk",
+        "description": "Read about an inspiring journey unfolding at the Defence Academy, where the Climate Change and Sustainability Team led by Lucy Dale, has been making significant strides. Interviewer: Can you tell us about your current role and responsibilities at the Defence \u2026"
+    },
+    {
+        "title": "The value of social workers in healthcare",
+        "authors": [
+            "Mark Nicholas"
+        ],
+        "posted_on": "2025-04-03T08:28:06",
+        "categories": [
+            "Care and support",
+            "Communities",
+            "Knowledge and skills",
+            "Recognition",
+            "Society",
+            "Viewpoint"
+        ],
+        "content": [
+            {
+                "content": "When I first qualified as a social worker, career paths were relatively restricted \u2013 received wisdom was that you did a couple of years in children\u2019s social care (preferably child protection) before specialising in either adults (including mental health) or children\u2019s social work. Non statutory social work and independent social work were rare destinations for newly qualified staff and work in any other settings was almost unheard of.",
+                "tag": "p"
+            },
+            {
+                "content": "Things have changed significantly since then: we now have both better recognition of existing settings for social work and new settings opening up. Headteachers I speak to greatly value their school social workers and the work of hospice social workers (as I know personally, from the loss of my father in law earlier this year) is incredibly compassionate and comforting to those at the end of their lives and their families. Some of the most skilled social workers I\u2019ve met are Approved Mental Health Professionals (AMHPs) and now GP practices are increasingly interested in employing their own social workers.",
+                "tag": "p"
+            },
+            {
+                "content": "To me, this represents a broader recognition of the valuable contribution social work can make across society. But what is it about social work that has led to an increase in career paths in these areas? My own career has been spent approximately 1/3 in children\u2019s social work, 1/3 in adult social work and 1/3 in the NHS, so have been keen to reflect on this question. Social work training and practice focus on the importance of working in a person-centred, relational, participatory, strengths-based way that is strongly influenced by principles of social justice. When I first worked in the NHS, these were not phrases I generally heard my clinical colleagues using, but now they have much greater currency in the organisation and I think mean that social workers can bring a valuable diversity of thought, experience, skills and ideas to our besieged, but much loved, healthcare system. In my first social work placement in a hospital team, we were working in the NHS, but seconded from the local authority, which meant we were not considered a core profession in the NHS. ",
+                "tag": "p"
+            },
+            {
+                "content": "Now, there are over 4000 social workers employed directly by the NHS, mainly in mental health, but also in a range of other roles, which makes us a significant part of the NHS workforce. Most of our clinical colleagues have been welcoming of this influx of social workers \u2013 certainly, my own team of medics, nurses, pharmacists, physios, OTs, etc. could not have been more supportive to their lone social worker! \u2013 but healthcare organisations can be slow to recognise the change in workforce composition. For example, there is no universal recognition among healthcare employers that social workers are clinician equivalents and should be treated as such in relation to access to records, training and professional development. ",
+                "tag": "p"
+            },
+            {
+                "content": "In time, I\u2019m sure such problems will be resolved and the recently established NHS Social Work Leaders Network is actively working to do so. This will allow us as professionals to fully apply our diverse mindset and skills to help change the NHS for the better.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialworkwithadults.blog.gov.uk/2025/04/03/the-value-of-social-workers-in-healthcare/",
+        "blog": "Social work with adults",
+        "blog_link": "https://socialworkwithadults.blog.gov.uk",
+        "description": "Sarah McClinton, The Chief Social Worker for Adults: I am delighted to present this blog from Mark Nicholas, Clinical Director, Social Care Lead and National Head of Profession for Social Care Informatics at NHS England. Mark provides invaluable insights into \u2026"
+    },
+    {
         "title": "A talented, capable, and dedicated team member; someone who has truly become a valued asset!",
         "authors": [
             "karlharvey1"
