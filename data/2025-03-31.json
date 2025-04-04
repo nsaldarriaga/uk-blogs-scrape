@@ -1,5 +1,790 @@
 [
     {
+        "title": "How we refreshed the Government Digital Service brand, and what we\u2019re doing differently",
+        "authors": [
+            "Kuba Bartwicki - Head of Design, Products and Services (GDS)"
+        ],
+        "posted_on": "2025-04-04T16:55:45",
+        "categories": [
+            "Design"
+        ],
+        "content": [
+            {
+                "content": "It's been a really busy start to the year in the Government Digital Service (GDS) and in our design team. Just a couple of months ago, we launched the blueprint for modern digital government in an event that included a speech from our Secretary of State, Peter Kyle. The announcement included the news that teams from GDS, the Central Digital and Data Office (CDDO), the Incubator for AI (i.AI) and colleagues from the Geospatial data team and the Responsible Technology Adoption Unit would merge together as the new, strengthened Government Digital Service, within the Department of Science, Innovation and Technology (DSIT).",
+                "tag": "p"
+            },
+            {
+                "content": "Ahead of the announcement, we had to work out what the new visual identity was going to look like. This post is about how we approached designing a logo fit for the new digital centre of government. We are sharing how we approached the work, what the final output looks like, and how we\u2019re using it.",
+                "tag": "p"
+            },
+            {
+                "content": "The new Government Digital Service",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK government has a well-established brand identity system that requires departments to use standardised coats of arms, specific colours and logo formats. This simplifies the overall visual identity for government departments, saving taxpayers\u2019 money and reducing the potential for confusion.",
+                "tag": "p"
+            },
+            {
+                "content": "It was important that the new Government Digital Service logo visibly echoed this identity system, supporting our new connections with DSIT and placing us within the larger structure. However, we also knew that recognition of the brand is high amongst public sector professionals and people who work in digital (both here in the UK and internationally). We were tasked with maintaining this so that we can continue to attract talent, and to retain the positive associations that have been built up with the Government Digital Service over the years. We had to deliver the work quickly, robustly and at no additional cost.",
+                "tag": "p"
+            },
+            {
+                "content": "To meet these objectives, we redesigned our visual identity around three significant changes:",
+                "tag": "p"
+            },
+            {
+                "content": "We believe the outcome works well with the existing government identity system and sits comfortably under and alongside DSIT\u2019s identity. Through retaining the Government Digital Service workmark within the logo, we are able to build on our established reputation, while the visual changes also signal our increased scope, welcome new colleagues in, and create a bold foundation for all of the exciting work we\u2019ve got coming up.",
+                "tag": "p"
+            },
+            {
+                "content": "Using the Tudor crown\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Working to a brief set by Government Chief Product Officer, Chris Bellamy, we explored various names and visual executions before agreeing with our stakeholders to use the recently redesigned Tudor crown instead of the more traditional coat of arms used by DSIT in most contexts (for example in official publications). We worked with the DSIT Digital Communications team to ensure the new treatments were consistent and complimentary with DSIT\u2019s parent brand. And we worked with the Government Communications Service (GCS) to make sure that any treatment supports their work on the overall government identity.",
+                "tag": "p"
+            },
+            {
+                "content": "There are some good reasons for doing this. Firstly, the Tudor crown symbol has very high levels of recognition already, due to its association with GOV.UK, the public-facing website and brand launched in 2012.",
+                "tag": "p"
+            },
+            {
+                "content": "Secondly, in a recent change to the overall government identity system, the Tudor or \u2018digital\u2019 crown now serves as the single identifier for all government departments in smaller-format digital spaces (including social media avatars and mobile notifications), with differentiation provided through setting it against the relevant departmental colour as a background.",
+                "tag": "p"
+            },
+            {
+                "content": "For our new identity we went a step further than this change by integrating the crown symbol into our formal logo, and into the Government Digital Services\u2019s organisation page on GOV.UK too. Doing so creates a connection between our external public-facing and internal civil service identities and pays homage to what the organisation had previously achieved (which remains a source of pride for many) whilst also creating a more approachable, informal and \u2018digital\u2019 impression than the more official and heraldic coat of arms.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A bolder, more flexible brand",
+                "tag": "h2"
+            },
+            {
+                "content": "We knew that our use of colour had to reference the wider DSIT colour palette, so after some design exploration we landed on two main colours: the cyan and the midnight blue. At the same time, we took care to typeset the logo properly and create layouts (\u2018lock-ups\u2019) that work well across a range of contexts. We have a \u2018formal\u2019 version, as well as an acronym version, and a fully spelled-out version.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re used to working with the Tudor crown and with Helvetica Neue, so creating arrangements that work was a familiar and enjoyable challenge. Some of the main places you can see variants of the new logo include our GOV.UK page, our slide deck template, and our social media profiles like this one on LinkedIn.",
+                "tag": "p"
+            },
+            {
+                "content": "We believe that the new Government Digital Service identity is able to stand on its own better than our previous logo was, and also allows us greater flexibility to appear across platforms and contexts, both now and for the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing it into the office",
+                "tag": "h2"
+            },
+            {
+                "content": "The launch event was a great moment to share assets and guidelines on how to use the identity with colleagues, to welcome them into the new Government Digital Service, give them the opportunity to feel part of what was happening, and to make the overall rollout and switchover more consistent and effective. We also took the opportunity to give our workspace a minor \u2018glow-up\u2019, including some refreshed posters showcasing our product line-up framed around the office (available from Github), some tweaks to the on-screen data dashboards that show how people are using our products in real-time, and some impactful vinyl wall decorations in a few judiciously-chosen areas of our office floor.",
+                "tag": "p"
+            },
+            {
+                "content": "In some of our assets, you can see that we deconstructed elements of the Tudor crown and use it in the physical space, as well as on some of our social media and on publication covers. We\u2019re still exploring all the ways we might be able to use this, but we like the flexibility it offers and how clearly it references GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "How did we do this?",
+                "tag": "h2"
+            },
+            {
+                "content": "As is frequently the case, we had to work at pace in a small team of designers, together with trusted colleagues. Overall, we had around 8 weeks before the event to do the work, which included the end-of-year holiday period in the middle. This really tightened the cycle of design, critique, accessibility testing, sign-off and installation, and we were only able to move as fast as we did because we were enabled by great support and backing from our leadership. In developing the creative routes, we found it helped to set out all the possible options - including some we wouldn\u2019t normally recommend - at the outset, in order to be able to move quickly in ruling things out with stakeholders and getting to an agreed shortlist as swiftly as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "Now we\u2019re on the other side of the official launch, we\u2019re able to start iterating the work based on feedback from colleagues who are actually using the materials day-to-day in documents and presentations. We\u2019re making it easy for people to suggest ideas, and regularly get together as a team to respond to them. We\u2019re keen to build on this start and keep developing this new identity in the months ahead.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://designnotes.blog.gov.uk/2025/04/04/how-we-refreshed-the-government-digital-service-brand-and-what-were-doing-differently/",
+        "blog": "Design in government",
+        "blog_link": "https://designnotes.blog.gov.uk",
+        "description": "Find out how designers approached refreshing the Government Digital Service brand. "
+    },
+    {
+        "title": "Latest statement in response to small boat crossings",
+        "authors": [
+            "Home Office news team"
+        ],
+        "posted_on": "2025-04-04T16:00:00",
+        "categories": [
+            "Reactive statements"
+        ],
+        "content": [
+            {
+                "content": "A Home Office spokesperson said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe all want to end dangerous small boat crossings, which threaten lives and undermine our border security.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe people-smuggling gangs do not care if the vulnerable people they exploit live or die, as long as they pay and we will stop at nothing to dismantle their business models and bring them to justice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThat\u2019s why this government has put forward a serious, credible plan to finally restore order to our asylum system, including tougher enforcement powers, ramping up returns to their highest levels for more than half a decade and a major crackdown on illegal working to end the false promise of jobs used by gangs to sell spaces on boats.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0 Background:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "o\u00a0\u00a0 We\u2019ve removed 24,000 failed asylum seekers, foreign criminals to countries across Africa, Asia, Europe and South America \u2013 the highest levels for half a decade.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "o\u00a0\u00a0 enforced returns up 21%.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "o\u00a0\u00a0 illegal working arrests and visits increased by 38%.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "o\u00a0\u00a0 The four biggest returns charter flights in the UK\u2019s history have taken place, with a total of more than 850 people on board.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://homeofficemedia.blog.gov.uk/2025/04/04/latest-statement-in-response-to-small-boat-crossings/",
+        "blog": "Home Office in the media",
+        "blog_link": "https://homeofficemedia.blog.gov.uk",
+        "description": "A Home Office spokesperson said:\u00a0 \u201cWe all want to end dangerous small boat crossings, which threaten lives and undermine our border security.\u00a0 \u201cThe people-smuggling gangs do not care if the vulnerable people they exploit live or die, as long as \u2026"
+    },
+    {
+        "title": "Nature Towns and Cities: Creating Greener Neighbourhoods and Brighter Futures\u00a0",
+        "authors": [
+            "Natural England"
+        ],
+        "posted_on": "2025-04-04T14:43:31",
+        "categories": [
+            "Biodiversity",
+            "Connecting People with Nature",
+            "Development",
+            "Environment Act",
+            "Environmental Improvement Plan",
+            "Green Infrastructure",
+            "Growth",
+            "Local Nature Recovery Strategy (LNRS)",
+            "Mental health and wellbeing",
+            "Natural England",
+            "Nature",
+            "Nature Recovery"
+        ],
+        "content": [
+            {
+                "content": "David Drake, Director, People & Nature at Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "Did you know 47% of people do not currently have access to green space within 15-minutes' walk of home? Nature Towns and Cities aims to transform this reality, enabling millions of people to experience nature as part of their daily lives.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Spending time in nature boosts our mental and physical health, cuts healthcare costs, and drives economic growth\u2014helping our country thrive.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing green spaces into our towns and cities revitalizes communities in multiple ways\u2014creating vibrant social hubs where people connect, attracting valuable investment to boost local economies, and building natural resilience against climate change, one of the greatest threats facing our future prosperity.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Nature Towns and Cities is embedding nature into the heart of local plans and placemaking to create lasting change across the UK, tackling challenges from environmental equity to air pollution. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When nature lives nearer, we all live better\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The programme has united a powerful coalition across public, private and third sectors\u2014established by Natural England, The National Lottery Heritage Fund and the National Trust, with expertise from NatureScot, Natural Resources Wales and the Northern Ireland Environment Agency.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Renewed Neighbourhoods Through Green Infrastructure\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England's role in Nature Towns and Cities\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our Green Infrastructure Framework supports the government\u2019s economic growth priorities by targeting investment where it can deliver the most returns. Green Infrastructure mapping data pinpoints nature-deprived areas with precision, ensuring Green Infrastructure strategies help to bring nature to communities with the greatest need. Our evidence-based standards support the Government's vision that everyone can access quality green space close to home.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're working with towns and cities across the UK to help create ambitious plans that connect city parks, street trees and community gardens into living networks that work for wildlife and people. By linking urban green spaces with wider ecosystems, we're ensuring that nature and people thrive in the urban landscape \u2014transforming towns and cities into healthier, more resilient places for everyone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Transforming the UK\u2019s towns and cities through nature\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re growing a suite of resources, expertise and practical support, providing communities and local authorities with the tools they need for their journey to create greener, more resilient urban spaces.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Nature Towns and Cities gives local government, community organisations, charities and professionals across the UK an opportunity to connect with each other, sharing knowledge and solving collective challenges.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The events calendar covers a wide range of topics, featuring case studies and proven solutions. You can come together with others working towards similar goals in small workshops, peer learning sessions and large conferences. And a resource library offers the chance to build your knowledge and spark new ideas. Case studies provide inspiration showing how others have made change happen, and step-by-step guides give you what you need to get started.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can delve into resources about:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The accreditation scheme launched in England on 1st April and recognises towns and cities where local authorities collaborate with communities and partners to create greener, healthier places. Watch the accreditation criteria launch webinar.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Benefits include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The scheme was co-designed with local authorities, voluntary organisations, independent experts and government agencies. For more information about the Accreditation:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The National Lottery Heritage Fund is providing up to 20 grants between \u00a3250,000 to \u00a31 million across the UK, to provide capacity in local partnerships for developing ambitious place-wide strategies to green urban landscapes. Applications have now closed, and successful grantees will be announced this summer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Register for the Online Conference \u2013 5th June\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Join change-makers from local government, public sector and community organisations for this essential one-day virtual event.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Attend our event on transforming urban landscape through nature. Hear from experienced practitioners, discover what\u2019s working and why and extend your influence through expert keynotes, interactive workshops, and UK case studies. Network with like-minded professionals and be part of this vital conversation to revitalize urban neighbourhoods. Book now.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England is proud to be part of this transformative programme, bringing our mission of 'thriving nature for people and planet' to urban areas nationwide. Together, we can transform our towns and cities into greener, healthier places\u2014improving quality of life and raising living standards for millions.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/04/04/nature-towns-and-cities-creating-greener-neighbourhoods-and-brighter-futures/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "David Drake, Director, People & Nature at Natural England Did you know 47% of people do not currently have access to green space within 15-minutes' walk of home? Nature Towns and Cities aims to transform this reality, enabling millions of \u2026"
+    },
+    {
+        "title": "HSF Moscow Penalty: Key Lessons for Industry\u00a0",
+        "authors": [
+            "OFSI"
+        ],
+        "posted_on": "2025-04-04T14:42:08",
+        "categories": [
+            "OFSI Blog"
+        ],
+        "content": [
+            {
+                "content": "On 20 March 2025, OFSI announced a monetary penalty of \u00a3465,000 against Herbert Smith Freehills CIS LLP (\u201cHSF Moscow\u201d) for breaches of UK financial sanctions on Russia, linked to its illegal invasion of Ukraine.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The penalty relates to six payments made by HSF Moscow, with a collective value of \u00a33,932,392.10, to designated persons subject to an asset freeze. The payments, which took place over a period of seven days as the firm wound down its Russian offices, demonstrated a pattern of failings brought about primarily by inadequate due diligence and sanctions screening, and errors caused by the hasty closure of the HSF Moscow office. HSF London, on behalf of HSF Moscow, voluntarily disclosed the breaches to OFSI, and therefore a 50% reduction has been applied to the final penalty amount.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The HSF Moscow penalty carries a number of important compliance messages for industry - not only the legal sector. Below, we have highlighted three key lessons that businesses can draw from this case:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is essential for firms to understand their exposure to sanctions risks and take appropriate action to address them. Firms operating in higher risk environments, should educate themselves fully on the risks, including by engaging with OFSI\u2019s published guidance, and seeking professional advice on their sanctions obligations where necessary. In particular, parent companies with subsidiaries in areas that pose a heightened sanctions risk (such as offices overseas) should make sure they are providing suitable advice and assurance to their subsidiaries. A prior OFSI penalty against Tracerco in May 2022 also highlighted this risk.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Firms should follow all relevant sanctions screening and due diligence measures they have in place. This applies to everyone in an organisation, regardless of seniority. Whilst OFSI usually considers the existence of appropriate sanctions policies and procedures as a mitigating factor, failure to comply with them is likely to negate the mitigating factor of having them in place. This is unless there was a good reason for not following said measures, and the decision not to follow them was taken at the appropriate level . Further, the HSF Moscow case demonstrates the significant risks that can emerge when payments are made in haste and procedures are not adequately followed by senior figures.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Firms need to carefully consider ownership and control, beyond just whether an entity is directly subject to sanctions. OFSI views failure to properly consider and identify clear ownership more poorly than an incorrect but good faith assessment of control. Firms should therefore take sufficient time and care to properly assess the applicability of sanctions to the specific legal entities they are dealing with. Ownership and control is considered under case factor F within OFSI\u2019s Enforcement and Monetary Penalties guidance, with examples of areas of enquiry OFSI may expect to be undertaken by persons seeking to establish whether an entity is owned or controlled by a designated person.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Further information and guidance on UK financial sanctions can be found on OFSI\u2019s website.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofsi.blog.gov.uk/2025/04/04/hsf-moscow-penalty-key-lessons-for-industry/",
+        "blog": "Office of Financial Sanctions Implementation",
+        "blog_link": "https://ofsi.blog.gov.uk",
+        "description": "On 20 March 2025, OFSI announced a monetary penalty of \u00a3465,000 against Herbert Smith Freehills CIS LLP (\u201cHSF Moscow\u201d) for breaches of UK financial sanctions on Russia, linked to its illegal invasion of Ukraine.\u00a0\u00a0 The penalty relates to six payments \u2026"
+    },
+    {
+        "title": "It's now even easier to add additional parties to applications in our portal",
+        "authors": [
+            "Jonathan Leach, Associate Product Manager, HM Land Registry Customer and Strategy"
+        ],
+        "posted_on": "2025-04-04T14:37:39",
+        "categories": [
+            "Digital services"
+        ],
+        "content": [
+            {
+                "content": "From 31 March, customers are now able to add landlord and tenant details as additional parties to applications via our Digital Registration Service.",
+                "tag": "p"
+            },
+            {
+                "content": "This update builds on last year's work which made it much easier for users to add additional parties to Digital Registration Service applications. All of these improvements were made with the help of conveyancers, legal professionals, and Digital Registration Service users, who continue to provide us with valuable insights and real life scenarios of how they use the service and where further enhancements could be considered to improve their experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "These developments came from users' comments that identified they found it difficult to enter additional parties to applications, such as when a proprietor has died or a guardian is acting. Our research has shown that this results in requisitions because parties are not accounted for in panel 13 of the e-AP1.",
+                "tag": "p"
+            },
+            {
+                "content": "HM Land Registry processes more than 1.5 million applications each year through the Digital Registration Service, launched in 2021. Digital applications are crucial for helping HM Land Registry deliver faster registration services and automating more of our work, which minimises the risk of human error.",
+                "tag": "p"
+            },
+            {
+                "content": "Adding additional parties, landlord and tenants",
+                "tag": "h2"
+            },
+            {
+                "content": "In addition to customers now being able to add landlord and tenant details, they can also select the capacity in which the parties are acting. It is also now possible to add representation, verify the party\u2019s identity when prompted, and provide evidence to support an amendment, removal or addition.",
+                "tag": "p"
+            },
+            {
+                "content": "All this information will populate the appropriate panels of the e-AP1.",
+                "tag": "p"
+            },
+            {
+                "content": "Our changes ensure that names are entered correctly and allow customers to verify that names match across all the documents submitted with an application. Customers will also receive prompts to attach all necessary evidence. These enhancements should result in fewer errors and, consequently, reduce requisitions.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019d like to thank everyone who participated in the user research and testing that helped us develop the second part of this feature.",
+                "tag": "p"
+            },
+            {
+                "content": "Surfacing restrictions, lender restrictions",
+                "tag": "h2"
+            },
+            {
+                "content": "As part of HM Land Registry\u2019s ongoing efforts to prevent avoidable requisitions, we are developing functionality that will help ensure that when applying through the Digital Registration Service, users are alerted if there is a restriction on the title that may affect their application. To further prevent requisitions, customers will also be prompted to upload evidence of compliance with their application \u2013 in the \u2018attach documents\u2019 screen \u2013 if it is necessary.",
+                "tag": "p"
+            },
+            {
+                "content": "We are constantly evaluating the service and trying to enhance it to improve efficiency for both customers and HM Land Registry. Please continue to give feedback and tell us if you are having difficulty using the service in any way.",
+                "tag": "p"
+            },
+            {
+                "content": "Towards the end of February, we also added the ability for users to see where an application may be impacted by a lender\u2019s restriction on the title. You can also stay up to date with the work we are doing to enhance the portal, the Digital Registration Service and Business Gateway by checking our digital services roadmap where we list recent changes, projects we are actively working on and ideas we are exploring for the future.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://hmlandregistry.blog.gov.uk/2025/04/04/its-now-even-easier-to-add-additional-parties-to-applications-in-our-portal/",
+        "blog": "HM Land Registry",
+        "blog_link": "https://hmlandregistry.blog.gov.uk",
+        "description": "After extensive user research, we have updated our Digital Registration Service to make things easier for customers and help reduce requisitions."
+    },
+    {
+        "title": "Barnsley Libraries - Impact of The Libraries Improvement Fund",
+        "authors": [
+            "Stephen Miller, Transformation Officer, Barnsley Libraries"
+        ],
+        "posted_on": "2025-04-04T14:12:07",
+        "categories": [
+            "Case study"
+        ],
+        "content": [
+            {
+                "content": "The Government has announced that public libraries will soon be able to apply for a share of a share of the \u00a35.5 million Libraries Improvement Fund as part of the Government\u2019s commitment to ensure libraries are able to upgrade their physical and digital infrastructure to adapt to changing user needs and can be enjoyed by future generations.",
+                "tag": "p"
+            },
+            {
+                "content": "The Libraries Improvement Fund (LIF) will open for expressions of interest on Tuesday 6 May 2025. Full guidance, including eligibility criteria and details of how to apply can be found on Arts Council England\u2019s website.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To mark the publication of the guidance for Round 4, we\u2019re shining a spotlight on some of the completed projects from earlier rounds starting with Barnsley Libraries who were able to upgrade their libraries with the support of LIF funding.",
+                "tag": "p"
+            },
+            {
+                "content": "Barnsley Libraries",
+                "tag": "p"
+            },
+            {
+                "content": "Barnsley Library @ the Lightbox opened in 2019, a state-of-the-art, 4-storey library at the heart of a \u00a3180M town centre regeneration project. Building on the success of the launch, Barnsley Council committed \u00a31M to refurbish community libraries across the borough.",
+                "tag": "p"
+            },
+            {
+                "content": "Following Covid-19 delays the timing and aims of the Libraries Improvement Fund Round One aligned perfectly with Barnsley Libraries ambition. A successful application for the refurbishment of Dodworth Library enabled the transformation of a tired, inflexible, 1960s library into a bright, modern, flexible space with enlarged children\u2019s area and improved energy efficiency. This project demonstrated perfectly the transformation that could be done with a relatively modest investment.",
+                "tag": "p"
+            },
+            {
+                "content": "When LIF Round Two was announced the Barnsley Libraries Refurbishment Board decided to maximise impact across our libraries by developing an application aimed at boosting the digital infrastructure at all. The successful application enabled the installation of new self-service kiosks and digital noticeboards as well as increasing the amount of ereaders and makerspace equipment for library users.",
+                "tag": "p"
+            },
+            {
+                "content": "For LIF Round Three an application was developed for the refurbishment of Wombwell Children\u2019s Library, Barnsley\u2019s only Carnegie Library still operating as a library. The space was transformed into a local destination for children, families and schools. Features include a sensory story wall, cosy hideaways, bespoke furniture, tiered soft seating and new shelving. All the new additions were installed whilst preserving the historic character of the building.",
+                "tag": "p"
+            },
+            {
+                "content": "Anna Hartley, Barnsley Council Cabinet Spokesperson for Public Health and Communities, said, \u2018We\u2019re really proud of our local libraries in Barnsley, which act as welcoming hubs that connect our communities. Over the past two years, we\u2019ve been hard at work breathing new life into our branches, improving our library spaces so you can enjoy them for many years to come.",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018It is great to see all of Barnsley Libraries\u2019 hard work being recognised with another successful application to the Libraries Improvement Fund. I\u2019m excited to see what\u2019s next for Wombwell Children\u2019s Library thanks to this funding, creating more opportunities for children and young people to fall in love with their local library.\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "Barnsley Libraries has utilised LIF and other funding to refurbish nine community libraries since November 2022. Plans for 2025-2026 are in place for three more libraries. LIF has provided the external impetus to match the councils\u2019 ambitions and demonstrate the impact improved libraries can have on visitor numbers, book borrowing and accessing community and digital services.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dcmslibraries.blog.gov.uk/2025/04/04/barnsley-libraries-impact-of-the-libraries-improvement-fund/",
+        "blog": "DCMS Libraries",
+        "blog_link": "https://dcmslibraries.blog.gov.uk",
+        "description": "The Government has announced that public libraries will soon be able to apply for a share of a share of the \u00a35.5 million Libraries Improvement Fund as part of the Government\u2019s commitment to ensure libraries are able to upgrade their \u2026"
+    },
+    {
+        "title": "Job vacancies April 2025",
+        "authors": [
+            "Government Vets Blog Team"
+        ],
+        "posted_on": "2025-04-04T12:21:39",
+        "categories": [
+            "Government Veterinary Services"
+        ],
+        "content": [
+            {
+                "content": "Here is a list of current veterinary job vacancies in the Civil Service. Click on the links to find out more. You may need to set up a username and password to access the details of each post.",
+                "tag": "p"
+            },
+            {
+                "content": "For job alerts, sign up to\u00a0Civil Service jobs website. Under job roles, select \u201cVeterinary Services\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "You can find experiences from vets who have worked in these organisations, such the\u00a0FSA,\u00a0APHA\u00a0and\u00a0MoD\u00a0as well as others, throughout the\u00a0blog.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://vets.blog.gov.uk/2025/04/04/vacancies/",
+        "blog": "Government Vets",
+        "blog_link": "https://vets.blog.gov.uk",
+        "description": "Here is a list of current veterinary job vacancies in the Civil Service. Click on the links to find out more. You may need to set up a username and password to access the details of each post. For job \u2026"
+    },
+    {
+        "title": "The FSA at 25",
+        "authors": [
+            "Katie Pettifer, Chief Executive"
+        ],
+        "posted_on": "2025-04-04T10:39:27",
+        "categories": [
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "This month marks the 25th anniversary of the FSA and we would like to take this opportunity to thank our partners across the food system for their continuing support and for all they do to uphold trust in food system.",
+                "tag": "p"
+            },
+            {
+                "content": "Protecting consumers, driving high standards in food safety, and ensuring the authenticity of food have been the FSA\u2019s priorities from the start. In the late nineties, a series of scandals including the BSE crisis, had shaken confidence in UK food. This led the government to establish the FSA as an independent food regulator that would put consumers\u2019 interests first. Since then, we\u2019ve worked closely with the food industry to support them in restoring consumer confidence, ensuring everyone has food we can trust.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re proud of the impact that the FSA has had in protecting consumers. Our meat inspectors and official veterinarians inspect a billion animals each year, making sure meat is safe in the UK. With our local authority partners, we inspect and assure around 600,000 food businesses across the country. The green and black food hygiene rating stickers now displayed in restaurant and caf\u00e9 windows, which we introduced in 2010, enable people to make informed decisions when they eat out, and support businesses who are doing the right thing.",
+                "tag": "p"
+            },
+            {
+                "content": "We worked closely with industry to implement Natasha's Law in 2021, groundbreaking legislation to protect people with people with food allergies. These rules provide extra protection for the two million people living with allergies, while providing important clarity for businesses about their responsibilities.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re also supporting innovation in the food industry, making sure that regulation keeps pace with new technology. Precision bred organisms, precision fermentation, and cell cultivated products, like lab grown meat, have the potential to make our food supply healthier and more sustainable. We are building our capability and capacity to regulate these products, so that we support businesses to grow and bring these products safely to market for consumers.",
+                "tag": "p"
+            },
+            {
+                "content": "The food system has changed radically in the last 25 years, and faces more challenges ahead, from climate change to geopolitical events and the food industry will need to adapt to meet these challenges. The FSA must keep evolving the way we regulate too, but we must never forget that our job, first and foremost, is to protect public health and to uphold the interests of consumers. We look forward to working with businesses, regulatory partners and all of our stakeholders to keep ensuring that everyone has food we can trust.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019n 25 mlynedd ers sefydlu\u2019r Asiantaeth Safonau Bwyd (ASB) ac rydym am achub ar y cyfle hwn i ddiolch i\u2019n partneriaid ym mhob rhan o\u2019r system fwyd am eu cefnogaeth barhaus ac am bopeth y maen nhw\u2019n ei wneud i gynnal ymddiriedaeth yn y system fwyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae diogelu defnyddwyr, gosod safonau uchel o ran diogelwch bwyd, a sicrhau dilysrwydd bwyd wedi bod yn flaenoriaethau i\u2019r ASB ers y cychwyn cyntaf. Ddiwedd y nawdegau, digwyddodd sawl sgandal, gan gynnwys yr argyfwng BSE, a danseiliodd hyder mewn bwyd yn y DU. Yn sgil hyn, aeth y llywodraeth ati i sefydlu\u2019r ASB i fod yn rheoleiddiwr bwyd annibynnol a fyddai\u2019n rhoi buddiannau defnyddwyr yn gyntaf. Ers hynny, rydym wedi gweithio\u2019n agos gyda\u2019r diwydiant bwyd i\u2019w gefnogi i feithrin hyder defnyddwyr, gan sicrhau bod gan bob un ohonom fwyd y gallwn ymddiried ynddo.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym yn falch o\u2019r effaith y mae\u2019r ASB wedi\u2019i chael wrth ddiogelu defnyddwyr. Mae ein harolygwyr cig a\u2019n milfeddygon swyddogol yn archwilio biliwn o anifeiliaid bob blwyddyn, gan sicrhau bod cig yn ddiogel yn y DU. Gyda\u2019n partneriaid yn yr awdurdodau lleol, rydym yn arolygu tua 600,000 o fusnesau bwyd ledled y DU ac yn darparu sicrwydd yn eu cylch. Yn 2010, gwnaethom gyflwyno\u2019r sticeri sg\u00f4r hylendid bwyd gwyrdd a du sydd bellach i\u2019w gweld mewn ffenestri bwytai a chaffis. Mae\u2019r sticeri hyn yn galluogi pobl i wneud penderfyniadau gwybodus pan fyddant yn bwyta allan, ac i gefnogi busnesau sy\u2019n gwneud y peth iawn.",
+                "tag": "p"
+            },
+            {
+                "content": "Gwnaethom weithio'n agos gyda\u2019r diwydiant i weithredu Cyfraith Natasha yn 2021, sef deddfwriaeth arloesol i ddiogelu pobl ag alergeddau bwyd. Mae\u2019r rheolau hyn yn rhoi diogelwch ychwanegol i\u2019r ddwy filiwn o bobl sy\u2019n byw ag alergeddau, ac, ar yr un pryd, yn cynnig eglurder hollbwysig i fusnesau am eu cyfrifoldebau.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym hefyd yn cefnogi arloesedd yn y diwydiant bwyd, gan wneud yn si\u0175r bod rheoleiddio yn gyson \u00e2 thechnoleg newydd. Mae potensial i organebau wedi\u2019u bridio\u2019n fanwl, eplesu manwl, a chynhyrchion a wneir drwy feithrin celloedd, fel cig a dyfir mewn labordy, wneud ein cyflenwad bwyd yn iachach ac yn fwy cynaliadwy. Rydym yn meithrin ein gallu i reoleiddio\u2019r cynhyrchion hyn, fel ein bod yn cefnogi busnesau i dyfu ac i ddod \u00e2\u2019r cynhyrchion hyn i\u2019r farchnad yn ddiogel i ddefnyddwyr.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r system fwyd wedi newid yn sylweddol yn ystod y 25 mlynedd diwethaf, ac mae\u2019n wynebu mwy o heriau yn y dyfodol, o newid yn yr hinsawdd i ddigwyddiadau geowleidyddol, a bydd angen i\u2019r diwydiant bwyd addasu i ateb yr heriau hyn. Rhaid i ni yn yr ASB barhau i ddatblygu ein dull o reoleiddio hefyd, ond ni ddylem byth anghofio mai ein gwaith ni, yn anad dim, yw diogelu iechyd y cyhoedd a hybu buddiannau defnyddwyr. Edrychwn ymlaen at weithio gyda busnesau, partneriaid rheoleiddio a\u2019n holl randdeiliaid eraill i barhau i sicrhau bod gan bob un ohonom fwyd y gallwn ymddiried ynddo.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2025/04/04/the-fsa-at-25/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Cymraeg This month marks the 25th anniversary of the FSA and we would like to take this opportunity to thank our partners across the food system for their continuing support and for all they do to uphold trust in food \u2026"
+    },
+    {
+        "title": "Top tips for hosting accessible and inclusive online events",
+        "authors": [
+            "Samantha Merrett, Senior Accessibility Specialist, Ministry of Justice"
+        ],
+        "posted_on": "2025-04-04T10:00:30",
+        "categories": [
+            "Accessibility",
+            "Accessibility tips",
+            "Events"
+        ],
+        "content": [
+            {
+                "content": "As we approach Global Accessibility Awareness Day (GAAD) on Thursday 15th May 2025, you may be considering hosting meetings and webinars to mark the occasion. However, in today's diverse and inclusive society, it is crucial to ensure that meetings, events, and conferences are accessible to everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "Accessibility fosters inclusivity, allowing all participants to engage fully, regardless of their abilities. In this post we share some top tips on how you can plan, design and host accessible and inclusive online meetings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "1. Planning and preparation",
+                "tag": "h2"
+            },
+            {
+                "content": "Understand your audience: Before planning your event, take the time to understand the needs of your audience. Send pre-event surveys to gather information about accessibility requirements.",
+                "tag": "p"
+            },
+            {
+                "content": "Create accessible agendas: Create meeting agendas with multiple breaks and be mindful of break times. For some participants a 10-minute break time might not be enough time to take adequate rest.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Record and share sessions: Ensure all meetings are recorded and made available afterward, allowing attendees to catch up on missed content and review sections at their own pace.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Evaluate platform accessibility: Consider the accessibility features of the platform that you intend to use, and make sure all participants are familiar with the tool. It\u2019s helpful to review these features at the start of the session so everyone knows what\u2019s available .",
+                "tag": "p"
+            },
+            {
+                "content": "Test all accessibility features before a live webinar: Check that the captions work, that screen readers can properly read the slides and that all interactive features (for example, polls, chat, and navigation) are fully accessible using just the keyboard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Offer alternative dial-in options: Make sure you provide an alternative dial-in method, such as a phone number, for participants with no computer or internet access. This also provides a backup option for those with poor connectivity.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Communication and promotion",
+                "tag": "h2"
+            },
+            {
+                "content": "Clear communication: Provide clear,detailed, and easy-to-understand information about the event, including its accessibility features. Use simple language and avoid jargon.",
+                "tag": "p"
+            },
+            {
+                "content": "Accessible materials: Ensure all promotional materials and event resources are accessible to all participants. Remember to check for appropriate colour contrast and check that font and text size is appropriate for use.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Multiple formats: Offer information in various formats, such as braille, large print, and audio, to meet different needs.",
+                "tag": "p"
+            },
+            {
+                "content": "Event details: Make sure your event invitations and pre-event communications include information about the venue (if applicable), agenda, timings and any required resources. Share this information as early as possible to allow participants to plan accordingly. Also, provide advanced notice of any group work or exercises.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. During the event",
+                "tag": "h2"
+            },
+            {
+                "content": "Sign language interpretation: If possible, provide sign language interpreters for participants who are deaf or hard of hearing, ensuring they are visible to the audience.",
+                "tag": "p"
+            },
+            {
+                "content": "Clear presentation setup: If you are presenting, make sure you have clear lighting on your face and you have a headset so you can be heard clearly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Live captioning: Provide live captioning for all spoken content. This benefits not only those with hearing impairments but also non-native speakers and those in noisy environments.",
+                "tag": "p"
+            },
+            {
+                "content": "Monitor feedback: Keep an eye on the chat for accessibility-related issues and be responsive to requests for assistance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Post-event follow-up",
+                "tag": "h2"
+            },
+            {
+                "content": "Feedback: Gather feedback from participants on the event\u2019s accessibility to help\u00a0 improve future events. It\u2019s also a good idea to follow up with participants who requested accommodations to ensure their needs were met, providing another opportunity to gather feedback to improve future meetings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recordings and transcripts: Provide recordings and transcripts of the event for those who could not attend or need to review the content.",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "Hosting accessible meetings, events, and conferences is essential for fostering an inclusive environment. By considering the needs of all participants and implementing these best practices, you can ensure that everyone has the opportunity to engage fully and meaningfully. Remember, accessibility benefits everyone and is an important step towards a more inclusive and equitable world.",
+                "tag": "p"
+            },
+            {
+                "content": "Any images in this blog post are courtesy of GDS.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://accessibility.blog.gov.uk/2025/04/04/top-tips-for-hosting-accessible-and-inclusive-online-events/",
+        "blog": "Accessibility in government",
+        "blog_link": "https://accessibility.blog.gov.uk",
+        "description": "As we start thinking about Global Accessibility Awareness Day (GAAD) 2025, here are some tips for hosting accessible online events. "
+    },
+    {
+        "title": "Very common tools: what we\u2019ve learnt whilst improving SharePoint",
+        "authors": [
+            "Dominic Berry, Senior User Researcher, Common Tools as a Service team"
+        ],
+        "posted_on": "2025-04-04T09:46:18",
+        "categories": [
+            "Common tools"
+        ],
+        "content": [
+            {
+                "content": "The Common Tools as a Service (CTaaS) team is responsible for building standardised, reliable and reusable tools and platforms for everyone in MHCLG. We help teams to be more efficient, deliver quickly and reduce operational costs. In this post, we share what we're doing to make MHCLG SharePoint pages easier to navigate and more accessible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Making SharePoint work for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Most people reading this will have had to access and navigate a SharePoint site at some point in their working life, because it is widely used in the public sector. But for those who haven\u2019t, SharePoint is similar to Dropbox and Google Drive, except you can also use it to create web pages around your files. This is why it can function in ways similar to Wikipedia, while also being a folder system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "SharePoint has become ubiquitous, but our experiences with it vary wildly, from the frustrating and labyrinthine to the intuitive and slick. This is where user researchers and content designers can make a difference. We are sharing our findings because we think they can be useful for anyone responsible for a SharePoint. If you can take command of your filing and informational resources, you can not only make them more accessible and usable, but you can also change the ways people think about the services available to them. Doing so is a key part of CTaaS\u2019s agenda, and it advances MHCLG\u2019s Digital Strategy by enhancing our operational excellence.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The problems\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In their work creating guidelines for MHCLG SharePoint sites, our department\u2019s content design team had already identified some key problems, including:\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As for our specific project, the primary feedback from users had been that information was difficult to find among the few hundred pages which made up the content we were looking at.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In addition to user feedback, we had access to SharePoint analytics. This is a fairly limited tool; the most useful metric was number of page views. From that, we could get an idea of the most popular pages, though it was not easy to know if this was because the content was useful and easy to navigate, or because they had become necessary passage points to complete a task.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The limitations of these analytics meant that while it was harder to differentiate the important pages from the middling ones, it was at least always clear that if a page had a high number of views, it had probably earnt them, especially if it was somewhat buried. In the context of SharePoint, \u2018buried\u2019 can mean:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we learnt\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Most users preferred to scroll and click around SharePoint rather than search. We can only speculate as to why, but it seems likely that by clicking around, users expect to learn more about the site and therefore improve their chances of finding other things in the future. Meanwhile, searching (a behaviour adopted by a minority) was more efficient than scrolling and clicking around, as was using the site\u2019s A to Z library. There were times, though, where searching was less effective, such as when searching for words that can have a wide variety of meanings.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also learnt that users saw the site as providing two fundamentally distinct kinds of information \u2013 one set to do with MHCLG business processes, and the other set to do with their own professional learning and development. In its current form, the SharePoint does already have a page for learning, but it does not stand out as distinct from the rest of the site.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In general, a suboptimal arrangement of the content on the site led to friction in user experience, something that was particularly clear when looking at page names and trying to distinguish one from the other. In many cases, users would have expected to click around through a list of possibly relevant pages, even when searching, to find the one they needed.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our recommendations\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Assess the content and define its key \u2018kinds\u2019\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "First, assess the content on your site and see if any obvious \u2018kinds of content\u2019 emerge, beyond simply the categories originally implemented. We found 3 distinct kinds of content:\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As you can see, this reflects what users told us about there being two kinds of pages, as explained earlier in this post. It also recognises that some of the content on SharePoint is significant because it is in a different format, such as a downloadable template.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you are refreshing SharePoint pages, ask yourself \u2018What kind of content is this?\u2019 before considering what improvements to make.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Assign a distinctive format to each kind of content, and then stick to it\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Once we knew the kinds of content that we were working with, we could make more specific recommendations about the best ways to format each.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When creating pages to describe specific departmental processes, we recommended:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When creating resource materials, we recommended:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When creating learning and development materials, we recommended:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We of course made many more recommendations, which we cannot include in this blog post without it becoming much too long! If you have worked on improving SharePoint pages in your department, feel free to get in touch, as we\u2019re keen to share learnings with others doing similar work in government.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As part of our work in Common Tools as a Service, we are currently developing a number of live services, which are at different stages of development. We are looking forward to sharing more insights from each of these projects in the near future.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/04/04/very-common-tools-what-weve-learnt-whilst-improving-sharepoint/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "The Common Tools as a Service team is responsible for building standardised, reliable and reusable tools and platforms for everyone in MHCLG. They help teams to be more efficient, deliver quickly and reduce operational costs. In this post, they share what they're doing to make SharePoint pages easier to navigate and more accessible.\u00a0"
+    },
+    {
         "title": "Driving business and investor insight across our work",
         "authors": [
             "Dr Karen Croxson"
