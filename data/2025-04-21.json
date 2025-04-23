@@ -1,5 +1,414 @@
 [
     {
+        "title": "Introduction to User Research \u2013 now available on FutureLearn",
+        "authors": [
+            "Thomas Beautyman, Deputy Director Government Digital Capability, CDDO"
+        ],
+        "posted_on": "2025-04-23T16:14:33",
+        "categories": [
+            "Cross-government strategy",
+            "Data",
+            "Digital learning and development",
+            "Digital strategy",
+            "Digital transformation",
+            "Government Digital and Data"
+        ],
+        "content": [
+            {
+                "content": "Ever wondered what user researchers do? Curious about why we do it in government? Here\u2019s your chance to learn more!",
+                "tag": "p"
+            },
+            {
+                "content": "Created in collaboration with user research colleagues from across government, the Government Digital Service (GDS) is\u00a0 thrilled to announce that our new Introduction to User Research course is now live!",
+                "tag": "p"
+            },
+            {
+                "content": "This course is the latest instalment in our \u201cIntroduction to\u201d series. As outlined in the blueprint for modern digital government, there is a need for investment in talent and opportunities for learning, development and upskilling. GDS is at the forefront of providing these opportunities so that we can contribute to the government\u2019s goal of doubling the size of the Government Digital and Data profession and equipping civil servants with the skills and knowledge they need to work effectively in a modern digital government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who is the course for?",
+                "tag": "h3"
+            },
+            {
+                "content": "Whether you work as a user researcher already and would like to develop some skills, are simply curious about the field, or are maybe even considering a government user research career, this course is for you!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What will you learn?",
+                "tag": "h3"
+            },
+            {
+                "content": "On this three-week, self-led, introductory course, you will learn the basics:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This course is free to access and open to everyone! It is structured over three weeks with a recommended learning time of three hours per week, but it is self-directed and you can learn at your own pace. You can join and start learning at any time.",
+                "tag": "p"
+            },
+            {
+                "content": "Why user research?",
+                "tag": "h3"
+            },
+            {
+                "content": "Before 2020, GDS Academy launched and ran a two-day classroom version of the Introduction to User Research in Government course. The course was designed to equip new researchers and career changers with essential user research skills and clarify how user research works in government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This was paused in 2020 due to COVID-19, so GDS created a version that could be delivered remotely. A cross-government facilitator group now runs the course both online and in person.",
+                "tag": "p"
+            },
+            {
+                "content": "Following the success of our other FutureLearn courses (Introduction to Content Design and Introduction to Product Management), we decided to adapt this content into a course we could share across government and with the wider public.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also collaborated with colleagues on the Digital Fast Stream who were in need of a tailored learning package introducing learners to user research in government. This provided us with the opportunity to meet an internal need for learning while also promoting user research as a discipline more widely.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How does it work?",
+                "tag": "h3"
+            },
+            {
+                "content": "The topics covered in the course will also be useful for anyone who would like to:",
+                "tag": "p"
+            },
+            {
+                "content": "This is an awareness level course. It is aimed at people who are new to user research or for those who have some knowledge but would like to learn more about user research in government.",
+                "tag": "p"
+            },
+            {
+                "content": "The course content was produced by a cross-government team of user researchers from the Ministry for Housing, Communities and Local Government, NHS England, the Department for Environment, Farming and Rural affairs, Government Property Agency, HM Revenue and Customs and the Centre for Digital Public Services, adapting material from existing training and other sources, such as the Government Digital and Data user researcher pages on GOV.UK",
+                "tag": "p"
+            },
+            {
+                "content": "You will learn through a mix of reading, completing tasks and watching educational videos produced by user researchers working in government. You can keep track of your progress by taking quizzes and end-of-week tests, and by completing the learner tasks throughout the course.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The course is free to access, but for an optional fee you can gain permanent access to the course material, get a chance to take the course assessments, and receive a signed certificate of completion at the end of the course as a record of your learning.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Social learning",
+                "tag": "h3"
+            },
+            {
+                "content": "FutureLearn is a social learning platform and interaction between learners is fundamental to the experience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On every step of the course, you will have the opportunity to chat to other learners about the subjects and activities covered. You can comment as much or as little as you would like, but we encourage you to join in and learn collaboratively.",
+                "tag": "p"
+            },
+            {
+                "content": "Register on FutureLearn now \u2013 the course is now permanently live! You can join the course at any time and learn at your own pace each week.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "p"
+            },
+            {
+                "content": "Keep an eye out for our upcoming courses on more digital and data roles, including Business Analyst, Delivery Manager and Service Designer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any queries or would like to collaborate with the team on our next courses, you can contact the Learning Design team by emailing thomas.munley@digital.cabinet-office.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cddo.blog.gov.uk/2025/04/23/introduction-to-user-research-now-available-on-futurelearn/",
+        "blog": "Government Digital and Data",
+        "blog_link": "https://cddo.blog.gov.uk",
+        "description": "Our new, free to access Introduction to User Research course is now available on FutureLearn! Read on to find out how you can join. "
+    },
+    {
+        "title": "Exploring approaches for using GOV.UK One Login in local government: join our discovery\u00a0",
+        "authors": [
+            "The Local Digital team"
+        ],
+        "posted_on": "2025-04-23T14:41:14",
+        "categories": [
+            "Local Digital"
+        ],
+        "content": [
+            {
+                "content": "The way service users access public services is changing. At the heart of this transformation is GOV.UK One Login, which is a secure, unified way for people to sign in to government services. It\u2019s currently being rolled out across central government in England, and now the Local Digital team is exploring how GOV.UK One Login could benefit local government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know that councils face challenges with identity checks and authentication. Users need easy, seamless access to services, and councils need efficient, secure and cost-effective solutions. To address these needs, we\u2019re launching a discovery phase to understand how GOV.UK One Login could help councils.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why One Login matters\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Local government plays a significant role in the public\u2019s lives, delivering essential services from housing support to waste collection. For many councils, the current authentication landscape is fragmented, with multiple logins across different services. This can be frustrating for users, and costly for councils.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By adopting centrally developed and tested components like One Login, councils could benefit from:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the discovery will explore\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "One Login has been designed with a focus on central government delivering transactional services. We don\u2019t assume One Login is the right fit for every council service \u2013 our discovery aims to find out:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the next 10 weeks, we would like to work with councils and software suppliers to explore:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s about ensuring any solution meets the needs of councils and their residents. For some councils, adopting a new authentication system might feel daunting, so the discovery phase will concentrate on identifying options that are realistic, valuable and practical.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A gateway to future possibilities\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "One Login can be a gateway to a more cohesive user experience. With the upcoming integration of the GOV.UK Wallet and the GOV.UK App, the public will soon be able to store, access and securely share government documents digitally \u2013 from driving licences to blue badges, and other essential paperwork.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One Login could simplify authentication and act as a foundation for seamless, secure access to government services where identity and eligibility need to be verified. This will help to reduce the administrative burden for both councils and residents.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to get involved\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We want to hear from local government and software suppliers who are interested in shaping this work. Whether you\u2019re keen to explore One Login or have concerns about its feasibility, your insights will be crucial. We\u2019re committed to working with councils to understand what\u2019s needed, and establish clear pathways for adoption.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019d like to be involved or simply stay updated, let us know by completing this form by Friday 16 May.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about our work",
+                "tag": "h2"
+            },
+            {
+                "content": "Follow our channels for the latest updates and opportunities:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/04/23/exploring-approaches-for-using-gov-uk-one-login-in-local-government-join-our-discovery/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "The way citizens access public services is evolving, and GOV.UK One Login, a secure and unified sign-in system, is central to this transformation. The Local Digital team is launching a discovery phase to understand how One Login could benefit local government by addressing challenges in identity checks and authentication. Learn more and find out how to get involved. "
+    },
+    {
+        "title": "Meet the Modern Civil Service, Amritpal Chahal, Apprentice Software Developer - Ministry of Justice",
+        "authors": [
+            "Government Reform"
+        ],
+        "posted_on": "2025-04-23T11:51:48",
+        "categories": [
+            "A Modern Civil Service",
+            "Capability",
+            "Digital and data",
+            "Government Reform",
+            "Innovation",
+            "Interview",
+            "Proud Civil Servant",
+            "Skilled Civil Service"
+        ],
+        "content": [
+            {
+                "content": "About TechTrack: Developing digital and data leaders",
+                "tag": "h2"
+            },
+            {
+                "content": "TechTrack is the government\u2019s flagship apprenticeship programme for attracting and retraining talented individuals for digital and data leadership roles, and it has a key role in the Prime Minister\u2019s plan to reshape government services. TechTrack, part of the Government Digital and Data community, sits at the heart of the digital centre of government and is part of the Department of Science, Innovation and Technology.",
+                "tag": "p"
+            },
+            {
+                "content": "The Modern Civil Service caught up with Amrit Chahal, an Apprentice Software Developer at the Ministry of Justice (MoJ), Amrit is one of the very first TechTrack apprentices. In this interview, we talk to him about his motivations, the TechTrack selection process, his experience of the apprenticeship \u2018bootcamp\u2019 training phase and Amrit\u2019s views on a modern digital government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does a Modern Civil Service mean to you?",
+                "tag": "h3"
+            },
+            {
+                "content": "To me, a Modern Civil Service is one that is efficient, inclusive and delivers in the best interest of the public. A service that keeps up with the ever-changing digital landscape.",
+                "tag": "p"
+            },
+            {
+                "content": "Tell us about TechTrack",
+                "tag": "h3"
+            },
+            {
+                "content": "TechTrack is a new type of apprenticeship that looks for new talent as well as existing civil servants who may be in established careers and in other fields. It aims to combine digital training with leadership elements to help drive an influx of tech leaders in government. Think of a digital version of the Civil Service Fast Stream!",
+                "tag": "p"
+            },
+            {
+                "content": "I applied for TechTrack as I am someone who has always been fascinated by technology. I was inspired by the opportunity to contribute to projects that make a difference to the public.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Being able to apply your learning immediately in the workplace is invaluable. There is a huge focus on support with the training providers, fostering a culture that enjoys sharing knowledge and continuous development.",
+                "tag": "p"
+            },
+            {
+                "content": "Could you share your experience about the TechTrack selection process?",
+                "tag": "h3"
+            },
+            {
+                "content": "The process started with assessing an individual\u2019s learning aptitude, followed by a technical test. Then there were self-assessments, scenario based questions and formal interviews. I also had to present in one of the interviews.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I found the interview questions to be the most challenging part. I think the process really identifies those with the personality, enthusiasm, ability to learn and leadership qualities needed to thrive in the role.",
+                "tag": "p"
+            },
+            {
+                "content": "The government's blueprint for a modern digital government emphasises creating services that \u2018do the hard work for citizens\u2019. How does this user-centered philosophy influence your approach to software development?",
+                "tag": "h3"
+            },
+            {
+                "content": "You can read about the blueprint for a modern digital government on GOV.UK. Users are at the heart of all the work we do. As a developer, my aim will be to make digital services easy to use and accessible. This requires frequent testing and changes based on user feedback. The goal is that our services work well and are available to everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "How do you see technologies like AI transforming public services, and what role do you hope to play in that transformation?",
+                "tag": "h3"
+            },
+            {
+                "content": "I see AI making public services more efficient and personalised. It can help with repetitive tasks and automate lengthy processes such as document reviews. I also see it providing faster and more personalised responses to citizens\u2019 queries.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I want to ensure that AI is used ethically, and that human oversight, transparency and fairness remains central to our work. I hope to play a key role in making public services more efficient, as well as enhancing trust in the services.",
+                "tag": "p"
+            },
+            {
+                "content": "What's been your proudest achievement or contribution since joining the TechTrack programme?",
+                "tag": "h3"
+            },
+            {
+                "content": "Having the opportunity to ask the Prime Minister a question about the digital transformation of government with apprenticeships! Seven other TechTrack apprentices and I attended a hackathon at Downing Street earlier that same week. You can read about this on LinkedIn.",
+                "tag": "p"
+            },
+            {
+                "content": "TechTrack is central to building a Modern Civil Service fit for the digital age. How does it feel to be at the forefront of this transformation?",
+                "tag": "h3"
+            },
+            {
+                "content": "I am incredibly excited and grateful to be a part of this transformation. I think a modern Civil Service is one that is agile, digital, data-driven and focused on the public\u2019s needs. I appreciate the responsibility that comes with this opportunity and believe a modern Civil Service must be digital-first and inclusive - ensuring services are accessible to everyone, regardless of their level of digital literacy.",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, what's something you've learned about digital public service delivery that you wish more people understood?",
+                "tag": "h3"
+            },
+            {
+                "content": "More than just using new technology, it\u2019s about a cultural change to embrace new ways of working. That means ensuring people are supported to try out new things and experiment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I think it\u2019s important to remember that digital services will continuously be changing, based on user feedback. This user experience is at the heart of the work we do - it is all about making life easier for people.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are a department lead and would like to know more about hiring a TechTrack apprentice, you can register to attend a special\u00a0\u2018GDS talks TechTrack session\u2019\u00a0and also contact the providers directly for\u00a0Software Developer roles, or visit the\u00a0Business Analyst page. For any questions you can contact the\u00a0TechTrack team.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://moderncivilservice.blog.gov.uk/2025/04/23/meet-the-modern-civil-service-amritpal-chahal-apprentice-software-developer-ministry-of-justice/",
+        "blog": "A Modern Civil Service",
+        "blog_link": "https://moderncivilservice.blog.gov.uk",
+        "description": "The Modern Civil Service caught up with Amrit Chahal, one of the very first TechTrack apprentices. In this interview, we talk to him about his motivations, the TechTrack selection process and Amrit\u2019s views on a modern digital government.\u00a0"
+    },
+    {
+        "title": "Good food hygiene is good business",
+        "authors": [
+            "Katie Pettifer, Chief Executive"
+        ],
+        "posted_on": "2025-04-23T10:52:48",
+        "categories": [
+            "Business guidance",
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "At the FSA one of our guiding principles is making it easier for businesses to do the right thing. Today we're launching a campaign designed to help food businesses improve their hygiene standards through better use of FSA guidance and resources.",
+                "tag": "p"
+            },
+            {
+                "content": "Good hygiene isn't just about compliance\u2014it directly affects business success. Our research shows that food hygiene standards matter significantly to customers: 64% of customers consider cleanliness when choosing where to eat, while 82% would avoid restaurants or takeaways with a hygiene rating of two or below.",
+                "tag": "p"
+            },
+            {
+                "content": "But we know many small and micro-businesses are missing out on the latest guidance that could help them protect their customers and ensure they meet their legal obligations to keep food safe.",
+                "tag": "p"
+            },
+            {
+                "content": "Many small businesses, for example, are unaware of the new allergy information requirements and only 6% of these businesses subscribe to FSA news and food alerts. This means they may miss information about products to be cleared from the shelves during a food safety incident.",
+                "tag": "p"
+            },
+            {
+                "content": "To help address this gap, we\u2019re launching a refreshed FSA business website hub. This hub will allow food businesses to have quick and free access to the resources they need to run their businesses safely. It includes expanded free training resources and improved guidance materials, covering critical areas like allergen management and food incident response.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These tools are completely free to access and use. Our aim is simple: to make it easier for businesses to do the right thing. By engaging with these resources, we want to help business better protect customers, maintain public trust in the food industry, and stay compliant with the latest regulations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To support and promote this campaign we\u2019re working with trusted partners from across the food sector including food businesses and industry representatives to share the message with colleagues, employees and their wider networks. By working together, we can ensure businesses continue to thrive while keeping their customers safe.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Yn yr ASB, un o\u2019n hegwyddorion arweiniol yw ei gwneud yn haws i fusnesau wneud y peth iawn. Heddiw, rydym yn lansio ymgyrch sydd wedi\u2019i gynllunio i helpu busnesau bwyd i wella eu safonau hylendid, a hynny trwy ddefnyddio canllawiau ac adnoddau\u2019r ASB yn well.",
+                "tag": "p"
+            },
+            {
+                "content": "Nid yw hylendid da yn ymwneud \u00e2 chydymffurfio\u2019n unig\u2014mae\u2019n effeithio\u2019n uniongyrchol ar lwyddiant busnes. Mae ein hymchwil yn dangos bod safonau hylendid bwyd yn bwysig iawn i gwsmeriaid: mae 64% o gwsmeriaid yn ystyried glendid wrth ddewis ble i fwyta, a byddai 82% yn osgoi bwytai neu siopau tecaw\u00ea sydd \u00e2 sg\u00f4r hylendid o ddau neu lai.",
+                "tag": "p"
+            },
+            {
+                "content": "Ond rydym yn gwybod bod llawer o fusnesau bach a micro yn colli allan ar y canllawiau diweddaraf a allai eu helpu i ddiogelu eu cwsmeriaid a sicrhau eu bod yn bodloni eu rhwymedigaethau cyfreithiol i gadw bwyd yn ddiogel.",
+                "tag": "p"
+            },
+            {
+                "content": "Er enghraifft, nid yw llawer o fusnesau bach yn ymwybodol o\u2019r gofynion newydd o ran gwybodaeth am alergeddau, a dim ond 6% o\u2019r busnesau hyn sy\u2019n tanysgrifio i hysbysiadau newyddion a rhybuddion bwyd yr ASB. Mae hyn yn golygu y gallent golli gwybodaeth am gynhyrchion i\u2019w tynnu oddi ar y silffoedd yn ystod digwyddiad diogelwch bwyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Er mwyn helpu i fynd i\u2019r afael \u00e2\u2019r bwlch hwn, rydym yn lansio hyb newydd i fusnesau ar wefan yr ASB. Bydd yr hyb hwn yn galluogi busnesau bwyd i gael mynediad cyflym at yr adnoddau sydd eu hangen arnynt i redeg eu busnesau\u2019n ddiogel, a hynny\u2019n rhad ac am ddim. Mae\u2019n cynnwys mwy o adnoddau hyfforddi rhad ac am ddim a chanllawiau sydd wedi\u2019u gwella; mae\u2019r rhain yn cwmpasu meysydd hanfodol fel rheoli alergenau ac ymateb i ddigwyddiadau bwyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Gellir cael at yr adnoddau hyn a\u2019u defnyddio\u2019n rhad ac am ddim. Mae ein nod yn syml: hynny yw, ei gwneud yn haws i fusnesau wneud y peth iawn. Gall manteisio ar yr adnoddau hyn helpu busnesau i ddiogelu cwsmeriaid yn well, cynnal ymddiriedaeth y cyhoedd yn y diwydiant bwyd, yn ogystal \u00e2 pharhau i gydymffurfio \u00e2\u2019r rheoliadau diweddaraf.",
+                "tag": "p"
+            },
+            {
+                "content": "I gefnogi a hyrwyddo\u2019r ymgyrch hwn, rydym yn gweithio gyda phartneriaid dibynadwy o bob rhan o\u2019r sector bwyd, gan gynnwys busnesau bwyd a chynrychiolwyr ar ran y diwydiant, i rannu\u2019r neges gyda chydweithwyr, cyflogeion a\u2019u rhwydweithiau ehangach. Trwy weithio ar y cyd, gallwn sicrhau bod busnesau\u2019n parhau i ffynnu wrth gadw eu cwsmeriaid yn ddiogel ar yr un pryd.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2025/04/23/good-food-hygiene-is-good-business/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Cymraeg At the FSA one of our guiding principles is making it easier for businesses to do the right thing. Today we're launching a campaign designed to help food businesses improve their hygiene standards through better use of FSA guidance \u2026"
+    },
+    {
         "title": "STEM Futures: Bridging knowledge across sectors",
         "authors": [
             "gseprofession"
