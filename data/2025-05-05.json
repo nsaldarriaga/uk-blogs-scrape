@@ -1,5 +1,1010 @@
 [
     {
+        "title": "Born in Britain: the innovators and inventions that helped win World War II\u00a0",
+        "authors": [
+            "Sara Jones"
+        ],
+        "posted_on": "2025-05-08T16:18:28",
+        "categories": [
+            "Innovation",
+            "Patents"
+        ],
+        "content": [
+            {
+                "content": "Britain has always been a nation of innovators, but in the lead up to and during World War II, British ingenuity led to innovation that formed the basis of inventions we still use today. Our inventors developed incredible technologies that proved crucial in securing an Allied victory. ",
+                "tag": "p"
+            },
+            {
+                "content": "From computing breakthroughs to engineering marvels, they have helped\u00a0shape our modern world. Marking the 80th anniversary of Victory in Europe (VE) Day, we\u2019ve looked at some\u00a0impressive British wartime inventions and the intellectual property (IP) behind their success. \u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Radar",
+                "tag": "h3"
+            },
+            {
+                "content": "One of the most significant British contributions to the war effort was the development of radar. It was built on earlier theoretical work by Scottish physicist James Clerk Maxwell. In his 1865 paper 'A Dynamical Theory of the Electromagnetic Field' he predicted the existence of radio waves. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Experimental work by German physicist Heinrich Hertz in the 1880\u2019s later confirmed Maxwell\u2019s predictions. In 1904 a patent for 'An obstacle detector and ship navigation device' based on the principles demonstrated by Hertz, was issued in several countries to Christian H\u00fclsmeyer, a German engineer (GB10425608A). ",
+                "tag": "p"
+            },
+            {
+                "content": "This paved the way for British scientist Sir Robert Watson-Watt and his team to build on these discoveries: they invented a radar system which entered service in 1938 under the code name Chain Home. It was used extensively during World War II.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Radar, which stands for 'radio detection and ranging', uses radio waves to detect objects at long distances, beyond visual range. It\u2019s incredible to think that this ship detection device, originally intended to help ships avoid collisions in fog, forms the basis of modern radar systems in use today. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Colossus\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "While Alan Turing's work breaking the Enigma code is widely celebrated, another vital codebreaking effort involved the less-known 'Fish' transmissions, created by the German Lorenz cipher machine (codenamed \u2018Tunny\u2019).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These messages, sent in binary format (combinations of ones and zeros), carried strategic military communications between Hitler and his generals. Initially, breaking these codes was time-consuming work, but in 1943, British engineer Tommy Flowers created something revolutionary: Colossus.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Colossus was the world's first electronic computer, built for the specific purpose of decoding encrypted German messages. From one initial machine, the project expanded to ten Colossi operating at Bletchley Park, Britain's codebreaking headquarters.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After the war, eight of the computers were dismantled, with two kept by British intelligence agency GCHQ for continued codebreaking. Even the plans were destroyed to keep the technology secret - remaining classified for 30 years until 1975. This early computer paved the way for our modern digital age, though its contribution remained hidden for decades.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Verena Holmes: pioneering engineer\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Verena Holmes, born in 1889, was a remarkable British engineer. While she trained initially as a photographer, the onset of the First World War created unprecedented opportunities for her to pursue her true passion: engineering.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As men were called up to fight in WWI, Holmes, alongside other women, stepped into traditionally male-dominated industries. This shift opened doors that had previously been closed to women in technical fields.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Between 1932 and 1939, while working as a designer at Research Engineers Ltd, Holmes strengthened her reputation as an inventor by developing a new valve for locomotives (GB380198A). When World War II was declared, she pivoted from rail to naval engineering, applying her expertise to develop valves for weapons systems crucial to Britain's war effort.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout her career, Holmes patented numerous inventions, breaking barriers as the first female member of the Institution of Mechanical Engineers. However, her legacy extends well beyond her technical achievements. As a strong advocate for women in engineering, she paved the way for future generations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rather fittingly, her birthday on 23 June coincides with International Engineering Day, a celebration of the profession to which she dedicated her life and talents.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mulberry Harbours\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "For the D-Day landings to succeed, the Allies needed to\u00a0deliver vast quantities of supplies and vehicles rapidly\u00a0to support the invasion forces. The problem? The Germans\u2019 heavy defence around all existing ports.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The innovative solution came partly from Winston Churchill himself: floating harbours that could be towed across the Channel. These 'Mulberry Harbours' were remarkable feats of engineering - temporary artificial ports constructed in Britain, towed across the Channel and assembled off the Normandy coast.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each harbour stretched about six miles long, featuring flexible steel roadways that floated on steel pontoons. With the capacity to move 7,000 tons of vehicles and supplies every day, these structures were crucial to Operation Overlord's success, allowing Allied forces to establish themselves firmly on the European continent.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These floating harbours enabled the successful invasion that would eventually lead to the liberation of Western Europe from Nazi occupation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Spitfire\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "No discussion of British wartime innovation would be complete without mentioning the Spitfire.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Designed by British aircraft engineer Reginald Mitchell of Supermarine Ltd, in response to the Air Ministry's 1934 call for a high-performance fighter aircraft, the Spitfire became the symbol of British determination during the dark days of the Battle of Britain. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "More than 20,000 Spitfires were built during the war. Their remarkable design allowed them to perform at high altitudes and outmanoeuvre German planes, making them extremely difficult for enemy aircraft to intercept. This superiority in the skies meant the Spitfire could even conduct missions over western Germany from British bases. Reginald Mitchell protected specific parts of his aircrafts with patents such as GB472839A .\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Tragically, Mitchell died at just 42 years of age - only one year after his prototype's maiden flight. He never lived to see how his creation would help free his country and become a symbol of British courage.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Spitfire continued to serve the Royal Armed Forces after the war until its retirement in 1952, leaving behind a legacy as one of the most successful and beloved aircraft in aviation history.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These inventions represent just a fraction of the technological innovation that emerged during World War II. The legacy of these wartime developments continues to influence our world today - a testament to the creativity and determination of British scientists, engineers and inventors who rose to meet the greatest challenge of their generation.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/05/08/born-in-britain-the-innovators-and-inventions-that-helped-win-world-war-ii/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "Today we're shining a searchlight on some impressive wartime inventions. Britain has always been a nation of innovators, but in the lead up to and during World War II, British ingenuity led to innovation that formed the basis of inventions we still use today. "
+    },
+    {
+        "title": "Designing policy with complex evidence",
+        "authors": [
+            "Becky Miller"
+        ],
+        "posted_on": "2025-05-08T16:00:00",
+        "categories": [
+            "Case study",
+            "PublicPolicyDesign"
+        ],
+        "content": [
+            {
+                "content": "Evidence-based policy making relies on robust, diverse research insights to inform policy ideas and decision making. But that\u2019s easier said than done, particularly for complex policy challenges with evidence that contains many different actors and factors influencing the outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "This is the first of a two-part blog post where we\u2019ll explain the combination of methods we\u2019ve tested to review and make sense of a complex evidence base with a wider group of people on our programme. ",
+                "tag": "p"
+            },
+            {
+                "content": "In this first post, we\u2019ll describe the challenges of evidence-based policy making we\u2019ve experienced on the Farming and Countryside Programme and explain the steps we took to prepare for a participatory evidence mapping workshop. In the second post, we\u2019ll explain how we designed, ran and analysed the evidence mapping workshop, combining systems thinking and serious games.",
+                "tag": "p"
+            },
+            {
+                "content": "Why is evidence-based policy making challenging?",
+                "tag": "h2"
+            },
+            {
+                "content": "Evidence-based policy making is an important aspiration referenced in the HM Treasury's Green Book, but it presents practical challenges for policy teams working under pressure which we\u2019ve experienced first-hand on our programme:",
+                "tag": "p"
+            },
+            {
+                "content": "These challenges present risks for policy teams. Without a holistic view of the evidence, we can introduce assumptions and bias. For complex policy areas, a lack of methods to collectively make sense of complexity in the evidence base, can lead to siloed policy ideas and interventions which don\u2019t make sense in delivery, for end users or frontline workers.",
+                "tag": "p"
+            },
+            {
+                "content": "Equally, for research colleagues, they can experience frustration if policy colleagues aren\u2019t aware of their work which can lead to duplication of effort if new research is commissioned without knowledge of existing evidence. This also risks undermining trust in government if citizens are engaged in research on the same issues multiple times.",
+                "tag": "p"
+            },
+            {
+                "content": "How can policy teams gather robust and complex evidence bases and make sense of them?",
+                "tag": "h2"
+            },
+            {
+                "content": "In response to these challenges faced by our policy teams, we asked ourselves:",
+                "tag": "p"
+            },
+            {
+                "content": "To address these challenges and support our policy colleagues in their work, we designed and tested a four-phase participatory methodology to allow our policy team to make sense of their complex and extensive evidence base and come up with a portfolio of policy ideas to test and learn from. We\u2019ll explain the first two stages of this methodology below which cover the evidence gathering activities. In the next blog we\u2019ll explain the evidence mapping workshop itself.",
+                "tag": "p"
+            },
+            {
+                "content": "Evidence discovery",
+                "tag": "h2"
+            },
+            {
+                "content": "Inspired by Policy Lab\u2019s collaborative evidence discovery method,\u00a0 we first hosted an online evidence discovery workshop, inviting any colleagues on our programme who might have research related to our policy challenge. ",
+                "tag": "p"
+            },
+            {
+                "content": "We used an online whiteboard tool to populate an \u2018evidence gallery\u2019 with all the evidence the policy team currently held. In the workshop, we allowed time for everyone to explore and read through the evidence gallery, inviting them to add any evidence or specific insights they thought were missing",
+                "tag": "p"
+            },
+            {
+                "content": "This first workshop helped us to quickly grow a more robust and diverse evidence base, drawing on the breadth and diversity of knowledge, experience and research disciplines in our programme.",
+                "tag": "p"
+            },
+            {
+                "content": "Insight \u2018nuggets\u2019",
+                "tag": "h2"
+            },
+            {
+                "content": "After the online evidence discovery workshop, we were inspired by Tomar Sharon and Benjamin Gadbaw\u2019s work on the atomic unit of a research insight. They argue that insight \u2018nuggets\u2019 (rather than research reports) are the most useful, actionable unit of research. And they\u2019ve shown how research operations can evolve to extract insight \u2018nuggets\u2019 that become readily available to organisations to answer a whole range of questions and challenges over time. ",
+                "tag": "p"
+            },
+            {
+                "content": "We distilled our evidence into an online searchable database of 150 individual insights, tagged with themes, and with referenced sources. We now had a much richer and more accessible evidence base, that we could use to underpin the activities.",
+                "tag": "p"
+            },
+            {
+                "content": "To enable a group of people to use these insight \u2018nuggets\u2019 in our evidence mapping workshop we printed them out as individual \u2018evidence cards\u2019. This physical, tactile format allowed the evidence to be easily and quickly socialised and deliberated among participants in a more nuanced and dynamic way compared to our experiences attempting to run to similar activities online.",
+                "tag": "p"
+            },
+            {
+                "content": "In our next blog post we will detail how we worked with professional games designer Matteo Menapace to design our participatory \u2018evidence mapping\u2019 workshop, that allowed 36 colleagues with little or no prior knowledge of systems mapping to explore the 150 insights nuggets and build their own maps.",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to find out more about this project, or others undertaken by Defra\u2019s Policy Design Lab, get in touch! Equally we\u2019d love to hear about any similar approaches you\u2019ve been testing for evidence collection and review. Please email policydesignlab@defra.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://publicpolicydesign.blog.gov.uk/2025/05/08/designing-policy-with-complex-evidence/",
+        "blog": "Public Policy Design",
+        "blog_link": "https://publicpolicydesign.blog.gov.uk",
+        "description": "Farming policy design experts from Defra get to grips with making sense of complexity."
+    },
+    {
+        "title": "Seven Nations Marine Planning workshop",
+        "authors": [
+            "Michelle Calvert, Marine Planner"
+        ],
+        "posted_on": "2025-05-08T13:44:22",
+        "categories": [
+            "marine planning"
+        ],
+        "content": [
+            {
+                "content": "On 7 May representatives from the marine planning departments of England, Guernsey, Ireland, Jersey, Northern Ireland, the Isle of Man, Scotland, and Wales attended the Seven Nations Marine Planning Workshop, organised by the Marine Management Organisation (MMO).",
+                "tag": "p"
+            },
+            {
+                "content": "The in-person workshop aimed to facilitate the exchange of ideas and best practices in marine planning processes, while identifying opportunities for cross-border collaboration at a technical level. This was the second session following the inaugural Six Nations in-person meeting held in March 2024, and focused on engagement processes within marine planning and enhancing cross-border cooperation.",
+                "tag": "p"
+            },
+            {
+                "content": "Marine planning is devolved, each country in and bordering the UK has taken differing approaches and are at different timelines in plan development and planning cycles. Each governing body has distinct ministerial priorities and priority sectors, which pose significant barriers to marine plan alignment. Many marine industries work across borders and some resource areas do not align with borders, so there is the need for a joined-up approach.",
+                "tag": "p"
+            },
+            {
+                "content": "The agenda included presentations from each participating country on:",
+                "tag": "p"
+            },
+            {
+                "content": "The workshop concluded by identifying key topics for further discussion and setting shared ambitions for future meetings workshops.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2025/05/08/seven-nations-marine-planning-workshop/",
+        "blog": "Marine developments",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "On 7 May representatives from the marine planning departments of England, Guernsey, Ireland, Jersey, Northern Ireland, the Isle of Man, Scotland, and Wales attended the Seven Nations Marine Planning Workshop, organised by the Marine Management Organisation (MMO). The in-person workshop \u2026"
+    },
+    {
+        "title": "The East Marine Plan Statement of Public Participation (SPP) has been refreshed to highlight changes in the timeline",
+        "authors": [
+            "Sidonie Kenward, Senior Marine Planner"
+        ],
+        "posted_on": "2025-05-08T11:55:46",
+        "categories": [
+            "marine planning"
+        ],
+        "content": [
+            {
+                "content": "An SPP, required under the Marine and Coastal Access Act 2009 (MACAA), is the contract between the MMO and our stakeholders which sets out how, when, and why we carry out engagement. An SPP also outlines what we will do with the outcomes of any views and opinions presented by stakeholders throughout the development of a marine plan.",
+                "tag": "p"
+            },
+            {
+                "content": "The East Marine Plan SPP was published in 2024 following productive online and in-person stakeholder sessions, and an online consultation. Its publication marked the start of the process to replace the East Marine Plans.",
+                "tag": "p"
+            },
+            {
+                "content": "The MMO are required through MACAA to ensure the SPP remains up to date throughout plan development, to ensure transparency and accountability to stakeholders. Engagement activities were paused during the pre-election period and following the July 2024 General Election until November 2024. This pause impacted the plan development timelines for work on replacing the East Marine Plans and which necessitated changes to the East Marine Plan SPP.",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout early 2025 the Marine Planning team undertook work to update the engagement timeline included in the East Marine Plan SPP. Following the completion of this work we are pleased to announce that the updated East Marine Plan SPP was recently published. For more information, and to see the updated East Marine Plan SPP please visit: East Marine Plans - GOV.UK. The refreshed timeline estimates plan adoption to be Summer 2027.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2025/05/08/the-east-marine-plan-statement-of-public-participation-spp-has-been-refreshed-to-highlight-changes-in-the-timeline/",
+        "blog": "Marine developments",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "An SPP, required under the Marine and Coastal Access Act 2009 (MACAA), is the contract between the MMO and our stakeholders which sets out how, when, and why we carry out engagement. An SPP also outlines what we will do \u2026"
+    },
+    {
+        "title": "Svarog Penalty: A Lesson in Information Offences\u00a0",
+        "authors": [
+            "OFSI"
+        ],
+        "posted_on": "2025-05-08T11:03:13",
+        "categories": [
+            "OFSI Blog"
+        ],
+        "content": [
+            {
+                "content": "On 11 April 2025, OFSI imposed a monetary penalty of \u00a35,000 on the UK-registered company Svarog Shipping & Trading Company Limited (\u201cSvarog\u201d).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This penalty relates to an information offence and is the first of its kind to be issued by OFSI. Svarog failed to respond within the required timeframe to a statutory Request for Information (RFI) made by OFSI, and failed to provide a reasonable excuse. In those circumstances, OFSI has the power to impose a penalty in respect of the information offence.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This case highlights the importance of firms and individuals responding in a timely manner to OFSI RFIs. Below, we have provided an overview of RFIs, a brief summary of the case, and the key compliance lessons that industry can take away.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What do we mean by a \u201cRequest for Information?\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OFSI has legal powers to require certain firms and individuals to provide information to it. The reasons OFSI might request this information are outlined in section 5.6 of OFSI\u2019s general guidance, and can include establishing whether financial sanctions may have been breached, or monitoring compliance with certain financial sanctions regulations or licences.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When requesting information, OFSI will specify the legislative basis for the request, and the time period within which the information is to be provided.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OFSI\u2019s powers to request information are among the most important tools it has for investigating suspected breaches of financial sanctions. If firms or individuals fail to respond to these requests, it can hinder OFSI\u2019s timely access to information, thereby impacting OFSI\u2019s overall effectiveness and efficiency.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What was the information offence committed by Svarog?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OFSI issued an RFI to Svarog on 26 January 2024, as part of a large and complex investigation. Svarog did not respond to the RFI by the deadline. Despite OFSI sending reminders, Svarog\u2019s response was only received after OFSI contacted Svarog\u2019s auditors. Svarog apologised for failing to respond to the RFI, but it did not provide a reasonable excuse for missing the statutory deadline.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Given Svarog\u2019s failure to respond to OFSI\u2019s RFI issued on 26 January 2024 and its failure to provide a reasonable excuse, OFSI concluded that Svarog had committed an information offence and that a penalty of \u00a35,000 was the appropriate outcome. OFSI ultimately concluded that Svarog had not breached financial sanctions other than in respect of this information offence.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For the full details of the case, please see the penalty notice.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are the key compliance lessons for industry?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "1. Firms should recognise the seriousness of failing to respond promptly to RFIs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OFSI takes a dim view of firms who delay or fail to respond to statutory obligations placed upon them. Firms should therefore first note the importance OFSI attaches to its information gathering powers and should be aware of the potential consequences of inaction.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Failure to respond to RFIs can significantly impede OFSI\u2019s ability to assess compliance, enforce financial sanctions and maintain compliance with the sanctions regimes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this instance, Svarog\u2019s failure to respond by the deadline caused delay to the wider investigation the RFI was related to, and wasted OFSI\u2019s resources, including the need for OFSI to contact Svarog\u2019s auditor. Such delays, if repeated across OFSI\u2019s other enquiries, could seriously undermine OFSI\u2019s effectiveness and efficiency, diverting resources away from enforcement action and constituting a poor use of taxpayer money.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Engage proactively and candidly with OFSI when it comes to RFIs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If firms receive an RFI from OFSI but are unsure how to respond, or believe they cannot meet the deadline, they should contact OFSI as soon as possible to seek clarification and/or request an extension. They should not ignore the request. If a firm believes it has missed a statutory deadline, but has a reasonable excuse, it should provide that excuse proactively for OFSI to consider, accompanied by a full explanation of the circumstances. Firms are also encouraged to engage with OFSI\u2019s published guidance and seek professional advice on their sanctions obligations if necessary.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Have effective communication and monitoring systems in place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OFSI expects firms to have effective communication and monitoring systems in place, so that firms can promptly identify and respond to any RFI they might receive from OFSI. This includes appointing responsible personnel, monitoring and maintaining up-to-date contact information to ensure compliance with OFSI requests for information.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is especially true for firms operating in sectors with elevated exposure to sanctions. Svarog - operating in the high-risk maritime oil shipment sector - demonstrated some awareness of sanctions risks and its own exposure. These factors ought to have made Svarog more vigilant to the request from OFSI, and should have caused it to have robust processes in place for responding.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Consider other compliance and reporting obligations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst the penalty in this case related to the failure to respond to an RFI without a reasonable excuse, other types of failures to provide information can also constitute breaches leading to penalties. For example:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You should ensure you are aware of your obligations either as a relevant firm (as defined in the regulations), or as the user or holder of a valid OFSI licence. The requirement to comply with all other obligations applies to both individuals and entities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The information powers contained in the Russia Regulations are designed to ensure OFSI has prompt and full access to the information it needs to implement and enforce financial sanctions. This case signals to industry the importance of responding to RFIs in a timely and comprehensive manner; doing so helps contribute to the effective implementation and robust enforcement of financial sanctions.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofsi.blog.gov.uk/2025/05/08/svarog-penalty-a-lesson-in-information-offences/",
+        "blog": "Office of Financial Sanctions Implementation",
+        "blog_link": "https://ofsi.blog.gov.uk",
+        "description": "On 11 April 2025, OFSI imposed a monetary penalty of \u00a35,000 on the UK-registered company Svarog Shipping & Trading Company Limited (\u201cSvarog\u201d).\u00a0\u00a0 This penalty relates to an information offence and is the first of its kind to be issued by \u2026"
+    },
+    {
+        "title": "The importance of oral health in children\u2019s social care",
+        "authors": [
+            "Yvette Stanley"
+        ],
+        "posted_on": "2025-05-08T10:56:14",
+        "categories": [
+            "care experienced",
+            "children looked after",
+            "children's homes",
+            "health",
+            "looked after children"
+        ],
+        "content": [
+            {
+                "content": "Our goals for oral health in children\u2019s social care",
+                "tag": "h2"
+            },
+            {
+                "content": "We've been working closely with the Care Quality Commission (CQC) to look at the importance of good oral health for children. We want to tackle oral health inequality by driving improvement in the quality of oral care provision in children\u2019s social care. The success of CQC\u2019s \u2018Smiling Matters\u2019 project in adult social care shows the potential for making improvements.",
+                "tag": "p"
+            },
+            {
+                "content": "All children are dependent on adults for access to a dentist, diet choices and oral hygiene support. For children living away from home, this responsibility sits with the staff who are caring for them. That includes children living in children\u2019s homes, foster care and residential special schools, as well as young people living in supported accommodation.",
+                "tag": "p"
+            },
+            {
+                "content": "We have a great opportunity to influence what happens for these children and young people.",
+                "tag": "p"
+            },
+            {
+                "content": "Why oral health is so important",
+                "tag": "h2"
+            },
+            {
+                "content": "Oral health is vital for all, but even more so for children in care. Even though tooth decay is preventable, it:",
+                "tag": "p"
+            },
+            {
+                "content": "There are also wider concerns about poor oral health. Children may:",
+                "tag": "p"
+            },
+            {
+                "content": "Care-experienced children and those with special educational needs and/or disabilities (SEND) are more vulnerable to poor oral health. And we need to collectively make a change.",
+                "tag": "p"
+            },
+            {
+                "content": "What we see on inspection regarding oral health",
+                "tag": "h2"
+            },
+            {
+                "content": "On inspection, we often see providers having difficulties in accessing dental services for the children they care for.",
+                "tag": "p"
+            },
+            {
+                "content": "Many children find it difficult to attend the dentist even if they have an appointment. Fear, poor past experiences and lack of support can make it hard for a child to attend. These difficulties can be exacerbated for children who are already traumatised or finding life difficult.",
+                "tag": "p"
+            },
+            {
+                "content": "We also know that some children may find it hard to understand what might be happening when they visit the dentist and may also have increased levels of anxiety or fear. A parent of a child with autism told us that:",
+                "tag": "p"
+            },
+            {
+                "content": "Good practice in supporting children\u2019s oral health",
+                "tag": "h2"
+            },
+            {
+                "content": "It is vital that children are supported to attend appointments and have a good oral hygiene routine. The importance of a good routine is increased when access to services is poor. Carers should support children in their routines and encourage oral hygiene whenever possible. We will highlight good practice when we observe this in inspection.",
+                "tag": "p"
+            },
+            {
+                "content": "An inspector told us:",
+                "tag": "p"
+            },
+            {
+                "content": "And a manager of a children\u2019s home told us:",
+                "tag": "p"
+            },
+            {
+                "content": "Ofsted\u2019s role in promoting good oral health",
+                "tag": "h2"
+            },
+            {
+                "content": "Oral health features in our social care inspection framework and Annex A form for children\u2019s homes.",
+                "tag": "p"
+            },
+            {
+                "content": "When we inspect, we may ask you a range of questions about the oral health of the children. These questions could be about preventing decay, their access to dental services or their oral health routines.",
+                "tag": "p"
+            },
+            {
+                "content": "Questions about prevention could include:",
+                "tag": "p"
+            },
+            {
+                "content": "Around access, we might ask questions such as:",
+                "tag": "p"
+            },
+            {
+                "content": "We may also ask about routines, such as:",
+                "tag": "p"
+            },
+            {
+                "content": "Please do think about these questions, and the arrangements you have in place for decay prevention, access to dental services and oral health routines.",
+                "tag": "p"
+            },
+            {
+                "content": "We want to make sure every child has good oral health and the right habits to continue that as they grow up.",
+                "tag": "p"
+            },
+            {
+                "content": "Additional resources",
+                "tag": "h2"
+            },
+            {
+                "content": "There is staff training available from the NHS that you can refer to. This is designed to help staff feel comfortable in supporting children\u2019s oral health, and it includes resources you can use. Although these are directed at SEND settings, you can adapt them for other use.",
+                "tag": "p"
+            },
+            {
+                "content": "You can also find out more about oral health from CQC.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcareinspection.blog.gov.uk/2025/05/08/the-importance-of-oral-health-in-childrens-social-care/",
+        "blog": "Ofsted: social care",
+        "blog_link": "https://socialcareinspection.blog.gov.uk",
+        "description": "Our goals for oral health in children\u2019s social care We've been working closely with the Care Quality Commission (CQC) to look at the importance of good oral health for children. We want to tackle oral health inequality by driving improvement \u2026"
+    },
+    {
+        "title": "Making the Algorithmic Transparency Recording Standard (ATRS) mandatory across government",
+        "authors": [
+            "Elena Hess-Rheingans, Data Ethics Lead, GDS"
+        ],
+        "posted_on": "2025-05-08T10:52:44",
+        "categories": [
+            "agile",
+            "Beneficial Ownership",
+            "Data Engineering",
+            "Data Ethics",
+            "Data insights",
+            "Data Standards",
+            "Data Strategy",
+            "Performance Analysis",
+            "Personal Data Exchange"
+        ],
+        "content": [
+            {
+                "content": "The Algorithmic Transparency Recording Standard (ATRS) is one of the world\u2019s first interventions for transparency on the use of algorithmic tools in government decision-making, and is internationally renowned as best practice. ",
+                "tag": "p"
+            },
+            {
+                "content": "Algorithmic tools increasingly support high-impact decisions affecting individuals, for example helping public servants assess eligibility for government programmes or benefits. Open and transparent communication about where, how and why these tools are being used is key to maintaining public trust and to sharing innovation across the public sector. ",
+                "tag": "p"
+            },
+            {
+                "content": "The ATRS was developed to address this issue, by establishing a standardised way for public sector organisations to publish information proactively and openly about how and why they are using algorithmic tools.",
+                "tag": "p"
+            },
+            {
+                "content": "Last year, use of the ATRS was made mandatory across central government, and over the last 12 months we have added 53 new records to the ATRS repository on GOV.UK, taking the total number of published records to 59 at the time of writing. More ATRS records are added each month.",
+                "tag": "p"
+            },
+            {
+                "content": "Within the Blueprint for digital government we committed to being open and transparent about the AI tools that are being used in government and \u2018harness the power of AI for the public good\u2019. ",
+                "tag": "p"
+            },
+            {
+                "content": "The ATRS team has now merged with Central Digital and Data Office (CDDO) colleagues within the new Government Digital Service - the digital centre of government, part of the Department for Science, Innovation and Technology (DSIT).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Examples of algorithmic tools on the ATRS repository",
+                "tag": "h3"
+            },
+            {
+                "content": "We are excited to showcase the results of the hard work from all the people involved in this process. Over the last few months we have published 26 records from central government departments and their arm\u2019s-length bodies (ALBs), and 10 records from devolved administrations and local government.",
+                "tag": "p"
+            },
+            {
+                "content": "Among the records we have published are:",
+                "tag": "p"
+            },
+            {
+                "content": "Making the ATRS mandatory across government\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The team has been working to roll out mandatory use of the ATRS in government departments in phases, beginning in March 2024. ",
+                "tag": "p"
+            },
+            {
+                "content": "Each organisation has been asked to map all algorithmic tools across their organisation which fall within the mandatory scope and exemptions policy, that is tools, which either have a significant influence on a decision-making process with public effect, or which directly interact with the general public.",
+                "tag": "p"
+            },
+            {
+                "content": " For each of the identified in-scope tools, they are then required to complete and publish ATRS records for those tools.",
+                "tag": "p"
+            },
+            {
+                "content": "Over time, this work is building a valuable picture of how algorithmic tools are used across the public sector, while helping departments and ALBs be more transparent about how these tools affect members of the public.",
+                "tag": "p"
+            },
+            {
+                "content": "A new version of the ATRS",
+                "tag": "h3"
+            },
+            {
+                "content": "First published in November 2021, the ATRS is based on an extensive process of external engagement, including with members of the public, and has been piloted, refined, and updated based on feedback from the pilot phase. ",
+                "tag": "p"
+            },
+            {
+                "content": "The Open Standards Board reviewed the ATRS it, and the Data Standards Authority (DSA) endorsed it for central government, with scope and implementation approved by Permanent Secretaries. As part of the DSA scrutiny process, representatives from across the public sector reviewed it and confirmed the standards\u2019 suitability for wider use.",
+                "tag": "p"
+            },
+            {
+                "content": "Having now published over 50 records, we have learned a lot from users about their experience of using the ATRS and where clearer guidance is needed. We are excited to release an updated version of the ATRS (version 4) this month, which reflects this feedback. In this update, we refined the prompts for each field of the standard, aiming to streamline and improve the clarity of the template. ",
+                "tag": "p"
+            },
+            {
+                "content": "This change should help teams to draft ATRS records with greater ease, requiring less time spent on iteration. Moreover, the data section has been reorganised, allowing users to clearly distinguish between data used during development of a model and operational data. ",
+                "tag": "p"
+            },
+            {
+                "content": "Through these improvements and some deliberate design, the template is now better equipped for use with pre-trained models (like LLMs) and off-the-shelf tools.",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps for the ATRS team",
+                "tag": "h3"
+            },
+            {
+                "content": "At the start of this year, the combined CDDO and DSIT ATRS team was brought together as one team in the newly expanded Government Digital Service. Over the next year we aim to:",
+                "tag": "p"
+            },
+            {
+                "content": "Get in touch",
+                "tag": "h3"
+            },
+            {
+                "content": "Give us feedback on the repository of published records as it grows and complete our survey. If you are building, procuring or deploying a tool you believe may fall within mandatory scope of the ATRS - or if you simply want to publish information about a tool, please contact the team on algorithmic-transparency@dsit.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dataingovernment.blog.gov.uk/2025/05/08/making-the-algorithmic-transparency-recording-standard-atrs-mandatory-across-government/",
+        "blog": "Data in government",
+        "blog_link": "https://dataingovernment.blog.gov.uk",
+        "description": "The use of the Algorithmic Transparency Recording Standard (ATRS) became mandatory for central government in 2024. Read about how the GDS Data and AI ethics team have rolled out the mandate across government and how they have updated the ATRS to reflect learnings from this process."
+    },
+    {
+        "title": "Introduction to the role of evaluation in fisheries management plans",
+        "authors": [
+            "FMP Evaluation Team"
+        ],
+        "posted_on": "2025-05-08T10:35:59",
+        "categories": [
+            "- Defra led FMPs",
+            "Evaluation"
+        ],
+        "content": [
+            {
+                "content": "Evaluating policies allows us to learn and adjust as we create and implement fisheries management plans (FMPs).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why evaluate?\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Evaluation is important as it allows us to adjust and improve our approach to make sure the plans are of the highest quality to reach our aim- to collaborate with stakeholders to protect and recover our fisheries, supporting employment and wellbeing in coastal communities and a healthy marine environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When we started developing the first plans, we asked ICF Consulting Services Ltd, alongside the Countryside and Community Research Institute (CCRI) and Howell Marine Consulting (HMC) to investigate not only what we do but how we do things, so we can better understand the impact and value for money.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A range of views are considered\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The evaluation uses a wide range of research to gather evidence on FMP issues from different perspectives. This includes observing FMP events and working groups, carrying out surveys, interviews and focus groups with stakeholders and FMP delivery teams, and reviewing FMP documents and guidance. We want to take this opportunity to express our thanks to all that have taken part in any of these to date.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Using evaluation findings\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Findings support continual improvements in how FMPs are designed and delivered. Some of the findings and improvements include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The process & governance of FMPs:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improvements to the guidance and supporting processes are being made.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This has improved the efficiency and effectiveness of drafting processes and made the accessibility of FMPs better for stakeholders.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Collaborative approach:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Evaluation research highlighted that stakeholders appreciate the collaborative engagement and feel they can 'have their say\u2019 but are less clear on if they are being listened to. The evaluation has identified and shared good practice from across the FMPs on how to feedback to stakeholders about how their input is being used.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Use of evidence:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The evaluation identified limitations in what and how scientific and stakeholder evidence was being used in FMP development. Each FMP has subsequently benefited from improvements to the evidence collation process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The evaluation reports will be published so subscribe to the blog for future updates.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more on what is considered when designing an evaluation see the HM Treasury guidance - The Magenta Book.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/05/08/introduction-to-the-role-of-evaluation-in-fisheries-management-plans/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "We are always improving how FMPs are developed and implemented, but how do we do that? "
+    },
+    {
+        "title": "UK Launches Planetary Protection Technical Framework\u00a0",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-05-08T10:07:35",
+        "categories": [
+            "Protecting our planet and outer space"
+        ],
+        "content": [
+            {
+                "content": "Planetary protection is the practice of protecting Solar System bodies from contamination by Earth life and protecting Earth from possible contaminants that may be returned from other Solar System bodies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Following months of collaborative work between academia, industry, the Civil Aviation Authority and government experts, the UK Space Agency published the Planetary Protection Technical Framework on 8 May providing clear guidance to ensure UK space activities safeguard the environment on Earth and in space from potential harmful contamination.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Planetary protection refers to the measures and protocols put in place to prevent contamination of celestial bodies by earth organisms and vice versa.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK Government is working with the sector and the UK\u2019s independent space regulator, the Civil Aviation Authority, to pave the way for regulation of new types of commercial space activities, such as in-orbit servicing and Beyond Earth Orbit missions, ensuring a predictable and transparent regime that fosters innovation and growth.",
+                "tag": "p"
+            },
+            {
+                "content": "This work is aligned with the recommendations of the 2024 Space Regulatory Review to promote innovation by providing clarity to regulators and the sector to de-risk development of UK capabilities in Earth orbit, lunar and beyond. It also aligns with the four aims of the recent Treasury paper \u201cNew approach to ensure regulators and regulation support growth\u201d: supporting growth; targeted and proportionate; transparent and predictable; adapting to keep pace with innovation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By issuing this guidance the UK Space Agency supports its aim to boost UK prosperity, understand the Universe, and protect our planet and outer space, ensuring space exploration activities avoid harming potential extraterrestrial ecosystems and safeguarding Earth's biosphere.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Technical Framework provides clarity to operators and regulators on how to meet our planetary protection obligations and should be used in conjunction with existing legislation by any entity seeking an operator licence for space activities for all missions that involve interactions with celestial bodies in our Solar System. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mission planners should engage the UK space regulator, the Civil Aviation Authority, to understand the application of the framework to their proposed activities.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The need for planetary protection",
+                "tag": "h2"
+            },
+            {
+                "content": "The rise in space activities from the UK brings with it an increase in the number of planetary protection risks including hindering scientific investigations, such as the search for extraterrestrial life and the potential damage to planetary bodies and Earth. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The search for extraterrestrial life is something that has captured the imagination of humans for a millennium. ",
+                "tag": "p"
+            },
+            {
+                "content": "If life beyond our planet is found it is critical that we have confidence that it did not come from Earth. This is where the fundamental idea of planetary protection is applied to space exploration missions where biological and organic material might be introduced. ",
+                "tag": "p"
+            },
+            {
+                "content": "Within planetary protection there are two main processes. These are forward contamination, whereby a spacecraft travelling to another celestial body carries unwanted contamination which could pose a risk to its destination, and backward contamination, where materials are brought back to Earth that could have an impact on our environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This Technical Framework was informed by the UK Space Agency commissioned study entitled \u201cA UK Framework for Planetary Protection: A Lunar Case Study\u201d (Olsson-Francis, 2022). ",
+                "tag": "p"
+            },
+            {
+                "content": "This study contained several recommendations informed by policy established by the Committee on Space Research (COSPAR) including the formation of a world first Planetary Protection Advisory Panel.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The UK Planetary Protection Advisory Panel consists of representatives from the UK Space Agency and the Civil Aviation Authority and experts from academia and industry.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK Planetary Protection Advisory Panel may provide advice to the Civil Aviation Authority as appropriate, including planetary protection categorisation and requirements for missions based on applicants\u2019 self-assessment. ",
+                "tag": "p"
+            },
+            {
+                "content": "Following the publication of the Technical Framework the panel now meets to discuss upcoming Beyond Earth Orbit and lunar matters such as future UK led missions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The group will look at several aspects of planetary protection on the horizon as access to space by the private sector increases, crewed missions to the Moon and Mars come closer and as the UK establishes itself as a key partner in international space endeavours.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Comments or questions on the Planetary Protection Technical Framework? Please contact SpaceflightRegulation@ukspaceagency.gov.uk\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Questions regarding planned missions? Please contact commercialspaceflight@caa.co.uk\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/05/08/uk-launches-planetary-protection-technical-framework/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "Planetary protection is the practice of protecting Solar System bodies from contamination by Earth life and protecting Earth from possible contaminants that may be returned from other Solar System bodies.\u00a0 Following months of collaborative work between academia, industry, the Civil \u2026"
+    },
+    {
+        "title": "NHS AAA Screening Programme proves its effectiveness",
+        "authors": [
+            "Harriet Strachan"
+        ],
+        "posted_on": "2025-05-08T08:42:19",
+        "categories": [
+            "Abdominal Aortic Aneurysm Screening"
+        ],
+        "content": [
+            {
+                "content": "In 2005, the UK National Screening Committee (UK NSC) recommended screening for abdominal aortic aneurysm (AAA) in men aged 65.",
+                "tag": "p"
+            },
+            {
+                "content": "Although death rates had been reducing, there were still as many as 3,000 deaths each year from ruptured AAAs in men aged over 65.",
+                "tag": "p"
+            },
+            {
+                "content": "The NHS AAA screening programmes in the UK were implemented to reduce AAA-related deaths. Population-based ultrasound screening started in 2009, and by 2013 the screening programme was fully operational across the UK. ",
+                "tag": "p"
+            },
+            {
+                "content": "A review team has now studied data from the programme\u2019s first decade \u2013 April 2013 to March 2023.",
+                "tag": "p"
+            },
+            {
+                "content": "It has found that AAA screening in the UK has been effective and has contributed substantially to ongoing reductions in AAA-related deaths.",
+                "tag": "p"
+            },
+            {
+                "content": "Key findings",
+                "tag": "h2"
+            },
+            {
+                "content": "The review found strong evidence that the number of deaths from ruptured AAAs had halved during the programme\u2019s first 10 years.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An updated cost-effectiveness model for the AAA screening programme showed that it remained cost-effective at the current activity levels.",
+                "tag": "p"
+            },
+            {
+                "content": "When comparing international data, only Sweden and the UK showed consistent reductions in ruptured AAAs over the last 6 years. These 2 countries are the only ones with a well-established AAA screening programme.",
+                "tag": "p"
+            },
+            {
+                "content": "The number of repairs of ruptured AAAs fell by over two thirds in the age group of men offered screening.",
+                "tag": "p"
+            },
+            {
+                "content": "The review also highlighted potential opportunities for future changes to the screening programme that may help to maintain its effectiveness as the prevalence of AAAs decreases over time.",
+                "tag": "p"
+            },
+            {
+                "content": "Future effectiveness reviews",
+                "tag": "h2"
+            },
+            {
+                "content": "This review has demonstrated the benefits of evaluating an existing screening programme to assess the extent to which it remains effective in the years following implementation. ",
+                "tag": "p"
+            },
+            {
+                "content": "The UK NSC Secretariat\u2019s Screening Data and Effectiveness team is currently undertaking a similar review of the Infectious Diseases in Pregnancy Screening Programme, and will shortly begin a review of the Cervical Screening Programme. The aim is to put in place an ongoing programme of effectiveness reviews across all national screening programmes, and report those findings to the UK NSC so it can consider the next steps for each programme.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you",
+                "tag": "h2"
+            },
+            {
+                "content": "This review was a collaborative piece of work, with input from stakeholders and subject matter experts across the 4 UK nations. We would like to take this opportunity to thank everyone who was involved with the AAA screening effectiveness review for their help and support throughout this project.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u202fregister to receive updates\u202fdirect to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u00a0uknsc@dhsc.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2025/05/08/nhs-aaa-screening-programme-proves-its-effectiveness/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "A review of data has found that AAA screening in the UK has been effective and has contributed substantially to ongoing reductions in AAA-related deaths."
+    },
+    {
+        "title": "Welcoming the Casey Commission",
+        "authors": [
+            "Sarah McClinton"
+        ],
+        "posted_on": "2025-05-08T07:42:12",
+        "categories": [
+            "Ageing",
+            "Care and support",
+            "Co-production",
+            "Communities",
+            "Learning disabilities",
+            "Mental health",
+            "Our profession",
+            "Personalisation",
+            "Recognition",
+            "Society",
+            "Viewpoint"
+        ],
+        "content": [
+            {
+                "content": "Baroness Louise Casey has begun her role as Chair of the Independent Commission (the Commission) into Adult Social Care. Baroness Casey marked the formal start of the Commission by chairing a roundtable with people with first-hand experience of the social care system.",
+                "tag": "p"
+            },
+            {
+                "content": "Baroness Casey not only has a reputation as \u2018Whitehall\u2019s greatest doer\u2019, but she also carries a strong track record of championing social justice and challenging inequity.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We all carry our own experiences of social care, whether that be family or friends, ageing relatives who need more help at home, support for mental health recovery or access to work for a disabled adult we know. Social care is broad and at its best it enables every adult to fulfil their potential and live the lives they choose.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Social care is about all of us and that\u2019s why the Independent Commission is such an important opportunity towards creating a National Care Service that we can all feel proud of.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether we are thinking about people who draw on care and support, those who find it harder to access the help that\u2019s right for them or those who are working in people\u2019s homes and in care settings, tackling inequity needs to be at the heart of reform.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "People who rely on local authority-funded support are among the poorest in society in terms of disposable assets and income.\u00a0The Care Act 2014 introduced the \u2018wellbeing principle\u2019 which means that everyone should be able to access the support they need to live gloriously ordinary lives and to address the barriers they may face due to age, physical or mental disabilities.\u00a0Sometimes that\u2019s a little bit of early help to get back on your feet and for others it can mean long term support.\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Family and friends who support their loved ones, play a vital role in enabling good lives.\u00a0Around half of unpaid carers report at least one adverse health effect from providing care and caring disproportionately impacts women and older people, most unpaid carers are over 50 years.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "People working in care settings also face inequalities, with a disproportionate number having a long-term health condition or disability. They are some of the lowest paid workers, with 29% on zero hours contracts. Again, women are particularly affected, making up one in four of our social care workforce. ",
+                "tag": "p"
+            },
+            {
+                "content": "The Independent Commission brings an opportunity to achieve real reform by setting the right conditions to galvanise genuine co-production, a strong prevention and early help offer, high quality personalised support and commissioning of joined up services that enable us all to thrive.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialworkwithadults.blog.gov.uk/2025/05/08/welcoming-the-casey-commission/",
+        "blog": "Social work with adults",
+        "blog_link": "https://socialworkwithadults.blog.gov.uk",
+        "description": "Baroness Louise Casey has begun her role as Chair of the Independent Commission (the Commission) into Adult Social Care. Baroness Casey marked the formal start of the Commission by chairing a roundtable with people with first-hand experience of the social \u2026"
+    },
+    {
         "title": "Guest blog: Benefits of engaging local communities in BNG",
         "authors": [
             "Natural England"
