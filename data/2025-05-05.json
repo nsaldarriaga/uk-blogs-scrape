@@ -1,5 +1,942 @@
 [
     {
+        "title": "Empowering the leaders of tomorrow: Leadership Values masterclass\u00a0",
+        "authors": [
+            "gseprofession"
+        ],
+        "posted_on": "2025-05-09T15:07:41",
+        "categories": [
+            "Blog Series",
+            "Collaborating & Networking",
+            "Talent & Leadership"
+        ],
+        "content": [
+            {
+                "content": "In April 2025, the GSE Profession held our Leadership Values masterclass, with the theme of \u2018Innovation\u2019. The event was aimed at developing the skills and values necessary for science and engineering leaders across government using the GSE Leadership Values Toolkit.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The masterclass began with an inspiring keynote speech from Professor Sarah Sharples, Chief Scientific Adviser for the Department for Transport, followed by turbo talks from other senior leaders. The day provided invaluable networking opportunities and interactive sessions from spot coaching to table discussions. In a first, the masterclass also offered members of the Profession an opportunity to attend both in-person and virtually.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Key insights from the day\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Everyday Innovation\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Scientists and engineers are natural innovators. Their curiosity drives them to explore how things work and understand why they work that way. This motivation is at the heart of innovation. By cultivating this curiosity, we can unlock new ideas and solutions that drive us forward.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Frameworks for leadership: Think, feel, act\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When leading a team, it's crucial to consider frameworks like \u2018Think, Feel, Act\u2019. This approach helps leaders understand the cognitive, emotional, and behavioural aspects of their team members. By addressing this, leaders can create more cohesive teams.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Safe environments\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creating a safe environment is essential for fostering innovation. When team members feel safe, they can explore their curiosity without fear of judgment or failure. This safety net encourages open communication, risk-taking, and ultimately, innovation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Networking\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond the formal sessions, the GSE Leadership Values masterclass provided opportunities to network with the Profession community. The event brought together a diverse group of civil servants, ranging from early careerists to seasoned leaders. Whether during coffee breaks, group activities, or spot coaching, participants had multiple opportunities to engage with one another, share ideas, and forge lasting professional relationships both online and offline.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Feedback from attendees\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The event was well-received by the attendees, who shared their positive experiences:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI took part in the spot coaching, very useful to hear somebody else's perspectives about my career and options available to me.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cGreat event, lots of great insights shared.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAs a new manager, I found it really valuable to hear from speakers on their individual leadership journeys!\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reflections\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The GSE Leadership Values masterclass was aimed at exploring practical ways for leaders to foster innovation. Participants learned from senior leaders about leadership theories on change, creating safe spaces, and developing a culture of innovation. They left with actionable insights to positively impact their teams. The event also emphasised the GSE leadership core values of collaboration, integrity, diversity, and inclusion, which are essential to be successful in the Civil Service.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The next leadership masterclass will take place this autumn, sign up to the GSE Profession for information on our learning offer as well as other events taking place this year. If you missed the masterclass and would like to access the session recordings, please email gse@go-science.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2025/05/09/empowering-the-leaders-of-tomorrow-leadership-values-masterclass/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "In April 2025, the GSE Profession held our Leadership Values masterclass, with the theme of \u2018Innovation\u2019. The event was aimed at developing the skills and values necessary for science and engineering leaders across government using the GSE Leadership Values Toolkit.\u00a0\u00a0 \u2026"
+    },
+    {
+        "title": "Advancing digital planning: Open Digital Planning\u2019s first end-to-end product pilots",
+        "authors": [
+            "Emily Hadley, Senior Product Manager"
+        ],
+        "posted_on": "2025-05-09T13:36:38",
+        "categories": [
+            "Digital Planning"
+        ],
+        "content": [
+            {
+                "content": "Last year was a significant step forward in our mission to modernise England\u2019s planning system. ",
+                "tag": "p"
+            },
+            {
+                "content": "Supported by Digital Planning improvement funding from the Ministry of Housing, Communities and Local Government\u2019s Digital Planning programme, local planning authorities (LPAs) in Open Digital Planning (ODP) have launched the first end-to-end product pilots. These pilots are a crucial step in testing how digital tools can streamline the planning process, improve accessibility, and provide a more efficient system for both planning teams and applicants.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "ODP is a collaborative network of forward-thinking LPAs working together to shape a more efficient, data-driven planning system. ODP has now grown to a network of over 150 LPAs dedicated to rethinking traditional, document-heavy approaches and adopting innovative, data-driven solutions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Digital Planning programme plays a key role in enabling this transformation, funding the development of open-source alternative planning software solutions that make planning services simpler while streamlining LPA operations.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These include:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All underpinned by the Planning Data platform which ensures seamless integration and better data access for LPAs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are now working on end-to-end pilots of the 3 products, with 4 LPAs \u2013 Barnet, Camden, Lambeth and Medway \u2013 to test how PlanX, BOPS, and the Digital Planning Register function as a unified, live system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why these pilots are a significant milestone\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "These pilots are the first time all ODP products are being used together in a live, real-world setting, providing a critical evaluation of how well they function as a set of integrated services.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While LPAs have previously tested individual products, this combined approach allows authorities to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This structured pilot approach aligns with MHCLG\u2019s commitment to digital transformation in planning, ensuring that the products developed are practical, effective, and scalable. The evaluation process includes spot testing, volume testing and a phased rollout to monitor usability, operational performance and overall impact.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "First applications submitted and processed\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The pilots are already working well, with planning applications submitted and processed using the ODP product stack. It has proven that the products work together technically and that they have the potential to be central to a more data-driven and streamlined planning process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While the pilots are ongoing, alternative planning systems remain available, ensuring applicants have a choice. By comparing the performance of both systems, LPAs and the Digital Planning programme can gather critical insights into product operations, service performance and the user experience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Local Planning Authorities leading the way\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Each participating council is following its own timeline:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The pilots remain underway and so full results are not yet available, but indicative results for Lawful Development Certificate (LDC) applications from Barnet show time savings from using ODP products.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Initial figures show that the average time for the end-to-end process for an LDC application being received, validated, assessed and decided in the pilot was just over 30 minutes using ODP products, compared to an hour longer using the existing supplier software. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Faster decision times free up planning officer time and reduces the cost, uncertainty and risks around submitting planning applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The insights and data gained from these pilots will help the teams to refine their products, and contribute to progress across the entire ODP community in several ways:\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building on the success of the pilots, we're excited to be welcoming more LPAs who have begun preparations for a new wave of end-to-end pilots launching soon.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "For more information on funded projects or how we\u2019re using digital to modernise England\u2019s planning system, visit the Digital Planning and Open Digital Planning websites.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The ODP community is growing. If you\u2019re part of an LPA interested in the opportunity to begin digital planning improvements, why not find out more and join them.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/05/09/advancing-digital-planning-open-digital-plannings-first-end-to-end-product-pilots/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "The first-ever end-to-end digital planning product pilots have been launched across four local planning authorities. The pilots integrate the new products into a unified system to streamline the planning process. Early results are promising and demonstrate how digital innovation is creating a more efficient, transparent planning system for both local authorities and applicants. "
+    },
+    {
+        "title": "Remote link sites: transforming court experiences for vulnerable witnesses\u00a0",
+        "authors": [
+            "Sue James, Crime Service Manager"
+        ],
+        "posted_on": "2025-05-09T12:00:52",
+        "categories": [
+            "Court and tribunal reform",
+            "Digital services"
+        ],
+        "content": [
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Walking through the doors of The Lighthouse recently, I was struck by the contrast to traditional court settings. As part of my role overseeing special measures at HMCTS, I wanted to see firsthand how remote link sites are supporting vulnerable witnesses. What I discovered was an environment carefully designed for children, with colourful wall murals, welcoming spaces, and thoughtful areas that create a calm, supportive atmosphere.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creating safe spaces for vulnerable witnesses\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Remote link sites like The Lighthouse represent one of our most important services in helping vulnerable witnesses participate in the justice process while minimising further trauma. The sites are HMCTS-approved locations away from courtrooms where vulnerable or intimidated witnesses can give evidence at a Crown Court trial via live video link. These locations temporarily become an extension of the courtroom during proceedings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The sites are part of wider special measures introduced by the Youth Justice and Criminal Evidence Act 1999. They help vulnerable and intimidated witnesses give their best evidence by helping to reduce stress during the justice process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Locations include buildings operated by criminal justice partners, victim support organisations, local authority buildings, and specialist centres like The Lighthouse. Each must meet our technical and security standards to ensure proper administration of justice while protecting vulnerable witnesses. The success of remote link sites depends on our effective partnership with other organisations. We currently operate 38 remote link sites across England and Wales, each established through close relationships with partners.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Remote link sites serve a critical function: enabling witnesses to give evidence without having to physically attend court. This is particularly valuable for child victims of abuse, who may be especially distressed by appearing in court. When witnesses are less anxious and fearful, they can communicate more effectively, which benefits the entire justice system.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Lighthouse\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Lighthouse, which opened in October 2018, exemplifies how remote link sites can be integrated into the support offered. It represents an innovative approach to supporting child witnesses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Its value comes from combining HMCTS technology with a range of other services under one roof. This means children can give evidence in an environment where they already feel safe and supported.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What makes The Lighthouse unique is its multi-agency approach. HMCTS provides the technical infrastructure and court protocols, while health services offer medical support, police and social care professionals handle safeguarding, and therapeutic staff provide emotional support \u2013 all under one roof. Each partner brings distinct expertise, creating a seamless experience for children navigating the justice system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How remote links work in practice\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The witness gives evidence from a remote link site through a secure video connection established with the courtroom. They typically only see the judge and lawyer asking questions, while all rules of evidence and procedure are maintained.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The technical aspect is just one part. Equally important is ensuring the witness has appropriate support throughout the process. Eimear Timmons, Practice Development Manager at The Lighthouse, told me about how they've seen children benefit from giving evidence via remote link rather than in court:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cChildren and young people have told us that giving evidence remotely helps reduce their anxiety, as it means they don\u2019t have to face the suspect or the suspect\u2019s family. This support allows them to concentrate on what truly matters \u2013 delivering their evidence clearly and more comfortably. Without these remote facilities and support, many have said they wouldn\u2019t feel able to continue with the court process.\"\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Pre-recorded Evidence\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "HMCTS is expanding special measures at remote link sites through the introduction of pre-recorded cross-examination. This new option allows vulnerable witnesses to record their cross-examination before the trial, rather than during court proceedings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Currently, witnesses can only pre-record evidence at court buildings, but thanks to our new Pre-Recorded Evidence (PRE) technology, they'll soon be able to do this at remote link sites too. We\u2019ll have rolled out PRE to all Crown Courts and remote link sites across England and Wales by summer 2025. This means remote link sites like The Lighthouse will be able to offer two options for giving evidence: live video link or pre-recorded cross-examination.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recent Ministry of Justice research confirmed that pre-recorded evidence maintains judicial integrity by showing no impact on jury decision-making, while allowing cases to proceed effectively.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Impact on young witnesses\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Vulnerable witnesses who have experienced abuse can find traditional court settings overwhelming and facilities like The Lighthouse can make a crucial difference. At remote link sites, witnesses can participate in the justice process with appropriate support around them, helping them to feel better equipped to give their account accurately.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we expand remote link provision and introduce new technologies like PRE, we remain focused on our mission: ensuring justice is accessible to all, especially the most vulnerable in society.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Safleoedd cyswllt o bell: trawsnewid profiadau llys ar gyfer tystion bregus",
+                "tag": "h2"
+            },
+            {
+                "content": "Wrth gerdded trwy ddrysau The Lighthouse yn ddiweddar, cefais fy nharo gan y cyferbyniad o\u2019i gymharu \u00e2 llys traddodiadol. Fel rhan o fy r\u00f4l yn goruchwylio mesurau arbennig yn GLlTEF, roeddwn i eisiau gweld yn uniongyrchol sut mae safleoedd cyswllt o bell yn cefnogi tystion bregus. Yr hyn a welais oedd amgylchedd wedi'i gynllunio'n ofalus ar gyfer plant, gyda murluniau lliwgar, mannau croesawgar, ac ardaloedd meddylgar sy'n creu awyrgylch tawel a chefnogol.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creu mannau diogel ar gyfer tystion bregus\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae safleoedd cyswllt o bell fel The Lighthouse yn cynrychioli un o'n gwasanaethau pwysicaf wrth helpu tystion bregus i gymryd rhan yn y broses gyfiawnder tra'n lleihau trawma pellach. Mae'r safleoedd wedi\u2019u lleoli mewn lleoliadau sydd wedi\u2019u cymeradwyo gan GLlTEF ac maent i ffwrdd o\u2019r llys lle gall tystion bregus neu dystion sy\u2019n cael eu bygwth roi tystiolaeth mewn treial Llys y Goron trwy gyswllt fideo byw. Mae'r lleoliadau hyn dros dro yn dod yn estyniad o'r ystafell lys yn ystod yr achosion.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae'r safleoedd yn rhan o fesurau arbennig ehangach a gyflwynwyd gan Ddeddf Cyfiawnder Ieuenctid a Thystiolaeth Droseddol 1999. Maent yn helpu tystion bregus neu dystion sy\u2019n cael eu bygwth i roi eu tystiolaeth orau trwy helpu i leihau straen yn ystod y broses gyfiawnder.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae'r lleoliadau'n cynnwys adeiladau sy'n cael eu gweithredu gan bartneriaid cyfiawnder troseddol, sefydliadau cymorth dioddefwyr, adeiladau awdurdodau lleol, a chanolfannau arbenigol fel The Lighthouse. Rhaid i bob un fodloni ein safonau technegol a diogelwch i sicrhau gweinyddiaeth briodol o gyfiawnder wrth ddiogelu tystion bregus. Mae llwyddiant safleoedd cyswllt o bell yn dibynnu ar ein partneriaeth effeithiol \u00e2 sefydliadau eraill. Ar hyn o bryd rydym yn gweithredu 38 o safleoedd cyswllt o bell ledled Cymru a Lloegr, pob un wedi'i sefydlu trwy berthynas agos \u00e2 phartneriaid.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae safleoedd cyswllt o bell yn cyflawni swyddogaeth hanfodol: galluogi tystion i roi tystiolaeth heb orfod mynychu'r llys yn gorfforol. Mae hyn yn hynod o werthfawr i blant sydd wedi dioddef camdriniaeth, a allai fod yn arbennig o ofidus wrth ymddangos yn y llys. Pan fydd tystion yn llai pryderus ac ofnus, gallant gyfathrebu'n fwy effeithiol, sydd o fudd i'r system gyfiawnder gyfan.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Lighthouse\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae'r Lighthouse, a agorodd ym mis Hydref 2018, yn enghraifft o sut y gellir integreiddio safleoedd cyswllt o bell i'r gefnogaeth a gynigir. Mae'n cynrychioli dull arloesol o gefnogi tystion sy\u2019n blant.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Daw ei werth o gyfuno technoleg GLlTEF gydag ystod o wasanaethau eraill o dan yr un to. Mae hyn yn golygu y gall plant roi tystiolaeth mewn amgylchedd lle maen nhw eisoes yn teimlo'n ddiogel ac yn cael eu cefnogi.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Yr hyn sy'n gwneud The Lighthouse yn unigryw yw ei ddull aml-asiantaethol. Mae GLlTEF yn darparu'r seilwaith technegol a'r protocolau llys, tra bod gwasanaethau iechyd yn cynnig cymorth meddygol, yr heddlu a gweithwyr proffesiynol gofal cymdeithasol yn ymdrin \u00e2 diogelu, a staff therapiwtig yn darparu cymorth emosiynol \u2013 i gyd o dan yr un to. Mae pob partner yn dod ag arbenigedd gwahanol, gan greu profiad di-dor i blant sy'n llywio'r system gyfiawnder.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae cysylltiadau o bell yn gweithio yn ymarferol\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae'r tyst yn rhoi tystiolaeth o safle cyswllt o bell trwy gysylltiad fideo diogel a sefydlwyd gyda'r ystafell lys. Maent fel arfer ond yn gweld y barnwr a'r cyfreithiwr yn gofyn cwestiynau, tra bod yr holl reolau tystiolaeth a gweithdrefn yn cael eu cynnal.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dim ond un rhan yw'r agwedd dechnegol. Yr un mor bwysig yw sicrhau bod gan y tyst gefnogaeth briodol trwy gydol y broses. Dywedodd Eimear Timmons, Rheolwr Datblygu Practis yn The Lighthouse, wrthyf am sut maen nhw wedi gweld plant yn elwa o roi tystiolaeth trwy gyswllt o bell yn hytrach nag yn y llys:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"Mae plant a phobl ifanc wedi dweud wrthym fod rhoi tystiolaeth o bell yn helpu i leihau eu gorbryder, gan ei fod yn golygu nad oes rhaid iddyn nhw wynebu'r unigolyn dan amheuaeth na theulu'r unigolyn dan amheuaeth. Mae'r gefnogaeth hon yn caniat\u00e1u iddynt ganolbwyntio ar yr hyn sy'n wirioneddol bwysig \u2013 cyflwyno eu tystiolaeth yn glir ac yn fwy cyfforddus. Heb y cyfleusterau a'r gefnogaeth o bell hyn, mae llawer wedi dweud na fyddent yn teimlo eu bod yn gallu parhau \u00e2'r broses llys.\"\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Tystiolaeth wedi'i recordio ymlaen llaw\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae GLlTEF yn ehangu mesurau arbennig mewn safleoedd cyswllt o bell trwy gyflwyno croesholi wedi'i recordio ymlaen llaw. Mae'r opsiwn newydd hwn yn caniat\u00e1u i dystion bregus recordio eu croesholi cyn y treial, yn hytrach nag yn ystod achosion llys.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ar hyn o bryd, dim ond mewn adeiladau llys y gall tystion recordio tystiolaeth ymlaen llaw, ond diolch i'n technoleg Tystiolaeth Wedi'i Recordio Ymlaen Llaw (PRE) newydd, byddant yn fuan yn gallu gwneud hyn mewn safleoedd cyswllt o bell hefyd. Byddwn wedi cyflwyno PRE i bob Llys y Goron a safleoedd cyswllt o bell ledled Cymru a Lloegr erbyn haf 2025. Mae hyn yn golygu y bydd safleoedd cyswllt o bell fel The Lighthouse yn gallu cynnig dau opsiwn ar gyfer rhoi tystiolaeth: cyswllt fideo byw neu groesholi wedi'i recordio ymlaen llaw.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cadarnhaodd ymchwil diweddar y Weinyddiaeth Gyfiawnder fod tystiolaeth wedi'i recordio ymlaen llaw yn cynnal uniondeb barnwrol trwy ddangos unrhyw effaith ar benderfyniadau rheithgor, tra'n caniat\u00e1u i achosion fynd rhagddynt yn effeithiol.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Yr effaith ar dystion ifanc\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Gall tystion bregus sydd wedi profi camdriniaeth weld lleoliadau llys traddodiadol yn llethol a gall cyfleusterau fel The Lighthouse wneud gwahaniaeth hanfodol. Mewn safleoedd cyswllt o bell, gall tystion gymryd rhan yn y broses gyfiawnder gyda chefnogaeth briodol o'u cwmpas, gan eu helpu i deimlo'n well i gyfleu yr hyn a ddigwyddodd yn gywir.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wrth i ni ehangu darpariaeth cysylltiadau o bell a chyflwyno technolegau newydd fel PRE, rydym yn parhau i ganolbwyntio ar ein cenhadaeth: sicrhau bod cyfiawnder yn hygyrch i bawb, yn enwedig y rhai mwyaf agored i niwed mewn cymdeithas.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2025/05/09/remote-link-sites-transforming-court-experiences-for-vulnerable-witnesses/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "Discover how HMCTS remote link sites create welcoming spaces where vulnerable witnesses can share their evidence without facing a courtroom \u2013 making justice more accessible for those who need it most. "
+    },
+    {
+        "title": "How we value: small shops",
+        "authors": [
+            "Catherine Jones - National Valuation Lead"
+        ],
+        "posted_on": "2025-05-09T11:22:17",
+        "categories": [
+            "Business Rates",
+            "How We Value",
+            "Valuation Methods"
+        ],
+        "content": [
+            {
+                "content": "There are around 500,000 small shops across England and Wales, occupied by a variety of businesses, such as fashion retailers, homeware stores, convenience shops, and caf\u00e9s.",
+                "tag": "p"
+            },
+            {
+                "content": "A small shop is any retail unit under 1,850m\u00b2 (which is around 20,000 ft\u00b2). If you rent or own one, understanding how your business rates are calculated can help you manage your costs more effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "The Valuation Office Agency (VOA) is responsible for assessing the rateable value of all non-domestic properties in England and Wales. To do this, our surveyors use three main valuation methods, approved by the Royal Institution of Chartered Surveyors (RICS). For most shops, we use the rental comparison method.",
+                "tag": "p"
+            },
+            {
+                "content": "Let\u2019s take a closer look at this method and how we apply it to small shops.",
+                "tag": "p"
+            },
+            {
+                "content": "Factors to consider",
+                "tag": "h2"
+            },
+            {
+                "content": "We start by looking at the actual rent paid on the property. However, this doesn\u2019t always reflect its true market value. That\u2019s because the rent can be influenced by things like:",
+                "tag": "p"
+            },
+            {
+                "content": "Since the actual rent paid might not always reflect the property\u2019s value at a specific time, we also look at what similar nearby properties are rented out for to help build our picture of the property.",
+                "tag": "p"
+            },
+            {
+                "content": "For small shops, we use a measurement called the \u2018net internal area\u2019 to compare properties accurately and fairly.",
+                "tag": "p"
+            },
+            {
+                "content": "Measuring space - the net internal area",
+                "tag": "h2"
+            },
+            {
+                "content": "We use the net internal area to measure the useable space inside the shop. This includes areas like the sales floor, storage areas, desk space and customer areas. We don\u2019t include spaces such as staff toilets and stairwells.",
+                "tag": "p"
+            },
+            {
+                "content": "However, for most small shops, we take an extra step because the shape of the property matters. A shop where most space is near the front window is more valuable than a long, narrow shop where much of the space is hidden at the back, even if both have the same total area.",
+                "tag": "p"
+            },
+            {
+                "content": "Zoning",
+                "tag": "h2"
+            },
+            {
+                "content": "As small shops can vary in size and layout, we use what\u2019s called \u2018zoning\u2019 to reflect how different areas contribute to a shop\u2019s rental value.",
+                "tag": "p"
+            },
+            {
+                "content": "We divide shops into zones, each 6.1 metres (20 feet) deep:",
+                "tag": "p"
+            },
+            {
+                "content": "Dividing shops into zones means that shop values reflect their usability for retail purposes. For example, a customer looking in through the window of a shop will see the goods on display at the front with greater ease than goods to the rear of the shop. And a customer entering a shop is more likely to stay near the front of the shop than venture to the rear.",
+                "tag": "p"
+            },
+            {
+                "content": "More information about zoning can be found in our YouTube video.",
+                "tag": "p"
+            },
+            {
+                "content": "Analysing and adjusting rents",
+                "tag": "h2"
+            },
+            {
+                "content": "After gathering all this evidence, we make adjustments to the rent. We consider the actual rent paid and adjust this to take into account the factors to consider mentioned above.",
+                "tag": "p"
+            },
+            {
+                "content": "We then divide this adjusted rent by the area in terms of Zone A. This helps us fairly compare rental values of different shops in different locations.",
+                "tag": "p"
+            },
+            {
+                "content": "Making an accurate valuation",
+                "tag": "h2"
+            },
+            {
+                "content": "After analysing all available rental data, we can determine a \u2018tone of value\u2019 \u2013 a benchmark rental value for a group of similarly sized shops in a similar location.",
+                "tag": "p"
+            },
+            {
+                "content": "We may need to make additions or allowances for factors not reflected in the tone of rents.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, a tenant might have installed air conditioning, or the property could benefit from a prominent corner location with display windows on two streets \u2013 both of which could increase its value. On the other hand, there may be drawbacks, such as access being restricted by a flight of stairs or an awkward layout that limits the usable sales area. In such cases, we may apply an allowance to reflect the impact on value. ",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately, our goal is always the same: to determine a rateable value that reflects a reasonable estimate of market rent for a specific shop in a specific location",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "If you want to check your own rateable value, sign up for a business rates valuation account to view and understand your valuation.",
+                "tag": "p"
+            },
+            {
+                "content": "More information about the rental comparison method can be found in our blog.",
+                "tag": "p"
+            },
+            {
+                "content": "If you want to make a Check about your shop, you can use our guidance to support you.",
+                "tag": "p"
+            },
+            {
+                "content": "For further details on how we value properties, explore our other \u2018how we value\u2019 blogs on pubs, petrol stations and more.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://valuationoffice.blog.gov.uk/2025/05/09/how-we-value-small-shops-2/",
+        "blog": "Valuation Office Agency",
+        "blog_link": "https://valuationoffice.blog.gov.uk",
+        "description": "In this instalment of our How We Value series, we explain how small shops are valued across England and Wales. "
+    },
+    {
+        "title": "Building the future of government software engineering",
+        "authors": [
+            "Katherine Bhambra, Senior Content Designer, GDS"
+        ],
+        "posted_on": "2025-05-09T09:28:03",
+        "categories": [
+            "Transformation"
+        ],
+        "content": [
+            {
+                "content": "In the Heads of Engineering (HoE) group, we\u2019ve already seen remarkable success in helping to formalise and facilitate software engineering practices across government. Our next step is to go even further and create a brand new council that will directly steer decision making, with our recent HoE workshop helping to form the council\u2019s structure and purpose.",
+                "tag": "p"
+            },
+            {
+                "content": "The HoE is a special interest group created from leaders of the wider cross-government software engineering community, which was itself designed to bring together the expertise of everyone working in an engineering role in the public sector.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve made some fantastic progress in key areas, such as supporting career progression for engineers by identifying and planning pathways for specific engineering roles. Our group has proven to be an integral part of the overall community by turning their needs into real, tangible requirements, and the purpose of the new Engineering Excellence council will be to make sure that those requirements are met.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This council will push forward meaningful change and strategy that has been developed within the engineering community and its leadership group. We also hope that the council will represent the next step in initiating action and influencing the future state of modern digital government.",
+                "tag": "p"
+            },
+            {
+                "content": "The importance of creating a council",
+                "tag": "h3"
+            },
+            {
+                "content": "The reason that the new Engineering Excellence council is so important is that earlier in the year, the state of digital government review highlighted several critical issues within the digital supply chain. One of these was that senior leaders can lack the technical knowledge required to deliver effective digital services. This also ties in closely to the larger concern around siloed working hindering knowledge from being shared across teams, programmes, and even directorates.",
+                "tag": "p"
+            },
+            {
+                "content": "Following on from this, the blueprint for modern digital government set out the plan to join up public services, which will only be possible with the support of strong communities.",
+                "tag": "p"
+            },
+            {
+                "content": "The blueprint also focuses on elevating leadership, which means investing in the right people with the right expertise. In the case of software engineering, there is no better way to do this than by creating a leadership group from our existing community of practitioners.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While it might still be at an early stage, this council will play an important role in bridging the gap between those who work in the engineering space and senior decision makers. As the council\u2019s name suggests, its priority will be to establish and maintain excellence; it will bring the voice of engineering into strategy building.",
+                "tag": "p"
+            },
+            {
+                "content": "What this means in real terms is paving the way for future technology that is agile, flexible and seamless by helping to reduce governance processes. We also expect to see increased efficiency and sustainable, replicable processes that can be shared across leadership teams from all sectors.",
+                "tag": "p"
+            },
+            {
+                "content": "Building the council",
+                "tag": "h3"
+            },
+            {
+                "content": "6 March 2025 marked a year since the creation of the Heads of Engineering group. To celebrate this event, we hosted a virtual workshop to collaboratively explore the challenges faced by the engineering community and its leaders. These findings will become integral to shaping the new Engineering Excellence council.",
+                "tag": "p"
+            },
+            {
+                "content": "The session welcomed 28 participants from across the public sector, including the Driver and Vehicle Licensing Agency (DVLA), the Department of Work and Pensions (DWP), the Department for Education (DfE), the Cabinet Office, the Ministry of Justice (MoJ), and the Home Office, as well as devolved administrations and local councils.",
+                "tag": "p"
+            },
+            {
+                "content": "During the workshop, participants were asked to surface deep insights into the state of engineering leadership, and to prioritise key areas to inform the roadmap for the next 12 months.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also wanted to identify the biggest challenges within this sector. Participants described the need for better collaboration and more open-source contribution as their most important areas. Heavy governance processes and a lack of both common tooling and standardised software were also noted.",
+                "tag": "p"
+            },
+            {
+                "content": "The feedback to the workshop was overwhelmingly positive, with many attendees valuing the opportunity to align on key issues and openly challenge assumptions. Dimitris Perdikou, Chief Engineer for Government, noted:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe session really helped to explore what the Heads of Engineering community thought were key topics and initiatives to follow through with. It was insightful to find areas that lots of members aligned on, as well as areas where they either disagreed on the point itself or its priority. It has given us a community-driven list of topics to explore over the coming year.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "This feedback has shown that, by tapping into the expertise of key stakeholder groups, we can gather deep insights quickly and effectively. The knowledge we gained in this workshop is not just a snapshot; it\u2019s a valuable foundation for our work over the next 12 months.Our work around the future of software engineering and the Heads of Engineering council is ongoing. If you\u2019d like to get involved, contact us through our special interest group.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2025/05/09/building-the-future-of-government-software-engineering/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "Learn about why we\u2019re creating the Engineering Excellence council, and what it will mean to the wider software engineering community."
+    },
+    {
+        "title": "Transforming potential into impact: introducing the Knowledge Asset Spinouts Guide",
+        "authors": [
+            "namitbi"
+        ],
+        "posted_on": "2025-05-09T09:15:00",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Author: Jacob Coker, Head of Policy, and Cameron Fenwick, Senior Technology Transfer Strategic Partner, GOTT",
+                "tag": "p"
+            },
+            {
+                "content": "Introducing the new Spinouts guide\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The public sector hosts some of the UK\u2019s leading research and innovation, which, if commercialised as new products and services, could have huge economic and societal benefits to the UK economy and citizens.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A simple concept, but getting these innovations to market so that they can raise funding, scale, and flourish can be anything but straightforward \u2013 where do I start, who do I speak to, what do I need?\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s why the Government Office for Technology Transfer has this week published the first ever guide to creating spinouts from the public sector for organisations and innovators.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're also here to provide expert advice, guidance and grant funding, and to connect you with others on the same journey. Email GOTT@dsit.gov.uk to find out how we can support you.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s a \u2018spinout\u2019 and why do they matter?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Imagine taking a brilliant idea, nurturing it within the public sector, and then taking it out into the world as a standalone company. That's a spinout!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Spinouts are crucial because they help transform innovations, particularly high risk or transformative ones, into market-ready products and services, driving economic growth and improving people\u2019s lives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who is the Guide for?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "For individual innovators, the guide explains what you should expect in setting up and being part of a spinout \u2013 the considerations and the benefits.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For public sector organisations and corporate teams helping develop spinouts (maybe for the first time!), the guide takes you through all the key considerations and stakeholders to involve.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For investors and other organisations (e.g. HM Treasury and the National Audit Office), it sets out good practice for government organisations, making it simpler and faster for you to work with them to develop successful spinouts.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you're a spinout veteran or a curious beginner, this guide has got you covered.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The public sector spinout landscape\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In case you missed it, our previous blog on the public sector spinout landscape lifted the lid on the incredible economic impact of these spinouts.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From industry-leading project management tools to optical sensors for extreme environments, 84 public sector spinouts had raised a whopping \u00a35.1 billion in funding and were employing 7,370 people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It's clear that public sector spinouts aren\u2019t a flash in the pan \u2013 they\u2019re delivering results. This guide aims to make these opportunities accessible to a wider group of organisations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Key features of the guidance\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Spinouts not quite right for you or your innovation?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This week we\u2019ve also published the first ever guide to commercialisation for public sector organisations.",
+                "tag": "p"
+            },
+            {
+                "content": "It sets out the major routes to commercialisation, including not only spinouts, but also direct sales, licensing, and joint ventures.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "p"
+            },
+            {
+                "content": "Email GOTT@dsit.gov.uk\u202fto find out what support is available to you and your organisation!\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gott.blog.gov.uk/2025/05/09/transforming-potential-into-impact-introducing-the-knowledge-asset-spinouts-guide/",
+        "blog": "Government Office for Technology Transfer",
+        "blog_link": "https://gott.blog.gov.uk",
+        "description": "Author: Jacob Coker, Head of Policy, and Cameron Fenwick, Senior Technology Transfer Strategic Partner, GOTT Introducing the new Spinouts guide\u00a0 The public sector hosts some of the UK\u2019s leading research and innovation, which, if commercialised as new products and services, \u2026"
+    },
+    {
+        "title": "Unlocking Accessibility: Information Architects share their approach to digital accessibility and design with people with disabilities",
+        "authors": [
+            "Kelly Clarkson, Senior Accessibility Specialist, Government Digital Services"
+        ],
+        "posted_on": "2025-05-09T07:50:09",
+        "categories": [
+            "Unlocking Accessibility"
+        ],
+        "content": [
+            {
+                "content": "Our Unlocking Accessibility series focuses on asking various professions or teams specific questions about digital accessibility.",
+                "tag": "p"
+            },
+            {
+                "content": "In the next instalment of this series, we asked information architects from Government Digital Services (GDS) about their role in making digital services accessible, designing with people with access needs and sharing best practices for integrating accessibility into the information architecture process.",
+                "tag": "p"
+            },
+            {
+                "content": "Traditionally, information architects plan, design, and carry out research activities with users to help teams gain a deep understanding of the people who use public services.",
+                "tag": "p"
+            },
+            {
+                "content": "Question 1 - What advice would you give to an organisation just starting to prioritise accessibility in their information architecture?",
+                "tag": "h2"
+            },
+            {
+                "content": "Becky Ashley, Lead Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Embed accessibility into the organisation at every level and across every skillset. This can include awareness and education alongside more structured integration in internal workflows. A collective mindset and a clear process help to support intuitive,\u00a0 and inclusive architectural design.",
+                "tag": "p"
+            },
+            {
+                "content": "Sally Creasey, Senior Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Build advocacy amongst stakeholders and the people you work with from the start. This comes from sharing what you\u2019re planning or doing and involving people in the process, so they understand and feel confident in talking about accessibility in information architecture.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creating sitemaps, ontologies, and other types of knowledge organisation systems is all well and good, but if you don\u2019t take colleagues, stakeholders, and end users along with you, then you risk missing the mark and not meeting the needs of all users.",
+                "tag": "p"
+            },
+            {
+                "content": "Rik Williams, Senior Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Prioritising accessibility in information architecture means focusing on deliberate user-centred design in ontology (what the information is), taxonomy (how it\u2019s organised), and choreography (how users interact with it across time, channels, and contexts).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Accessible ontologies use clear, consistent concepts and connections, aiding those with cognitive disabilities, learning differences or limited domain knowledge. Whereas inclusive taxonomies use predictable, clear, and logical structures, helping screen reader and mobility-impaired users. Choreographies, meanwhile, connect these to accessible flow and interaction, creating logical sequences which create logical tabbing order for keyboard users, clear indication of focus, consistent navigation patterns, and understandable calls to action for everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking at these three pillars of information architecture, individually and cohesively, creates deeply usable systems - and the deeply usable is fundamentally accessible.",
+                "tag": "p"
+            },
+            {
+                "content": "Question 2 - How do you educate other team members (designers, developers, content creators) about the importance of accessibility in the information architecture process?",
+                "tag": "h2"
+            },
+            {
+                "content": "Becky Ashley, Lead Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Find a shared language across disciplines. Using shared frameworks outside of a specific skill-set can encourage a sense of collaboration and accountability. Think about how the POUR principles, which stand for Perceivable, Operable, Understandable, and Robust, could apply to your workstream:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sally Creasey, Senior Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "You need to be the change you want to see. Championing accessibility and users in all areas of practice. I emphasise the importance of intuitive and consistent labelling to support wayfinding in expected and understandable ways. The logical organisation of concepts that map to users\u2019 mental models, and contextually meaningful metadata to enable more tailored experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "We need to think of frontend and backend users with disabilities, continuing to involve users throughout the process of creating multi-channel experiences and publishing products. Being able to use a Content Management System (CMS) or tag content from a taxonomy is as important as navigating a website.",
+                "tag": "p"
+            },
+            {
+                "content": "Rik Williams, Senior Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Design teams can easily become distant from users and create services that are hard to understand, unpleasant to use, or don\u2019t create the right information.",
+                "tag": "p"
+            },
+            {
+                "content": "This is especially true when designing for users with diverse abilities and contexts. Direct contact with these users is ideal, but if not possible, simulations can help bridge the gap between designers and reality. Uncovering issues with information architecture affecting things like process and task completion, clarity in relationships, consistency, and organisation of content.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Although simulations, like using vision-impairing glasses, motor control limiting gloves or playing games like empathy balloons, can be valuable, they also have limitations and should be used carefully.",
+                "tag": "p"
+            },
+            {
+                "content": "Question 3 - What are some common accessibility pitfalls in information architecture, and how do you avoid them?",
+                "tag": "h2"
+            },
+            {
+                "content": "Becky Ashley, Lead Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Architecting or re-architecting information and thinking you\u2019ve finished. We need to be cognisant, empathetic and constantly aware of what we can do to continuously improve and iterate information flows to meet emerging user needs. Your information system (in any form it takes) must be able to adapt.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Think about the labels that contain your code and content. These labels can perform the role of accessible metadata. Constructing a continuous feedback loop between user needs and data ensuring code and content can flex to changing user needs.",
+                "tag": "p"
+            },
+            {
+                "content": "Sally Creasey, Senior Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Common accessibility pitfalls in information architecture, I\u2019d say organising your information structure solely around stakeholder and organisational needs, rather than user needs. Allowing delivery pressures to squeeze your user research time, so you don\u2019t test with a range of users.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Using jargon in labelling or creating sections with very similar purposes that the user finds hard to decipher (the paradox of choice!) Not creating a controlled vocabulary that ensures consistency in language and naming, so you have slightly different names for the same things.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All these things add unnecessary mental load to users, and particularly users with additional needs or disabilities.",
+                "tag": "p"
+            },
+            {
+                "content": "Rik Williams, Senior Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Information Architects design understanding, making the unclear clear to users. This has a direct link to cognitive accessibility. For example, information architectures design structures that ensure services are usable by people with limits to their ability to focus, maintain attention, process, or sequence information. Perhaps because of a congenital condition, like dyslexia, a medical condition like dementia or a lifestyle context that overwhelms thinking.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Including people with these needs underpins effective design through choreographing information architecture that works within cognitive limits. So things like the hierarchy of steps in a service flow, progressive disclosure of data capture, clear orientation and the ability to provide more than one way to meet needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Question 4 - What tools and processes do you use to ensure that the information architecture you design is accessible to users with disabilities?",
+                "tag": "h2"
+            },
+            {
+                "content": "Becky Ashley, Lead Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Tools and processes need to adapt to user needs. I try to balance between standards as part of the process and future tooling for contextual relevance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applying the principle of universality to process via standards really helps. Web founder Tim Berners-Lee emphasises \u201cthe power of the web is in its universality\u201d founding the World Wide Web Consortium and creating the web accessibility initiative to support access for everyone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Industry awards like Tech4Good are a great source of insight and inspiration for integrating emergent technology with access needs.",
+                "tag": "p"
+            },
+            {
+                "content": "Sally Creasey, Senior Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "I always start with users. You can\u2019t create a sitemap or a taxonomy in isolation. You have to think about who\u2019ll be using it. What are their access needs? What language and terminology do they understand? How much information is too much?",
+                "tag": "p"
+            },
+            {
+                "content": "Techniques like progressive disclosure help reveal content at the right pace for users. Noun and verb foraging, card sorting and tree testing can show how users speak and what matters to them. With AI advances and investment in metadata, we can explore how to serve highly relevant content to users with access needs via their preferred channel.",
+                "tag": "p"
+            },
+            {
+                "content": "Rik Williams, Senior Information Architect, Government Digital Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Information architecture requires designing structures and interactions that are understandable, usable, and enjoyable. This is based on human diversity and varying abilities. Contextual, field-based research reveals how people interact with products and services, and their workarounds to overcome accessibility barriers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Object-Oriented Design (OOD) can create information environments built around tangible things and standardise attributes. OOD also connects information architecture and accessibility and creates consistency. It ensures accessible text structure, personalisation and broadens accessibility guidelines to more technologies.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://accessibility.blog.gov.uk/2025/05/09/unlocking-accessibility-information-architects-share-their-approach-to-digital-accessibility-and-design-with-people-with-disabilities/",
+        "blog": "Accessibility in government",
+        "blog_link": "https://accessibility.blog.gov.uk",
+        "description": "We asked information architects for advice on prioritising accessibility, educating teams, avoiding pitfalls, and using tools to ensure accessible information architecture."
+    },
+    {
         "title": "Born in Britain: the innovators and inventions that helped win World War II\u00a0",
         "authors": [
             "Sara Jones"
