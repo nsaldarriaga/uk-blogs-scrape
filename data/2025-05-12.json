@@ -1,5 +1,474 @@
 [
     {
+        "title": "GOV.UK Wallet: Building momentum, working in partnership\u00a0",
+        "authors": [
+            "Natalie Jones OBE - Director of Digital Identity, Government Digital Service"
+        ],
+        "posted_on": "2025-05-14T16:31:58",
+        "categories": [
+            "GOV.UK Wallet"
+        ],
+        "content": [
+            {
+                "content": "In January, our Secretary of State, Peter Kyle set out a vision for a modern digital government focussed on improving people\u2019s experiences when accessing the public services they need, and making Government work better.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "GOV.UK Wallet is one of the 5 kickstarters delivering against the Blueprint which sets out a vision for modern digital government to deliver on 5 outcomes for the public:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Faster growth: helping businesses start and scale by delivering services that work as well as they do for citizens.",
+                "tag": "p"
+            },
+            {
+                "content": "3. Firmer foundations: securing public services so they are trustworthy and resilient.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Smarter organisations: changing how delivery is done to embed the right ways of working, moving at the same pace that people\u2019s lives do, and working as agile, user-centred, multidisciplinary teams by default.",
+                "tag": "p"
+            },
+            {
+                "content": "5. Higher productivity and efficiency: saving public money, delivering outstanding public services at a price we can afford, and enabling front-line workers to focus on delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "The announcement generated significant interest in how the GOV.UK Wallet could work, where it could be used, and how we'd make good on the government\u2019s commitment to work with industry. Top of mind has been how we can meet such an ambitious timeline - to build and make usable a digital wallet for government along with an early set of credentials in a single calendar year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today marks the start of our formal engagement with the technology sector, with an event unveiling the working principles of the GOV.UK Wallet we\u2019ve been developing until now. The aim of this event was to give private sector identity providers an update on the government's proposals and help them prepare for the critical role we want them to play in this work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our challenge to technology providers\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "At the event, we set a challenge to the private sector identity providers in the room. The GOV.UK Wallet opens the door to two clear use cases for the private sector to innovate.",
+                "tag": "p"
+            },
+            {
+                "content": "To create an orchestration service to facilitate data sharing: This means simply orchestrating the data flow between the information in your GOV.UK Wallet, and the retailer trying to check you are eligible to buy an age restricted product or service. This is about providing information from digital credentials stored in the GOV.UK Wallet to the people who need to see them in a secure and reliable way. It\u2019s similar to how card payment services connect your bank account to retailers and facilitate the information exchange which lets you buy things. End users might see this model if using their digital driving licence to prove their age in a shop.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Identity or holder services: Just as identity services can take information from scans or photos of physical documents as the basis to offer a range of products, they\u2019ll be able to take this information from digital credentials in the GOV.UK Wallet if the user chooses to share them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These private sector services can then add value, for instance attaching other information. They might also create a reusable \u2018derived credential,\u2019 which is a new credential that would allow users to prove things about themselves, without going back to the GOV.UK Wallet.\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building on strong foundations",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019re building on strong foundations, using the already established GOV.UK One Login, which allows users to safely and securely confirm their identity. This technology means only the user of the GOV.UK Wallet will be able to store, access and use the digital documents within it, reducing fraud.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re kicking off engagement with the technology sector to build on our established\u00a0 foundations, enabling future collaboration as we change the way users can prove information about themselves. And it\u2019s no small task. We\u2019re building the UK\u2019s first government digital wallet, enabling multiple private sector organisations to build the technology to check and share information from it.",
+                "tag": "p"
+            },
+            {
+                "content": "Important to remember is that we're following in the footsteps of some fantastic examples. We're applying learnings from Australia, Estonia, Ukraine and some states in the USA who have all rolled out digital wallets to improve the access and convenience of digital services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next? ",
+                "tag": "h2"
+            },
+            {
+                "content": "Our ambition is to see the first credential in the GOV.UK Wallet live this summer with the launch of the digital veterans card in partnership with the Office of Veterans\u2019 Affairs and Ministry of Defence. Later in the year, we will begin the initial roll out of the digital driving licence which in time could be used for everything your physical one can do - with the benefit of quick access to your government credentials in your pocket. Importantly, this is not about replacing paper documents - it\u2019s about allowing people the choice to use digitised credentials where it works better for them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside the build of the GOV.UK Wallet and preparing for the first two credentials, our team is engaging across government to identify more potential credentials from other government departments as part of our Blueprint commitment to require services to issue a digital verified credential alongside any paper or card based credential or proof of entitlement eligibility by the end of 2027. This is opening the door to a world where an array of government-issued documents can be easily stored in your phone, in one place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Digital Verification Services can use our technical documentation to find out about the open standards we are working to, and provide feedback. We will add further documentation to GOV.UK as the product develops.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is the first step, and we are starting further collaboration opportunities. Providers will be able to take part in a technical engagement, as we work to understand their needs and how we can make the GOV.UK Wallet a success together. It marks the something truly transformative, and we\u2019re proud to be a part of it.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2025/05/14/gov-uk-wallet-building-momentum-working-in-partnership/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "An update about GOV.UK Wallet and our engagement with the technology sector."
+    },
+    {
+        "title": "Coverage following the National Drought Group meeting",
+        "authors": [
+            "Defra Press Office"
+        ],
+        "posted_on": "2025-05-14T16:04:36",
+        "categories": [
+            "Environment Agency",
+            "water"
+        ],
+        "content": [
+            {
+                "content": "There has been widespread media coverage following the driest start to spring in 69 years across England.",
+                "tag": "p"
+            },
+            {
+                "content": "Publications include BBC, The Sun, The Daily Mail, The Mirror and The Telegraph. Environment Agency Area Manager Matthew Gable was also interviewed on BBC Breakfast this morning (Wednesday 14 May).",
+                "tag": "p"
+            },
+            {
+                "content": "This follows the National Drought Group meeting convened by Environment Agency last week (Wednesday 7 May) to urge water companies to do more to safeguard water supplies. Whilst there are currently no plans for hosepipe bans, if the prolonged dry weather continues, water companies may need to implement their dry weather plans in the weeks and months ahead.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In England, March was the driest since 1961 and April received just half its normal rainfall. Farmers have had to start irrigating crops earlier and reservoir levels are either notably low or exceptionally low across the North East and North West of England. Both these regions have seen their driest start to the year since 1929.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While no area is currently officially in drought there is a medium risk of one this summer without sustained rainfall.",
+                "tag": "p"
+            },
+            {
+                "content": "Environment Agency Deputy Director of Water, Richard Thompson, said: \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With rapid population growth and climate change, pressure on our water system is skyrocketing. That is why this Government is taking action to increase our water supply, including urgent action to reduce water company leaks and use water more efficiently, alongside new supply infrastructure.\u00a0Water companies have committed to deliver nine new reservoirs and multiple new water transfer schemes to share resources.",
+                "tag": "p"
+            },
+            {
+                "content": "A Defra spokesperson said:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://deframedia.blog.gov.uk/2025/05/14/coverage-following-the-national-drought-group-meeting/",
+        "blog": "Defra in the media",
+        "blog_link": "https://deframedia.blog.gov.uk",
+        "description": "There has been widespread media coverage following the driest start to spring in 69 years across England. Publications include BBC, The Sun, The Daily Mail, The Mirror and The Telegraph. Environment Agency Area Manager Matthew Gable was also interviewed on \u2026"
+    },
+    {
+        "title": "Lifting the lid on the UK digital identity ecosystem: Digital Identity Sectoral Analysis 2025\u00a0",
+        "authors": [
+            "Henri McKenzie-Freedman"
+        ],
+        "posted_on": "2025-05-14T15:29:31",
+        "categories": [
+            "Digital identity"
+        ],
+        "content": [
+            {
+                "content": "Today, we publish our first full sectoral analysis of the UK\u2019s digital identity ecosystem.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The aim of the report \u2013 which was produced by an independent research consortium \u2013 is to establish a baseline of measures of the digital identity sector so that we can capture trends, tracking these on a regular basis to understand how the market is performing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog post, we\u2019ll try to give a snapshot of a few of the key findings \u2013 but for full details, head over to GOV.UK to read the full report.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Consumer attitudes and use of digital identity products\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The most significant change to the interim report published last year is the inclusion of findings from an online and telephone survey of 3,561 consumers across the UK, including people from a range of backgrounds and levels of digital access and skill.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through our survey questions, we wanted to explore peoples\u2019 understanding of digital identity, usage of products, benefits derived, and barriers to adoption.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Among the key findings were that that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The report also includes new analysis of understanding, attitudes and adoption of digital identity based on different demographics (age, ethnicity, household income), varying forms of existing ID, and levels of digital access and skill.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And it highlights the important role of government, with 75% of respondents saying it was important to them that a service was tested against government standards.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A \u00a32.1 billion UK digital identity provider market\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The full report updates core figures on UK digital identity sector size and scale, with findings including:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The report takes a deeper dive than previously into the global perspective, finding that the UK sector is highly internationalised. For example, 1 in 4 firms based in the UK are headquartered internationally, suggesting the UK is an attractive place for Foreign Direct Investment (FDI). It also finds that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking into the wider innovation and research & development ecosystem in the UK, the report finds that 1 in 20 firms (6%) have received publicly-funded investment for research. Innovative solutions produced by the sector are exported globally, for example to support social vouching.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A few initial reflections",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019ve found the results of this work fascinating, and there\u2019s still much to chew through from our published report. But for us, a few key things are emerging from the findings:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Towards the next report",
+                "tag": "h3"
+            },
+            {
+                "content": "Producing this report has been no small task, and we\u2019re really grateful to our consortium of providers \u2013 Oliver Wyman, Perspective Economics and Projects by If \u2013 for providing expert insight and challenge through the process. We\u2019re also grateful to all the digital identity providers who commented on the methodology and approach.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll be repeating this research on an annual basis, to help us track market trends and consumer attitudes \u2013 in part, helping to inform the annual report that OfDIA will produce as required by the Data Bill.\u00a0 We\u2019ll be coming back out to stakeholders in due course to help guide priorities for future research, based on this year\u2019s findings. \u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2025/05/14/lifting-the-lid-on-the-uk-digital-identity-ecosystem-digital-identity-sectoral-analysis-2025/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "Today, we publish our first full sectoral analysis of the UK\u2019s digital identity ecosystem."
+    },
+    {
+        "title": "Unlocking planning innovation: 150 brilliant minds collaborate in Leeds\u00a0",
+        "authors": [
+            "The Digital Planning team"
+        ],
+        "posted_on": "2025-05-14T13:40:29",
+        "categories": [
+            "Digital Planning"
+        ],
+        "content": [
+            {
+                "content": "Innovation came to life at the recent Local Government Innovation Hackathon, in Leeds.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This high-energy, two-day event, saw 150 of the brightest planners, technologists, and digital leaders from across local and central government and industry, collaborate to tackle real-world planning challenges.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From AI powered solutions to data-driven insights, the atmosphere buzzed with creativity.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the Ministry for Housing, Communities and Local Government (MHCLG), we were proud to help organise the event, which was hosted by the Government Digital Service (GDS) and Incubator for AI (i.AI) and reimagine the future of local government planning services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The hackathon is one of many ways that MHCLG and Digital Planning are exploring more collaborative, hands-on approaches to technology and AI, bringing together different perspectives and creating a safe space for innovation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Designing challenges based on real-world experience\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We worked closely with local authorities, many from the Open Digital Planning community, in the lead-up to the event to shape four problem statements, grounded in the real challenges they face daily. We were committed to supporting innovation that\u2019s rooted in lived experience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The problem statements we arrived at focused on the following areas:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Successful collaborative partnerships\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Through our partnership with the Open Digital Planning community, we helped to fund and support local government teams to participate, bringing valuable planning expertise to the exercise.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A standout moment was one of the introductory presentations, on the first day, in which members of the Open Digital Planning community \u2013 Angela Barnicle, Head of City Development, and Martin Elliott, Head of Strategic Planning \u2013 both from Leeds City Council, Lisa Maryott, Head of Business Development at Medway Council, and Jo Sterrick, Digital Engagement Lead at West Oxfordshire and Cotswold Council, brought to life the key challenges for planning and the problem statements. It was great to have these local government voices explore the challenges in depth for everyone.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What made this event especially exciting was the collaborative approach between MHCLG, the Department for Science, Innovation and Technology (including GDS and the i.AI) and Open Digital Planning. Each partner contributed different perspectives and approaches, with the blend helping to shape the event\u2019s design, focus, facilitation and energy.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This spirit of collaboration was mirrored in the participating teams, which combined planners, AI technologists, delivery leaders, data and digital specialists, working together to tackle the complex planning challenges.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It was this mix of skills and mindsets that that was instrumental in generating such impressive outputs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Outstanding innovation in a short timeframe\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Despite the limited time available, the quality of work produced was genuinely outstanding. The creativity, ambition, and technical skill on show was inspiring and impressed our judging panel, which included Chief Planner Joanna Averley and Milan Bogunovic, Digital Planning Programme Director.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They had a tough job and were incredibly impressed \u2013 not just by the ideas, but by the clarity of thinking and potential impact.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The winning team created \u2018Clio\u2019, an innovative AI tool that transforms data from planning decision and enforcement notices into instant insights about a site\u2019s planning history, helping officers assess planning applications more efficiently. As their prize, the team will present their working prototype to the Minister for AI and Digital Government, Feryal Clark MP, and explore their solution further with the i.AI team.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The power of cross-discipline collaboration\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The hackathon was a reminder of what\u2019s possible when we create the right environment for ambition and innovation. It showed that meaningful progress doesn\u2019t happen in silos \u2013 it emerges when diverse voices unite around shared challenges with the space to build something new.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "MHCLG recently set up a new Artificial Intelligence (AI) Directorate to support better use of AI across MHCLG and local government with the aim of maximising efficiency and improving service delivery.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This hackathon represents a significant step in our ongoing work to harness innovative technology, including AI, to transform planning processes in England. By bringing together diverse expertise and focusing on practical solutions, we're helping build the foundations for more efficient, accessible and data-driven planning systems that better serve our communities.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/05/14/unlocking-planning-innovation-150-brilliant-minds-collaborate-in-leeds/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Innovation was sparked at the Local Government Innovation Hackathon, where 150 planners, technologists and digital leaders collaborated to solve real planning challenges. MHCLG proudly co-organised the event with Government Digital Service, Incubator for AI and Open Digital Planning, reimagining planning services through this hands-on approach. "
+    },
+    {
+        "title": "Protecting the UK\u2019s potatoes from the Colorado beetle",
+        "authors": [
+            "Kelvin Hughes"
+        ],
+        "posted_on": "2025-05-14T10:24:40",
+        "categories": [
+            "Plant health"
+        ],
+        "content": [
+            {
+                "content": "Next week we\u2019ll be at the RHS Chelsea Flower Show calling on gardeners, allotment owners and the general public to look out for the Colorado beetle \u2013 a plant pest that poses a major threat to the UK\u2019s food security.",
+                "tag": "p"
+            },
+            {
+                "content": "The Colorado beetle (Leptinotarsa decemlineata) has an insatiable appetite for potato foliage.\u00a0 Within days of appearing, its larvae and adult beetles can strip plants bare, which can have a devastating effect on the production of potato tubers and, consequently, food supply.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over two thirds of potatoes consumed in the UK are grown here, so if the beetle is found, we must act quickly to eradicate it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The beetle was first found in Europe at the end of the nineteenth century, having been accidentally imported from the USA, leading to the destruction of crops. Fortunately, it has not established in the UK, thanks to public and grower vigilance plus regulation which goes back to the Destructive Insects Act of 1877.",
+                "tag": "p"
+            },
+            {
+                "content": "Working together to keep the beetle at bay",
+                "tag": "h2"
+            },
+            {
+                "content": "APHA and partners play a vital role in protecting the UK from plant diseases and pests, including the Colorado beetle.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK\u2019s response plan for Colorado beetle ensures we are well prepared for any potential outbreaks.\u00a0 In July 2023, following a report from a responsible and vigilant potato grower, our Plant Health and Seeds Inspectors put this plan into action, after identifying the presence of Colorado beetle larvae in the grower\u2019s potato field. This was the first time the pest had been confirmed in a UK potato crop since 1977. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The grower\u2019s vigilance and prompt action led to extensive field inspection and pest management, resulting in the swift destruction of the pest. This has been confirmed by extensive surveying of the infected and surrounding area, which continues into 2025.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Impact on trade and the economy",
+                "tag": "h2"
+            },
+            {
+                "content": "In 2023, the UK produced over 4.7 million tonnes of potatoes, and our potato industry was valued at \u00a31 billion. An outbreak of Colorado beetle, if not eradicated when detected, would have a significant economic impact on the industry and the wider economy, including export markets.",
+                "tag": "p"
+            },
+            {
+                "content": "As well as feeding on potato foliage, adult beetles and their larvae feed on other plants in the nightshade family, including tomatoes and woody nightshade. They do not pose a threat to human or animal health.",
+                "tag": "p"
+            },
+            {
+                "content": "The Colorado beetle remains a high threat to UK agriculture. The pest is now present across large parts of Continental Europe, North America and Central Asia and each year our inspectors respond to several findings, often reported by the public.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What do the beetles look like?",
+                "tag": "h2"
+            },
+            {
+                "content": "The Colorado beetle\u2019s body is yellow or cream with 10 black stripes and it has an orange head with irregular black spots. It is usually between 6 to 11mm in length and 3mm in width. Its larvae are a pinkish red or orange colour, with black spots along each side and a black head and are up to 15mm in length.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Although distinctive in appearance, there are several beetles that are frequently mistaken for them, such as the Harlequin ladybird and the Burying beetle. The Colorado potato beetle plant pest factsheet provides more information about the beetle\u2019s life cycle and provides information on how to differentiate it from some of our native beetle species.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where to spot them",
+                "tag": "h2"
+            },
+            {
+                "content": "Farmers, allotmenteers and home gardeners who grow potatoes should look out for the beetles and larvae on their vegetable patches or fields.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is important to remain vigilant, because the beetle can easily fly between allotments, home vegetable patches and commercial plots.",
+                "tag": "p"
+            },
+            {
+                "content": "The pests have been known to come into the UK as \u2018hitchhikers\u2019 on non-host plant material grown and packaged on the continent, such as leafy vegetables, salad leaves, fresh herbs, grain and frozen peas, so do keep an eye out when handling these items.",
+                "tag": "p"
+            },
+            {
+                "content": "How to report sightings",
+                "tag": "h2"
+            },
+            {
+                "content": "If you find a Colorado beetle, please do not let it go \u2013 capture it in a secure container and report it to APHA as soon as possible. To report a sighting, you can:",
+                "tag": "p"
+            },
+            {
+                "content": "All sightings reported on email should include a photograph and location details.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can find further information in the pest specific plant health response plan and in our previous GOV.UK news story.",
+                "tag": "p"
+            },
+            {
+                "content": "Spreading the word at the RHS Chelsea Flower Show",
+                "tag": "h2"
+            },
+            {
+                "content": "If you want to find out more about the Colorado beetle, you can find APHA in the GreenSTEM\u00a0area of the Great Pavilion at the RHS Chelsea Flower Show from Tuesday 20 May to Saturday 24 May.",
+                "tag": "p"
+            },
+            {
+                "content": "Our exhibit offers an immersive experience, with practical tips on how to play your part in keeping the pest out of Great Britain to \u2018save our spuds\u2019!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2025/05/14/protecting-the-uks-potatoes-from-the-colorado-beetle/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "Calling on gardeners, allotment owners and the general public to look out for the Colorado beetle \u2013 a plant pest that poses a major threat to the UK\u2019s food security."
+    },
+    {
         "title": "Learning at Work Week: Discover the GSE awareness courses",
         "authors": [
             "gseprofession"
