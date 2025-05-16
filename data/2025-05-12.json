@@ -1,5 +1,672 @@
 [
     {
+        "title": "GMP & GDP Certificates",
+        "authors": [
+            "Ian Jackson"
+        ],
+        "posted_on": "2025-05-16T16:49:01",
+        "categories": [
+            "Good distribution practice",
+            "Good manufacturing practice"
+        ],
+        "content": [
+            {
+                "content": "The purpose of this blog is to describe our approach to the validity date of UK issued certificates confirming compliance with Good Manufacturing Practice (GMP) and Good Distribution Practice (GDP).",
+                "tag": "p"
+            },
+            {
+                "content": "Following the end of the COVID-19 public health emergency declared by WHO in May 2023[1], on-site GMP and GDP inspections were restarted after being postponed, or carried out remotely, during the pandemic.\u00a0 This resulted in the GMP and GDP certificates for many sites having exceeded the accepted validity period. The validity of GMP and GDP certificates has subsequently been extended annually via a statement on our database with the last extension having ended December 2024[2].",
+                "tag": "p"
+            },
+            {
+                "content": "GMP Certificates",
+                "tag": "h2"
+            },
+            {
+                "content": "GMP certificates are critical to enable global trade and regulatory submissions.",
+                "tag": "p"
+            },
+            {
+                "content": "GMP certificates are for the purpose of confirming the overall conclusion of an inspection with respect to compliance with GMP. They may be used by applicants to support regulatory submissions. Within the UK they do not replace confirmation of the holding of an EU or UK manufacturing authorisation.",
+                "tag": "p"
+            },
+            {
+                "content": "A desk-based GMP Compliance Assessment has been developed to enable us to review the level of control and compliance at a manufacturing site. Since December 2024, we have been providing a reactive service to holders of UK manufacturing authorisations contacting us because they need an updated GMP certificate to continue trading. In January 2025, this was extended to 3rd country manufacturing sites under MHRA oversight for GMP compliance.\u00a0 Once the required information has been received, we aim to conclude the assessment within 28 working days.",
+                "tag": "p"
+            },
+            {
+                "content": "Manufacturer\u2019s authorisations & GMP certificates may be verified using the MHRA-GMDP database or the EU database.",
+                "tag": "p"
+            },
+            {
+                "content": "Manufacturers that require a new GMP certificate should contact the team via email: gmpinspectorate@mhra.gov.uk",
+                "tag": "p"
+            },
+            {
+                "content": "GDP Certificates",
+                "tag": "h2"
+            },
+            {
+                "content": "MHRA do not intend to automatically extend GDP certificates approaching, or beyond, 5 years of their issuing into 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "GDP Certificates do not expire and can be considered valid, however, organisations should seek their own assurances of the GDP compliance of sites when undertaking their due diligence and consider the reliability of the certificate in their assessments.",
+                "tag": "p"
+            },
+            {
+                "content": "Should you have a specific requirement for GDP Certificates, for example to support regulatory submissions, please contact the GDP Inspectorate mail box: gdpinspectorate@mhra.gov.uk",
+                "tag": "p"
+            },
+            {
+                "content": "Inspections and compliance oversight",
+                "tag": "h2"
+            },
+            {
+                "content": "MHRA will continue to perform risk-based supervision of sites through either on-site inspections or distant assessments and, based on the outcome, may continue to issue, withdraw or restrict GMP and GDP certificates, as appropriate.\u00a0 Scheduling of these inspections may be independent of the extended validity period stated above.",
+                "tag": "p"
+            },
+            {
+                "content": "This is a risk proportionate regulatory approach, that enables us to support safe and secure manufacturing and supply chains without compromising patient safety.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhrainspectorate.blog.gov.uk/2025/05/16/gmp-gdp-certificates/",
+        "blog": "MHRA Inspectorate",
+        "blog_link": "https://mhrainspectorate.blog.gov.uk",
+        "description": "The purpose of this blog is to describe our approach to the validity date of UK issued certificates confirming compliance with Good Manufacturing Practice (GMP) and Good Distribution Practice (GDP). Following the end of the COVID-19 public health emergency declared \u2026"
+    },
+    {
+        "title": "How schools are using innovative ways to support student wellbeing",
+        "authors": [
+            "Gill Bell"
+        ],
+        "posted_on": "2025-05-16T16:48:38",
+        "categories": [
+            "Pupil wellbeing and behaviour",
+            "School attendance"
+        ],
+        "content": [
+            {
+                "content": "Gill Bell, student councillor at Salford City Academy, and Headteacher Nichola Potts from Christ the King RC Primary School in Salford, talk about their approaches to student wellbeing in school.",
+                "tag": "p"
+            },
+            {
+                "content": "A wellbeing-centred approach to school life (Nichola Potts)",
+                "tag": "h2"
+            },
+            {
+                "content": "Christ the King RC Primary School is committed to helping every child achieve their potential in a supportive environment. Our inclusive curriculum ensures all children see themselves reflected in their learning through content that celebrates diversity and integrates various cultural perspectives. This approach fosters belonging regardless of background while promoting engagement, cultural awareness, and empathy among pupils.",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond traditional learning",
+                "tag": "h3"
+            },
+            {
+                "content": "Our \"Vow to Wow Curriculum\" supplements traditional subjects through rich experiential learning that nurtures each child's unique strengths. Play forms an essential component of our educational philosophy, with approaches like 'Mantle of the Expert' and 'Tinkering for Learning' which see children fostering critical thinking and problem-solving skills.",
+                "tag": "p"
+            },
+            {
+                "content": "Building strong community connections",
+                "tag": "h3"
+            },
+            {
+                "content": "Connectedness stands as our core objective, building strong relationships among students, staff, families, and the wider community. Our proactive approach to supporting vulnerable families has placed us in the top ten percent nationally for attendance. The consistency of our dedicated staff, many serving for decades, creates a stable environment where children thrive.",
+                "tag": "p"
+            },
+            {
+                "content": "Proven success through collaboration",
+                "tag": "h3"
+            },
+            {
+                "content": "Our personalised \"no outsiders, no one left behind\" philosophy ensures all children flourish both academically and personally. Through extensive local, national, and global partnerships, we continually enhance our practices, consistently achieving above-average results while developing socially responsible individuals ready to contribute positively to society.",
+                "tag": "p"
+            },
+            {
+                "content": "Mental Health Support Teams at Salford City Academy (Gill Bell)",
+                "tag": "h2"
+            },
+            {
+                "content": "Salford City Academy is fortunate to benefit from the support of Thrive in Education, Salford's Mental Health Support Team initiative. Over the current academic year, more than 20 students have benefitted from one-to-one support from mental health practitioners and emotional support workers.",
+                "tag": "p"
+            },
+            {
+                "content": "Behaviour, attendance, and academic progress have been monitored to discover the effectiveness of the interventions. The trend is for a reduction in incidences of negative behaviour and improved attendance. All students who have engaged in one-to-one support report feeling grateful for the support and say that it has made a 'positive difference'.",
+                "tag": "p"
+            },
+            {
+                "content": "School-wide initiatives",
+                "tag": "h3"
+            },
+            {
+                "content": "In addition to the one-to-one support, the Thrive in Education team has delivered assemblies about how to manage anxiety and run workshops for parents to help them identify problems early and support their children. The team has also run activities around Mental Health Awareness Week.",
+                "tag": "p"
+            },
+            {
+                "content": "Benefits of in-school support",
+                "tag": "h3"
+            },
+            {
+                "content": "One of many advantages of the project is that the Thrive team come into the school. For various reasons (such as poverty, parental mental health, parents' working, and childcare responsibilities), our families are often unable to attend appointments outside of school. Bringing the support in therefore allows students to benefit more often than if they had to travel to an external site.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://teaching.blog.gov.uk/2025/05/16/innovative-ways-to-support-student-wellbeing/",
+        "blog": "Teaching",
+        "blog_link": "https://teaching.blog.gov.uk",
+        "description": "School staff share their approaches to student wellbeing "
+    },
+    {
+        "title": "Planning reform: protecting nature while supporting growth\u00a0",
+        "authors": [
+            "Environment blog team"
+        ],
+        "posted_on": "2025-05-16T16:23:13",
+        "categories": [
+            "Land use",
+            "Nature",
+            "Planning"
+        ],
+        "content": [
+            {
+                "content": "Nature is the bedrock of our entire way of life.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are deeply connected to nature through the beauty of our ever-changing seasons and our treasured wildlife, from puffins to hedgehogs. Healthy ecosystems make our food systems and water supplies more reliable. They remove carbon from the atmosphere, cool our towns and cities, and improve public health. They help create thriving, healthier communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we work to build the homes and infrastructure our communities need, there have been questions about whether the Planning and Infrastructure Bill might come at the expense of nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Many people care deeply about protecting our countryside, wildlife, and green spaces - and so does the Government.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this post, we\u2019ll share with you more about the Bill and the Government\u2019s vision for a planning system that delivers for both nature and people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Introducing the Planning & Infrastructure Bill\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The current system of Environmental assessments and case-by-case negotiations often slow down housing and infrastructure delivery, and the condition of our environment and important habitats has continued to decline despite these protections. This is a lose-lose situation for our economy, communities and nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Currently, there is often little or no strategic coordination of the conservation measures deployed to address development impacts on protected habitats and species.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To grow the economy and recover nature we need new tools and a new approach, which is where the new Planning and Infrastructure Bill comes in.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Bill has been designed to speed up house building without compromising nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Planning and Infrastructure Bill does not remove environmental protections\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some have expressed concerns the Bill could \"erase\" environmental protections or give developers free rein to damage habitats and wildlife.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Planning and Infrastructure Bill does not remove environmental protections but provides an alternative route to discharging existing obligations. But, crucially, this will only be possible where an Environmental Delivery Plan is in place which sets out how conservation measures will deliver better environmental outcomes for the environmental feature being addressed.",
+                "tag": "p"
+            },
+            {
+                "content": "To ensure the delivery of these measures, the Bill requires developers to make appropriate contributions in respect of the environmental impact of the development.\u00a0Natural England \u2013 England\u2019s nature conservation body \u2013 will then use this funding to secure meaningful and lasting improvements to nature. This alternative approach will only be used when it can deliver better outcomes funded through levy payments.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting a more strategic approach to nature recovery\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A key feature of the Bill, designed to support both nature and the economy, is the new Nature Restoration Fund.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By capturing developer contributions through Environmental Delivery Plans Natural England will make better use of the millions of pounds that are spent each year on bespoke mitigation and compensation schemes, by using this money to fund strategic interventions that provide greater benefit for nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But we recognise that it is important that the new approach is supported with appropriate safeguards to ensure we secure the environmental outcomes we need. That is why Environmental Delivery Plans can only be put in place where the Secretary of State is satisfied the delivery of conservation measures is likely to outweigh the negative effects of development.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This test should not be seen in isolation from the rest of the Bill as Natural England will be tasked with setting out conservation measures that will both address the environmental impact of development and contribute to an overall improvement, and set out why they, the statutory nature conservation body in England, consider those measures appropriate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By establishing this new approach, we're moving away from the current piecemeal approach offsetting harm and toward strategic, larger-scale environmental improvements for protected sites and species.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Nature Restoration Fund will:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Planning and Infrastructure Bill\u2019s Environmental Delivery Plans will help with this new strategic approach.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In taking a strategic approach, it is important that Natural England are empowered to achieve the best possible environmental outcomes. This may mean taking a different approach to the design and sequencing of conservation measures than would have been adopted under the existing system. The government is, of course, focused on restoring nature in local communities, ensuring people benefit from accessing green space on their doorsteps.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England will be able to create Environmental Delivery Plans either on its own initiative or at the request of the Secretary of State. Environmental Delivery Plans will allow Natural England to take a more strategic approach to conservation. Rather than focusing on individual projects in isolation, they can take a broader perspective that will help deliver better outcomes for nature while reducing planning delays.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This new approach means more for nature, not less.\u00a0At the same time, developers will benefit from a streamlined process and simpler user experience with costly and time intensive processes removed.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Government is committed to getting this right for nature and people\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're committed to delivering positive environmental outcomes alongside the housing and infrastructure our communities urgently need. But we are clear that Environmental Delivery Plans will only be brought forward where they will deliver better environmental outcomes for the environmental issues being addressed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To make sure we get this right, we're actively engaging with nature conservation organisations, developers, local authorities, and communities and the Office of Environmental Protection (OEP). The OEP have recently provided their advice, which we are considering while noting their support for the intention behind the Bill.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By moving from piecemeal interventions to a more strategic approach for protected sites and species, we believe we can deliver more for nature, not less - creating a planning system that works better for communities and the environment we all cherish.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more information, please read the Planning & Infrastructure Bill guidance and our Development and Nature Recovery Working Paper.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2025/05/16/planning-reform-protecting-nature-while-supporting-growth/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "Nature is the bedrock of our entire way of life.\u00a0 We are deeply connected to nature through the beauty of our ever-changing seasons and our treasured wildlife, from puffins to hedgehogs. Healthy ecosystems make our food systems and water supplies \u2026"
+    },
+    {
+        "title": "How we\u2019re helping children and teachers with their mental health and wellbeing\u00a0",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-05-16T10:42:50",
+        "categories": [
+            "Attendance",
+            "Mental Health",
+            "school absence",
+            "Schools"
+        ],
+        "content": [
+            {
+                "content": "Poor mental health and absence from school are impacting the education of children and in turn their futures. Government research suggests that persistently absent pupils in secondary school could earn \u00a310,000 less at age 28 compared to pupils with near-perfect attendance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here we go through the ways we are supporting children and their teachers, so that every pupil can achieve and thrive in education.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How we\u2019re helping pupils to achieve and thrive\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Mental Health and Wellbeing Support\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over 5 million young people now have access to specialist mental health support in their school or college.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This Mental Health Awareness Week, progress continues on our commitment to provide all schools with access to specialist mental health professionals by 2029/30 by expanding Mental Health Support Teams.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By April 2026, we estimate that 60% of pupils in schools and learners in further education in England could be covered by a Mental Health Support Team, up from 52% in April 2025. This means an additional 900,000 pupils and 1,700 schools and colleges will have access to support from Mental Health Support Teams by April 2026.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will also continue to develop our online mental health lead resource hub and targeted support toolkit, supporting mental health leads to continue to develop their role and to support young people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Attendance support\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are investing nearly \u00a31.5 million this year in new RISE Attendance and Behaviour Hubs to support hundreds of schools in tackling absence and poor behaviour.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "RISE regional advisors \u2013 education specialists with leadership, behaviour and attendance expertise \u2013 will work with the 90 lead schools to develop and support\u00a0networks, and once fully implemented will support around 5000 schools. Together, they will work to make sure children get coordinated support they need to attend and do well in school. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To help identify and directly address attendance areas of improvement, we are providing schools with additional AI powered data reports. Heads and attendance leads can now access intelligent reports which compare their absence rates with similar schools showing high or low performance. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wider support\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are rolling out free breakfast clubs at\u00a0every state funded primary school, as well as a new Enrichment Framework that will be developed in collaboration with a panel of experts to support schools to offer pupils high-quality extra-curricular activities that range from debating to sport, to help children thrive beyond the classroom.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How we're supporting teachers to thrive",
+                "tag": "h3"
+            },
+            {
+                "content": "For every child to achieve and thrive, we need our teachers to have the time, tools, and support to deliver a great education. That\u2019s why we are recruiting 6,500 teachers into shortage subjects, support areas that face recruitment challenges, and tackle retention issues.\u00a0 More than 4,100 schools have already joined the Education Staff Wellbeing Charter, which supports better work-life balance and mental health for those working in the education sector. ",
+                "tag": "p"
+            },
+            {
+                "content": "We're also offering practical help to cut down on workload, including the Improve workload and wellbeing for school staff service. This service provides advice created by school leaders themselves to help other school leaders support their staff's wellbeing.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/05/how-were-helping-children-and-teachers-with-their-mental-health/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Poor mental health and absence from school are impacting the education of children and in turn their futures. Government research suggests that persistently absent pupils in secondary school could earn \u00a310,000 less at age 28 compared to pupils with near-perfect \u2026"
+    },
+    {
+        "title": "Science and FMPs event summary and research projects coming up",
+        "authors": [
+            "Katie St John Glew - FMP Evidence Lead, Defra"
+        ],
+        "posted_on": "2025-05-16T10:22:50",
+        "categories": [
+            "- Defra led FMPs",
+            "Evidence"
+        ],
+        "content": [
+            {
+                "content": "On 18 March, Defra hosted \"Science and FMPs: Progress Made and Exploring the Future,\" supported by Green Futures at the University of Exeter.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The hybrid event brought together 143 participants from academia, recreational and commercial fishing, NGOs, and government bodies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The event aimed to increase transparency on Fisheries Management Plans (FMP) related science projects. It showcased innovative projects and collaborations between scientists, policymakers, and fishers, highlighting positive outcomes, challenges, and future research plans.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Highlighted research\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Professor Gideon Henderson, Defra's Chief Scientific Advisor, opened the event and emphasised the importance of collaboration and a broad evidence base to support sustainable fisheries. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The focus of the day was exploring some of the research projects which have been working to address FMP Evidence Gaps.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A presentation on the FMP Programme Evaluation was also shared which highlighted the success of collaborative efforts and the need for continued transparency.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "More information on these projects is available in the FMP R&D projects newsletter and the full reports will be published soon.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The event concluded with a look to this year\u2019s research plans.\u00a0 After prioritising, a range of projects have been approved which work to address a range of evidence gaps including improving data collection and stock assessment methods, exploring sustainable fishing practises and management tools and improving the social and economic evidence base of FMPs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the blog to hear more about these new projects.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Take-aways\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Important points coming from discussions included the need to share more about our FMP evidence work and to ensure feedback is given after all collaborations and engagements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A write up of the event has been shared with those who registered to attend. If you would like a copy, please get in touch at FMPs@defra.gov.uk\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/05/16/science-and-fmps-event-summary-and-research-projects-coming-up/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Defra\u2019s \"Science and FMPs\" event showcased the research addressing fisheries evidence gaps. Read the summary and a look to this years\u2019 projects."
+    },
+    {
+        "title": "Creating Nature Towns and Cities conference",
+        "authors": [
+            "Natural England"
+        ],
+        "posted_on": "2025-05-16T09:57:44",
+        "categories": [
+            "Climate change",
+            "Connecting People with Nature",
+            "Environmental Improvement Plan",
+            "Green Infrastructure",
+            "Growth",
+            "Mental health and wellbeing",
+            "Natural England",
+            "Nature",
+            "Nature Recovery",
+            "Nature Recovery Network",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "Nature Towns and Cities is a partnership between Natural England, The National Lottery Heritage Fund and the National Trust working to ensure everyone in the UK can access the benefits of nature and green spaces. \u00a0We're delighted to invite you to our free online conference on 5th June, where innovative leaders from local government, public sector, business and community organisations will share practical strategies for creating greener, healthier and more vibrant communities. Join us to connect with passionate changemakers from across the UK who are actively transforming their local areas and be part of this growing movement.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s well-recognised that living side by side with nature is good for us. As well as the clear health benefits of cleaner air, it goes deeper - the opportunity to truly connect with nature has a measurable impact on our wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI\u2019m a big believer in biophilia \u2013 the idea that as humans we feel a deep connection to the living world and a sense of loss and anxiety if we\u2019re disconnected from nature.\u00a0Bringing high quality nature closer to where people live is therefore fundamentally important to maintaining a healthy society\u201d says Graham Duxford, Chief Executive of Groundwork UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Yet\u00a0millions of people\u00a0in urban areas still don\u2019t have access, something that Nature Towns and Cities is working to address.",
+                "tag": "p"
+            },
+            {
+                "content": "On 5 June 2025, Nature Towns and Cities will be holding its inaugural online conference. A coalition of public, private and third sector organisations, Nature Towns and Cities is committed to bringing nature and green space to urban areas for everyone's benefit. Putting access to green space at the heart of future plans for towns and cities will improve life for millions of people, but making this happen will require ambition, vision, leadership and collaboration.",
+                "tag": "p"
+            },
+            {
+                "content": "Creating Nature Towns and Cities will start to explore these themes, inviting people and organisations who want to lead this change in towns and cities across the UK to take part.",
+                "tag": "p"
+            },
+            {
+                "content": "Suitable for people from across a range of organisations and roles, sessions will focus on leadership and how to influence change in the context of urban nature. Plus, case studies, interactive networking spaces to meet like-minded changemakers and more.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing to speak at the upcoming conference, Graham stresses the importance of this work and its timeliness. \u201cAs well as its proven benefits to people\u2019s health and wellbeing, nature has a core role in helping us combat both the causes and effects of climate change. It also offers a way of addressing a wide range of other pressing issues \u2013 from supporting children\u2019s early years development to helping people retrain for jobs in the green economy. This work is urgent and essential. But for a long time, budgets and capacity have been in sharp decline, and professionals have had little support to learn from peers and share good practice.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s what makes the work of this programme so critical \u2013 we need to pool the expertise and resources available in the public, private and voluntary sectors to find better, more connected ways of working and support communities when they\u2019re taking action to protect and promote nature in our towns and cities.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "The conference will kick start a long-term programme of support designed to build a collaborative network of expertise, people and organisations across the UK. Open to all and free to join, those attending can expect a mixture of speakers, panel sessions and case studies, and learn what\u2019s working, why and how to adapt and adopt at local level. Through an interactive platform attendees will also have the chance to meet like-minded changemakers and share ideas.",
+                "tag": "p"
+            },
+            {
+                "content": "One such speaker is Allys Ludlow, urban tree canopy coordinator at Trees for Cities. She\u2019ll be sharing what they\u2019ve been working on with nationwide communities and how this charity is cultivating lasting change in local neighbourhoods.",
+                "tag": "p"
+            },
+            {
+                "content": "The conference will also delve into perspectives from across sectors into topics such as, \u2018why does urban green space matter?\u2019 Leaders and high-profile speakers from organisations such as Co-Op, The Royal Society for Arts, Bradford City of Culture and Edinburgh City Council will share their experiences and how their organisations are harnessing nature to drive forward a range of priorities benefitting people.",
+                "tag": "p"
+            },
+            {
+                "content": "Through the practical workshops, delegates will gain skills and knowledge needed to drive change in their own town or city and start to explore the support available through Nature Towns and Cities.",
+                "tag": "p"
+            },
+            {
+                "content": "This is a chance to connect with passionate organisations and people working to creating greener, healthier towns and cities. Register now for insights, inspiration and to be a part of the movement.",
+                "tag": "p"
+            },
+            {
+                "content": "BOOK YOUR PLACE",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/05/16/creating-nature-towns-and-cities-conference/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "Nature Towns and Cities is a partnership between Natural England, The National Lottery Heritage Fund and the National Trust working to ensure everyone in the UK can access the benefits of nature and green spaces. \u00a0We're delighted to invite you \u2026"
+    },
+    {
+        "title": "Launching the AI Insights series",
+        "authors": [
+            "Tommaso Spinelli, Senior Artificial Intelligence Change Manager, GDS"
+        ],
+        "posted_on": "2025-05-16T09:32:30",
+        "categories": [
+            "AI",
+            "Digital strategy",
+            "Digital transformation",
+            "Government Digital and Data"
+        ],
+        "content": [
+            {
+                "content": "Earlier this year, the Government Digital Service (GDS) launched the AI Playbook for the UK government and alongside this published the AI Insights series, a collection of articles designed to help government departments and public sector organisations implement AI solutions safely, securely, and effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "As AI continues to play a central role in the UK Government's agenda for economic growth and improved public services, it is crucial to address both the opportunities and the practical challenges of AI implementation in government (AI Opportunities Action Plan 2025).This new series builds on the AI Playbook for the UK Government by diving deeper into the more technical aspects of a wide range of AI technologies, with a focus on practical implementation in government settings.",
+                "tag": "p"
+            },
+            {
+                "content": "Who the AI Insights are for",
+                "tag": "h3"
+            },
+            {
+                "content": "The AI Insights series equips public servants across government with practical knowledge for effectively implementing AI in their work. Whether you're leading digital transformation, advising on technology projects, or simply interested in how AI can improve your team's operations, these resources will help you navigate this rapidly evolving field.",
+                "tag": "p"
+            },
+            {
+                "content": "Each article begins with an accessible overview before exploring deeper technical concepts, making the content valuable for both specialists and non-specialists alike. While no advanced expertise is required, familiarity with basic digital and data concepts will enhance your understanding.",
+                "tag": "p"
+            },
+            {
+                "content": "Our goal is to build collective capability across the public sector, ensuring everyone can contribute to responsible, effective AI adoption that improves services for citizens.",
+                "tag": "p"
+            },
+            {
+                "content": "AI Insights topics",
+                "tag": "h3"
+            },
+            {
+                "content": "The AI Insights series delves into technical concepts that complement and extend the foundational knowledge provided in the AI Playbook. Published bi-monthly, these articles are crafted by experienced government technologists and undergo rigorous peer review by leading academic and industry experts.",
+                "tag": "p"
+            },
+            {
+                "content": "Current publications explore crucial areas including:",
+                "tag": "p"
+            },
+            {
+                "content": "Upcoming topics will feature:",
+                "tag": "p"
+            },
+            {
+                "content": "Each article combines clear explanations of complex concepts with practical, actionable guidance specifically designed for public sector implementation. By demystifying these emerging technologies, we aim to build confidence and capability across government for responsible AI adoption.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next",
+                "tag": "h3"
+            },
+            {
+                "content": "AI continues to evolve rapidly, and the AI Insights series will keep pace with emerging technologies and practices through bimonthly publications and six months reviews.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To stay updated, join the AI Community, attend monthly meetups, and explore the free AI e-learning courses on Civil Service Learning.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To get the most from the AI Insights series, we recommend reading them alongside the AI Playbook and GDS\u2019 AI resources for the public sector.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cddo.blog.gov.uk/2025/05/16/launching-the-ai-insights-series/",
+        "blog": "Government Digital and Data",
+        "blog_link": "https://cddo.blog.gov.uk",
+        "description": "As AI continues to play a central role in the UK Government's agenda for economic growth and improved public services, it is crucial to address both the opportunities and the practical challenges of AI implementation in government."
+    },
+    {
+        "title": "The importance of reporting marine non-native species - what can you do?",
+        "authors": [
+            "Phil Davison"
+        ],
+        "posted_on": "2025-05-16T08:42:44",
+        "categories": [
+            "Animal Health",
+            "biodiversity",
+            "Invasive species"
+        ],
+        "content": [
+            {
+                "content": "Throughout this year\u2019s Invasive Species Week, an annual event organised by the GB Non-Native Species Secretariat (GB NNSS), we have explored the many detrimental impacts invasive non-native species can have on our ecosystems and society. Whilst prevention remains the most effective defence, accidental introductions can still happen. In such cases, early detection and rapid response is crucial for preventing these species from establishing in the environment. This is especially true in our marine environments where, once established, these species are extremely difficult to control and often impossible to eradicate.",
+                "tag": "p"
+            },
+            {
+                "content": "A key way that we can all help in the battle against invasive non-native species is to report anything unexpected that we find. In the marine environment the public can help monitor places along our vast coastline that are rarely visited by marine biologists. In 2024, two events highlighted the crucial role that public reports can have in ensuring a rapid response to non-native species, and showed how we respond to these important sightings.",
+                "tag": "p"
+            },
+            {
+                "content": "In January 2024, we received a report from a member of the public who had found and photographed egg-cases on their local beach in East Sussex, that could have belonged to the Japanese oyster drill Ocinebrellus inornatus. This species is a non-native marine mollusc that could have severe impacts on our native species and economy. The Japanese oyster drill is native to the North Pacific and has established non-native populations in the Netherlands, but had not yet been recorded in the UK. This potential sighting was of concern as this species preys on oysters, scallops, mussels and cockles, by drilling through their shells to eat their flesh. If this species were to establish in UK waters, it could have economic effects on shellfish farms, as well as environmental effects on, for example, oyster reef regeneration projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Unlike many marine species, the Japanese oyster drill disperses slowly, meaning that if found in time there could be options to manage a new population and prevent its spread to other sites. \u00a0Cefas led a rapid response group, which included Defra, GB NNSS, and Natural England. Experts were consulted to try to confirm the identification, and a survey was organised on the surrounding beaches to look for Japanese oyster drills or their egg-cases. No further evidence of the species was found, and from the original photographs it was decided that the egg-cases may have been from our native oyster drill, as their eggs look very similar. However, an awareness-raising programme was launched to ensure that interested parties in the area knew how to report any further sightings if they occurred.\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In July 2024, a sighting of an Atlantic blue crab, Callinectes sapidus, was reported by a member of the public in a rock pool in Brighton, East Sussex. This species is native to the eastern coast of North America, where it is a well-known seafood item, and has been introduced to the Mediterranean where it has become an invasive species and caused ecological impacts and economic damage to fisheries. Sightings in northern Europe have increased in the last few decades, but there had only been five isolated previous sightings in UK waters. It therefore came as a surprise in October when another blue crab was found off the coast at Brighton, this time found by a Cefas fisheries observer on a fishing boat.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The finding of a second crab at the same location triggered the formation of another rapid response group, this time involving the Marine Management Organisation, Natural England, Defra, GB NNSS and Cefas. How the crabs arrived in Brighton is a mystery, but as this species is sometimes sold live at food markets, one possibility is that they were set free by well-meaning people. As blue crabs are causing serious impacts in the Mediterranean, we are keen to prevent their establishment in the UK. The response group have launched a programme to raise awareness on the dangers of releasing crabs into the environment and continue to monitor the situation locally for further sightings. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you see something new that you have reason to believe is a non-native species, please report it to irecord, so the threat can be assessed, and appropriate action taken at the earliest opportunity. Further information on how to report non-native species can be found at Non Native Species Secretariat website, including a list of alert species for which timely reporting is especially important.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinescience.blog.gov.uk/2025/05/16/the-importance-of-reporting-marine-non-native-species-what-can-you-do/",
+        "blog": "Marine Science",
+        "blog_link": "https://marinescience.blog.gov.uk",
+        "description": "Throughout this year\u2019s Invasive Species Week, an annual event organised by the GB Non-Native Species Secretariat (GB NNSS), we have explored the many detrimental impacts invasive non-native species can have on our ecosystems and society. Whilst prevention remains the most \u2026"
+    },
+    {
         "title": "Helping to create an environment where businesses can thrive with NFCU\u2019s new powers",
         "authors": [
             "Andrew Quinn, Head of the National Food Crime Unit"
