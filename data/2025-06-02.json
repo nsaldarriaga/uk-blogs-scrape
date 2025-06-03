@@ -1,5 +1,710 @@
 [
     {
+        "title": "DHSC Health Checks / Complete your NHS Health Check\u00a0Alpha Assessment",
+        "authors": [
+            "manyeelam"
+        ],
+        "posted_on": "2025-06-03T14:51:26",
+        "categories": [
+            "Alpha",
+            "Assurance",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From:\u00a0DHSCAssessment date:\u00a016/11/2023Stage:\u00a0AlphaResult: MetService provider:\u00a0DHSC",
+                "tag": "p"
+            },
+            {
+                "content": "Service description\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This service aims to prevent heart disease, stroke, diabetes and kidney disease, and some cases of dementia among adults aged 40-74.\u00a0 The service being developed is a new national digital channel that will work alongside the existing face-to-face check.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service includes a behavioural questionnaire and collects measurements of height, weight, blood pressure, and cholesterol to calculate a person\u2019s 10-year CVD risk. The results will be fed back online with personalised advice, and, as the results are automatically added to the patient\u2019s electronic record, GP follow-on and clinical pathways will be initiated for those with higher-risks identified.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This service is for\u2026\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Primary Users:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have developed personas to indicate where our research has highlighted that the digital service will likely be the desired route, and where the face-to-face service will be a more appropriate option.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Secondary Users:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 2 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 3 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 6 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 7 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve frequently\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 9 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 10 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 12 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common components and patterns\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 13 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "14. Operate a reliable service\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2025/06/03/dhsc-health-checks-complete-your-nhs-health-check-alpha-assessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "From:\u00a0DHSCAssessment date:\u00a016/11/2023Stage:\u00a0AlphaResult: MetService provider:\u00a0DHSC Service description\u00a0 This service aims to prevent heart disease, stroke, diabetes and kidney disease, and some cases of dementia among adults aged 40-74.\u00a0 The service being developed is a new national digital channel that will work \u2026"
+    },
+    {
+        "title": "Changing perceptions of Veterinary Public Health",
+        "authors": [
+            "Government Vets Blog Team"
+        ],
+        "posted_on": "2025-06-03T14:12:04",
+        "categories": [
+            "Government Veterinary Services",
+            "Jobs and Experiences",
+            "Policy Work",
+            "Professional development"
+        ],
+        "content": [
+            {
+                "content": "Written by the Deputy Chief Veterinary Officer for Wales Natalie Sampson MRCVS",
+                "tag": "p"
+            },
+            {
+                "content": "Changing societal perceptions is hard, yet that is exactly what we set out to do four years ago when we faced an Official Veterinarian (OV) recruitment crisis that threatened FSA\u2019s ability to deliver statutory meat official controls in abattoirs. That solution needed to tackle the immediate challenge and deliver long term sustainable change so that we didn\u2019t face this threat again.",
+                "tag": "p"
+            },
+            {
+                "content": "Veterinary Public Health (VPH) is an umbrella term used to describe veterinary roles that look after both animal and human health & welfare, and includes an abattoir OV, whose role is to work with Official Auxiliaries (Meat Hygiene Inspectors) to ensure animal health & welfare at slaughter and good hygiene practice post slaughter to provide safe food. Not everyone is aware these roles exist, let alone how important they are. Those that do know about these roles, including in the UK veterinary profession, perceive the role to be unpleasant and unfulfilling. Yet on the continent, VPH roles are held in high regard, with a steady stream of vets wanting to work in this field. This discrepancy has meant that European vets have delivered the vital role of an abattoir OV in the UK and when we experienced the double challenges of COVID and Brexit, we realised how fragile this recruitment pipeline really is.",
+                "tag": "p"
+            },
+            {
+                "content": "The immediate mitigation included working with the UK veterinary regulator, the Royal College of Veterinary Surgeons (RCVS), to apply a flexibility allowing temporary registration of overseas-qualified vets who met the visa language standards, while they worked towards the higher language standards required to register with the RCVS in the UK. But this was only part of the answer. To create lasting change, we needed to change perceptions, so how did we go about it?",
+                "tag": "p"
+            },
+            {
+                "content": "In parallel to FSA\u2019s specific challenges, the wider UK veterinary profession has been experiencing a serious recruitment and retention challenge due to a wide range of factors. Most notably, due to disillusion and empathy fatigue in clinical practice, where most UK vets work. To us this was a real opportunity \u2013 if vets were looking to move away from clinical practice roles, could we show them the advantages of VPH roles and entice them to join our ranks? Did they even know how to change and transfer their skills between veterinary disciplines? Dividing the target populations into three, Veterinary Undergraduates, the wider veterinary profession and ministers/senior civil servants, our cultural change campaign began.",
+                "tag": "p"
+            },
+            {
+                "content": "Veterinary UndergraduatesWorking closely with VPH departments at English (and now Welsh) vet schools and working with Food Standards Scotland while they did the same with the Scottish Vet Schools, we increased our visibility and involvement in career days and lectures, tackling myths and perceptions about the variety of VPH roles available. We also launched a work experience programme for vet students (known as Extra Mural Studies \u2018EMS\u2019), inviting interested students to spend 2 days with FSA field vets before bringing them to London to talk to our wide variety of office-based vets in person about the roles they do. Even better, we pay their travel and subsistence \u2013 vital for cash strapped students.",
+                "tag": "p"
+            },
+            {
+                "content": "Natalie (standing centre) with EMS Students.",
+                "tag": "p"
+            },
+            {
+                "content": "Wider Veterinary ProfessionThis cohort were likely to have more entrenched views, which we needed to understand in more detail before we knew where to target. In addition to literature reviews, the FSA led on exploring interest in a government veterinary graduate entry programme and what that entails. We worked closely with the Government Veterinary Services team to speak at lunch & learns about our roles, and hosted stands at key veterinary conferences such as the London Vet Show, we widened our EMS programme to invite interested qualified vets to our office days and we built on our close relationship with RCVS and the British Veterinary Association (BVA) to increase our visibility in profession wide discussions.",
+                "tag": "p"
+            },
+            {
+                "content": "Government Veterinary Surgeons at London Vet Show November 2024.",
+                "tag": "p"
+            },
+            {
+                "content": "We also celebrate success and entered and won the BVA and European equivalent workplace wellbeing awards, which we continue to showcase.",
+                "tag": "p"
+            },
+            {
+                "content": "Celebrating Success: Monica is the FSA 2024 Vet of the year.",
+                "tag": "p"
+            },
+            {
+                "content": "Political and Senior SupportCross government, Ministerial and Senior Civil Service support was integral to our strategy. They had the power to effect and fund changes. We set up a Strategic Influencing and Engagement workstream as part of the FSA Operations led Veterinary Resourcing Programme and worked with others across the FSA to set up strategic meetings for the FSA Chair and CEO with key people of power, as well as showcasing the plight and impacts of veterinary shortages in the FSA\u2019s Annual Report. Together this led to a 1-day Environment Food and Rual Affairs (EFRA) Committee inquiry into veterinary resourcing challenges, which in turn has provided a platform for potential reform of the outdated Veterinary Surgeons Act \u2013 something the profession has been calling out to change.",
+                "tag": "p"
+            },
+            {
+                "content": "ResultsWith all this hard work \u2013 have we been able to change perceptions? In short, yes. But the longer answer is more nuanced. We have been incredibly successful at raising the profile of the OV role and the value it brings to society. The OV pipeline is stable, but it will take time for us to see success with increased UK graduated vets\u2019 boots on the ground \u2013 it has started. Where we have seen most success is with increased recognition and interest in VPH roles by the wider profession. A notable example of this is our invite to host a table at the Society of Practicing Veterinary Surgeons annual conference in January 2025 and talk about leadership in the profession, something that would never have happened previously. Historically the domain of clinical veterinary leaders, our invite signals a huge shift. Maximising the opportunity, we further built on our visibility, highlighting to delegates the skills and benefits working in civil service roles can bring to individual careers and the wider profession. Over fifty delegates and veterinary leaders joined our table, including the BVA president and RCVS Director for Advancement of the Profession, with discussions covering flexible working, leaderships styles, career progression and much more.Raising the profile of the FSA and all its veterinary roles, including the role of an OV, is not over but with the help of many people across the FSA we are far along the path of creating cultural change\u2026 who said changing the perception of a population was impossible?",
+                "tag": "p"
+            },
+            {
+                "content": "Author: Natalie Sampson MRCVSMay 2025",
+                "tag": "p"
+            }
+        ],
+        "link": "https://vets.blog.gov.uk/2025/06/03/changing-perceptions-of-veterinary-public-health/",
+        "blog": "Government Vets",
+        "blog_link": "https://vets.blog.gov.uk",
+        "description": "Written by the Deputy Chief Veterinary Officer for Wales Natalie Sampson MRCVS Changing societal perceptions is hard, yet that is exactly what we set out to do four years ago when we faced an Official Veterinarian (OV) recruitment crisis that \u2026"
+    },
+    {
+        "title": "Commercialising Knowledge Assets Fund opens for applications",
+        "authors": [
+            "avneetkaur"
+        ],
+        "posted_on": "2025-06-03T11:15:54",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Author: Sarah Staniland, Head of Communities and Funding, GOTT",
+                "tag": "p"
+            },
+            {
+                "content": "Today, the Government Office for Technology Transfer announced the opening of the autumn call of the new Commercialising Knowledge Assets Fund.",
+                "tag": "p"
+            },
+            {
+                "content": "The fund is designed to support government research organisations in accelerating their innovations towards the market. ",
+                "tag": "p"
+            },
+            {
+                "content": "It will help unlock the commercial potential of a wide range of projects, moving them closer to attracting private sector investment, supporting the government\u2019s growth mission and delivering benefits for citizens.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the Commercialising Knowledge Assets Fund?",
+                "tag": "h2"
+            },
+            {
+                "content": "The Commercialising Knowledge Assets Fund offers funding ranging from \u00a350,000 to \u00a3250,000 per project to move viable public sector Knowledge Assets with identified potential markets towards commercialisation.",
+                "tag": "p"
+            },
+            {
+                "content": "Successful applicants can also benefit from dedicated project support and expert advice from GOTT teams to help progress their projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Funding can be used for a broad spectrum of activities to support your Knowledge Asset commercialisation journey, such as undertaking market and competitor intelligence, user testing or developing an IP strategy. ",
+                "tag": "p"
+            },
+            {
+                "content": "The \u00a0fund is agnostic to the type of Knowledge Asset you\u2019re seeking to commercialise with possible examples ranging from a high-energy X-ray camera contributing to better diagnosis of patients to new tools to measure ground water helping to reduce water scarcity .",
+                "tag": "p"
+            },
+            {
+                "content": "The Commercial Readiness Framework",
+                "tag": "h2"
+            },
+            {
+                "content": "In order to guide and monitor the development of your Knowledge Assets towards commercialisation, we have introduced the Commercial Readiness Framework. ",
+                "tag": "p"
+            },
+            {
+                "content": "As part of the application process, applicants are asked to map their milestones against the framework. The framework covers four categories:",
+                "tag": "p"
+            },
+            {
+                "content": "Using the framework will help guide your approach to commercialisation and project development, ensuring multiple aspects of commercialisation are considered from market strategy to organisational support.",
+                "tag": "p"
+            },
+            {
+                "content": "Who can apply?",
+                "tag": "h2"
+            },
+            {
+                "content": "Funding is available to government Research Organisation, including but not limited to Public Sector Research Establishments (PSREs) and UKRI wholly owned institutes. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our full eligibility criteria and list of eligible organisations can be found on our About us page.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why apply?",
+                "tag": "h2"
+            },
+            {
+                "content": "The Commercialising Knowledge Assets Fund is a unique opportunity for you to scale the impact of your Knowledge Assets. ",
+                "tag": "p"
+            },
+            {
+                "content": "You will receive the funds and support to progress the commercialisation journey of your Knowledge Asset \u2013 for example through licensing, spinouts or joint ventures \u2013 thereby realising its value beyond your organisation for the benefit of the UK economy and its citizens. ",
+                "tag": "p"
+            },
+            {
+                "content": "You\u2019ll have the opportunity to become part of a supportive cross-government community, act as a catalyst for innovation and entrepreneurship in your organisation and help progress the Knowledge Asset agenda across the public sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "Eligible organisations can apply now for the first round of the Commercialising Knowledge Assets Fund which closes on 4th of September 2025. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more, visit our funding page, or contact the team at grantfund.gott@dsit.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "We look forward to your application!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gott.blog.gov.uk/2025/06/03/commercialising-knowledge-assets-fund-opens-for-applications/",
+        "blog": "Government Office for Technology Transfer",
+        "blog_link": "https://gott.blog.gov.uk",
+        "description": "Author: Sarah Staniland, Head of Communities and Funding, GOTT Today, the Government Office for Technology Transfer announced the opening of the autumn call of the new Commercialising Knowledge Assets Fund. The fund is designed to support government research organisations in \u2026"
+    },
+    {
+        "title": "Alternative Student Finance \u2013 how we\u2019re making student finance accessible to everyone",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-06-03T09:09:22",
+        "categories": [
+            "Universities"
+        ],
+        "content": [
+            {
+                "content": "Some people feel unable to use existing student loans due to their faith. This is most common among some Muslims because their religion prohibits engagement with interest, which is applied to all student loans.",
+                "tag": "p"
+            },
+            {
+                "content": "We support the goals of every person who meets the requirements and wants to go to university. That\u2019s why we\u2019re developing a new student finance system that doesn\u2019t include interest and is compatible with Islamic finance principles.",
+                "tag": "p"
+            },
+            {
+                "content": "What is Alternative Student Finance and how will it work?",
+                "tag": "h3"
+            },
+            {
+                "content": "Alternative Student Finance (ASF) will be one of the first state-backed student loan schemes in the world that is compliant with Islamic finance principles. It will mean that those who can\u2019t take out interest-bearing loans for religious reasons can access student finance.",
+                "tag": "p"
+            },
+            {
+                "content": "ASF will be certified as being compliant with Islamic finance principles by an independent Islamic Finance Supervisory Board, made up of experts in Islamic finance. It will use the Islamic finance principle of Takaful, to provide a form of group based mutual support.",
+                "tag": "p"
+            },
+            {
+                "content": "Prospective undergraduate students will apply for an \u2018alternative payment\u2019 for both their tuition fees and living costs, instead of a traditional student loan.",
+                "tag": "p"
+            },
+            {
+                "content": "Like existing student loans, applications will be made through Student Finance England.",
+                "tag": "p"
+            },
+            {
+                "content": "After finishing or leaving their studies, students will repay contributions to a fund that will only be used to help future students access ASF. These contributions will be equivalent to the repayments made for traditional student loans.",
+                "tag": "p"
+            },
+            {
+                "content": "Does this mean students who use ASF will pay less than those who opt for a student loan?",
+                "tag": "h3"
+            },
+            {
+                "content": "No. ASF is designed to make sure all students are treated the same. Those who use ASF will pay the same amount towards their studies as those who use the standard student loan system.",
+                "tag": "p"
+            },
+            {
+                "content": "All payments and contributions made through ASF will mirror those made by students who use regular student finance. This means that students will be able to apply for the same amount of financial support regardless of the system they use.",
+                "tag": "p"
+            },
+            {
+                "content": "Similarly, the amounts and timings of contributions back to the Takaful fund will also be identical to repayments made for mainstream loans. ASF contributions, like repayments of student loans, will be based solely on what people earn, not the amount of finance received.",
+                "tag": "p"
+            },
+            {
+                "content": "Who can apply for ASF?",
+                "tag": "h3"
+            },
+            {
+                "content": "ASF will be open to any student who is eligible for student finance.",
+                "tag": "p"
+            },
+            {
+                "content": "When will ASF be available?",
+                "tag": "h3"
+            },
+            {
+                "content": "From the 2026/27 academic year, the Lifelong Learning Entitlement (LLE) will transform the post-18 student finance system in England. We aim to introduce ASF as soon as possible after the LLE is introduced, to make sure the ASF product matches mainstream student finance.",
+                "tag": "p"
+            },
+            {
+                "content": "What can you do in the meantime if you can\u2019t take out a student loan for religious reasons? ",
+                "tag": "h3"
+            },
+            {
+                "content": "Here are some sources of financial support that might be worth considering:",
+                "tag": "p"
+            },
+            {
+                "content": "You could also consider a degree apprenticeship, which allows you to study towards an undergraduate or postgraduate degree while you work, without paying for tuition.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/06/alternative-student-finance-how-were-making-student-finance-accessible-to-everyone/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Some people feel unable to use existing student loans due to their faith. This is most common among some Muslims because their religion prohibits engagement with interest, which is applied to all student loans. We support the goals of every \u2026"
+    },
+    {
         "title": "Inaccurate reporting of the Planning and Infrastructure Bill",
         "authors": [
             "mhclgpress"
