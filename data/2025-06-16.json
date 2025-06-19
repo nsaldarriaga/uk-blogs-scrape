@@ -1,5 +1,640 @@
 [
     {
+        "title": "What Royal Assent Means for the National Underground Asset Register\u00a0",
+        "authors": [
+            "David Hodkin, NUAR policy lead"
+        ],
+        "posted_on": "2025-06-19T17:09:33",
+        "categories": [
+            "Data",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "We are thrilled to announce that the Data (Use and Access) Bill (\u201cthe Act\u201d) has received Royal Assent, marking a significant milestone for the National Underground Asset Register (NUAR). This legislation is a testament to the importance of NUAR in transforming the way we manage and interact with underground apparatus.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next for NUAR\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Although the Bill is now an Act of Parliament, there remains further work before its measures can take effect. The framework set out in the Act will be implemented through secondary legislation (for more information about the legislative process please see our previous blog). We look forward to working with stakeholders during the next phase of NUAR\u2019s implementation through secondary legislation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The secondary legislation will allow NUAR to operate as a statutory register and deliver a more streamlined, efficient, and safer approach to managing information about the UK's vast network of buried pipes and cables.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Key Benefits of the Legislation\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Looking Ahead\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "NUAR\u2019s progress, from the initial pilots in 2019-20, to the launch of the minimum viable product in 2023 and going live in Northern Ireland in 2024, has reached a new major milestone with the passing of the Act. We are now poised to deliver NUAR as a statutory register while continuing to enhance NUAR further. Our next steps include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "The Royal Assent of the Data (Use and Access) Bill, now the Data (Use and Access) Act 2025, is a landmark for NUAR and for the UK's approach to managing underground apparatus. We are excited about the opportunities this new statutory footing brings and are committed to delivering a safer, more efficient, and innovative service for all its users.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you for your continued support and collaboration as we embark on this next chapter for NUAR.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can\u00a0sign up\u202fto get an email notification every time we publish a new blog post. For more information on our work see our\u202f website, or follow us on\u202f\u00a0LinkedIn\u202f",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gdsgeospatial.blog.gov.uk/2025/06/19/what-royal-assent-means-for-the-national-underground-asset-register/",
+        "blog": "Geospatial Insights",
+        "blog_link": "https://gdsgeospatial.blog.gov.uk",
+        "description": "We are thrilled to announce that the Data (Use and Access) Bill (\u201cthe Act\u201d) has received Royal Assent, marking a significant milestone for the National Underground Asset Register (NUAR). This legislation is a testament to the importance of NUAR in \u2026"
+    },
+    {
+        "title": "Landmark ruling reinforces that those responsible must pay for building defects\u00a0",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2025-06-19T17:01:41",
+        "categories": [
+            "Building safety"
+        ],
+        "content": [
+            {
+                "content": "A landmark ruling from the UK\u2019s highest court has\u00a0made clear that those responsible for unsafe buildings should be held\u00a0account.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On 21 May, Supreme Court judges unanimously ruled that the developer BDW could seek to recover the costs of fixing major structural issues from consultants in its supply chain. The ruling gives effect to the government\u2019s unwavering stance: all those who profited from unsafe buildings must take responsibility for putting them right.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This decision ensures that developers can take proactive steps to remediate their buildings, safe in the knowledge that they are supported by a legal framework that prioritises fairness and accountability \u2013 empowering developers to undertake proactive voluntary remediation, without unfairly transferring costs onto leaseholders.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Deputy Prime Minister, who has been clear that the pace of remediation has been too slow, intervened in this particular\u00a0case, providing a written submission to assist the court in interpreting the Building Safety Act 2022 and emphasising that those responsible for building safety defects should pay to fix them. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The court drew heavily on the submissions and highlights the policy justifications for the Building Safety Act in the judgment.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This ruling reinforces the government\u2019s long-standing position: leaseholders must be protected from the cost of fixing buildings that they did not build and that those responsible must pay to put things right.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Media coverage summary\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Coverage in The Times reinforced the implications of the ruling and highlighted the Deputy Prime Minister\u2019s intervention. The piece quoted a department spokesperson who welcomed the decision to hold those responsible to account and made clear that \u201cdevelopers can secure contributions from those in the supply chain who are also at fault for creating unsafe buildings. From designers to contractors and developers, safety must be everyone\u2019s responsibility and priority\u201d.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The judgment has attracted several legal insight pieces which highlight the Government\u2019s intervention. Pinsent Masonsreflected that the outcome appeared to be \u201cheavily policy driven\u201d, whileFenwick ElliottandCrown Office Chambersdescribe the Deputy Prime Minister\u2019s written submissions as a key influence on the outcome of this case.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Housing trade media outlets also covered the ruling, highlighting the clarity it brings. Inside Housing highlights the Court\u2019s strong support for developers taking a proactive approach to fixing safety issues, noting that \u201cremedial costs can now be recovered from those most responsible\u201d.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2025/06/19/landmark-ruling-reinforces-that-those-responsible-must-pay-for-building-defects/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "A landmark ruling from the UK\u2019s highest court has\u00a0made clear that those responsible for unsafe buildings should be held\u00a0account.\u00a0 On 21 May, Supreme Court judges unanimously ruled that the developer BDW could seek to recover the costs of fixing major \u2026"
+    },
+    {
+        "title": "Regulating the water industry: legal powers and duties\u00a0",
+        "authors": [
+            "defrablogs"
+        ],
+        "posted_on": "2025-06-19T15:18:44",
+        "categories": [
+            "Regulated industry",
+            "Water"
+        ],
+        "content": [
+            {
+                "content": "The water industry is fundamental to the health of our country - supporting people, wildlife, economic growth and the environment. That\u2019s why it\u2019s critical that water companies deliver on their environmental commitments, that they are fully funded to comply with, and it\u2019s our role to ensure they do.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the environmental regulator, our job is to ensure water companies meet their statutory obligations and that their activities comply with environmental standards while minimising harm to the environment. We want a sector that meets its basic legal responsibilities without relying on lengthy, costly enforcement action and prosecutions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The role of the regulator\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For wastewater, the Environment Agency regulates the water industry under the Environmental Permitting Regulations 2016 and other legislation. The legislation empowers the Environment Agency to set permissions to discharge through permits, monitor, inspect, investigate, and take enforcement action where water companies fail to comply with their environmental obligations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This regulatory framework gives the Environment Agency both authority and responsibility: authority to act when there is harm or risk to the environment, and a responsibility to do so fairly, proportionately, and transparently.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How regulation happens in practice\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Water companies must comply with environmental permits when releasing wastewater into rivers and streams, lakes, or the sea. These permits, issued by the Environment Agency, set clear conditions that the wastewater must meet before it can be safely released. These conditions are derived from standards set in environmental legislation such as the Water Framework Regulations and Habitats Regulation. To achieve these standards may require the water company to upgrade or build new infrastructure as well as a consideration of how they manage and operate that infrastructure. It is for the water company to ensure this work is delivered to meet and maintain compliance with their permit requirements.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Having specified the legal requirements in permits as permit conditions our job is to also check compliance with and where appropriate enforce against those permits \u2014 through inspections, audits, data analysis, incident response and investigations. When companies fall short, we use a range of enforcement tools: from advice and guidance, warning letters, civil sanctions to criminal prosecutions. The decision on what enforcement action is taken is guided by the Environment Agency\u2019s Enforcement and Sanctions Policy, which sets out our approach to holding polluters to account. It is vital that we always act within our legal boundaries following due process and applying standards consistently across the water industry. Our decisions must stand up to legal scrutiny, whether challenged in court or assessed through public inquiry.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Agency has been clear that water companies are not doing enough, and their performance in recent years has seen trust in the water industry deteriorate. The Environment Agency has taken tough action against those companies which are breaking the rules. Since 2015, we have concluded 67 prosecutions against water and sewerage companies securing fines of over \u00a3152 million.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In recent years, water company inspections have increased significantly to uncover the true scale of non-compliance and provide intelligence on the root causes of problems. What is found during inspections can lead to proportionate enforcement action.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Of the 4,626 inspections carried out in 2024/25, we found that 25% of sites had breaches, with 100 classified as significant non-compliance.\u202f The serious ones are being considered for enforcement, and most of the minor breaches will be rectified through local operational action.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Key to driving better performance is to not only focus on the symptoms, but also to provide intelligence on root causes so water companies can find solutions and prevent problems before they happen. Ensuring a fully compliant wastewater system today and into the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The future: faster, firmer regulation\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we look to the future, we will strengthen our legal powers through the Water Special Measures Act. The Act will bring significant changes in how we will regulate the water industry. It will help us take faster, firmer action against poor performance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Act will allow us to speed up civil penalties for less serious offences, helping to close the justice gap, while focusing prosecutions on the most serious offending and enabling us to recover enforcement costs. The Act also strengthens penalties for obstructing investigations, including the sanction of imprisonment of water company executives and directors, and increases transparency through faster monitoring rollouts and real-time Emergency Overflow data. Water companies will also be required to publish annual Pollution Incident Reduction Plans. Ofwat is empowered to ban bonuses for company leaders where performance has fallen short.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With stronger legal powers coming, a robust enforcement and sanctions policy, and more water quality data and resources than ever before we will continue to regulate the water industry fairly, firmly and transparently - ensuring the law is enforced to protect the environment and hold water companies to account.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/06/19/regulating-the-water-industry-legal-powers-and-duties/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "The water industry is fundamental to the health of our country - supporting people, wildlife, economic growth and the environment. That\u2019s why it\u2019s critical that water companies deliver on their environmental commitments, that they are fully funded to comply with, \u2026"
+    },
+    {
+        "title": "Protecting our marine environment - MPA consultation",
+        "authors": [
+            "Dan Cutler, Communications & Engagement Manager"
+        ],
+        "posted_on": "2025-06-19T14:33:28",
+        "categories": [
+            "fisheries",
+            "marine conservation",
+            "Marine Science"
+        ],
+        "content": [
+            {
+                "content": "On 9 June 2025, we launched our consultation on proposed fisheries management measures for Stage 3 marine protected areas (MPAs).",
+                "tag": "p"
+            },
+            {
+                "content": "In England, we're fortunate to have a diverse array of marine habitats in our seas. These habitats serve as refuges and nursery grounds for many commercially valuable fish species. But the way some fishing practices impact the most sensitive habitats in our waters threatens the rich diversity and future productivity of our seas. ",
+                "tag": "p"
+            },
+            {
+                "content": "To help protect our precious marine environment, we are proposing measures to manage fishing in 42 marine protected areas (Stage 3 MPAs) across England.",
+                "tag": "p"
+            },
+            {
+                "content": "Each site has been classified as an MPA to protect important habitat features like reefs and sandbanks or key species like pink sea-fan. Conservation objectives have been set for each site based on the current condition of the features within those sites where available, or on a vulnerability assessment of the features. We are required to manage fishing activities so that these conservation objectives can be achieved.",
+                "tag": "p"
+            },
+            {
+                "content": "How fishing may damage the marine environment\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some fishing gears can alter the structure or function of a designated habitat or remove designated species living in those habitats. For example, abrasion from contact of the gear with the seabed, causes channels in the sediment, uprooting species that live there. During Stage 3 we have looked at the impacts of bottom towed gear, traps and bottom set nets and lines on the features of the sites, as these gears all contact the seabed. MMO is required to prevent fishing activities where evidence shows that the negative impacts risk the achievement of the conservation objectives of a site. Management is commonly introduced in the form of a byelaw that prohibits fishing in specified areas.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why management is necessary\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Allowing the continued damage of designated features reduces the amount of suitable habitats available for species to live in or on, or damage to designated species themselves. These species are often prey for other animals, damage therefore reduces food availability, including for those species that are commercially valuable. Damage to habitats and species also reduces the biodiversity of areas, impacting the overall health of these environments. By removing damaging fishing practices, habitats can recover, become more complex, and associated species can increase in abundance and diversity.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "MPA recovery success in Lyme Bay\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Lyme Bay in the southwest UK is a great example of where fishing management, through a ban on bottom towed gear has allowed the marine habitat to recover, providing both environmental and socio-economic benefits:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we\u2019ve seen in Lyme Bay, restricting fishing activities within an MPA allows key habitats to recover and flourish, increasing the abundance of many different species. The subsequent increases in fish populations spillover into the surrounding areas, where fishing is still allowed, and supports a more sustainable fishing industry.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Future MPA management proposals",
+                "tag": "p"
+            },
+            {
+                "content": "As part of Stage 3 we're now asking for views that will help shape our draft management measures. Marine stakeholders are invited to complete an online survey and have their say before 1  September 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more about, have your say and take part in our Stage 3 MPA consultation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about MPAs.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2025/06/19/protecting-our-marine-environment-mpa-consultation/",
+        "blog": "Marine developments",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "On 9 June 2025, we launched our consultation on proposed fisheries management measures for Stage 3 marine protected areas (MPAs). In England, we're fortunate to have a diverse array of marine habitats in our seas. These habitats serve as refuges \u2026"
+    },
+    {
+        "title": "Police Emerging Science and Technology Trends",
+        "authors": [
+            "mikeaskew"
+        ],
+        "posted_on": "2025-06-19T13:32:41",
+        "categories": [
+            "Emerging Technologies",
+            "STEM"
+        ],
+        "content": [
+            {
+                "content": "By Annie Estlin, OPCSA",
+                "tag": "p"
+            },
+            {
+                "content": "The Office of the Police Chief Scientific Adviser (OPCSA), through GO-Science's co-funding opportunity, commissioned a report to explore emerging science and technology trends for UK policing.",
+                "tag": "p"
+            },
+            {
+                "content": "The pace of technological change continues to accelerate. Previously, technologies such as body-worn cameras, number plate recognition and mobile device extraction methods were considered cutting-edge. Now, policing is working to integrate facial recognition, drones and AI-driven analytics into operational practices. What could we expect to emerge next?",
+                "tag": "p"
+            },
+            {
+                "content": "The Police Emerging Science and Technology Trends (PESTT) report explores seven science and technology (S&T) trends over three-time horizons. It assesses the implications of these trends, including the potential opportunities for policing and threats from criminal exploitation.",
+                "tag": "p"
+            },
+            {
+                "content": "This report aims to raise awareness and improve knowledge and on a number of S&T trends likely to impact policing over the next 1-10+ years. A better understanding of the drivers and technologies underpinning these S&T trends can support policing to exploit key opportunities in the near term, whilst considering the need to remain adaptable to adopt further developments in the longer term. Emerging technologies can also be misused by criminals and policing should consider how best to prepare for such situations. Staying ahead of the curve will help to ensure that UK policing can operate more efficiently, transparently, and effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "A range of policing as well as technical experts were involved to assess the trends explored in the report. Whilst this work anticipates how several S&T trends are likely to evolve over time; these are not predictions and there is always a degree of uncertainty which should be kept in mind when reading the report.",
+                "tag": "p"
+            },
+            {
+                "content": "This report has been a major milestone in assessing the implications of emerging trends and supports policing in developing proactive approaches to respond accordingly. One of the key challenges faced during the project was the initial selection of S&T topics so the project could focus on assessing implications. In the end, using policing\u2019s S&T strategy, we aligned the topics to each of policing\u2019s seven service lines. Regarding lessons learned, huge amounts of positive feedback was received on the illustrations included in each of the seven S&T chapters. This story telling approach appears to be quite powerful, particularly when communicating to seniors.OPCSA will continue in its efforts to support policing in preparing for emerging S&T trends and in growing an active community across law enforcement to enhance futures knowledge and understanding. To view the report and the work of the Office of the Police Chief Scientific Adviser more broadly, please visit https://science.police.uk/",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re interested in commissioning your own futures project via the Futures Procurement Framework, contact the GO-Science Futures team at futures@go-science.gov.uk for assistance with project scoping and specification development, and advice on the use of the framework alongside other internal government contacts and resources.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://foresightprojects.blog.gov.uk/2025/06/19/police-emerging-science-and-technology-trends/",
+        "blog": "Futures, Foresight and Horizon Scanning",
+        "blog_link": "https://foresightprojects.blog.gov.uk",
+        "description": "By Annie Estlin, OPCSA The Office of the Police Chief Scientific Adviser (OPCSA), through GO-Science's co-funding opportunity, commissioned a report to explore emerging science and technology trends for UK policing. The pace of technological change continues to accelerate. Previously, technologies \u2026"
+    },
+    {
+        "title": "Road work ahead: driving economic growth in UK markets",
+        "authors": [
+            "Daniel Turnbull"
+        ],
+        "posted_on": "2025-06-19T12:21:00",
+        "categories": [
+            "Markets"
+        ],
+        "content": [
+            {
+                "content": "Market studies, investigations and reviews are an important part of how the Competition and Markets Authority (CMA) seeks to make markets work well for people, businesses and the UK economy.",
+                "tag": "p"
+            },
+            {
+                "content": "Today, we have announced our next piece of work, launching a market study into civil engineering in the road and rail sector. This is the first markets project that we have started since we:",
+                "tag": "p"
+            },
+            {
+                "content": "In this post, I set out how both have informed our decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK government has called on regulators and agencies, including the CMA, to play their part in delivering on its number one priority: economic growth. In particular, the strategic steer asks us to prioritise pro-growth and pro-investment interventions in areas where we have discretion over which cases to open.",
+                "tag": "p"
+            },
+            {
+                "content": "Applying the strategic steer to our markets work",
+                "tag": "h2"
+            },
+            {
+                "content": "We have considered growth and investment:",
+                "tag": "p"
+            },
+            {
+                "content": "Deciding which markets to focus on",
+                "tag": "h3"
+            },
+            {
+                "content": "The launch of this study shows that we are focusing some of our work on markets that are important to productivity and growth across the whole UK economy. Not only is civil engineering for road and rail a huge area of economic activity in itself; it\u2019s also very important for the productivity of businesses across the wider economy. This market study has the potential to drive significant gains in productivity and growth in the economy.",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this renewed pro-growth focus for our markets work, the CMA will continue to examine markets that are not delivering what consumers need \u2013 as in our recent work on road fuel, infant formula and vet services. This will continue to be a crucial strand of our work. Going forward, we also expect to devote more of our resource on areas where improvements would have a big impact on productivity and growth.",
+                "tag": "p"
+            },
+            {
+                "content": "Deciding how we will carry out our markets work",
+                "tag": "h3"
+            },
+            {
+                "content": "While our markets work can greatly benefit consumers, firms and the wider economy, we know that businesses also need stability and certainty in how they operate, and that this can support investment decisions. In particular:",
+                "tag": "p"
+            },
+            {
+                "content": "Given these trade-offs, we need to make sure that where we carry out markets cases, we work hard to avoid imposing any unnecessary burdens on business \u2013 and maximise the net benefit of our work.",
+                "tag": "p"
+            },
+            {
+                "content": "Taking the 4Ps approach to our new market study",
+                "tag": "h2"
+            },
+            {
+                "content": "To address these and similar concerns across its wider toolkit, the CMA has announced that it is making improvements to pace, predictability, proportionality and process (the \u20184Ps\u2019) \u2013 \u2018process\u2019 meaning how we engage with important stakeholders, including businesses and investors. We will shortly be sharing a fuller update on how we are developing a 4Ps framework for our markets work.",
+                "tag": "p"
+            },
+            {
+                "content": "In the meantime, we have accelerated our thinking in the approach we will take to the civil engineering market study. In particular, we have:",
+                "tag": "p"
+            },
+            {
+                "content": "Next month, we will publish an approach document and revised markets guidance setting out clearly the principles that we will hold ourselves to. Given the variation in our markets projects, this will not mean a one-size-fits-all approach, but rather a statement of our core principles and objectives for operating the markets regime. ",
+                "tag": "p"
+            },
+            {
+                "content": "In the meantime, I hope the way we carry out the civil engineering market study provides a good preview of what this will look like in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "Share your views on the study's purpose and scope",
+                "tag": "h2"
+            },
+            {
+                "content": "Send us your views on the purpose and proposed scope of the market study by responding to the questions in the statement of scope. The deadline is 17 July 2025.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2025/06/19/driving-economic-growth-in-uk-markets/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "How the CMA\u2019s new market study will apply our pro-growth and pro-investment approach to markets work."
+    },
+    {
+        "title": "Help us to build the evidence we need for the fisheries we want",
+        "authors": [
+            "Katie St John Glew - FMP Evidence Lead, Defra"
+        ],
+        "posted_on": "2025-06-19T12:16:03",
+        "categories": [
+            "- Defra led FMPs",
+            "Evidence"
+        ],
+        "content": [
+            {
+                "content": "We are pleased to announce that the list of evidence gaps has been updated to include new gaps identified in the Southern North Sea and Channel skates and rays, North Sea and Channel sprat, cockle, queen scallop, and Southern North Sea demersal non-quota species (NQS) fisheries management plans (FMPs) which will be published later this year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These gaps were identified through preparing the evidence statements for each plan, which included engagement with stakeholders and the consultation process.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our post on evidence explains our approach for FMPs - Introduction to the role of evidence in fisheries management plans.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Summary of evidence gaps\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Addressing the gaps in evidence is essential to understanding and progressing towards sustainable fisheries management and to support the effective implementation of measures and goals that are set out in the FMPs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A broad range of topics are covered such as:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A call for collaboration\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We are starting to address some of the highest priority gaps through Defra funded research projects.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But Defra cannot fill all these gaps alone. We need the expertise, commitment and input from across the FMP community to help us work together to provide the evidence that is required to support FMP implementation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We would love to hear if you are working on any projects that contribute towards filling these gaps and are keen to hear ideas on how we can continue to improve transparency and collaboration in our evidence going forwards. Comment below or let us know at FMPs@defra.gov.uk\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Let's work together to fill these gaps and deliver the goals of our FMPs!\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get support for projects addressing FMP gaps\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Fisheries and Seafood Scheme (FaSS) provides financial assistance for projects that support the development of the catching, processing and aquaculture sectors, and for projects that enhance the marine environment.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "FaSS grants can support science and fisheries partnerships in addressing FMP evidence gaps so check the full eligibility criteria and how to apply at Fisheries and Seafood Scheme reopens with around \u00a36 million of investment - GOV.UK\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Do not delay!\u00a0 FaSS grants are always extremely popular, and we urge potential applicants to move fast to stand the best chance of being successful.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Keep an eye on the blog for future posts with more opportunities and support available.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/06/19/help-us-to-build-the-evidence-we-need-for-the-fisheries-we-want/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Identifying and addressing gaps in evidence is important to achieve FMP goals. Defra funds some research but now is the perfect time to get involved as FaSS funding applications have reopened."
+    },
+    {
+        "title": "Greater access to social housing for vulnerable people",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2025-06-19T11:12:11",
+        "categories": [
+            "Housing"
+        ],
+        "content": [
+            {
+                "content": "Today the government has laid regulations to exempt care leavers under 25 and victims of domestic abuse from local connection rules so they can have better access to social housing.",
+                "tag": "p"
+            },
+            {
+                "content": "Under the new rules these groups will no longer be unfairly penalised for not having a local connection as the government recognises the unique challenges they can face, such as transitioning out of care or fleeing an unsafe home to seek safety.",
+                "tag": "p"
+            },
+            {
+                "content": "These changes will come into force next month and follows reforms last year to remove barriers for all former UK Armed Forces Veterans, as pledged by the Prime Minister.The Daily Mirror covers today\u2019s announcement reporting that young care leavers and domestic abuse survivors will no longer need to prove a local connection \u2013 such as living, working or having family nearby \u2013 to access social housing.",
+                "tag": "p"
+            },
+            {
+                "content": "Deputy Prime Minister and Housing Secretary, Angela Rayner said: \u00a0\u00a0\u201cIt breaks my heart to hear countless stories of people leaving the care system or fleeing an abusive relationship and not having a place they can truly call home.\u00a0We\u2019re rewriting the rules to help get them a roof over their heads and the security they deserve.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cOur changes will make sure these vulnerable groups do not face unfair barriers to safe and secure housing. This is backed by our commitment to secure the biggest boost to social and affordable housing in a generation, and through our Plan for Change we are going further and faster to make this a reality.\u201d\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2025/06/19/greater-access-to-social-housing-for-vulnerable-people/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "Today the government has laid regulations to exempt care leavers under 25 and victims of domestic abuse from local connection rules so they can have better access to social housing. Under the new rules these groups will no longer be \u2026"
+    },
+    {
+        "title": "What the evidence says about interventions to reduce pollution and improve lives",
+        "authors": [
+            "Karen Exley"
+        ],
+        "posted_on": "2025-06-19T10:08:10",
+        "categories": [
+            "Protecting the country's health",
+            "UKHSA science"
+        ],
+        "content": [
+            {
+                "content": "Breathing in polluted air affects our health, reduces our life expectancy, and costs our society billions of pounds each year. It is estimated that 2 million healthy life years are lost in Europe due to the impacts of poor air quality, making the need to improve air we breathe in and reduce the pollution we produce a clear priority.",
+                "tag": "p"
+            },
+            {
+                "content": "Despite improvements in air quality over previous decades, air pollution remains a significant environmental risk factor, which is why the UK Health Security Agency (UKHSA) recognises the need for action in order to reduce people\u2019s exposure, therefore tackling existing health inequalities, and improving outcomes for all.",
+                "tag": "p"
+            },
+            {
+                "content": "Increasing the evidence base",
+                "tag": "h2"
+            },
+            {
+                "content": "Increasing the evidence base is key to tackling air pollution, and UKHSA does this by publishing journals, reports and policy briefs on a range of topics, while reviewing the effectiveness of interventions. Health Protection Research Units (HPRUs) are central to the research we carry out. These are existing partnerships between academia and UKHSA, funded by the National Institute of Health Research (NIHR).",
+                "tag": "p"
+            },
+            {
+                "content": "To mark Clean Air Day, a review of recent evidence on the health impacts and benefits of transport interventions around schools has been published by the agency today. This work has been conducted within the frame of the NIHR and HPRU in Environmental Change and Health\u00a0to deliver on air quality improvements and benefits of climate change.",
+                "tag": "p"
+            },
+            {
+                "content": "The review focused on studies carried out both in the UK and internationally and categorised the transport interventions in those related to vehicle technology and driving behaviour; traffic management; active travel and behavioural change, and urban planning and school location. It found that actions related to closing streets around schools temporarily (traffic management) can lead to reductions in traffic-pollutant concentrations during certain hours of the day, such as the school drop-off times when children are likely to be exposed to traffic pollution. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While these actions only offer low-to-medium air quality improvements in the wider area, the review identified co-benefits related to the increased use of active travel modes and physical exercise (active travel and behavioural change), improved road safety and sustainable travel, enhanced socialising and reduced traffic congestion.",
+                "tag": "p"
+            },
+            {
+                "content": "Previously, Public Health England published an evidence review of interventions that aim to improve outdoor air quality and public health and made recommendations by introducing the hierarchy of interventions model.",
+                "tag": "p"
+            },
+            {
+                "content": "This model prioritises prevention of emissions as the most effective type of intervention, followed by mitigation of pollution concentrations, with both of these being preferable to requiring individuals to avoid exposure by adapting their behaviour.",
+                "tag": "p"
+            },
+            {
+                "content": "UKHSA is proposing the continuation of interventions that can have an impact on climate, air quality and children\u2019s health following this hierarchy model.",
+                "tag": "p"
+            },
+            {
+                "content": "Collaborating with partners and stakeholders",
+                "tag": "h2"
+            },
+            {
+                "content": "Today also marks the publication of a new report titled \u2018A breath of fresh air: responding to the health challenges of modern air pollution\u2019 from the Royal College of Physicians (RCP). This report is an update to their 2016 report \u2018Every breath we take\u2019, which played a significant role in shaping conversation around the harms of air pollution and the actions that need to be taken. The report focuses on the new evidence of the health harms of air pollution that occur even at low air pollution concentrations, linking exposure to air pollution in earlier stages of life to poorer health throughout life.",
+                "tag": "p"
+            },
+            {
+                "content": "I have contributed to this RCP report, detailing advances in air pollution epidemiology in recent years. These improvements have advanced our understanding of \u00a0the concentrations at which effects occur and the latency periods between exposure and health effects.",
+                "tag": "p"
+            },
+            {
+                "content": "Since RCP\u2019s last report in 2016, studies have been published that show how exposure from decades ago influence morbidity and mortality throughout life. We also know that short-term elevations in air pollution, known as episodes, can also increase morbidity, particularly from respiratory and cardiovascular effects, increasing hospital admissions and mortality within hours or days of the exposures.",
+                "tag": "p"
+            },
+            {
+                "content": "Research from The Committee on the Medical Effects of Air Pollutants (COMEAP), which provides independent advice to government departments and agencies on how air pollution impacts on health, has found evidence that symptoms and adverse health effects including respiratory and cardiovascular effects can occur several days after short-term exposure to air pollutants.",
+                "tag": "p"
+            },
+            {
+                "content": "UKHSA\u2019s Air Quality representatives work with partners to improve our understanding of the issue of air pollution, and in 2022 The London Air Quality and Health Programme Office (AQHPO), - a collaboration with the Office for Health Improvements and Disparities (OHID), the Greater London Authority (GLA) and NHS England - was established.",
+                "tag": "p"
+            },
+            {
+                "content": "In February 2024, the London AQHPO launched the UK's first air quality alerts for healthcare professionals, aimed at General Practices and Emergency Departments across the city. It provides messages on the importance of good baseline management of any long-term conditions, and also gives advice on physical activity, modes of transport and suitable routes that help avoid exposure.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The team is now mapping and curating education and training resources for health and care professionals on air quality and health.",
+                "tag": "p"
+            },
+            {
+                "content": "Improving awareness and understanding",
+                "tag": "h2"
+            },
+            {
+                "content": "Earlier this year, we supported the Department for Environment Food and Rural Affairs (Defra) in the publication of the Air Quality Information System (AQIS) review final report and recommendations. This report, led by an external multi-disciplinary steering group, was commissioned in 2021 as part of the government\u2019s commitment to improve the provision of air quality information to the public following the inquest into the death of Ella Adoo-Kissi-Debrah.",
+                "tag": "p"
+            },
+            {
+                "content": "The report detailed that the UK has significant technical capabilities for providing air quality information to the public, but these capabilities are not always being utilised to their fullest potential. Building on existing systems will improve public awareness of the major sources of air pollution and their harmful effects, helping to inform actions to reduce personal contribution and exposure. The UKHSA is committed to continuing to work with partners such as Defra and other stakeholders to act on the recommendations set out in this report, ensuring a healthier future for all.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2025/06/19/what-the-evidence-says-about-interventions-to-reduce-pollution-and-improve-lives/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Breathing in polluted air affects our health, reduces our life expectancy, and costs our society billions of pounds each year. It is estimated that 2 million healthy life years are lost in Europe due to the impacts of poor air \u2026"
+    },
+    {
         "title": "DfE launches School Estate Management Standards to support all schools to manage their estates effectively",
         "authors": [
             "David Fugurally, Head of School Estate Management Standards, Competencies & Skills"
