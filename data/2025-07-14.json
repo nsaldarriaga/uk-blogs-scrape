@@ -1,5 +1,566 @@
 [
     {
+        "title": "I-VMS licence condition... two months on",
+        "authors": [
+            "Sean Douglas, Head of Enforcement, Intelligence and Investigations"
+        ],
+        "posted_on": "2025-07-15T14:52:11",
+        "categories": [
+            "fisheries",
+            "I-VMS",
+            "marine planning"
+        ],
+        "content": [
+            {
+                "content": "It\u2019s been two months since the I-VMS licence condition was introduced, and a great time to review our progress and address some of the common questions we\u2019ve been receiving from fishers.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve seen a significant rise in the number of vessels fitted with devices and sharing data to MMO since the licence condition came into force on 12 May 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "As of today, 90% of under-12m vessels now have an I-VMS device installed and more than 70% of the active fleet is regularly transmitting data to MMO during trips to sea. This is an incredible effort by the fishing industry, and we would like to thank every fisher who has engaged in the I-VMS roll-out.",
+                "tag": "p"
+            },
+            {
+                "content": "This data will be crucial to the development of fisheries management plans and wider discussions about marine management of our waters.",
+                "tag": "p"
+            },
+            {
+                "content": "Using your feedback",
+                "tag": "p"
+            },
+            {
+                "content": "We are grateful for the valuable feedback that has been shared with us about the I-VMS roll-out - whether that\u2019s by phone, email or in person to the I-VMS support team, at regional Fisheries Group (RFG) meetings or through your local coastal office.",
+                "tag": "p"
+            },
+            {
+                "content": "Your input is crucial in helping us to support you. We\u2019ve already addressed many of these in our letters and guidance, but for those who still have questions or are yet to act, here\u2019s a recap of the most common enquiries:",
+                "tag": "p"
+            },
+            {
+                "content": "Licence condition process",
+                "tag": "p"
+            },
+            {
+                "content": "On 12 May 2025, we introduced a licence condition that requires the use of an MMO type-approved I-VMS device by all English under-12m vessels during a trip to sea.",
+                "tag": "p"
+            },
+            {
+                "content": "The aim of this approach is to provide a period before the Statutory Instrument (SI) comes into force where we can work with fishers and device suppliers to help make sure everyone is prepared.",
+                "tag": "p"
+            },
+            {
+                "content": "The licence condition for I-VMS has been introduced in line with our powers as a regulator under Schedule 3 of the Fisheries Act (2020). Licence conditions apply to all licence holders within MMO\u2019s administration, meaning it is now law and a legal requirement.",
+                "tag": "p"
+            },
+            {
+                "content": "The future intent, under the SI, is for I-VMS to become a requirement for all under-12m fishing vessels \u2013 both foreign and domestic - operating in English waters (the English EEZ). In addition to supporting English fishers, we are engaging with European administrations to ensure their vessels are aware of the SI and can prepare for this change.",
+                "tag": "p"
+            },
+            {
+                "content": "Details of the I-VMS requirements are in section 16 of your fishing licence \u2013 visit understand your fishing vessel licence on GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Approach to compliance and enforcement",
+                "tag": "p"
+            },
+            {
+                "content": "What this means in practice, is that fishers without I-VMS devices should now purchase and install one, if they intend to undertake a trip to sea. Those with devices already installed should turn them on. To check the device is transmitting data, fishers can use the app or web portal provided by suppliers, or by contacting our I-VMS team.",
+                "tag": "p"
+            },
+            {
+                "content": "We are committed to helping ensure that English fishers are as ready as they can be for the SI.",
+                "tag": "p"
+            },
+            {
+                "content": "Where we hold no record of a device purchase or installation, or where our records show a vessel has undertaken a trip to sea but has not reported any I-VMS data, we may send a letter with further guidance. If you think our records are not up to date, please contact us with the relevant information so we can update them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once we are informed fishers are taking steps to be compliant by arranging installation or working with suppliers to resolve issues, we will take a measured approach to any enforcement activity under the licence condition.",
+                "tag": "p"
+            },
+            {
+                "content": "How I-VMS works",
+                "tag": "p"
+            },
+            {
+                "content": "I-VMS devices record positional data of a vessel. This includes the device ID, date, time, latitude, longitude, speed, and course. Using GPRS signal the device sends this information at regular intervals (every three minutes) to the UK VMS Hub. This is more cost-effective than the satellite data transfer used by many larger vessels. If there is a GPRS signal \u2018dead zone\u2019 the device will store the data and transmit this once it is back in range.",
+                "tag": "p"
+            },
+            {
+                "content": "Once the I-VMS device is fitted to a vessel, it works automatically when powered (the LED on the device will be illuminated), meaning fishers do not have to spend time turning it on and setting it up each time they go out to sea.",
+                "tag": "p"
+            },
+            {
+                "content": "There is no video recording associated with the I-VMS devices, nor will these devices be used for tracking of individual(s).",
+                "tag": "p"
+            },
+            {
+                "content": "Common issues",
+                "tag": "p"
+            },
+            {
+                "content": "The most common issue fishers have shared with us since introducing the licence condition is non-reporting devices.",
+                "tag": "p"
+            },
+            {
+                "content": "This could be due to devices needing a restart or software updates after having been installed and / or powered down for a period of time. It could also be a data transmission issue, which can be checked through an app or web portal provided by the supplier or by contacting our I-VMS team.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have questions about your device, we recommend you contact your device supplier to report the issue. You can also notify our I-VMS team, but this is not mandatory.",
+                "tag": "p"
+            },
+            {
+                "content": "Regularly providing power to your device, even during periods when your vessel is not at sea, will help ensure it captures any software updates issued by the supplier.",
+                "tag": "p"
+            },
+            {
+                "content": "The installation process",
+                "tag": "p"
+            },
+            {
+                "content": "Devices should only be installed by an engineer approved by your device supplier. Any attempts to install a device yourself, could be considered as tampering and may potentially void your warranty.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are aware that engineer availability in some areas can cause a delay due to the demand created by the I-VMS licence condition. If you are waiting for a device to be installed, you might receive a letter from us asking for an update to ensure that we take the appropriate approach to any enforcement activity under the licence condition.",
+                "tag": "p"
+            },
+            {
+                "content": "Removing devices for remediation work",
+                "tag": "p"
+            },
+            {
+                "content": "If you have been advised of, or have reported, an issue with your device or its data transmissions, and the device supplier has requested the device is returned for inspection, it may be possible for fishers to remove the device manually.",
+                "tag": "p"
+            },
+            {
+                "content": "This can only be done with written agreement from the supplier, who will provide instructions for the safe removal of the device. ",
+                "tag": "p"
+            },
+            {
+                "content": "This temporary dispensation has been made following feedback from fishers and accommodate for engineer availability and help facilitate the timely resolution of  any issues. This dispensation is in place during the remainder of the licence condition and only when a device needs to be returned to the supplier to investigate any issues / repairs. ",
+                "tag": "p"
+            },
+            {
+                "content": "In no other circumstance should fishers remove devices themselves. Devices will need to be re-installed by an approved engineer once the supplier has resolved the issue.",
+                "tag": "p"
+            },
+            {
+                "content": "Protecting your privacy",
+                "tag": "p"
+            },
+            {
+                "content": "Data transmitted by I-VMS devices can be seen only by those listed in the I-VMS privacy notice and device owners.",
+                "tag": "p"
+            },
+            {
+                "content": "Device owners can access their data through an app or web portal provided by the supplier.",
+                "tag": "p"
+            },
+            {
+                "content": "Other fishers and the public cannot see this data. MMO can only share the information with organisations that require it as part of regulating and managing the marine environment. This includes MMO and other agencies, such as local IFCAs and devolved fisheries administrations, if a vessel enters their waters. Any data that is shared is governed by strict data sharing principles and regulations, including data protection and GDPR rules, and in line with the I-VMS data privacy notice.",
+                "tag": "p"
+            },
+            {
+                "content": "Thinking of selling\u2026?",
+                "tag": "p"
+            },
+            {
+                "content": "If you are selling a vessel with an I-VMS device already installed, prior to the sale, you should check the contractual agreement with your supplier to understand if the device can be transferred to your new vessel, or to a new owner. ",
+                "tag": "p"
+            },
+            {
+                "content": "A transfer of ownership is subject to data protection and GDPR legislation, which is why the original owner needs to make the request. You should also let our I-VMS team know so they can update their records.",
+                "tag": "p"
+            },
+            {
+                "content": "Read the full guidance on the I-VMS operational requirements section of GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Why I-VMS?",
+                "tag": "p"
+            },
+            {
+                "content": "Now that the UK is an independent coastal state, we have the scope to determine the best fisheries management strategies to support a thriving industry for future generations while conserving our vital marine environment.",
+                "tag": "p"
+            },
+            {
+                "content": "This is part of a wider government strategy to improve data collection to support development of more responsive fisheries management measures and practices that will enable the industry to benefit from leaving the Common Fisheries Policy.",
+                "tag": "p"
+            },
+            {
+                "content": "I-VMS devices will provide valuable data on the fishing patterns and activity of the inshore fleet to directly inform these crucial planning decisions and safeguard the fishing industry for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "I-VMS data will support assurance work by MMO and IFCAs in ensuring fisheries regulations are being complied with by all fishing vessels throughout England\u2019s waters.",
+                "tag": "p"
+            },
+            {
+                "content": "When combined with data on catch volumes, scientific evidence of stock levels and a range of other significant data, I-VMS data will also enable more efficient decisions on local and national management measures and policies.",
+                "tag": "p"
+            },
+            {
+                "content": "It will also enable MMO to continually improve its targeted assurance activities as the clearer picture of fishing activity will help highlight which vessels are consistently complying with regulations on where and what they can fish, and those that may introduce risk to the sustainable harvest of sea fisheries.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking to the future",
+                "tag": "h2"
+            },
+            {
+                "content": "MMO is not the only fisheries administration introducing I-VMS. It\u2019s already in place for vessels fishing in Welsh waters, while it is also required for those operating in the Devon & Severn IFCA district. Others are at various stages of that process too with the aim of working together to sustain fishing for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "We are committed to making the best use of this technology to:",
+                "tag": "p"
+            },
+            {
+                "content": "Contact us",
+                "tag": "h2"
+            },
+            {
+                "content": "You can reach our dedicated I-VMS team via email at ivms@marinemanagement.org.uk or by calling 01900 508 618. The contact centre number is staffed from 9.00am to 5.00pm, Monday to Friday. Outside of these hours, messages can be left.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Visit GOV.UK for more information on I-VMS.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2025/07/15/i-vms-licence-condition-two-months-on/",
+        "blog": "Marine developments",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "It\u2019s been two months since the I-VMS licence condition was introduced, and a great time to review our progress and address some of the common questions we\u2019ve been receiving from fishers. We\u2019ve seen a significant rise in the number of \u2026"
+    },
+    {
+        "title": "Behind the scenes at APHA Scientific",
+        "authors": [
+            "Michelle Felstead"
+        ],
+        "posted_on": "2025-07-15T12:49:12",
+        "categories": [
+            "APHA news"
+        ],
+        "content": [
+            {
+                "content": "If you have not come across APHA Scientific before, you are not alone. We are a small part of a big agency, but we are doing some pretty important work, and now we have a new website to help us shout about it.",
+                "tag": "p"
+            },
+            {
+                "content": "APHA Scientific, our Business Development team, sits within the Animal and Plant Health Agency (APHA). While the agency delivers vital work for the UK government, like controlling disease outbreaks, testing for new threats, and researching ways to protect animal and plant health, APHA Scientific is the team that takes that work and makes it available to the wider world.",
+                "tag": "p"
+            },
+            {
+                "content": "It might mean offering biological reagents to veterinary companies overseas. Or it might mean offering something more bespoke like helping a company identify viruses in their samples, using scientific expertise to support research and development, or providing access to high containment laboratories and specialist animal housing. Whatever it is, the aim is the same: to\u00a0help protect animals, people, the environment, and the economy.",
+                "tag": "p"
+            },
+            {
+                "content": "Taking great science beyond government",
+                "tag": "h2"
+            },
+            {
+                "content": "Our job in APHA Scientific is to take what the agency does so well and offer it, responsibly, to people outside of UK government.",
+                "tag": "p"
+            },
+            {
+                "content": "This can include organisations such as private veterinary laboratories, universities and research institutions, pharmaceutical and biotechnology companies, regulators and overseas governments, vets, farmers, and others working in the animal health industry.",
+                "tag": "p"
+            },
+            {
+                "content": "If there is a way to make something useful, relevant, and ethical, and if we are not competing with UK industry, we find a way to offer it.",
+                "tag": "p"
+            },
+            {
+                "content": "We do not do it just to bring in income (although that helps!). We do it to make the most of the agency\u2019s expertise, reach more people, and reinvest in research that benefits everyone. It is about keeping vital skills alive, sharing our knowledge, and making sure public investment in science goes further.",
+                "tag": "p"
+            },
+            {
+                "content": "What we offer",
+                "tag": "h2"
+            },
+            {
+                "content": "Over the years, we have built up a wide range of specialist products and services \u2014 all backed by expert scientists, high-tech laboratories, and a business development team who help make it all happen.",
+                "tag": "p"
+            },
+            {
+                "content": "Products and services available include:",
+                "tag": "h3"
+            },
+            {
+                "content": "It is a long list, which is constantly evolving as we respond to new challenges and opportunities. If you do not see what you are looking for, just get in touch \u2013 we might still be able to help or point you in the right direction.",
+                "tag": "p"
+            },
+            {
+                "content": "Spotlight on VETQAS",
+                "tag": "h2"
+            },
+            {
+                "content": "A good example of what APHA Scientific does is VETQAS\u00ae Proficiency Testing (PT).",
+                "tag": "p"
+            },
+            {
+                "content": "VETQAS was established in the 1970s as a way of checking the accuracy of APHA\u2019s own laboratory work. Today, it is a market-leading proficiency testing service, helping veterinary laboratories across the world stay on top of their game.",
+                "tag": "p"
+            },
+            {
+                "content": "Diagnostic laboratories receive \"blind\" samples from VETQAS, carry out their usual tests, and report their findings. The laboratory then receives a confidential inter-laboratory report comparing their results with others. This helps them spot any issues, meet accreditation standards, and continually improve.",
+                "tag": "p"
+            },
+            {
+                "content": "VETQAS offers over 100 commercial PT schemes with customers spanning over 80 countries and is UKAS-accredited to ISO/IEC 17043.",
+                "tag": "p"
+            },
+            {
+                "content": "In short, we help laboratories make sure they are diagnosing animal diseases correctly, which is vital for animal health, food security, and trade.",
+                "tag": "p"
+            },
+            {
+                "content": "Why our new APHA Scientific website matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Our new website has brought everything together in one place. It is clearer, faster, mobile-friendly, and designed to make it easier for people to explore what we offer. It includes built in features like:",
+                "tag": "p"
+            },
+            {
+                "content": "And this is just the start \u2014 we are already planning future updates to improve the experience even more.",
+                "tag": "p"
+            },
+            {
+                "content": "Global reach, personal conversations",
+                "tag": "h2"
+            },
+            {
+                "content": "The website and digital marketing channels are a key part of how we connect with the world, but not the only way.",
+                "tag": "p"
+            },
+            {
+                "content": "Each year, our small team of business development managers, marketers (that is me!), and technical experts attend events across the UK and internationally. We go as delegates, exhibitors, and sponsors, and we use those opportunities to talk face-to-face with current and potential customers.",
+                "tag": "p"
+            },
+            {
+                "content": "From animal health expos in Europe to lab science conferences in Asia, these conversations help us understand what people need \u2014 and explain how we can help.",
+                "tag": "p"
+            },
+            {
+                "content": "It is not just about selling. It is about building partnerships, sharing knowledge, collaboration, and making sure the right people know how we can support them.",
+                "tag": "p"
+            },
+            {
+                "content": "Behind the scenes: The people making it work",
+                "tag": "h2"
+            },
+            {
+                "content": "One thing I have come to really value in this role is the way our business development managers (BDMs) bridge the gap between science and business. Our BDMs bring a mix of expertise such as veterinary, scientific, technical, legal and commercial contract backgrounds. They can handle everything from technical discussions to negotiating License Agreements. They understand what our customers are asking for, but also what our scientists can realistically deliver. They manage expectations, spot opportunities, and keep projects moving.",
+                "tag": "p"
+            },
+            {
+                "content": "That close connection between science and service is what makes APHA Scientific work so well.",
+                "tag": "p"
+            },
+            {
+                "content": "And while we are a commercial team, our mindset is very much aligned with the wider APHA mission: to protect animal and plant health to benefit people, the economy and the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "Final thoughts",
+                "tag": "h2"
+            },
+            {
+                "content": "I am really proud of the work we do, and I am proud that we have now got a platform that helps us tell that story better.",
+                "tag": "p"
+            },
+            {
+                "content": "This new website is not just a digital upgrade, it reflects how far we have come, how much we have learned, and how much more we have got to share.",
+                "tag": "p"
+            },
+            {
+                "content": "If you work in animal health, science, or just have an interest in what APHA does, have a look. Whether you are down the road or across the globe, we are here, we are open for business, and we are ready to talk.",
+                "tag": "p"
+            },
+            {
+                "content": "For further information and to speak to one of our Business Development Team please contact:",
+                "tag": "p"
+            },
+            {
+                "content": "+44 (0)3000 600001 | aphascientific@apha.gov.uk | www.aphascientific.com",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2025/07/15/apha-scientific/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "APHA Scientific brings vital UK science to the world, supporting animal and plant health through diagnostics, reagents, and expert services. Explore what we do on our new website."
+    },
+    {
+        "title": "New RSHE guidance: what parents need to know\u00a0",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-07-15T12:00:00",
+        "categories": [
+            "Relationships and Sex Education",
+            "Schools"
+        ],
+        "content": [
+            {
+                "content": "Children are increasingly exposed to harmful content online, including misogynistic attitudes and unhealthy views about relationships.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That's why schools across England are getting new guidance to help teachers navigate these challenges and support children to develop positive attitudes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The government has published updated guidance for relationships, sex and health education in schools, with a fresh focus on helping all children identify positive role models and challenge harmful ideas they might encounter online and in real life.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But what do these changes mean for parents and pupils? Here's what you need to know.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why has the guidance been updated?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "New research shows just how widespread exposure to misogyny or harmful online content has become. When asked about just the past week, over a third of pupils aged 11-19 had heard comments that made them worry about girls' safety, and more than half witnessed comments they would describe as misogynistic.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Research also found that over one in five girls aged 7 to 10 had seen inappropriate images online, with the average age for exposure to pornography being 13.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Schools need the right tools to help children understand these challenges and develop healthy attitudes to relationships from an early age.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What will my child learn?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The approach starts early, with primary school children learning about positive relationships between friends and family. \u00a0This builds the foundation for understanding respect and kindness in all relationships whilst making sure kids know how to be safe and recognise what counts as abusive behaviour so they can ask for help if they need it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In secondary school, all pupils learn about consent, and lessons focus on helping teenagers understand consent as well as kindness and respect as they\u2019re getting ready for more intimate relationships. They will learn to identify positive role models and understand how to challenge harmful attitudes they might encounter online.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How will these topics be taught?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Teachers will be supported to bring these topics to life in ways that stay with pupils as they leave the classroom - creating safe spaces where children can have meaningful discussions that have lasting impact.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The guidance sets clear safeguards to ensure teaching remains age-appropriate. This means making sure kids don't get taught things they are too young for, whilst allowing teachers to sensitively and safely respond to topics children have encountered on- or off-line. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Will I know what my child is learning?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Yes. The guidance makes clear that parents should be able to view all curriculum materials on request. Schools cannot agree to any contractual restrictions with external providers that would prevent parents from seeing content their school plans to use.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This transparency ensures you can stay informed about what your child is learning and have conversations at home to support their understanding.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How will teachers be supported?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Teachers will receive proper training to handle these sensitive topics effectively. From early 2026, schools will be able to apply for training grants to help their staff tackle these challenges with confidence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Oak National Academy has also developed new online safety lessons that help teenagers learn about harmful ideologies and other forms of misogyny they might encounter online.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What about mental health support?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Alongside relationship education, children will learn about building resilience and managing everyday mental health challenges. They'll understand that some anxiety and low mood can be normal parts of life, while learning strategies to cope with these feelings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Secondary schools will work closely with mental health professionals to discuss suicide prevention in age-appropriate ways. This goes alongside the government\u2019s broader rollout of access to a mental health professional in every school, ensuring children have the support they need to achieve and thrive.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/07/new-rshe-guidance-what-parents-need-to-know/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "A teacher sits at a table with a group of secondary school students in uniform, having a discussion in a classroom. The image is overlaid with text that reads: \u201cNew RSHE Guidance: What Parents Need to Know,\u201d and includes the Department for Education logo."
+    },
+    {
+        "title": "Managing the impacts of drought in the Midlands",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-07-15T11:10:17",
+        "categories": [
+            "Climate change",
+            "Drought",
+            "Environment Agency",
+            "Fisheries and biodiversity",
+            "hydrometry",
+            "Nature",
+            "Ofwat",
+            "Rivers",
+            "Sustainability",
+            "Water",
+            "Water Monitoring"
+        ],
+        "content": [
+            {
+                "content": "What is the situation in England? The National Drought Group met today (15 July) and a drought was declared in the West and East Midlands. The region joins the north-west and Yorkshire which officially declared drought last month. Dry weather continues to impact water resources across England requiring water companies to take action to manage demand with the public being urged to use water wisely. Across England, rainfall was 20% less than long term average for June. June was also the hottest on record for England, with two heatwaves driving unusually high demand for water. ",
+                "tag": "p"
+            },
+            {
+                "content": "What is the water situation in the Midlands?  In the Midlands, public water supplies are currently secure, but we are seeing adverse effects on the natural environment due to the ongoing lack of rain. And while groundwater levels have been normal across the region, they are starting to fall. Meanwhile, river levels are already low with some river flows in the region at their lowest for June since 1976. For example, the River Severn catchment received only two-thirds of the rainfall it normally does in June, while the Trent catchment fared worse, with only 37% of its long-term average for June. Lack of rain combined with warm temperatures lead to low water levels and less oxygen in rivers and streams \u2013 a stressful situation for the wildlife that depend on them. ",
+                "tag": "p"
+            },
+            {
+                "content": "How is wildlife being supported? One of the Environment Agency's roles is to ensure there is enough water for wildlife as well as for the public water supply. So, what is the Environment Agency in the Midlands doing to achieve this during the current prolonged period of dry weather? We operate water supplement schemes that support rivers \u2013 such as the River Severn Regulation, whereby releases from well-stocked reservoirs upstream of Bewdley in Shropshire add water to the river. ",
+                "tag": "p"
+            },
+            {
+                "content": "How is the Environment Agency working with abstractors? As the government body responsible for licensing abstractions in England (taking water from the environment), we encourage farmers and growers to take and use water in a sustainable way. This includes putting temporary limits on abstraction licences and supporting water transfers (where someone with water to spare supplies another abstractor). We also ensure water companies have robust drought plans in place, should they need to activate them (it's your water company who will decide whether or not a hosepipe ban is needed this summer). Find out more about how we are supporting the farming community to manage the impacts of dry weather. ",
+                "tag": "p"
+            },
+            {
+                "content": "How is the Environment Agency supporting fish? We respond to reports to our incident hotline of fish in distress, due to low water or low oxygen \u2013 or both. On just one weekend in June, Environment Agency officers rescued over 300 brown trout and salmon from the River Redlake in south Shropshire. You can report sightings of fish in distress to our incident hotline on 0800 80 70 60. We also help fisheries managers such as angling clubs to protect fish stocks \u2013 for example, by providing equipment to pump oxygen into the water. Last but not least, we monitor environmental indicators \u2013 including rainfall data provided by the Met Office as well as the water level information provided by our network of river and groundwater gauges. So that's what we do. But it's fair to say that everyone has a part to play in ensuring there's enough water for wildlife as well as for people \u2013 water companies, farmers and growers, businesses and the general public. ",
+                "tag": "p"
+            },
+            {
+                "content": "What can I do? You can do your bit by only using the water you really need to at home. There are lots of tips on the Water Wise website or you can follow Waterwise on Facebook to get more ideas.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/07/15/managing-the-impacts-of-drought-in-the-midlands/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "What is the situation in England? The National Drought Group met today (15 July) and a drought was declared in the West and East Midlands. The region joins the north-west and Yorkshire which officially declared drought last month. Dry weather \u2026"
+    },
+    {
         "title": "AI\u2019s Evolving Role in Product Safety",
         "authors": [
             "Research Strategy and Delivery Unit and the Technology Team"
