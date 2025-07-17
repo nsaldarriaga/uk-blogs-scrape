@@ -1,5 +1,738 @@
 [
     {
+        "title": "OFSI launches online forms for reporting and licences",
+        "authors": [
+            "OFSI"
+        ],
+        "posted_on": "2025-07-17T17:03:39",
+        "categories": [
+            "OFSI Blog",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Today, on 17 July, OFSI has launched new online forms for submitting licence applications, reporting suspected breaches, and other key reporting such as frozen assets. This is a significant step forward in our drive to modernise and streamline our services, making our processes clearer, faster and more accessible for everyone who needs to contact us.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new forms are designed to make it easier for you to provide the information we need and to help us respond more quickly and efficiently.",
+                "tag": "p"
+            },
+            {
+                "content": "For now, the new online forms will operate alongside our existing processes during a transition period. While use of the online forms is not yet mandatory, we encourage all users to familiarise themselves with the new forms and start using them as soon as possible. To support this, we have also published downloadable versions of the new forms to preview the questions, which can also be completed and sent to us by email. Using these templates will help you get used to the new format and requirements ahead of the full transition. OFSI will provide ample notice before the old forms are phased out permanently, through e-alerts and updates to our website.",
+                "tag": "p"
+            },
+            {
+                "content": "OFSI values your feedback. Please let us know what you think about our online forms by emailing ofsi@hmtreasury.gov.uk. Your input will help us shape ongoing improvements to the forms.",
+                "tag": "p"
+            },
+            {
+                "content": "Why you should start using the online forms",
+                "tag": "p"
+            },
+            {
+                "content": "Once your form is submitted, you will receive a confirmation email from OFSI containing the details of your submission.",
+                "tag": "p"
+            },
+            {
+                "content": "To help you complete your submission smoothly, we recommend reviewing the downloadable versions of our new forms and gathering the necessary information and documents before you begin. We advise stakeholders to complete forms in one session to avoid any loss of information. The forms cannot be saved in progress. However, as long as the browser is not closed, the form will retain details for up to 20 hours.",
+                "tag": "p"
+            },
+            {
+                "content": "Where can I get help?",
+                "tag": "p"
+            },
+            {
+                "content": "Each online form has guidance on how to fill it in. If you require further assistance, you can contact ofsi@hmtreasury.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "Which forms are available?",
+                "tag": "p"
+            },
+            {
+                "content": "The following forms are now available online:",
+                "tag": "p"
+            },
+            {
+                "content": "Licensing Application",
+                "tag": "p"
+            },
+            {
+                "content": "Use this form to make a new application for a licence or amend an application if the activity the licence is needed for is not already covered by any of the General Licences.",
+                "tag": "p"
+            },
+            {
+                "content": "Information needed:",
+                "tag": "p"
+            },
+            {
+                "content": "Financial sanctions suspected breach reporting form ",
+                "tag": "p"
+            },
+            {
+                "content": "Use this form to report suspected breaches and compliance issues related to implementation of financial sanctions.",
+                "tag": "p"
+            },
+            {
+                "content": "Information needed:",
+                "tag": "p"
+            },
+            {
+                "content": "Oil Price Cap (OPC) suspected breach reporting form",
+                "tag": "p"
+            },
+            {
+                "content": "Use this form to report suspected breaches and compliance issues related to implementation of the UK\u2019s ban on the maritime transportation of Russian oil and oil products and associated services and the oil price cap.",
+                "tag": "p"
+            },
+            {
+                "content": "Licence reporting (except Legal Services General Licence reporting) ",
+                "tag": "p"
+            },
+            {
+                "content": "Use this form to submit licence reporting. If you need to report under the Legal Services General Licence, use the Legal Services General Licence reporting form instead.",
+                "tag": "p"
+            },
+            {
+                "content": "Legal Services General Licence reporting",
+                "tag": "p"
+            },
+            {
+                "content": "Use this form to submit licence reporting for activities carried out under the OFSI Legal Services General Licence.",
+                "tag": "p"
+            },
+            {
+                "content": "Information needed:",
+                "tag": "p"
+            },
+            {
+                "content": "Counter-terrorism suspected breach reporting",
+                "tag": "p"
+            },
+            {
+                "content": "Use this form to report all counter-terrorism compliance-related information to OFSI, including information regarding any suspected breaches of financial sanctions.",
+                "tag": "p"
+            },
+            {
+                "content": "Designated Persons Reporting",
+                "tag": "p"
+            },
+            {
+                "content": "Use this form if you are a DP under the Russia or Belarus (Sanctions) (EU Exit) Regulations 2019 and need to report any funds or economic resources you own, hold or control to OFSI, within 10 weeks of your designation or the relevant legislation coming into force.",
+                "tag": "p"
+            },
+            {
+                "content": "Please download the Excel template here. This will need to be completed before uploading it to the form.",
+                "tag": "p"
+            },
+            {
+                "content": "Information needed:",
+                "tag": "p"
+            },
+            {
+                "content": "Frozen Asset Reporting",
+                "tag": "p"
+            },
+            {
+                "content": "This form should be used by relevant firms to report as soon as practicable the nature and amount or quantity of any funds or economic resources they hold for a customer who is a designated person.",
+                "tag": "p"
+            },
+            {
+                "content": "Please download the Excel template here. This will need to be completed before uploading it to the form.",
+                "tag": "p"
+            },
+            {
+                "content": "This form differs from the annual review of frozen assets where, persons that funds or economic resources owned, held or controlled by a designated person as of 30th September in a calendar year will have to provide OFSI with a report stating the nature and amount or quantity of these funds or economic resources by no later than 30th November in that calendar year.",
+                "tag": "p"
+            },
+            {
+                "content": "For more information on the annual review of frozen assets see our recent annual review.",
+                "tag": "p"
+            },
+            {
+                "content": "Information needed:",
+                "tag": "p"
+            },
+            {
+                "content": "If you have previously reported frozen assets that are no longer held or frozen, you should still use this form to update OFSI. Please clearly indicate the status of those assets in the \u201cadditional information\u201d column of the Excel upload.",
+                "tag": "p"
+            },
+            {
+                "content": "Immobilised Assets",
+                "tag": "p"
+            },
+            {
+                "content": "Use this form for notifying OFSI if your firm knows or suspects it holds funds or economic resources for a person or entity prohibited under regulation 18A(1) of the Russia (Sanctions) (EU Exit) Regulations 2019. This includes the Central Bank of the Russian Federation, the National Wealth Fund of the Russian Federation, the Ministry of Finance of the Russian Federation, or anyone owned, controlled by, or acting on behalf of these entities.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Information needed:",
+                "tag": "p"
+            },
+            {
+                "content": "Compliance reporting",
+                "tag": "p"
+            },
+            {
+                "content": "Use these forms to report your compliance with an exception from financial sanctions:",
+                "tag": "p"
+            },
+            {
+                "content": "Complying with the exception: \"Investments in relation to non-government controlled Ukrainian territory\"\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Complying with the exception: \"Credits to and transfers out of frozen accounts and relevant accounts\"\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Complying with the exception: \"Exception for required payments\"\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Complying with the exception: \"Humanitarian Assistance Activity in relation to Syria [Relating to Petroleum Products] \"",
+                "tag": "p"
+            },
+            {
+                "content": "Complying with the exception: \"Investments in relation to Russia\"",
+                "tag": "p"
+            },
+            {
+                "content": "Information needed:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofsi.blog.gov.uk/2025/07/17/ofsi-launches-online-forms-for-reporting-and-licences/",
+        "blog": "Office of Financial Sanctions Implementation",
+        "blog_link": "https://ofsi.blog.gov.uk",
+        "description": "Today, on 17 July, OFSI has launched new online forms for submitting licence applications, reporting suspected breaches, and other key reporting such as frozen assets. This is a significant step forward in our drive to modernise and streamline our services, \u2026"
+    },
+    {
+        "title": "Introducing Our New Recommendations Paper for Government on the Circular Economy",
+        "authors": [
+            "Emily Watson-Breeze"
+        ],
+        "posted_on": "2025-07-17T13:48:55",
+        "categories": [
+            "Circular economy",
+            "GDSA",
+            "Sustainable ICT"
+        ],
+        "content": [
+            {
+                "content": "Emily Watson-Breeze is a Sustainability Activation Manager at BT and is a member of the Government Digital Sustainability Alliance (GDSA) circular economy working group. The views in this post are their own and not the UK government\u2019s.",
+                "tag": "p"
+            },
+            {
+                "content": "Driving Circularity in Government: New Recommendations from the GDSA circular economy working group",
+                "tag": "h2"
+            },
+            {
+                "content": "Circular economy principles are gaining traction across all industries\u2014but within government departments and large organisations, adoption remains limited. That\u2019s why the GDSA circular economy working group is proud to release our recommendations paper, a practical guide to overcoming the barriers that hinder circularity in public sector ICT.",
+                "tag": "p"
+            },
+            {
+                "content": "This paper not only identifies the key challenges but also offers actionable solutions to help organisations transition from linear to circular models of technology use.",
+                "tag": "p"
+            },
+            {
+                "content": "About the paper",
+                "tag": "h2"
+            },
+            {
+                "content": "The recommendations paper is the result of a collaborative effort by the circular economy working group, co-authored by:",
+                "tag": "p"
+            },
+            {
+                "content": "Their insights, first presented at the GDSA summit in March 2024at the London Science Museum, laid the foundation for this work. Their leadership and insights have been instrumental in shaping this paper, which builds on those discussions. Since then, the group has expanded, welcoming new voices from industry and academia.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re also excited to share that Ishmael Burdeau (Lead Sustainability Business Architect, DWP) and Ellie Richardson (Head of Donations, DSIT) have joined the conversation, bringing fresh perspectives on end-of-life hardware and e-waste.",
+                "tag": "p"
+            },
+            {
+                "content": "Why circularity in tech matters",
+                "tag": "h2"
+            },
+            {
+                "content": "In our digital age, the responsible management of technology is more important than ever. Circularity in tech means designing products with their full lifecycle in mind\u2014so they can be reused, refurbished or recycled instead of ending up in landfills.",
+                "tag": "p"
+            },
+            {
+                "content": "This approach:",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you\u2019re an individual or an organisation, it\u2019s time to rethink what happens to your old devices. Let\u2019s stop letting them gather dust and start putting them back into use, through our collective resource bank.",
+                "tag": "p"
+            },
+            {
+                "content": "Barriers to circularity",
+                "tag": "h2"
+            },
+            {
+                "content": "Our research, based on primary research from interviews with government employees and industry peers, highlights 6 critical barriers and opportunities:",
+                "tag": "p"
+            },
+            {
+                "content": "We refer to these as parts of a \u201csustainability engine\u201d\u2014and overcoming each one brings us closer to a truly circular economy.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "h2"
+            },
+            {
+                "content": "This paper is just the beginning. Our working group will now:",
+                "tag": "p"
+            },
+            {
+                "content": "Join the movement",
+                "tag": "h2"
+            },
+            {
+                "content": "We invite central government departments, public bodies and industry partners to explore the paper and get involved.",
+                "tag": "p"
+            },
+            {
+                "content": "If your organisation is facing challenges with tech disposal, procurement or sustainability, we want to hear from you. Let\u2019s work together to build a more circular, responsible future for public sector ICT.",
+                "tag": "p"
+            },
+            {
+                "content": "For more information, read the GDSA recommendations paper.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://sustainableict.blog.gov.uk/2025/07/17/introducing-our-new-recommendations-paper-for-government-on-the-circular-economy/",
+        "blog": "UK Government Sustainable ICT",
+        "blog_link": "https://sustainableict.blog.gov.uk",
+        "description": "Emily Watson-Breeze is a Sustainability Activation Manager at BT and is a member of the Government Digital Sustainability Alliance (GDSA) circular economy working group. The views in this post are their own and not the UK government\u2019s. Driving Circularity in \u2026"
+    },
+    {
+        "title": "Government Risk Profession \u2013 Being more productive and agile through better risk management",
+        "authors": [
+            "Government Reform"
+        ],
+        "posted_on": "2025-07-17T12:18:52",
+        "categories": [
+            "A Modern Civil Service",
+            "Ambitious",
+            "Capability",
+            "Government Reform",
+            "Innovation",
+            "Join a profession",
+            "Modernisation and Reform",
+            "One Big Thing",
+            "Proud Civil Servant",
+            "Skilled Civil Service"
+        ],
+        "content": [
+            {
+                "content": "A guest blog from Clive Martin, Head of the Government Risk Profession.",
+                "tag": "p"
+            },
+            {
+                "content": "When you first think of risk management, you might be forgiven for picturing risk registers or lists of delivery hurdles but in today\u2019s Civil Service, risk management is so much more. Effective risk management means taking smart, calculated risks to seize opportunities, improve outcomes and create lasting public value. The Government Risk Profession is at the heart of this, championing innovation, supporting confident decision-making and helping us all to be more productive and agile.",
+                "tag": "p"
+            },
+            {
+                "content": "Improving risk management in government",
+                "tag": "h2"
+            },
+            {
+                "content": "We are already good at managing some risks, but there is room to improve across the entire public sector. Our focus is improving the way we manage risks that directly affect the government\u2019s priority missions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Risk professionals are involved in some of the most crucial work across government, dealing with the impact of uncertainty in everything we do, from policies and programmes to daily operations. The Risk Management Profession helps all civil servants handle this uncertainty, whether risk is your main focus or part of a wider role.",
+                "tag": "p"
+            },
+            {
+                "content": "Risk roles are varied and offer valuable skills you can use anywhere. Standalone risk functions can exist to help others manage risk across the organisation and sometimes the risk management function is housed in strategy, finance, project delivery, policy, commercial or digital teams, amongst others.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By improving how we approach risk together, we can help create a more productive and agile state \u2013 one which is resilient, innovative, and equipped to meet today\u2019s challenges and tomorrow\u2019s opportunities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Your pathway into risk management",
+                "tag": "h2"
+            },
+            {
+                "content": "Through the Risk Centre of Excellence, we offer resources, tools, further learning, and a vibrant community to share ideas and ongoing professional development. Our Induction Hub is great for new joiners, and completing the induction steps earns you an Affiliate Badge for your email signature.\u00a0 For those wanting to develop further, we also offer Professional Risk Management Accreditation, which provides a higher level of recognition and achievement. ",
+                "tag": "p"
+            },
+            {
+                "content": "If you're interested in learning more or getting involved, you can explore the Government Risk Profession here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://moderncivilservice.blog.gov.uk/2025/07/17/government-risk-profession-being-more-productive-and-agile-through-better-risk-management/",
+        "blog": "A Modern Civil Service",
+        "blog_link": "https://moderncivilservice.blog.gov.uk",
+        "description": "Effective risk management means taking smart, calculated risks to seize opportunities, improve outcomes and create lasting public value. The Government Risk Profession is at the heart of this, championing innovation, supporting confident decision-making and helping us all to be more productive and agile."
+    },
+    {
+        "title": "Shedding new light on access arrangements data",
+        "authors": [
+            "Tom Bramley"
+        ],
+        "posted_on": "2025-07-17T12:00:00",
+        "categories": [
+            "A levels and GCSEs"
+        ],
+        "content": [
+            {
+                "content": "I want to explain why we have withdrawn our official statistics on access arrangements today, and what we plan to do next.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know that these statistics are important for understanding how the exam system works, and have been the subject of some discussion. That is why we are keen to share what we have found and start the process of setting the record straight as soon as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "Let me start by saying that this problem is about data collection and reporting, not the access arrangements system itself. No student has been or will be affected.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s what you need to know.",
+                "tag": "p"
+            },
+            {
+                "content": "What are access arrangements?",
+                "tag": "h2"
+            },
+            {
+                "content": "Access arrangements are based on students\u2019 needs. They fall into 2 categories: \u201creasonable adjustments\u201d for disabled students and arrangements for those with temporary injuries or other access needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Schools and colleges apply to exam boards for access arrangements to help ensure that those students can sit their exams without being unfairly disadvantaged.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The most common form of exam board-approved access arrangement is the granting of 25% extra time in exams.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What happened?",
+                "tag": "h2"
+            },
+            {
+                "content": "In 2023 we started considering trends in access arrangements data and began research into how the arrangements were used and perceived in the education sector. As part of this work we requested more detailed data from exam boards, which we received at the end of 2024.",
+                "tag": "p"
+            },
+            {
+                "content": "We have always recognised that there are limitations to these figures. Our analysis has now revealed that they have led to a significant overstatement of approved access arrangements in place for the exam cohort in each year.",
+                "tag": "p"
+            },
+            {
+                "content": "The issue was not with how arrangements were granted, but with how the data was recorded and reported. For example:",
+                "tag": "p"
+            },
+            {
+                "content": "Initial findings from our analysis suggest that the proportion of students receiving access arrangements \u2013 including 25% extra time \u2013 is more closely aligned than previously reported to the proportion of students with special educational needs (SEN) reported in the school population.",
+                "tag": "p"
+            },
+            {
+                "content": "Important points to remember about access arrangements",
+                "tag": "h2"
+            },
+            {
+                "content": "Our analysis gives a more accurate picture of access arrangements in place for students actually taking an examination in any given academic year. In doing so, it has not revealed any evidence of misuse or systemic failure. This has been a technical issue with reporting rather than how the system has been used.",
+                "tag": "p"
+            },
+            {
+                "content": "The approach to access arrangements remains unchanged. Schools and colleges should continue to apply for access arrangements as they always have, following the same JCQ guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "h2"
+            },
+            {
+                "content": "We will publish revised statistics in late 2025, covering the academic years from 2020 to 2021 onwards. These will be designated as\u00a0\u201cofficial statistics in development\u201d\u00a0and will include confidence ranges to reflect the complexity of the data.",
+                "tag": "p"
+            },
+            {
+                "content": "They won\u2019t be perfect, but they will give a much more accurate picture than previously. We will be working with exam boards to improve the quality of the data they give us in future so that the quality of the overall statistics continues to improve.",
+                "tag": "p"
+            },
+            {
+                "content": "We also plan to publish a report explaining our review of evidence (including the new data analysis), as well as research into perceptions of 25% extra time in exams.",
+                "tag": "p"
+            },
+            {
+                "content": "This long-term research, as well as our work to improve the official statistics, shows our commitment to improving the understanding and transparency of this important part of the qualifications system.",
+                "tag": "p"
+            },
+            {
+                "content": "Tom BramleyExecutive Director, Research and Analysis, Ofqual",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofqual.blog.gov.uk/2025/07/17/shedding-new-light-on-access-arrangements-data/",
+        "blog": "The Ofqual blog",
+        "blog_link": "https://ofqual.blog.gov.uk",
+        "description": "I want to explain why we have withdrawn our official statistics on access arrangements today, and what we plan to do next.\u00a0 We know that these statistics are important for understanding how the exam system works, and have been the \u2026"
+    },
+    {
+        "title": "AI Conference for the Digital Professions: From Conception to Launch\u00a0",
+        "authors": [
+            "Amerso Bassiouny"
+        ],
+        "posted_on": "2025-07-17T11:33:48",
+        "categories": [
+            "AI",
+            "AI Conference",
+            "collaboration",
+            "digital people",
+            "digital professions"
+        ],
+        "content": [
+            {
+                "content": "We have all heard that AI is here to change our lives and transform the way we work. However, discussions have usually focused on an overarching picture of change rather than exploring how this change might apply to specific professions. This is the challenge we sought to tackle when our team set out to produce Justice Digital\u2019s first AI Conference for the Digital Professions.",
+                "tag": "p"
+            },
+            {
+                "content": "The conference could not have been more timely. It coincided with the publication of the AI Opportunities Action Plan, which saw HMG call for \u201cAI adoption across the UK to boost economic growth, provide jobs for the future, and improve people's everyday lives.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "It felt like a true honour to be part of enabling knowledge sharing of this transformative technology across Justice Digital and to further our government\u2019s mission.",
+                "tag": "p"
+            },
+            {
+                "content": "Towards a successful launch\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "To bring the conference to life, we knew that we would have to offer truly valuable sessions. As such, our main aim was to reach out to several incredibly talented individuals from our department, cross-government, and industry. Although not everyone had the time to dedicate to our conference, our outreach saw 11 leading experts hosting sessions on a wide range of highly relevant topics.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, one of our sessions focussed on Applying AI to User Research and explored the transformative role of Generative AI in helping User Researchers better understand user needs, whilst also balancing this against the technology\u2019s current limitations.",
+                "tag": "p"
+            },
+            {
+                "content": "We also had the opportunity to hear from a Senior Service Designer at the Bank of England, who led us through a fantastic session on AX (Artificial Intelligence Experience) and Service Design. She explored the ways in which AI can enhance user experience through prediction, automation, and personalisation. It was especially interesting to see AI explored as a \u2018suitcase term\u2019 and its role in supercharging creativity.",
+                "tag": "p"
+            },
+            {
+                "content": "Another inspiring session focused on effective AI Delivery and the challenges of moving AI products from conception to production and explored the role of scalable custom solutions and quantised AI models in enabling the government to deliver value to the public while reducing the cost and risk associated with AI deployment.",
+                "tag": "p"
+            },
+            {
+                "content": "Our final session provided Digital colleagues with a valuable introduction to Miro AI and its wide-ranging capabilities. From report generation and qualitative data analysis to the creation of diverse diagrams, including mind maps and flowcharts. The speakers guided us through its potential to streamline workflows and enhance efficiency. The session was particularly useful in giving Digital colleagues a taste of the software\u2019s capabilities before Justice Digital\u2019s Miro AI Pilot commenced shortly after.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking Back and Ahead\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We were thrilled to see how well the AI Conference landed with attendees, with feedback praising the variety of speakers, useful content, and strong organisation.",
+                "tag": "p"
+            },
+            {
+                "content": "Following the positive response, we're excited to confirm the AI Conference will return in January 2026, this time, with an even broader audience. By opening it up to both civil servants and industry professionals, we hope to deepen collaboration, encourage open knowledge-sharing, and support the safe, effective use of AI across sectors.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2025/07/17/ai-conference-for-the-digital-professions-from-conception-to-launch/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "We have all heard that AI is here to change our lives and transform the way we work. However, discussions have usually focused on an overarching picture of change rather than exploring how this change might apply to specific professions. \u2026"
+    },
+    {
+        "title": "How we transformed the service owner role on the Capability Framework",
+        "authors": [
+            "Olivia Helliwell, Senior Content Designer, GDS"
+        ],
+        "posted_on": "2025-07-17T10:48:05",
+        "categories": [
+            "Capability Framework"
+        ],
+        "content": [
+            {
+                "content": "Service owners play an important role in the day-to-day activity of teams delivering high quality public services - from passport renewal to providing identification.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These professionals, of which there are currently just over 340 in digital and data roles across government, ensure services meet user needs while navigating the complex intersection of policy, digital and operations.",
+                "tag": "p"
+            },
+            {
+                "content": "The digital and data roles needed to deliver services in government are defined in the Government Digital and Data Capability Framework. The framework plays a significant role in establishing how departments work, how government attracts high quality talent, and how people are assessed for their level of skill.",
+                "tag": "p"
+            },
+            {
+                "content": "The service owner role is especially important in government, and particularly in delivering the blueprint for modern digital government. The blueprint emphasises designing services around user needs and creating seamless experiences across organisational boundaries - areas where service owners play a crucial role. ",
+                "tag": "p"
+            },
+            {
+                "content": "By strengthening this function, we're taking a significant step toward realising the blueprint's vision of digital public services that are efficient, accessible, and truly designed around the needs of the people who use them. Recent data also shows growing numbers of service owners operating at senior levels, meaning improvements to this role are likely to substantially benefit an increasing number of services, and citizen experiences, across the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Our collaborative approach to design",
+                "tag": "h3"
+            },
+            {
+                "content": "Roles on the framework are community-led. This means that the content is developed with subject matter experts who work in these roles.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We assembled a cross-government working group that quickly identified three key challenges:",
+                "tag": "p"
+            },
+            {
+                "content": "Meeting every other week from September 2024, the group tackled these issues head on. A key challenge was to reduce the potential for confusion and duplication between the service owner and product manager roles. These roles typically work closely together but have a different focus. By collaborating throughout the development of both roles, we made important changes, such as removing some shared skills, like \u2018product ownership\u2019, that didn\u2019t accurately reflect what both roles do.",
+                "tag": "p"
+            },
+            {
+                "content": "Early on in the process, we created a new short description of the service owner role, which helped us focus our thinking throughout the rest of the work:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018A service owner is accountable for the quality, performance, benefits and outcomes of a service. They provide clear end-to-end direction, prioritisation and decision making for teams in line with department, policy and user outcomes.\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "The refreshed skill set",
+                "tag": "h3"
+            },
+            {
+                "content": "With this sharpened focus, we redefined the skills required by service owners:",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping the framework up to date",
+                "tag": "h3"
+            },
+            {
+                "content": "With an engaged working group in place, we plan to continue to meet on a regular basis to review feedback and make appropriate, user-informed changes. We are also actively exploring a Senior Civil Servant (SCS) service owner role - there are currently nearly 80 professionals working at this role level across government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This collaborative effort highlighted the value of sharing experiences as service owners - one of the greatest benefits of our cross-government community. We're now exploring ways to create more opportunities for this knowledge exchange.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any feedback on the changes, please contact digitaldatacapabilityframework@dsit.gov.uk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Government Digital and Data Capability Framework works with communities across government to ensure it is up to date and reflects government needs. We encourage you to propose a change to the framework or contact digitaldatacapabilityframework@dsit.gov.uk to find out more.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalpeople.blog.gov.uk/2025/07/17/how-we-transformed-the-service-owner-role-on-the-capability-framework/",
+        "blog": "Digital people",
+        "blog_link": "https://digitalpeople.blog.gov.uk",
+        "description": "The Government Digital and Data Capability Framework has refreshed the service owner role. This important update clarifies the role definition, making it easier to understand and assess against, while empowering service owners to create better, more responsive services that truly meet citizen needs across the UK."
+    },
+    {
+        "title": "Inclusive access to work experience for young people: The Environment Agency's NEW Virtual Work Experience Programme",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-07-17T09:41:19",
+        "categories": [
+            "Environment Agency",
+            "Flood"
+        ],
+        "content": [
+            {
+                "content": "Engaging our future workforce",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Agency, working with Defra, has launched our first Virtual Work Experience programme. It introduces young people to the Environment Agency and specifically the work we do in flood and coastal risk management (FCRM). It\u2019s a ground breaking initiative that will benefit the environmental workforce of tomorrow by helping to:",
+                "tag": "p"
+            },
+            {
+                "content": "Register an account here.",
+                "tag": "p"
+            },
+            {
+                "content": "Access for all and social impact",
+                "tag": "p"
+            },
+            {
+                "content": "The statistics tell us a powerful story. The Youth Voice Census 2024 revealed that only 36% of young people in secondary school accessed work experience. An estimated 12.5% of all people aged 16 to 24 years in the UK were not in education, employment or training (NEET) in January to March 2025. Young people are missing out on crucial opportunities to prepare for the workplace and could be benefiting from inclusive and impactful work experience.",
+                "tag": "p"
+            },
+            {
+                "content": "There are barriers to traditional, in-person work experience \u2013 geographical distance, transport costs, family circumstances, self-confidence or simply not knowing which employers to approach. Our virtual work experience programme aims to overcome these obstacles. Through any device with a browser, young people can now access high-quality, professionally designed content from homes, schools, or libraries.",
+                "tag": "p"
+            },
+            {
+                "content": "With this scalable virtual work experience solution, we\u2019re reaching young people far and wide in a truly inclusive way. Encouraging all young people to engage with our organisation, increase their awareness of climate science and the positive impact of choosing green careers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s included in the programme",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve collaborated closely with Defra, in partnership with Springpod, to offer the programme. Our educational specialists have designed 8 comprehensive modules for the target audience of 13- to 18-year-olds. They feature pre-recorded speaker sessions, interactive quizzes, and engaging tasks and will help young people learn about:",
+                "tag": "p"
+            },
+            {
+                "content": "Josie Bateman, Director of Innovation, Systems and Services in the FCRM Directorate, explains:",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0\"Providing a pathway into environmental careers is essential for fostering a diverse and skilled workforce. The Environment Agency's Virtual Work Experience programme equips young people with the knowledge, confidence, and skills to contribute meaningfully to flood and coastal risk management.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Education, skills and strategic impact: Aligning with Our Mission",
+                "tag": "p"
+            },
+            {
+                "content": "This initiative directly supports Ambition 3 of our Flood and Coastal Erosion Risk Management Strategy Roadmap to 2026, which calls for more people to have the education and skills needed for careers in flood and coastal risk management. It's also a key action in our Business Plan 2025 to 2026, helping us become a place where people from all backgrounds can thrive and fulfil their potential.",
+                "tag": "p"
+            },
+            {
+                "content": "Careers advisors, teachers, lecturers and other educators can signpost young people, with an interest or passion in the environment, science or geography, to our virtual work experience programme. They will gain insights into our organisation, develop knowledge of green careers, and visualise their own career with the Environment Agency.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Young people who complete the programme will receive a certificate of completion, which demonstrates engagement with their own development and can be added to their CV or personal statement. Young people will develop greater career confidence, enhanced employability and be motivated to make a difference. It will also help improve the visibility and accessibility of the Environment Agency as an employer of choice for the next generation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Spread the word",
+                "tag": "p"
+            },
+            {
+                "content": "The programme is freely available and open for registrations. Whether you're an educator, parent, careers advisor, or someone who simply believes in empowering young people, please encourage the young people in your networks to register now. Share this opportunity with schools, colleges, and youth organisations and help us reach those who might not otherwise discover these pathways into environmental careers.",
+                "tag": "p"
+            },
+            {
+                "content": "Relevant links:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Environment Agency Opportunities - Your Environment, Your Career | Springpod\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Defra | Hub powered by Springpod\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/07/17/inclusive-access-to-work-experience-for-young-people-the-environment-agencys-new-virtual-work-experience-programme/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Engaging our future workforce The Environment Agency, working with Defra, has launched our first Virtual Work Experience programme. It introduces young people to the Environment Agency and specifically the work we do in flood and coastal risk management (FCRM). It\u2019s \u2026"
+    },
+    {
         "title": "Dive into FMPs: a look at governance in fisheries management plans",
         "authors": [
             "Nicola Lewellen - FMP Engagement and Communications"
