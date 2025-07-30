@@ -1,5 +1,751 @@
 [
     {
+        "title": "King scallop FMP explained: goals, benefits and updates",
+        "authors": [
+            "\u200b\u200bRegional Fisheries Groups team, Marine Management Organisation\u200b"
+        ],
+        "posted_on": "2025-07-30T17:28:38",
+        "categories": [
+            "- Defra led FMPs",
+            "Implementation"
+        ],
+        "content": [
+            {
+                "content": "In response to requests from the inshore fishing industry, raised through the Regional Fisheries Groups (RFGs), the Marine Management Organisation (MMO) has developed a set of infographics and short videos to help explain the goals and progress of the first five Fisheries Management Plans (FMPs), published in December 2023.",
+                "tag": "p"
+            },
+            {
+                "content": "Spotlight on the King scallop FMP",
+                "tag": "h2"
+            },
+            {
+                "content": "The King scallop in English and Welsh water FMP is one of the first five plans and aims to ensure the long-term sustainability of King scallop stocks and the fishers who depend on them.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s happening now?",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019re committed to transparency and keeping our stakeholders informed as the FMPs are implemented. To support this, we have created an infographic which outlines current actions, achievements, and next steps.",
+                "tag": "p"
+            },
+            {
+                "content": "It will be updated regularly and shared across:",
+                "tag": "p"
+            },
+            {
+                "content": "Goals of the King scallop FMP",
+                "tag": "h2"
+            },
+            {
+                "content": "We have also created an infographic and video to show the FMP goals and why they will help.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn about the goals of the FMP and why they were chosen:",
+                "tag": "p"
+            },
+            {
+                "content": "Watch a short video designed for the fishing sector which gives a summary of the goals:",
+                "tag": "p"
+            },
+            {
+                "content": "Stay connected",
+                "tag": "h2"
+            },
+            {
+                "content": "Whether you're actively involved or simply want to stay informed, we encourage you to explore the resources, share your feedback, and subscribe to this blog for updates. For queries relating directly to the King scallop FMP, contact FMPs@defra.gov.uk",
+                "tag": "p"
+            },
+            {
+                "content": "If you fish commercially or recreationally within the 12 nautical mile limit and would like to receive regular updates from the RFGs, including news on FMPs and inshore fisheries, email us at regionalfisheriesgroups@marinemanagement.org.uk to join the mailing list.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/07/30/king-scallop-fmp-explained-goals-benefits-and-updates/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Learn about the King scallop FMP, its goals, and latest updates through new infographics and video from the MMO and RFGs."
+    },
+    {
+        "title": "Why we haven\u2019t provided a gap analysis for beta to gamma uplifts",
+        "authors": [
+            "John Peart"
+        ],
+        "posted_on": "2025-07-30T16:41:20",
+        "categories": [
+            "Certification",
+            "Digital identity",
+            "UK digital identity and attributes trust framework"
+        ],
+        "content": [
+            {
+                "content": "Providers with services that have been certified against the beta (0.3) of the trust framework need to prepare to uplift their certification to align with the gamma (0.4) publication. To do that, service providers naturally want to know what\u2019s different between the two publications.",
+                "tag": "p"
+            },
+            {
+                "content": "To help with this, we\u2019ve been asked variously for some kind of document with a gap analysis or assimilation matrix. A quick guide that says \u201cin beta we said this and in gamma we say that now instead\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "There are no shortcuts to gamma uplift",
+                "tag": "h2"
+            },
+            {
+                "content": "That guide doesn\u2019t exist. We don\u2019t have one internally. The conformity assessment bodies haven\u2019t been given one. We won\u2019t be publishing one for providers either. We\u2019ve intentionally decided not to create that kind of document.",
+                "tag": "p"
+            },
+            {
+                "content": "We called the beta, \u201cbeta\u201d because that\u2019s exactly what it was. Something in development, with some rough edges that we knew needed to be smoothed out. We spent a long time speaking to businesses and members of the public about how it could be improved.",
+                "tag": "p"
+            },
+            {
+                "content": "The result is that, in the gamma publication, the entirety of the trust framework and the new supplementary codes were redesigned, restructured, and often completely rewritten. Nearly every section and paragraph is at least slightly different \u2013 and in some cases very different \u2013 from the content that was in the previous publication.",
+                "tag": "p"
+            },
+            {
+                "content": "So much has changed or moved that, on a practical level, to explain what\u2019s different would mean creating a document almost as lengthy as the trust framework itself.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s also been three years since we originally published the beta trust framework. With such extensive changes and with that period of time, we think it\u2019s a good idea for service providers to take the opportunity to review their services top-to-bottom and end-to-end against these new rules. Creating a \u201ccheat sheet\u201d for gamma could encourage providers to only focus on the most significant changes and not on the rest of the rules.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re a service provider, we think your time could be better spent considering the current trust framework document and whether your service is compliant; not on an adjunct guidance document that has the potential to make things more confusing. So we deliberately haven\u2019t created it.",
+                "tag": "p"
+            },
+            {
+                "content": "The next uplift will be smaller",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ve taken this approach on this occasion because of the context of this uplift. For the next iteration of the trust framework \u2013 what we\u2019re calling 1.0 \u2013 we expect the changes to be smaller. That will enable us to take a more nuanced approach next time.",
+                "tag": "p"
+            },
+            {
+                "content": "For now, our advice to service providers is to get into the weeds of gamma. Treat this as an opportunity for a spring clean; do a review of your whole service and check your service meets all the rules, not just the new ones.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2025/07/30/why-we-havent-provided-a-gap-analysis-for-beta-to-gamma-uplifts/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "We\u2019ve been asked variously for some kind of document with a gap analysis or assimilation matrix. We don't have one. This is why."
+    },
+    {
+        "title": "Restraint and restrictive practices: positive environments for children",
+        "authors": [
+            "Yvette Stanley"
+        ],
+        "posted_on": "2025-07-30T14:35:06",
+        "categories": [
+            "children's homes",
+            "looked after children",
+            "residential special schools",
+            "secure children's home"
+        ],
+        "content": [
+            {
+                "content": "In this blog, I want to talk to providers of children\u2019s homes, residential special schools and boarding schools about what we\u2019re currently seeing on inspection when it comes to restraint and restrictive practices. ",
+                "tag": "p"
+            },
+            {
+                "content": "I want to emphasise how important it is to prioritise creating a positive environment for children in your care.",
+                "tag": "p"
+            },
+            {
+                "content": "Our guidance on creating positive environments",
+                "tag": "h2"
+            },
+            {
+                "content": "We regularly review our guide for inspectors on physical intervention and restrictions of liberty: Positive environments where children can flourish. Whenever we review it, we\u2019re reminded of how important it is to protect and promote children\u2019s rights.",
+                "tag": "p"
+            },
+            {
+                "content": "We created the guidance to help inspectors evaluate how providers, managers and carers create a positive environment for all children \u2013 and in particular, disabled children, those who have communication support needs and those with special educational needs.",
+                "tag": "p"
+            },
+            {
+                "content": "Restraint and restrictive practices can negatively affect children\u2019s mental health and well-being. Although restraint is permissible, it should only be used when all less restrictive measures have been unsuccessful.",
+                "tag": "p"
+            },
+            {
+                "content": "Professional curiosity",
+                "tag": "h2"
+            },
+            {
+                "content": "On inspection, we see many examples where staff have good quality relationships with children, and these have a positive effect on children\u2019s experiences. We celebrate good practice like this by acknowledging it in our inspection reports.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors will always be curious. We want to understand the context around children\u2019s experiences. Professional curiosity starts valuable open conversations with providers. These conversations help inspectors to gain insight into how staff work positively and confidently with children to empower and support them. These conversations also help inspectors understand how a child\u2019s past experiences affect the way the child responds to their environment, people or situations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When we show curiosity to understand the reason for any blanket approaches to restrictive practices, it can lead to organisational change. We expect providers to make sure that staff are appropriately trained to engage and communicate meaningfully with children, and to avoid any practice that could expose children to trauma. We expect leaders and managers to maintain an open safeguarding culture.",
+                "tag": "p"
+            },
+            {
+                "content": "Disabled children",
+                "tag": "h2"
+            },
+            {
+                "content": "Staff caring for disabled children have a responsibility to understand individual children\u2019s communication style. They can then help children to develop their skills in communication, so that the children can better express their feelings and views. Disabled children and children who communicate without speech have the right to be consulted about their experience of restraint and restrictive practice.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors spend time with children. They often observe the children\u2019s care and staff\u2019s practice, in order to understand the culture and the quality of care. Our inspections show us much good practice. Many providers are expertly using children\u2019s individual communication systems to continually improve children\u2019s progress and experiences every day. These providers also make sure that, following any incident, there is a natural flow of communication to explore the child\u2019s experience. We also see independent advocacy services being used to meaningfully gather children\u2019s views and promote positive action for them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During inspections, we meet and talk to lots of inspiring leaders and managers who can show how the use of restraint and restrictive practice affects the children they are caring for. They can also explain how they try to reduce or minimise these restrictions.",
+                "tag": "p"
+            },
+            {
+                "content": "These leaders and managers clearly set out their expectations where restraint and restrictions are concerned. They rigorously monitor and review any use of restrictive equipment or chemical restraint that could undermine the well-being and welfare of children in their care.",
+                "tag": "p"
+            },
+            {
+                "content": "The environment",
+                "tag": "h2"
+            },
+            {
+                "content": "We expect to see leaders and managers making sure the environment in the home gives children as many freedoms and flexibilities as possible. The home should be a nurturing, safe and homely place to live. We also expect leaders and managers to ensure the safety of children in the least intrusive way.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re seeing real improvements in the quality of the environments in children\u2019s homes, residential special schools, and boarding schools. There\u2019s been a move away from bedroom-door alarms and locked doors. Children now have more control over their daily choices and experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "Records, language and management oversight",
+                "tag": "h2"
+            },
+            {
+                "content": "Regulations require providers to record written information to explain:",
+                "tag": "p"
+            },
+            {
+                "content": "Leaders and managers must show how they understand trends and patterns, and identify the actions needed to improve children\u2019s experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "We know it can be too easy to focus on recording and the quality of report writing rather than on the impact and understanding of restraint. Records are important, but what really matters is that you focus on how well children\u2019s behaviour is supported, and make sure that their personal development is nurtured by informed, intuitive staff.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors will always try to gather information directly from children, carers and leaders first and foremost. Records should give inspectors some of the detail about the progress and resolution of a restrictive practice, but they will always want to talk to those involved.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge for providers is to make sure records about restraint or restrictive practices show the child's point of view and experience, and the staff\u2019s response, rather than blaming children or solely focusing on a compliance matter.",
+                "tag": "p"
+            },
+            {
+                "content": "We do see many providers successfully supporting staff to make accurate and balanced records that help managers to review children's needs, oversee staff\u2019s practice and promote change where necessary. However, this should be common practice. I hope to see more improvements over time.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ll be writing more blogs about restraint and restrictive practices over the coming, so please do subscribe for updates if this is relevant to your work.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcareinspection.blog.gov.uk/2025/07/30/restraint-and-restrictive-practices-positive-environments-for-children/",
+        "blog": "Ofsted: social care",
+        "blog_link": "https://socialcareinspection.blog.gov.uk",
+        "description": "In this blog, I want to talk to providers of children\u2019s homes, residential special schools and boarding schools about what we\u2019re currently seeing on inspection when it comes to restraint and restrictive practices. I want to emphasise how important it \u2026"
+    },
+    {
+        "title": "Slurry storage: sort it in the summer, be winter ready",
+        "authors": [
+            "phillee"
+        ],
+        "posted_on": "2025-07-30T14:08:51",
+        "categories": [
+            "agriculture"
+        ],
+        "content": [
+            {
+                "content": "As we launch this year\u2019s farm winter ready campaign, with a very dry spring passed and many areas of the country in drought, a wet winter may not at the forefront of our minds.",
+                "tag": "p"
+            },
+            {
+                "content": "But time never stands still, and the summer months really are the best time to plan for winter slurry storage. Doing it now means maintenance jobs are easier to carry out than in the middle of winter, planning can happen without panic and storage requirements can be considered carefully.",
+                "tag": "p"
+            },
+            {
+                "content": "Last year we met with Tom, a dairy farmer in Cornwall. He had built a new slurry lagoon following a farm inspection, and in this video, he told us how much of difference it made to him through the winter months.",
+                "tag": "p"
+            },
+            {
+                "content": "The weather and planning ahead",
+                "tag": "p"
+            },
+            {
+                "content": "As we exited spring last year, we wondered if it was ever going to stop raining. Hot on the heels of a wet winter, many farmers had found their slurry storage under a lot of pressure. The very dry spring and summer this year has been the polar opposite, but it does tell us one thing we can rely on with the weather: past performance is not an indicator of future results \u2013 wet weather will be around the corner somewhere.",
+                "tag": "p"
+            },
+            {
+                "content": "So, what is there to think about to make sure you have storage that\u2019s fit for purpose when winter comes?",
+                "tag": "p"
+            },
+            {
+                "content": "Regulations and good practice",
+                "tag": "p"
+            },
+            {
+                "content": "Regulatory compliance may seem onerous, but in fact the regulatory requirements for storing and using slurry and other organic fertilisers are based around good practice. They are good for the environment but also boost efficiency and productivity on the farm. Here is a quick run down on the regulations covering storage requirements and spreading.",
+                "tag": "p"
+            },
+            {
+                "content": "Storage requirements",
+                "tag": "p"
+            },
+            {
+                "content": "To see you through winter, the Silage, Slurry, and Fuel Oil Regulations (SSAFO) require a minimum of 4 months storage capacity, which goes up to 5 months for cattle and sheep, and 6 months for pigs and poultry, if you are in a Nitrate Vulnerable Zone (NVZ). We strongly recommend having six months storage to be sure you can make it through with contingency to spare.",
+                "tag": "p"
+            },
+            {
+                "content": "Rules on spreading",
+                "tag": "p"
+            },
+            {
+                "content": "The Farming Rules for Water allow spreading of organic and inorganic fertilisers according to soil and crop need, without giving rise to significant risk of pollution. This means that if you are having to spread to land because your slurry storage is full, rather than for any soil or crop requirements, you are breaching these regulations.",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst there are some exceptions, there is generally no soil or crop need for spreading during autumn and winter. Any slurry or other materials spread to land at this time will not be taken up, and are at high risk of running off or leaching to the nearest water course.",
+                "tag": "p"
+            },
+            {
+                "content": "We routinely check compliance with these regulations, so you can expect us to review them if we carry out a farm inspection. We also carry out monitoring for spreading during the winter months across the country.",
+                "tag": "p"
+            },
+            {
+                "content": "This video tells you more about what happens during one of our farm inspections.",
+                "tag": "p"
+            },
+            {
+                "content": "Get in touch",
+                "tag": "p"
+            },
+            {
+                "content": "If you have concerns about slurry storage, or want to clarify the regulations, we will be happy to talk to you. Get in touch with us below and ask to put in contact with the agriculture regulation team covering your area of the country.",
+                "tag": "p"
+            },
+            {
+                "content": "Email: enquiries@environment-agency.gov.uk",
+                "tag": "p"
+            },
+            {
+                "content": "Tel. 03708 506 506",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/07/30/slurry-storage-sort-it-in-the-summer-be-winter-ready/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "As we launch this year\u2019s farm winter ready campaign, with a very dry spring passed and many areas of the country in drought, a wet winter may not at the forefront of our minds. But time never stands still, and \u2026"
+    },
+    {
+        "title": "NKT Photonics fibre lasers enable ground-breaking deep-space communication",
+        "authors": [
+            "NKT Photonics"
+        ],
+        "posted_on": "2025-07-30T10:25:23",
+        "categories": [
+            "Delivering Missions and Capabilities"
+        ],
+        "content": [
+            {
+                "content": "ESA has successfully established Europe\u2019s first deep-space optical communication link using a high-power fibre laser system from NKT Photonics.",
+                "tag": "h4"
+            },
+            {
+                "content": "Recently, the European Space Agency (ESA) successfully established Europe\u2019s first deep-space optical communication link with NASA\u2019s Psyche mission using a high-power fibre laser system from NKT Photonics, who have a base in the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "This ground-breaking achievement, conducted with NASA/Jet Propulsion Laboratory\u2019s Deep Space Optical Communications (DSOC) demonstrator, marks a significant leap forward in high-data-rate communication across vast interplanetary distances.",
+                "tag": "p"
+            },
+            {
+                "content": "Innovators create optical link to space",
+                "tag": "h2"
+            },
+            {
+                "content": "ESA, NASA/JPL, and a group of top European companies, including NKT Photonics teams in Southampton and Denmark, joined forces to make this breakthrough possible. The technology developed for this project was supported by funding from ESA, delivered through the GSTP programmeat the UK Space Agency.",
+                "tag": "p"
+            },
+            {
+                "content": "They faced three major technical challenges: building a laser powerful enough to reach across vast distances, developing a pointing system precise enough to aim at a spacecraft, and creating a receiver sensitive enough to catch the faint return signal.",
+                "tag": "p"
+            },
+            {
+                "content": "Together with Swiss General Atomics Synopta, NKT Photonics delivered the multi-beam high-power fiber laser system and the beam transmission optics. ",
+                "tag": "p"
+            },
+            {
+                "content": "The laser emits a narrow-linewidth, modulated signal that helps the spacecraft precisely locate and lock onto the ground station, establishing a high-speed optical downlink.",
+                "tag": "p"
+            },
+            {
+                "content": "2kW in under 10 microseconds",
+                "tag": "h2"
+            },
+            {
+                "content": "At the heart of the laser system is NKT Photonics\u2019 proven Koheras single-frequency fibre laser platform. ",
+                "tag": "p"
+            },
+            {
+                "content": "The base of the system is an ACOUSTIK line card sub-rack that holds the BASIK Y10 seed laser, a BOOSTIK pre-amplifier, and both AOM and EOM line cards for spectral conditioning and high-frequency amplitude modulation. ",
+                "tag": "p"
+            },
+            {
+                "content": "A splitter sends the signal to five BOOSTIK UHP high-power amplifiers, boosting the output to kilowatt levels \u2013 enough to reach the spacecraft.",
+                "tag": "p"
+            },
+            {
+                "content": "These custom amplifiers are based on NKT Photonics\u2019 core fibre amplifier technology, also used in their directed energy activities. ",
+                "tag": "p"
+            },
+            {
+                "content": "For this system, they were specially adapted to allow rapid power modulation from 0 to 2kW in under 10 microseconds. A custom timing module line card synchronizes the full setup, generating precise waveforms for beacon and data uplink modes.",
+                "tag": "p"
+            },
+            {
+                "content": "The power of partnership",
+                "tag": "h2"
+            },
+            {
+                "content": "The beam transmit system can aim with arcsecond precision, allowing it to point directly at the spacecraft. ",
+                "tag": "p"
+            },
+            {
+                "content": "This enables a beacon for accurate downlink and opens the door for future data uplink, providing a glimpse into the future of deep-space communication.",
+                "tag": "p"
+            },
+            {
+                "content": "This achievement highlights NKT Photonics\u2019 position at the forefront of laser technology and highlights how strong partnerships between agencies and industry are driving Europe\u2019s leadership in advanced optical technologies.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/07/30/nkt-photonics-fibre-lasers-enable-ground-breaking-deep-space-communication/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "ESA has successfully established Europe\u2019s first deep-space optical communication link using a high-power fibre laser system from NKT Photonics, who have a UK base."
+    },
+    {
+        "title": "Crayfish clawing their way back in Nottinghamshire: A conservation success story in the making",
+        "authors": [
+            "Danielle Greaves"
+        ],
+        "posted_on": "2025-07-30T09:30:00",
+        "categories": [
+            "Biodiversity",
+            "Evidence",
+            "Monitoring",
+            "Natural England",
+            "Nature",
+            "Nature Recovery",
+            "Science and evidence",
+            "Species recovery",
+            "Uncategorized",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Danielle Greaves, Higher Officer - Species Reintroduction and Recovery, Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "Hidden beneath the surface of Nottinghamshire's rivers and streams lives an increasingly rare species \u2013 the white-clawed crayfish. As the UK's only native freshwater crayfish, these creatures play a vital role in our aquatic ecosystems.",
+                "tag": "p"
+            },
+            {
+                "content": "But this native species faces an existential threat. The introduction of the North American signal crayfish in the 1970s has had devastating consequences. These invasive crayfish don't just outcompete our native species for food and habitat, they carry a deadly fungal disease known as crayfish plague, to which white-clawed crayfish have no natural resistance.",
+                "tag": "p"
+            },
+            {
+                "content": "The result? A decline in white-clawed crayfish populations, with isolated strongholds remaining across Nottinghamshire.",
+                "tag": "p"
+            },
+            {
+                "content": "A collaborative conservation effort",
+                "tag": "h4"
+            },
+            {
+                "content": "An ambitious partnership has formed to protect this endangered species. The Environment Agency is leading the initiative with a permit from Natural England to secure the future of white-clawed crayfish in Nottinghamshire.",
+                "tag": "p"
+            },
+            {
+                "content": "This multi-partner approach includes Birmingham Sealife Centre providing crucial quarantine facilities, alongside Nottinghamshire Biodiversity Action Group (BAG), Derbyshire Wildlife Trust, and White Post Farm, north of Nottingham. Volunteers from the Midlands Crayfish Group (hosted by Buglife), Nottingham Crayfish Group (led by Nottinghamshire BAG), and individual volunteers are all contributing their time and expertise.",
+                "tag": "p"
+            },
+            {
+                "content": "Together, they're working on several complementary strategies:",
+                "tag": "p"
+            },
+            {
+                "content": "Conservation in action",
+                "tag": "h4"
+            },
+            {
+                "content": "As a Higher Officer for Species Reintroduction and Recovery at Natural England, I've been fortunate to participate directly in these conservation efforts. Over the past few years, I've joined Nottinghamshire BAG for signal crayfish removal sessions in Bulwell, Nottingham. These sustained efforts are paying dividends and we're now seeing a noticeable decline in the invasive population in ponds at Bulwell Hall.",
+                "tag": "p"
+            },
+            {
+                "content": "The most rewarding aspect of my work has been participating in the translocation project, moving vulnerable, white-clawed crayfish populations from Hucknall, close to Nottingham, to specially selected ark sites in Nottinghamshire. These new homes provide protection from both the invasive signal crayfish and the deadly plague they carry.",
+                "tag": "p"
+            },
+            {
+                "content": "This month marked a significant milestone in the Nottinghamshire white-clawed crayfish conservation journey. I had the privilege of taking part in crucial fieldwork that confirmed the continued presence of a white-clawed crayfish population under threat from nearby invading signal crayfish.",
+                "tag": "p"
+            },
+            {
+                "content": "Following this assessment, the team successfully carried out a major translocation operation on 24 July which achieved two objectives: releasing 43 quarantined crayfish from Birmingham Sealife Centre into their new ark site and collecting 100 healthy individuals from Baker Lane Brook in Hucknall to begin their own quarantine period.",
+                "tag": "p"
+            },
+            {
+                "content": "The collection process proved successful, with the team catching 121 adult crayfish and dozens of juveniles. From this abundance, they were able to carefully select the 100 healthiest adult specimens (the maximum number able to be housed at the quarantine facility) within the required size range (15-40mm carapace length), ensuring a good gender ratio and age range.",
+                "tag": "p"
+            },
+            {
+                "content": "One of the most effective capture methods was using 'brash bundles' \u2013 collections of various sized branches tied together that provide shelter for the crayfish. A single brash bundle captured an impressive 17 adults and over a dozen juveniles.",
+                "tag": "p"
+            },
+            {
+                "content": "Crayfish plague and quarantine",
+                "tag": "h4"
+            },
+            {
+                "content": "A critical element of the conservation effort is preventing the spread of crayfish plague. Environmental DNA (eDNA) testing has confirmed the presence of plague in some watercourses, necessitating strict quarantine procedures.",
+                "tag": "p"
+            },
+            {
+                "content": "Birmingham Sealife Centre plays a vital role by providing specialised quarantine facilities. Under the Natural England license requirements, rescued crayfish must spend a minimum of 28 days in quarantine to ensure they are disease-free before being released to ark sites. This crucial step prevents the accidental spread of plague to the protected sites.",
+                "tag": "p"
+            },
+            {
+                "content": "Why this work matters",
+                "tag": "h4"
+            },
+            {
+                "content": "The white-clawed crayfish isn't just another species \u2013 it's a vital component of healthy river ecosystems. These native crayfish help maintain water quality by feeding on decaying matter and serve as an important food source for otters, fish, and various bird species.",
+                "tag": "p"
+            },
+            {
+                "content": "Their decline represents not just the loss of a single species, but the unravelling of complex ecological relationships that have evolved over thousands of years. By protecting the white-clawed crayfish, we're helping to preserve the biodiversity and ecological health of Nottinghamshire's waterways for future generations.",
+                "tag": "p"
+            },
+            {
+                "content": "How you can help",
+                "tag": "h4"
+            },
+            {
+                "content": "Everyone can play a part in protecting our native crayfish:",
+                "tag": "p"
+            },
+            {
+                "content": "With continued collaboration and dedicated conservation efforts, there's hope that the white-clawed crayfish will not only survive but eventually thrive once again in Nottinghamshire's waterways.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/07/30/crayfish-clawing-their-way-back-in-nottinghamshire-a-conservation-success-story-in-the-making/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Danielle Greaves, Higher Officer - Species Reintroduction and Recovery, Natural England Hidden beneath the surface of Nottinghamshire's rivers and streams lives an increasingly rare species \u2013 the white-clawed crayfish. As the UK's only native freshwater crayfish, these creatures play \u2026"
+    },
+    {
+        "title": "User-Centred Infrastructure: Bringing Agile Thinking to the Backbone of Justice Services\u00a0",
+        "authors": [
+            "Darren Rooke"
+        ],
+        "posted_on": "2025-07-30T09:26:32",
+        "categories": [
+            "Agile",
+            "Our services",
+            "user-centred"
+        ],
+        "content": [
+            {
+                "content": "Here at Justice Digital, we design and deliver products that make a meaningful difference in the lives of citizens, often at some of their most challenging moments. Whether it's applying for compensation after a criminal injury or securing lasting power of attorney for a loved one, our services aim to support people when they need it most.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One of the key enablers of this work is the way our teams are structured. Like many modern digital organisations, we work in multidisciplinary teams that operate in an agile way. Constantly learning, iterating, and improving based on user feedback.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Agile helps us break down complex challenges into smaller, more manageable pieces so we can deliver value early and often. It enables our teams to adapt quickly to changes in user needs, technology, or government policy. Through regular collaboration, reviews, analysis and user research, we\u2019re able to test assumptions, reduce risk, and build services that are accessible and genuinely meet the needs of the people who rely on them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But do we apply the same mindset when it comes to how we deliver infrastructure and technology services within our organisations? These are just as critical as the products themselves, so why do so many of us still default to project-based thinking and waterfall principles in these areas?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I don\u2019t have all the answers, but I do believe there is a better way. By adopting a more agile, outcome-focused approach to how we manage and evolve our infrastructure, we can ensure we\u2019re solving the right problems and delivering greater value for our users and the wider organisation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I have recently joined the Digital Infrastructure and Security Operations (DISO) team as Lead Product Manager. In short, the team is responsible for the live services, delivery, product changes and development of all networking, security, voice and video, and hosting services across the Ministry of Justice estate. With the support of my Deputy Director, Nava Ramanan, we are actively exploring how we can improve the way we operate and deliver these services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have just completed a discovery phase to better understand the challenges and blockers that are preventing us from working in a truly agile way. Through this, we have identified key opportunities to create the space, support, and clarity our teams need to adopt more agile and product-led approaches. By doing so, we aim to unlock stronger collaboration, accelerate delivery, and drive more meaningful outcomes for our users and the wider organisation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis transformation isn't just about technology. It\u2019s about culture, courage, and clarity of purpose. Shifting long held mindsets hasn't always been easy and at times, its meant challenging the very systems/processes and leadership styles we are part of. But by bringing agile and product thinking into our infrastructure teams, we have created the space for people to thrive. With 23 product and service teams now operating within DISO, we are fostering deep collaboration, sharper focus, and a renewed commitment to delivering meaningful outcomes. This is about more than modernisation. it\u2019s about strengthening people and services, so we leave them better than we found them\u201d.\u00a0 - Nava Ramanan\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are at the beginning of an exciting transformation, shifting towards a more agile, product-led and outcome-focused way of working. As we start to embed these new approaches and learn along the way, we will keep you updated on our progress, sharing best practices and lessons learned as we go.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you are undertaking a similar journey in your organisation, we would be keen to connect and exchange experiences, insights, and lessons learned. Alternatively, if this work interests you and you would like to know more, please don\u2019t hesitate to get in touch with me at darren.rooke1@justice.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2025/07/30/user-centred-infrastructure-bringing-agile-thinking-to-the-backbone-of-justice-services/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "Here at Justice Digital, we design and deliver products that make a meaningful difference in the lives of citizens, often at some of their most challenging moments. Whether it's applying for compensation after a criminal injury or securing lasting power \u2026"
+    },
+    {
+        "title": "Partnership power: the future of drought research in the UK",
+        "authors": [
+            "phillee"
+        ],
+        "posted_on": "2025-07-30T08:50:30",
+        "categories": [
+            "Science",
+            "Water"
+        ],
+        "content": [
+            {
+                "content": "By Stuart Allen (Environment Agency Principal Scientist) with Dr Gemma Coxon (University of Bristol) and Dr Glenn Watts (UKCEH)\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "England has just emerged from its driest spring in 132 years. Summer has seen little relief, with back-to-back heatwaves and drought being declared in several areas across the country.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a climate scientist, I\u2019m interested in how these extreme events have become the new normal. My first job after graduation was working as a Water Resources Officer in East Anglia supporting the Ely Ouse to Essex Transfer Scheme, an Environment Agency asset that moves water from rivers in Norfolk to the rivers and reservoirs of Essex. Working in one of the driest parts of the country, and on a strategically significant water resources asset, left a lasting impression on me. I\u2019ve since brought that interest to the Chief Scientist\u2019s Group, where I\u2019ve been lucky to build a career investigating the current and future challenges around water resources and drought.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building consensus and community\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In November 2023, the Environment Agency published its largest ever review of drought science. We worked with leading drought scientists from 13 universities, research institutes, and consultancies, each contributing knowledge from their specialist fields. The review set out what is known, and not well known, about the physical and social factors that come together during drought.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One year later, we co-hosted a workshop with the University of Bristol and UK Centre for Ecology and Hydrology (UKCEH) to build on the review. We brought together 48 experts from universities, research institutes, government agencies, environmental consultancies, and water companies. The workshop focused on understanding catchment processes during drought conditions in the UK. We\u2019ve now published a summary of the workshop, which sets out what we identified and what\u2019s next for drought research.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It's been a real privilege to lead this work for the Environment Agency with our partners at UKCEH and the University of Bristol. Like any great scientific challenge, drought can\u2019t be addressed alone. Working together, sharing knowledge, and bringing in the best of all disciplines is needed.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We now have alignment on what areas of research are most needed to build drought resilience in England. And, more importantly, we have a community of researchers ready to take it forward.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What makes drought science so complex?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Despite how the recent hot, dry weather might feel, serious droughts are rare in England. This means there is little observational data to tell us how water systems behave when soils are very dry and river flows and groundwater levels are very low. Major droughts are usually separated by a decade or more, and hydrological systems \u2013 catchments, water supply systems, types and locations of water use \u2013 change over time. As such, each drought is different.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAll of this means that it\u2019s hard to predict the impact of the next drought and to work out what to do when it happens,\u201d said Dr Glenn Watts, Associate Science Director of Water and Climate Science at UKCEH. I\u2019ve been fortunate to work with and learn from Glenn for many years, including both phases of our drought review and workshop.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The workshop addressed this complexity head-on to see where our biggest challenges lie. We identified four main research areas to collectively take forward:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThese research priorities come together to tackle the whole drought problem,\u201d said Glenn. \u201cIt will help us understand how people act during drought, how environments respond to drought, and which management measures are most effective.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why does working together matter more than ever?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The workshop\u2019s aims were twofold: identifying research priorities and creating a community.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cBecause droughts are complex events that are difficult to predict and adapt to, they require lots of different expertise,\u201d said Dr Gemma Coxon, Associate Professor in Hydrology at the University of Bristol\u2019s School of Geographical Sciences. \u201cThat\u2019s exactly why we wanted representation from climate, hydrology, ecology, social science, water systems engineering, and beyond.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Gemma and I worked together to convene drought experts for this project. Early on, we knew we needed a whole system approach to see real progress in drought science. The workshop was a way to nurture diversity of thought \u2013 across scientific disciplines, sectors, and areas of the country \u2013 and to take on new work in partnership. This ensures future research is as interconnected as drought itself.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cHaving a community means we can share knowledge and ideas, establish new connections between disciplines, and foster innovation to provide solutions to drought challenges,\u201d said Gemma. It\u2019s been heartening to see the level of engagement from everyone involved and their willingness to be part of a collective effort.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Maintaining our momentum",
+                "tag": "p"
+            },
+            {
+                "content": "Future drought research will be supported by the Floods and Droughts Research Infrastructure (FDRI) project, a \u00a338million UK Research and Innovation (UKRI) initiative. With the aim of improving resilience to floods and droughts, FDRI will monitor the whole hydrological system in three contrasting catchments across the UK. The data generated through FDRI will be freely available for anyone to use.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis breaks down one of the major barriers to new research on both droughts and floods: the cost and time it takes to collect new data. This frees researchers across the UK and beyond to concentrate on developing new analyses that give new insights into both flood and drought hydrology,\u201d said Glenn.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As an Environment Agency representative for FDRI, I\u2019m excited by what it offers us. This investment is an unprecedented opportunity to capture new observations, better understand the processes that control droughts, and help us prepare operationally for what\u2019s to come. It will keep the spirit of our workshop alive.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cFDRI will help sustain the drought community of practice by supporting community events and delivering training to the next generation of drought scientists,\u201d said Gemma. \u201cWe can expect more events in the next three years exploring emerging research challenges and capabilities for floods and droughts!\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This project is just one way the Environment Agency is exploring the science of droughts. In the Chief Scientist\u2019s Group, my team is working to understand different angles to drought. Our research includes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Final thoughts\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know the climate is changing, and we expect drought will change with it. That is why we are planning for the future with our ambitious, multi-disciplinary research plan.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While we can\u2019t prevent drought, a better understanding of how people and the environment interact during drought will make sure the impacts are reduced. Thinking ahead and working together are the best way forward to make us more resilient.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/07/30/partnership-power-the-future-of-drought-research-in-the-uk/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "By Stuart Allen (Environment Agency Principal Scientist) with Dr Gemma Coxon (University of Bristol) and Dr Glenn Watts (UKCEH)\u00a0\u00a0 England has just emerged from its driest spring in 132 years. Summer has seen little relief, with back-to-back heatwaves and drought \u2026"
+    },
+    {
         "title": "Coverage of our transformative funding to communities across South Tyneside",
         "authors": [
             "mhclgpress"
