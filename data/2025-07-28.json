@@ -1,5 +1,442 @@
 [
     {
+        "title": "Help shape the future of brown crab fishing in the South West",
+        "authors": [
+            "Fisheries Management Team, Marine Management Organisation"
+        ],
+        "posted_on": "2025-07-31T16:16:22",
+        "categories": [
+            "Implementation",
+            "Public consultation"
+        ],
+        "content": [
+            {
+                "content": "The Marine Management Organisation (MMO) wants to hear from you. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A new online survey is now open, giving fishermen and others in the industry a chance to share their views on proposed changes to the Minimum Conservation Reference Size (MCRS) for brown crab in English waters of the South West.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s being proposed?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Western English Channel brown crab fishery unit (CFU) was highlighted in the crab and lobster fisheries management plan (FMP) for priority management. The stock size was considered near maximum sustainable yield (MSY), and the exploitation rate was moderate in 2019. There are concerns about significant increases in fishing effort in the area in recent years.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Defra (Department for Environment Food and Rural Affairs) commissioned MMO to lead delivery of Proposal 3: to pilot (trial) finer scale management in a CFU in the South West.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A South West Crab Trial Group was formed in 2024, facilitated by Seafish to bring together local stakeholders, MMO and Defra to help deliver this work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The group reviewed options and strongly backed a consistent MCRS, also referred to as the minimum landing size, for brown crab across English waters of the South West. The proposed MCRS are:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These changes are aimed at protecting crab stocks for the long term and the government plans to bring in these new sizes permanently, with no trial period.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Quick and easy survey\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "To make it simple for everyone to have their say, MMO on behalf of Defra has created a short, mobile-friendly survey. It only takes about 5 minutes to complete and is open until 11:59 PM on 17 August 2025.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why it matters\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This is your chance to help shape the future of brown crab fishing in the South West. Your feedback will help make sure any changes work for the people who rely on these fisheries.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stakeholders have told us that now is not the right time to try out alternative trial options and we\u2019ve listened. But MMO will keep working to get better data and a clearer picture of what\u2019s happening in the fishery, to inform more effective management. Alongside Defra, we will carry on working with local and national groups to look at ways of managing effort, and we will pick up the conversation with the wider industry in due course.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Take part and spread the word",
+                "tag": "h2"
+            },
+            {
+                "content": "If you fish for brown crab or are involved in the industry, please take a few minutes to fill out the survey\u2014and share it with others in your network.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Take the survey here.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/07/31/help-shape-the-future-of-brown-crab-fishing-in-the-south-west/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Crab fishers\u2014have your say. Survey opens on new size rules for brown crab in the South West. Closes 17 August."
+    },
+    {
+        "title": "How do we use AI as a partner in our work?",
+        "authors": [
+            "Design102 team"
+        ],
+        "posted_on": "2025-07-31T15:22:56",
+        "categories": [
+            "Creative",
+            "Design",
+            "Services"
+        ],
+        "content": [
+            {
+                "content": "With tools that can generate images, suggest layouts and predict design trends, AI (artificial intelligence) has become a powerful asset for people working in digital media, including our own designers at D102. By automating tasks and acting as a soundboard for ideas, AI allows designers to focus on creativity while delivering work at a faster pace. This blog explains how we use AI in our work.",
+                "tag": "p"
+            },
+            {
+                "content": "Different kinds of AI",
+                "tag": "h2"
+            },
+            {
+                "content": "Broadly speaking, artificial intelligence (AI) refers to technology that enables machines to mimic human intelligence by reasoning, problem solving, and even perception.",
+                "tag": "p"
+            },
+            {
+                "content": "There are several different types of AI: Generative AI specialises in creating new content from patterns in existing data. Unlike traditional AI, which may analyse information, generative AI produces original content like text, images, or music, which makes it valuable in creative fields.",
+                "tag": "p"
+            },
+            {
+                "content": "AI models that create images, such as DALL-E and Midjourney, use extensive datasets to generate unique visuals from text descriptions. With just a few words, designers can produce unique images, experiment with colour palettes, or build mood boards.",
+                "tag": "p"
+            },
+            {
+                "content": "Text-based models, like ChatGPT, can generate coherent text in response to prompts. These tools help people in all disciplines brainstorm, draft, and refine written content more efficiently.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In fact, at the end of 2024, the Government Communication Service (GCS) rolled out its own text-based AI model called \u2018Assist\u2019 \u2013 a conversational AI tool for government communicators, integrating GCS professional guidelines, case studies, audience insights, and ethical frameworks to generate high-quality responses. It allows professionals to securely input data to draft text, plans, and ideas while ensuring confidentiality. With pre-engineered prompts tailored to common communication tasks, Assist enables both experienced and novice users to streamline time-consuming work, freeing up more time for creative and strategic thinking.",
+                "tag": "p"
+            },
+            {
+                "content": "Examples of using AI in our work",
+                "tag": "h2"
+            },
+            {
+                "content": "Our team uses AI in various ways, adapting it to each project's specific needs. These are some examples\u2026",
+                "tag": "p"
+            },
+            {
+                "content": "Image expansion and background editing",
+                "tag": "h3"
+            },
+            {
+                "content": "Photoshop has become much-talked about recently for its AI-powered image expansion and enhancement tools. For instance, one team member used Photoshop\u2019s generative AI to turn a close-up photo of a nurse at a computer into a scene with realistic details like a desk, chair, and ceiling. The same tools have been used to enhance images by extending backgrounds and removing unwanted objects, as well as replacing stock imagery to avoid photoshoot costs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Concept development and experimentation",
+                "tag": "h3"
+            },
+            {
+                "content": "In the early stages of visual exploration for our projects, AI helps us experiment and visualise concepts. For example, we used Adobe Firefly to generate illustrations to test an envisioned style across different themes for a mood board. This allowed the team to explore multiple directions without fully developing each one. This approach saves time, especially for projects that require numerous thematic variations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Idea generation and brainstorming support",
+                "tag": "h3"
+            },
+            {
+                "content": "ChatGPT has been a useful brainstorming partner on multiple projects. For example, in a project that required a list of safety-related items, ChatGPT helped compile and refine ideas for the items. It\u2019s also proven valuable in generating icon concepts for abstract themes for projects, such as \u2018decarbonisation\u2019 and genders, where finding the appropriate visual representation can be difficult. ChatGPT\u2019s ability to generate fresh ideas enhances creative processes and provides a foundation for further development.",
+                "tag": "p"
+            },
+            {
+                "content": "Writing, presentations, and communication",
+                "tag": "h3"
+            },
+            {
+                "content": "AI has also been beneficial for refining and structuring our writing. Some team members use ChatGPT to improve their structure and written explanations of design ideas, making communication clearer and supporting the copy team\u2019s collaboration. Another use of ChatGPT is to simplify complex emails and briefs, making it easier to extract key points and understand project requirements. This puts designers in the best position to drive their work forward to meet our client\u2019s expectations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Limitations",
+                "tag": "h2"
+            },
+            {
+                "content": "While AI offers remarkable efficiency and creative support, it does have limitations. AI-generated outputs often need human oversight to make sure they are accurate. For instance, some tools may struggle with complex elements, producing distorted or unrealistic results. Often images of people do not contain sufficient diversity, which needs checking. Similarly, text-based AI, while excellent for idea-generation and drafting, can occasionally produce content that feels impersonal or generic, requiring time spent on refinement.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These limitations show that AI is best used in the way we use it at D102: as a complement to human expertise rather than a replacement. This means that we can support your communications project even more efficiently than ever, thanks to this new technology. Discover our work at\u00a0www.design102.co.uk, or contact us at hello@design102.co.uk to find out more.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://design102.blog.gov.uk/2025/07/31/how-do-we-use-ai-as-a-partner-in-our-work/",
+        "blog": "Design102",
+        "blog_link": "https://design102.blog.gov.uk",
+        "description": "From text-based models to generative platforms, AI is infiltrating all areas of work. Here, we explore different models and uses, and talk about how we use them at Design102, including the new GCS Assist tool."
+    },
+    {
+        "title": "The launch of the Digital Business Growth Service and business.gov.uk: helping businesses start and scale",
+        "authors": [
+            "Anais Reding, Chief Digital Officer - Business Growth"
+        ],
+        "posted_on": "2025-07-31T14:13:02",
+        "categories": [
+            "Products",
+            "Professions"
+        ],
+        "content": [
+            {
+                "content": "Anais Reding",
+                "tag": "h3"
+            },
+            {
+                "content": "June 2025 marked the start of a new era in how government supports businesses online. We launched the Digital Business Growth Service, on business.gov.uk. As noted in the Blueprint for a Modern Digital Government, we are on a mission to \u201c[help] businesses start and scale by delivering services that work as well as they do for citizens\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "This launch is the first step in meeting this objective. We will continue to share as we progress this support.",
+                "tag": "p"
+            },
+            {
+                "content": "Why a Digital Business Growth Service?",
+                "tag": "h2"
+            },
+            {
+                "content": "The Digital Business Growth Service proposition is clear: we help businesses find what they need, when and where they need it. It is the digital channel for the Business Growth Service which was launched at the same time as the Small Business Strategy. We know that businesses who take up support are more likely to be high growth and productive. Yet, navigating the public, private and third sector support landscape can be overwhelming. Our goal is to simplify that journey: offering businesses the relevant and trustworthy answers they need.",
+                "tag": "p"
+            },
+            {
+                "content": "Why business.gov.uk?",
+                "tag": "h2"
+            },
+            {
+                "content": "To meet this proposition, we renamed our site from great.gov.uk to business.gov.uk. Great.gov.uk began as a marketing platform for the Department for International Trade (DIT). As DIT transitioned into the Department for Business and Trade (DBT), the department's ambitions grew to support anyone looking to start, run or grow a business in the UK. While the GREAT brand continues to be the main one for international audiences, it doesn\u2019t speak in the same way to domestic businesses and we needed to address this.",
+                "tag": "p"
+            },
+            {
+                "content": "The new site, launched alongside the Digital Business Growth Service and now supports businesses across their full lifecycle, from start up to export and investment. GOV.UK now also signposts from its highest traffic pages to business.gov.uk, bringing compliance and support services closer together. To continue to maximise on the GREAT brand and marketing investments to date, the site continues to use GREAT branding where appropriate and there are redirects in place from the pre-existing great.gov.uk links.",
+                "tag": "p"
+            },
+            {
+                "content": "We were given the mandate to develop this offer in February and launched in June. It\u2019s been a fast-paced journey, and we\u2019ve learned a lot along the way. In this post, 4 team leads share their reflections on this experience.",
+                "tag": "p"
+            },
+            {
+                "content": "Carla Isham- Design Lead",
+                "tag": "h3"
+            },
+            {
+                "content": "I joined DBT in 2024 when \u2013 alongside a full roadmap of work \u2013 the portfolio was gathering discovery and conceptual work to support businesses more effectively across their whole lifecycle. By January 2025, we had a clear direction. The mandate to launch this service accelerated our plans, prompting a rapid restructure, bringing experts from all professions together to work on this ambition. A huge collaborative effort enabled us to combine our knowledge and deliver a genuine step-change for users.",
+                "tag": "p"
+            },
+            {
+                "content": "Within Digital, Data and Technology (DDaT), we have a tight-knit team of designers, and a strong User- Centered Design (UCD) community. Building closer relationships with all our support providers, and connecting across teams, professions and portfolios was critical to shaping this first iteration. We rapidly tested ideas and assumptions with existing and potential users using low-fidelity concepts, iterating daily, refining user journeys and bringing them into development. ",
+                "tag": "p"
+            },
+            {
+                "content": "I am immensely proud of the UCD team\u2019s commitment, enthusiasm, and skill that has shone over the last 4 months. Our colleagues at the Digital Accessibility Centre were incredibly supportive throughout, helping us to find solutions to benefit all users. During its existence, the website had built up a significant amount of legacy code bloat and design inconsistencies. Re-imagining the service helped us address many of these issues, and we continue to work hard to resolve them. Further iterations and design system components are being rolled out in regular cycles, informed by our own testing and insights from the Government Design System team.",
+                "tag": "p"
+            },
+            {
+                "content": "Crucially, this work has laid the foundation for a more intuitive, effective experience. We have big ambitions, and I\u2019m excited to see the first step on this journey brought to businesses.",
+                "tag": "p"
+            },
+            {
+                "content": "Andrew Donaghy - Content Lead",
+                "tag": "h3"
+            },
+            {
+                "content": "In 2024, content designers worked to improve export support content on great.gov.uk. By analysing hundreds of business enquiries, we found common patterns in the problems businesses described when exporting. For example, they almost always referenced what they sold and where, and the issues they had (paperwork, transportation, etc). This led to a shared understanding between DDaT and Policy teams, and a new approach to structuring information and services to better answer business queries.",
+                "tag": "p"
+            },
+            {
+                "content": "We launched 100s of new sequential, recyclable snippets and tasks alongside a progressive value exchange guide. That is, a user tells us what they sell, where they sell it or want to sell it. We then produce a page of specific and relevant content that shortcuts the business to the right support in one place. This dynamic, digital self-serve experience helped businesses cut through an often-complex information ecosystem on GOV.UK and elsewhere.",
+                "tag": "p"
+            },
+            {
+                "content": "The results were clear: a 315% increase in engagement with support content and a 155% increase in direct enquiries. This model became the foundation for business.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "From February 2025, we worked with DBT teams to understand the needs of businesses at different stages of growth. We built out 3 curated business guides: pre-start, start-up, and established. These guides were shared and shaped with the experts who provide daily support to businesses. This ensured the websites\u2019 self-serve online journeys informed offline interactions with colleagues.",
+                "tag": "p"
+            },
+            {
+                "content": "The guides successfully launched in July. Collections of accurate and useful content from trusted sources, dynamically adjust based on what a business shares about their location, sector, established date, turnover and exporting experience. Since launch, we\u2019ve already iterated based on user feedback, updating topics such as 'support network\u2019 and \u2018setting up a business\u2019. What\u2019s more, the insights we gather from user behaviour and onward journeys will inform improvement across the GOV.UK platform.",
+                "tag": "p"
+            },
+            {
+                "content": "Richard Baines - Technical Lead",
+                "tag": "h3"
+            },
+            {
+                "content": "Business.gov.uk builds on the technical foundation of great.gov.uk , using the Content Management System (CMS) called Wagtail. Wagtail\u2019s multi-site feature allows for one CMS instance to support multiple sites. This meant we could re-use existing infrastructure and focus on delivering new functionality and the domain change. This aligns with our strategy of reusing where possible or designing for re-use.",
+                "tag": "p"
+            },
+            {
+                "content": "We scoped the scale of the change and the technical work needed. This involved working across professions to understand the requirements and document the changes needed, ensuring that this did not disrupt the current site. Where possible, we automated processes. The team developed scripts to copy content, update URL structure, and transition references from great.gov.uk to business.gov.uk. These were tested in a pre-production environment before going live.",
+                "tag": "p"
+            },
+            {
+                "content": "I provided technical input for the team delivering the new functionality for business.gov.uk. This ensured features were designed for re-use and performed well. Before launch we conducted significant load testing to prepare for traffic increase. The reuse-first approach allowed us to deliver the MVP, transition domains, and identify areas for ongoing technical improvement.",
+                "tag": "p"
+            },
+            {
+                "content": "Becky Leggett - Delivery Lead",
+                "tag": "h3"
+            },
+            {
+                "content": "I joined the Portfolio in February 2025, just as the work was gaining momentum.\u00a0 I was pleasantly surprised at how willing the teams were to rally around the work, stepping outside their comfort zones, adapting to new ways of working that took time to optimise, and embracing uncertainty.",
+                "tag": "p"
+            },
+            {
+                "content": "To make this a success, required support from our colleagues across DDaT.\u00a0 Other teams and portfolios supplied extra people, advice and expertise. The took on parts of the work on our behalf to help us meet the launch deadline.",
+                "tag": "p"
+            },
+            {
+                "content": "For delivery managers, it was a test of skills to be able to plan with high uncertainty and managing cross-team dependencies and risks. We developed ways to track and monitor progress, and visualise the scale of the work.\u00a0 We successfully supported a large, distributed group, ensuring good working relationships were maintained despite the pace and significant pressures. Our decision-makers played a key role, creating space for fast delivery, even as we created governance mechanisms from scratch. The whole experience was both a well-earned delivery milestone, and an excellent learning opportunity. We gained insights into our product ecosystem, the importance of clearing product debt, and how our catalogue of services and content interlinks. We also learned which delivery practices support fast-paced work, and those which do not. We will apply learnings so that, in the true ethos of continuous improvement, we can continue to achieve great successes like this one.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The launch was just the start of our journey. Subscribe to this blog to be notified of the latest progress or reach out to us if you want to keep the discussion going.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2025/07/31/the-launch-of-the-digital-business-growth-service-and-business-gov-uk-helping-businesses-start-and-scale/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "How DDaT built 2 new personalised services for UK businesses and how they meet government ambitions."
+    },
+    {
+        "title": "Building a shared understanding of services",
+        "authors": [
+            "Lucy Hartley"
+        ],
+        "posted_on": "2025-07-31T12:11:35",
+        "categories": [
+            "Defra digital",
+            "Digital services",
+            "Digital transformation"
+        ],
+        "content": [
+            {
+                "content": "Lucy Hartley, Head of Service Strategy, Ownership and Performance, and Lisa Jeffery, Design Manager, reflect on the work being done to build a shared understanding of services within Defra Group.",
+                "tag": "p"
+            },
+            {
+                "content": "Services are how Defra group achieves most of its outcomes but understanding what we mean by a \u2018service\u2019 can be hard. People can have different definitions for services, products, capabilities or components. Parts of a service can mean different things to different people. That\u2019s why we\u2019re developing a list of definitions in a \u2018service taxonomy model\u2019 to build shared understanding. In this blog post, we\u2019ll discuss what we want to achieve, how we\u2019re working together to develop a model and what we\u2019ve learned so far.",
+                "tag": "p"
+            },
+            {
+                "content": "The problem we're trying to solve",
+                "tag": "h2"
+            },
+            {
+                "content": "The service taxonomy is a model. It will never be a perfect picture of a complex reality but it\u2019s still useful. To start with, we want to use the model to help us develop a shared language. A common understanding of how services enable us to achieve outcomes while meeting user needs. We want to grow awareness of the different parts of a service to support colleagues. We also want to show the difference between products and services and how they work together because colleagues told us this would be helpful. It matters because transforming services is a team sport. We can be more effective and efficient when we\u2019re all working and communicating well together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The model is in support of the Defra Group digital and data transformation strategy and senior service ownership and service mapping work that we\u2019ve shared plans about. It is also in support of a blueprint for modern digital government, which talks of the need to join up public sector services. Plus, it uses the new cross-government definition of service from the Service Manual.",
+                "tag": "p"
+            },
+            {
+                "content": "The model shows high-level groupings, not all the details within each layer. Different professions such as architecture or design may have their own ways of mapping. This is not intended to replace those, it\u2019s just a way of working together to create a shared understanding or view. In future, we hope to use the model not only to build shared understanding but also shared commonality and reusability in services.",
+                "tag": "p"
+            },
+            {
+                "content": "How we're developing a model",
+                "tag": "h2"
+            },
+            {
+                "content": "The service taxonomy model was first shared internally in September 2024. Since then, we\u2019ve collected feedback from colleagues. This led us to make changes by working together with those who will use the model. We\u2019re now sharing a second version. Of course, it\u2019s still not perfect but it is helping to move us forward on our service transformation journey. We are learning how the model helps us to have better conversations across organisational boundaries and between different professions. We are also learning how the model comes alive though real-world use. In future we will make more changes because the model should always evolve to meet our needs.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re grateful to have spoken with public sector colleagues about this work. Thanks especially to Tero V\u00e4\u00e4n\u00e4nen, head of design at NHS England, who spoke to us about how they define services, products and platforms in health and care. Thanks also to Laura Yarrow, head of design at the Government Digital Service, for early support.",
+                "tag": "p"
+            },
+            {
+                "content": "So far, there\u2019s been good feedback, including on the image of the model, designed by colleague Monica Tuffs, which has the shape of a house. We will continue to gather feedback as we start applying the model to Defra group services, as service designers are doing now.",
+                "tag": "p"
+            },
+            {
+                "content": "Chris Brooker, principal service designer, said: ",
+                "tag": "p"
+            },
+            {
+                "content": "What next?",
+                "tag": "h2"
+            },
+            {
+                "content": "We are working on more examples to show how different people can use the model. We can use it to help map whole services, to show relationships, enabling products or services or duplication.",
+                "tag": "p"
+            },
+            {
+                "content": "The model is a foundational piece of work that we will build on together. It complements the mapping of whole services that is taking place across Defra Group. Together, we hope this will enable senior service owners to understand the landscape, know their remit and measure success better.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re keen to connect with more people, to learn from others and to share what we are learning as we progress.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2025/07/31/building-a-shared-understanding-of-services/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "Lucy Hartley, Head of Service Strategy, Ownership and Performance, and Lisa Jeffery, Design Manager, reflect on the work being done to build a shared understanding of services within Defra\u2019s Digital, Data, Technology and Security teams."
+    },
+    {
+        "title": "Justice Connected: Inside Common Platform",
+        "authors": [
+            "HMCTS Communications"
+        ],
+        "posted_on": "2025-07-31T11:47:58",
+        "categories": [
+            "Court and tribunal reform",
+            "Crime",
+            "Digital services",
+            "Podcast"
+        ],
+        "content": [
+            {
+                "content": "We take you behind the scenes of Common Platform \u2014 a single digital case management system developed to bring together the police, Crown Prosecution Service, prisons, legal professionals, and the judiciary on one shared platform.We delve into how this ambitious digital transformation is improving access to information, enhancing collaboration, and streamlining court processes. From reducing delays to empowering legal teams with real-time updates, Common Platform is reshaping how justice is delivered \u2014 making it more efficient, transparent, and joined-up than ever before.Through interviews with users, this episode uncovers the impact of the platform and what it means for the future of criminal justice.",
+                "tag": "p"
+            },
+            {
+                "content": "Listen to the latest episode now, available wherever you get your podcasts from!",
+                "tag": "p"
+            },
+            {
+                "content": "Amazon",
+                "tag": "p"
+            },
+            {
+                "content": "Apple",
+                "tag": "p"
+            },
+            {
+                "content": "Buzzsprout",
+                "tag": "p"
+            },
+            {
+                "content": "Spotify",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0transcript of the podcast\u00a0is also available.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2025/07/31/justice-connected-inside-common-platform/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "Discover how Common Platform is joining the dots in criminal justice. In this podcast, we explore how this unified digital system is making information more accessible, improving collaboration, and modernising the court process for everyone involved in a case."
+    },
+    {
         "title": "King scallop FMP explained: goals, benefits and updates",
         "authors": [
             "\u200b\u200bRegional Fisheries Groups team, Marine Management Organisation\u200b"
