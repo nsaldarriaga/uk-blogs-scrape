@@ -1,5 +1,281 @@
 [
     {
+        "title": "Sale of allotment spaces",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2025-08-05T17:29:25",
+        "categories": [
+            "allotments"
+        ],
+        "content": [
+            {
+                "content": "Recent media reporting has criticised the government for allowing councils to sell allotment spaces. Allotments are a valuable and important community resource, and there are strict criteria in place to protect them.\u00a0These rules on sales of assets have been in place since 2016 and they have not changed, and ministerial approvals were lower in 2024 than the average for previous years.\u00a0For these sites to be sold, councils must get approval from the MHCLG Secretary of State and they can only be sold where this is absolutely necessary and where the legal threshold is met. Similar protections are in place for playing fields, where councils must get the Department for Education\u2019s approval.\u00a0Councils support having this flexibility, and there are strict criteria in place to protect statutory allotments \u2013 these are sites covered by the Allotment Act 1925 where local authorities can prove they were acquired to set up allotments.\u00a0In one instance, an application by Elstree & Borehamwood Town Council to dispose of 54 allotment plots was to enable the construction of 186 homes \u2013 including 80 per cent affordable housing. As part of the application, an adjacent piece of land will be developed to deliver 100 allotment plots replacing those being disposed of.\u00a0The National Allotment Society (NAS) has also been clear on the issue saying there has been \u201cno change to the legal protections that apply to statutory allotments\u201d and that \u201cno statutory site can be sold or developed without going through a clearly defined legal process\u201d.\u00a0NAS said the eight approvals represented a slight decrease in allotment disposals in recent years, and that it had not challenged any of the applications as they had all met the legal threshold with either low take-up of plots or alternative allotment space provided elsewhere.\u00a0An MHCLG spokesperson said:\u00a0\u201cCouncils have been able to sell assets since 2016 and these rules have not changed. They should only do so where it is clearly necessary and offers value for money.\u00a0\u201cWe know how important allotments are for communities, and that is why strict criteria is in place to protect them, as well as school playing fields.\u201d\u00a0Additional background on allotments:Year - Consents Granted2024 - 82023 - 62022 - 102021 - 62020 - 12",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2025/08/05/sale-of-allotment-spaces/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "Recent media reporting has criticised the government for allowing councils to sell allotment spaces. Allotments are a valuable and important community resource, and there are strict criteria in place to protect them.\u00a0These rules on sales of assets have been in \u2026"
+    },
+    {
+        "title": "Standardising the planning application process: Kicking off work on decisions\u00a0",
+        "authors": [
+            "Mike Rose, Data, Licensing and Intellectual Property SME"
+        ],
+        "posted_on": "2025-08-05T13:51:05",
+        "categories": [
+            "Data",
+            "Digital Planning"
+        ],
+        "content": [
+            {
+                "content": "Every year thousands of planning decisions are made which shape the future of where we all live, work and visit. They determine which developments are approved and how our places evolve. Yet this crucial data is stored in different ways and in different local authority systems across the country, making it difficult to access and analyse the data, understand patterns, track housing delivery and build new data-driven tools.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s why in our last blog post, we set out how we are expanding the scope of our data specification work to cover the whole planning permission process and are beginning to work on standardising planning application decisions. This focuses on the point at which a local planning authority makes a decision, and a decision notice is published.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is a crucial next step because it records the outcome of the planning permission process. Aligning submission specifications (input) with decision specifications (output) will encourage a consistent flow of quality data throughout the system.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Key differences in decision specifications\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "While closely aligned with submissions, there are key differences:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This work matters because standardised decision data serves everyone involved in the planning ecosystem.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It means that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We've started by revisiting an early working draft from 2022 and are now drafting a new data model, aligning it with our submission work. Unlike submissions, where we had existing forms to work from, for decisions, we're starting small and only adding elements when a clear need is evidenced.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here are some principles we are following for the decisions specification(s):\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How you can shape this work\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The benefits of getting this right extend far beyond just having neat and tidy data. Specifications which standardise our decisions data will transform our understanding of how the planning system is working in England and help us all to better understand how our places are changing.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are kicking off a research project to understand exactly what decision data is needed and how people want to use it. This is where we need your expertise and experience.\u202f Please complete our survey and share your requirements and use cases.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will be discussing the initial findings from the survey in our open data standards community meeting at 10.30am on 20 August. Please register to receive an invite to this session.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The best specifications are built with the people who use them, so please keep feeding in your insights \u2013 we're eager to collaborate with you to get this right!\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/08/05/standardising-the-planning-application-process-kicking-off-work-on-decisions/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Crucial planning decisions data is stored inconsistently across different local authority systems. We're now expanding our data specification work to standardise planning application decisions, creating consistent data flow throughout the system. Help shape this work to ensure it helps local authorities, central government, developers, and communities better understand how our places are changing."
+    },
+    {
+        "title": "Building Bridges Between Prison and Civil Service Employment",
+        "authors": [
+            "karlharvey1"
+        ],
+        "posted_on": "2025-08-05T09:00:07",
+        "categories": [
+            "#GFIEsuccessstory",
+            "Break down barriers to opportunity",
+            "Cabinet Office Life Chance pathway for People with Convictions",
+            "Life Chance Recruitment"
+        ],
+        "content": [
+            {
+                "content": "In honour of National Opportunity Day on 7 August, we are celebrating efforts to create genuine, inclusive pathways to employment for all. Recently, we visited a prison and young offender institute to connect with women in custody and showcase the diverse career opportunities within the Civil Service, highlighting how pathways like Going Forward into Employment (GFiE) are helping to transform lives and open doors to future success.",
+                "tag": "p"
+            },
+            {
+                "content": "In June, we had the privilege of visiting HMP Downview, a female prison located in Sutton, London. Organised in collaboration with New Futures Network (NFN) and His Majesty's Prison and Probation Service (HMPPS), this visit brought together colleagues from various Civil Service departments, including the National Archives, Department for Transport, DVSA, Civil Service Commission, and Integrated Corporate Services (ICS), a Business Unit that supports Departments for Energy Security & Net Zero (DESNZ), Science, Innovation & Technology (DSIT), and Business and Trade (DBT).",
+                "tag": "p"
+            },
+            {
+                "content": "The purpose of the visit was to demystify the criminal justice custodial environment and highlight the positive work carried out within UK prisons. Importantly, we aimed to connect with Prisoners interested in exploring future employment opportunities, specifically through our Going Forward into Employment (GFiE) \u2018person with conviction\u2019 pathway.",
+                "tag": "p"
+            },
+            {
+                "content": "During the visit, we engaged with women eager to learn about the Civil Service and the diverse range of roles available. Our colleagues talked about their departments and explained their roles.",
+                "tag": "p"
+            },
+            {
+                "content": "Promoting Equal Opportunities and Diverse Talent",
+                "tag": "h3"
+            },
+            {
+                "content": "A highlight of the day was walking through the application process for Civil\u00a0Service vacancies via the GFiE life chance pathway. We broke down the steps involved, ensuring participants understood how to approach their applications confidently.",
+                "tag": "p"
+            },
+            {
+                "content": "Positive stories from colleagues who have successfully navigated the pathway served as powerful examples. Their journeys demonstrated that a career within the Civil Service is an achievable and rewarding prospect, offering hope and inspiration.\u00a0 Their stories serve as testament to the possibilities that exist for those currently in custody, reinforcing our commitment to fostering an inclusive and diverse workforce.",
+                "tag": "p"
+            },
+            {
+                "content": "Lessons Learned and Next Steps",
+                "tag": "h3"
+            },
+            {
+                "content": "The visit included a tour of the prison, where we explored workshops providing meaningful employment and skills development for the women in custody. These workshops not only prepare individuals for life after release but also contribute to reducing reoffending, aligning with our broader social goals.",
+                "tag": "p"
+            },
+            {
+                "content": "This experience underscored the importance of outreach and collaboration in unlocking future talent.",
+                "tag": "p"
+            },
+            {
+                "content": "Moving Forward",
+                "tag": "h3"
+            },
+            {
+                "content": "As we continue to develop our initiatives, we aim to strengthen our partnerships with prison establishments and support more individuals in realising their potential through GFiE employment opportunities.",
+                "tag": "p"
+            },
+            {
+                "content": "We extend our sincere gratitude to NFN, HMP Downview, and everyone involved for their dedication and cooperation in making this visit a meaningful step forward.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together, we are opening doors to a future where diversity and inclusion are at the heart of the Civil Service.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gfie.blog.gov.uk/2025/08/05/building-bridges-between-prison-and-civil-service-employment/",
+        "blog": "Life Chance Recruitment - Going Forward into Employment (GFiE)",
+        "blog_link": "https://gfie.blog.gov.uk",
+        "description": "In honour of National Opportunity Day on 7 August, we are celebrating efforts to create genuine, inclusive pathways to employment for all. Recently, we visited a prison and young offender institute to connect with women in custody and showcase the \u2026"
+    },
+    {
+        "title": "When is results day 2025? GCSEs, A levels, T Levels and VTQs",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-08-05T07:39:02",
+        "categories": [
+            "Exams and qualifications"
+        ],
+        "content": [
+            {
+                "content": "In August, pupils in England will find out their results for GCSEs, A levels, T Levels and VTQ (vocational technical qualifications) exams.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ahead of results day, schools, colleges and assessment centres should contact pupils directly to tell them how and when to collect them. They\u2019ll also be able to answer any questions you have ahead of the day.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s what you need to know about exam results this year.",
+                "tag": "p"
+            },
+            {
+                "content": "When is GCSE and Level 1/2 VTQ results day 2024?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "GCSE\u202fresults day is on Thursday 21 August.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Results for Level 1, Level 1/2 and Level 2\u202fVTQs\u202fwill also be available on or before this date.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Normally, pupils will be able to go to their school or college and collect their results in person where they can get advice from their teachers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alternatively, schools will send results to pupils in the post or by email.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When is A level, T Level and Level 3 VTQs results days 2024?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "AS level, A level and\u202fT Level\u202fresults day is on Thursday 14 August.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Results for VTQs at Level 3 taken alongside or instead of A levels, such as BTECs, will be released to pupils on or before Thursday 15 August.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Results can be emailed or sent in the post, but it\u2019s a good idea to go into school or college to receive your results so you can get support from teachers and career advisers to discuss your options, especially if your results might affect your plans for September.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re applying to university via UCAS, you can track your\u202fapplication online.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What should I do if I\u2019m disappointed with my results?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Your school or college and your teachers will support you if don\u2019t get the results you hoped for or if your plans change based on the results you get.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Remember, there are many different exciting options to take after school and college.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If don\u2019t get the GCSE results you were expecting, you can find out more about your options here.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And if you\u2019re worried about not getting the results you need for your university course, you can find out more about your options here.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you need help or advice around your exam results or next steps, you can call\u202fthe National Careers Service\u202fhelpline to chat to a careers adviser on 0800 100 900.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re feeling stressed or anxious about exams and you\u2019re aged 18 or younger, you can also call Childline for free on 0800 1111 or\u202fchat online\u202fto get support.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ofqual has also created this practical guide for students on coping with exam pressure which offers advice and support on coping with exam anxiety and stress.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/08/when-is-results-day-2024-gcses-a-levels-t-levels-and-vtqs/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "In August, pupils in England will find out their results for GCSEs, A levels, T Levels and VTQ (vocational technical qualifications) exams.\u00a0 Ahead of results day, schools, colleges and assessment centres should contact pupils directly to tell them how and \u2026"
+    },
+    {
         "title": "Furthering collaboration on UK subsea infrastructure data",
         "authors": [
             "Rory Shepherdson"
