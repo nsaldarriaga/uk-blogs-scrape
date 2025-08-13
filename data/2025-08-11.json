@@ -1,5 +1,560 @@
 [
     {
+        "title": "Channel demersal NQS FMP explained: goals, benefits and updates",
+        "authors": [
+            "\u200b\u200bRegional Fisheries Groups team, Marine Management Organisation\u200b"
+        ],
+        "posted_on": "2025-08-13T16:00:09",
+        "categories": [
+            "- Defra led FMPs",
+            "Implementation"
+        ],
+        "content": [
+            {
+                "content": "In response to requests from the inshore fishing industry, raised through the Regional Fisheries Groups (RFGs), the Marine Management Organisation (MMO) has developed a set of infographics and short videos to help explain the goals and progress of the first five Fisheries Management Plans (FMPs), published in December 2023.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Spotlight on the Channel demersal non-quota species FMP\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Channel demersal non-quota species FMP, often referred to as the Channel demersal NQS FMP, is one of the first five plans and aims to ensure the long-term sustainability of demersal non-quota stocks in the Channel and the fishers who depend on them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are 19 species covered in this FMP including gurnards, pouting, brill, john dory, lemon sole, red mullet, turbot, smoothhound, lesser spotted dogfish, cuttlefish, squid and octopus.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s happening now?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019re committed to transparency and keeping our stakeholders informed as the FMPs are implemented. To support this, we have created an infographic which outlines current actions, achievements, and next steps.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It will be updated regularly and shared across:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Goals of the Channel NQS FMP\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We have also created an infographic and video to show the FMP goals and why they will help.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learn about the goals of the FMP and why they were chosen:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Watch a short video designed for the fishing sector which gives a summary of the goals:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stay connected\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Whether you're actively involved or simply want to stay informed, we encourage you to explore the resources, share your feedback, and subscribe to this blog for updates. For queries relating directly to the Channel demersal NQS FMP, contact FMPs@defra.gov.uk\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you fish commercially or recreationally within the 12 nautical mile limit and would like to receive regular updates from the RFGs, including news on FMPs and inshore fisheries, email us at regionalfisheriesgroups@marinemanagement.org.uk to join the mailing list.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/08/13/channel-demersal-nqs-fmp-explained-goals-benefits-and-updates/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Learn about the Channel demersal NQS FMP, its goals, and latest updates through new infographics and video from the MMO and RFGs."
+    },
+    {
+        "title": "Secure by Design: Two Years of Building a More Resilient MOD",
+        "authors": [
+            "E. Fairford"
+        ],
+        "posted_on": "2025-08-13T13:49:31",
+        "categories": [
+            "Cyber",
+            "Cyber Confidence",
+            "Cyber Defence",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Two years ago, the Ministry of Defence (MoD) launched its Secure by Design initiative, a fundamental shift in how we approach cybersecurity. Since then, significant progress has been made in embedding this approach across our capabilities. However, the evolving threat landscape demands continued vigilance and adaptation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Addressing the Cyber Threat",
+                "tag": "p"
+            },
+            {
+                "content": "In today's interconnected world, the battle for national security extends beyond land, sea, air, and space to encompass a fifth, critical domain: cyberspace. The MoD, custodian of highly sensitive data and advanced technologies, faces a constant barrage of sophisticated cyberattacks. This reality is underscored by the Strategic Defence Review's (SDR) recognition of cyberspace as the enabling domain, integrating all others yet uniquely contested by adversaries daily. These attacks pose significant risks, from the theft of strategic advantage to economic disruption and the erosion of public trust.",
+                "tag": "p"
+            },
+            {
+                "content": "Secure by Design: A Necessity",
+                "tag": "p"
+            },
+            {
+                "content": "In this high-stakes digital battleground, the MoD can't afford a reactive approach to cybersecurity. We need to be proactive, building security into our capabilities right from the start. That's what Secure by Design does \u2013 it's not just a good idea, it's mission-critical. Think of building a fortress where the strength of each brick, the placement of every wall, is meticulously chosen to provide the optimal level of security. That\u2019s the essence of Secure by Design \u2013 it's about making conscious choices at every stage of development for a more resilient outcome.",
+                "tag": "p"
+            },
+            {
+                "content": "This ensures our defence systems remain operational and effective even under cyberattack. It is about maintaining a decisive advantage against those who seek to undermine our national security.",
+                "tag": "p"
+            },
+            {
+                "content": "However, this is not just about technology; it's about trust. By embedding security at the core, we build confidence with our allies and the nation, demonstrating our unwavering commitment to a safe and secure digital landscape.",
+                "tag": "p"
+            },
+            {
+                "content": "How We're Making Secure by Design a Reality",
+                "tag": "p"
+            },
+            {
+                "content": "To meet this challenge, the MoD's implementation of Secure by Design has involved a fundamental shift in approach.",
+                "tag": "p"
+            },
+            {
+                "content": "Firstly, we're fostering a culture where everyone takes responsibility for cybersecurity. Security is no longer a separate function but an integral part of every project. Our teams across the organisations, including within delivery, security, and commercials teams are working together, prioritising security from the very beginning of a capability. It's like developing a missile defence system, you wouldn't add the targeting system when missiles are incoming. Cybersecurity is a fundamental component, not an afterthought.",
+                "tag": "p"
+            },
+            {
+                "content": "Secondly, we have moved beyond a checklist mentality, adopting a collaborative model where our expert team are acting as trusted advisors to guide capabilities throughout their lifecycle. This partnership aims to empower our teams to innovate without compromising security.",
+                "tag": "p"
+            },
+            {
+                "content": "We have also evolved the\u00a0Secure by Design Guidance, a comprehensive resource available to everyone, both within the Ministry of Defence and our industry partners. This ensures consistent application of best practices.",
+                "tag": "p"
+            },
+            {
+                "content": "A Collaborative Endeavour",
+                "tag": "p"
+            },
+            {
+                "content": "The success of Secure by Design depends on a collective effort. We urge all industry partners to embrace this approach, actively collaborating with MoD delivery teams, consulting the Secure by Design Guidance, and integrating security into their core processes. By working together, we can significantly strengthen our national cyber defences and safeguard the UK's future.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defencedigital.blog.gov.uk/2025/08/13/secure-by-design-two-years-of-building-a-more-resilient-mod/",
+        "blog": "Defence Digital",
+        "blog_link": "https://defencedigital.blog.gov.uk",
+        "description": "Two years ago, the Ministry of Defence (MoD) launched its Secure by Design initiative, a fundamental shift in how we approach cybersecurity. Since then, significant progress has been made in embedding this approach across our capabilities. However, the evolving threat \u2026"
+    },
+    {
+        "title": "The enquiries team \u2013 the human face of the Royal Courts of Justice",
+        "authors": [
+            "Stephen Clarke, Enquiry Desk Clerk, Royal Courts of Justice"
+        ],
+        "posted_on": "2025-08-13T12:03:34",
+        "categories": [
+            "General",
+            "User experience and research",
+            "Working at HMCTS"
+        ],
+        "content": [
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "When you walk through the doors of the Royal Courts of Justice (RCJ) in London, you might feel a bit overwhelmed. The Victorian Gothic architecture, the hustle and bustle of legal professionals in their robes, and the sheer size of the building can be daunting.",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you\u2019re a seasoned barrister, a judge or a member of the public attending your first court hearing, we\u2019re the first people you\u2019re likely to meet. Between us we\u2019re the unofficial welcomers, problem-solvers, and guides to one of our best-known court buildings.",
+                "tag": "p"
+            },
+            {
+                "content": "More than just directions",
+                "tag": "h2"
+            },
+            {
+                "content": "Despite its grand appearance, the RCJ is a working court at the heart of the justice system. Each day justice is delivered across up to 96 courtrooms and a number of hearing rooms, where complex civil cases are heard and judges preside over matters ranging from commercial disputes to public law challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "Our day starts at 8:15am when we prepare court lists for the day. Once the building opens to the public, we\u2019re non-stop, dealing with enquiries from court users in person and on the phone, until closing time.",
+                "tag": "p"
+            },
+            {
+                "content": "We try to direct people to get their problems resolved as quickly as possible. Often, they\u2019re going through complex and stressful situations and we\u2019re the first people they meet. We don\u2019t just see ourselves as intermediaries between court users and the departments they\u2019re contacting - we\u2019re the human face of the RCJ and HMCTS for the people that need us.",
+                "tag": "p"
+            },
+            {
+                "content": "Ensuring everyone can access justice",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the most important parts of our job is helping people who need extra support. We\u2019re proud of our role in ensuring everyone has equal access to our services. We have a team of Disability Contact Officers (including Steven) who are specially trained to assist with disability-related queries and requests from our visitors. Disability Contact Officers help to coordinate reasonable adjustments for disabled court users, advise on accessibility, and help to ensure we meet our obligations under the Equality Act 2010.",
+                "tag": "p"
+            },
+            {
+                "content": "Recently a lady visited the RCJ who was partially blind. She was running late for her appointment with the Support Through Court charity. Understandably, she felt flustered, so we escorted her to her appointment, and offered to help her leave the building safely when she was ready. Things like that are important to people when they\u2019re in an unfamiliar environment.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re also here to help people with hidden disabilities. A positive change in recent years is the introduction of the Hidden Disabilities Sunflower lanyard, which helps us identify and offer help to people who have hidden disabilities. Hidden disabilities can range from chronic illnesses to sensory and processing difficulties, so we listen carefully to what each person needs. We\u2019re proud to have pioneered this at the RCJ and it\u2019s now been adopted by all our buildings.",
+                "tag": "p"
+            },
+            {
+                "content": "The changing face of justice",
+                "tag": "h2"
+            },
+            {
+                "content": "We have 30 years of service between us and we\u2019ve seen many changes over the years. Technology has transformed how the courts operate, with many processes now digital rather than paper based. Years ago, we\u2019d see ushers carrying three sets of books into courtrooms for hearings. Now the information they need is on their laptops, which is much more efficient.",
+                "tag": "p"
+            },
+            {
+                "content": "Despite these technological advances, the human touch is still essential and our role on the front-line is even more important. Every day is different whether we\u2019re helping a nervous person find their hearing, guiding a visitor with mobility issues through the building, or simply providing reassurance in an intimidating environment. We\u2019re always ready to help and make a positive difference.",
+                "tag": "p"
+            },
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Y t\u00eem ymholiadau - wyneb ddynol y Llysoedd Barn Brenhinol",
+                "tag": "h2"
+            },
+            {
+                "content": "Pan fyddwch yn cerdded drwy ddrysau\u2019r Llysoedd Barn Brenhinol (RCJ) yn Llundain, efallai y byddwch yn cael eich llethu. Mae pensaern\u00efaeth Gothig Fictoraidd, prysurdeb y proffesiwn cyfreithiol yn eu gynau, a maint yr adeilad yn gallu bod yn frawychus.",
+                "tag": "p"
+            },
+            {
+                "content": "Pa un a ydych yn fargyfreithiwr profiadol, yn farnwr neu\u2019n aelod o\u2019r cyhoedd yn mynychu eich gwrandawiad cyntaf yn y llys, ni yw\u2019r bobl gyntaf yr ydych yn debyg o gwrdd \u00e2 nhw.\u00a0\u00a0 Rhyngom, ni yw\u2019r croesawyr answyddogol, datryswyr problemau a thywyswyr i un o\u2019n hadeiladau llys mwyaf adnabyddus.",
+                "tag": "p"
+            },
+            {
+                "content": "Mwy na chyfarwyddiadau yn unig",
+                "tag": "h2"
+            },
+            {
+                "content": "Er gwaethaf ei ymddangosiad mawreddog, mae\u2019r RCJ yn lys gweithredol sy\u2019n ganolog i\u2019r system gyfiawnder. Pob dydd, caiff cyfiawnder ei gyflawni ar draws hyd at 96 o lysoedd a nifer o ystafelloedd gwrandawiadau, ble gwrandewir ar achosion sifil cymhleth a barnwyr yn llywyddu dros faterion yn amrywio o ddadleuon masnachol i heriau cyfraith gyhoeddus.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae ein diwrnod yn dechrau am 8:15am pan fyddwn yn paratoi ein rhestrau llys am y diwrnod. Unwaith mae\u2019r adeilad yn agor i\u2019r cyhoedd, rydym yn brysur yn delio gydag ymholiadau gan ddefnyddwyr y llys yn bersonol a dros y ff\u00f4n, tan amser cau.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym yn ceisio cyfeirio pobl i gael datrys eu problemau gynted \u00e2 phosibl. Yn aml, byddant yn mynd drwy sefyllfaoedd cymhleth a llawn straen a ni yw\u2019r bobl gyntaf maent yn cwrdd \u00e2 nhw. Nid ydym yn ystyried ein hunain fel cyfryngwyr rhwng defnyddwyr llys a\u2019r adrannau maent yn cysylltu \u00e2 nhw yn unig - ni yw wyneb ddynol yr RCJ a GLlTEF i bobl sydd ein hangen ni.",
+                "tag": "p"
+            },
+            {
+                "content": "Sicrhau y gall pawb gael mynediad at gyfiawnder",
+                "tag": "h2"
+            },
+            {
+                "content": "Un o rannau pwysicaf ein swydd yw helpu pobl sydd angen cefnogaeth ychwanegol. Rydym yn falch o\u2019n r\u00f4l i sicrhau bod gan bawb fynediad i\u2019n gwasanaethau. Mae gennym d\u00eem o Swyddogion Cyswllt Anabledd (gan gynnwys Steven) a hyfforddwyd yn arbennig i gynorthwyo gydag ymholiadau cysylltiedig ag anabledd a cheisiadau gan ein hymwelwyr.\u00a0 Mae Swyddogion Cyswllt Anabledd yn helpu i gydlynu addasiadau rhesymol ar gyfer defnyddwyr llys anabl, cynghori ar hygyrchedd a helpu i sicrhau ein bod yn cwrdd \u00e2\u2019n rhwymedigaethau o dan y Ddeddf Cydraddoldeb 2010.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn ddiweddar, ymwelodd gwraig oedd yn rhannol ddall \u00e2\u2019r RCJ. Roedd yn rhedeg yn hwyr ar gyfer ei hapwyntiad gyda\u2019r elusen Support Through Court.\u00a0 Yn naturiol, roedd yn teimlo\u2019n ddryslyd, felly gwnaethom ei thywys i\u2019w hapwyntiad, a chynnig ei helpu i adael yr adeilad yn ddiogel pan oedd yn barod. Mae pethau felly yn bwysig i bobl pan fyddant mewn amgylchedd anghyfarwydd.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym hefyd yma i helpu pobl gydag anableddau cudd. Newid cadarnhaol mewn blynyddoedd diweddar yw cyflwyno\u2019r cortyn gwddf Blodyn Haul Anableddau Cudd, sy\u2019n ein helpu i nodi a chynnig cymorth i bobl ag anableddau cudd. Gall anableddau cudd amrywio o salwch cronig i anawsterau prosesu a synhwyraidd, felly rydym yn gwrando\u2019n ofalus ar beth mae pob unigolyn ei angen. Rydym yn falch o fod wedi arloesi hyn yn yr RCJ, a bellach mae wedi\u2019i fabwysiadu gan bob un o\u2019n hadeiladau.",
+                "tag": "p"
+            },
+            {
+                "content": "Trawsnewid amlwg cyfiawnder ",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae gennym 30 mlynedd o wasanaeth rhyngom ac rydym wedi gweld llawer o newidiadau dros y blynyddoedd. Mae technoleg wedi trawsnewid sut mae\u2019r llysoedd yn gweithredu, gyda nifer o brosesau bellach yn ddigidol yn hytrach nag ar bapur.\u00a0 Flynyddoedd yn \u00f4l, byddem yn gweld tywyswyr yn cario tri set o lyfrau i\u2019r llysoedd ar gyfer gwrandawiadau. Bellach, mae\u2019r wybodaeth maent ei hangen ar eu gliniaduron, sy\u2019n llawer mwy effeithlon.",
+                "tag": "p"
+            },
+            {
+                "content": "Er gwaethaf y datblygiadau technolegol hyn, mae\u2019r cyswllt dynol yn dal yn hanfodol ac mae ein r\u00f4l ar y rheng flaen hyd yn oed yn bwysicach. Mae pob diwrnod yn wahanol, pa un a ydym yn helpu rhywun nerfus i ddod o hyd i\u2019w gwrandawiad, yn arwain ymwelydd gyda phroblemau symudedd drwy\u2019r adeilad, neu\u2019n syml, yn rhoi sicrwydd mewn amgylchedd brawychus.\u00a0 Rydym bob amser yn barod i helpu a gwneud gwahaniaeth cadarnhaol.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2025/08/13/the-enquiries-team-the-human-face-of-the-royal-courts-of-justice/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "Steven Sanders and Stephen Clarke share what it\u2019s like to support and guide visitors at one of our most iconic buildings, the Royal Courts of Justice, where every day brings a chance to make a difference."
+    },
+    {
+        "title": "Skills England: Better skills for better jobs\u00a0",
+        "authors": [
+            "Communications Team"
+        ],
+        "posted_on": "2025-08-13T11:04:14",
+        "categories": [
+            "News and announcements",
+            "Strategy"
+        ],
+        "content": [
+            {
+                "content": "Skills England is creating better skills for better jobs. Our vision is to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In our first blog, Phil Smith CBE, Skills England Chair, explains what's been happening over the last few weeks, expands on the Skills England vision and what this means for our work to drive economic growth and enable opportunity for all.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the last month I've had the opportunity to talk at many events and meet lots of extremely engaged and committed people and organisations and there is overwhelming interest in what Skills England is going to do in the skills space and how this will be done and also a re-assuring groundswell of support. Let me highlight a few areas.",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding our nation\u2019s skills needs and improving our skills offer\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Improving skills across the nation, as you will understand, is a huge task. To make sure we have maximum impact and to attempt to address the right areas, our starting point will be to identify skills gaps which are holding back growth and opportunity.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Currently, a third of job vacancies are driven by skills shortages. Employer investment in training per employee fell by a fifth from 2011 to 2022. Meanwhile, by 2035 we expect 1.4 million new jobs to be created, with potentially very different skills requirements, driven by technological change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Addressing the reasons behind the decline in employer investment is complex, and multi-faceted but important that we understand much better. For example, as the shortages in the UK economy have grown, the pressure to recruit from abroad has increased, even where there is capacity and capability to train at home. Skills England will work with employers, providers and regions amongst others help understand the reasons for and reverse that trend. We will support employers to equip their domestic workforce with the skills they need for now and in the future. Working alongside the\u00a0Plan for Change\u00a0and\u00a0Industrial Strategy, we will work to unify the currently fragmented skills landscape to help drive economic growth across all regions and access to high quality skilled jobs.",
+                "tag": "p"
+            },
+            {
+                "content": "Simplifying access to skills\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The skills system is complex and particularly challenging, although not exclusively, for individual learners trying to improve their access to high quality jobs as well as small business owners. Apprenticeships and technical education have a powerful and well relevant part to play in providing opportunities for school leavers and career changers and existing workers, but their uptake and acceptance needs to be radically improved if we they are going to play the role they could have in the future of our skills system.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As part of this, we will make sure education and training pathways are clear. This will help both young people starting out in their careers, and adults who need to reskill. This means examining the existing pathways, removing duplication, and clarifying how people can enter and progress in high demand occupations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building on the occupational maps and the range of apprenticeships, T Levels, HTQs and other qualifications, Skills England will identify where training and qualifications need to be optimised to reduce skills gaps, support economic growth and help people build productive careers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Co-creating solutions to local, regional and national skills needs with partners and employers\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Collaboration must be at the heart of how we work to reshape the skills landscape. We want to co-design and co-creation of new approaches with industry and regional partners. This means on-going collaboration and dialogue, rather than occasional engagement with stakeholders in central and local government, businesses, employers, training providers, further and higher education, unions and representative bodies.\u00a0It is vital that this is a productive and solution-oriented dialogue and we need all the help we can get from sectors, regions, employers, providers and others to coordinate this for agility and impact. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The necessity to create a world-class, highly skilled workforce is critical and we are committed with your help to shape our system, which already had tremendous strengths to be the very best it can be.",
+                "tag": "p"
+            },
+            {
+                "content": "Phil Smith",
+                "tag": "p"
+            },
+            {
+                "content": "Skills England Board Chair",
+                "tag": "p"
+            },
+            {
+                "content": "Follow our progress\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "You can follow us through a number of channels:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://skillsengland.blog.gov.uk/2025/08/13/skills-england-better-skills-for-better-jobs/",
+        "blog": "Skills England",
+        "blog_link": "https://skillsengland.blog.gov.uk",
+        "description": "Skills England is creating better skills for better jobs. Our vision is to:\u00a0 In our first blog, Phil Smith CBE, Skills England Chair, explains what's been happening over the last few weeks, expands on the Skills England vision and what \u2026"
+    },
+    {
+        "title": "Our experience on a cyber threat intelligence placement",
+        "authors": [
+            "Chloe Rowe"
+        ],
+        "posted_on": "2025-08-13T10:48:22",
+        "categories": [
+            "How we work",
+            "People and recruitment",
+            "Skills and development"
+        ],
+        "content": [
+            {
+                "content": "Our journey at ICS as Cyber Threat Intelligence Analysts began in June 2024 where we joined as two placement students from Sheffield Hallam University studying cyber security. ",
+                "tag": "p"
+            },
+            {
+                "content": "This is the first proper job within the cyber security sphere for both of us and it has already met and exceeded our expectations. ",
+                "tag": "p"
+            },
+            {
+                "content": "First impressions and initial challenges\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Transitioning from being university students to working full time in cyber with ICS was certainly something we both looked forward to since getting our offers. ",
+                "tag": "p"
+            },
+            {
+                "content": "We have been surrounded by a fantastic team who have encouraged us and have been consistently supportive since we have joined. This made for a smooth transition and helped take away that overwhelming aspect.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Skills acquired\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "One aspect to our placement that we have particularly enjoyed is that we have not been assigned to one direct role, we have had the flexibility to emerge ourselves in various aspects of cyber security that ICS provide. ",
+                "tag": "p"
+            },
+            {
+                "content": "This includes threat intelligence research, rule creation and alert investigation in our SOC, indulging in Red Team Activity and much more.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are gaining experience of an array of industry-specific tooling, most of which neither of us had used before. As well as learning on the job, we have been able to consolidate and showcase our new skills by taking on two professional certifications related to cyber. This wouldn\u2019t have been possible without the opportunity to work at ICS.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Key experiences\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As well as being integrated within the cyber team, we have also worked alongside the wider ICS community. We have had the opportunity to present our recent work to colleagues at an Architecture meet up which was a new and exciting experience for us.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have also had the opportunity to attend conferences associated with our work. These conferences have provided us with a wider view of cyber as well as allowing us to engage with the wider cyber community.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have worked together to develop the threat matrix which has enabled us to conduct our threat research and analyse our red team testing in a simple and structured format, this is one of our projects that we have been particularly proud of.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Personal growth\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We have also noticed a strong personal development. Working as threat analysts has helped us develop the understanding of being aware 24/7 and the necessity of maintaining focus when working, something that can be easily forgotten about at university. ",
+                "tag": "p"
+            },
+            {
+                "content": "We feel our time at ICS has helped us with public speaking and being able to communicate with colleagues.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside all the technical skills we have learned, we have also had the freedom and opportunity to display and improve our soft skills. Skills that enable us to communicate and interact with our colleagues and the wider community, these skills have been imperative in our development here at ICS.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These things, alongside working with some amazing, caring and knowledgeable people, have enabled us to maximise our experience so far with ICS.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://icsdigital.blog.gov.uk/2025/08/13/our-experience-on-a-cyber-threat-intelligence-placement/",
+        "blog": "ICS Digital",
+        "blog_link": "https://icsdigital.blog.gov.uk",
+        "description": "Find out what two of our Cyber Threat Intelligence Analysts thought about their placement with ICS Digital."
+    },
+    {
+        "title": "The Species Recovery Programme Capital Grant Scheme \u2013 a Natural England partnership success story",
+        "authors": [
+            "James Phillips"
+        ],
+        "posted_on": "2025-08-13T08:20:39",
+        "categories": [
+            "Biodiversity",
+            "Natural Capital",
+            "Natural England",
+            "Nature",
+            "Nature Recovery",
+            "Species recovery",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By James Phillips - Principal Officer \u2013 Species Recovery and Species Re-introductions and Karen Shelley-Jones - Senior Officer \u2013 Funding and Grant Scheme Management",
+                "tag": "p"
+            },
+            {
+                "content": "England\u2019s species charm, intrigue, amaze and inspire us, sparking interest and concern in the natural world.\u00a0 They have deep cultural resonance featuring in music, poetry and folklore. However, many of our native species are struggling.\u00a0 Evidence shows that some 12% of our species are at risk of extinction in England and in the six years from 2012 to 2018, the average abundance of species declined approximately 3% per year.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England\u2019s Species Recovery Programme (SRP) supports targeted action for England\u2019s most vulnerable species. The Government\u2019s Environment Act targets for species created renewed focus and Natural England developed a Capital Grant Scheme designed to support a wide range of new projects through grants of up to half a million pounds.",
+                "tag": "p"
+            },
+            {
+                "content": "Two Years of Action, A Future for Wildlife",
+                "tag": "p"
+            },
+            {
+                "content": "We are now celebrating two years since Natural England announced the grants awarded by the Species Recovery Programme Capital Grant Scheme in September 2023. It has been an exciting period of delivery. Natural England has worked with and helped fund 63 projects involving 78 different partners across England, from the Lizard Peninsula in Cornwall to Cumbria and Northumberland.",
+                "tag": "p"
+            },
+            {
+                "content": "The Grant Scheme provided \u00a312.8 million of funding, which generated \u00a35.4 million of match funding by our partners, and a strong volunteer element, valued at \u00a31.2 million.",
+                "tag": "p"
+            },
+            {
+                "content": "The range of activity and work completed to help our most threatened species is impressive. From research into the reasons for decline, testing recovery solutions, propagation of seeds, and conservation translocations, to direct bespoke habitat enhancement and creation on the ground, all these efforts deliver the key elements needed to drive species recovery. In 18 months, the Grant Scheme has created and enhanced of over 2,400ha of wildlife-rich habitats including over 260 hectares of flower-rich grassland meadows, 405 hectares of floodplain grasslands and 354 hectares of broadleaved and wet woodland enhanced. With 50 hectares of lowland and upland heathland, 100 hectares of wetlands, 13 hectares of lowland fen and 215 wildlife ponds created or restored.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "150 species across a variety of taxonomic groups have directly benefitted from the targeted actions of these partnership projects, including amazing species such as the crystal moss animal, large marsh grasshopper, greater horseshoe bat, black grouse, willow tit, Eurasian curlew, wood white butterfly, Duke of Burgundy butterfly, large Atlantic pocket-moss, hazel dormouse, Lizard crystalwort, Atlantic salmon and northern pool frog.",
+                "tag": "p"
+            },
+            {
+                "content": "Highlights for our most threatened species have included:",
+                "tag": "p"
+            },
+            {
+                "content": "Powered by People, Benefiting People",
+                "tag": "p"
+            },
+            {
+                "content": "People are central to making all of this happen. Through the Grant Scheme we have directly funded over 60 full time equivalent staff into new and existing conservation roles. Volunteering plays a key role in delivering nature conservation with people\u2019s passion for wildlife helping to make the difference. The Grant Scheme has helped over 4,000 people get more involved as volunteers in species recovery and 100,000 hours of volunteer time has been recorded, showing the importance of volunteers and citizen science.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Steve, a volunteer with the \u2018White Cliffs and White Chalk\u2019 National Trust project, said \u201cIt's been a real delight to meet and benefit from the knowledge of the professionals involved with the project, who have been so generous in sharing their knowledge. This and a feeling of real engagement with an amazing natural environment has been a huge psychological boost for me, especially after the isolation of COVID and only recently moving to the area. This has been, and continues to be, a great way to gain a better understanding of local ecology and to improve my understanding of the protected areas and species at risk.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Partners have helped people engage more with nature by holding 465 public facing and educational events and activities, attended by over 80,000 members of the public from school children to contractors.",
+                "tag": "p"
+            },
+            {
+                "content": "What Next?",
+                "tag": "p"
+            },
+            {
+                "content": "While we celebrate these achievements, there is still much to do. Many once common species continue to decline at an alarming rate.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England has evaluated the Grant Scheme, reviewed the feedback from partners and considered the latest species population assessments. This has helped us refine how we target and prioritise the Species Recovery Programme and how we streamline it for partners.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England will shortly be making an announcement about future plans. We look forward to working with, and expanding the range of partners involved in the Species Recovery Programme and are excited to see what successes we will be celebrating in 2030.",
+                "tag": "p"
+            },
+            {
+                "content": "To stay up to date with developments please email SRP@naturalengland.org.uk to be added to our mailing list.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/08/13/the-species-recovery-programme-capital-grant-scheme-a-natural-england-partnership-success-story/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By James Phillips - Principal Officer \u2013 Species Recovery and Species Re-introductions and Karen Shelley-Jones - Senior Officer \u2013 Funding and Grant Scheme Management England\u2019s species charm, intrigue, amaze and inspire us, sparking interest and concern in the natural world.\u00a0 \u2026"
+    },
+    {
         "title": "Your A level results are in \u2013 now what? Exploring apprenticeships as your next step\u00a0",
         "authors": [
             "mediaofficer"
