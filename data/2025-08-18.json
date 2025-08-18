@@ -1,0 +1,576 @@
+[
+    {
+        "title": "How can GenerativeAI help UKEF staff work more efficiently day-to-day?\u00a0\u00a0",
+        "authors": [
+            "Mike Green"
+        ],
+        "posted_on": "2025-08-18T15:42:13",
+        "categories": [
+            "AI",
+            "User Centred Design",
+            "user research"
+        ],
+        "content": [
+            {
+                "content": "Since May 2025, UK Export Finance (UKEF) has been trialling 30 Microsoft 365 Copilot licences, distributed across a range of staff. These participants have been trying out the AI product in their day-to-day work and recording their experiences.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What did we want to learn?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Our goal was to understand trial participants\u2019 experience of using M365 Copilot for two months in their day-to-day work, including:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All the data and findings we gathered would be used to help inform a decision on purchasing more M365 Copilot licences in the future and exploring AI\u2019s potential more broadly across UKEF. We also wanted to learn more about the potential training needs of UKEF users for this new technology.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Methodology:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We used a mixed-methods approach, including two surveys (an initial single-entry survey and a repeated behavioural survey), in-depth interviews over Teams, and three short research tasks: a card-sorting activity, a Copilot meta-analysis task using a prompt we sent participants, and a dot voting activity. This allowed us to combine quantitative data with qualitative insights.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participant engagement with our research was generally high throughout the trial:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participants:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The 30 staff were self-selecting and came from all areas of the organisation, including DDaT, Project Management Office, Business Group, Private Office, HR, IT Security and Learning & Development. A number of participants were also members of our Disability, Carers and Neurodiversity Network (D-CAN).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As an aside, a revealing insight about the limitations of GenAI is demonstrated by the image above. Copilot was prompted multiple times to \u201cCreate a small image of 30 human beings. Do this as colourful genderless icons in a form that I could use as an image in a slidedeck\u201d. However, it appeared incapable of doing this correctly. On each occasion it produced a grid with only 24 or 25 icons, even when reprompted to correct itself. GenAI\u2019s sporadic inability to count or spell correctly is well-documented: Why Can't AI Count the Number of \"R\"s in the Word \"Strawberry\"? | HackerNoon\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What did we learn?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "*N.B. Much of the above summary was drafted by Copilot itself, based on the qualitative and quantitative research insights gathered during this trial. As \u2018humans in the loop\u2019, we nevertheless maintain that it represents an accurate reflection of what we\u2019ve learned.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The outcome of the card sorting activity underscores this generally positive view of Copilot by those who took part in our trial.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also asked participants to rate themselves in terms of the way they use Copilot. More participants rated themselves as being independent users of Copilot than requiring support. A roughly equal proportion rated their usage of Copilot as exploratory as did those who were more task-focussed in their approach to using Copilot.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One insight in particular stood out. We had not anticipated how strongly neurodiverse trial participants would appear to benefit from Copilot. We heard from a number of such trial participants how beneficial Copilot was in allowing them to overcome \u2018blank-page syndrome\u2019 and get started with work tasks. One of them even described the tool as a \u2018gamechanger\u2019 for their work. This is encouraging and echoes the findings of similar research into Copilot that has been carried out elsewhere.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does all this mean for UKEF?\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The trial has proved extremely beneficial in helping us better understand the potential benefits and limitations of Copilot for UKEF staff at this stage.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our research has shown that Copilot has real potential to enhance how we work at UKEF \u2013 but like any tool, its success depends on how well it\u2019s understood, supported, and integrated into our daily routines, something which we are now working to develop.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Based on this trial, we are therefore recommending that UKEF continues to:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukefdigital.blog.gov.uk/2025/08/18/how-can-generativeai-help-ukef-staff-work-more-efficiently-day-to-day/",
+        "blog": "UK Export Finance Digital, Data and Technology blog",
+        "blog_link": "https://ukefdigital.blog.gov.uk",
+        "description": "Since May 2025, UK Export Finance (UKEF) has been trialling 30 Microsoft 365 Copilot licences, distributed across a range of staff. These participants have been trying out the AI product in their day-to-day work and recording their experiences.\u00a0"
+    },
+    {
+        "title": "Transforming Rapid Evidence Assessments with Artificial Intelligence",
+        "authors": [
+            "Alex Lamond, Senior Product Manager"
+        ],
+        "posted_on": "2025-08-18T13:48:08",
+        "categories": [
+            "Products"
+        ],
+        "content": [
+            {
+                "content": "Rapid Evidence Assessments (REAs) are a vital part of decision making in government. They help us validate what we already know and what research is missing on a particular topic. However, DBT found that writing REAs is often resource intensive, costly and time-consuming. This causes delays in policy work and can make it harder to respond quickly to new questions.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge with traditional REAs",
+                "tag": "h2"
+            },
+            {
+                "content": "The main steps in creating an REA include:",
+                "tag": "p"
+            },
+            {
+                "content": "These steps are time-consuming and need specialist skills, so policy teams often can't keep up with demand.",
+                "tag": "p"
+            },
+            {
+                "content": "How artificial intelligence is making a difference",
+                "tag": "h2"
+            },
+            {
+                "content": "We explored how we could use new tools to speed up the process and improve quality. Our efforts centred on the early research phase, which is typically the most time-consuming and offers the greatest potential for efficiency gains. We developed a prototype application capable of searching vast research databases such as OpenAlex.",
+                "tag": "p"
+            },
+            {
+                "content": "The app uses advanced technology, including Large Language Models (LLMs) to suggest relevant themes, propose a structure for the REA and recommend which academic papers merit closer attention. Users interact with the system by entering a research question and selecting options like date range or whether they prefer open-access sources. The AI identifies and retrieves the most appropriate academic papers. It then provides users with a downloadable table of links and key details to enable the next steps in evidence assessment.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens in the background",
+                "tag": "h2"
+            },
+            {
+                "content": "The prototype operates behind the scenes by searching for research papers that match the entered research question and its generated themes. It refines the results by filtering out any papers that lack an abstract or title and eliminates duplicate entries to streamline the process. Ultimately, it delivers a clear, easy-to-read table that highlights the most relevant research papers for the topic. This entire prototype is hosted on Amazon Web Services (AWS).",
+                "tag": "p"
+            },
+            {
+                "content": "User feedback and future plans",
+                "tag": "h2"
+            },
+            {
+                "content": "The prototype is currently being tested by selected users in DBT\u2019s Central Analysis Team. The initial feedback has been extremely positive.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe tool significantly lowers the barrier to running REAs and provides a solid evidence base within minutes.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Moreover, users were:",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0\u201cvery impressed with the tools ability to drag out the key themes from the question and felt its short summary of what an REA on that subject would look like was always comprehensive and knowledgeable.\u201d ",
+                "tag": "p"
+            },
+            {
+                "content": "Their feedback will help us decide how to improve the app and whether to roll it out more widely across the department. The aim is to make rapid evidence assessments more accessible for teams, supporting the development of policies informed by the most reliable available evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "What this means for you",
+                "tag": "h2"
+            },
+            {
+                "content": "The delivery of this project marks an important step in using technology to improve public sector work.",
+                "tag": "p"
+            },
+            {
+                "content": "If you work in research, policy or digital roles, this project may interest you if you:",
+                "tag": "p"
+            },
+            {
+                "content": "Summary",
+                "tag": "h2"
+            },
+            {
+                "content": "DBT has transformed how we produce Rapid Evidence Assessments. By combining user-friendly digital tools and artificial intelligence, we are helping policy makers and analysts access the evidence they need faster and more efficiently. This work is paving the way for a smarter, more responsive government and we hope it inspires others to join us on this journey.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2025/08/18/transforming-rapid-evidence-assessments-with-artificial-intelligence/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "How the Department for Business and Trade (DBT) is improving evidence reviews."
+    },
+    {
+        "title": "From Fish to Rare Crayfish: England\u2019s Drought Wildlife Rescue Operations\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-08-18T13:43:50",
+        "categories": [
+            "Drought"
+        ],
+        "content": [
+            {
+                "content": "Fisheries teams across England respond as drought and prolonged dry weather puts aquatic life at risk.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "England\u2019s driest start to the year since 1976 is severely impacting waterways. While Environment Agency fisheries officers work with partners to help fisheries prepare for extreme conditions, teams have needed to step in with emergency rescues as rivers shrink and water temperatures soar. Fish are often the first casualties when conditions deteriorate, but they\u2019re not alone \u2013 birds, insects, and aquatic plants are all struggling as their habitats disappear.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This summer, EA teams have rescued fish from critical situations, including 1,500 fish relocated from a single brook near the River Lea, and 50 brown trout given new homes in deeper waters of the River Lambourn in Berkshire. In Yorkshire, teams have also rescued a critically endangered species, saving 32 native white-clawed crayfish, including 21 females carrying eggs, from dried-out riverbeds.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing for the worst\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Agency works year-round with angling clubs and fisheries to prepare for dry weather and drought conditions. This partnership approach, developed over the last decade with organisations like the Institute of Fisheries Management, focuses on better fishery design, management practices, and installing aeration equipment to prevent fish losses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These efforts have helped minimise the impacts of this year\u2019s drought, particularly for stillwater fisheries which are most vulnerable to low oxygen levels. We have offered grants through our Angling Improvement Fund for fisheries to buy their own aeration equipment, and this has paid dividends for many of these waters. By working proactively with fishery operators, many potential rescues have been prevented before they become emergencies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When troubles multiply\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sometimes problems combine to create emergencies despite best preparations. At Eastnor Park Estate in Herefordshire, a pond leak became a critical emergency when drought conditions prevented natural recovery. The small stream that feeds the estate's four connected pools had completely dried up, and evaporation made the situation worse.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Fish became stranded in just 30 square metres of remaining water, with larger carp having their backs exposed and smaller fish showing clear signs of distress. Working with the estate and local fishing syndicate, EA officers carefully captured and relocated approximately 100kg of fish, including carp, roach and perch, to safer waters downstream.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe Environment Agency team\u2019s quick response made all the difference,\u201d said Shaun, a local angler. \u201cWe were delighted to help save these fish stocks that are so important to our fishery. It was a mucky job but absolutely worth it to protect the fish.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rescue kit essentials\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Environment Agency fisheries officers use specialist equipment during emergency operations. Using seine nets, dip nets, and oxygenated transport tanks, teams work quickly to capture and relocate distressed fish to a suitable habitat.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The operations require careful assessment; officers must ensure rescued fish are healthy enough to survive relocation and that receiving waters can support additional fish populations. This expertise proves crucial during emergencies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Saving endangered species\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rescues can reveal unexpected discoveries. At Burley in Wharfedale, Yorkshire, a member of the public reported crayfish in distress as their watercourse dried up. EA teams arrived to find shallow pools separated by stretches of dry riverbed, and discovered a previously unknown population of critically endangered native white-clawed crayfish.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The rescue saved 32 adults, including 21 \u2018berried\u2019 females carrying eggs. These native crayfish are the UK\u2019s only freshwater crayfish species and play a vital role keeping waterways clean.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Claire Barrow, the Environment Agency\u2019s drought lead in Yorkshire, said: \u201cFinding a previously unknown population of endangered white-clawed crayfish is great news, despite the challenging conditions. This shows how important it is for the public to report wildlife in distress \u2013 they become our eyes and ears during these difficult times.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How you can help\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Agency encourages all water users to remain alert during challenging conditions. Key signs include fish gasping at the water surface, unusual concentrations of fish in small areas, or any signs of fish in distress.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you spot fish or other aquatic wildlife in trouble, report it immediately to the Environment Agency's 24-hour incident hotline on 0800 80 70 60. Early reporting can mean the difference between a successful rescue and a significant environmental loss.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As challenging conditions continue, Environment Agency fisheries teams remain ready to respond, working with communities to protect out waterways and the wildlife that depends on them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about we\u2019re responding to the 2025 drought via our blogs and take a look at recent coverage from a fish rescue in Gloucestershire.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/08/18/from-fish-to-rare-crayfish-englands-drought-wildlife-rescue-operations/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Fisheries teams across England respond as drought and prolonged dry weather puts aquatic life at risk.\u00a0 England\u2019s driest start to the year since 1976 is severely impacting waterways. While Environment Agency fisheries officers work with partners to help fisheries prepare \u2026"
+    },
+    {
+        "title": "From fences to freedom: England\u2019s continuing beaver journey",
+        "authors": [
+            "Delphine Pouget"
+        ],
+        "posted_on": "2025-08-18T11:02:05",
+        "categories": [
+            "Licensing",
+            "Natural England",
+            "Nature",
+            "Nature-based solutions",
+            "Species re-introductions"
+        ],
+        "content": [
+            {
+                "content": "By Stuart Otway, Principal Officer in Natural England\u2019s Complex Cases Team and Delphine Pouget, Principal Officer in Natural England\u2019s Species Recovery & Reintroductions Team",
+                "tag": "p"
+            },
+            {
+                "content": "In February 2025 Defra published its landmark policy on the wild release and management of beavers in England. ",
+                "tag": "p"
+            },
+            {
+                "content": "Beavers are considered a keystone species because they help create and restore wetland habitats, boost biodiversity and reduce downstream flooding. Their reintroduction is an important step toward meeting the government's species abundance and extinction targets.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "This announcement enabled the first licensed beaver wild release at Purbeck in Dorset, and allowed us to invite further \u2018expressions of interest\u2019 (EoIs). As part of our national beaver reintroduction journey, we are also moving away from enclosures, so we can focus efforts on successful wild release projects, and the growing wild populations.",
+                "tag": "p"
+            },
+            {
+                "content": "High Interest in Wild Release\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "We received 39 EoIs for wild beaver release across England, including some for our largest river systems. The high volume of interest has meant a slightly longer review process, but we\u2019re nearing completion. The feedback we're providing is designed to help applicants improve their proposals and speed up the full application process.",
+                "tag": "p"
+            },
+            {
+                "content": "So far, we've invited eight to submit full applications.\u00a0 These projects are located in the south-west or south-east of England and include proposals from wildlife trusts, the National Trust, and a landscape recovery partnership.\u00a0 Cornwall Wildlife Trust has already submitted the first full application for the Fowey and Par catchments.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The majority of EoIs were considered \u2018potentially viable projects\u2019 and we offered detailed feedback to help them strengthen their proposals. A small number of EoIs were deemed unlikely to meet the criteria, mainly because they were too small in scale. We\u2019ve encouraged these applicants to form or join catchment-wide partnerships.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A Measured Approach to Reintroduction\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Natural England\u2019s and Defra\u2019s goal is to enable a measured pace of beaver reintroduction, prioritising well-planned and well-resourced projects where the benefits outweigh the risks. This gradual approach allows local communities and infrastructure time to adapt, building trust and ensuring that beavers become a permanent and valued part of the landscape.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will review our EoI process and invite new EoIs in 2026. In the meantime, we expect to make the first full application decisions this autumn, well before the next breeding season.",
+                "tag": "p"
+            },
+            {
+                "content": "Moving away from beaver enclosures\u00a0\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "We are now moving away from the use of beaver enclosures to focus on successful wild release projects and the growing wild beaver population. While enclosures have been invaluable for public education and gathering data on beavers, the ultimate goal is to see them thrive in their natural habitats.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our updated guidance for licensing new enclosures or renewing existing enclosures sets out clear criteria, such as the requirement for exceptional environmental benefits that cannot be achieved by other means. Projects must also have a strong design, community engagement, long-term monitoring, and a robust exit strategy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will continue to renew licences for existing enclosures that can demonstrate significant benefits and maintain high standards of welfare. This shift from enclosures to wild releases is a key step in helping beavers fulfil their role as ecosystem engineers in England's landscape.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/08/18/from-fences-to-freedom-englands-continuing-beaver-journey/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Stuart Otway, Principal Officer in Natural England\u2019s Complex Cases Team and Delphine Pouget, Principal Officer in Natural England\u2019s Species Recovery & Reintroductions Team In February 2025 Defra published its landmark policy on the wild release and management of beavers \u2026"
+    },
+    {
+        "title": "Understanding Elections user journeys: lessons from in-person mobile testing\u00a0",
+        "authors": [
+            "Matt Jefford, User Researcher"
+        ],
+        "posted_on": "2025-08-18T10:51:42",
+        "categories": [
+            "Elections"
+        ],
+        "content": [
+            {
+                "content": "Since the Covid-19 pandemic, user research in government has largely shifted online. This transition has brought notable benefits, for example in terms of convenience and flexibility, but it has significantly changed the nature of our interactions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For our team within Elections Digital, working on initiatives to improve voter registration, the virtual constraints pose specific challenges. Our goal is to assist the estimated 7-8 million UK citizens incorrectly registered to vote, or not registered at all, by making the process simple and accessible. In future, they may be invited to register when using other government digital services. Our statistics show that more than 80% of current users of the GOV.UK Register to Vote service do so on a mobile device. Yet our early usability testing was only conducted remotely, on desktops.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We realised that laptop testing restricted our understanding of the mobile-first experience of many citizens interacting with government services. Formatting, accessibility and interaction patterns are missed when viewed through desktop screen sharing. We agreed it was essential to undertake a round of mobile testing for the project.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The team initially considered remote mobile testing, where participants shared their phone screens via Microsoft Teams (MS Teams), but we discovered multiple issues:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We considered workarounds like tech checks and creating a guide to screen sharing, but ultimately decided the complexity outweighed the benefits. That left the option of in-person testing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Planning our first in-person usability testing \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This was the first time anyone in the Elections Directorate had proposed in-person usability testing, and it came with its own risks around logistics, liability and our duty of care to participants.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We explored hiring a usability lab \u2013 to access features like eye-tracking and one-way mirrors \u2013 but ultimately opted for MHCLG meeting rooms in Birmingham, which were free and adaptable to our needs. We worked with an external recruiter to enlist participants based on Electoral Commission research into groups least likely to be registered to vote. Recruitment was challenging due to our criteria and a tight 2-week timeline. We scheduled 6 back-to-back sessions on a single day, with alternating facilitators.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our designers created prototypes of the communications we would show participants and the service itself, so they could move through with minimal facilitator interference. We created a discussion guide with mobile-specific prompts and contingency plans for technical issues.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To reduce technical issues on the day, we decided to use a single personal phone with a proven ability to share to Teams. This allowed us to record sessions and let remote observers watch in real time. We used virtual observer rooms during each test to allow colleagues across the directorate to observe sessions in real time without disrupting the participant (see diagram below).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each session involved 2 separate MS Teams meetings: one for the facilitator and participant, and another for observers. A separate, remote facilitator managed both calls, sharing the live session into the observer room, while ensuring observers remained muted and off-camera to minimise distractions.",
+                "tag": "p"
+            },
+            {
+                "content": "What happened on testing day \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "On 3 July, we arrived in Birmingham armed with phones, chargers, extension cables and printed materials, ready for all eventualities. We also pre-downloaded the testing materials to laptops in case of wifi issues.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Despite a few hiccups with recruitment (always be prepared for late dropouts!) the day ran smoothly. Each session followed a carefully choreographed routine:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we learned\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In-person testing offered unique insights into how participants interact with services on mobile:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This round of in-person mobile testing reminded us of the value of experimentation and adaptability in user research. Given that most users register to vote on mobile, it felt essential to test the service in that format.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In-person testing isn\u2019t a cure-all. It brings logistical complexity and introduces potential biases. Participants may feel compelled to say the \u2018right\u2019 thing to please the interviewer. While we managed to organise this round in 4 weeks, the effort may be too intensive for larger or more geographically diverse studies.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Similarly, virtual observer rooms offer clear benefits \u2013 such as wider engagement, inclusivity and learning \u2013 but they require additional planning, effort and dedicated facilitation. It\u2019s important to factor in the extra coordination, and people needed to run them effectively.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Still, mobile testing of government services is critical to meeting users where they are. Our experience showed the value of reincorporating in-person methods for this testing, alongside the virtual norm. We strongly encourage other researchers to consider how they might once again meet users face-to-face to build more effective services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Follow the progress of the Elections Digital team on the MHCLG Digital blog.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/08/18/understanding-elections-user-journeys-lessons-from-in-person-mobile-testing/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "User researchers in the Elections Digital team are working on initiatives to improve voter registration by making the process simple and accessible. Find out how the team has been improving its understanding of the mobile-first experience of many citizens interacting with digital election services and what they learned along the way."
+    },
+    {
+        "title": "The Prime Minister\u2019s AI Exemplars programme: A portfolio approach to public sector innovation",
+        "authors": [
+            "Simon King, Director Public Sector AI Adoption"
+        ],
+        "posted_on": "2025-08-18T09:52:11",
+        "categories": [
+            "AI"
+        ],
+        "content": [
+            {
+                "content": "Yesterday, Technology Secretary Peter Kyle announced a suite of new artificial intelligence (AI) Exemplar products across a range of government departments. Sponsored by the Prime Minister as an initiative to revolutionise our public services, the AI Exemplars Programme will explore new ways for services like justice, education and the NHS to make best use of emerging technology by embracing a test and learn culture with AI.",
+                "tag": "p"
+            },
+            {
+                "content": "Background on the products already announced as PM\u2019s AI Exemplars can be found here.",
+                "tag": "p"
+            },
+            {
+                "content": "Embracing a test and learn culture",
+                "tag": "h3"
+            },
+            {
+                "content": "The Prime Minister\u2019s AI Exemplars Programme represents a fundamental shift in how the public sector approaches innovation. Rather than only pursuing a single, high-stakes technological solution, we've deliberately adopted a portfolio approach that acknowledges an important element of innovation: not everything is guaranteed to scale to production, and that's by design.",
+                "tag": "p"
+            },
+            {
+                "content": "Numerous potential AI use cases across government were identified, then a subset of Exemplars that represent the most promising opportunities were selected. This diverse Exemplar portfolio spans various levels of maturity, technology types, and delivery approaches, allowing us to:",
+                "tag": "p"
+            },
+            {
+                "content": "The portfolio focuses on improving public services in practical ways: helping doctors discharge patients from hospitals more quickly while maintaining clinical oversight, speeding up planning decisions to improve consistency and reduce bureaucracy for homeowners.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Scan > Pilot > Scale: A structured approach to innovation",
+                "tag": "h3"
+            },
+            {
+                "content": "We're following the \"Scan > Pilot > Scale\" approach outlined in the\u00a0AI Opportunities Action Plan. This plan recommended the digital centre of government should support public sector partners where needed to \u201cmove fast and learn things\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach identifies promising AI technologies, tests viable solutions through targeted pilots, and scales successful initiatives across government. We continuously monitor emerging technology, quickly halt underperforming projects to manage risk, and document lessons to create reusable components\u2014balancing innovation with pragmatism. This approach has been shown as the best way to accelerate innovation.",
+                "tag": "p"
+            },
+            {
+                "content": "The role of GDS: catalyst and enabler",
+                "tag": "h3"
+            },
+            {
+                "content": "GDS plays a crucial role as the digital centre for government, we\u2019re here to support as a delivery agent and a catalyst for wider innovation.",
+                "tag": "p"
+            },
+            {
+                "content": "What GDS brings to the portfolio",
+                "tag": "h3"
+            },
+            {
+                "content": "GDS is\u00a0the digital centre of government that has been brought together in the Department of Science Innovation and Technology (DSIT). To support our work in successfully and safely scaling AI, we have set up a Public Sector AI Adoption Unit. This acts as a focus for bringing support to Exemplars, including:\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Three delivery models:",
+                "tag": "h3"
+            },
+            {
+                "content": "The programme deliberately employs multiple delivery approaches to match the needs of each use case:",
+                "tag": "p"
+            },
+            {
+                "content": "Learning as we go",
+                "tag": "h3"
+            },
+            {
+                "content": "The programme will drive adoption of high-performing, trustworthy AI at scale and build our collective capacity to maximise AI's potential for better outcomes. Key aspects include:",
+                "tag": "p"
+            },
+            {
+                "content": "Leading by exemplar\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "By taking this portfolio approach to AI innovation, we're not just developing individual technology solutions \u2013 we're building the capability, confidence and culture needed to transform public services for the better.",
+                "tag": "p"
+            },
+            {
+                "content": "The Prime Minister\u2019s AI Exemplars Programme doesn't promise that every project will succeed. Instead, it promises something more valuable: that we will learn quickly, adapt accordingly, and progressively build our collective ability to harness AI for public good.",
+                "tag": "p"
+            },
+            {
+                "content": "Want to be kept up to date on the Prime Minister\u2019s AI Exemplars? Join the AI Community or subscribe to the monthly Government Digital and Data bulletin. Both are only available to public sector workers. Outside the public sector? We\u2019ll be sharing progress regularly on this blog.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2025/08/18/the-prime-ministers-ai-exemplars-programme-a-portfolio-approach-to-public-sector-innovation/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Yesterday, Technology Secretary Peter Kyle announced a suite of new artificial intelligence (AI) Exemplar products across a range of government departments. Sponsored by the Prime Minister as an initiative to revolutionise our public services, the AI Exemplars Programme will explore new ways for services like justice, education and the NHS to make best use of \u2026"
+    }
+]
