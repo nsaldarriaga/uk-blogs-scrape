@@ -1,5 +1,667 @@
 [
     {
+        "title": "Securing the Future: SKYNET 6 WSS Hits a Landmark Milestone",
+        "authors": [
+            "J. Gnaneswaran"
+        ],
+        "posted_on": "2025-08-20T14:50:38",
+        "categories": [
+            "SKYNET"
+        ],
+        "content": [
+            {
+                "content": "The SKYNET 6 Enduring Capability project has just reached a major milestone with the release of the final Invitation to Negotiate for the Wideband Satellite System. This is a big step forward in delivering the UK\u2019s next generation of military satellite communications.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0What is SKYNET 6",
+                "tag": "p"
+            },
+            {
+                "content": "SKYNET is the UK Ministry of Defence\u2019s satellite communications capability. It supports operations to deliver information to UK and allied forces around the world, enabling battlefield information advantage anywhere, anytime.\u00a0The SKYNET 6 Programme is exploiting technological advances to deliver the next generation of military SATCOM capability to the MOD via space and ground-based assets that can meet growing demand in an increasingly challenging threat environment.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0The Wideband Satellite System",
+                "tag": "p"
+            },
+            {
+                "content": "A key part of the SKYNET 6 Enduring Capability project is the Wideband Satellite System. The procurement covers up to three tranches of geostationary satellites, along with ground infrastructure and launch operations that are equipped with military-grade X-Band and Mil-Ka payloads to ensure high availability and hardened performance.",
+                "tag": "p"
+            },
+            {
+                "content": "The procurement process began in May 2023. Following initial bids from Airbus Defence & Space UK and Lockheed Martin UK, the MOD conducted two rounds of Bidder Engagement sessions to address the cost and risk drivers to optimise the capability offering, deliverability and affordability. A second and final Invitation to Negotiate reflecting all the agreed changes was then produced and formally released on 8th August 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Why This Matters",
+                "tag": "p"
+            },
+            {
+                "content": "It represents the single largest space procurement nationally, supporting the growth of the UK sovereign space sector and the National Space Strategy. The WSS competition is built around a Technological Capital framework. This means prioritising sovereign access to critical space technologies, UK-based design authority, and domestic assembly, integration, and testing capabilities whichever bidder is chosen. It also encourages the growth of a skilled UK space workforce and a robust industrial base.",
+                "tag": "p"
+            },
+            {
+                "content": "With an estimated contract value above \u00a31.5 billion, the WSS procurement is a strategic investment in the UK\u2019s defence infrastructure and technological superiority, helping to ensure long-term operational advantage and secure communications capability for the UK and our allies into the 2040s.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0What Happens Next?",
+                "tag": "p"
+            },
+            {
+                "content": "The release of the final Invitation to Negotiate marks a key moment in the ongoing competition phase. Negotiations with bidders are already underway, and the Ministry of Defence will continue working closely with industry to evaluate proposals and shape the final solution.",
+                "tag": "p"
+            },
+            {
+                "content": "A preferred bidder will be selected and a full business case taken forward in early 2026. This will lay the groundwork for contract award and delivery planning, moving the programme into its next phase.",
+                "tag": "p"
+            },
+            {
+                "content": "This milestone is a major achievement for the SKYNET 6 Programme and an important moment for UK space and defence communications. It strengthens the UK\u2019s position in delivering secure satellite capability and supports long-term operational advantage for UK and allied forces.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defencedigital.blog.gov.uk/2025/08/20/securing-the-future-skynet-6-wss-hits-a-landmark-milestone/",
+        "blog": "Defence Digital",
+        "blog_link": "https://defencedigital.blog.gov.uk",
+        "description": "The SKYNET 6 Enduring Capability project has just reached a major milestone with the release of the final Invitation to Negotiate for the Wideband Satellite System. This is a big step forward in delivering the UK\u2019s next generation of military \u2026"
+    },
+    {
+        "title": "Deciding not to build a new service: why stopping can be the right outcome\u00a0",
+        "authors": [
+            "Anne Wicks, Content Designer"
+        ],
+        "posted_on": "2025-08-20T13:21:56",
+        "categories": [
+            "Service design",
+            "User centred design"
+        ],
+        "content": [
+            {
+                "content": "Putting users at the heart of service design means making decisions based on what they actually need, not just what design and delivery teams assume they need. Sometimes that leads to a surprising but important conclusion - that building a new service isn\u2019t always the right thing to do.",
+                "tag": "p"
+            },
+            {
+                "content": "User-centred design (UCD) helps teams explore problems from the perspective of users. In agile delivery, the discovery and alpha phases exist to help us investigate whether a service is viable, valuable and feasible. In some cases, the most responsible and user-centred decision we can make is to stop.",
+                "tag": "p"
+            },
+            {
+                "content": "This post shares how and why UCD teams at the Home Office have advised stakeholders not to move beyond discovery or alpha, and how that can be considered a success, not a failure.",
+                "tag": "p"
+            },
+            {
+                "content": "When not building a new service is the right outcome",
+                "tag": "h2"
+            },
+            {
+                "content": "The Service Manual sets clear expectations for moving between phases:",
+                "tag": "p"
+            },
+            {
+                "content": "When those conditions aren\u2019t met, moving forward risks delivering something that doesn\u2019t work for users, and ultimately wastes public money.",
+                "tag": "p"
+            },
+            {
+                "content": "Some examples of why we might not continue include:",
+                "tag": "p"
+            },
+            {
+                "content": "Making the decision to stop shows that we\u2019re taking a truly user-centred, evidence-based approach. It puts users first, above delivery timelines or internal pressures, and demonstrates our commitment to achieving value for money.",
+                "tag": "p"
+            },
+            {
+                "content": "Tips for teams thinking about not proceeding to build a service",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Bring your stakeholders with you",
+                "tag": "h3"
+            },
+            {
+                "content": "Stopping shouldn\u2019t be a surprise. Share your findings early and often. Use approaches like regular mini-playbacks or collaborative analysis sessions to involve stakeholders in the learning journey. This builds trust and helps everyone understand the evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Stay open to different ways of solving the problem",
+                "tag": "h3"
+            },
+            {
+                "content": "Frameworks like the opportunity solution tree help you explore and effectively communicate a range of options that relate to your desired outcomes, without jumping to conclusions. This mindset encourages teams and stakeholders to focus on outcomes for users, not pre-defined solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "3. Consider value versus effort",
+                "tag": "h3"
+            },
+            {
+                "content": "Think about whether the value of a new service justifies the effort to deliver it. Sometimes, the change needed is too complex or costly for the benefit it brings. In those cases, another approach might be more effective.",
+                "tag": "p"
+            },
+            {
+                "content": "4. Test your riskiest assumptions",
+                "tag": "h3"
+            },
+            {
+                "content": "By framing assumptions as hypotheses, you can test them quickly and build a solid evidence base. This gives your team confidence in their recommendation to stop, and shows that that recommendation is based on user research and data.",
+                "tag": "p"
+            },
+            {
+                "content": "5. Give your stakeholders actionable recommendations",
+                "tag": "h3"
+            },
+            {
+                "content": "Even if you're not continuing to beta, your work should support others. Use your end of phase playback to share what you\u2019ve learned, and suggest next steps for policy, operations or other teams.",
+                "tag": "p"
+            },
+            {
+                "content": "Stopping can still deliver value",
+                "tag": "h2"
+            },
+            {
+                "content": "It can feel like a setback to stop work on a service. But choosing not to build when it's the right thing for users is a powerful act of public service.",
+                "tag": "p"
+            },
+            {
+                "content": "Here's how we added value in our work with asylum operations after choosing not to move beyond alpha:",
+                "tag": "p"
+            },
+            {
+                "content": "Empowering users means better public services and value for money",
+                "tag": "h2"
+            },
+            {
+                "content": "Stopping the design of a service before it\u2019s been built can be hard. But it\u2019s often the most user-centred, responsible decision you can make. By putting user needs above assumptions and showing the evidence behind your thinking, you can help your department deliver better, and better value,  public services.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://hodigital.blog.gov.uk/2025/08/20/deciding-not-to-build-a-new-service-why-stopping-can-be-the-right-outcome/",
+        "blog": "Home Office Digital, Data and Technology",
+        "blog_link": "https://hodigital.blog.gov.uk",
+        "description": "5 tips for user-centred designers who are considering whether to continue building a new service for users."
+    },
+    {
+        "title": "Delivering a data standard to support Awaab\u2019s Law in social housing\u00a0",
+        "authors": [
+            "The Local Digital team"
+        ],
+        "posted_on": "2025-08-20T13:10:10",
+        "categories": [
+            "Data",
+            "Local Digital"
+        ],
+        "content": [
+            {
+                "content": "We\u2019re pleased to share a milestone in our social housing data work, the delivery of a new data standard to support Awaab\u2019s Law. In this blog, we explain what we\u2019ve delivered, what we\u2019ve learnt, and how the work will continue with the Housing Associations Charitable Trust (HACT) and Data Futurists. We\u2019ll also share upcoming opportunities for housing associations and councils to explore the standard and its implementation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The importance of data standards\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Over the past two years, our research into social housing data has shown how critical data standards are for effective housing services. But also, how a lack of good data standards can make it harder for repairs teams to complete jobs.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Good data means repairs officers have the right information before arriving, such as the materials needed or tenant-specific requirements like hearing impairments. This leads to repairs being completed first time, higher tenant satisfaction, and less costly workarounds.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we\u2019ve learnt\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ve found that inefficiencies in data alone can cost housing repairs and allocations an estimated \u00a3400 million every year. This is a conservative figure that excludes other services. Poor data standards can cost large organisations over \u00a31 million when migrating to new systems. According to the Building Research Establishment, the cost of substandard housing is more than \u00a31 billion a year in poor life outcomes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Responding to Awaab\u2019s Law\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Data standards are not just about efficiency; they are essential for delivering new policy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The first phase of Awaab\u2019s Law is expected to come into effect from 27 October. It focuses on tenant-specific vulnerabilities rather than general risk categories. For example, damp and mould are a greater risk to children, the elderly, and people with health conditions like asthma or chronic obstructive pulmonary disease (COPD).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Many housing providers are finding it difficult to meet the new requirements. Some have chosen to address damp and mould across all properties as a preventative step \u2013 a welcome development. However, these homes will still need future repairs, and it's vital that processes are in place to support Awaab\u2019s Law over the long term. In particular, housing providers must be able to identify and prioritise repair requests that involve vulnerable tenants.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we\u2019ve developed\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "To support this, we worked with HACT to redesign their repair data standards. We developed a new module focused on damp and mould, along with implementation guidance to help housing providers integrate it into their existing systems.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The model records key parts of a repair request, including how it is raised, assessed, responded to, escalated, and closed, along with the data collected at each step.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The data model\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The structure behind the model is shown in an Entity Relationship Diagram, which includes:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each part includes data elements that help identify hazards, assess vulnerability, and locate issues.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The modular design means housing providers can add components to existing systems, reusing familiar HACT standards for repairs, property, and customer data. This makes it easier to update in future without large system changes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A new approach to policy and data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "For the first time, a data product has been developed alongside new policy. Our research shows that when legislation is introduced and councils are left to interpret and implement it on their own, it can lead to inefficiencies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Not all housing providers have the data skills to design effective data models. A modular standard that works with existing systems can help avoid workarounds and lead to better results.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ownership and next steps\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ve worked closely with colleagues at HACT and Data Futurists so they can take this work forward. They manage the existing HACT standards and are best placed to lead the next phase.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The current version is a minimum viable product. It is the\u202ffirst working version\u202fof the data standard and includes core features and functionality. HACT and Data Futurists will test and refine the standard with housing providers to make sure it is robust and ready for adoption when Awaab\u2019s Law comes into place. This includes running workshops and putting it through the Data Standard Authority\u2019s endorsement process.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Opportunities to get involved\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We are planning an in-person workshop in London on 12 September for housing associations and councils. If you'd like to take part, please contact localdigitalpolicy@communities.gov.uk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll\u202fallocate places on a first-come basis, making sure there\u2019s a good mix of technical and housing expertise and locations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Follow our channels for the latest updates and opportunities:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/08/20/delivering-a-data-standard-to-support-awaabs-law-in-social-housing/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "We\u2019re pleased to share a milestone in our social housing data work, the delivery of a new data standard to support Awaab\u2019s Law."
+    },
+    {
+        "title": "Coastal Planners Corner",
+        "authors": [
+            "Kathleen Telford, Marine Planner"
+        ],
+        "posted_on": "2025-08-20T13:02:31",
+        "categories": [
+            "marine planning"
+        ],
+        "content": [
+            {
+                "content": "North East",
+                "tag": "p"
+            },
+            {
+                "content": "As the North East Coastal Planner and Heritage Assets Policy Lead, I\u2019ve had the opportunity to meet a wide range of stakeholders across the region who are passionate about our marine environment. From the Port of Tyne to the Yorkshire Marine Nature Partnership, and local councils including Durham, North Yorkshire, and Sunderland, these early conversations are helping to build trust across all sectors, and laying the foundation for stronger collaboration, which is essential for integrating marine plans into terrestrial local plans and wider decision-making.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, ports have provided valuable information that will feed into Explore Marine Plans, our interactive tool that helps users understand how marine planning policies apply in specific locations.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re also supporting colleagues in the Isle of Man as they begin exploring marine spatial planning for their waters. Chloe and I have been invited to develop and deliver a workshop where we\u2019ll introduce the benefits of marine plans, share insights from our own planning process, and use the MSP Challenge tool to demonstrate how planning can help manage competing demands on the sea in a sustainable way.",
+                "tag": "p"
+            },
+            {
+                "content": "East",
+                "tag": "p"
+            },
+            {
+                "content": "Char and Mark have been engaging with port operators across the East Marine Plan area to collect and verify data that will be added to Explore Marine Plans. They are also contributing to the consultation on the Norfolk and Suffolk Local Nature Recovery Strategies (LNRS), ensuring that marine features such as saltmarshes, reedbeds, and coastal wetlands are fully aligned with marine planning priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "Ongoing work brings together stakeholders from the ports, shipping, the Environment Agency, and local authorities to refine how shipping operations work in harmony with marine planning goals, ensuring it builds on existing strengths while preparing for future challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "South East",
+                "tag": "p"
+            },
+            {
+                "content": "As part of her focus on fisheries policy, Marie attended the joint All Party Parliamentary Group (APPG) on Fisheries and the APPG for Shellfish Aquaculture and the Coast in June. The meeting brought together parliamentarians, policymakers, and cross-sector professionals, to discuss what a targeted UK Fishing and Coastal Growth Fund could look like, and the steps needed to ensure the fund becomes an effective vehicle for investment in the future of our fishing and seafood communities. The Minister for Food Security and Rural Affairs, Daniel Zeichner MP, opened the event.",
+                "tag": "p"
+            },
+            {
+                "content": "Marie also joined the South East Coastal Group meeting in Sheerness, in Kent, which included a site visit to the Medway Estuary and Swale (MEAS) Coastal Erosion Risk Management 10-year scheme led by the Environment Agency. This project includes refurbishing the ageing sea defences to protect around 3,000 homes, businesses, and critical infrastructure from rising flood risks driven by climate change and sea level rise. In some parts of the Sheerness and Queenborough area land lies below the high tide level, making effective flood defence essential for community safety and resilience.",
+                "tag": "p"
+            },
+            {
+                "content": "South",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside her role as South Coastal Planner, Eva leads on water quality policy. Ahead of developing the East Marine Plan, she has been researching water quality issues through meetings and events, including a water governance workshop with DEFRA colleagues and a water quality summit hosted by LGA Coastal Special Interest Group. These discussions brought together a wide range of stakeholders, reflecting the growing importance of water quality in government priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "With Charlotte now moving to a new role within the MMO, Eva is the main point contact for all South coastal planning matters.",
+                "tag": "p"
+            },
+            {
+                "content": "South West",
+                "tag": "p"
+            },
+            {
+                "content": "In July, Ellie attended the Severn Estuary Forum annual conference on Weston-Super-Mare\u2019s Grand Pier. The event showcased innovative cross-estuary projects addressing environmental, social, and economic challenges, with speakers from the Environment Agency, Project Seagrass, WWT, Natural England, the Severn Estuary Commission, Bristol Port, and the Severn Estuary Partnership.",
+                "tag": "p"
+            },
+            {
+                "content": "In June, Ellie delivered a presentation on the South West Marine Plan to Stroud District Council\u2019s Strategic Advisory Planning Board, made up of councillors representing the council\u2019s political makeup. The session clarified issues arising from a recent planning application, which had led to some confusion regarding the application of marine plans. Councillors found the session valuable, asking constructive questions throughout. We hope to return later this year to run a Marine Spatial Planning Challenge exercise to build on this engagement.",
+                "tag": "p"
+            },
+            {
+                "content": "North West",
+                "tag": "p"
+            },
+            {
+                "content": "This summer, Chloe and Rosie attended the North West Marine Ecosystems (NWME) conference, which was the first of its kind within the region. NWME is an exciting initiative designed to improve the understanding of the region\u2019s marine and coastal ecosystems among local communities and stakeholders.",
+                "tag": "p"
+            },
+            {
+                "content": "By bringing together academics, citizen scientists, and coastal and marine professionals, the programme aimed to build a collective network dedicated to advancing marine research and management. Its annual reporting will cover a wide range of themes, from oceanography, plankton, seabed habitats to fish, seabirds, and marine mammals, alongside key management topics, such as marine planning, protected areas, fisheries, water quality and plastic pollution.",
+                "tag": "p"
+            },
+            {
+                "content": "The conference and ongoing programme are led by the North West Coastal Forum, and more information, including details on how to get involved on their website.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2025/08/20/coastal-planners-corner/",
+        "blog": "Marine Development Blog",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "North East As the North East Coastal Planner and Heritage Assets Policy Lead, I\u2019ve had the opportunity to meet a wide range of stakeholders across the region who are passionate about our marine environment. From the Port of Tyne to \u2026"
+    },
+    {
+        "title": "Exam Results Day: Supporting young people in the care system",
+        "authors": [
+            "Rebecca Jones"
+        ],
+        "posted_on": "2025-08-20T11:08:02",
+        "categories": [
+            "Care leavers",
+            "Education"
+        ],
+        "content": [
+            {
+                "content": "I\u2019m a Senior Advice and Support Officer at Become, the national charity supporting every young person who has experienced the care system.",
+                "tag": "p"
+            },
+            {
+                "content": "I've worked in further and higher institutions for over 12 years, with nearly 10 of those years working with young people from care backgrounds. I wanted to use my knowledge of colleges and universities to help these young people achieve their educational goals.",
+                "tag": "p"
+            },
+            {
+                "content": "Through Become\u2019s Propel into Education service, I know how exciting and stressful the next couple of weeks will be. It\u2019s not just about getting into university. It\u2019s about moving into independence but also worrying about \u201cwhat will happen if I don\u2019t get the results I need, where will I live and who can I turn to?\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Barriers young people in care face",
+                "tag": "h2"
+            },
+            {
+                "content": "Sitting exams can be challenging for children in care. Frequent home and school moves disrupt education and end meaningful relationships with others. Then there\u2019s the care cliff edge, when those who have reached 18 must live independently with little support, often holding down jobs while studying somewhere with no Wi-Fi, laptop, or a quiet space.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ve seen how these barriers make it harder for young people to believe they can succeed academically, adding to the harmful stigma they already face.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting young people\u2019s university journey\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In my role, I offer one-to-one support accessing higher and further education.\u00a0I advise on UCAS forms, which universities provide year-round accommodation, and connect young people with relevant university staff.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Overcoming a lack of self-belief is a big hurdle. Many university outreach teams include student ambassadors who have experienced the care system and this makes a big difference; young people see someone like them at university, and suddenly it feels possible.",
+                "tag": "p"
+            },
+            {
+                "content": "By results day, my colleagues and I will have already provided Plan B sessions on clearing and we\u2019re available for support. I recently worked with someone on our Uni Ready Programme, supporting them through university choices and more. They said our work helped them understand the process much better; they've just finished their first year and are thriving.Finance is a huge barrier for many. At Become, I also provide guidance on university bursaries, grants, and additional funding sources. I recently helped one young person secure funding from the Leatherseller's Foundation, which will make a huge impact when they start their course this September.",
+                "tag": "p"
+            },
+            {
+                "content": "Improving university access for care leavers\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I'd love to see foster carers, social workers, and personal advisors suggesting university earlier and attending open days with young people. Every university should have dedicated webpages and staff for students who have experienced the care system.",
+                "tag": "p"
+            },
+            {
+                "content": "For results day, I'll be working alongside these young people, helping them plan, prepare, and believe in their potential. Working in this field is extremely rewarding as I can see the change in confidence as young people begin to believe they can succeed.",
+                "tag": "p"
+            },
+            {
+                "content": "The Department for Education (DfE) continues to work with key sector stakeholders, such as UUK, Sutton Trust, UCAS, and the Russell Group who are co-leading on a drive to improve the transparency of, and consistency of approach to contextual admissions. This is a positive progression within the higher education (HE) admissions system, to bring equity of opportunity to all who wish to study at HE.",
+                "tag": "p"
+            },
+            {
+                "content": "DfE is determined to improve outcomes for care leavers. It is committed to ensuring that young people leaving care have stable homes, access to health services, support to build lifelong loving relationships, and are engaged in education, employment and training.",
+                "tag": "p"
+            },
+            {
+                "content": "For more information and practical support on supporting young people on results day, visit the Education Hub.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://childrenssocialcare.blog.gov.uk/2025/08/20/exam-results-day-supporting-young-people-in-the-care-system/",
+        "blog": "Children\u2019s social care",
+        "blog_link": "https://childrenssocialcare.blog.gov.uk",
+        "description": "During the exam results period, Rebecca Jones from Become talks about how she supports young people in the care system as they receive their GCSE and A-level results."
+    },
+    {
+        "title": "Thriving Together: Nature, People and Industry in the Tees Estuary",
+        "authors": [
+            "Vicky Ward"
+        ],
+        "posted_on": "2025-08-20T10:38:28",
+        "categories": [
+            "Biodiversity",
+            "Coast and access",
+            "Development",
+            "Marine environment",
+            "Natural England",
+            "Nature",
+            "Nature Recovery",
+            "Nature Recovery Network",
+            "Seabirds",
+            "Seals",
+            "Species recovery",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Vicky Ward, Tees Estuary Nature Recovery Partnership Project Manager",
+                "tag": "p"
+            },
+            {
+                "content": "It is a bright summer\u2019s morning, as I walk through a striking landscape of contrasts. Through the passing juggernauts and across the brine fields to my right, an abundance of industrial structures dominate the skyline, on my left, three Harbour seals glide along an estuary channel and playfully galumph their way out onto the nearest mudflat, flopping down to have a post-breakfast snooze in the sunshine.",
+                "tag": "p"
+            },
+            {
+                "content": "Nearby, Avocets, Little Egret and other wonderful wader\u2019s gracefully forage for food, muddying their long beaks in the hunt for a snack or two.",
+                "tag": "p"
+            },
+            {
+                "content": "The Tees Estuary is a special place for both nature and people. Surrounded by large urban conurbations, the estuary and coastline draw people to enjoy its beauty and reap the physical, mental and wellbeing benefits it gifts to us. The estuary also carries an important industrial legacy that interconnects the northeast coast and the North Sea at the forefront of Britain\u2019s Industrial Revolution, it\u2019s maritime power and the birth of the Railway. Today, industry remains crucial as the region leads the way in the nation\u2019s transition to green energy and Net Zero.",
+                "tag": "p"
+            },
+            {
+                "content": "A complex history",
+                "tag": "p"
+            },
+            {
+                "content": "Complexity frames the estuary. Over the past 300-years, 90% of the estuary has been built upon to support agricultural and industrial growth, often with devastating effects on the environment. By the late 1970s, the River Tees was declared ecologically dead, with the riverbeds still trapping toxic waste from past human activity.",
+                "tag": "p"
+            },
+            {
+                "content": "Yet remarkably, nature has persevered. The estuary is home to an incredible array of wildlife and habitats, including internationally important bird populations, coastal habitats, sand dunes systems, grasslands, woodlands and wetlands. From the tiniest of rare money spiders through to critically endangered European Eel, the summer-visiting Little Terns to the iconic Tees Harbour Seal colony at Seal Sands at Teesmouth National Nature Reserve - nature has built a home here.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In recognition of its biodiversity significance, this landscape carries some of the highest formal conservation designations, however many habitats remain fragmented and in an unfavourable condition, due to poor air and water quality, nutrient overload and recreational pressure.",
+                "tag": "p"
+            },
+            {
+                "content": "The Tees Estuary Nature Recovery Partnership (NRP)",
+                "tag": "h4"
+            },
+            {
+                "content": "Created and funded by Natural England as a Nature Recovery Project, our partnership was officially launched this month by Natural England\u2019s CEO, Marian Spain. This landmark moment in the Tees Estuary\u2019s environmental future facilitates organisations to pool their skills and expertise to join up nature recovery at landscape scale. \u00a0Our vision is for the Tees Estuary to be known for its nature, people and industry \u2013 where all are thriving in equilibrium, and for nature to be part of every aspect of life for the people who live in, work in or visit the Tees.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of the Nature Recovery Network, connectivity is central to our work \u2013 reconnecting fragmented habitats, creating stepping stones for wildlife and improving access to nature for communities and visitors.",
+                "tag": "p"
+            },
+            {
+                "content": "As Project Manager for the NRP, I\u2019m passionate about our collective work to achieve this. Over the past two years we\u2019ve installed a new bird hide at Teesmouth National Nature Reserve, commissioned research to benefit european eel, water voles and purple milk vetch, mapped nature recovery opportunities along the King Charles III England Coast Path and supported RSPB Saltholme\u2019s plans to restore 100 hectares of wetlands.",
+                "tag": "p"
+            },
+            {
+                "content": "Recent projects making a difference",
+                "tag": "h4"
+            },
+            {
+                "content": "Tees Tidelands Footpath Trail",
+                "tag": "p"
+            },
+            {
+                "content": "Working with RSPB Saltholme and the Environment Agency\u2019s Tees Tidelands programme we\u2019re creating an 8-mile circular walking trail that reconnects communities to the estuary\u2019s original boundaries. The route travels through time, linking iron age, mediaeval and wartime heritage found along the route with today\u2019s natural landscape. We\u2019ve co-designed the route with local communities and are seeking funding for completion and interactive interpretation.",
+                "tag": "p"
+            },
+            {
+                "content": "In search of the Spider",
+                "tag": "p"
+            },
+            {
+                "content": "Earlier this year, we surveyed for the wonderfully named Bend Bearing Blunt Brow spider - a nationally rare money spider with a red list status, found in fewer than 10 UK locations, one of these being Coatham dunes. We wanted to learn more about their prevalence so were very excited when the survey revealed an abundant population -of regional and national significance - across the Tees Bay and Durham Coast dunes systems!",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h4"
+            },
+            {
+                "content": "Over the next two years we plan to study invertebrate populations in the dunes system, test interventions to benefit shingle-nesting birds, work with partners to monitor the Harbour seals, and develop investible propositions to attract green finance for nature recovery. We\u2019ll also support the development of a Protected Site Strategy for the Teesmouth & Cleveland Coast Special Protection Area. ",
+                "tag": "p"
+            },
+            {
+                "content": "For more information about the partnership, or if you are interested in getting involved, please contact me on Northumbria.hub@naturalengland.org.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/08/20/thriving-together-nature-people-and-industry-in-the-tees-estuary/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Vicky Ward, Tees Estuary Nature Recovery Partnership Project Manager It is a bright summer\u2019s morning, as I walk through a striking landscape of contrasts. Through the passing juggernauts and across the brine fields to my right, an abundance of \u2026"
+    },
+    {
+        "title": "APHA scientists find West Nile Virus sequences in UK mosquitoes: \u00a0what it means for wildlife and public health",
+        "authors": [
+            "Calam Bruce"
+        ],
+        "posted_on": "2025-08-20T09:00:10",
+        "categories": [
+            "Viral diseases"
+        ],
+        "content": [
+            {
+                "content": "Earlier this year, West Nile virus was detected in a native mosquito population for the first time. Dr Calam Bruce talks about APHA\u2019s role in this discovery as part of the Vector-Borne RADAR (Real-time Arbovirus Detection and Response) project.",
+                "tag": "p"
+            },
+            {
+                "content": "The Animal and Plant Health Agency (APHA) is the UK\u2019s frontline service in the prevention and control of animal and plant diseases. Given three quarters of human disease originate from animals (COVID-19 and \u2018flu being two examples), the work we do also has a direct impact on human health.",
+                "tag": "p"
+            },
+            {
+                "content": "Many zoonotic diseases (those that pass from humans to animals and vice versa) are spread by vectors like mosquitoes and ticks, and APHA is at the forefront of researching these. In recent decades, mosquito-borne diseases have undergone relatively rapid geographic expansion, including moving from tropic and sub-tropic environments into temperate regions (such as the UK), primarily driven by movement of people and global climate change.",
+                "tag": "p"
+            },
+            {
+                "content": "The rising risk of Usutu and West Nile viruses in the UK",
+                "tag": "h2"
+            },
+            {
+                "content": "Historically, the UK had been considered relatively free of mosquito-borne diseases. However, in the summer of 2020,\u00a0Usutu virus (USUV) was\u00a0detected here for the first time in wild birds by APHA scientists in collaboration with the Institute of Zoology, following its spread in recent decades across mainland Europe. Since its emergence, we have seen a 50% decline in blackbirds (a highly susceptible host of the virus) in Greater London, and we are starting to see a signs of decline in blackbirds in eastern England as the virus expands its geographic range.",
+                "tag": "p"
+            },
+            {
+                "content": "USUV mainly affects birds, but research shows that where USUV emerges, West Nile Virus (WNV) may follow, as they have similar climatic requirements. WNV can cause significant disease in animals such as birds and horses and can be transmitted through mosquito-bites to humans, resulting in neurological disease in around 20% of those exposed to the virus. In very rare cases this can result in death. The virus is established in various regions across the globe, including\u00a0Europe, Africa, the Middle East, and North America.\u00a0The geographic range of WNV has expanded in recent years to more northerly and western regions of mainland Europe.",
+                "tag": "p"
+            },
+            {
+                "content": "Real-time surveillance of mosquito-borne viruses in the UK",
+                "tag": "h2"
+            },
+            {
+                "content": "To improve our understanding of emerging mosquito-borne diseases the Vector-Borne RADAR (Real-time Arbovirus Detection and Response) project was established in 2023. This research programme is an APHA-led collaboration with the British Trust for Ornithology, Institute of Zoology and UK Health Security Agency. As part of the project, extensive mosquito monitoring was established in areas that were considered at high risk of viruses entering the country. Alongside this, we undertook retrospective screening for viruses in Aedes vexans mosquitoes that had been trapped for other projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Two thousand Aedes vexans, collected from Nottinghamshire in July 2023, were submitted to APHA where we pooled them into groups of 10 and screened them for the presence of WNV. Two of these pools were positive and we recovered a fragment of the WNV genome. This is the first confirmed detection of WNV in the UK, and highlights that this virus can naturally enter the country, most likely through migratory bird movement. The remaining 198 pools from the same site tested negative for the virus, and from continued surveillance in mosquitoes and birds from across England, there is no current evidence at the time of writing that WNV is circulating, and there have been no locally acquired human WNV infections reported. ",
+                "tag": "p"
+            },
+            {
+                "content": "Aedes vexans is native to the UK and is a reasonably rare mosquito due to its habitat requirements. However, in a few locations in England, they can occur at high densities, associated with summer flooded river landscapes. While not a common occurrence, in areas where Aedes vexans are present they can cause a nuisance by biting.",
+                "tag": "p"
+            },
+            {
+                "content": "West Nile Virus: low risk to the UK , vigilant measures in place",
+                "tag": "h2"
+            },
+            {
+                "content": "Although WNV was detected, based on our surveillance, the risk \u00a0from WNV is still considered to be very low. It also shows that our surveillance is working, that is, we have the correct tools to detect the virus even at very low levels. Surveillance and control activities are being enhanced in light of the findings so that rapid action can be taken in response to detection. Currently, the main risk of WNV infection for UK residents continues to be travel to areas overseas where the virus is circulating. In addition, as WNV infection is a notifiable disease of horses, APHA offers a Test to Exclude service for veterinarians. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "About the Vector-Borne RADAR project",
+                "tag": "h2"
+            },
+            {
+                "content": "The Vector-Borne RADAR project, which runs until March 2026, aims to enhance surveillance for mosquito-borne zoonotic diseases where wild birds are a primary host.. The grant undertakes active surveillance in wild birds and mosquitoes, combined with citizen science initiatives to help us understand the emergence, spread and impact of mosquito-borne disease in the UK. To find out more, visit: https://www.vb-radar.com.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2025/08/20/west-nile-virus-sequences-in-uk-mosquitoes/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "West Nile virus has been detected in UK mosquitoes for the first time. Discover how APHA\u2019s cutting-edge surveillance uncovered this threat and what it means for wildlife, horses and human health."
+    },
+    {
         "title": "From classroom to career: how T Levels and apprenticeships\u00a0deliver skills  for priority occupations",
         "authors": [
             "Communications Team"
