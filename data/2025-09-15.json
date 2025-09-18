@@ -1,5 +1,1125 @@
 [
     {
+        "title": "RPC compares the quality of impact assessments submitted by government departments",
+        "authors": [
+            "Stephen Gibson"
+        ],
+        "posted_on": "2025-09-18T16:00:53",
+        "categories": [
+            "Better regulation",
+            "Independent scrutiny"
+        ],
+        "content": [
+            {
+                "content": "The RPC reviews and rates the quality of impact assessments (IAs) of new regulations produced by government departments. As well as the headline \u2018fit for purpose\u2019 rating, we rate IAs across four areas: rationale and options; cost-benefit analysis; wider impacts; and monitoring and evaluation plans. Areas that are rated \u2018Good\u2019 or \u2018Satisfactory\u2019 provide good or sufficient support for decision-making on those areas of the assessment, while those rated \u2018Weak\u2019 or \u2019Very Weak\u2019 provide inadequate support for decision-making.",
+                "tag": "p"
+            },
+            {
+                "content": "Our spreadsheet of past RPC opinions includes 174 IAs published since 2020[1]. This allows us to compare the performance of different government departments on aspects of the IA that are not part of the Red/Green \u2018fit for purpose\u2019 rating.",
+                "tag": "p"
+            },
+            {
+                "content": "Big quality differences between departments on IA ratings",
+                "tag": "p"
+            },
+            {
+                "content": "Overall 72% of RPC ratings were either \u2018good\u2019 or \u2018satisfactory\u2019 (the remaining 28% being \u2018weak\u2019 or \u2018very weak\u2019).",
+                "tag": "p"
+            },
+            {
+                "content": "However there were big differences between departments. Top performers were the Department for Business & Trade (DBT) and the Department for Culture, Media & Sport (DCMS), both having 79% rated as \u2018good\u2019 or \u2018satisfactory\u2019; the weakest performers were the Department for Education (DfE) and the Ministry for Housing, Communities & Local Government (MHCLG) with only 50% and 48% respectively of their ratings being above the line. This means that we judged over half of the assessed areas for those departments as inadequate to support decision-making.",
+                "tag": "p"
+            },
+            {
+                "content": "And big differences in the quality of IAs as first submitted",
+                "tag": "p"
+            },
+            {
+                "content": "Where we judge that an IA as first submitted is not fit for purpose (and the department has submitted the IA early enough to allow resubmission), we can issue an Initial Review Notice (IRN). This means that the department has an opportunity to address the areas of concern and resubmit the IA for a further review.",
+                "tag": "p"
+            },
+            {
+                "content": "Again there was a big difference between departments on the proportion of IAs receiving an IRN. The department with the highest percentage of initially unsatisfactory IAs was HM Treasury with 60%, while the lowest percentages were DCMS with 13% and \u2018top of the class\u2019, the Foreign, Commonwealth & Development Office (FCDO) with no IRNs at all.",
+                "tag": "p"
+            },
+            {
+                "content": "[1] In May 2024, we published a spreadsheet and blog summarising our ratings of 142 IAs. We have now updated this to include an additional 32 IAs published over the last year.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://rpc.blog.gov.uk/2025/09/18/rpc-compares-the-quality-of-impact-assessments-submitted-by-government-departments/",
+        "blog": "Regulatory Policy Committee",
+        "blog_link": "https://rpc.blog.gov.uk",
+        "description": "The RPC has published updates to its summaries of the ratings it gives impact assessments."
+    },
+    {
+        "title": "Building understanding of software markets in local government",
+        "authors": [
+            "The Local Digital team"
+        ],
+        "posted_on": "2025-09-18T15:06:22",
+        "categories": [
+            "Local Digital"
+        ],
+        "content": [
+            {
+                "content": "Over the past six months, we\u2019ve been developing our understanding of local government software markets. This work aims to address the concerns raised by councils through our programme\u2019s evaluation and highlighted in the Future Councils pilot report.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Common issues include: \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve also identified through roundtable discussions and feedback from partners that managing effective procurements and successfully exiting technology contracts is a challenge, particularly where internal capacity or capability is limited.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With local government reorganisation, new unitary authorities will need to consolidate systems, migrate data, and harmonise business processes at an unprecedented scale. This will also impact technology contracts and procurement activities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach to supporting better procurement decisions",
+                "tag": "h2"
+            },
+            {
+                "content": "To help councils operate as intelligent buyers and support suppliers to meet sector ambitions, we are developing a software market intelligence tool.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a starting point, the Local Digital team have analysed publicly available contract data for six key service areas. This has helped us assess:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve turned this analysis into an interactive dashboard.\u00a0Our ambition is to evolve this into a tool that the sector can use to improve transparency and make more informed procurement decisions.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can preview the first iteration of the dashboard:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Access our guidance note on the software market intelligence tool.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Get involved",
+                "tag": "h2"
+            },
+            {
+                "content": "Councils are invited to help shape the software market intelligence tool through short virtual research session. This involves:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once you have submitted the form, a researcher will contact you (if places are still available) to schedule your\u00a0session. We will close the form once capacity is reached. We may add additional sessions in the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Follow our channels for the latest updates and opportunities:\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/09/18/building-understanding-of-software-markets-in-local-government/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "To help councils operate as intelligent buyers and support suppliers to meet sector ambitions, we are developing a software market intelligence tool."
+    },
+    {
+        "title": "Back to school with young IP trailblazers",
+        "authors": [
+            "Amber Ockenden"
+        ],
+        "posted_on": "2025-09-18T14:45:00",
+        "categories": [
+            "Innovation",
+            "Patents",
+            "Schools",
+            "STEM career"
+        ],
+        "content": [
+            {
+                "content": "As students across the UK sharpen pencils and zip up backpacks, it\u2019s a great time to celebrate the creativity and curiosity that fuels innovation, even in the youngest minds. At the Intellectual Property Office, we know that intellectual property (IP) isn\u2019t just for seasoned inventors and entrepreneurs - it\u2019s for anyone with a bright idea. And sometimes, those ideas come from children who haven\u2019t even finished primary school!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here are some inspiring young inventors who didn\u2019t just dream big - they protected their ideas through IP.",
+                "tag": "p"
+            },
+            {
+                "content": "Sam Houghton \u2013 the Improved Broom",
+                "tag": "h3"
+            },
+            {
+                "content": "Patent GB2438091A\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At just five years old, Sam Houghton became a patent holder with his invention: the Improved Broom. It featured two broom heads joined by a rubber band, allowing it to sweep up both large and small debris more efficiently.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sam\u2019s idea came to life when he was just three, watching his dad clean the garden. With a little help from his father, who happened to be a patent attorney, Sam\u2019s invention was filed and granted a patent. His story became a cornerstone of our Cracking Ideas campaign, showing how even very young children can have ideas can be worth protecting.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can read more about Sam in this BBC article\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Xanthippe Barnes \u2013 RoboSno\u202f\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Patent GB2588732\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When eight-year-old Xanthippe Barnes took part in a school design challenge, she didn\u2019t just build a model - she created a fully imagined snow-clearing robot called RoboSno. It featured a kettle to melt snow, machine learning to navigate, and even a boot to kick obstacles out of the way.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Her invention was so compelling that her father (also a patent attorney) helped her file a patent application and register a trademark for the name. Xanthippe proved that school projects can be the launchpad for real-world innovation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can read more about Xanthippe on this blog from the Chartered Institute of Patent Attorneys\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Soren Plante \u2013 Guinness World Record holder \u202f\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Patent US12290017B2\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across the pond in Utah, USA, Soren Plante holds the Guinness World Record as the youngest active patent holder, receiving his patent at just 5 years and 190 days old. His invention? A gardening robot that\u2019s not only electro-mechanical but also commercially viable.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The invention describes a digging machine with a hollow body, odd-shaped wheels, and independent motors powering each wheel. These wheels feature digging members, making the machine suitable for tasks like gardening or excavation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Soren\u2019s story is a testament to how curiosity, play, and a little technical know-how can lead to serious innovation - even before starting primary school.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Max Palfrey - Dragons' Den hopeful\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Patent GB2617627\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Another young inventor, 11 year old Max, was granted a patent for a garment with a built-in fidget device sewn into the seam (similar to bubble wrap toys).\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The invention was aimed at neurodiverse people as it would allow them to discreetly engage in stimming activities (repetitive physical movements, sounds or actions that help individuals self-regulate emotions and process sensory input), without drawing attention to themselves.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Inspiring creativity through partnership\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Our commitment to nurturing young innovators extends through exciting collaborations that bring IP education to life. Building on the tremendous success of our\u202fprevious campaigns with Aardman, or our recent and current campaign with Taskmaster Education, these collaborations have been a remarkable achievement in making intellectual property accessible and engaging for students across the UK, including resources for IP in education.",
+                "tag": "p"
+            },
+            {
+                "content": "These partnerships demonstrate our unwavering belief that inspiring the next generation starts with young minds and our enthusiasm for fostering creativity knows no bounds. Through innovative educational approaches, we continue to show children that their ideas really do have value and can shape the world around them.\u202f\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/09/18/back-to-school-with-young-ip-trailblazers/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "At IPO, we know that intellectual property (IP) isn\u2019t just for seasoned inventors and entrepreneurs - it\u2019s for anyone with a bright idea. And sometimes, those ideas come from children who haven\u2019t even finished primary school!\u00a0"
+    },
+    {
+        "title": "Partnership board updated on work to review evidence for SMA newborn screening",
+        "authors": [
+            "Jo Harcombe"
+        ],
+        "posted_on": "2025-09-18T11:56:15",
+        "categories": [
+            "Newborn Blood Spot Screening",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Last month, we published a suite of 4 documents relating to the UK National Screening Committee\u2019s (UK NSC\u2019s) review of evidence on newborn screening for spinal muscular atrophy (SMA).",
+                "tag": "p"
+            },
+            {
+                "content": "One of the documents was the brief report that concluded that an in-service evaluation (ISE) is still needed to answer questions about the feasibility, acceptability, effectiveness, and cost effectiveness of SMA screening in real world NHS services.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK NSC SMA ISE Partnership Board oversees the development of the ISE and provides reports and advice to the UK NSC via the Fetal, Maternal and Child Health (FMCH) expert reference group.",
+                "tag": "p"
+            },
+            {
+                "content": "The partnership board is responsible for the design and delivery of high-quality evidence on the feasibility, acceptability, cost, and clinical effectiveness of newborn screening for SMA. It includes screening experts from the 4 UK governments and NHS, organisations with a shared interest in newborn screening for SMA, clinicians, academics, genomic experts and patient and public voice members.",
+                "tag": "p"
+            },
+            {
+                "content": "Three sub-groups report to the partnership board: the clinical pathway sub-group, data and methodology sub-group, and laboratory sub-group.",
+                "tag": "p"
+            },
+            {
+                "content": "At its most recent meeting, the UK NSC SMA ISE Partnership Board was updated on the following activities.",
+                "tag": "p"
+            },
+            {
+                "content": "NIHR research call",
+                "tag": "h2"
+            },
+            {
+                "content": "The National Institute for Health and Care Research (NIHR) advertised its Health Technology Assessment (HTA) research brief \u00a0for the SMA screening ISE in May. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "NIHR hosted a workshop in July for applicants to gain a deeper understanding of the requirements of the project. Applicants were encouraged to seek advice from a clinical trials unit on methodology in rare disease research.",
+                "tag": "p"
+            },
+            {
+                "content": "NIHR outlined the following timetable for bids:",
+                "tag": "p"
+            },
+            {
+                "content": "NHS England preparations",
+                "tag": "h2"
+            },
+            {
+                "content": "The NHS England (NHSE) screening team updated the board on its extensive preparatory work for the ISE.",
+                "tag": "p"
+            },
+            {
+                "content": "This work includes aligning several key workstreams including the spending review, the National Institute for Health and Care Excellence (NICE) managed access agreement for 2 SMA treatments, laboratory contracts, laboratory preparations, test methodology considerations and IT developments.",
+                "tag": "p"
+            },
+            {
+                "content": "All this work needs completing in preparation for adding SMA to the end-to-end, safely managed newborn blood spot (NBS) screening pathway. The NHSE team now plans to establish an implementation group to oversee this activity.",
+                "tag": "p"
+            },
+            {
+                "content": "This is taking place at the same time as NHSE prepares for the addition of hereditary tyrosinaemia type 1 and the extension of the ISE for severe combined immunodeficiency (SCID) in the NBS screening programme.",
+                "tag": "p"
+            },
+            {
+                "content": "Clinical pathway sub-group",
+                "tag": "h2"
+            },
+            {
+                "content": "The clinical pathway sub-group \u00a0is tasked with defining the SMA screening pathway, up to the point of treatment.",
+                "tag": "p"
+            },
+            {
+                "content": "The group is exploring professional endorsement for the clinical pathway via a professional body.",
+                "tag": "p"
+            },
+            {
+                "content": "An important element of the clinical pathway group\u2019s work is the development of SMA screening information for parents, the public and healthcare staff. The board was updated on the outputs from a task and finish group that has now developed draft SMA information for parents and professionals to support the ISE.",
+                "tag": "p"
+            },
+            {
+                "content": "This draft content includes pre-screening information for parents, a check list for staff before the first phone call to parents, text for follow-up emails, and staff training slides. These resources have been circulated to the board members. The content will be developed further and user-tested before being finalised so that it can sit alongside existing NBS screening programme resources.",
+                "tag": "p"
+            },
+            {
+                "content": "Parents, people with SMA and healthcare staff will continue to be actively involved in the development of these materials.",
+                "tag": "p"
+            },
+            {
+                "content": "Data and methodology sub-group",
+                "tag": "h2"
+            },
+            {
+                "content": "The data and methodology sub-group contributed to the HTA research commissioning brief.",
+                "tag": "p"
+            },
+            {
+                "content": "Following the completion of this work, the sub-group chair discussed the need for the group to review its membership and terms of reference in preparation for providing oversight to the ISE and monitoring milestones.",
+                "tag": "p"
+            },
+            {
+                "content": "Laboratory sub-group",
+                "tag": "h2"
+            },
+            {
+                "content": "The laboratory sub-group continues its preparatory work and will meet again in October.",
+                "tag": "p"
+            },
+            {
+                "content": "All partnership board members were reminded of the importance of declaring any actual or potential conflicts of interest. Actions to mitigate conflicts of interest, if appropriate, are agreed in line with the UK NSC\u2019s declarations of interest guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u00a0register to receive updates\u00a0direct to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u00a0uknsc@dhsc.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2025/09/18/partnership-board-updated-on-work-to-review-evidence-for-sma-newborn-screening/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "The SMA screening ISE partnership board was updated on a range of activities at its most recent meeting."
+    },
+    {
+        "title": "Louise Smyth CBE: my final chapter at Companies House\u00a0",
+        "authors": [
+            "Louise Smyth CBE - Chief Executive and Registrar of Companies for England and Wales"
+        ],
+        "posted_on": "2025-09-18T10:50:00",
+        "categories": [
+            "Companies House transformation",
+            "Working at Companies House"
+        ],
+        "content": [
+            {
+                "content": "I joined Companies House as Chief Executive and Registrar of Companies for England and Wales in 2017, and it's been an honour and a privilege to hold that title.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I felt truly at home when I arrived at Companies House 8 years ago. I knew straight away that it\u2019s a fabulous organisation with lots of spirit, and full of brilliant people delivering excellent services.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through all the twists and turns of the last 8 years, those brilliant people have been the golden thread.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are a few achievements that stand out for me over the last few years and show how far we\u2019ve come as an organisation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Launching the Register of Overseas Entities\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We launched the Register of Overseas Entities in August 2022, just 3 months after the Economic Crime (Transparency and Enforcement) Act received royal assent following the Russian invasion of Ukraine. We had a lot of work to do in a very short space of time, and everyone pulled together to deliver the new register. ",
+                "tag": "p"
+            },
+            {
+                "content": "The register is a key part of the government\u2019s strategy to tackle global economic crime, and I\u2019m particularly proud that we received an Innovation Excellence award from the Corporate Registers Forum for this work.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Implementing the Economic Crime and Corporate Transparency Act\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "2024 was a hugely important year in our long history with the implementation of our new and enhanced powers under the Economic Crime and Corporate Transparency (ECCT) Act.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m so proud of the way we\u2019ve transformed since bringing in the Act. We've stepped up to our new role in disrupting economic crime and preventing abuse of the register, while supporting economic growth and ease of doing business in the UK. We're making progress in moving from a passive registry to an active gatekeeper, and we\u2019re already seeing real-world impacts.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "CBE (Commander of the Order of the British Empire)\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In December 2024, I was deeply honoured to receive a CBE in the King's New Year Honours list for services to public life and the economy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This recognition reflects the collective achievements of my brilliant colleagues at Companies House, and our dedication to delivering high quality public services. I was so proud to receive this honour during my final year at Companies House.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Platinum Investors in People awards\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In August 2025, we achieved the platinum \u2018we invest in wellbeing\u2019 award from Investors in People. We also retain the platinum \u2018we invest in people\u2019 award \u2013 something only achieved by 3% of employers. I\u2019ve always championed a culture where people can bring their whole selves to work, and this is a special achievement that\u2019s very close to my heart.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Handing over to my successor\u202f\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As I prepare to retire and hand over to my successor, Andy King, I'm so proud of everything we've achieved together at Companies House. These achievements do not happen without a lot of hard work and determination, and the brilliant people I've worked with over the last 8 years have shown resilience, innovation and commitment.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The scale of our responsibility continues to grow. More than 5.4 million limited companies are now registered in the UK, with more than 500,000 new companies incorporated each year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These numbers represent real businesses, real entrepreneurs, and real economic activity that we're here to support and protect. My main ambition has always been to make changes that make a real difference to people\u2019s lives and livelihoods. I'm looking forward to handing over to Andy, knowing he'll inherit an exceptional team of people with that same ambition to make a difference.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I have complete confidence that Companies House will continue to evolve and adapt, supporting economic growth while making the UK an increasingly difficult place for those looking to commit economic crime.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As I move ahead to my next chapter, I\u2019ll never forget my time at Companies House \u2013 it'll always have a special place in my heart.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://companieshouse.blog.gov.uk/2025/09/18/louise-smyth-cbe-my-final-chapter-at-companies-house/",
+        "blog": "Companies House",
+        "blog_link": "https://companieshouse.blog.gov.uk",
+        "description": "As our Chief Executive, Louise, prepares to retire, she reflects on the past 8 years at Companies House and how far we\u2019ve come as an organisation."
+    },
+    {
+        "title": "Using AI to accelerate delivery during the discovery phase",
+        "authors": [
+            "Jenny Taylor"
+        ],
+        "posted_on": "2025-09-18T10:28:51",
+        "categories": [
+            "AI"
+        ],
+        "content": [
+            {
+                "content": "Jenny Taylor, Delivery Group Lead within Digital, Data, Technology and Security (DDTS) at Defra, Zoe Wilkins, Delivery Manager and Chris Leo, Head of User-centred Design Assurance, share how they are making the most of artificial intelligence (AI) to accelerate delivery in their area.",
+                "tag": "p"
+            },
+            {
+                "content": "We are proud to be part of a group that\u2019s driving digital innovation to support environmental outcomes by exploring how AI tools and practices can help us move faster, without compromising on quality.",
+                "tag": "p"
+            },
+            {
+                "content": "One of our most recent ventures is a discovery phase within a programme that demands cross-department collaboration bringing policy, legislation, operations, and digital services together in a truly multidisciplinary way.",
+                "tag": "p"
+            },
+            {
+                "content": "How AI is supercharging our discovery phase",
+                "tag": "h2"
+            },
+            {
+                "content": "The digital team are currently in the discovery phase. We've been on an exciting journey as part of a pilot to explore how AI can enable our work.",
+                "tag": "p"
+            },
+            {
+                "content": "It's been a fascinating six weeks, and we want to share some of our key lessons learned, both the highs and the hurdles, so other teams can benefit from our experience.",
+                "tag": "p"
+            },
+            {
+                "content": "From the very beginning, we had a strong foundation and clear objectives that included specific AI deliverables, which helped us stay focused. The support from Defra's AI Capability and Enablement (AI CE) team was invaluable. They gave us a solid starting point with sessions on AI ways of working, the AI SDLC and approved tools, and a fantastic prompt masterclass.",
+                "tag": "p"
+            },
+            {
+                "content": "A real game-changer was having our user centred design lead, Paul, embedded with the AI CE team for a month before our project officially started. This gave us a head start and really jump-started the team's enthusiasm for AI.",
+                "tag": "p"
+            },
+            {
+                "content": "Our first foray into AI",
+                "tag": "h2"
+            },
+            {
+                "content": "In the early weeks, we discovered some incredible uses for AI.",
+                "tag": "p"
+            },
+            {
+                "content": "Deep research assistant",
+                "tag": "h4"
+            },
+            {
+                "content": "AI tools have been amazing at helping us rapidly search public government information to understand complex topics and create initial process flows. This meant we never went to a stakeholder meeting with a blank page, making the most of their valuable time.",
+                "tag": "p"
+            },
+            {
+                "content": "Our tech lead, Ali, was able to pull out key stats and information in a matter of hours, a task that would have taken days without AI.",
+                "tag": "p"
+            },
+            {
+                "content": "Drafting user research materials",
+                "tag": "h4"
+            },
+            {
+                "content": "For our user-centred design work, AI was a huge help. It let us quickly generate draft user profiles and discussion guides based on prior research, which we are now validating with real users. This saved us a significant amount of time.",
+                "tag": "p"
+            },
+            {
+                "content": "The reality check",
+                "tag": "h2"
+            },
+            {
+                "content": "While AI has been a powerful accelerator, we quickly learned that it's not a silver bullet. It is not suitable (yet) for tasks like stakeholder mapping, planning, or managing risks and issues (RAIDs). It's a great assistant, but it can't replace critical thinking and expertise.",
+                "tag": "p"
+            },
+            {
+                "content": "We also found that not all AI tools are created equal. While we have access to MS365 CoPilot, we've found that other tools sometimes produce better outputs. Additionally, tools like Google and OpenAI have limitations on the amount of data they can analyse, making them useful for analysing smaller datasets (around 50 records) but not for large-scale analysis. The classification of documents also had an impact on the tools we used\u2013for most tools only documents classified up to \u2018Official\u2019 could be analysed. When using M365 CoPilot, which is accessed through our Defra laptops, we could analyse documents up to and including \u2018official-sensitive\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "Our secret",
+                "tag": "h2"
+            },
+            {
+                "content": "What really made the difference was our team's way of working.",
+                "tag": "p"
+            },
+            {
+                "content": "We created a shared prompt library and encouraged everyone to share their learnings. This collaborative approach meant that a great prompt created by our user-centred design guru could be tweaked and reused by our product manager.",
+                "tag": "p"
+            },
+            {
+                "content": "We also kept a running tally of our AI learnings in a Mural board, capturing prompts, outputs, time saved, and challenges. We shared these insights weekly with the AI enablement team.",
+                "tag": "p"
+            },
+            {
+                "content": "In our show and tells, we\u2019ve been transparent with our stakeholders, highlighting which items were accelerated by AI and what challenges we faced. This transparency led to stakeholders asking for their own AI tips, so we started including them in our show and tells too!",
+                "tag": "p"
+            },
+            {
+                "content": "A note of caution",
+                "tag": "h2"
+            },
+            {
+                "content": "Our biggest challenge came from MS Teams transcriptions. We learned the hard way that they're not always accurate. This is why we've made it a rule: always manually check transcriptions for errors before using them with any AI tool. We also make sure we check any AI outputs for accuracy too.",
+                "tag": "p"
+            },
+            {
+                "content": "What we\u2019ve learned",
+                "tag": "h2"
+            },
+            {
+                "content": "We have been working closely with colleagues in user centred design assurance throughout delivery to ensure we are applying agile methods effectively, and exploring how to integrate AI responsibly. Here are some of the most important lessons we\u2019ve learned.",
+                "tag": "p"
+            },
+            {
+                "content": "Pace",
+                "tag": "h4"
+            },
+            {
+                "content": "AI-enabled teams can only move as quickly as the delivery processes that support them. In our case, the established user research recruitment processes had to adapt to handle new AI-specific artefacts, such as updated consent forms for participants whose data would be processed by AI. This highlights the importance of aligning supporting processes with new ways of working if the benefits of AI are to be realised at pace.",
+                "tag": "p"
+            },
+            {
+                "content": "Traceability",
+                "tag": "h4"
+            },
+            {
+                "content": "We are building clear traceability to show how an AI reaches its conclusions to manage the risk of automation complacency, where automated outputs are accepted without questioning how they were generated.",
+                "tag": "p"
+            },
+            {
+                "content": "Efficiency",
+                "tag": "h4"
+            },
+            {
+                "content": "One emerging observation is that the work is surfacing opportunities to make some of the wider organisational processes more efficient. These learnings could be as valuable as the technology itself in improving delivery outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "Measurement",
+                "tag": "h4"
+            },
+            {
+                "content": "Ultimately, the success of this AI-assisted approach will be measured not by speed but by whether the findings genuinely reflect the user\u2019s reality. Every insight must be linked back to what a user actually said, ensuring we are amplifying the user\u2019s voice rather than producing an output that only appears accurate.",
+                "tag": "p"
+            },
+            {
+                "content": "The big takeaway",
+                "tag": "h2"
+            },
+            {
+                "content": "Our experience has shown us that AI is an incredible tool for accelerating specific parts of the discovery process, especially research and understanding of the problem space and policy intent. The key is to see it as a powerful assistant, not a replacement for human judgment.",
+                "tag": "p"
+            },
+            {
+                "content": "By combining the right tools with a collaborative mindset and a strong human-in-the-loop approach, we've been able to make our discovery phase more efficient and effective.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2025/09/18/using-ai-to-accelerate-delivery-during-the-discovery-phase/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "Jenny Taylor, Delivery Group Lead within Digital, Data, Technology and Security (DDTS) at Defra, Zoe Wilkins, Delivery Manager and Chris Leo, Head of User-centred Design Assurance, share how they are making the most of artificial intelligence (AI) to accelerate delivery in their area."
+    },
+    {
+        "title": "CSHT opens for applications\u00a0",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2025-09-18T10:05:04",
+        "categories": [
+            "Countryside Stewardship",
+            "environmental land management schemes"
+        ],
+        "content": [
+            {
+                "content": "From today (18 September 2025), eligible farmers, foresters and land managers who\u2019ve received pre-application advice and completed any necessary preparatory works will be invited, on a rolling basis, to apply for Countryside Stewardship Higher Tier (CSHT) online.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re launching the CSHT scheme through a controlled rollout in 2025 and 2026. This means that for now, access is by invitation only.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This makes sure the service runs smoothly and that the right support is in place for those applying.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since January, more than 1,500 people have already been invited to receive pre-application advice from Natural England and the Forestry Commission.",
+                "tag": "p"
+            },
+            {
+                "content": "The first invitations for pre-application advice went to farmers with CSHT agreements ending in 2025, those with an approved woodland management plan and those applying for an agri-environment agreement who already have a plan in place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019ve completed your pre-application advice the Rural Payments Agency (RPA) will send you an email inviting you to start your CSHT application. ",
+                "tag": "p"
+            },
+            {
+                "content": "Invitations are being sent out in phases as the scheme is rolled out. The RPA will contact you when it\u2019s your turn to apply. You do not need to contact RPA to check.",
+                "tag": "p"
+            },
+            {
+                "content": "A new and improved offer\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "CSHT supports a wide range of land types, including woodlands, farmed land, areas managed for nature, Sites of Special Scientific Interest, commons, and scheduled monuments.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new CSHT offer includes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "CSHT agreements can last for 5, 10, 15 or 20 years, depending on the actions included. Agreements can also include capital items, which must be completed within three years of the agreement start date.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last week, we published updated CSHT guidance on GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This includes the scheme\u2019s terms and conditions and a link to the 'Find funding for land or farms' tool. ",
+                "tag": "p"
+            },
+            {
+                "content": "The 'Find funding for land or farms' tool has been refreshed and now includes all CSHT actions and supplements to help you plan your application.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Capital grant plans\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Before you apply for woodland management or agroforestry actions under CSHT, you\u2019ll need a plan approved by the Forestry Commission.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This means having either:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You may need a species management plan, depending on the actions you choose.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each CSHT action sets out whether a plan or feasibility study is needed as part of the pre-application process. You can check this using the 'Find funding for land or farms' tool.",
+                "tag": "p"
+            },
+            {
+                "content": "Capital Grant funding is available to help you prepare these plans. For full details, see the CSHT guidance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to apply\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "If you\u2019ve been invited to apply, you\u2019ll have the option to start your CSHT application in the Rural Payments service.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before applying, make sure you have an account in the Rural Payments service and the correct permission to apply. You can find guidance on how to check this in the CSHT guidance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the service, select the CSHT actions and capital items that your land is eligible for. These should match what you agreed with your adviser during your pre-application advice, or the recommendations in your invitation email.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once you\u2019ve added all actions and items, your application will be reviewed by Natural England or the Forestry Commission. You may need to submit supporting maps and quotes at this point. You may be asked to provide additional supporting documents, such as business viability information, when you submit your application or receive an offer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After the review, Natural England or the Forestry Commission will either ask you to make changes or they will approve your application.",
+                "tag": "p"
+            },
+            {
+                "content": "When the review is complete and any changes have been made, you can submit your application. You\u2019ll need to provide the RPA with any supporting evidence.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After the RPA has carried out its checks, you\u2019ll receive an agreement offer in the Rural Payments service. You must accept this offer before your agreement can start.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "CSHT is part of the government\u2019s \u00a311 billion plan to support sustainable farming and food production over this parliament. Funding for environmental land management schemes, including CSHT, will increase by 150% to \u00a32 billion by 2029.",
+                "tag": "p"
+            },
+            {
+                "content": "This investment underlines the government\u2019s commitment to protecting the environment and supporting farming communities, as set out in the Plan for Change.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Invitations to apply will continue to be issued on a rolling basis to those who have completed pre-application advice.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know some people who would like to apply are not yet able to. Work is underway to plan the next phase, including identifying which groups will be invited, and we\u2019ll share more details as soon as possible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Details of webinars will follow.",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the Farming Blog to get a notification whenever a new post is published.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2025/09/18/csht-opens-for-applications/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "From today, eligible farmers, foresters and land managers who\u2019ve received pre-application advice and completed any necessary preparatory works will be invited, on a rolling basis, to apply for Countryside Stewardship Higher Tier (CSHT) online.\u00a0\u00a0\u00a0"
+    },
+    {
+        "title": "How we're modernising our digital services to deliver faster land registration",
+        "authors": [
+            "Sophie Rikards, DDAT Digital Product Team"
+        ],
+        "posted_on": "2025-09-18T09:55:13",
+        "categories": [
+            "Digital services"
+        ],
+        "content": [
+            {
+                "content": "The recent news that we passed our target for reducing the age of our oldest cases is a major achievement for the organisation. To go further, we're accelerating our digital transformation to give customers faster, more efficient services whilst reducing the age of unprocessed applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are working to make land registration more efficient and resilient by using digital tools and improving our processes. From the moment customers start working on an application to the point it's completed by HM Land Registry, we're ironing out inefficiencies to deliver a better, faster service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improving our own systems and processes",
+                "tag": "h2"
+            },
+            {
+                "content": "We've made significant progress in speeding up our services through automation. While speed is our priority, we are also always conscious of the integrity of the register so we are rolling this automation out carefully across different types of application. We've fully automated several types of the simpler applications (e.g. removing a deceased owner\u2019s name from the register) and introduced elements of automation throughout many others. This includes automating 30,000 additional Charge applications in the last financial year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will be expanding our internal automation, bringing more types of application into our Application Processing engine. This not only speeds up those applications but also frees up our caseworkers to focus on other, complex applications like First Registrations or leases. This in turn results in much quicker completion times and reduces the overall age of unprocessed applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, to unlock even greater speed improvements, we need to reduce the number of applications that require manual checking due to simple errors. That's why we're implementing mandatory digital checks across all our digital channels.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Adding digital checks to our Registration Service",
+                "tag": "h2"
+            },
+            {
+                "content": "We've built a new application system that performs digital validation checks on all applications submitted through Business Gateway. These checks are already completed in our web service, DRS, so this change brings parity to our registration service irrespective of the channel used. This technology quickly catches errors before applications are submitted, preventing delays and requisitions that slow down the process. A full list of what these digital checks will be looking for is covered in our online guidance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By 2028 this could save customers an estimated 300,000 hours a year, waiting for an unnecessary, manual, administrative process, and end avoidable requisitions that can be resolved much earlier. This is roughly 150 people, working full time, for a year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're already testing this new Registration Service with early adopters before a wider rollout this autumn/October. Contact your software provider, or in house tech-teams, to discuss when this service will be available for your teams.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Making portal easier for customers",
+                "tag": "h2"
+            },
+            {
+                "content": "We have enhanced the Digital Registration Service (DRS) on our portal, with additional digital checks for Adding Additional Parties (Transferors, Landlords and Tenants), making it easier for customers to submit accurate applications first time, which speeds up processing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are also enhancing DRS on portal to ensure that all customers can submit digital applications, with new functionality like small scale applications (with 26-199 titles) and additional transaction types\u202fbeing added in the next few months. In talking to customers, we know that DRS hasn\u2019t supported some of the less common application types.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once these elements have been added to DRS we will then begin the process of decommissioning our older, legacy application services like eDRS by Spring 2026.\u00a0We will be reaching out to the small group of customers who use the service in the coming months.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s happening with Qualified Electronic Signatures?",
+                "tag": "h2"
+            },
+            {
+                "content": "Finally, we have also expanded our work on Qualified Electronic Signatures (QES), working with lenders and others in the market to ensure we can process electronically signed deeds. This technology uses long-established, well-regulated technology and promises greater flexibility and simplicity for our customers and their clients.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are encouraging customers who are able to use QES now to get in touch and help us manage the initial applications we receive.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering faster service for everyone",
+                "tag": "h2"
+            },
+            {
+                "content": "I wanted to end by quoting Mark Gray, our Chief Transformation & Technology Officer:",
+                "tag": "p"
+            },
+            {
+                "content": "These changes will reduce processing times, improve application quality, and give HM Land Registry greater capacity to handle fluctuations in demand \u2013 ensuring consistent, fast service even during busy periods.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://hmlandregistry.blog.gov.uk/2025/09/18/how-were-modernising-our-digital-services-to-deliver-faster-land-registration/",
+        "blog": "HM Land Registry",
+        "blog_link": "https://hmlandregistry.blog.gov.uk",
+        "description": "We passed our target for reducing the age of our oldest cases. To go further, we're accelerating our digital transformation to give customers faster, more efficient services whilst reducing the age of unprocessed applications.\u00a0"
+    },
+    {
+        "title": "How OfDIA is driving adoption of secure digital verification services",
+        "authors": [
+            "Adele Kersey"
+        ],
+        "posted_on": "2025-09-18T09:19:56",
+        "categories": [
+            "Digital identity"
+        ],
+        "content": [
+            {
+                "content": "Whether applying for a credit card or starting a new job, digital verification services (DVS) are already saving people and businesses time and money. But to make sure the benefits of DVS are realised in sectors right across the economy, OfDIA is working to unlock new opportunities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How we prioritise use cases\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "How many times have you wished you could prove something about yourself without digging out your old documents or standing in a queue? We know there are hundreds of use cases that could benefit from adopting DVS, but without unlimited resources, we had to figure out where to focus our effort to remove barriers and boost adoption.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We consider three main factors:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we have done so far\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ve already taken some big steps towards our goal of widespread adoption of digital identities, for example in the employment sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you've started a new job recently, you might have noticed that you didn't need to turn up to your new workplace with your passport, and instead, you might have completed a quick and simple digital ID check through a certified DVS.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Hiring and onboarding new employees is an area of the economy where secure use of DVS is already speeding things up, saving people and businesses time and money. When the Covid-19 pandemic caused a rapid rise in remote working, increasing the demand for digital checks, we worked closely with the Home Office to change UK legislation, allowing digital verification for Right to Work (RTW) and Disclosure and Barring Service (DBS) checks.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Now, we see millions of secure and privacy preserving digital RTW and DBS checks taking place each month, reducing time spent on these from days to just minutes, and getting new employees into new jobs much sooner.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping focused on the top priorities\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Beyond employment, there are two other use cases which we are currently prioritising: age verification and financial services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Age-restricted products and services have a clear regulatory driver for age checks, with digital verification offering potentially huge efficiency savings for businesses as well as a better experience for customers. It\u2019s also a sector where both relying parties and DVS have clamoured for change and demonstrated solutions which, once barriers are removed, could be implemented quickly.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Earlier this year, the Home Office announced they would be updating the law to allow for the use of DVS for alcohol purchases in England and Wales. We expect changes to be in place by the end of the year, and are currently focusing our efforts on the requirements, to keep these checks safe and secure. You can read our blog post on using a digital identity to buy alcohol safely and securely to find out more.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But we are not stopping with alcohol. The upcoming legal changes provide an ideal opportunity to drive the adoption of DVS for other age restricted goods. After all, once people can use their digital ID to buy a bottle of wine, they\u2019ll expect it to have the same purchasing power for things like tobacco and vapes, fireworks or gambling. That\u2019s why we are working across government to promote consistency across in the rules for the sale of other age restricted products.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In parallel, we are also working hard to progress the adoption of DVS in financial services. This is also a highly regulated sector, with financial institutions required to undertake Know Your Customer (KYC) checks when onboarding new customers. There are also clear benefits to being able to ensure that payments have been authorised by the right person, without that person needing to visit their bank in person.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To date, there has been a lack of clarity in the financial services industry as to how digital identities can be used to meet obligations under the Money Laundering Regulations (MLRs).\u00a0 The government has committed to produce bespoke GOV.UK guidance on using DVS for MLRs identity verification checks. This guidance will provide clarity on the definition of a digital identity and give further detail on how trust framework certified DVS can be used in line with the MLRs\u2019 risk-based approach. You can read more about this work in our previous blog post on trusted DVS in financial services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping up momentum elsewhere\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "There are numerous other areas of the economy where DVS can play a transformative role. While our highest priority sectors are employment, age restricted products and financial services, we are also working to drive adoption across other areas of the economy, such as property and travel. We are continuing to work with government departments, regulators and sector representatives to remove barriers, and enable secure and robust checks.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If there are other areas which you think OfDIA should prioritise to help unlock progress, then let us know.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2025/09/18/how-ofdia-is-driving-adoption-of-secure-digital-verification-services/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "Whether applying for a credit card or starting a new job, digital verification services (DVS) are already saving people and businesses time and money. But to make sure the benefits of DVS are realised in sectors right across the economy, \u2026"
+    },
+    {
+        "title": "New Voices, Real Impact: Why Early Talent and Different Thinking Matters\u00a0",
+        "authors": [
+            "Nava Ramanan"
+        ],
+        "posted_on": "2025-09-18T08:50:53",
+        "categories": [
+            "a great place to work",
+            "Diversity and Inclusion",
+            "National Inclusion Week",
+            "Our Culture",
+            "Our People",
+            "representation matters"
+        ],
+        "content": [
+            {
+                "content": "One of the most rewarding aspects of leading the Digital Infrastructure & Security Operations (DISO) team within the Ministry of Justice is witnessing the energy and fresh thinking that new joiners bring. This year, we welcomed another brilliant cohort of interns, apprentices, and Civil Service Fast Streamers. They arrived with curiosity, drive, and a sense of purpose and I couldn\u2019t be more grateful for the impact they are already making.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the past four years, our team has consistently embraced early talent programmes, and the results speak for themselves.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who We Are and Why Fresh Thinking Matters\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "DISO underpins the digital infrastructure that keeps the Ministry of Justice running from secure networks and cloud hosting to cyber defence and video platforms for courts and prisons. Whether it\u2019s rolling out new WiFi in probation offices or ensuring secure access to data, we enable MoJ colleagues to deliver services seamlessly and safely.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is complex and critical work. But it\u2019s also deeply human. To do it well, we need people who challenge assumptions, ask bold questions, and approach problems in new ways.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Diversity, Defined Differently\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For me, diversity means thinking differently. Yes, it is about representation and fairness but it\u2019s also about encouraging varied approaches to problem-solving. It\u2019s about amplifying voices that don\u2019t always sound like our own and building teams that thrive because of their differences. That\u2019s why our early talent programmes matter so much.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Summer Internship Programme (SIP)\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The SIP offers undergraduates a meaningful glimpse into Civil Service careers through two-month placements, with a focus on regional opportunities and STEM backgrounds aligning with MoJ\u2019s Places for Growth goals.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our SIP interns are already making an impact.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a member within our team highlighted, \u201cThe intern we had was fantastic, quick to learn and genuinely interested in everything we did. It made me reflect on things I hadn\u2019t considered before and brought fresh challenges in a really positive way.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Interns who complete the SIP and meet agreed outcomes with their line managers may also gain a fast pass to the Civil Service Fast Stream programme.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Autism Exchange Internship Programme (AEIP)\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This programme is close to my heart. AEIP helps young autistic people gain work experience in a supportive environment. This year, placements were extended to eight weeks to deepen their impact.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As someone who co-founded a charity supporting parents of autistic children, I\u2019ve seen firsthand the superpowers neurodivergent individuals bring exceptional focus, pattern recognition, creative thinking, and honest communication. When we support neurodiverse colleagues well, everyone benefits.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cIt has been an amazing experience. Thanks to the team for all the opportunities, advice, and kindness.\u201d- Adam, former AEIP intern\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "DISO has proudly hosted AEIP interns for several years, and we are exploring ways to go even further.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Civil Service Fast Stream: Building Future Leaders\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Fast Stream develops future leaders through diverse postings, big responsibilities, and deep learning. Many Fast Streamers have rotated through DISO, bringing strategic, systems-level thinking to our work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is especially encouraging is that many have chosen to stay, taking on full-time roles and growing their careers with us. That speaks volumes about both the calibre of talent and the culture we are building.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What Early Talent Brings\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across SIP, AEIP, apprenticeships, and the Fast Stream, our early talent has:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They have made us a better team not just more capable, but more reflective, inclusive, and open to change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking Ahead\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a leader, I believe in challenging with courage, listening with intent, and leaving people and systems stronger than before. That is why early talent and the diversity of thought they bring isn\u2019t just important to DISO. It\u2019s essential.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we continue to invest in early talent and embrace diverse thinking, we are\u00a0 shaping a more inclusive, innovative future for public service.",
+                "tag": "p"
+            },
+            {
+                "content": "To everyone who has joined us, thank you. You have already made your mark.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To those considering a future in government tech: there is space for you.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2025/09/18/new-voices-real-impact-why-early-talent-and-different-thinking-matters/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "One of the most rewarding aspects of leading the Digital Infrastructure & Security Operations (DISO) team within the Ministry of Justice is witnessing the energy and fresh thinking that new joiners bring. This year, we welcomed another brilliant cohort of \u2026"
+    },
+    {
         "title": "Adding actuarial value to workforce modelling",
         "authors": [
             "Jo Howlett - GAD Head of Workforce Strategy"
