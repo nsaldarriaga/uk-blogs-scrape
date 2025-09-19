@@ -1,5 +1,739 @@
 [
     {
+        "title": "Latest statement in response to small boat crossings",
+        "authors": [
+            "Home Office news team"
+        ],
+        "posted_on": "2025-09-19T16:30:39",
+        "categories": [
+            "Reactive statements"
+        ],
+        "content": [
+            {
+                "content": "Home Secretary Shabana Mahmood said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThese small boats crossings are utterly unacceptable and the vile people-smugglers behind them are wreaking havoc on our borders.",
+                "tag": "p"
+            },
+            {
+                "content": "\"Thanks to our deal with France, people crossing in small boats can be detained and the first removals have now begun.",
+                "tag": "p"
+            },
+            {
+                "content": "\"Protecting the UK border is my priority as Home Secretary and I will explore all options to restore order to our immigration system.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Background:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://homeofficemedia.blog.gov.uk/2025/09/19/latest-statement-in-response-to-small-boat-crossings/",
+        "blog": "Home Office in the media",
+        "blog_link": "https://homeofficemedia.blog.gov.uk",
+        "description": "Home Secretary Shabana Mahmood said: \u201cThese small boats crossings are utterly unacceptable and the vile people-smugglers behind them are wreaking havoc on our borders. \"Thanks to our deal with France, people crossing in small boats can be detained and the \u2026"
+    },
+    {
+        "title": "UKHSA National Poison Information Service\u00a0Alpha Reassessment",
+        "authors": [
+            "Man-Yee Lam"
+        ],
+        "posted_on": "2025-09-19T15:45:21",
+        "categories": [
+            "Alpha",
+            "Assurance",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From:\u00a0DHSCAssessment date:\u00a025/01/2024Reassessment date: 02/05/2024Stage:\u00a0Alpha reassessmentResult:\u00a0Met at reassessmentService provider:\u00a0UKHSA",
+                "tag": "p"
+            },
+            {
+                "content": "Service description\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The National Poisons Information Service (NPIS) is a 24/7 phoneline that healthcare practitioners can call for bespoke advice on suspected poisoning.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Product Data Centre (PDC) is one of an ecosystem of tools and services which support the Specialists in Poison Information (SPIs) who answer the phoneline. The PDC holds information on products and their ingredients, supplied by industry.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The focus of this discovery and alpha is the database of over 300,000 household and industrial products and their corresponding safety data sheets which are used by SPIs to identify a product and its ingredients during calls and to support the creation of healthcare guidance.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Service users are Specialists in Poison Information (SPIs) who input data, create guidance and take calls.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Industry professionals who either wish to, or are mandated to, (in Northern Ireland) supply product ingredient information.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 2 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u00a0\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service did not meet point 3 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was not able to assess point 3 properly for the following reasons:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\nReassessment\nDecision\n\nThe service did meet point 3 of the Standard.What the team has done well\u00a0 The panel was impressed that:\u00a0\nthe team has utilised service design thinking and techniques to investigate and test assumptions around the interoperability of the service within the existing ecosystem, and have iterated the MVP to reflect their findings\u00a0\nthe team has engaged with wider comms teams to develop onboarding comms, and have been testing and iterating the content\u00a0\nthe team has identified an assisted digital route for the service\u00a0\u00a0\u00a0\n\n",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 4 of the Standard.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service did not meet point 5 of the Standard.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before moving into private beta the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\n\nReassessment Decision\u00a0The service met point 5 of the Standard.\u00a0What the team has done well\u00a0The panel was impressed that:\u00a0\nthe team has developed an ambitious plan for testing with a wide range of users prior to private beta\u00a0\nthe team has undertaken some user research with individuals with English as a second language (ESL), albeit proxy users \u00a0\u00a0What the team needs to explore\u00a0Before their next assessment, the team needs to:\u00a0\nconduct significantly more user research with users with low digital literacy, ESL, accessibility needs. Having the plan is great but you must stick to it to ensure the service is meeting user needs and to support team success at beta assessment\u00a0\nstrive to include individuals with accessibility needs, ESL and low digital literacy in every round of user research where possible. Your proposed plan appears to give a relatively short period of time to focusing on these individuals, they should feature throughout all your research and be a constant consideration in recruitment\u00a0\namend your research plan considering pre-election period\u00a0\ninform the DHSC digital assurance team to help with designing a more realistic plan if you feel that you cannot deliver against your user research plan in the timeframe stated\u00a0\u00a0\nensure that you are aware of, and working to confirm or disprove, your riskiest assumptions about your user group and the service you are creating\u00a0\u00a0\u00a0\nensure that the service you are creating caters to the needs of a broad range of users. It may appear that the user group is highly digitally literate at present, but this is not a certainty, nor will it necessarily be the case for all future users. The service should be designed for those with the most complex needs with regards to literacy, ESL, accessibility. If the service meets the needs of these users, it will meet the needs of the average user\u00a0\nkeep in mind that an individual's self-assessment of their digital literacy is not an accurate measure of their actual ability\nmake use of recruitment approaches beyond agencies, particularly if this route is delaying your research. There was a mention of using charities to recruit individuals with accessibility needs, this can often be a very fruitful approach and would be worth exploring. Ensure that you can show the panel at the beta assessment that you are doing all you can to recruit appropriate participants\n\n",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 6 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 7 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve frequently\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 9 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 10 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 12 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common components and patterns\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 13 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "14. Operate a reliable service",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed with:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2025/09/19/ukhsa-national-poison-information-service-alpha-reassessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "Read about the alpha reassessment on National Poison Information from UKSHA."
+    },
+    {
+        "title": "Delivering Opportunity\u00a0 - Breaking Down Barriers\u00a0\u00a0\u00a0",
+        "authors": [
+            "karlharvey1"
+        ],
+        "posted_on": "2025-09-19T12:30:22",
+        "categories": [
+            "#GFIEsuccessstory",
+            "Break down barriers to opportunity",
+            "Care Experienced",
+            "Care Leavers",
+            "Carers",
+            "Life Chance Recruitment",
+            "National Inclusion Week",
+            "Veterans"
+        ],
+        "content": [
+            {
+                "content": "This National Inclusion Week we are sharing the stories of some brilliant colleagues who have joined the civil service via Going Forward into Employment,\u00a0 a recruitment pathway into the civil service for people with barriers to employment. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the last 7 years over 3700 people have been recruited via GFiE pathways across the civil service.\u00a0 If you want to recruit differently to bring different voices into your team, you can use GFiE.",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more take a look at our pages on the civil service careers site https://www.civil-service-careers.gov.uk/about-gfie/ or email the team gfie@cabinetoffice.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gfie.blog.gov.uk/2025/09/19/delivering-opportunity-breaking-down-barriers/",
+        "blog": "Life Chance Recruitment - Going Forward into Employment (GFiE)",
+        "blog_link": "https://gfie.blog.gov.uk",
+        "description": "This National Inclusion Week we are sharing the stories of some brilliant colleagues who have joined the civil service via Going Forward into Employment,\u00a0 a recruitment pathway into the civil service for people with barriers to employment. \u00a0 Over the \u2026"
+    },
+    {
+        "title": "Building Bridges: How CSOC Connects UK Defence to NATO",
+        "authors": [
+            "bobsendall"
+        ],
+        "posted_on": "2025-09-19T12:00:00",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Captain Barry Kell, SO3 NATO Collective Training & Exercise, the Integrated Warfare Centre",
+                "tag": "p"
+            },
+            {
+                "content": "Our people are the lifeblood of CSOC \u2013 a dedicated force of 26,000 specialists stationed at over 130 sites worldwide. From cyber warriors and medics to intelligence analysts, special forces, educators, and Defence attach\u00e9s, our specialists are ready to fight across all domains to protect the UK.\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out how our specialist operators are across every UK operation, delivering the capabilities you don\u2019t usually see - or those you can\u2019t. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Strategic Defence Review outlines moving to \"warfighting readiness\" and establishing a more lethal integrated force.",
+                "tag": "p"
+            },
+            {
+                "content": "That transformation doesn't happen in isolation - it happens through the daily work of building relationships, sharing expertise, and ensuring that UK and NATO capabilities develop together.",
+                "tag": "p"
+            },
+            {
+                "content": "Captain Kell works on just this, his role in the Integrated Warfare Centre, which serves as Cyber & Specialist Operations Command's (CSOC) warfare centre, ensures that the UK's contribution to NATO exercises is aligned and impactful - making sure Britain doesn't just participate in NATO, we lead it.",
+                "tag": "p"
+            },
+            {
+                "content": "From Regiment to NATO",
+                "tag": "p"
+            },
+            {
+                "content": "When I commissioned into the Royal Logistic Corps in 2019, I never imagined that some years later I\u2019d be immersed in the world of NATO Collective Training and Exercising. After two regimental posts, I moved into my current role within the Integrated Warfare Centre at Cyber & Specialist Operations Command (CSOC). The role ensures that the UK\u2019s contribution to NATO exercises is coherent, relevant, and impactful.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s not about issuing orders or having formal authority. My job is to influence, connect, and educate \u2013 making sure the right people are in the right conversations at the right time. In many ways, we\u2019re the bridge between UK defence and NATO, helping the UK to be seen not just as a participant, but as a leading contributor.",
+                "tag": "p"
+            },
+            {
+                "content": "Shaping Exercises that matter",
+                "tag": "p"
+            },
+            {
+                "content": "Each year NATO\u2019s priorities are set by the Supreme Allied Commander Europe (SACEUR)\u2019s Collective Training and Exercise Directive. This document outlines the exercise programme two years in detail and five years in outline, covering everything from the large-scale STEADFAST series to niche, domain-specific events in areas such as space and cyber.",
+                "tag": "p"
+            },
+            {
+                "content": "My small team, within CSOC, works to align UK involvement with that cycle. Sometimes that means promoting attendance at planning milestones. Sometimes it\u2019s helping UK subject-matter experts take part in NATO script-writing sessions \u2013 where they can shape exercise storylines to benefit both NATO and UK forces. I often describe this as \u201chelping the UK find the stepping stones to a NATO-first mindset.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Defence diplomacy in action",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond planning, we also support the UK\u2019s role in exercise execution. Whether through response cells, observer roles, or specialist augmentees, these activities show NATO allies that the UK is committed and credible. They also help us build relationships and bring valuable insights back home.",
+                "tag": "p"
+            },
+            {
+                "content": "We work closely with organisations across Defence to push for the UK to be visible and influential at every stage, strengthening our ties through practical cooperation.",
+                "tag": "p"
+            },
+            {
+                "content": "This matters more than ever; we're in a new era of threat that demands deeper integration with our allies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Making NATO work for the UK",
+                "tag": "p"
+            },
+            {
+                "content": "Part of our uniqueness is understanding the mechanics of NATO exercises. For example, we manage the process of linking UK national exercises into larger NATO series like STEADFAST DEFENDER. We also guide UK services on how to access NATO common funding \u2013 a financial resource that helps offset costs but is often overlooked.",
+                "tag": "p"
+            },
+            {
+                "content": "Another tool is the clearing-house mechanism, which allows nations to offer or request specialist expertise. It\u2019s about matchmaking needs and capabilities so both NATO and the UK benefit.",
+                "tag": "p"
+            },
+            {
+                "content": "Lessons in scale and diversity",
+                "tag": "p"
+            },
+            {
+                "content": "Coming into this job from regimental duty was like moving from a hillside to a mountain range. Suddenly the scope of defence felt enormous. Working alongside NATO colleagues has been an education in itself \u2013 not just in processes and structures, but in culture. Conversations over coffee can be as valuable as formal meetings, giving insight into how different nations think and work.",
+                "tag": "p"
+            },
+            {
+                "content": "Those differences don\u2019t divide us; they strengthen us. Diversity of experience and perspective ultimately breeds better outcomes \u2013 and that\u2019s one of NATO\u2019s greatest strengths.",
+                "tag": "p"
+            },
+            {
+                "content": "The CSOC difference",
+                "tag": "p"
+            },
+            {
+                "content": "What excites me most about working within CSOC is the direction of travel: deeper UK integration with NATO, more visible contributions in key domains like space and cyber, and an exercise programme that constantly adapts to new threats.",
+                "tag": "p"
+            },
+            {
+                "content": "CSOC represents the future of warfare - integrated operations across multiple domains where traditional boundaries between air, land, sea, space, and cyber become irrelevant. When NATO exercises now routinely include cyber scenarios alongside conventional warfare, or when space-based assets support ground operations, that's the kind of integration we're helping to deliver.",
+                "tag": "p"
+            },
+            {
+                "content": "My role and my team's position act as a pivotal seat at the table - one that helps shape how the UK and NATO fight together as a truly joint force. We're not just participating in exercises; we're helping design the future of Alliance warfare.",
+                "tag": "p"
+            },
+            {
+                "content": "Building tomorrow's deterrence",
+                "tag": "p"
+            },
+            {
+                "content": "Every exercise we influence, every connection we make, and every capability we help integrate contributes to deterring aggression and maintaining the peace that has kept Europe secure for decades. In a world where our adversaries are working more closely together, our Alliance must be even stronger.",
+                "tag": "p"
+            },
+            {
+                "content": "That's what makes this role worthwhile. I may have started as a logistics officer, but now I'm helping to build the logistical framework for collective security itself. The stepping stones we're placing today will support the integrated force of tomorrow - one that keeps Britain safe and makes NATO stronger.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cyberandspecialistoperationscommand.blog.gov.uk/2025/09/19/building-bridges-how-csoc-connects-uk-defence-to-nato/",
+        "blog": "Cyber & Specialist Operations Command",
+        "blog_link": "https://cyberandspecialistoperationscommand.blog.gov.uk",
+        "description": "Captain Barry Kell, SO3 NATO Collective Training & Exercise, the Integrated Warfare Centre Our people are the lifeblood of CSOC \u2013 a dedicated force of 26,000 specialists stationed at over 130 sites worldwide. From cyber warriors and medics to intelligence \u2026"
+    },
+    {
+        "title": "Roundup of OPSS Vacancies",
+        "authors": [
+            "Sanya Berwise"
+        ],
+        "posted_on": "2025-09-19T11:28:19",
+        "categories": [
+            "Careers at OPSS",
+            "Vacancies"
+        ],
+        "content": [
+            {
+                "content": "Is Your Next Career  Move in Transforming Regulation? ",
+                "tag": "p"
+            },
+            {
+                "content": "At OPSS, we believe regulation should work for everyone.\u00a0Our mission is to promote consumer safety, drive economic growth, and support innovative research that delivers real-world impact.\u00a0To achieve this, we draw on the talents of experts across Legal, Analysis, Science & Engineering, and many other professions. We are sure to have a role for you!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We seek resilient, decisive, and visionary individuals who thrive in collaborative, mission-driven environments and are passionate about shaping impactful policy. Our culture prioritises well-being, flexibility, and open communication, empowering everyone to do their best work. Whether collaborating across departments or leading initiatives with real-world impact, you\u2019ll work alongside dedicated professionals committed to making a meaningful difference.\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our current vacancies:",
+                "tag": "p"
+            },
+            {
+                "content": "Lawyer  Sunday 21st September 2025",
+                "tag": "p"
+            },
+            {
+                "content": "*Please click the link to confirm the vacancy closing date.",
+                "tag": "p"
+            },
+            {
+                "content": "Discover your next opportunity at OPSS Careers",
+                "tag": "p"
+            }
+        ],
+        "link": "https://opss.blog.gov.uk/2025/09/19/roundup-of-opss-vacancies-7/",
+        "blog": "Office for Product Safety and Standards",
+        "blog_link": "https://opss.blog.gov.uk",
+        "description": "Our mission is to shape impactful policy through collaboration and specialist knowledge. Join us and help make regulation work better for all."
+    },
+    {
+        "title": "Train like an astronaut with Mission X",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-09-19T01:00:00",
+        "categories": [
+            "Championing Space"
+        ],
+        "content": [
+            {
+                "content": "There\u2019s an opportunity for children across the country to take part in Mission X \u2013 a programme that uses the excitement of space exploration to encourage engagement with science, technology, engineering, and mathematics (STEM), while promoting fitness and teamwork.",
+                "tag": "p"
+            },
+            {
+                "content": "This year, John McFall, a member of the European Astronaut Reserve, has given his backing to the programme. Through astronaut-inspired activities, students complete physical and scientific challenges, that earn them steps to help Mission X Mascots, Luna, and Leo, walk 384,400 km, the distance from Earth to the Moon.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge, which opens today (19 September), connects classrooms to the real-world science of space exploration and encourages curiosity, problem-solving, and collaboration.",
+                "tag": "p"
+            },
+            {
+                "content": "Last year, UK students collectively earned enough steps to support Luna and Leo to walk an impressive 29,128,000 steps \u2013 the equivalent of 21,846 km. This year, schools and groups across the country are aiming to walk even further, making their contribution to the global challenge bigger than ever.",
+                "tag": "p"
+            },
+            {
+                "content": "Mission X: Train Like an Astronaut, is an international project by the European Space Agency (ESA) and the UK Space Agency delivered in the UK by STEM Learning and the European Space Education Resource Office (ESERO UK).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "UK ESA astronaut Tim Peake, who flew to the International Space Station in 2015, has been a long-time supporter of Mission X. His Principia mission inspired millions of young people across the UK and continues to highlight how space can motivate the next generation of scientists and engineers.",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to register your school or group to take part in Mission X: Train Like an Astronaut, please visit: https://www.stem.org.uk/esero/primary/competitions-and-challenges/mission-x",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/09/19/train-like-an-astronaut-with-mission-x/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "Children across the country can train like an astronaut with Mission X!"
+    },
+    {
         "title": "RPC compares the quality of impact assessments submitted by government departments",
         "authors": [
             "Stephen Gibson"
