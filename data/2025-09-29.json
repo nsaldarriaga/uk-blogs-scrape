@@ -1,5 +1,647 @@
 [
     {
+        "title": "From Insight to Interface: My summer in Digital Design at UKEF",
+        "authors": [
+            "Isobel Murray"
+        ],
+        "posted_on": "2025-10-01T14:58:33",
+        "categories": [
+            "DDAT",
+            "User Centred Design",
+            "user research"
+        ],
+        "content": [
+            {
+                "content": "This summer I had the opportunity to spend 9 weeks as an intern in the Digital, Data and Technology (DDaT) directorate at UK Export Finance (UKEF).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From the outset of my internship, I was welcomed into an incredibly friendly team, and, over the course of the internship, I contributed to projects which aimed to make UKEF\u2019s services more accessible and intuitive, while gaining hands-on experience in agile ways of working.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This blog is a reflection on what I learned, what I contributed, and how the experience has shaped my perspective on digital work in the public sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My background\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I have completed my second year as an English language and literature student at the University of Oxford and, as I\u2019m on the cusp of my final year, life after university looms large and, prior to this internship, blurry and uncertain. UKEF wasn\u2019t really on my radar when I applied to the Summer Internship Project, and when I first saw the word \u2018finance,\u2019 as an English student I thought I would be wildly out of my depth. Not only this, but this would be my first time living in London for the duration of my internship.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The \u2018Change Front Door\u2019 Project\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I was tasked with leading a mini project and working with a small team to undertake research as part of a discovery on UKEF\u2019s existing Change Lab site and design a new Change Front Door site to capture change ideas within UKEF, based on user needs and government standards. Through the duration of the project I: \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It was particularly rewarding to conduct my own usability testing, similar to that which I had previously shadowed, where I ran through my own clickable prototype.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The culmination of this discovery, alpha and implementation was my presentation to roughly 70 people in the department summarising what I\u2019d achieved over the 9 weeks.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Additional projects I have worked on\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Parallel to this, I have:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My reflections\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My interactions with user research, service design and content design were limited to say the least before joining UKEF, but my work and learning in these areas have helped me to understand, not only how services are built, but how they are shaped by listening, empathy and iteration.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I am so grateful for the opportunities I\u2019ve been given by my team and specifically my wonderful line manager, Clara Galvin, to get involved in so many different projects, both working and shadowing. This experience has given me a deeper appreciation of thoughtful, inclusive design and an interest in pursuing this avenue as a future career path. Following this internship, life after university feels substantially less blurry and uncertain and I am now excited about the possibility of pursuing a role in the civil service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I can\u2019t even begin to express my gratitude to all the people who have been hugely generous with their time and support, allowing me to fully engage in work in which I was completely clueless 9 weeks ago!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This summer of living and working in London for the first time in my life has been such a privilege and a brilliant experience for which I will always be immensely thankful.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukefdigital.blog.gov.uk/2025/10/01/from-insight-to-interface-my-summer-in-digital-design-at-ukef/",
+        "blog": "UK Export Finance Digital, Data and Technology blog",
+        "blog_link": "https://ukefdigital.blog.gov.uk",
+        "description": "Izzy tells us about her experience as an intern in UKEF DDAT"
+    },
+    {
+        "title": "Safety of Nitrates and Nitrites as Food Additives",
+        "authors": [
+            "Dr James Cooper, Deputy Director of Food Policy"
+        ],
+        "posted_on": "2025-10-01T14:30:00",
+        "categories": [
+            "Science"
+        ],
+        "content": [
+            {
+                "content": "Our role at the FSA is to put people first. That means being transparent about the risks in our food, and providing you with clear, science-based information to help you make informed choices about foods you eat. A good example of this is a report we\u2019ve just published into the potential risks of nitrates and nitrites in food.",
+                "tag": "p"
+            },
+            {
+                "content": "Which foods contain nitrates?",
+                "tag": "p"
+            },
+            {
+                "content": "Nitrates and nitrites are part of our daily diet. The vast majority, up to 95%, comes naturally from vegetables, like spinach, lettuce, celery, and beetroot. About 5% comes from their use as food additives, predominantly in processed meats. In products like bacon and ham, nitrates and nitrites are used to prevent the growth of dangerous bacteria like Clostridium botulinum, which causes botulism\u2014a potentially fatal illness. They also preserve the colour and add to the distinct flavour of these products.",
+                "tag": "p"
+            },
+            {
+                "content": "Are nitrates safe in food?",
+                "tag": "p"
+            },
+            {
+                "content": "There\u2019s no evidence to suggest that processed meat made without the use of nitrates is a safer alternative. The report we\u2019ve published today shows that while nitrates and nitrites can form compounds called nitrosamines, many of which are carcinogenic, the link to serious health problems like cancer in humans remains inconclusive.",
+                "tag": "p"
+            },
+            {
+                "content": "How is nitrate use monitored?",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s worth remembering that all food additives used in the UK, including nitrates and nitrites, undergo rigorous safety assessments before approval, these approvals include what foods an additive can be used in and also maximum limits. The current evidence suggests that permitted maximum levels of nitrites and nitrates in the UK are set at a level to keep people protected.",
+                "tag": "p"
+            },
+            {
+                "content": "Should I avoid nitrates in my diet?",
+                "tag": "p"
+            },
+            {
+                "content": "It is possible to avoid foods containing these additives, as they must be labelled with both what they do, for example a \u2018preservative\u2019, along with the full name or E number. But you don\u2019t need to avoid these foods completely, there are simple steps you can take to minimise any potential risks while maintaining a healthy, varied diet.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s recommended that you do not eat too much processed meat. The NHS advises that \u00a0eating processed meats carries an increased risk of bowel cancer and high blood pressure, so people eating more than 90g of red or processed meat a day to cut down to no more than 70g.",
+                "tag": "p"
+            },
+            {
+                "content": "Ein r\u00f4l ni yn yr Asiantaeth Safonau Bwyd yw rhoi pobl yn gyntaf. Mae hynny\u2019n golygu bod yn dryloyw yngl\u0177n \u00e2\u2019r risgiau yn ein bwyd, a rhoi gwybodaeth glir i chi, sy\u2019n seiliedig ar wyddoniaeth, i\u2019ch helpu i wneud dewisiadau gwybodus am y bwydydd rydych chi\u2019n eu bwyta. Enghraifft dda o hyn yw adroddiad rydyn ni newydd ei gyhoeddi ar risgiau posib nitradau a nitreidiau mewn bwyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Pa fwydydd sy\u2019n cynnwys nitradau? ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae nitradau a nitreidiau yn rhan o\u2019n deiet dyddiol. Mae\u2019r mwyafrif helaeth, hyd at 95%, yn dod yn naturiol o lysiau, fel sbigoglys, letys, seleri a betys. Daw tua 5% o\u2019u defnydd fel ychwanegion bwyd, yn bennaf mewn cigoedd wedi\u2019u prosesu. Mewn cynhyrchion fel bacwn a ham, defnyddir nitradau a nitreidiau i atal twf bacteria peryglus fel Clostridium botulinum, sy\u2019n achosi botwliaeth\u2014salwch a allai arwain at farwolaeth. Maen nhw hefyd yn cadw\u2019r lliw ac yn ychwanegu at flas unigryw\u2019r cynhyrchion hyn.",
+                "tag": "p"
+            },
+            {
+                "content": "Ydy nitradau\u2019n ddiogel mewn bwyd? ",
+                "tag": "p"
+            },
+            {
+                "content": "Er bod nitradau a nitreidiau\u2019n gallu ffurfio cyfansoddion o\u2019r enw nitrosaminau, y mae llawer ohonyn nhw\u2019n garsinogenaidd, mae\u2019r adroddiad rydyn ni wedi\u2019i gyhoeddi heddiw yn dangos bod y cysylltiad \u00e2 phroblemau iechyd difrifol, fel canser mewn pobl, yn parhau i fod yn amhendant. Does dim tystiolaeth i awgrymu bod cig sydd wedi\u2019i brosesu a\u2019i wneud heb ddefnyddio nitradau yn ddewis mwy diogel.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae defnydd o nitradau\u2019n cael ei fonitro? ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019n werth cofio bod yr holl ychwanegion bwyd a ddefnyddir yn y DU, gan gynnwys nitradau a nitreidiau, yn destun asesiadau diogelwch trylwyr cyn iddyn nhw gael eu cymeradwyo. Mae\u2019r broses gymeradwyo yn ystyried pa fwydydd y gellir defnyddio ychwanegion ynddyn nhw a hefyd y terfynau uchaf. Mae\u2019r dystiolaeth gyfredol yn awgrymu bod y lefelau uchaf a ganiateir o nitradau a nitreidiau yn y DU wedi\u2019u gosod ar lefel i gadw pobl yn ddiogel.",
+                "tag": "p"
+            },
+            {
+                "content": "Ddylwn i osgoi nitradau yn fy neiet? ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019n bosib osgoi bwydydd sy\u2019n cynnwys yr ychwanegion hyn, gan fod yn rhaid nodi ar y label beth maen nhw\u2019n ei wneud, er enghraifft \u2018cyffeithydd\u2019 (\u2018preservative\u2019), ynghyd \u00e2\u2019r enw llawn neu\u2019r E-rif. Ond does dim angen i chi osgoi\u2019r bwydydd hyn yn gyfan gwbl. Mae yna gamau syml y gallwch chi eu cymryd i leihau unrhyw risgiau posib, a hynny wrth gynnal deiet iach ac amrywiol.",
+                "tag": "p"
+            },
+            {
+                "content": "Argymhellir peidio \u00e2 bwyta gormod o gig wedi\u2019i brosesu. Mae\u2019r GIG yn rhybuddio bod bwyta cig wedi\u2019i brosesu yn cynyddu\u2019r risg o ganser y coluddyn a phwysedd gwaed uchel. Felly, y cyngor i bobl sy\u2019n bwyta mwy na 90g o gig coch neu gig wedi\u2019i brosesu y dydd, yw y dylid lleihau hyn i ddim mwy na 70g.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2025/10/01/safety-of-nitrates-and-nitrites-as-food-additives/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Our role at the FSA is to put people first. That means being transparent about the risks in our food, and providing you with clear, science-based information to help you make informed choices about foods you eat. A good example \u2026"
+    },
+    {
+        "title": "More than half of all English local authorities are now using the new Appeal a Planning Decision Service\u00a0",
+        "authors": [
+            "Tom Sedgman"
+        ],
+        "posted_on": "2025-10-01T11:50:58",
+        "categories": [
+            "Appeals",
+            "Digital",
+            "Enforcement",
+            "Service improvement"
+        ],
+        "content": [
+            {
+                "content": "The Planning Inspectorate has long provided appellants with the right to appeal decisions made by local planning authorities (LPAs). For a number of years, this process has been managed through the Appeals Casework Portal (ACP). ",
+                "tag": "p"
+            },
+            {
+                "content": "From 1 December this year, the ACP will close to all new planning appeals.",
+                "tag": "p"
+            },
+            {
+                "content": "The journey so far\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "With the rise of digital services, the ACP became the central hub for managing appeals. It provided a structured, accessible way for appellants, LPAs, and interested parties to interact with the appeals process. However, as technology and user expectations evolved, so too did the need for a more modern, efficient, and user-friendly system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recognising the limitations of the ACP and the opportunities presented by digital transformation, the Planning Inspectorate embarked on a journey to develop a new, streamlined service based on the GOV.UK design system: the Appeal A Planning Decision Service.",
+                "tag": "p"
+            },
+            {
+                "content": "This aimed to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Following a successful pilot with 5 London boroughs, the new service has demonstrated significant improvements in efficiency and user experience. See our previous news item.",
+                "tag": "p"
+            },
+            {
+                "content": "The phased rollout began with a handpicked selection of smaller LPAs in the Southwest, and as of the 1 October 2025 more than half of all LPAs in England have been brought into the service. The remaining LPAs, including the largest in the country, will be joining the service over the next two months.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The closure of the ACP\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As part of this digital transformation, the Planning Inspectorate is announcing that the ACP will close to all new planning appeals from 1 December 2025 and all new enforcement appeals by the end of March 2026. ",
+                "tag": "p"
+            },
+            {
+                "content": "From this date, all new planning appeals must be submitted through the new Appeal A Planning Decision Service. Appeals that have been started but are yet to be submitted can still be completed and submitted through the ACP. ",
+                "tag": "p"
+            },
+            {
+                "content": "This marks a significant milestone in the modernisation of the planning appeals process, ensuring that it remains fit for purpose in a digital age, and allows the organisation to support the government\u2019s goal of speeding up and streamlining planning decisions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does this mean for appellants and LPAs?",
+                "tag": "h2"
+            },
+            {
+                "content": "For appellants: the new service offers a more intuitive and efficient way to submit and track appeals, with a more user-friendly interface that offers more information and support throughout the process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For LPAs: the platform provides enhanced tools for managing cases, monitoring progress, and communicating with all parties involved, as well as reducing the effort required to manage cases.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For the Planning Inspectorate: the move supports ongoing efforts to deliver a faster, more efficient, and user-focused appeals process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The closure of the ACP and the full rollout of the Appeal A Planning Decision Service represent a step change in how planning appeals are managed in England. Our aim is to ensure that the appeals process is accessible, efficient, and responsive to the needs of all users.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In coming years, the service will begin to use the Open Digital Planning project from the Ministry of Housing, Communities, and Local Government to automatically gather information from the original planning application to reduce the amount of work required by appellants and LPAs when submitting, and managing appeals. ",
+                "tag": "p"
+            },
+            {
+                "content": "The service will also be expanded to include other appeal types such as environmental appeals, and the service will continue to be developed based on the feedback received from users.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://planninginspectorate.blog.gov.uk/2025/10/01/more-than-half-of-all-english-local-authorities-are-now-using-the-new-appeal-a-planning-decision-service/",
+        "blog": "Planning Inspectorate",
+        "blog_link": "https://planninginspectorate.blog.gov.uk",
+        "description": "With the introduction of the new Appeal A Planning Decision Service, the Appeals Casework Portal closure will be happening by April 2026. What does this mean for appellants and LPAs?"
+    },
+    {
+        "title": "Ready to grow your digital skills? Get Tech Certified this Autumn",
+        "authors": [
+            "Martin Turner, Senior Change Delivery Manager"
+        ],
+        "posted_on": "2025-10-01T10:30:00",
+        "categories": [
+            "Digital learning and development",
+            "Digital transformation",
+            "Government Digital and Data"
+        ],
+        "content": [
+            {
+                "content": "What is Get Tech Certified?",
+                "tag": "h2"
+            },
+            {
+                "content": "Get Tech Certified is an opportunity for anyone in the public sector to advance their digital skills. Launched by the Government Digital Service, it follows the success of last year\u2019s Get Cloud Certified training campaign.",
+                "tag": "p"
+            },
+            {
+                "content": "From 1 October 2025 to 31 December 2025, all civil and public servants can access over 200 free learning and certification pathways across digital and technology areas including:",
+                "tag": "p"
+            },
+            {
+                "content": "These range from introductory courses to advanced qualifications, and short to full courses.",
+                "tag": "p"
+            },
+            {
+                "content": "The offer is made possible through partnerships with 16 leading technology training providers, and is completely free to access.",
+                "tag": "p"
+            },
+            {
+                "content": "Who is it for?",
+                "tag": "h2"
+            },
+            {
+                "content": "This programme is open to:",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you\u2019re looking to build confidence, deepen your expertise, or explore a new direction in digital and data, Get Tech Certified is designed to support your development.",
+                "tag": "p"
+            },
+            {
+                "content": "Real stories, real impact",
+                "tag": "h2"
+            },
+            {
+                "content": "Explore courses and register today",
+                "tag": "h2"
+            },
+            {
+                "content": "Courses cover a wide range of topics including cloud computing, cybersecurity, data analysis, agile delivery and more.",
+                "tag": "p"
+            },
+            {
+                "content": "This offer is available until 31 December 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "View the full list of courses, vendors and register to start your learning journey.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cddo.blog.gov.uk/2025/10/01/ready-to-grow-your-digital-skills-get-tech-certified-this-autumn/",
+        "blog": "Government Digital and Data",
+        "blog_link": "https://cddo.blog.gov.uk",
+        "description": "This Autumn, Get Tech Certified offers an opportunity to gain free, recognised digital qualifications to help sharpen your skills and boost your career."
+    },
+    {
+        "title": "UK\u2013Australia Space Bridge strengthens ties at International Astronautical Congress",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-10-01T10:02:51",
+        "categories": [
+            "International",
+            "International Partnership Programme"
+        ],
+        "content": [
+            {
+                "content": "The UK Space Agency and the Australian Space Agency have renewed their Space Bridge partnership today at the International Astronautical Congress (IAC) in Sydney.",
+                "tag": "p"
+            },
+            {
+                "content": "The Framework Arrangement, signed by UK Space Agency CEO Dr Paul Bate, and Australian Space Agency Head Enrico Palermo, builds on the initial Space Bridge established in 2021: a framework designed to strengthen collaboration, exchange expertise, and create new opportunities across both nations\u2019 space sectors.",
+                "tag": "p"
+            },
+            {
+                "content": "The Space Bridge has already delivered real impact - from advancing water quality monitoring to driving forward artificial intelligence for space safety. Its renewal builds on past successes, strengthening the partnership to continue delivering benefits for both nations and addressing shared global challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "Under the latest round of the UK Space Agency\u2019s International Bilateral Fund (IBF), three additional projects involving Australian partners were announced yesterday. This includes Long Baseline Multistatic Radar, which will test a global radar network to track distant objects in geostationary orbit; SLOSH-Cat, which will study how spacecraft fuel moves in microgravity to make satellites more stable and precise; and ARGUS, which will develop autonomous rendezvous technology, paving the way for satellites to safely inspect and service each other in orbit. In addition, AquaWatch-AUK, led by Surrey Satellite Technology Ltd (SSTL), will continue to receive support to advance its integrated water quality monitoring and forecasting system.",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Paul Bate, Chief Executive of the UK Space Agency, said:",
+                "tag": "p"
+            },
+            {
+                "content": "The renewal reflects the shared ambition of both nations to deepen cooperation across government, industry, and academia, ensuring the UK\u2013Australia partnership remains at the forefront of using space to drive innovation and address global challenges.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/10/01/uk-australia-space-bridge-strengthens-ties-at-international-astronautical-congress/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "The UK Space Agency and the Australian Space Agency have renewed their Space Bridge partnership today at the International Astronautical Congress (IAC) in Sydney."
+    },
+    {
+        "title": "Working together on user research",
+        "authors": [
+            "Orla O'Neill"
+        ],
+        "posted_on": "2025-10-01T10:00:00",
+        "categories": [
+            "Collaboration",
+            "technology",
+            "user research",
+            "User-centred design"
+        ],
+        "content": [
+            {
+                "content": "As a Fast Streamer, I spent six months at the Department for Education (DfE) working as a user researcher on our internal digital platform for reporting IT issues. The research, commissioned by leadership, aimed to understand how users experience the platform, covering everything from email problems to security incidents.",
+                "tag": "p"
+            },
+            {
+                "content": "The team was mainly made up of Business Analysts and Developers. Because the last research on the tool had taken place a few years ago, user research was unfamiliar to them.",
+                "tag": "p"
+            },
+            {
+                "content": "Deciding how to do my research\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I had a choice: to do the research alone and share my findings at the end or bring my team along with me for the journey.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I chose collaboration. I knew that working together would make the findings more meaningful and demonstrate the value of user research. But, I also knew it would be more challenging as time was limited, and the team had competing priorities. I needed to make it easy for them to get involved.",
+                "tag": "p"
+            },
+            {
+                "content": "What I did\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "First, I spoke to my leadership team about my intentions and got their support.",
+                "tag": "p"
+            },
+            {
+                "content": "I introduced user research to the wider team through a short talk, explaining what it is and what a user researcher typically does.",
+                "tag": "p"
+            },
+            {
+                "content": "We held a workshop to define what we wanted to learn. This helped shape research questions that reflected the team\u2019s priorities, not just mine.",
+                "tag": "p"
+            },
+            {
+                "content": "Next, I ran a session on observing research, including interactive activities on unconscious bias.",
+                "tag": "p"
+            },
+            {
+                "content": "I wrote discussion guides based on our research questions and recruited participants. I shared a sign-up sheet so team members could join sessions when they were available.",
+                "tag": "p"
+            },
+            {
+                "content": "Nine out of ten colleagues attended a session. I then invited the whole team to an analysis workshop, where we reviewed the findings together and linked them back to our original questions. I synthesised the common themes and shared the final insights with the team.",
+                "tag": "p"
+            },
+            {
+                "content": "How it went\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019m proud of what I achieved, but like anything in life, it wasn\u2019t perfect.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some things that went well:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some things that could have gone better:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout, I tried to keep things light and engaging. A bit of humour helped us stay connected and made the process more enjoyable.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The result\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In the end, technical staff gained a deeper understanding of the user\u2019s perspective, something that felt refreshingly different from their usual work.",
+                "tag": "p"
+            },
+            {
+                "content": "Most importantly, we identified valuable opportunities to improve the platform, making access to IT support quicker and easier for users. This helps them stay focused on delivering the government\u2019s priorities.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dfedigital.blog.gov.uk/2025/10/01/working-together-on-user-research/",
+        "blog": "DfE Digital, Data and Technology",
+        "blog_link": "https://dfedigital.blog.gov.uk",
+        "description": "As a Fast Streamer, I spent six months at the Department for Education (DfE) working as a user researcher on our internal digital platform for reporting IT issues. The research, commissioned by leadership, aimed to understand how users experience the \u2026"
+    },
+    {
+        "title": "Numbers of nesting hen harriers in England have risen slightly in 2025",
+        "authors": [
+            "Matthew Heard"
+        ],
+        "posted_on": "2025-10-01T09:01:53",
+        "categories": [
+            "Biodiversity",
+            "Hen Harriers",
+            "Natural England",
+            "Nature",
+            "Nature Recovery",
+            "Species recovery"
+        ],
+        "content": [
+            {
+                "content": "By Matthew Heard, National Delivery Director",
+                "tag": "p"
+            },
+            {
+                "content": "Numbers of nesting hen harriers in England have risen slightly this year, according to data collected by Natural England and partners.",
+                "tag": "p"
+            },
+            {
+                "content": "Breeding figures and regional breakdown",
+                "tag": "p"
+            },
+            {
+                "content": "In 2025, Natural England and partners recorded a total of 39 breeding attempts in England (up on 34 in 2024) of which 33 were successful (25 in 2024), fledging 106 chicks (80 in 2023). This gives an average of 3.2 chicks per successful nest (3.2 in 2024).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We did not record any second breeding attempts in 2025. Therefore, it is estimated that there was a minimum of 39 breeding females in England (34 in 2024).",
+                "tag": "p"
+            },
+            {
+                "content": "Trends in hen harrier numbers",
+                "tag": "p"
+            },
+            {
+                "content": "Hen harriers are rare primarily because they are killed and prevented from nesting successfully. Natural England proactively supports efforts to directly tackle this illegal killing and disturbance, including through the work of our dedicated Enforcement Team, and our role as a leading partner in the National Wildlife Crime Unit\u2019s Hen Harrier Task Force.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England also investigates ways to ease the human-wildlife conflict that drives wildlife crime. One initiative was the Brood Management Trial, which between 2018 and 2024 trialled temporary relocation of some hen harrier nestlings away from moorland managed for grouse shooting, offering a legal method of managing hen harrier impacts.",
+                "tag": "p"
+            },
+            {
+                "content": "Numbers of nesting hen harriers in England rose during the period that brood management was trialled, up to a high of 54 nests in 2023, with notable increases in the North Pennines and the Yorkshire Dales, areas with many privately-owned grouse shooting estates. Natural England concluded that it was likely that the killing and disturbance of nesting hen harriers had reduced in some areas during the trial period.",
+                "tag": "p"
+            },
+            {
+                "content": "However, in the final year of the trial, 2024, numbers of hen harrier nests in these areas dropped, while remaining steady in Bowland and in Northumberland. This year, 2025, the pattern is similar, with steady populations on the United Utilities Bowland Estate and in Northumberland. As last year, very few nests were recorded in the North Pennines or Yorkshire Dales and Nidderdale areas, with the only nests in the North Pennines at an RSPB reserve at Geltsdale.",
+                "tag": "p"
+            },
+            {
+                "content": "The overall increase in numbers and steady populations in Bowland and Northumberland is encouraging, and a positive change when compared to the period before 2018, when numbers of nests in England rarely rose above 20 in any year. However, this population recovery remains fragile, and efforts to reduce illegal killing and disturbance of hen harriers remain necessary across much of the English uplands.",
+                "tag": "p"
+            },
+            {
+                "content": "Acknowledgements We are grateful for the efforts of all of our partners to monitor, protect and manage hen harrier nests and breeding habitats. We work closely with RSPB staff who record the nesting attempts on RSPB reserves, and on the United Utilities Estate in Bowland. We are also grateful for the contributions of volunteer Raptor Study Groups and Natural England volunteers to nest monitoring, and to landowners and agencies including Forestry England, National Parks, National Landscapes, the National Trust, NatureScot and Natural Resources Wales.\u00a0 Natural England field staff lead on liaison with privately-owned grouse shooting estates, and we extent our gratitude to those land managers that are encouraging hen harriers to nest successfully alongside their wider estate management for grouse and other wildlife.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/10/01/numbers-of-nesting-hen-harriers-in-england-have-risen-slightly-in-2025/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Matthew Heard, National Delivery Director Numbers of nesting hen harriers in England have risen slightly this year, according to data collected by Natural England and partners. Breeding figures and regional breakdown In 2025, Natural England and partners recorded a \u2026"
+    },
+    {
+        "title": "Register as a waste carrier, broker or dealer directly online at GOV.UK",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-10-01T08:30:00",
+        "categories": [
+            "Environment Agency",
+            "Regulated industry",
+            "Waste"
+        ],
+        "content": [
+            {
+                "content": "Anyone who moves waste as part of their business operations must register with the relevant regulator.",
+                "tag": "p"
+            },
+            {
+                "content": "This includes you if:",
+                "tag": "p"
+            },
+            {
+                "content": "In England you can register directly with the Environment Agency online as a waste carrier, broker or dealer: Register or renew as a waste carrier, broker or dealer - GOV.UK",
+                "tag": "p"
+            },
+            {
+                "content": "Registration is free if you only transport waste you produce yourself (unless it is construction and demolition waste).",
+                "tag": "p"
+            },
+            {
+                "content": "Otherwise, registration costs \u00a3184 initially and \u00a3125 on renewal.",
+                "tag": "p"
+            },
+            {
+                "content": "Please be aware that any websites that advertise to complete this on your behalf are not affiliated with us and may charge an additional fee for their service.",
+                "tag": "p"
+            },
+            {
+                "content": "We are happy to help",
+                "tag": "h2"
+            },
+            {
+                "content": "Registering is quick and easy. If you need any assistance when registering, we are happy to help. You can contact nccc-carrierbroker@environment-agency.gov.uk or 03708 506 506 (Monday to Friday, 8am to 6pm).",
+                "tag": "p"
+            },
+            {
+                "content": "When registering, you must provide us with the correct and complete information. Providing incorrect information, whether by mistake or on purpose, means we can remove you from the register.",
+                "tag": "p"
+            },
+            {
+                "content": "If alternative or incomplete contact information is provided (e.g., if third parties provide their contact information rather than yours), you may not receive important updates and information relating to your registration, including correspondence from us if we decide to remove you from the register.",
+                "tag": "p"
+            },
+            {
+                "content": "Not only could you then miss the opportunity to provide us with the correct information and have your registration restored, but you could become an unregistered carrier, broker or dealer and not be aware.",
+                "tag": "p"
+            },
+            {
+                "content": "It is an offence to transport controlled waste or act as a broker of or dealer in controlled waste without being registered, and such an offence could result in us taking enforcement action.",
+                "tag": "p"
+            },
+            {
+                "content": "You can ensure that all your details are provided correctly by completing the registration yourself at: Register or renew as a waste carrier, broker or dealer - GOV.UK",
+                "tag": "p"
+            },
+            {
+                "content": "If you hold a current registration and need to inform us of any change affecting information relating to your registration, you must inform us within 28 days of that change.",
+                "tag": "p"
+            },
+            {
+                "content": "You can do so by contacting nccc-carrierbroker@environment-agency.gov.uk \u00a0or 03708 506 506 (Monday to Friday, 8am to 6pm).",
+                "tag": "p"
+            },
+            {
+                "content": "Help us protect the waste industry from waste crime",
+                "tag": "h2"
+            },
+            {
+                "content": "If you think you know about or suspect illegal waste activities, you can report it to our 24-hour incident hotline: 0800 80 70 60 or 100% anonymously to Crimestoppers: 0800 555 111 or online.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/10/01/register-as-a-waste-carrier-broker-or-dealer-at-gov-uk/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "If you transport waste or buy, sell or dispose of waste - or arrange for someone else to do so - you must register with the Environment Agency."
+    },
+    {
         "title": "Fisheries activity mapping: Reports and data published",
         "authors": [
             "Carl J\u00f6nsson, Senior Marine Planner (Project Manager)"
