@@ -1,5 +1,932 @@
 [
     {
+        "title": "Dragons Den IP Blog - Series 22 Episode 11",
+        "authors": [
+            "Megan Davies"
+        ],
+        "posted_on": "2025-10-09T21:00:00",
+        "categories": [
+            "Designs",
+            "IP",
+            "Trade marks",
+            "Trade secrets"
+        ],
+        "content": [
+            {
+                "content": "This week\u2019s episode of Dragons\u2019 Den featured some extra fire as guest Dragon Joe Wicks returned to the Den to join the other five investors. As they settled in to see what this week\u2019s entrepreneurs would bring, I was playing a game of spot the intellectual property (IP). ",
+                "tag": "p"
+            },
+            {
+                "content": "This week had pitches for playful puppetry, plant-based protein, physical performance and professional placement, and the entrepreneurs all brought their a-game.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Delicious and nutritious\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "One of the pitches on this evening\u2019s episode came from entrepreneurs Sam Fresco and Steve Wildish. The pair were seeking a \u00a3100,000 investment in exchange for a 20% stake of their business, Notorious Nooch.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Having been vegan myself for four years, I am already familiar with nutritional yeast, nicknamed nooch. These are flakes that can be added to food to help vegans and omnivores alike, make sure they\u2019re getting enough vitamin B12 in their diet while giving food a slightly cheesier, nuttier flavour. ",
+                "tag": "p"
+            },
+            {
+                "content": "Sam and Steve\u2019s brand gives this product, in Steven Bartlett\u2019s own words, a \u201cGen Zillenial\u201d fresh look, with its colourful cartoon, vintage style branding. And it\u2019s not just the packaging that makes it stand out from long standing competitors - with new flavours such as smoky bacon, cheesy or grilled chicken on offer for consumers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Several of the Dragons enjoyed how the food tasted and were interested in the high protein content, especially vegan Deborah Meaden who is a regular consumer of nooch.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Polarising packaging\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "While I'm a personal fan of the Nooch packaging and branding (perhaps because I fall into the Gen Zillenial category Steven mentioned!), it certainly divided the Den. Joe Wicks said he loved it, Peter Jones said he hated it, and Deborah Meaden stated that she both loved AND hated it! The branding became one of the biggest talking points during the pitch, demonstrating just how crucial visual identity can be for product success.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Regardless of others\u2019 opinions, protecting your brand identity is essential. A quick search on our trade mark search confirms that Notorious Nooch have wisely registered their logo under trade mark UK00003546764. Without trade mark protection, competitors could potentially use similar logos, causing confusion in the marketplace and potentially damaging your brand's reputation. Registration gives you exclusive rights to use your logo and enables you to take legal action against anyone who uses it without permission.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond the logo, if Sam and Steve decide to disregard the Dragons\u2019 comments on their packaging, they could choose to protect the packaging as a registered design. If it\u2019s new and has individual character, you can apply for design registration, starting from \u00a350.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An offer deficiency\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Ultimately, as tasty as some the Dragons deemed the product to be, none chose to invest, citing a lack of passion and packaging flair as their main reasons. Although the entrepreneurs exited the Den empty handed, their brains were surely full of considerations for propelling the brand, thanks to the Dragons\u2019 advice.",
+                "tag": "p"
+            },
+            {
+                "content": "Disclaimer:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The purpose of the IPO's Dragons' Den IP blog is to help identify the IP in entrepreneurs\u2019 pitches and highlight how IP works, or could work, in the real-life examples featured. IPO\u2019s authorship of this blog does not constitute its endorsement or sponsorship of any products, individuals or businesses referenced within it.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dragonsden.blog.gov.uk/2025/10/09/dragons-den-ip-blog-series-22-episode-11/",
+        "blog": "Dragons' Den: the Intellectual Property blog",
+        "blog_link": "https://dragonsden.blog.gov.uk",
+        "description": "This week\u2019s episode of Dragons\u2019 Den featured some extra fire as guest Dragon Joe Wicks returned to the Den to join the other five investors. As they settled in to see what this week\u2019s entrepreneurs would bring, I was playing a game of spot the IP."
+    },
+    {
+        "title": "Using Privacy Enhancing Technologies to Enable International Data Sharing",
+        "authors": [
+            "Mark Durkee, Head of Data Architecture, GDS"
+        ],
+        "posted_on": "2025-10-09T16:52:47",
+        "categories": [
+            "Data",
+            "Digital strategy",
+            "Digital, Data and Technology"
+        ],
+        "content": [
+            {
+                "content": "Using Privacy-Enhancing Technologies to Enable International Cancer Research Collaboration",
+                "tag": "h3"
+            },
+            {
+                "content": "Over the last year the Department for Science, Innovation and Technology (DSIT) has piloted the use of novel Privacy Enhancing Technologies (PETs) to enable NHS England\u2019s National Disease Registration Service (NDRS) and the US National Cancer Institute (NCI) to study ultra-rare childhood tumours, securely, lawfully and at speed: protecting patient privacy and keeping NHS data under NHS control. The pilot builds on experience from the 2022-23 UK-US Privacy-Enhancing Technologies (PETs) prize challenges. This blog explains why the pilot matters, how it works, and what it tells us about the future of digital innovation in government, and the commitments in the Blueprint for Modern Digital Government.",
+                "tag": "p"
+            },
+            {
+                "content": "The data-scarcity problem",
+                "tag": "h3"
+            },
+            {
+                "content": "Data on cancer is gathered by disease registries at national or subnational scale. Every childhood cancer subtype is rare; some affect fewer than two children per million each year. Pooling data over a larger geography helps researchers to better understand these diseases and improve patient outcomes by enabling more robust analyses and providing clinicians and patients with accurate statistics for prognoses. The need to protect patient privacy to comply with regulatory requirements and maintain public trust can make large-scale export of patient-level data slow, costly and, in some cases, impossible. A better technical approach is needed.",
+                "tag": "p"
+            },
+            {
+                "content": "A PETs-led solution",
+                "tag": "h3"
+            },
+            {
+                "content": "Our pilot utilises the Duality platform to keep data in place and moves the code, not the records. It enabled researchers to perform collaborative analyses without moving non-anonymous data outside of NHS systems. Our implementation combines three complementary PETs and several information governance techniques:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf \u00a0 \u00a0Federated querying: Executes approved scripts simultaneously inside NDRS and NCI firewalls; returns only site-level aggregates. Queries include counts, means, crosstabs, histograms, survival pre-sets (stratified by population data).",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf \u00a0 \u00a0Trusted Execution Environment (TEE): Decrypts and sums site aggregates inside a secure enclave so that neither side sees the other\u2019s raw numbers, and ensures remote attestation at both sites.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf \u00a0 \u00a0Differential privacy + cell suppression: Adds Laplace noise to achieve differential privacy with \u03b5 = 1 to each combined cell and hides any result < 5 (these values were informed by manual testing with dummy data and expert input from US National Institute of Standards and Technology).",
+                "tag": "p"
+            },
+            {
+                "content": "The technologies we implemented built privacy preservation into the solution researchers were using, reducing friction in performing their research. After the completion of the pilot, we plan to share more information on why we chose this combination of PETs to mitigate the privacy risks we identified.",
+                "tag": "p"
+            },
+            {
+                "content": "Outcomes",
+                "tag": "h3"
+            },
+            {
+                "content": "Analysts were able to write and run simplified, no-code queries from a centralised interface and results were returned in tables specific to the computations performed. The queries permitted were similar in nature to those researchers were already familiar with, often used to query single datasets on a national level. Real-world statistics produced using the PETs implementation will be generated towards the end of the year as researchers continue performing collaborative analyses.",
+                "tag": "p"
+            },
+            {
+                "content": "Our use of emerging PETs significantly shortened the information governance journey. For example, NDRS were able to work through a process that typically takes over a year for international collaborations in roughly two months. Reducing the lead time for data release also meant we had more time to focus on meaningful research. This process involved several robust cycles of information governance and cybersecurity checks and tests, coupled with several analytical assurance procedures. We found the ICO guidance on PETs incredibly helpful in guiding this process.",
+                "tag": "p"
+            },
+            {
+                "content": "Lessons for digital government",
+                "tag": "h3"
+            },
+            {
+                "content": "This pilot successfully demonstrated the potential of novel PETs for generating value from underutilised datasets. Notwithstanding, there are many learnings we can take away from this project and apply to a multitude of UK and international public sector opportunities; future and current.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf \u00a0 \u00a0 PETs turn governance into a design choice, not an after-thought. By baking privacy guarantees into architecture, we reduced the need for bespoke legal agreements.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf \u00a0 \u00a0 Trust modelling beats trust transfer. A trusted execution environment allows each partner prove that code will run exactly as specified, so institutional trust can remain local.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf \u00a0 \u00a0 Parameter transparency matters. Publishing our \u03b5 value, k-filter and suppression rules allowed information governance teams and boards to reason about privacy risks in concrete terms.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf \u00a0 \u00a0 Iterate with dummy or synthetic data first. Building the pipeline with dummy data lets analytics teams, information governance officers and cyber reviewers work in parallel.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "h3"
+            },
+            {
+                "content": "This work highlights the potential of PETs to facilitate better collaboration on data without compromising on privacy, treating privacy as a design target and ultimately strengthening and expanding research capability, creating:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf \u00a0 \u00a0 Improved quality of life and better patient outcomes, through new areas of epidemiological research and streamlined access to harmonised international data, supporting evidence-based decision making in a clinical setting.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf \u00a0 \u00a0 Faster growth and innovation, by learning how to effectively harness a novel set of highly impactful technologies.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf \u00a0 \u00a0 Smarter cross-governmental collaborations that cut lead times for meaningful research and increase productivity and efficiency across the board.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the next year we aim to highlight our findings, using our learnings as a blueprint for future cross-government initiatives. In doing so we hope to evaluate areas for improvement, potential policy outcomes and synergies, as well as guidance-style pieces capturing our lessons and achievements, and support partners in evolving the pilot into an enduring, expanded service to researchers globally.",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved",
+                "tag": "h3"
+            },
+            {
+                "content": "If you manage a registry, hold paediatric cancer data or simply want to discuss the pilot in more detail, we would love to hear from you: contact pets@dsit.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2025/10/09/using-privacy-enhancing-technologies-to-enable-international-data-sharing/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Hear from the GDS team, in collaboration with colleagues in NHSE, on the results of their pilot using novel Privacy Enhancing Technologies (PETs) to enable international data collaboration on ultra-rare childhood cancer data."
+    },
+    {
+        "title": "Celebrating World Space Week 2025 on London\u2019s Piccadilly Lights\u00a0",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-10-09T16:47:51",
+        "categories": [
+            "Championing Space"
+        ],
+        "content": [
+            {
+                "content": "This World Space Week, we\u2019re proud to see space, art, and creativity come together on one of London\u2019s most iconic landmarks \u2013 the Piccadilly Lights.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On Wednesday 8 October, SPACE for a Better World and the Space for Art Foundation lit up the famous screen with a digital mosaic created from over a thousand artworks submitted by people across the world. Each piece reflected this year\u2019s World Space Week theme, \u201cLiving in Space.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Inspiring people through art and space",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK Space Agency supported the project, alongside partners including UK Scouts, Great Ormond Street Hospital, Ocean Culture Life, and the Sustainable Markets Initiative. Together, the partners are helping to highlight how space exploration and technology shape our everyday lives \u2013 from supporting climate science to inspiring the next generation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Matthew Cook, Head of Space Exploration at the UK Space Agency, said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Christina Korp, founder of SPACE for a Better World, explained:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Nicole Stott, astronaut, artist, and founder of the Space for Art Foundation, added:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A celebration of creativity and collaboration",
+                "tag": "h2"
+            },
+            {
+                "content": "Representatives from all the partner organisations joined the event, recognising the role of art in making space more accessible and inspiring. Piccadilly Lights, a long-time supporter of the project, once again generously provided the stage for this unique celebration.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Following the mosaic reveal, invited guests attended a reception hosted by Bang & Olufsen at their Mayfair Boutique. The evening featured a fireside chat with Christina Korp, Nicole Stott, and Matthew Cook, exploring how art, science, and storytelling can open new perspectives on why space matters to us all here on Earth.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/10/09/celebrating-world-space-week-2025-on-londons-piccadilly-lights/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "As part of World Space Week 2025, we\u2019re proud to see space, art, and creativity come together on one of London\u2019s most iconic landmarks \u2013 the Piccadilly Lights.\u00a0"
+    },
+    {
+        "title": "Delivering Impact Through Justice Research & Development",
+        "authors": [
+            "MoJ Science Office"
+        ],
+        "posted_on": "2025-10-09T15:50:19",
+        "categories": [
+            "AI",
+            "Data",
+            "Data Science",
+            "Digital Innovation"
+        ],
+        "content": [
+            {
+                "content": "The Science Office is the Ministry of Justice\u2019s home for applied science, a team bringing expertise in foresight strategy, emerging technology and the natural, physical and behavioural sciences, to some of the justice system\u2019s toughest challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "From countering drones that threaten prison security, to detecting drugs and health risks through wastewater, we are harnessing science to make justice smarter, safer, and more resilient. These are real-world problems that demand practical, evidence-based solutions, and that\u2019s where we come in.",
+                "tag": "p"
+            },
+            {
+                "content": "Our role is to turn scientific insight into action: testing technologies, running pilots, and scaling up approaches that protect people and strengthen services. We collaborate with frontline staff, policymakers, and partners across academia and industry, combining rigorous research with the urgency of public service delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "Turning ambition into action: our Research & Development missions",
+                "tag": "h2"
+            },
+            {
+                "content": "Our work is structured around seven ambitious missions, each targeting a critical challenge in justice:",
+                "tag": "p"
+            },
+            {
+                "content": "Prison security",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping prisons secure isn\u2019t just about stopping contraband, weapons or mobile phones, it\u2019s about protecting the integrity of rehabilitation and maintaining environments where both staff and residents feel safe. Technologies like CCTV analytics, Smart clothing, Internet of Things and Counter-drone systems represent how innovation can meet emerging threats, ensuring that security keeps pace with the ways people may try to undermine it.",
+                "tag": "p"
+            },
+            {
+                "content": "Prisoner health and drugs",
+                "tag": "p"
+            },
+            {
+                "content": "Prisons reflect wider society, and the health challenges inside have ripple effects beyond the walls. Looking at innovative drug testing solutions like using wastewater to monitor drug use and health biomarkers, \u00a0allows us to see problems earlier and respond more effectively. It\u2019s about prevention, not just reaction, creating healthier prison communities and reducing the harms of drugs and disease.",
+                "tag": "p"
+            },
+            {
+                "content": "Technology for community offender management",
+                "tag": "p"
+            },
+            {
+                "content": "For many, rehabilitation happens outside prison. Exploring advanced supervision tools is about recognising that punishment and rehabilitation can be more flexible, personalised, \u00a0human, and effective. Technology allows us to better support people in rebuilding their lives, while still keeping communities safe.",
+                "tag": "p"
+            },
+            {
+                "content": "Data linking and AI",
+                "tag": "p"
+            },
+            {
+                "content": "Justice depends on good decisions, and good decisions depend on good information. Linking data across probation, courts, and police helps create a fuller picture, while AI can help turn information into clearer, more timely advice. This isn\u2019t about replacing judgment, but about enabling it to be better informed, more consistent, and fairer.",
+                "tag": "p"
+            },
+            {
+                "content": "Tech for court efficiency / LawTech",
+                "tag": "p"
+            },
+            {
+                "content": "Courts are under pressure, and delays affect everyone: victims, defendants, families, and staff. Tools like Deepfake detection, AI transcription and smarter scheduling are about assuring the system trust and integrity, freeing up human time and reducing bottlenecks, so justice is not only done but done more swiftly.",
+                "tag": "p"
+            },
+            {
+                "content": "Behavioural Sciences",
+                "tag": "p"
+            },
+            {
+                "content": "Interventions work best when they are designed with people in mind. By embedding behavioural insights into digital services, we move from treating symptoms to addressing underlying causes, helping people make better choices and reducing the chance of reoffending.",
+                "tag": "p"
+            },
+            {
+                "content": "Estates resilience and adaptation",
+                "tag": "p"
+            },
+            {
+                "content": "Justice services are public services, and climate change puts them at risk like any other. Ensuring our buildings and infrastructure can withstand environmental shocks is about protecting continuity of justice and safety for the public, even in uncertain times.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking Ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "We are beginning to unlock the potential of science in justice, tackling issues as diverse as drones, drugs, health, and climate adaptation. But we\u2019re only at the beginning. With new pilots launching and our capabilities expanding, we\u2019re determined to keep pushing boundaries and delivering impact where it matters most.",
+                "tag": "p"
+            },
+            {
+                "content": "For us, Justice science is not a distant ambition - it\u2019s happening now, shaped by people who are curious, collaborative, and driven to make a difference. We\u2019re building a team that thrives on tackling complex problems and applying science in ways that improve lives and strengthen society.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re passionate about using science and innovation for public good, we want to hear from you. The challenges are big, but so is the opportunity: to help reimagine justice for the future.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2025/10/09/delivering-impact-through-justice-research-development/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "The Science Office is the Ministry of Justice\u2019s home for applied science, a team bringing expertise in foresight strategy, emerging technology and the natural, physical and behavioural sciences, to some of the justice system\u2019s toughest challenges. From countering drones that \u2026"
+    },
+    {
+        "title": "Applications are now open for Science and Engineering Fast Stream 2026",
+        "authors": [
+            "gseprofession"
+        ],
+        "posted_on": "2025-10-09T15:22:09",
+        "categories": [
+            "Learning & Development",
+            "Talent & Leadership"
+        ],
+        "content": [
+            {
+                "content": "Are you curious about science and engineering roles in government? Would you like to influence decision-making and policy using your science and engineering background? Then the Government Science and Engineering Fast Stream (SEFS) could be the career choice for you.",
+                "tag": "p"
+            },
+            {
+                "content": "Expertise applied to real-world challenges",
+                "tag": "p"
+            },
+            {
+                "content": "Now is a fascinating time to start your career in government, with scientists and engineers making vital contributions to some of the biggest projects and policy decisions facing the government today. This covers a range of policy areas including climate, energy, health and the application of critical emerging technologies. Not only will you apply your existing knowledge and expertise to these areas, but you will also bring a new way of thinking to big social and economic challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "About the Fast Stream programme",
+                "tag": "p"
+            },
+            {
+                "content": "We are recruiting for the 2026 Science and Engineering Fast Stream. The Fast Stream is the Government's flagship graduate development programme, which equips the brightest candidates with the knowledge, skills and experience they need to become future leaders of the Civil Service.",
+                "tag": "p"
+            },
+            {
+                "content": "We want to recruit a diverse and versatile range of scientists and engineers to the scheme that reflect the diversity of our population. This diversity is crucial as it brings a variety of perspectives and ideas, which are essential for innovation and progress.",
+                "tag": "p"
+            },
+            {
+                "content": "Who can apply?",
+                "tag": "p"
+            },
+            {
+                "content": "You may be a science or engineering graduate straight out of university, an experienced postgraduate academic, a seasoned industry professional or a current civil servant with relevant experience. This scheme allows you to become part of a modern community of science and engineering professionals. Your background brings valuable skills that will support our goal of a more scientific Civil Service.",
+                "tag": "p"
+            },
+            {
+                "content": "Over three years, you will experience a wide range of rewarding postings in diverse discipline areas across various departments such as Department for Environment, Food and Rural Affairs, Department of Business and Trade, or Department for Science, Innovation and Technology.",
+                "tag": "p"
+            },
+            {
+                "content": "Skills and networks",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout the scheme you\u2019ll gain new skills and experience to help prepare you for a future leadership role.\u00a0 You will join the Government Science and Engineering (GSE) Profession, a community of around 10,000 scientists, engineers and technical specialists across government, and you\u2019ll also get the opportunity to join different Fast Stream networks. Through your networks, you can make an impact by taking part in wider corporate contributions to build your interpersonal skills, strategic understanding and experience working with a range of stakeholders.",
+                "tag": "p"
+            },
+            {
+                "content": "Unique placements",
+                "tag": "p"
+            },
+            {
+                "content": "The GSE Profession are keen to provide a broad experience within our scheme, and we offer a unique six-month placement in your second year which may include working in local government, charity and private sector roles. Together, these postings will develop your ability to apply your scientific mindset and your leadership potential, to prepare you to become a future senior leader in the Civil Service.",
+                "tag": "p"
+            },
+            {
+                "content": "How to apply",
+                "tag": "p"
+            },
+            {
+                "content": "The Science and Engineering Fast Stream will develop you into a confident and inspiring future senior leader in the Civil Service, supporting our ambition to put science and engineering at the heart of government decision-making. If you are passionate about a leadership career in science and engineering, this is a great opportunity, don\u2019t delay, apply today and grow like nowhere else.",
+                "tag": "p"
+            },
+            {
+                "content": "For more information and to apply, please visit the Science and Engineering Fast Stream on the Civil Service Fast Stream website.",
+                "tag": "p"
+            },
+            {
+                "content": "Applications open midday Thursday 9 October 2025 and close midday Thursday 6 November 2025. \u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2025/10/09/applications-are-now-open-for-science-and-engineering-fast-stream-2026/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "Are you curious about science and engineering roles in government? Would you like to influence decision-making and policy using your science and engineering background? Then the Government Science and Engineering Fast Stream (SEFS) could be the career choice for you. \u2026"
+    },
+    {
+        "title": "Homegrown talent: How DVLA is developing the next generation of digital experts",
+        "authors": [
+            "Craig James"
+        ],
+        "posted_on": "2025-10-09T12:42:43",
+        "categories": [
+            "Features"
+        ],
+        "content": [
+            {
+                "content": "In 2018, we launched the Centre of Digital Excellence (CoDE) development programme to attract people to work and develop their digital skills at DVLA. The programme is part of our long term strategy to train people in the digital capabilities we need most.",
+                "tag": "p"
+            },
+            {
+                "content": "Several years later, CoDE has delivered significant results, with more than 200 people joining the programme since it began. Many of our engineers and analysts are graduates from the programme, with some teams now comprising up to 50% CoDE graduates!",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog, I want to answer some of the questions you may have and offer practical advice for future CoDE students.",
+                "tag": "p"
+            },
+            {
+                "content": "Are all CoDE apprentices school leavers?",
+                "tag": "h2"
+            },
+            {
+                "content": "Not always. While we welcome school leavers, we also recruit people seeking a career change. They often bring valuable life and work experience.",
+                "tag": "p"
+            },
+            {
+                "content": "We run a range of different programmes each year \u2013 master\u2019s, graduate schemes, and apprenticeships \u2013 with varying qualification requirements. Some go to university, while others prefer not to. We want to offer opportunities to the right people, regardless of the route they've taken.",
+                "tag": "p"
+            },
+            {
+                "content": "Can you train people from non-IT backgrounds?",
+                "tag": "h2"
+            },
+            {
+                "content": "Absolutely! For example, our Master\u2019s in Software Engineering programme accepts applicants with any degree in science, technology, engineering and mathematics (STEM).",
+                "tag": "p"
+            },
+            {
+                "content": "We've maintained a 50/50 split between non-IT and technology degree participants, with non-IT graduates showing a slightly higher success rate in securing permanent roles.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Can you only succeed with a degree?",
+                "tag": "h2"
+            },
+            {
+                "content": "No. Many of our apprentices have progressed to become senior engineers. We focus on what applicants do in their own time to develop their skills, which can be a stronger indicator of future success and lead to excellent outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "What advice would you give to future cohorts?",
+                "tag": "h2"
+            },
+            {
+                "content": "Whether it's a task for your team, a speaking opportunity, or writing your own blog, every opportunity you take builds your skills, network and experience. These experiences will set you apart.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Never turn down small opportunities.",
+                "tag": "p"
+            },
+            {
+                "content": "If someone asks if you want to see code they've written, look at a new testing process, or help with a ticket, try to prioritise it. These small gestures show people want to share their knowledge with you.",
+                "tag": "p"
+            },
+            {
+                "content": "3. Be proactive and ask questions.",
+                "tag": "p"
+            },
+            {
+                "content": "Write down anything you can't ask immediately and follow up afterwards. There are no stupid questions, and curiosity shows engagement!",
+                "tag": "p"
+            },
+            {
+                "content": "4. Take advantage of your unique environment.",
+                "tag": "p"
+            },
+            {
+                "content": "You're likely working with other current students or previous graduates. Since we run annual programmes, you're never alone in this experience. Ask them what helped them succeed and make notes of what works for you to share with future cohorts.",
+                "tag": "p"
+            },
+            {
+                "content": "5. Keep learning.",
+                "tag": "p"
+            },
+            {
+                "content": "We probably hired you because you told us you enjoy learning about new technology or building things in your spare time. Don't stop now. Nothing demonstrates your commitment like showing you've been reading up on topics discussed and want to get more involved.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "With the right support, people from all backgrounds can build successful digital careers. Each new group brings fresh perspectives that strengthen our teams and enhance our capabilities.",
+                "tag": "p"
+            },
+            {
+                "content": "We're committed to continuing this programme's development, learning from every year, and expanding opportunities for future students. \u00a0As we celebrate the arrival of the 2025 CoDE cohort, we\u2019re already laying the groundwork for 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Keen to find out more? Check out our development programmes and sign up to Civil Service Jobs to be the first to hear about future opportunities.",
+                "tag": "p"
+            },
+            {
+                "content": "Follow DVLA on X,\u00a0follow us on Facebook\u00a0and\u00a0connect with us on LinkedIn.\u00a0You can also\u00a0subscribe to the DVLA digital services blog.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidedvla.blog.gov.uk/2025/10/09/homegrown-talent-how-dvla-is-developing-the-next-generation-of-digital-experts/",
+        "blog": "Inside DVLA",
+        "blog_link": "https://insidedvla.blog.gov.uk",
+        "description": "Craig James, Capability and Talent Lead, reflects on how DVLA\u2019s Centre of Digital Excellence (CoDE) development programme has helped students develop their digital capabilities."
+    },
+    {
+        "title": "Spacecraft to detect Earth-like planets complete and set for testing",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-10-09T10:34:56",
+        "categories": [
+            "Space science"
+        ],
+        "content": [
+            {
+                "content": "Engineers have completed construction of Plato, a mission that will search for Earth-like exoplanets, by fitting its sunshield and solar panels. With this final step, Plato is ready to begin a series of crucial tests ahead of its planned launch in December 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Caroline Harper, Head of Space Science at the UK Space Agency, said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thomas Walloschek, ESA\u2019s Plato Project Manager, said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The sunshield and solar panels are vital for the mission. The solar array will generate the power needed to operate the spacecraft\u2019s electronics, while the sunshield will protect Plato\u2019s instruments from the Sun\u2019s glare, allowing them to stay cool and perform with precision.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ana Heras, ESA\u2019s Plato Project Scientist, added:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "UK involvement in Plato",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK Space Agency has invested \u00a325 million between 2014 and 2024 to support the development and build phase of Plato, securing a leading role for UK institutions in the mission. UK researchers and engineers have contributed across science and technology: Professor Don Pollacco of the University of Warwick leads the mission\u2019s Science Management team, UCL\u2019s Mullard Space Science Laboratory designed and built the camera electronics, and Teledyne e2v produced the CCD detectors. In addition, the University of Cambridge is heading a national consortium to develop the UK Plato Data Centre, supported by the University of Birmingham, University of Oxford, St Andrews and the Open University. Thales Alenia Space UK worked with prime contractor OHB on avionics development and service module integration. Together, these contributions position the UK to play a central role in Plato\u2019s discoveries.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing for the mission ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "Plato carries 26 advanced cameras, designed to detect the tiniest changes in a star\u2019s brightness. These measurements will reveal the presence of exoplanets as they pass in front of their stars. To achieve this level of sensitivity, each camera must remain at around -80\u00b0C. Protected by the sunshield and facing deep space, the instruments will naturally cool and remain at this temperature throughout the mission.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The spacecraft\u2019s solar panels, folded securely for launch, will unfold once Plato reaches space \u2013 extending like a pair of wings. In September, engineers successfully tested this deployment on Earth by simulating weightlessness with a system of pulleys. They also confirmed that the panels can generate the required electricity by shining simulated sunlight on them.",
+                "tag": "p"
+            },
+            {
+                "content": "Final tests before launch",
+                "tag": "h2"
+            },
+            {
+                "content": "Although Plato is now fully assembled, the toughest challenges are still to come. Before launch, the spacecraft must undergo and pass a demanding series of environmental tests to be certified ready for flight. These include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "About Plato",
+                "tag": "h2"
+            },
+            {
+                "content": "Plato (PLAnetary Transits and Oscillations of stars) is part of ESA\u2019s Cosmic Vision programme. It will study terrestrial exoplanets, including those within the habitable zones of Sun-like stars.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The spacecraft is being built by a European industrial consortium led by OHB, with Thales Alenia Space and Beyond Gravity, while the scientific instruments are developed by the Plato Mission Consortium, coordinated by the German Aerospace Center (DLR).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Plato is scheduled to launch on an Ariane 6 rocket in December 2026.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/10/09/spacecraft-to-detect-earth-like-planets-complete-and-set-for-testing/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "Engineers have completed construction of Plato, a mission that will search for Earth-like exoplanets, by fitting its sunshield and solar panels. With this final step, Plato is ready to begin a series of crucial tests ahead of its planned launch in December 2026.\u00a0"
+    },
+    {
+        "title": "Prioritising social care registration applications: putting the needs of children and young people first\u00a0\u00a0\u00a0",
+        "authors": [
+            "Yvette Stanley"
+        ],
+        "posted_on": "2025-10-09T10:06:27",
+        "categories": [
+            "children's homes",
+            "local authorities",
+            "looked after children",
+            "social care professionals",
+            "social care regulation"
+        ],
+        "content": [
+            {
+                "content": "Following an unprecedented and sustained rise in applications to register children\u2019s homes, on Thursday 18 September, we published our revised policy for prioritising children\u2019s homes applications. The revised policy sets out the criteria for urgently dealing with applications. In short, these include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can look at the policy in more detail, where we also explain other exceptional circumstances that may lead to us prioritising an application. These circumstances can include the need for a home that can care for children with complex support needs. The revised policy complements April\u2019s changes to the Social Care Common Inspection Framework to promote greater stability for children who might otherwise experience multiple moves and disruption in their lives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applications that meet the priority criteria will be informed by a thorough understanding of local need, informed by productive discussions with local authorities. Applicants will be able to demonstrate that they will be able to provide the kind of high-quality care and support that all children deserve.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Higher numbers of registration applications\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In June we published a blog post about registration applications, explaining that the unprecedented number of applications were taking longer than usual to register. The total number of children\u2019s home applications in the last 12 months was almost double the figure for the previous year.\u202fWe are also still receiving a significant number of supported accommodation applications each month, adding to the already unexpectedly high volumes. We have not been able to keep pace with the increase in applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is clearly not a satisfactory situation for providers who are keen to begin supporting and caring for children, and for local authorities who are desperately looking for suitable homes for their children and young people. Most importantly, it\u2019s harmful to children.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why we have revised our policy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "It is important that, in line with our core inspection principles, we use our limited resources in a way that best serves the interests of children and young people. We want to be as transparent as possible about the way we are working.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We don\u2019t think it makes sense to deal with applications solely in order of the date they are received. This approach would fail to fully take into account which applications are best placed to provide what children need now. The sufficiency challenges demand a considered response.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There is a disproportionately high number of homes in some areas while, elsewhere, there is a chronic shortage. Too many children are living too far from home, isolated from their family and friends, and not necessarily receiving the type of care that meets their specific needs. We believe it is right that we prioritise applications that address the shortage of placements for those children in most urgent need and, more generally, those areas where there is clear evidence of a lack of suitable provision.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As you\u2019d expect, we have liaised closely with Department for Education colleagues on this change which is closely aligned with the government\u2019s commitment to increasing children\u2019s access to high-quality, stable homes in the right place, underpinned by a well-balanced regulatory regime that focuses on what matters most to children and young people (Keeping Children Safe, Helping Families Thrive).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While we will make sure the applications that meet the relevant criteria are prioritised, we will carry on progressing all applications in the system as efficiently as we can.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The revised policy only relates to children\u2019s homes. However, I am aware that similar issues are faced by children needing supported accommodation. We will closely monitor the effectiveness of this approach for children\u2019s homes in the coming months. If it has the desired impact, we will consider implementing a similar policy for supported accommodation applications in April 2026. In the meantime, I urge all potential providers to base their applications on a clear understanding of local need and their ability to meet that need.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Time taken to reach a decision\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The time it takes to reach a registration decision is dependent on several factors, including receiving the correct information in a timely manner. We expect that we will be able to reach a decision within 3 to 6 months of receiving a complete children\u2019s homes registration application that meets the criteria for prioritisation, but there may be cases where it takes longer. \u00a0It is likely to take 6 to 18 months for those that do not meet the prioritisation criteria.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcareinspection.blog.gov.uk/2025/10/09/prioritising-social-care-registration-applications-putting-the-needs-of-children-and-young-people-first/",
+        "blog": "Ofsted: social care",
+        "blog_link": "https://socialcareinspection.blog.gov.uk",
+        "description": "Following an unprecedented and sustained rise in applications to register children\u2019s homes, on Thursday 18 September, we published our revised policy for prioritising children\u2019s homes applications. The revised policy sets out the criteria for urgently dealing with applications. In short, \u2026"
+    },
+    {
+        "title": "How we wrote the AQuA Book ....",
+        "authors": [
+            "Rebecca Wodcke - Actuary"
+        ],
+        "posted_on": "2025-10-09T09:15:49",
+        "categories": [
+            "Actuary",
+            "Analysis",
+            "Modelling",
+            "Risk management"
+        ],
+        "content": [
+            {
+                "content": "... and what I learned along the way.",
+                "tag": "h2"
+            },
+            {
+                "content": "I was part of a cross-government team that recently published an updated version of the AQuA (Analytical Quality Assurance) Book. This is guidance that sets out principles to help people across government design, produce and communicate quality analysis to support better decisions. The previous version was released 10 years ago so there was a lot to update.",
+                "tag": "p"
+            },
+            {
+                "content": "As an actuary at the Government Actuary\u2019s Department (GAD), the AQuA book aims of ensuring high quality analysis, and transparency around assumptions and uncertainty align well with my day-to-day work. ",
+                "tag": "p"
+            },
+            {
+                "content": "The team of 15 contributors set out to make the guidance clearer, more practical, and easier to use across departments and beyond.",
+                "tag": "p"
+            },
+            {
+                "content": "Why the AQuA Book matters",
+                "tag": "h3"
+            },
+            {
+                "content": "Good decisions depend on good analysis. Shared principles that work across government help ensure policy, operations, and spending choices are informed and proportionate. ",
+                "tag": "p"
+            },
+            {
+                "content": "A lot of analysis, whether actuarial or not, is full of uncertainty, dependency, and long-term risk. The hardest part is often not the maths but the explanation. ",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s important to give the audience enough caveats to be honest but not too much that it becomes confusing. The AQuA book helps by giving a shared, proportionate way to do this.",
+                "tag": "p"
+            },
+            {
+                "content": "What we produced and what has changed",
+                "tag": "h3"
+            },
+            {
+                "content": "The refreshed AQuA book is structured around the analytical lifecycle:",
+                "tag": "p"
+            },
+            {
+                "content": "The roles and responsibilities and assurance activities of each stage are set out, along with new sections on uncertainty and \u201cblack box\u201d models. There are additional chapters covering broad themes such as proportionality and culture. ",
+                "tag": "p"
+            },
+            {
+                "content": "The resources section collates information referred to through the book, including a link to the GAD webpage, which sets out the areas where we work,   alongside a reminder that GAD can provide expert quality assurance reviews of models across the public sector.",
+                "tag": "p"
+            },
+            {
+                "content": "A cross-government effort",
+                "tag": "h3"
+            },
+            {
+                "content": "This was a team effort across government\u2019s Analysis Function, bringing together statisticians, economists, data scientists, operational researchers, and actuaries. ",
+                "tag": "p"
+            },
+            {
+                "content": "The variety of expertise increased peer challenge, reduced blind spots, and led to examples that feel real to users across government. ",
+                "tag": "p"
+            },
+            {
+                "content": "Working with such a varied team introduced me to different ways of working and the wide variety of analysis produced across government. Everyone was fitting in the work alongside their day job, but the whole team was very mindful of this and so it didn\u2019t feel onerous to be involved.",
+                "tag": "p"
+            },
+            {
+                "content": "Tools and ways of working",
+                "tag": "h3"
+            },
+            {
+                "content": "Once the structure of the updated book was agreed, each chapter was allocated a lead author and reviewer. The result was quite a mix of writing styles, due to the number of authors. A smaller group (me and 3 others) carried out the editing stage, to make it easier to manage consistency. ",
+                "tag": "p"
+            },
+            {
+                "content": "At this point, drafting was transferred from Word to Quarto and changes were managed through GitHub. This allowed us to publish the finished AQuA book as HTML pages which are easier to navigate and more accessible than a PDF. ",
+                "tag": "p"
+            },
+            {
+                "content": " It also allowed us to track suggestions and edits, as well as work on different versions of the document in parallel and easily merge them later.I\u2019ve previously used GitHub for coding projects, but not for drafting documents. I\u2019d recommend it for large, multi-author projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Things we would have done differently",
+                "tag": "h3"
+            },
+            {
+                "content": "Technology, in particular Large Language Models, has improved significantly since we began the project. ",
+                "tag": "p"
+            },
+            {
+                "content": "If starting again now, we would use AI to speed up editing, especially for consistency of tone and definitions across chapters. Team members\u2019 varied expertise would still set the content, but AI could reduce the time spent aligning style.",
+                "tag": "p"
+            },
+            {
+                "content": "Writing so everyone can understand",
+                "tag": "h3"
+            },
+            {
+                "content": "Over my career, most of my writing has been for other actuaries or insurance professionals. One skill I developed during the project is writing for a more varied audience. I initially thought simplifying the language may reduce some of the precision of meaning but found the opposite to be true. I\u2019m aiming to continue using the simplest words possible in my technical communications.",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps",
+                "tag": "h3"
+            },
+            {
+                "content": "Read and use the AQuA Book in your next project. If you have comments or suggestions about the content of the AQuA Book or how it might be improved, email analysis.function@ons.gov.uk with \u2018AQuA Book\u2019 in the subject.",
+                "tag": "p"
+            },
+            {
+                "content": "Disclaimer",
+                "tag": "h4"
+            },
+            {
+                "content": "The views expressed are the author\u2019s own and the opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://actuaries.blog.gov.uk/2025/10/09/how-we-wrote-the-aqua-book/",
+        "blog": "Actuaries in government",
+        "blog_link": "https://actuaries.blog.gov.uk",
+        "description": "Discover how actuary Becky Wodcke and a cross-government team updated the AQuA Book - essential guidance for quality analysis across departments. Learn about collaborative writing, new tools like GitHub, and tips for clear communication."
+    },
+    {
+        "title": "The curtain falls, a farewell to the Karaoke Shower\u00a0",
+        "authors": [
+            "Catherine Davies"
+        ],
+        "posted_on": "2025-10-09T09:10:47",
+        "categories": [
+            "Copyright",
+            "Innovation",
+            "IPO",
+            "Schools"
+        ],
+        "content": [
+            {
+                "content": "After more than a decade of touring the nation and out of tune singing, the time has come to bid farewell to our beloved Karaoke Shower. Yes, that is right, the shower curtain is finally coming down on what must rank as one of the most bizarre education initiatives, not just at the Intellectual Property Office (IPO), but in government history.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For those who are wondering what I could possibly be talking about, let me take you back to 2013, Peter Capaldi was Doctor Who and Disney were readying to release a film based on the snow queen with a fairly catchy soundtrack.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Picture if you will, a travelling karaoke booth disguised as a shower, complete with curtain for privacy. The concept was simple (and borrowed from the Cracking Ideas Exhibition the IPO had funded a few years earlier). Get people singing popular songs, capture their performance on camera, share them on social media, and in the process, teach them about respect for copyright.\u00a0It was Dragons\u2019 Den meets Britain\u2019s Got Talent, but with more intellectual property (IP) and significantly less talent.",
+                "tag": "p"
+            },
+            {
+                "content": "The Karaoke Shower turned our approach to copyright and IP education on its head.\u00a0It tackled the barriers to behaviour change that prevented young people from respecting copyright.\u00a0It made copyright concepts tangible by connecting them to music that young people loved.\u00a0When you\u2019re singing along to chart hits, you naturally relax your guard and start to think about the creators.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "Singing your favourite songs, laughing with friends and sharing music made our IP education fun rather than worthy, interesting not finger wagging. We created an environment where learning about copyright felt natural, not preachy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Karaoke Shower made its debut at the Music Show in Manchester 2013 and was in fact a last-minute filler to an exhibition space booked by UK Music to launch MusicInc game (which was eventually launched 3 months later).\u00a0\u00a0 From the moment the event opened we knew we were onto a winner. Lines of young people formed to take their turn and the huge queues were a captive audience for our messaging on respect for copyright.\u00a0\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "From there, the Karaoke Shower toured the UK stopping at the Houses of Parliament for \u2018Rock the House\u2019, the Glasgow Science Centre, the Beatles Experience, Liverpool and newly opened Birmingham Library. At its peak it was in demand for every youth experience and became part of The Big Music Project and World Skills.\u00a0 But it wasn\u2019t just young people who wanted a go \u2013 prominent MPs, Queen\u2019s Brian May, JLS\u2019 Oritse Williams and even Father Christmas himself all took a turn in the Karaoke Shower.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Karaoke Shower toured regularly until Covid, and the world has moved on.\u00a0Social media platforms like TikTok have made everyone a performer, streaming services have revolutionised how we consume copyright materials and the challenges facing the industry have evolved in a way that we could not have imagined when we first pulled back the curtain. But the message remains the same. Creativity has value and that value deserves protection and respect.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we bid farewell to our travelling companion, let\u2019s remember what it represented, the willingness to try something completely different to educate young people about copyright and IP.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/10/09/the-curtain-falls-a-farewell-to-the-karaoke-shower/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "After more than a decade of touring the nation and out of tune singing, the time has come to bid farewell to our beloved Karaoke Shower. Yes, that is right, the shower curtain is finally coming down on what must rank as one of the most bizarre education initiatives, not just at the Intellectual Property \u2026"
+    },
+    {
         "title": "Do I have flu, COVID-19 or a cold? Know the signs and symptoms",
         "authors": [
             "Blog Editor"
