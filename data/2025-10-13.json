@@ -1,5 +1,1162 @@
 [
     {
+        "title": "Six Months in - Building the Women in Engineering Working Group\u00a0",
+        "authors": [
+            "Rosie Brigham"
+        ],
+        "posted_on": "2025-10-14T15:50:43",
+        "categories": [
+            "Ada Lovelace Day",
+            "Diversity and Inclusion",
+            "Women in Digital & Tech",
+            "Women in Engineering"
+        ],
+        "content": [
+            {
+                "content": "In celebration of Ada Lovelace Day, a moment to honour the achievements of women in STEM, we\u2019re sharing a behind-the-scenes look at how a small group within Justice Digital is trying to engineer organisational change. This blog is part of the Women of Justice Digital and Data Storytelling Series, which celebrates the diverse journeys and contributions of women across our digital, tech, and data teams. ",
+                "tag": "p"
+            },
+            {
+                "content": "I'm Rosie Brigham, Deputy Head of Engineering at Justice Digital. In practice, that means I'm responsible for ensuring our 400+ engineering professionals have everything they need to build brilliant tools that work for the people who use them \u2013 whether that's prison staff, legal aid applicants, or probation services.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "When we first gathered around a virtual table six months ago, I was very nervous. I am relatively new to the Civil Service and wasn\u2019t exactly sure what a working group should look like outside of academia. Imposter syndrome was of course rife and the purpose of the group, to get more women into technical engineering roles, is not an insignificant task. We settled on what might seem like a simple goal: increase the number of women and non-binary people in technical roles. We deliberately chose to measure this in actual numbers rather than percentages, because percentages can be misleading when teams are growing and changing. It's easier to track progress when you're saying \"we had 20, now we have 40\" rather than getting tangled up in shifting denominators.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Foundation Stuff (AKA The Boring but Crucial Bits)\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We started small deliberately. We've assembled a fantastic group of people across Justice Digital - women in technical roles, plus folks from capability, recruitment, and leadership positions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The decision to keep things intimate initially was important, and frankly, necessary. When you're talking about diversity issues, you're inevitably going to touch on some painful experiences. People need to feel safe sharing moments that might have knocked their confidence, or recounting times when they felt overlooked or undervalued. You can't create that environment overnight, especially when many of us had never worked together before. So, we kept the group small and for the moment don't admit new members - adding people would have altered that foundation of trust, and too many voices, introductions and recaps of ground rules could have meant less action in the short timeframes we have.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Scoping Reality (Or Learning What We Can Actually Influence)\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Early on, we had to have an honest conversation about scope. The lack of diversity in engineering is a systemic, cultural issue that goes far beyond what one working group can tackle. We're not going to suddenly convince more women to study computer science at university or A-levels, and we're not going to single-handedly shift decades of workplace culture overnight.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But what we can do is create meaningful change within Justice Digital itself. That's our patch, that's where we have influence, and that's where we can make a real difference.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Data Challenge\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Here's where things got a little tricky. Justice Digital is a sprawling organisation with people in all sorts of roles, and role titles that don't always tell you what someone actually does day-to-day. More importantly, you can't just march up to HR and ask for a breakdown of staff by gender and role - there are obvious and important privacy considerations at play.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're working through the proper data governance processes to ensure we can access the information we need whilst protecting individuals' privacy. It's a necessary step that reinforces something important: if we're serious about improving representation, we need to do it the right way from the start.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The process has been educational and shown us just how complex our organisational structure is, and how important it is to balance transparency about diversity data with individual privacy rights.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What's Next\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Now that we've got our foundations sorted, we've identified three main areas where we can make a difference: recruitment, retention, and outreach.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recruitment is one of the most direct ways we can improve representation. By increasing the number of women and non-binary people joining us in the first place.\u00a0We're reviewing job descriptions to ensure they\u2019re welcoming and accessible, aligning outreach with interview processes, partnering with organisations like CodeFirst: Girls, and developing a \u2018Returnship\u2019 scheme for career returners to complement our apprenticeship programme. We\u2019re committed to ensuring our recruitment is always inclusive and merit-based, so that everyone has a fair opportunity to thrive.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Retention is more complex. The latest Diversity in Tech report shows that women leave technical careers mid-way through and often don't return. We've planned a research programme using both quantitative and qualitative methods to understand what would keep our female and non-binary colleagues happy and not looking for the exit. We're examining everything from imposter syndrome to exit interview data to see what has been missed and what can be improved on.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Outreach is where we get creative. We've got brilliant blue-sky thinking around mentoring and coaching both within and outside Justice Digital, working with schools, and creating something genuinely valuable within the department. Watch this space!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Extra Work Problem\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "There's something else worth calling out. In our discussions, it became clear that women in technical teams often end up doing more work - not the glamorous kind, but the essential emotional labour that keeps teams functioning.\u00a0This might be facilitating meetings, managing difficult conversations, or making space for everyone to contribute. It's exhausting work that requires real skill, but it's often invisible and unrewarded.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There's also the challenge of sharing the workload fairly when it comes to interview panels. Civil service requirements rightly call for diverse panels, but when teams have limited representation, such as few women, the same individuals are often called upon repeatedly. It\u2019s additional work that should be recognised and supported appropriately. Panels should reflect the diversity they aim to promote, without placing a disproportionate burden on a few.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're looking at ways to address both the recognition piece and finding practical solutions that don't just pile more responsibility onto people already carrying extra load.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Real change doesn't happen in isolation, it starts with open conversations and shared perspectives. The more voices we include, the stronger and more meaningful our progress will be.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2025/10/14/six-months-in-building-the-women-in-engineering-working-group/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "In celebration of Ada Lovelace Day, a moment to honour the achievements of women in STEM, we\u2019re sharing a behind-the-scenes look at how a small group within Justice Digital is trying to engineer organisational change. This blog is part of \u2026"
+    },
+    {
+        "title": "What\u2019s\u202fchanging\u202f\u2013\u202fmanaging your patents\u00a0",
+        "authors": [
+            "Simeon Bowen"
+        ],
+        "posted_on": "2025-10-14T14:55:48",
+        "categories": [
+            "Innovation",
+            "IPO",
+            "Patents",
+            "Transformation",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Our One IPO Patent Service is set to launch in spring 2026. This new platform will change how you apply for and manage patents, delivering a modern approach to intellectual property management.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are publishing a weekly blog series to provide you with comprehensive guidance on each aspect of the upcoming changes. Our goal is to ensure you're fully prepared and confident for a seamless move to our new digital service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So far, the most popular transactions in the new service are all around managing your patents. Things like changing who the representative is, transferring ownership of patents and updating the names and addresses associated with the patent. In today\u2019s blog, we explore how managing your patents is changing in the One IPO service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What to expect\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The new service offers significant improvements to how you manage patents.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today, if you want to make changes to patents it\u2019s a very manual process. You complete a paper form or PDF, email it to the IPO and wait 10 days for the IPO to make the change for you.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The One IPO service will make all of this more digital, automated and efficient for customers and the IPO. You will be able to login to your account and make changes to your patents at any time. Most of these will happen automatically within 24 hours, and you will see those changes reflected in your IPO account.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s a much simpler process, which is reflected in the number of our pilot customers that have used it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Benefits for you\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "There\u2019s lots of great features that offer an improvement from the old system, including:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Changes you can make in your IPO account\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "You can make or request any changes that you can today via your IPO account. The most common requests are fully digital. That includes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some of the less common requests still require you to upload a form at the moment. That includes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These services don\u2019t get the fully digital treatment yet because we get a very small number of these requests a year. However, there are still big improvements:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When evidence is required\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "When transferring ownership of patents, we typically require evidence. In the new service if you meet certain criteria, like being the existing representative, you won\u2019t have to provide evidence, and the transaction will be fully automated. This will mean the transfer is processed within 24 hours, making it much quicker and easier.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you aren\u2019t currently a representative for the patent you want to transfer you will need to provide evidence. You will still be able to submit these requests via your IPO account, but there will be an extra step in the process while IPO staff manually check your evidence. Once the check is completed, your transfer will be processed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improved correspondence",
+                "tag": "h3"
+            },
+            {
+                "content": "We will send you an email confirmation at each step of the process. You will receive an email when your change request has been submitted and when it has been completed. We send correspondence to the person who submitted the transaction and are also offering the ability to send a copy to a central mailbox in your firm.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When transferring ownership of patents or changing representation, we will also email the previous representatives to inform them of the change. This adds an additional layer of security, because the previous representatives can inform us if any change requests are made in error or maliciously.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Review and collaboration\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "At the end of each transaction, you will be presented with a \u2018check your answers\u2019 page before you submit. This can be shared with colleagues for review and sign off via a screenshot like the one below.",
+                "tag": "p"
+            },
+            {
+                "content": "Currently there is no \u2018save draft\u2019 functionality for these transactions, because they are very short and easy to complete in one sitting. Drafts are saved when applying for a patent or responding to an exam report.",
+                "tag": "p"
+            },
+            {
+                "content": "How we\u2019re supporting you\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We understand that moving to a new digital system can feel daunting. If you're less comfortable with digital processes, support will be available to help you through the transition. We're committed to ensuring all users can access and use the new service effectively.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/10/14/whats-changing-managing-your-patents/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "We are publishing a weekly blog series to provide you with comprehensive guidance on each aspect of the upcoming changes. In today\u2019s blog, we explore how managing your patents is changing in the One IPO service.\u00a0So far, the most popular transactions in the new service are all around managing your patents. Things like changing who \u2026"
+    },
+    {
+        "title": "More than the sum of our parts: professionals and citizen scientists working together to transform evidence collection",
+        "authors": [
+            "Oliver Grafton"
+        ],
+        "posted_on": "2025-10-14T14:30:52",
+        "categories": [
+            "Climate change",
+            "Connecting People with Nature",
+            "Education",
+            "Evidence",
+            "Mapping",
+            "Monitoring",
+            "Natural England",
+            "Nature",
+            "Science and evidence",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "We\u2019re in the middle of a step change for national-scale environmental evidence in England. In recent years, the Natural Capital and Ecosystem Assessment (NCEA) programme has allowed us to create and upgrade maps and data products like the England Peat Map and Living England habitat map \u2013 crucial for giving us the large-scale overview of our landscapes and natural resources that we so urgently need. But the vast majority of the environmental evidence we have available in the UK, and the biggest army of surveyors, comes neither from Natural England employees, nor from universities, nor from ecological consultancies.",
+                "tag": "p"
+            },
+            {
+                "content": "Over 70% of records used in our nation\u2019s biodiversity reporting have been created by citizen scientists (sometimes referred to as community or participatory scientists, or voluntary recorders). These are volunteers who, in their free time, record and share their observations of wildlife and nature.",
+                "tag": "p"
+            },
+            {
+                "content": "Their evidence supports everything from local nature recovery to international reporting obligations, as well as many of the regulating and sponsoring operations of Natural England and the wider Defra group.",
+                "tag": "p"
+            },
+            {
+                "content": "Different but overlapping needs",
+                "tag": "h4"
+            },
+            {
+                "content": "Understanding how we can balance the priorities of Defra group with citizen scientists\u2019 needs and goals is vital if we want to work together to deliver meaningful change for nature.",
+                "tag": "p"
+            },
+            {
+                "content": "For Natural England and Defra, it\u2019s important to understand how citizen science and professional surveys can be better coordinated with one another. This will let us plan our work and investments, to fill critical data gaps using the best people and methods, without reduplicating existing work.",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile, citizen science colleagues have told us that their main needs from government are:",
+                "tag": "p"
+            },
+            {
+                "content": "Work is being carried out to bridge this gap.",
+                "tag": "p"
+            },
+            {
+                "content": "A library of best practice tools",
+                "tag": "h4"
+            },
+            {
+                "content": "We\u2019re assembling a library of resources to help citizen science projects produce robust, useable data. This is expected to launch in the coming year. ",
+                "tag": "p"
+            },
+            {
+                "content": "Our marine colleagues have already published a best-practice guide for marine citizen science data, and will soon publish handbooks focused on citizen science monitoring for inshore fish and benthic (seafloor) habitats.",
+                "tag": "p"
+            },
+            {
+                "content": "Frameworks for environmental evidence in eight key habitats",
+                "tag": "h4"
+            },
+            {
+                "content": "We\u2019re creating frameworks showing evidence availability and needs for 8 key habitats and land-use types. We\u2019ve already published these for marine, freshwater, and urban habitats; still to come are coastal margins, woodlands, enclosed farmland, semi-natural grasslands, and mountains, moorlands and heath.",
+                "tag": "p"
+            },
+            {
+                "content": "The frameworks will help a wide range of partners understand what data they might need to answer specific questions, who might be best placed to collect that data, and where the main gaps are in our collective evidence base. So far, across 550 indicators identified as monitoring priorities, we\u2019ve identified existing potential of citizen science practice to contribute to over 100.",
+                "tag": "p"
+            },
+            {
+                "content": "Testing innovative methods and new areas of study with partners",
+                "tag": "h4"
+            },
+            {
+                "content": "We\u2019re working on a range of partnership projects to investigate citizen science ability to monitor freshwater environments and other habitat types where we lack evidence. We are investigating whether citizen scientists could be making more use of new techniques like eDNA and satellite imagery analysis, and what protocols and data management and storage are needed if they are to use these techniques at a large scale.",
+                "tag": "p"
+            },
+            {
+                "content": "Coordinating local and national join up",
+                "tag": "h4"
+            },
+            {
+                "content": "We\u2019ve funded pilot projects to coordinate and convene citizen science organisations in a place-based way. Our three pilots are very different, but they all try to bridge the gap between local and national relevance for data and engagement.",
+                "tag": "p"
+            },
+            {
+                "content": "Improving access to existing data",
+                "tag": "h4"
+            },
+            {
+                "content": "The NCEA team is working with key organisations which hold and process large amounts of environmental data, helping them to unclog bottlenecks and get valuable evidence to end users. Examples include:",
+                "tag": "p"
+            },
+            {
+                "content": "More people studying more of the environment",
+                "tag": "h4"
+            },
+            {
+                "content": "For all this talk about better data, an equally important aspect of citizen science is its ability to foster meaningful communities centred around the care and observation of the natural world \u2013 something we try to respect and embed across all these initiatives.",
+                "tag": "p"
+            },
+            {
+                "content": "As we enter a new age for monitoring, in which AI, eDNA, bioacoustics and many other tools look set to transform our understanding of nature, it\u2019s more vital than ever that we empower as many people as possible to study as much of the environment as possible, in ways which enhance and align our collective knowledge.",
+                "tag": "p"
+            },
+            {
+                "content": "Coming up",
+                "tag": "h4"
+            },
+            {
+                "content": "Keep an eye out over the next couple of weeks for more articles about the work being done by our partner organisations.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/10/14/more-than-the-sum-of-our-parts-professionals-and-citizen-scientists-working-together-to-transform-evidence-collection/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "We\u2019re in the middle of a step change for national-scale environmental evidence in England. In recent years, the Natural Capital and Ecosystem Assessment (NCEA) programme has allowed us to create and upgrade maps and data products like the England Peat \u2026"
+    },
+    {
+        "title": "Understanding satellite re-entry: UK Space Agency leads global research on atmospheric ablation",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-10-14T11:42:58",
+        "categories": [
+            "Space sustainability"
+        ],
+        "content": [
+            {
+                "content": "As satellite activity in Low Earth Orbit (LEO) increases, so does the need to understand its environmental footprint, especially during the re-entry phase.",
+                "tag": "p"
+            },
+            {
+                "content": "When satellites burn up upon re-entering Earth\u2019s atmosphere, they release particles and gases, including metals like aluminium, which may affect atmospheric chemistry. This process, known as atmospheric ablation, is still poorly understood, but early evidence suggests metal content in the atmosphere is rising.",
+                "tag": "p"
+            },
+            {
+                "content": "To address these uncertainties, the UK Space Agency commissioned three targeted studies to investigate the potential impacts of satellite re-entry. These projects, led by Durham University, University of Southampton, and Belstead Ltd, have begun to fill critical knowledge gaps and reinforce the UK\u2019s leadership in space sustainability. A fourth study, co-funded by the European Space Agency and led by the University of Leeds, will complete later this year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Durham University conducted a comprehensive literature review and gap analysis, highlighting major uncertainties, particularly around ozone-depleting polar stratospheric clouds. Their findings stressed the need for improved observational technologies and multidisciplinary collaboration to inform future UK policy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Southampton University proposed a hybrid approach to managing re-entry, combining material selection, design-for-demise strategies, and trajectory optimisation. Their recommendations support investment in UK research infrastructure to advance sustainable space operations. Read the report here.",
+                "tag": "p"
+            },
+            {
+                "content": "Belstead Ltd carried out a technical assessment of aluminium vaporisation and evaluated UK facilities for experimental validation. They found that ablation depends on factors like particle size and surface properties and recommended targeted testing to better assess environmental risks. Read the report here.",
+                "tag": "p"
+            },
+            {
+                "content": "A Global Network on Sustainability in Space (GNOSIS) report, also commissioned by the UK Space Agency, highlights critical gaps in how the environmental impacts of space activities are measured and understood. Unlike terrestrial environmental indicators, such as those for emissions or biodiversity, space lacks globally agreed metrics. The report calls for improved tracking of satellite and debris populations, better modelling of space weather effects, and more systematic assessment of re-entry impacts. It underscores the urgency of building consensus around sustainable space practices.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These studies have already had international impact. In May 2025, the UK Space Agency was invited to a UN-led workshop on the environmental effects of space activities, co-chaired by UNOOSA and UNEP. The UK was the most represented nation, with experts from Belstead, UCL, Birkbeck, and the Earth & Space Sustainability Initiative (ESSI) contributing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building on these findings, the UK Space Agency will jointly host a dedicated workshop with Secure World Foundation on atmospheric ablation on 21 October, ahead of the Summit for Space Sustainability in Paris. The workshop will bring together international experts to refine research priorities and shape policy recommendations, ensuring that insights from the UK-funded studies directly inform global discussions on responsible space stewardship.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/10/14/understanding-satellite-re-entry-uk-space-agency-leads-global-research-on-atmospheric-ablation/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "To understand more about atmospheric ablation, the UK Space Agency commissioned studies led by Durham University, University of Southampton, and Belstead Ltd to investigate the potential impacts of satellite re-entry and fill critical knowledge gaps, reinforcing the UK\u2019s leadership in space sustainability."
+    },
+    {
+        "title": "Windscale: From Nuclear Pioneer to Decommissioning Landmark",
+        "authors": [
+            "Eleanor Thursby, corporate communications Officer"
+        ],
+        "posted_on": "2025-10-14T11:03:45",
+        "categories": [
+            "Mission delivery",
+            "Operations",
+            "Research and development",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Before we were Sellafield, we were Windscale. A small collection of buildings (two reactors \u2013 known as piles, two chimneys, one fuel cooling pond, one waste storage silo, and a reprocessing plant) designed to help the UK develop a nuclear deterrent that would sit at the heart of the country\u2019s national defence.",
+                "tag": "p"
+            },
+            {
+                "content": "Designing and building those ground-breaking nuclear facilities made the site the birthplace of the country\u2019s civil nuclear industry. It also meant that the people working there were true nuclear pioneers.",
+                "tag": "p"
+            },
+            {
+                "content": "That pioneering spirit continues, but today our brilliant people and supply chain partners have a different challenge \u2013 how do we safely decommission these legacy facilities? And how can we do it in such a way that others can learn and benefit from our work?",
+                "tag": "p"
+            },
+            {
+                "content": "The origins of Windscale",
+                "tag": "h2"
+            },
+            {
+                "content": "After the Second World War, fears of a third led nations to pursue nuclear weapons as deterrents. Britain, initially part of the Manhattan Project, had to develop its own capability after the U.S. passed the McMahon Act, ending atomic collaboration.",
+                "tag": "p"
+            },
+            {
+                "content": "Sellafield, formerly a munitions factory, was chosen to produce plutonium for the weapon. In 1947, the government approved the construction of two Windscale pile reactors.",
+                "tag": "p"
+            },
+            {
+                "content": "Just three years later, in 1950, the first reactor started working and by 1952 had produced the first batch of metallic plutonium.",
+                "tag": "p"
+            },
+            {
+                "content": "To do this, the teams on site had to design and build support buildings, including",
+                "tag": "p"
+            },
+            {
+                "content": "Both of the reactors were permanently shut down in 1957 following a fire in reactor 1.",
+                "tag": "p"
+            },
+            {
+                "content": "Some of the Windscale buildings were repurposed after the fire.",
+                "tag": "p"
+            },
+            {
+                "content": "Windscale Pile Reactors",
+                "tag": "h2"
+            },
+            {
+                "content": "Constructed between 1946 and 1951, Pile 1 and Pile 2 were among the site\u2019s earliest buildings. Both reactors were shut down following the 1957 fire that occurred in the reactor of Pile 1.",
+                "tag": "p"
+            },
+            {
+                "content": "Purpose of the Windscale Piles",
+                "tag": "h3"
+            },
+            {
+                "content": "The two reactors were the first stage in the process of production of material for the UK\u2019s defence programme via neutron irradiation of natural uranium. Fuel was loaded into the reactor  and discharged into a water duct.",
+                "tag": "p"
+            },
+            {
+                "content": "Windscale Piles decommissioning progress",
+                "tag": "h3"
+            },
+            {
+                "content": "The fire in Pile 1 caused damage to both the reactor and the chimney. This has made the decommissioning of this facility more complex than its Pile 2 counterpart.",
+                "tag": "p"
+            },
+            {
+                "content": "Pile 1",
+                "tag": "h4"
+            },
+            {
+                "content": "Read more about Pile 1 ",
+                "tag": "p"
+            },
+            {
+                "content": "Pile 2",
+                "tag": "h4"
+            },
+            {
+                "content": "Read more about Pile 2 ",
+                "tag": "p"
+            },
+            {
+                "content": "Pile Fuel Storage Pond",
+                "tag": "h2"
+            },
+            {
+                "content": "Built between 1948\u20131952, the Pile Fuel Storage Pond is the world\u2019s largest open-air nuclear fuel storage pond.",
+                "tag": "p"
+            },
+            {
+                "content": "Purpose of the Pile Fuel Storage Pond",
+                "tag": "h3"
+            },
+            {
+                "content": "The pond was originally designed to cool, decan, and prepare spent fuel from the Windscale Piles before reprocessing. It was later adapted and handled fuel from other reactor types. Whilst operational, the Pile Fuel Storage Pond accumulated a mix of fuel, isotopes, debris, and sludge.",
+                "tag": "p"
+            },
+            {
+                "content": "Pile Fuel Storage Pond decommissioning progress",
+                "tag": "h3"
+            },
+            {
+                "content": "Read more about the Pile Fuel Storage Pond",
+                "tag": "p"
+            },
+            {
+                "content": "First-Generation Reprocessing Plant",
+                "tag": "h2"
+            },
+            {
+                "content": "Originally known as the\u00a0Primary Separation Plant, the First-Generation Reprocessing Plant was built in the late 1940s. It featured six process cells and a 61-metre ventilation stack.",
+                "tag": "p"
+            },
+            {
+                "content": "Purpose of the First-Generation Reprocessing Plant",
+                "tag": "h3"
+            },
+            {
+                "content": "The plant received spent fuel from the\u00a0Pile Fuel Storage Pond \u00a0and carried out the first stage of reprocessing for material from the Windscale Pile reactors. The separated materials were then transferred to other facilities for further processing.",
+                "tag": "p"
+            },
+            {
+                "content": "The plant operated successfully for 12 years before reprocessing responsibilities shifted to the\u00a0Magnox Reprocessing Plant. Between 1968 and 1973, part of the facility was refurbished to experimentally dismantle and dissolve oxide fuel from reactors like Windscale Advanced Gas Reactor (WAGR), demonstrating the feasibility of oxide fuel reprocessing.",
+                "tag": "p"
+            },
+            {
+                "content": "Until its stack was removed, the reprocessing plant also provided ventilation to neighbouring operational facilities.",
+                "tag": "p"
+            },
+            {
+                "content": "First Generation Reprocessing Plant decommissioning progress",
+                "tag": "h3"
+            },
+            {
+                "content": "The plant has been\u00a0partially decommissioned, with ongoing monitoring and maintenance to ensure safety and prevent infrastructure degradation.",
+                "tag": "p"
+            },
+            {
+                "content": "Ventilation stack",
+                "tag": "h4"
+            },
+            {
+                "content": "Redundant cells",
+                "tag": "h4"
+            },
+            {
+                "content": "Innovative techniques have been applied to maintain safety and structural integrity:",
+                "tag": "p"
+            },
+            {
+                "content": "Read more about the First Generation Reprocessing Plant",
+                "tag": "p"
+            },
+            {
+                "content": "Pile Fuel Cladding Silo",
+                "tag": "h2"
+            },
+            {
+                "content": "Constructed in the 1950s, the Pile Fuel Cladding Silo was inspired by North American grain silos.",
+                "tag": "p"
+            },
+            {
+                "content": "Purpose of the Pile Fuel Cladding Silo",
+                "tag": "h3"
+            },
+            {
+                "content": "The silo was a dry storage-facility that received and stored cladding from decanned fuel. It also held other intermediate-level waste from early site operations.",
+                "tag": "p"
+            },
+            {
+                "content": "It contains six large compartments and was not originally designed for waste retrieval.",
+                "tag": "p"
+            },
+            {
+                "content": "Pile Fuel Cladding Silo decommissioning progress",
+                "tag": "h3"
+            },
+            {
+                "content": "Read more about the Pile Fuel Cladding Silo",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nda.blog.gov.uk/windscale-from-nuclear-pioneer-to-decommissioning-landmark/",
+        "blog": "Cleaning up our nuclear past: faster, safer and sooner",
+        "blog_link": "https://nda.blog.gov.uk",
+        "description": "Before we were Sellafield, we were Windscale. Today our brilliant people and supply chain partners have a different challenge \u2013 how do we safely decommission these legacy facilities?"
+    },
+    {
+        "title": "Four decades in the passenger seat: My journey as Chief Driving Examiner",
+        "authors": [
+            "Mark Winn"
+        ],
+        "posted_on": "2025-10-14T11:02:44",
+        "categories": [
+            "Driving test",
+            "Feature",
+            "Learning to drive",
+            "Learning to ride"
+        ],
+        "content": [
+            {
+                "content": "While I prepare to hang up my keys at the end of the month, I\u2019ve been asked to reflect on a career that began in 1986 \u2013 the year the M25 officially opened, Casualty first appeared on our screens, and 30 million viewers watched Dirty Den serve divorce papers to Angie in EastEnders. It was quite a year to start my journey with what would become the Driver and Vehicle Standards Agency (DVSA). And I suspect more people are still talking about EastEnders!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, nearly 4 decades later, as I step down from my role as Chief Driving Examiner \u2013 a position I've held since 2018 \u2013 I'm struck by how much has changed in road safety and driver training, and how privileged I've been to play a part in that evolution.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learners on motorways",
+                "tag": "h3"
+            },
+            {
+                "content": "One of the things I'm most proud of during my tenure was overseeing the change that allowed learner drivers onto motorways for the first time. When the law changed in June 2018, it marked a major shift in how we prepare new drivers for the realities of modern motoring.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I remember appearing on BBC Breakfast to publicise it, explaining how learners could now gain experience on motorways with qualified approved driving instructors in dual-controlled cars. The difference this has made to road safety can\u2019t be overstated. Previously, a newly qualified driver's first motorway experience could be daunting, even frightening. Now they can develop those crucial high-speed driving skills \u2013 joining and leaving carriageways, lane discipline, and safe overtaking \u2013 in a controlled environment, with the help and supervision of a professional driving instructor.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This wasn't just about individual safety; it was about DVSA working collaboratively with road safety organisations to create meaningful change. It showed what can be achieved when we put public safety first and work together towards common goals.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Protecting our most vulnerable road users\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Another landmark moment was our work in updating the Highway Code to introduce the hierarchy of road users. This wasn't simply about changing rules; it was about a major shift in attitudes towards road sharing and responsibility.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The hierarchy places those most at risk \u2013 pedestrians, cyclists, horse riders, and motorcyclists \u2013 at the top, with those operating the largest and most powerful vehicles bearing the greatest responsibility to look out for more vulnerable users. It's a principle that reflects both common sense and compassion, ensuring that we all take greater care of those who need our protection most and ensuring our roads remain amongst the safest in the world.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rising to unprecedented challenges\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The pandemic tested all of us in ways we never anticipated. During those difficult times, I found myself not just leading policy on vocational training but rolling up my sleeves to conduct more driving tests. Even when being a driving examiner was no longer part of my day-to-day role, I always made a point of carrying out driving tests. The pandemic felt like the right time to do more so that, along with many other examiners, we could ensure there were driving tests available for the key staff that were essential to combatting a disease that cost the lives of many of our fellow citizens.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m particularly proud that we were able to help ensure key workers could get their licences and, crucially, support paramedics and ambulance drivers in their role in the response to the crisis.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I was also heavily involved in addressing the HGV driver shortage that threatened to disrupt deliveries during the pandemic. It was vital that we had to get it sorted so we could protect the logistics industry and keep goods moving.\u00a0 The pace of change was remarkable. It showed me first-hand how quickly government and the Civil Service can act when decisive action is needed. The initiatives we implemented significantly increased the number of vocational driving tests \u2013 allowing industry to recruit more lorry drivers. This demonstrated the power of focused, collaborative effort.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Making motorcycling safer and more accessible\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Motorcyclists hold a special place in my heart \u2013 not least because I'm a keen rider myself. So, I'm particularly pleased with our work to make motorcycling safer and more accessible. The relaunch of the enhanced rider scheme was a significant achievement, making post-test training available to many more riders and instructors.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the other end of the learning spectrum, we developed Ridefree, making online training freely accessible to new riders. Since its launch, over 35,000 people have completed the course, giving them a better understanding right at the beginning of their learning journey.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These initiatives reflect my belief that learning doesn't stop when you pass your test \u2013 whether you're driving a car, bus or lorry or riding a motorcycle, there's always more to learn about staying safe on our roads.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h3"
+            },
+            {
+                "content": "I don\u2019t plan to slow down when I retire. I'll continue my role as a Scout leader and my work with Orchyd, a disabled children's charity that's close to my heart. I've also got some work lined up with another community charity for a couple of days a week \u2013 just to keep me busy and off the streets, as they say.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And, of course, there will be more time for riding motorcycles and having fun.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My colleagues have been wonderfully supportive about my retirement and I have complete confidence in the team and the organisation we've built together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A lasting legacy",
+                "tag": "h3"
+            },
+            {
+                "content": "Looking back over these years, I'm struck by how much we've achieved in making our roads safer for everyone. From allowing learners on motorways to protecting vulnerable road users, from responding to national emergencies to continuously improving training standards \u2013 it's been a privilege to serve in this role and I\u2019m proud that our roads remain amongst the safest in the world.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Road safety is never a finished project \u2013 it requires constant vigilance, innovation, and collaboration. But I'm confident that the foundations we've laid will continue to protect and serve road users for years to come.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As I ride off into retirement and shamelessly end my clich\u00e9s, I know that we've made a real difference to road safety in Britain. And that's something worth celebrating. EastEnders (which I don\u2019t watch) will have to carry on without me.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://despatch.blog.gov.uk/2025/10/14/four-decades-in-the-passenger-seat-my-journey-as-chief-driving-examiner/",
+        "blog": "Despatch for driver and rider trainers",
+        "blog_link": "https://despatch.blog.gov.uk",
+        "description": "Chief Driving Examiner, Mark Winn, retires this month after 39 years in driver testing. Here he reflects on the changes he\u2019s seen since becoming Chief Driving Examiner in 2018."
+    },
+    {
+        "title": "One Big Thing 'AI for All' is live",
+        "authors": [
+            "Government Reform"
+        ],
+        "posted_on": "2025-10-14T10:44:13",
+        "categories": [
+            "A Modern Civil Service",
+            "Capability",
+            "Data science",
+            "Digital and data",
+            "Innovation",
+            "Join a profession",
+            "One Big Thing",
+            "Proud Civil Servant",
+            "Skilled Civil Service"
+        ],
+        "content": [
+            {
+                "content": "One Big Thing 2025 - \u2018AI for All\u2019 is live. This year\u2019s initiative is about all civil servants becoming more confident and responsible users of AI.",
+                "tag": "p"
+            },
+            {
+                "content": "AI is already transforming how we serve the public, with real, tangible benefits. Whether that\u2019s making services accessible at a fraction of the cost, speeding up life-saving decisions in healthcare, or handling repetitive, time-consuming tasks so that we can spend more time doing the things only we can do - engaging with people, innovating, making strategic decisions, and delivering the services AI can\u2019t. \u00a0Our research shows that only 28% of civil servants feel confident using AI at work; so \u2018AI for All\u2019 is here to change that!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Taking part in One Big Thing 2025 will help civil servants build foundational knowledge of AI and learn from examples of impactful AI use from across the Civil Service and beyond. We must also learn to use AI responsibly, and the One Big Thing training will cover this.",
+                "tag": "p"
+            },
+            {
+                "content": "How to take part if you are a civil servant",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0How are public servants already using AI?",
+                "tag": "h2"
+            },
+            {
+                "content": "AI is making information easier to find. GOV.UK Chat is a pilot tool that uses relevant website content to generate responses, aiming to simplify navigation across more than 700,000 pages on GOV.UK and help users find the information they need. Feedback from testing with hundreds of users suggested a preference for GOV.UK Chat over traditional search and navigation methods. This highlighted the convenience of direct question-answering systems, particularly for users with more complex questions.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf\u00a0 \u00a0 \u00a0 AI is enabling a better standard of teaching. A centralised content store including guidance, lesson plans, and anonymised pupil assessments is being used to train AI models to produce high-quality, accurate, and legally compliant educational tools tailored to schools. 16 education technology providers are using the content store to develop AI-powered tools for teachers, supported by \u00a31 million in Innovate UK funding. Early tests by the Department for Education show that supplying generative AI models with targeted educational data can increase accuracy to 92%, compared to 67% without such data.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf\u00a0 \u00a0 \u00a0 AI is driving innovation in healthcare, with the ultimate goal of improving patient outcomes and enhancing the efficiency and effectiveness of the NHS. An example is a world-leading trial to tackle breast cancer to research how multiple cutting-edge AI tools can be used in the breast cancer screening pathway, with almost 700,000 women across the country taking part. If the trial is successful, it could free up hundreds of radiologists and other specialists to see more patients. This will help tackle rising cancer rates, save more lives, and cut waiting lists.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf\u00a0 \u00a0 \u00a0 AI is facilitating collaboration and reducing duplication. The NHS user research finder allows users to both upload and search for user research. User research is summarised using a large language model (LLM), with summaries reviewed and edited by users. This makes user research more easily findable and visible. It can save considerable time for user researchers and minimise the risk that relevant user research is neglected or work is duplicated.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf\u00a0 \u00a0 \u00a0 Secure, bespoke tools are empowering civil servants to be even more efficient and effective in their roles by helping to brainstorm, create first drafts, and review work. For example, the Government Communication Service developed \u2018Assist\u2019 - a tool built by government communicators, for government communicators. Over 5,800 communicators are now using Assist, with users saving 3 hours a week on average. This is equivalent to annual productivity savings of over \u00a37.5 million.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf\u00a0 \u00a0 \u00a0 AI is helping make public services more inclusive and cost-effective. For example, Swindon Borough Council is using Simply Readable, an AI-powered tool to generate Easy-Read documents. Co-created with residents with learning disabilities, it features larger fonts, clear language, increased spacing, and supporting visuals to meet real user needs. This reduced the cost of creating 5-10 page documents from \u00a3600 to circa 7-10 pence.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf\u00a0 \u00a0 \u00a0 It\u2019s making services easier to access. \u00a0Limbic Access is an AI-powered chatbot that streamlines the referral process for NHS talking therapies. Excellent results included a 30% increase in the number of patients completing their referral process, assessment time reduced by 23.5% and an 18% decrease in the number of patients dropping out of treatment.",
+                "tag": "p"
+            },
+            {
+                "content": "Start your learning and sign up to our newsletter to receive more OBT updates.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://moderncivilservice.blog.gov.uk/2025/10/14/one-big-thing-ai-for-all-is-live/",
+        "blog": "A Modern Civil Service",
+        "blog_link": "https://moderncivilservice.blog.gov.uk",
+        "description": "One Big Thing 2025 - \u2018AI for All\u2019 is live. This year\u2019s initiative is about all civil servants becoming more confident and responsible users of AI."
+    },
+    {
+        "title": "Power of Attorney Stories: Jill",
+        "authors": [
+            "harryfortuna"
+        ],
+        "posted_on": "2025-10-14T10:00:00",
+        "categories": [
+            "Future planning",
+            "lasting power of attorney",
+            "LPA",
+            "YourVoiceYourDecision"
+        ],
+        "content": [
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "A lasting power of attorney (also known as an LPA) is a legal document. It allows you to nominate someone you trust to step in and make decisions about your\u00a0health and welfare and property\u00a0and finance if you lack mental\u00a0capacity\u00a0to do so.",
+                "tag": "p"
+            },
+            {
+                "content": "Jill\u00a0,\u00a0from Sandhurst, has been an advocate of LPAs for longer than\u00a0a\u00a0decade after her late\u00a0father's\u00a0diagnosis of Alzheimer\u2019s\u00a0disease. Since\u00a0then,\u00a0she has been a long-time campaigner for\u00a0research into\u00a0the disease and really encourages\u00a0people\u00a0of any age\u00a0to create\u00a0an LPA. Being\u00a0both\u00a0an\u00a0attorney and\u00a0a\u00a0donor,\u00a0she has a great overview of the process.",
+                "tag": "p"
+            },
+            {
+                "content": "Jill shared how her experiences as a carer and campaigner inspired her to take action and set up her own LPA:",
+                "tag": "h4"
+            },
+            {
+                "content": "Over the past decade,\u00a0I\u2019ve\u00a0seen the importance of lasting powers of attorney (LPAs) from\u00a0just about every\u00a0angle as a daughter, a friend, a neighbour, and\u00a0for myself.\u00a0It\u2019s\u00a0a journey\u00a0that\u2019s\u00a0been emotional, empowering, and one I hope\u00a0I\u00a0can help others\u00a0to\u00a0think about\u00a0to safeguard\u00a0their own future.",
+                "tag": "p"
+            },
+            {
+                "content": "I first came across LPAs in 2012 after my\u00a0wonderful Pa\u00a0was diagnosed with Alzheimer\u2019s\u00a0disease. Through\u00a0contact with carers\u2019 support groups, my family was\u00a0advised to consider\u00a0setting\u00a0them\u00a0up,\u00a0to\u00a0give us the legal right to help him manage his affairs when he could no longer do so himself\u00a0and to speak to\u00a0his doctor on his behalf.",
+                "tag": "p"
+            },
+            {
+                "content": "We ended up doing it on his\u00a091st\u00a0birthday in 2013. The whole family came together to sign and\u00a0witness\u00a0the LPA.\u00a0Looking back, it was incredibly\u00a0emotional,\u00a0and\u00a0I think about it with a sense of nostalgia. We were united, doing something important to make sure\u00a0Pa\u2019s wishes would always be respected. That moment really stayed with me.",
+                "tag": "p"
+            },
+            {
+                "content": "Since then, I\u00a0have\u00a0advised many of my friends and\u00a0neighbours to consider having LPAs.",
+                "tag": "p"
+            },
+            {
+                "content": "I have helped some with the online application process or acted as a witness to their signatures.",
+                "tag": "p"
+            },
+            {
+                "content": "From a carer\u2019s point of view, I\u00a0can\u2019t\u00a0stress enough how much having an LPA in place helps. When someone you love is losing their\u00a0mental\u00a0capacity,\u00a0it\u2019s\u00a0heart-breaking. But having that legal foundation gives you something solid to lean on\u00a0and\u00a0is\u00a0one less thing to worry about during\u00a0the\u00a0tough\u00a0times\u00a0ahead.",
+                "tag": "p"
+            },
+            {
+                "content": "After helping others, I realised it was time to sort my own affairs. My partner and I are now each other\u2019s attorneys, and\u00a0we\u2019ve\u00a0included\u00a0family members\u00a0and younger friends\u00a0as\u00a0replacement\u00a0attorneys.\u00a0\u00a0We have been able to share\u00a0information with banks to allow us to access each other\u2019s accounts\u00a0using the LPA online codes, but this\u00a0isn\u2019t\u00a0something\u00a0everyone\u00a0needs to do until they choose to.",
+                "tag": "p"
+            },
+            {
+                "content": "For me,\u00a0it\u2019s\u00a0all about staying in control. An LPA means I still have a say in what happens to me, especially when it comes to my health.\u00a0I\u2019ve\u00a0seen what happens when people\u00a0don\u2019t\u00a0have anything in place and I knew I\u00a0didn\u2019t\u00a0want to leave things to chance.",
+                "tag": "p"
+            },
+            {
+                "content": "To be honest, I see it a bit like an insurance policy. You hope\u00a0you\u2019ll\u00a0never need it, but knowing\u00a0it\u2019s\u00a0there\u00a0brings\u00a0real peace of\u00a0mind not\u00a0just for you, but for the people around you too.",
+                "tag": "p"
+            },
+            {
+                "content": "I volunteer with Alzheimer\u2019s Research UK in memory of\u00a0Pa\u00a0and,\u00a0last\u00a0year,\u00a0I had the honour of speaking to MPs at the Houses of Parliament about why this work matters. I\u00a0am a\u00a0fundraiser\u00a0and\u00a0I\u00a0also\u00a0represent\u00a0those who have supported someone living with dementia\u00a0at the charity.",
+                "tag": "p"
+            },
+            {
+                "content": "My journey has taught me that none of us know\u00a0what\u2019s\u00a0around the corner, but we all deserve the chance to plan for it.\u00a0However old you are, if\u00a0you\u00a0haven\u2019t\u00a0thought about setting up an LPA yet,\u00a0I\u2019d\u00a0really encourage you to\u00a0do so. It might feel like a big step but\u00a0it\u2019s\u00a0one that safeguards\u00a0your\u00a0future.\u00a0\u00a0In some ways I would say that it is even more important than writing a will!",
+                "tag": "p"
+            },
+            {
+                "content": "A lasting power of attorney (also known as an LPA) is a legal document. It allows you to nominate someone you trust to step in and make decisions about your\u00a0health and welfare and property\u00a0and finance if you lack mental capacity to do so.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Jill\u00a0is one of the many people across England and Wales who has made an LPA.\u00a0It's\u00a0never too early to talk about lasting powers of attorney with someone you trust.",
+                "tag": "p"
+            },
+            {
+                "content": "Start a conversation today.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more at \u202fhttps://powerofattorney.campaign.gov.uk/",
+                "tag": "p"
+            },
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Dogfen\u00a0gyfreithiol yw\u00a0Atwrneiaeth\u00a0Arhosol\u00a0(a elwir hefyd yn LPA).\u00a0Mae'n caniat\u00e1u i chi enwebu rhywun rydych chi'n ymddiried ynddo/ynddi\u00a0i gamu i mewn a gwneud penderfyniadau am eich iechyd a'ch lles a'ch eiddo a'ch cyllid os nad oes gennych chi'r galluedd\u00a0meddyliol i wneud hynny.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u00a0Jill\u00a0,\u00a0o\u00a0Sandhurst,\u00a0wedi bod yn eiriolwr dros\u00a0atwrneiaethau\u00a0arhosol ers dros\u00a0ddegawd\u00a0ar \u00f4l\u00a0i\u2019w\u00a0diweddar dad\u00a0gael\u00a0diagnosis\u00a0o\u00a0glefyd\u00a0Alzheimer.\u00a0Ers hynny,\u00a0mae\u00a0wedi\u00a0bod yn ymgyrchu\u00a0ers\u00a0tro\u00a0dros ymchwil i'r clefyd\u00a0ac yn annog pobl o unrhyw oedran i greu\u00a0atwrneiaeth\u00a0arhosol.\u00a0\u00a0Gan ei bod yn\u00a0atwrnai\u00a0ac yn rhoddwr, mae ganddi drosolwg gwych o'r broses.",
+                "tag": "p"
+            },
+            {
+                "content": "Rhannodd Jill sut mae ei phrofiadau fel gofalwr ac ymgyrchydd wedi ei hysbrydoli i weithredu a sefydlu ei LPA ei hun:",
+                "tag": "h4"
+            },
+            {
+                "content": "Dros y degawd diwethaf, rydw i wedi gweld pwysigrwydd\u00a0atwrneiaethau\u202farhosol\u00a0o bron bob\u00a0ochr\u00a0fel merch, ffrind, cymydog, ac i mi fy hun. Mae'n siwrnai sydd wedi bod yn emosiynol, yn grymuso, ac yn un rwy'n gobeithio\u00a0a all\u00a0helpu eraill i feddwl\u00a0am ddiogelu eu dyfodol eu hunain.",
+                "tag": "p"
+            },
+            {
+                "content": "Des i ar draws\u00a0atwrneiaethau\u202farhosol\u00a0gyntaf yn 2012 ar \u00f4l i fy\u00a0annwyl Pa\u00a0gael diagnosis o glefyd\u00a0Alzheimer. Drwy ddod i gysylltiad \u00e2 grwpiau cymorth\u00a0i\u00a0ofalwyr, cynghorwyd fy\u00a0nheulu i ystyried eu sefydlu, i roi\u2019r hawl gyfreithiol i\u00a0ni i\u2019w helpu i reoli ei faterion pan na allai wneud hynny ei hun mwyach ac i siarad \u00e2\u2019i feddyg ar ei ran.",
+                "tag": "p"
+            },
+            {
+                "content": "Fe wnaethon ni wneud hynny adeg\u00a0ei ben-blwydd yn\u00a091\u00a0oed yn\u00a02013.\u00a0Daeth y teulu cyfan at ei gilydd i lofnodi a thystio\u2019r\u00a0atwrneiaeth\u202farhosol.\u00a0Wrth edrych yn \u00f4l, roedd yn emosiynol iawn, ac rwy'n meddwl amdano gyda\u00a0hiraeth. Roedden ni'n unedig, yn gwneud rhywbeth pwysig i\u00a0sicrhau bod dymuniadau\u00a0Pa\u00a0wastad yn cael eu parchu.\u00a0Arhosodd y foment honno gyda fi.",
+                "tag": "p"
+            },
+            {
+                "content": "Ers hynny,\u00a0rydw i wedi cynghori\u00a0nifer\u00a0o fy ffrindiau a'm cymdogion i ystyried cael\u00a0atwrneiaeth\u00a0arhosol.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydw i wedi helpu rhai gyda'r broses ymgeisio ar-lein neu wedi gweithredu fel tyst i'w llofnodion.",
+                "tag": "p"
+            },
+            {
+                "content": "O safbwynt gofalwyr,\u00a0fedra\u00a0i ddim pwysleisio digon\u00a0cymaint\u00a0mae cael\u00a0atwrneiaeth\u00a0arhosol\u00a0yn ei le yn helpu. Pan fydd rhywun rydych chi'n\u00a0ei garu yn colli eu galluedd meddyliol, mae\u2019n dorcalonnus.\u00a0Ond mae cael y sylfaen gyfreithiol honno yn rhoi\u00a0rhywbeth cadarn i chi bwyso arno ac mae'n un peth yn llai i boeni amdano yn ystod y cyfnod anodd sydd o'ch blaenau.",
+                "tag": "p"
+            },
+            {
+                "content": "Ar \u00f4l helpu eraill,\u00a0sylweddolais ei bod hi\u2019n bryd edrych ar fy materion fy hun.\u00a0Rydw i a fy mhartner yn\u00a0atwrneiod i'n gilydd erbyn hyn, ac rydyn ni wedi cynnwys aelodau o'r teulu a ffrindiau iau fel\u00a0atwrneiod\u00a0\u00a0wrth gefn.\u00a0\u00a0Rydyn ni wedi gallu rhannu gwybodaeth gyda banciau i ganiat\u00e1u i ni gael mynediad at gyfrifon ein gilydd\u00a0drwy\u00a0ddefnyddio codau\u00a0\u00a0ar-lein yr\u00a0atwrneiaeth\u00a0arhosol, ond nid yw hyn yn rhywbeth y mae angen i bawb ei wneud nes eu bod yn dewis gwneud hynny.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn bersonol,\u00a0mae\u2019n fater o aros mewn\u00a0rheolaeth.\u00a0Mae\u00a0atwrneiaeth\u00a0arhosol\u00a0yn golygu\u00a0bod\u00a0gen i lais o hyd\u00a0o ran\u00a0yr hyn sy'n digwydd i\u00a0fi, yn enwedig o ran fy\u00a0iechyd.\u00a0Rydw i wedi gweld beth sy'n digwydd pan nad oes gan bobl unrhyw beth yn ei le ac roeddwn i'n gwybod nad oeddwn i eisiau gadael pethau i\u00a0hap.",
+                "tag": "p"
+            },
+            {
+                "content": "I fod yn\u00a0onest,\u00a0rwy\u2019n\u00a0ei weld braidd fel polisi yswiriant. Rydych chi'n gobeithio na fydd ei angen arnoch chi byth, ond mae gwybod ei fod yno yn dod \u00e2 thawelwch meddwl go iawn nid yn unig i chi, ond i'r bobl o'ch cwmpas\u00a0chi\u00a0hefyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydw i\u2019n gwirfoddoli gydag\u00a0Alzheimer\u2019s\u00a0Research UK\u00a0er cof am Pa, a llynedd, fe ges i\u2019r fraint o siarad ag Aelodau Seneddol yn Nh\u0177\u2019r Cyffredin\u00a0yngl\u0177n \u00e2 pham mae'r gwaith hwn yn bwysig. Rwy'n codi arian ac\u00a0rydw i\u00a0hefyd yn cynrychioli'r rhai sydd wedi cefnogi rhywun sy'n byw gyda\u00a0dementia\u00a0yn yr elusen.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae fy siwrnai\u00a0wedi\u00a0fy nysgu\u00a0nad oes\u00a0neb yn\u00a0gwybod beth sydd\u00a0rownd\u00a0y gornel, ond rydyn ni\u00a0i gyd yn haeddu'r cyfle i gynllunio ar ei gyfer.\u00a0Waeth pa\u00a0mor hen\u00a0rydych chi, os nad ydych chi wedi meddwl am sefydlu\u00a0atwrneiaeth\u00a0arhosol\u00a0hyd yma, byddwn i wir yn eich annog i wneud hynny. Efallai y bydd yn teimlo fel cam mawr ond mae'n un sy'n diogelu eich dyfodol. Mewn rhai ffyrdd, byddwn i'n dweud ei fod hyd yn oed yn bwysicach nag ysgrifennu ewyllys!",
+                "tag": "p"
+            },
+            {
+                "content": "Dogfen gyfreithiol yw\u00a0Atwrneiaeth\u00a0Arhosol. Mae'n caniat\u00e1u i chi enwebu rhywun rydych chi'n ymddiried ynddo i gamu i mewn a gwneud penderfyniadau am eich iechyd a'ch lles a'ch eiddo a'ch cyllid os nad oes gennych chi'r galluedd meddyliol i wneud hynny.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u00a0Jill\u00a0yn un o'r nifer o bobl ledled Cymru a Lloegr sydd wedi gwneud\u00a0atwrneiaeth\u00a0arhosol.\u00a0Nid yw byth yn rhy gynnar i siarad am\u00a0atwrneiaethau\u00a0arhosol\u00a0gyda rhywun rydych chi'n ymddiried ynddo.",
+                "tag": "p"
+            },
+            {
+                "content": "Dechreuwch sgwrs heddiw.",
+                "tag": "p"
+            },
+            {
+                "content": "Darllenwch fwy yn \u202fhttps://powerofattorney.campaign.gov.uk/",
+                "tag": "p"
+            }
+        ],
+        "link": "https://publicguardian.blog.gov.uk/2025/10/14/power-of-attorney-stories-jill/",
+        "blog": "Office of the Public Guardian",
+        "blog_link": "https://publicguardian.blog.gov.uk",
+        "description": "[English] - [Cymraeg] A lasting power of attorney (also known as an LPA) is a legal document. It allows you to nominate someone you trust to step in and make decisions about your\u00a0health and welfare and property\u00a0and finance if you \u2026"
+    },
+    {
+        "title": "Coverage of pro-growth package to get Britain building",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2025-10-14T09:55:28",
+        "categories": [
+            "Planning"
+        ],
+        "content": [
+            {
+                "content": "There has been prominent national print and broadcast coverage about the government unveiling a package of pro-growth amendments to the landmark Planning and Infrastructure Bill, as part of wider efforts to sweep aside blockers standing in the way of growth and dismantle barriers to get Britain building.",
+                "tag": "p"
+            },
+            {
+                "content": "This is picked up in The Financial Times, The Independent, The Guardian\u00a0and LBC\u00a0focusing on how the pro-growth reforms will speed up the construction of new infrastructure including reservoirs and onshore windfarms. This is on top of granting new powers for ministers to prevent applications being rejected by local councils while they consider using \u2018call-in\u2019 powers to decide whether they should be approved. There is also further coverage in Housing Today, Construction Enquirer and ENDS Report reporting about the new amendments.",
+                "tag": "p"
+            },
+            {
+                "content": "The Times\u00a0has run quotes from the Housing Secretary who has pledged to \u201cbulldoze through the barriers that have strangled growth for decades\u201d and \u201ctaking the fight directly to the blockers\u201d to see spades in the ground.",
+                "tag": "p"
+            },
+            {
+                "content": "The news has been welcomed by several organisations, with comments across the media from groups including the CBI, RenewableUK, Arup\u00a0and the Home Builders Federation.",
+                "tag": "p"
+            },
+            {
+                "content": "Amendments tabled this week include:",
+                "tag": "p"
+            },
+            {
+                "content": "The Housing Secretary undertook the broadcast round this morning speaking to the reforms on Times Radio, BBC Breakfast, Sky News, ITV\u2019s Good Morning Britain, LBC, and GB News.",
+                "tag": "p"
+            },
+            {
+                "content": "Housing Secretary, Steve Reed said: \u201cBritain\u2019s potential has been shackled by governments unwilling to overhaul the stubborn planning system that has erected barriers to building at every turn. It is simply not true that nature has to lose for economic growth to succeed.\u00a0\u201cSluggish planning has real world consequences. Every new house blocked deprives a family of a home. Every infrastructure project that gets delayed blocks someone from a much-needed job. This will now end.\u00a0 \u00a0\u00a0\u201cThe changes we are making today will strengthen the seismic shift already underway through our landmark Bill. We will \u2018Build, baby, build\u2019 with 1.5 million new homes and communities that working people desperately want and need.\u201d",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2025/10/14/coverage-of-pro-growth-package-to-get-britain-building/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been prominent national print and broadcast coverage about the government unveiling a package of pro-growth amendments to the landmark Planning and Infrastructure Bill, as part of wider efforts to sweep aside blockers standing in the way of growth \u2026"
+    },
+    {
+        "title": "iCOMAT opens state-of-the-art space manufacturing facility with \u00a34.8 million UK Space Agency investment",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-10-14T09:49:11",
+        "categories": [
+            "Catalysing Investment"
+        ],
+        "content": [
+            {
+                "content": "New automated production facility in Gloucestershire set to revolutionise lightweight space structures using cutting-edge composite technology.",
+                "tag": "p"
+            },
+            {
+                "content": "A groundbreaking new space manufacturing facility that is expected to create 2,000 jobs has officially opened in Hardwicke, Gloucester, marking a significant milestone for the UK's space industry capabilities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Advanced Composites Manufacturing Enterprise (ACMA), led by iCOMAT, a spin-out company from the University of Bristol, received \u00a34.8 million funding from the UK Space Agency's Space Clusters Infrastructure Fund (SCIF) to establish this world-class production facility.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The opening event welcomed representatives from the UK Space Agency, European Space Agency, and international space sector leaders, including Orbex, Lockheed Martin, and Thales Alenia Space who were treated to guided tours of the fully automated factory floor and live demonstrations of the revolutionary technology that aims to contribute to lighter weight and more sustainable space vehicles.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Space Minister Liz Lloyd said:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Evangelos Zympeloudis, CEO and Founder of iCOMAT, said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Transforming Space Manufacturing",
+                "tag": "h2"
+            },
+            {
+                "content": "The new 45,000 sq.ft facility represents a leap forward in composite materials manufacturing for space applications. iCOMAT's innovative Rapid Tow Shearing (RTS) technology enables production of structures that are significantly lighter and more cost-effective than traditional manufacturing processes, addressing critical industry demands for weight reduction in spacecraft and satellites.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Antonia Yendell, Head of Space Ecosystem Development at the UK Space Agency, said:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Work on the facility, which is located in the Western Gateway region to maximise collaboration with key players in the local space ecosystem, started in 2023 and has seen a total investment of \u00a38.2 million, including \u00a34.8 million SCIF funding and \u00a33.3 million match funding. iCOMAT has also received more than \u00a3800,000 of funding through the UK Space Agency\u2019s membership of the European Space Agency\u2019s General Support Technology Programme (GSTP).\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advanced production capabilities",
+                "tag": "h2"
+            },
+            {
+                "content": "The ACMA cluster features two specialised production lines designed to serve multiple space market segments. The 2D-RTS line focuses on manufacturing flat structures and complex shaped components, including satellite panels and solar array substrates. Meanwhile, the 3D-RTS production line handles geometrically complex components such as satellite and upper stage propellant tanks using advanced fibre steering technology on doubly curved parts.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The facility operates on a manufacturing access basis, allowing end users and customers to benefit from the cutting-edge RTS technology. Users can engage with the technology in various ways, from seeking lightweight improvements to existing vehicles to incorporating RTS capabilities into new design concepts.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting UK growth",
+                "tag": "h2"
+            },
+            {
+                "content": "While primarily focused on serving the space industry, the facility's capabilities extend to closely adjacent sectors including aerospace and automotive applications, demonstrating the versatility of the RTS technology platform.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The opening of iCOMAT's new facility underscores the UK's commitment to maintaining its leadership in space technology and composite materials, providing domestic capability that will help capture greater market share in the rapidly expanding global space economy.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/10/14/icomat-opens-state-of-the-art-space-manufacturing-facility-with-4-8-million-uk-space-agency-investment/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "A groundbreaking new space manufacturing facility that is expected to create 2,000 jobs has officially opened in Hardwicke, Gloucester, marking a significant milestone for the UK's space industry capabilities.\u00a0"
+    },
+    {
+        "title": "Tyrosinaemia screening implemented in England",
+        "authors": [
+            "Jane Hibbert"
+        ],
+        "posted_on": "2025-10-14T08:24:40",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Newborn screening for hereditary tyrosinaemia type 1 (HT1) is now being offered to all babies in England.",
+                "tag": "p"
+            },
+            {
+                "content": "HT1 has become the latest condition to be included in the NHS Newborn Blood Spot (NBS) Screening Programme following a recommendation by the UK National Screening Committee (UK NSC).",
+                "tag": "p"
+            },
+            {
+                "content": "HT1 is a serious inherited metabolic disease (IMD) that prevents the body from breaking down a substance called tyrosine found in food. It affects about 7 babies per year in the UK and leads to the build-up of toxic substances that damage the liver, kidneys, and nervous system.",
+                "tag": "p"
+            },
+            {
+                "content": "Evidence reviewed by the UK NSC found that screening will help detect these babies in time for them to be offered drug treatment and a special diet before becoming ill. These are life-changing benefits that significantly reduce the risk of long-term complications and symptoms such as poor weight gain, jaundice, an enlarged liver, bleeding, and bruising, which can lead to liver and kidney damage.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The roll-out of HT1 screening is the culmination of almost 2 years\u2019 detailed implementation planning by NHS England (NHSE). A UK NSC oversight group and expert clinical and laboratory sub-groups helped lay the groundwork with collaboration between NBS screening laboratories, maternity services, specialist doctors and dieticians. It has also required a change in the testing methodology for IMD screening.",
+                "tag": "p"
+            },
+            {
+                "content": "The HT1 screening project team would like to thank everyone who has helped make this all possible. The focus will now switch to monitoring the implementation of screening as the 13 NBS laboratories become familiar with using the new testing methodology.",
+                "tag": "p"
+            },
+            {
+                "content": "NHSE has updated the NBS page on NHS.UK and the Screening tests for you and your baby leaflet to include the addition of HT1 to the screening programme. It has also published new information for parents of babies who screen positive for the condition.",
+                "tag": "p"
+            },
+            {
+                "content": "Elsewhere in the UK, Scotland hopes to implement HT1 screening early in 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Wales is working on developments to infrastructure, systems and clinical pathways so HT1 screening can be introduced as soon as possible and the UK NSC\u2019s recommendation is also being considered within Northern Ireland.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u00a0register to receive updates\u00a0direct to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u00a0uknsc@dhsc.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2025/10/14/tyrosinaemia-screening-implemented-in-england/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "Newborn screening for hereditary tyrosinaemia type 1 (HT1) has been implemented in England."
+    },
+    {
         "title": "Compliance Clarity: Real World Lessons in Trade Sanctions Breach Detection\u00a0",
         "authors": [
             "Office of Trade Sanctions Implementation"
