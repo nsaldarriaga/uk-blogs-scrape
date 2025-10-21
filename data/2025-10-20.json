@@ -1,5 +1,713 @@
 [
     {
+        "title": "Exploring the Future of Battlefield Communications with the Royal Signals",
+        "authors": [
+            "T. Brickell"
+        ],
+        "posted_on": "2025-10-21T21:40:03",
+        "categories": [
+            "Digital Foundry",
+            "Digital Innovation",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "In the ever-evolving landscape of military communications, the need for innovative solutions to address emerging challenges is paramount. As the electromagnetic spectrum becomes increasingly congested and contested, the search for alternative communication technologies has taken centre stage. One such promising avenue is Optical Wireless Communications (OWC), specifically Free Space Optical Communications (FSOC), which offers a non-radio frequency (RF) alternative for long-range, point-to-point wireless communications. Recently, I had the privilege of working with the Yeoman of Signals (YofS) students on an exciting OWC project sponsored by the Chief Technology Officer (CTO). This project not only explored the potential of FSOC technology but also provided a unique opportunity to engage with the next generation of military communicators.",
+                "tag": "p"
+            },
+            {
+                "content": "The OWC project was designed to investigate the feasibility and benefits of FSOC technology for military applications. FSOC uses light to transmit data through free space, offering a secure, high-bandwidth, and interference-free communication method. Unlike traditional RF systems, FSOC is immune to electromagnetic interference and does not contribute to the electromagnetic signature of a battlefield, making it an attractive option for dispersed Command Posts (CPs) and other tactical scenarios.",
+                "tag": "p"
+            },
+            {
+                "content": "The project was sponsored by the CTO, who recognised the potential of FSOC to address critical challenges in modern military communications. To bring this vision to life, the YofS students were tasked with exploring the technology, understanding its benefits, and assessing its applicability for the warfighter. This hands-on approach not only allowed the students to engage with cutting-edge technology but also provided valuable insights for the CTO and the broader defence community.",
+                "tag": "p"
+            },
+            {
+                "content": "One of the most rewarding aspects of this project was working closely with the YofS students to help them understand the intricacies of OWC technology. For many of them, this was their first exposure to FSOC, and it was inspiring to see their enthusiasm and curiosity as they delved into the subject.",
+                "tag": "p"
+            },
+            {
+                "content": "We began by introducing the fundamental principles of FSOC, including how it uses lasers or LEDs to transmit data over long distances. The students quickly grasped the advantages of FSOC, such as its high data rates, low latency, and immunity to RF jamming. They were particularly intrigued by its potential to operate in environments where traditional RF systems might be compromised.",
+                "tag": "p"
+            },
+            {
+                "content": "To deepen their understanding, we conducted a workshop and practical session, where the students had the opportunity to work with FSOC equipment and simulate real-world scenarios. These hands-on experiences were invaluable in helping them appreciate the challenges and opportunities associated with deploying FSOC technology in a military context.",
+                "tag": "p"
+            },
+            {
+                "content": "A standout moment of the project was the field trial conducted with a Defence and Security Accelerator (DASA)-funded FSOC system called WOLF, developed by AVOptics. This trial took place on a disused airfield at the Land Systems Test and Reference Centre (LSRC) at Blandford Camp in Dorset, providing an ideal environment to evaluate the system's performance in a realistic yet controlled operational setting. The WOLF system represented a cutting-edge implementation of FSOC technology, and the trial offered an invaluable opportunity to assess its feasibility for military use.",
+                "tag": "p"
+            },
+            {
+                "content": "The main objective of the trial was to investigate the potential of FSOC technology to support the dispersion of Command Posts within a Combined Arms Manoeuvre (CAM) setting, thereby reducing electromagnetic signatures on the battlefield and improving survivability. By decreasing dependence on conventional RF communications, FSOC presents a promising approach to bolstering operational security and lowering the likelihood of detection by adversaries.",
+                "tag": "p"
+            },
+            {
+                "content": "During the trial, the YofS students played a pivotal role in setting up and operating the WOLF system. Working alongside AVOptics engineers and military personnel, they established FSOC links across varying distances and terrain on the airfield. The trial presented several challenges, including maintaining a clear line-of-sight between the transmitter and receiver, mitigating the effects of atmospheric conditions, and ensuring the system's reliability in a dynamic environment.",
+                "tag": "p"
+            },
+            {
+                "content": "Despite these challenges, the trial was a resounding success. The WOLF system demonstrated its ability to deliver high-speed, secure communications over significant distances, even in less-than-ideal conditions. The students gained hands-on experience in troubleshooting and optimising the system, and their feedback provided critical insights that will inform future development and deployment of FSOC technology.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As with any innovative project, the OWC initiative encountered its share of challenges. One of the primary hurdles was the need to maintain a clear line-of-sight between the FSOC transmitter and receiver. This requirement can be difficult to achieve in complex battlefield environments, where terrain, obstacles, and movement can disrupt the optical link. The students quickly learned the importance of careful planning and site selection to maximise the system's effectiveness.",
+                "tag": "p"
+            },
+            {
+                "content": "Another challenge was the impact of atmospheric conditions, such as fog, rain, and dust, on FSOC performance. These factors can attenuate the optical signal and reduce the system's range and reliability. The trial provided valuable data on how these conditions affect FSOC links and highlighted the need for robust mitigation strategies.",
+                "tag": "p"
+            },
+            {
+                "content": "Despite these challenges, the project achieved several significant successes. The students demonstrated remarkable adaptability and problem-solving skills, and their contributions were instrumental in overcoming technical and operational obstacles. The trial also validated the potential of FSOC technology to enhance battlefield communications, providing a strong foundation for future research and development.",
+                "tag": "p"
+            },
+            {
+                "content": "The insights gained from the OWC project have far-reaching implications for military communications. FSOC technology offers a viable alternative to RF systems, enabling secure, high-bandwidth communications in environments where RF is compromised or unavailable. Its ability to minimise electromagnetic signatures is particularly valuable for dispersed command posts, where operational security is paramount.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead, FSOC technology could play a critical role in enabling next-generation military networks, supporting applications such as unmanned systems, sensor networks, and high-capacity data links. The lessons learned from the WOLF trial will inform ongoing efforts to refine and optimise FSOC systems for military use.",
+                "tag": "p"
+            },
+            {
+                "content": "Working with the YofS students on the OWC project was a truly rewarding experience. Their enthusiasm, creativity, and dedication were instrumental in the project's success, and it was inspiring to see them embrace the challenge of exploring a new technology. The project not only provided them with valuable skills and knowledge but also demonstrated the importance of collaboration between the military, industry, and academia in driving innovation.",
+                "tag": "p"
+            },
+            {
+                "content": "For the CTO, the project offered a unique opportunity to engage directly with the end-users of emerging technologies. The insights gained from the students' experiences and feedback will be invaluable in shaping the future development and deployment of FSOC systems. This collaborative approach ensures that new technologies are not only technically feasible but also operationally relevant and effective.",
+                "tag": "p"
+            },
+            {
+                "content": "The success of the OWC project has laid the groundwork for a continued partnership between the CTO and the YofS course. By fostering a culture of innovation and collaboration, we can ensure that the next generation of military communicators is well-equipped to tackle the challenges of the future battlefield.",
+                "tag": "p"
+            },
+            {
+                "content": "As we look to the future, the potential of FSOC technology to transform military communications is clear. By continuing to invest in research, development, and training, we can unlock the full potential of this groundbreaking technology and deliver tangible benefits for the warfighter.",
+                "tag": "p"
+            },
+            {
+                "content": "In conclusion, the OWC project was a shining example of how collaboration, innovation, and hands-on learning can drive progress in military communications. It was a privilege to work with the YofS students and contribute to this exciting initiative, and I look forward to seeing how FSOC technology continues to evolve and shape the future of defence communications.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defencedigital.blog.gov.uk/2025/10/21/exploring-the-future-of-battlefield-communications-with-the-royal-signals/",
+        "blog": "Defence Digital",
+        "blog_link": "https://defencedigital.blog.gov.uk",
+        "description": "In the ever-evolving landscape of military communications, the need for innovative solutions to address emerging challenges is paramount. As the electromagnetic spectrum becomes increasingly congested and contested, the search for alternative communication technologies has taken centre stage. One such promising \u2026"
+    },
+    {
+        "title": "What\u2019s\u202fchanging\u202f\u2013\u202ffiling international patents\u00a0",
+        "authors": [
+            "Simeon Bowen"
+        ],
+        "posted_on": "2025-10-21T14:45:00",
+        "categories": [
+            "Digital",
+            "Innovation",
+            "IPO",
+            "Patents",
+            "Transformation"
+        ],
+        "content": [
+            {
+                "content": "Spring 2026 will see the arrival of our One IPO Patent Service \u2013 a digital platform that will transform how you apply for and manage patents.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're publishing weekly guidance to help you prepare for these changes. Each week covers a different aspect of the new service to ensure you're ready for the transition.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This week we turn our attention to the most imminent change \u2013 how you file international patents.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The context\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Currently, international patents from UK applicants, otherwise known as Patent Cooperation Treaty (PCT) filings, are typically submitted via the European Patent Office\u2019s online filing service (eOLF). From 1 January 2026, eOLF is no longer being supported by the EPO.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While we\u2019ll still be accepting UK (GB) patent applications via eOLF until 31 March 2026, the same isn\u2019t true of PCT applications. This is because we will be unable to update eOLF to reflect the new fees for PCT applications (applied annually on 1 January).",
+                "tag": "p"
+            },
+            {
+                "content": "Filing PCT applications from 1 January 2026\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "There is no facility to submit PCT applications built into UK IPO\u2019s new patents service. As a result, from 1 January 2026 you will have three options for filing PCT applications:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Submitting applications with the UK IPO as a receiving office means that the UK IPO will conduct some initial checks. This will make sure the application is accurate and nothing is missing before sending it to WIPO.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Submitting subsequent documents\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Once you\u2019ve submitted a PCT application, you may need to submit subsequent documents. These could include additional information for your application. How you submit those documents from 1 January 2026 will depend on how you submitted your PCT application:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing for the change\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We strongly recommend taking some time to familiarise yourself with the ePCT service before 1 January 2026. You can create an ePCT account today \u2013 information on how to do this is provided in the ePCT User Guide FAQs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can also make use of WIPO\u2019s Demo Environment for Test Filings. This allows you to play with the ePCT service as much as you want without having to worry about making mistakes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Key features of ePCT\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "ePCT allows you to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Unlike eOLF, there is no client to download. ePCT is completely web-based, so you just need to set-up a WIPO account. You won\u2019t need to worry about downloading and installing software.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about ePCT\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We understand that moving to a new digital system can feel daunting. If you're less comfortable with digital processes, support will be available to help you through the transition.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more about the ePCT updates, you can:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\n\n\nFind out more about the transformation of IPO\u2019s services\n\n\n\ntake a look\u202fat our \u202ftransformation web pages, which include lots of details about the new patents service\u202f\u00a0\nwatch our webinar\u202f that was recorded in early 2025 and\u202fcontains\u202fa detailed demo of the new service\u202f\nsubscribe to our IPO blog\u202fso that you get\u202fnew blog\u202fposts sent directly to your inbox, ensuring you\u202fdon't\u202fmiss out on\u202fany\u202fimportant information.\u202f\n\n\n ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/10/21/whats-changing-filing-international-patents/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "We're publishing weekly guidance to help you prepare for these changes. Each week covers a different aspect of the new service to ensure you're ready for the transition.\u00a0 This week we turn our attention to the most imminent change \u2013 how you file international patents."
+    },
+    {
+        "title": "Reaffirming Our Values in Adult Social Care",
+        "authors": [
+            "Deborah Sturdy"
+        ],
+        "posted_on": "2025-10-21T12:41:57",
+        "categories": [
+            "Care and support",
+            "Diversity"
+        ],
+        "content": [
+            {
+                "content": "Our values remain fundamental in adult social care",
+                "tag": "p"
+            },
+            {
+                "content": "As we have been out and about across the country over the last months, we have heard how the experiences of people working in adult social care and people who draw on care and support have been affected by recent events, including the rise of anti-immigration protests, increased hate crime and the recent horrific attack on the Heaton Park synagogue in Crumpsall.",
+                "tag": "p"
+            },
+            {
+                "content": "The sense of shock, unease and distress that is spread by these events impacts all of us.\u00a0 For people who work across our adult care and support services, particularly global majority colleagues, and for people who draw on care and support, many of whom have experienced trauma and exclusion, it can mean that people no longer feel safe doing their jobs and going about their daily lives.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Social work, occupational therapy and social care nursing and professional care workforce is rooted in the values of respect, dignity, equality, and justice. Our Professionals Leadership Group have come together in a joint statement, to re-state that these values are not optional\u2014they are the foundation of our practice and our shared responsibility.\u00a0 Every person, regardless of background, ethnicity, faith, or nationality, deserves to feel safe, valued, and supported.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the Chief Social Worker and Chief Nurse of adult care, along with our professional leadership colleagues, we are clear that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We would like to thank colleagues across the whole of the adult social care landscape for your leadership and support to people who draw on care and support and to staff at this time, when communities can be seen as divided and people can feel isolated and afraid.\u00a0 It is the compassion, care and commitment demonstrated by colleagues each day that is the foundation of adult social care.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In his recent speech, the Prime Minister underlined the ambition we share to live in \u2018a fairer country, a land of dignity and respect where everyone is seen and everyone valued\u2019.\u00a0 In adult social care these values are central to all of our work.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcare.blog.gov.uk/2025/10/21/reaffirming-our-values-in-adult-social-care/",
+        "blog": "Social care",
+        "blog_link": "https://socialcare.blog.gov.uk",
+        "description": "Our values remain fundamental in adult social care As we have been out and about across the country over the last months, we have heard how the experiences of people working in adult social care and people who draw on \u2026"
+    },
+    {
+        "title": "Catch Comet Lemmon in autumn\u2019s night sky",
+        "authors": [
+            "Will Gater"
+        ],
+        "posted_on": "2025-10-21T12:18:31",
+        "categories": [
+            "Astronomy"
+        ],
+        "content": [
+            {
+                "content": "We\u2019re lucky at the moment to have a comet visiting the inner Solar System that\u2019s bright enough to see with a pair of binoculars, and it may in the coming week or so just reach naked-eye visibility.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Comet Lemmon, or C/2025 A6 (Lemmon), was discovered by astronomers at the Mount Lemmon Survey, in Arizona, in January. This comet spends most of its time in the very distant outer Solar System, far beyond the orbit of the ice giant planet Neptune.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Comets are icy, dusty objects and as they come closer to the Sun in their orbits, the warmth of our star causes the ices on their surface to go from a solid to a gaseous state.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dust particles and gas are released in this process and the comet appears to brighten in the night sky. The dust particles scatter sunlight and as they are left in space, and swept back by the solar wind from our star, they form beautiful, seemingly glowing, tails. That\u2019s what\u2019s happened with Comet Lemmon in recent weeks and now its tail and a glowing cloud of gas, known as the \u2018coma\u2019, around the main body of the comet have become bright enough to be visible in a good pair of binoculars.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The comet is currently low in the northwestern sky after nightfall (around 8:00 pm UK time would be a good time to look this week), in the constellation of Bo\u00f6tes, not far from the bright star Arcturus, but in the coming days it will move into the constellation Serpens.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Comets are ancient objects made of primordial materials leftover from the formation of the Solar System; studying them therefore allows scientists to piece together the history and the origins of planets like Earth.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The UK is deeply involved in all kinds of cometary science including space missions to understand these icy visitors. Along with our international partners, UK industry and academia was involved in the pioneering European Space Agency Rosetta mission which visited and studied up-close the icy body, or \u2018nucleus\u2019, of the comet 67P/Churyumov-Gerasimenko.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the future the UK will also play a key part in the ESA Comet Interceptor mission. It\u2019s aiming for launch in mid-2028 to mid-2029 and, once in space, will sit waiting for a suitable cometary target to visit and study in detail. UK researchers are involved in the Comet Interceptor mission science, including the selection of the spacecraft\u2019s destination. One of the science instruments onboard, which will examine the composition of the comet, is also being developed and led by the University of Oxford while another, a magnetometer, is being led by Imperial College London.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/10/21/catch-comet-lemmon-in-autumns-night-sky/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "Comet Lemmon is paying our inner Solar System a visit and may reach naked-eye visibility in the coming week.\u00a0\u00a0"
+    },
+    {
+        "title": "Soil health and profit: lessons from mixed, arable and upland farms",
+        "authors": [
+            "Graham Higgins"
+        ],
+        "posted_on": "2025-10-21T11:17:57",
+        "categories": [
+            "Future Farming Podcast"
+        ],
+        "content": [
+            {
+                "content": "In this episode of the Defra Farming podcast, guest host Neil Pickard, an independent farming adviser with more than 45 years\u2019 experience in livestock and mixed farming, talks with Stuart Johnson, Soil Farmer of the Year 2023, and Kyle Richardville from Understanding Ag.",
+                "tag": "p"
+            },
+            {
+                "content": "They discuss how improving soil health can increase profitability on mixed, arable and upland livestock farms.",
+                "tag": "p"
+            },
+            {
+                "content": "Stuart farms in Northumberland as a tenant farmer with sheep and cattle. Over time, he has moved from a high-input, conventional system to one that focuses on soil health. ",
+                "tag": "p"
+            },
+            {
+                "content": "Kyle brings a scientific perspective, drawing on his research into soil microbial populations and his experience advising farmers in the UK and the US.",
+                "tag": "p"
+            },
+            {
+                "content": "Neil highlights the need to tailor approaches to different systems:",
+                "tag": "p"
+            },
+            {
+                "content": "Together, Stuart and Kyle explore how better soil health can reduce reliance on expensive inputs, build resilience and improve whole farm efficiency. They discuss the different challenges for mixed, arable and upland livestock farms, and share practical steps to get started.",
+                "tag": "p"
+            },
+            {
+                "content": "Stuart recalls his first steps:",
+                "tag": "p"
+            },
+            {
+                "content": "He explains how the numbers encouraged him to keep going:",
+                "tag": "p"
+            },
+            {
+                "content": "Kyle explains why soil health underpins farm productivity:",
+                "tag": "p"
+            },
+            {
+                "content": "The discussion covers practical lessons from Stuart\u2019s farm, the importance of monitoring soil organic matter, and the value of learning continuously from other farmers, advisers and scientific research.",
+                "tag": "p"
+            },
+            {
+                "content": "Both guests highlight the financial and lifestyle benefits.",
+                "tag": "p"
+            },
+            {
+                "content": "For Stuart, focusing on soil health has improved profit margins, reduced tractor hours, and created more time for livestock and family. ",
+                "tag": "p"
+            },
+            {
+                "content": "For Kyle, the science shows that ecological and economic resilience go hand in hand.",
+                "tag": "p"
+            },
+            {
+                "content": "Share your thoughts",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019d love to hear your thoughts on the podcast. If you\u2019ve tried improving soil health on your farm, or are planning to, leave a comment and share your experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the Farming Blog to receive an email notification whenever a new podcast episode or post is published.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2025/10/21/soil-health-and-profit-lessons-from-mixed-arable-and-upland-farms/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "In this episode of the podcast, guest host Neil Pickard talks with Stuart Johnson, Soil Farmer of the Year 2023, and Kyle Richardville from Understanding Ag. They discuss how improving soil health can increase profitability on mixed, arable and upland livestock farms."
+    },
+    {
+        "title": "New V levels and post-16 qualifications explained\u00a0",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-10-21T10:29:13",
+        "categories": [
+            "Apprenticeships",
+            "Further education"
+        ],
+        "content": [
+            {
+                "content": "We\u2019re transforming post-16 education so every young person can gain the knowledge and skills they need to get a good job, go on to university, or achieve other ambitions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From 2027, new V levels will be introduced to replace many existing qualifications, simplifying the current system and opening up more high-quality routes for young people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These reforms will make sure that whatever a student\u2019s interests or strengths, whether academic, technical, or vocational, there\u2019s a clear, high-quality path for them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are V levels?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Alongside A levels (the established academic route) and T Levels (the technical route that includes an industry placement), there will soon be a third option called V levels.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0V levels will be new Level 3 qualifications that offer a vocational pathway for students who want to explore different sectors before deciding where to specialise.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This new pathway will replace the wide range of qualifications that are not A or T levels and streamline the currently confusing landscape of\u00a0approximately 900 qualifications at this level. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What new options are being introduced at Level 2 (GCSE equivalent)?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Two new pathways are being created\u00a0to better support students at Level 2 \u2014 the level broadly equivalent to GCSEs. These pathways will support those aged 16-18, providing clear route that matches their aspirations, whether that is work or moving into further study:",
+                "tag": "p"
+            },
+            {
+                "content": "The Occupational Pathway \u2013 for those who want to develop the skills and experience needed to move straight into a skilled job or apprenticeship after Level 2. This two-year, employment-focused programme will give students training designed around real jobs and industries, helping them become work-ready and confident about starting in work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Further Study Pathway \u2013 for students who plan to continue in education and progress onto Level 3 courses like A levels, T Levels, or V levels, but\u00a0 who may need more time to prepare, building confidence and strengthening their skills first. This pathway will bridge the gap to higher-level study, helping students prepare for their next step in education.",
+                "tag": "p"
+            },
+            {
+                "content": "These changes will ensure every young person has a route that\u2019s right for them, whether they\u2019re aiming for work, higher education, or further study. We recognise that there may be circumstances as well where students wish to transfer between the pathways and we will consider how best we can support that.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What if you\u2019re struggling with English and maths GCSEs?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Many young people find themselves stuck repeating English and maths GCSE exams, which can be frustrating and discouraging.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To help, new English and maths qualifications will be introduced for those aged 16-19 to act as a positive step towards achieving a GCSE grade 4 or above.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new approach will give students more time and tailored support to build confidence before resitting exams.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All providers will still be required to support 16\u201319-year-olds who haven\u2019t yet achieved a GCSE grade 4 (or equivalent) in English and maths. To strengthen this support, providers will now:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This means students will have more teaching time, more support, and a better chance of success.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How will this improve technical and vocational education?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019re investing an extra \u00a3800 million in 16\u201319 education and establishing 29 new Technical Excellence Colleges focused on key industries.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is about giving every young person the opportunity to succeed, while ensuring employers get the skilled workforce they need.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The government has launched a consultation on how the new pathways will work in practice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The full set of reforms has been outlined in the Post-16 Education and Skills White Paper shortly.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/10/new-v-levels-and-post-16-qualifications-explained/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "We\u2019re transforming post-16 education so every young person can gain the knowledge and skills they need to get a good job, go on to university, or achieve other ambitions.\u00a0 From 2027, new V levels will be introduced to replace many \u2026"
+    },
+    {
+        "title": "Launching DBT's first public-facing AI feature",
+        "authors": [
+            "Maddy Lunskey, Senior Product Manager"
+        ],
+        "posted_on": "2025-10-21T09:42:43",
+        "categories": [
+            "Products"
+        ],
+        "content": [
+            {
+                "content": "Introduction to the problem and approach",
+                "tag": "h2"
+            },
+            {
+                "content": "In August, the Department for Business and Trade (DBT) launched its first public-facing AI tool as part of the new Digital Business Growth Service website, business.gov.uk. This marks a major milestone in DBT\u2019s journey with AI and supports key government strategies around digital innovation as well as ministerial priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "The Digital Business Growth Service is designed to help businesses find what they need, when and where they need it. One way it does this is by bringing together online content from trusted sources. On a website with so much to offer and a wealth of text data, there are many potential opportunities to use AI. While it goes without saying that value to users is at the heart of everything we do, we prioritised tackling a known problem users experience, this would also enable us to rapidly experiment and evaluate the potential of personalisation using AI. Making this information available to self serve online means more businesses can access the support they need, when they need it. It complements the support that is already available to businesses from government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The problem: many business owners struggle to find relevant funding opportunities, are often time poor, and are unaware of the support on offer.\u00a0 This can be a barrier to growth.",
+                "tag": "p"
+            },
+            {
+                "content": "The solution: an AI feature that surfaces personalised funding opportunities matched to the user\u2019s business profile. Instead of needing users to sift through multiple pages of online content, the summariser presents tailored results - grants, loans, and investments - on a single page. This makes it faster and easier to access the right support.",
+                "tag": "p"
+            },
+            {
+                "content": "The solution was delivered rapidly. We deliberately scoped a thin slice of functionality; a small set of trusted data sources, and one topic \u2013 funding. This approach enabled us to move quickly, releasing something small but valuable that we could evaluate and iterate on.",
+                "tag": "p"
+            },
+            {
+                "content": "This was particularly ambitious because of the careful consideration of controls required to use AI safely. While AI can achieve significant benefits in areas such as speed and efficiency, the trade-off in human oversight means relinquishing some expert control. Getting this right in the government context led us to make some early design choices to mitigate risk.",
+                "tag": "p"
+            },
+            {
+                "content": "One such decision was to not include free-text input. When people think of AI, they often think of chatbots. However, free text input can open up a multitude of issues requiring careful navigation. For example, this could mean processing personal data unnecessarily, or providing answers on any topic, instead of starting with a specific topic like funding. We decided this should be out of scope in a project seeking to rapidly experiment with and learn from AI. We instead focused our efforts on prompt engineering, crafting structured inputs that produce useful outputs while protecting users and the system. This approach allowed us to deliver value while maintaining control.",
+                "tag": "p"
+            },
+            {
+                "content": "As well as careful design choices, rapid delivery also required strong collaboration. We learnt from work completed by colleagues across government, particularly the Government Digital Service\u2019s AI chatbot pilot. Within DBT, we created a strong team of Civil Servants and suppliers including Accenture. To design and build the feature we brought together expertise in AI with knowledge of the Digital Business Growth Service and its users. To deliver the feature and evaluate it, we brought in expertise on legal issues, security, evaluation, and AI governance. Working together across different teams at this scale sets a strong example of what can be achieved at pace when we share a common goal.",
+                "tag": "p"
+            },
+            {
+                "content": "How it works",
+                "tag": "h2"
+            },
+            {
+                "content": "The summariser is based on a RAG (Retrieval-Augmented Generation) workflow. Relevant funding opportunities are retrieved from a data store and then used to augment a query to the Large Language Model (LLM).",
+                "tag": "p"
+            },
+            {
+                "content": "With agreement from website owners, we extract via Application Platform Interfaces (API) or scrape relevant website data. This is updated on a regular basis to ensure we capture the latest opportunities. This data includes the core funding opportunity description as well as metadata that we can extract from the source. For some opportunities, we add additional metadata, such as tags (for example the best matching sector tag for a funding opportunity, such as Aerospace).\u00a0 This improves our retrieval performance.",
+                "tag": "p"
+            },
+            {
+                "content": "Vector embeddings of the funding descriptions are created with an embedding model available through our cloud provider AWS.\u00a0 We then use OpenSearch to store our data and create a vector index for vector search.",
+                "tag": "p"
+            },
+            {
+                "content": "Inputs provided by the user are passed to a query template which is then embedded. A vector search is done to retrieve the most relevant funding opportunities which are passed to an LLM to generate a summary. A system prompt has also been engineered to provide the LLM with core instructions. These ensure outputs align with internal business rules, follow formatting rules and improve overall output quality.",
+                "tag": "p"
+            },
+            {
+                "content": "On the front-end, we have a cache store for rapid access of results. The front-end can securely access the LLM via an event-driven system in our cloud platform, with queue management.",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps",
+                "tag": "h2"
+            },
+            {
+                "content": "We are now gathering feedback and developing an understanding of how users interact with an AI powered funding summary. This is an essential part of the product lifecycle. It will inform how the product might evolve and be improved, as well as enable us to gain other insights, like value for money.",
+                "tag": "p"
+            },
+            {
+                "content": "We are also exploring how we might reduce the API response time, thereby limiting our reliance on caching and pre-generation.",
+                "tag": "p"
+            },
+            {
+                "content": "As well as this, we are considering ways to more robustly update the funding opportunity data store by detecting changes on new \u2018scans\u2019 of our funding partners. Any updated data would then trigger an update in the vector database with an upsert for efficiency. Any associated results for that domain (i.e. Agriculture specific funding, which would have the tag \u2018agriculture\u2019) are then updated in the cache for quick access.",
+                "tag": "p"
+            },
+            {
+                "content": "We have initiated thinking on how we could expand the range of funding opportunities that can be surfaced through the feature. This requires liaising with various stakeholders to secure agreement to collate data, as well as considering how we will manage and maintain that data going forward.",
+                "tag": "p"
+            },
+            {
+                "content": "There has been interest from across DBT in deploying an AI summariser functionality for various use cases and subject matter areas. Learning from this very first deployment will help inform our strategy for how we might apply this to other areas.",
+                "tag": "p"
+            },
+            {
+                "content": "Final thoughts",
+                "tag": "h2"
+            },
+            {
+                "content": "AI has the potential to transform the way users interact with our digital services and content. Here, we have used content that users could already find by navigating through our website, combining it with generative AI as well as more \u2018traditional\u2019 retrieval and business logic.\u00a0 This makes it easier and quicker for users to find the support they need. A core theme throughout the development process has been the significance of data. AI does hold the potential for huge change, but the importance of high-quality data and the processes that underpin it are vital.",
+                "tag": "p"
+            },
+            {
+                "content": "This is the very first public facing use of generative AI at DBT. As we learn and iterate, we hope to discover new ways to surface information and support for businesses, ultimately driving economic growth.",
+                "tag": "p"
+            },
+            {
+                "content": "This blog post is the second in a series of posts on how we are transforming the online offer for business. Read our first blog post here, and sign up to our blog if you want to hear how our work is progressing.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2025/10/21/launching-dbts-first-public-facing-ai-feature/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "How DBT created it's first public-facing online tool to help businesses find funding opportunities."
+    },
+    {
+        "title": "Cattle bovine TB vaccine field trials move to next phase",
+        "authors": [
+            "APHA science blog team"
+        ],
+        "posted_on": "2025-10-21T09:00:00",
+        "categories": [
+            "Bovine Tuberculosis"
+        ],
+        "content": [
+            {
+                "content": "Bovine tuberculosis (bTB) remains one of the most challenging animal health issues facing the UK farming industry today. As part of the UK Government\u2019s long-term strategy to eradicate the disease, the Animal and Plant Health Agency (APHA) has been leading a pioneering initiative to develop and test a cattle vaccine and its companion diagnostic tool, the DIVA skin test. These tools represent a significant step forward in the fight against bTB, offering the potential to protect cattle while accurately identifying infected animals.",
+                "tag": "p"
+            },
+            {
+                "content": "Since the launch of the Cattle Vaccine Project, APHA has made substantial progress through a series of carefully designed field trials. These trials are essential for gathering the scientific evidence needed to support future deployment of the vaccine and skin test across the UK. With Phases 1 and 2 now complete, the project is entering its third phase, expanding the scope and scale of testing to further validate safety, performance, and practical delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog, we reflect on the achievements of Phases 1 and 2, and share an update on the launch of Phase 3, bringing us closer to a deployable cattle TB vaccination strategy that could transform disease control efforts and help secure \u2018Officially TB Free\u2019 status for England and Wales.",
+                "tag": "p"
+            },
+            {
+                "content": "From the project management team",
+                "tag": "h2"
+            },
+            {
+                "content": "Since our last blog, the Animal and Plant Health Agency (APHA) has made significant progress in the development of a cattle vaccine to combat bovine tuberculosis (bTB). With Phases 1 and 2 of the field trials now complete, we are excited to move into Phase 3, and take a moment to reflect on the journey so far.",
+                "tag": "p"
+            },
+            {
+                "content": "Phase 1: started in June 2021 and focused on testing the performance and safety of the DIVA (Detect Infected among Vaccinated Animals) skin test in cattle that had not been vaccinated and came from herds free of TB. This was a crucial first step to ensure the test could accurately identify animals that were truly infected, without producing false positives.",
+                "tag": "p"
+            },
+            {
+                "content": "The Phase 1 field trials concluded in May 2022 and enabled APHA to move to Phase 2.",
+                "tag": "p"
+            },
+            {
+                "content": "Phase 2: started in January 2023 and built on this by evaluating the safety of the cattle Bacillus Calmette-Gu\u00e9rin (BCG) vaccine* and how well the DIVA skin test worked in vaccinated cattle. This phase involved over 600 cattle from seven herds in five farms from the low-risk area in England and provided valuable data on how the vaccine and test perform in real-world conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "The results from these trials are now being used to support applications for Marketing Authorisations (MAs). If approved, these will allow the vaccine and skin test to be used in the UK, offering a powerful new tool in the national strategy to eradicate bTB.",
+                "tag": "p"
+            },
+            {
+                "content": "Phase 2 concluded in December 2024.",
+                "tag": "p"
+            },
+            {
+                "content": "This work is a collaborative effort, relying on the expertise of APHA\u2019s bovine TB scientists, contract managers, field teams, and data analysts. Their continued input is vital as we move forward.",
+                "tag": "p"
+            },
+            {
+                "content": "*The BCG used for cattle is supplied by AJVaccines, the same company that produces the BCG for use in humans and badgers. Pilot batches of the companion DIVA skin test are supplied by Lionex, a world leading producer of mycobacterial antigens for diagnostics and vaccine developments.",
+                "tag": "p"
+            },
+            {
+                "content": "Field trials: Phase 3",
+                "tag": "h2"
+            },
+            {
+                "content": "To allow APHA to gather additional data on the companion DIVA skin tests performance and explore options to optimise this, Great Britain (GB)\u00a0 administrations have taken the decision to move to an additional phase (Phase 3).",
+                "tag": "p"
+            },
+            {
+                "content": "Phase 3 will assess the BCG vaccination and companion DIVA skin test on a larger cohort of cattle to further inform our collective planning for delivery. We are continuing to work at pace but will only deploy the vaccine and companion DIVA skin test when we have all the right steps in place.",
+                "tag": "p"
+            },
+            {
+                "content": "Our aim is to deliver an effective cattle TB vaccination strategy within the next few years to accelerate our continued progress towards achieving \u2018Officially TB free\u2019 (OTF) status for England and Wales.",
+                "tag": "p"
+            },
+            {
+                "content": "Phase 3 will be taking place on commercial livestock farms across England and Wales and are due to be completed in 2026. Phase 3 will involve at least 10 farms with 750 animals participating. ",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps",
+                "tag": "h2"
+            },
+            {
+                "content": "APHA will use data from the trials to support applications for GB Marketing Authorisations for both BCG use in cattle and the companion DIVA skin test. These will be submitted to the Veterinary Medicines Directorate (VMD). If the Marketing Authorisation are granted, we anticipate that BCG for cattle and the companion DIVA skin test could be available for deployment in the field in the next few years.",
+                "tag": "p"
+            },
+            {
+                "content": "The final approval cannot be provided until we have contracts in place to make the companion DIVA skin test to Good Manufacturing Practice (GMP) standard. These are defined quality standards that ensures medicinal products are consistently safe, of high quality, and suitable for their intended use, only achievable by accredited manufacturers.",
+                "tag": "p"
+            },
+            {
+                "content": "Further information regarding development of a deployable vaccine against bovine TB can be found on the TB Hub.",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more about the Government\u2019s strategy to eradicate bovine TB and research leading to the development of a cattle vaccine and companion DIVA skin test, please follow the links below:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2025/10/21/cattle-bovine-tb-vaccine-field-trials/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "Read about our Cattle Vaccine Project: APHA\u2019s invaluable addition to the toolbox to eradicate bovine TB in the UK."
+    },
+    {
         "title": "Everything you need to know about the new higher education reforms\u00a0",
         "authors": [
             "mediaofficer"
