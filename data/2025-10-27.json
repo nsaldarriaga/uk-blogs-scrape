@@ -1,5 +1,777 @@
 [
     {
+        "title": "How the AI Airlock is charting a path for regulating AI in healthcare through sandboxes",
+        "authors": [
+            "Dr Natasha Motsi"
+        ],
+        "posted_on": "2025-10-31T14:28:15",
+        "categories": [
+            "AI Airlock"
+        ],
+        "content": [
+            {
+                "content": "When I think of adventurers and explorers, space exploration comes to mind. The courage to step into the unknown, to test the limits of what\u2019s possible, and to bring back knowledge that advances the understanding of the collective. Regulation isn\u2019t usually seen as exciting or adventurous, yet in many ways it demands the same spirit.",
+                "tag": "p"
+            },
+            {
+                "content": "Just as astronauts need an airlock to safely adjust before entering space, regulators and innovators need a safe space to explore how new technologies can meet and/or challenge regulatory standards without risking patient safety.",
+                "tag": "p"
+            },
+            {
+                "content": "In a sense, the AI Airlock embodies that same spirit of exploration. It is a first-of-its-kind regulatory sandbox designed to help us test, learn, and adapt our approach to regulating artificial intelligence in healthcare.",
+                "tag": "p"
+            },
+            {
+                "content": "The AI Airlock is not a route to market, which means we can gain valuable insights about these products without impacting patient care. Through technical testing, evidence generation grounded in real-world use cases, workshops, regulatory deep dives, and collaboration, we identify approaches that could be used to address key regulatory challenges often experienced with AI as a medical device (AIaMD).",
+                "tag": "p"
+            },
+            {
+                "content": "In our pilot phase, we partnered with four pioneering companies: Philips Healthcare, AutoMedica, OncoFlow, and Newton\u2019s Tree, each tackling a distinct regulatory challenge. Together, we explored how new datasets for testing AI could be generated responsibly, how large language models (LLMs) could be made safer for healthcare by improving transparency and explainability, and by reducing the likelihood of errors. We also examined how products could be continuously monitored once on the market.",
+                "tag": "p"
+            },
+            {
+                "content": "Discoveries from the Pilot",
+                "tag": "h2"
+            },
+            {
+                "content": "What we found showed where frameworks must evolve to keep pace with the rapid development of AI.",
+                "tag": "p"
+            },
+            {
+                "content": "How do you safely train or test a new medical AI? Often, vast amounts of data are needed.",
+                "tag": "p"
+            },
+            {
+                "content": "AI is only as good as the data used in its development. We worked with Philips Healthcare to explore a novel solution to instances where data is scarce: using an LLM to create realistic but artificial \u201csynthetic\u201d radiology reports for testing. We then compared this synthetic data to real reports using automation and human experts. Philips also looked at using AI to act as a \u201cjudge\u201d to assess the quality of the reports. The results were promising \u2013 synthetic reports were successfully created, but the LLM judge had some limitations. This highlighted the importance of regulatory guidance on quality of synthetic data and its validation. A lack of clarity may lead to flawed or incomplete synthetic data and validation techniques which could risk patient safety in real-world use.",
+                "tag": "p"
+            },
+            {
+                "content": "AI \u201challucinations\u201d, when systems generate confident but incorrect responses, is another key challenge. In most healthcare contexts, the risks of incorrect information could be detrimental. The AutoMedica SmartGuideline project found that grounding AI models in verified clinical sources using a proprietary version of Retrieval Augmented Generation (RAG) helped reduce these errors compared to using a general-purpose model alone. RAG is an approach that can be used to ground an AI model\u2019s responses in information retrieved from trusted external sources, improving accuracy and transparency.",
+                "tag": "p"
+            },
+            {
+                "content": "Policy should reflect the need for AI-specific safety measures within risk management frameworks. In addition, post-market surveillance of these tools could be strengthened, potentially through existing systems like the Manufacturer\u2019s Online Reporting Environment (MORE) portal and the Yellow Card scheme.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s important that patients, clinicians and others in the care pathway understand the outputs from the AI medical device that they are using. For example, knowing why an AI medical device has recommended a specific treatment empowers users to accept or reject the recommendation. This \u201cexplainability\u201d was a primary focus for the OncoFlow project. Using various tools, the OncoFlow system demonstrated how the AI reached its treatment recommendation decisions. Clinicians surveyed noted this as being \"extremely important\" for building trust and ensuring transparent, safe use of AI in clinical practice. Guidance on AI explainability may help innovators when devising relevant approaches which can help build trust and address these human factors.",
+                "tag": "p"
+            },
+            {
+                "content": "The final questions were about how to monitor an AIaMD after it has been deployed in a hospital. Our work with Newton\u2019s Tree demonstrated that continuous real-time monitoring of AI medical devices is important. We saw how such monitoring could detect concerning patterns, such as clinicians becoming over-reliant on AI systems due to factors like fatigue and time pressure. Developing guidance around continuous monitoring for ongoing AI safety surveillance would help to identify and address potential risks, like change in AI performance or user over-reliance, before they impact patient safety.",
+                "tag": "p"
+            },
+            {
+                "content": "The AI Airlock pilot operated under compressed timelines during Phase 1, but as we transition into Phase 2, these are evolving into slightly extended schedules to accommodate deeper regulatory engagement. It's important to note that the testing and reports reflect only a snapshot of the broader, ongoing validation efforts being undertaken by candidates on their regulatory journey. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the spirit of shared learning, collaboration and transparency, all these insights, and many more, are presented in detail in our Simulation Workshop Reports and our detailed Programme Report.",
+                "tag": "p"
+            },
+            {
+                "content": "Our work doesn\u2019t stop with the pilot. The findings from the AI Airlock are already being channelled into the UK\u2019s National Commission into the Regulation of AI in Healthcare, supporting the expert commission to advise the MHRA on a framework to make sure revolutionary AI technology can be introduced in a safe, effective and reliable way.",
+                "tag": "p"
+            },
+            {
+                "content": "Launched on 26 September 2025, the National Commission brings together global AI leaders, clinicians and regulators to advise the MHRA on the development of a new regulatory framework for AI in healthcare, to be published in 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Phase 2: Expanding on the pilot and delving into new territory",
+                "tag": "h2"
+            },
+            {
+                "content": "The next phase of the AI Airlock sees seven innovators \u2013 Tortus, Numan, Panakeia, Octopath, NHS England Federated Data Platform, Deep X AI, and Eye2Gene \u2013 bringing more technologies and perspectives into the fold. We\u2019ll be exploring regulatory challenges with pre-determined change control plans and post-market surveillance, scope of intended use, and AI-powered IVDs. We\u2019ll also be working more closely with our partners at the Centres of Excellence for Regulatory Science and Innovation - CERSI-AI and RADIANT-CERSI - as well as others across programmes, sectors, and jurisdictions. Collaboration will remain a key tenet as we explore further.",
+                "tag": "p"
+            },
+            {
+                "content": "The strength of this continued collaboration was clear at the recent Airlock Kick-Off Connect event, where we launched our second phase and brought our key stakeholder networks together to start developing a shared understanding of the problem space and potential solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the coming weeks, we are completing situation assessments and moving into test plan development, outlining key hypotheses and methodologies for exploration. Over winter, we will dive into testing and regulatory intelligence. As the new year rolls in, we will engage in simulation workshops \u2013 bringing key stakeholders together again for a first look at results and to discuss solutions and recommendations for policy updates. The current phase of the AI Airlock will run until March 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you to our pioneering pilot partners and to the entire MHRA team for their commitment to this essential work. You can follow our journey by joining our mailing list. ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://medregs.blog.gov.uk/2025/10/31/how-the-ai-airlock-is-charting-a-path-for-regulating-ai-in-healthcare-through-sandboxes/",
+        "blog": "MedRegs",
+        "blog_link": "https://medregs.blog.gov.uk",
+        "description": "When I think of adventurers and explorers, space exploration comes to mind. The courage to step into the unknown, to test the limits of what\u2019s possible, and to bring back knowledge that advances the understanding of the collective. Regulation isn\u2019t \u2026"
+    },
+    {
+        "title": "Standing Firm in Power and Pride",
+        "authors": [
+            "Faye Johnson-James"
+        ],
+        "posted_on": "2025-10-31T13:28:08",
+        "categories": [
+            "Black History Month",
+            "Justice Digital"
+        ],
+        "content": [
+            {
+                "content": "I am a Black woman of Jamaican heritage, born and raised in London. My parents instilled in me the values of dignity, honesty, and compassion. They taught me to stand up for myself and for others.",
+                "tag": "p"
+            },
+            {
+                "content": "My father had a passion for fixing electrical items, which sparked my interest in engineering. I chose a career in IT, a very uncommon path among my peers at an all-girls school. He also taught me the importance of reading carefully, especially before signing anything. My mother often said, \u201cThere\u2019s good and bad in everyone,\u201d reminding me to treat people with respect and to reject the labels others may assign to me.",
+                "tag": "p"
+            },
+            {
+                "content": "Standing Firm for Fairness and Inclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "Throughout my career in technology, primarily in the private sector, I\u2019ve I\u2019ve encountered microaggressions that have reaffirmed the importance of my values. I have witnessed\u2014and benefited from\u2014the quiet efforts of those advocating fairness for Black colleagues and other minorities.",
+                "tag": "p"
+            },
+            {
+                "content": "Support networks have been essential. An ally in my first job taught me that my setbacks could inadvertently impact opportunities for others from similar backgrounds. A challenging experience when I joined the Civil Service led me to become involved with the race network, called RESPECT, where I later served as an area chair. I also joined PROUD and other networks as a member or ally when I moved to the Ministry of Justice.",
+                "tag": "p"
+            },
+            {
+                "content": "I entered the Civil Service expecting a short stay and over 20 years later, I am still here. My journey has been shaped by resilience and deeply held values.",
+                "tag": "p"
+            },
+            {
+                "content": "Standing firm means doing the right thing, even when it is difficult. While we all carry unconscious biases, we must still recognise and challenge unfairness. I have faced bullying for standing up for myself, but I stood firm, and support others facing similar challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "Many of the opportunities we have today are built on the resilience of those who came before us and overcame immense obstacles. To waste what they fought for would dishonour their legacy. Our community has made significant contributions to humanity and technological progress often without recognition. We must continue to share knowledge and support future generations.",
+                "tag": "p"
+            },
+            {
+                "content": "Pride in my heritage means acknowledging the resilience and achievements of myself and my community. We have produced innovators, leaders, and role models\u2014many of whom have gone unrecognised. Celebrating our heritage inspires me to keep striving for fairness and progress.",
+                "tag": "p"
+            },
+            {
+                "content": "Inclusion and Normalising",
+                "tag": "h2"
+            },
+            {
+                "content": "I have always been uncomfortable with injustice. I have served as a Race Champion, network member, and ally. As a founding member of Digital & Technology\u2019s (as we were then called) first Diversity & Inclusion Group, the Digital & Technology Normalising Group, that won the Civil Service Employee Network Excellence Award 2018 and were one of the finalists for the Civil Service Diversity & Inclusion. Winning the Employee Network Award sparked several initiatives, including a collaboration with UK Black Tech and continues to shape other initiatives, e.g. the Coding Black Females collaboration event which aims to increase the representation of Black women in technical role. In 2020, following the horrific murder of George Floyd, I organised the first listening event within Justice Digital and, alongside PROUD, developed the first allyship training template used across Justice Digital.",
+                "tag": "p"
+            },
+            {
+                "content": "Hope for the Future",
+                "tag": "h2"
+            },
+            {
+                "content": "We acknowledge the ongoing work the department are doing as outlined within the MoJ Race Action Plan, and the work that Justice Digital are doing, which include the Coding Black Females collaboration.We have often been asked by senior leaders, \u201cwhat can we as senior leaders do to improve Black representation in senior leadership?\u201d and we have provided answers. So, this time, we ask - What do you (our senior leaders) believe needs to be done to increase Black representation in senior roles within Justice Digital? and What are your hopes for continual inclusion?",
+                "tag": "p"
+            },
+            {
+                "content": "I hope that our senior leadership team confronts the tough questions. Meaningful change requires commitment across all levels of leadership and teams.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2025/10/31/standing-firm-in-power-and-pride/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "I am a Black woman of Jamaican heritage, born and raised in London. My parents instilled in me the values of dignity, honesty, and compassion. They taught me to stand up for myself and for others. My father had a \u2026"
+    },
+    {
+        "title": "What is meningitis? Symptoms, risks and how to protect yourself",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2025-10-31T10:20:32",
+        "categories": [
+            "Health Protection",
+            "immunisations"
+        ],
+        "content": [
+            {
+                "content": "Meningitis is a serious condition where the protective layers (meninges) around the brain and spinal cord become inflamed.",
+                "tag": "p"
+            },
+            {
+                "content": "It has many causes, such as different germs, including bacteria, viruses, and fungi. In the UK, most cases are due to bacteria or viruses. Some of the bacteria that cause meningitis can also lead to septicaemia (blood poisoning), and both conditions can result in sepsis, which is life-threatening.",
+                "tag": "p"
+            },
+            {
+                "content": "Although anyone can get meningitis, it\u2019s most common in babies, young children, teenagers, and young adults. It needs to be treated quickly so it is important to know the signs and symptoms which can happen in any order and may not all be present.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the difference between bacterial and viral meningitis?",
+                "tag": "h2"
+            },
+            {
+                "content": "Bacterial meningitis is less common but more serious than viral meningitis. It is often accompanied by life-threatening sepsis and can result in permanent damage to the brain or nerves. Around one in every 10 cases of bacterial meningitis is fatal and some cases will have long-term health problems. However, most people with bacterial meningitis who receive prompt treatment make a full recovery.",
+                "tag": "p"
+            },
+            {
+                "content": "Viral meningitis is generally less serious and usually gets better on its own within 7 to 10 days, rarely causing long-term problems. Mumps was the most common cause of viral meningitis before the MMR vaccine was introduced. Now a number of other viruses may be responsible.",
+                "tag": "p"
+            },
+            {
+                "content": "What are the symptoms of meningitis?",
+                "tag": "h2"
+            },
+            {
+                "content": "Early symptoms \u2013 such as vomiting, fever, aches, muscle pain, cold hands and feet and headaches \u2013 can look similar to common illnesses like colds or flu. But someone with meningitis or septicaemia will usually become seriously ill in a matter of hours. That\u2019s why it\u2019s crucial to keep checking on anyone who is unwell.",
+                "tag": "p"
+            },
+            {
+                "content": "Symptoms can appear in any order and some may not happen at all. For meningitis, common signs and symptoms include:",
+                "tag": "p"
+            },
+            {
+                "content": "How do you recognise septicaemia?",
+                "tag": "h2"
+            },
+            {
+                "content": "It\u2019s important to be aware of how to recognise septicaemia as well as meningitis. The most important signs to look out for are:",
+                "tag": "p"
+            },
+            {
+                "content": "The NHS (Meningitis - Symptoms - NHS) and meningitis charities have very good information on signs and symptoms (see Meningitis - Symptoms, Causes and Treatments | Meningitis Now or Symptoms of Meningitis | Meningitis Research Foundation).",
+                "tag": "p"
+            },
+            {
+                "content": "How does meningitis affect babies?",
+                "tag": "h2"
+            },
+            {
+                "content": "The symptoms and signs of meningitis and septicaemia in babies can include:",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more details about meningitis in babies and the MenB vaccine here.",
+                "tag": "p"
+            },
+            {
+                "content": "What does the meningitis rash look like?",
+                "tag": "h2"
+            },
+            {
+                "content": "Although the meningitis rash doesn't always appear and can vary greatly in appearance, it is one of the most recognisable signs of meningococcal meningitis and septicaemia. DO NOT wait for a rash to appear before seeking medical advice.",
+                "tag": "p"
+            },
+            {
+                "content": "The rash often starts with a few small, isolated spots and typically develops into a non-blanching rash (one that doesn't disappear when pressed). It is important to spot this early as a rapidly evolving rash indicates very severe disease.",
+                "tag": "p"
+            },
+            {
+                "content": "The rash can be harder to see on darker skin but may be visible on paler areas such as the soles of feet, palms of hands, abdomen, or inside the eyelid or roof of the mouth. Check the whole body, particularly where clothing creates pressure (underwear elastic, nappies, stockings).",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about the meningitis rash on the website of the Meningitis Research Foundation.",
+                "tag": "p"
+            },
+            {
+                "content": "When should I seek medical help?",
+                "tag": "h2"
+            },
+            {
+                "content": "Call 999 immediately or go to your nearest A&E if you think you or someone in your care could have meningitis, septicaemia or sepsis. Trust your instincts and do not wait for all symptoms or for a rash to develop. People with meningitis, septicaemia or sepsis can become seriously unwell very quickly.",
+                "tag": "p"
+            },
+            {
+                "content": "Call NHS 111 if you're unsure whether it's serious.",
+                "tag": "p"
+            },
+            {
+                "content": "If you've already had medical advice but remain worried or symptoms worsen, seek medical help again.",
+                "tag": "p"
+            },
+            {
+                "content": "Is meningitis also known as 'freshers' flu'?",
+                "tag": "h2"
+            },
+            {
+                "content": "No, meningitis and freshers' flu are very different things. While the signs and symptoms may be quite similar at first, people with meningitis are likely to become much more unwell very quickly.",
+                "tag": "p"
+            },
+            {
+                "content": "Freshers' flu may not be flu at all. It's a collection of common cold viruses that spread rapidly when students arrive at university. While freshers' flu is unpleasant, it's rarely serious. Sometimes it may be genuine flu, and will need a few days in bed.",
+                "tag": "p"
+            },
+            {
+                "content": "Make sure you, your family and your friends look out for each other and that someone knows if you are unwell so they can keep an eye on you. This could be life-saving.",
+                "tag": "p"
+            },
+            {
+                "content": "How is meningitis spread?",
+                "tag": "h2"
+            },
+            {
+                "content": "Meningitis spreads in a similar way to a cold - through close contact or lengthy contact with someone carrying the infection who may not show any signs of infection themselves. Most cases occur in individuals but outbreaks sometimes happen in schools or places where people share living space, such as university halls.",
+                "tag": "p"
+            },
+            {
+                "content": "Can meningitis be prevented?",
+                "tag": "h2"
+            },
+            {
+                "content": "Several vaccines offered free of charge by the NHS can help protect against certain causes of meningitis and septicaemia:",
+                "tag": "p"
+            },
+            {
+                "content": "What should I do if I\u2019ve missed my meningitis vaccine?",
+                "tag": "h2"
+            },
+            {
+                "content": "To get the most benefit, it is important for you or your child to have your vaccines when they are offered or as close to that time as possible. \u00a0Young children who have missed one or more dose of the MenB vaccine can have this free of charge before their second birthday and missed MMR vaccine doses can be given at any age.",
+                "tag": "p"
+            },
+            {
+                "content": "Teenagers can arrange to have vaccines they have missed. This is especially important before starting university or college. If that\u2019s not possible, they should make arrangements with their new GP as soon as they can after term begins. All GP practices should be able to offer free missed MenACWY to students who are under 25 years as well as MMR vaccines to eligible students. International students in the same age group are also eligible for these routine vaccines.",
+                "tag": "p"
+            },
+            {
+                "content": "How is meningitis treated?",
+                "tag": "h2"
+            },
+            {
+                "content": "People with suspected meningitis usually have tests in hospital to confirm the diagnosis and determine whether it's viral or bacterial.",
+                "tag": "p"
+            },
+            {
+                "content": "Bacterial meningitis typically requires hospital treatment for at least a week, including:",
+                "tag": "p"
+            },
+            {
+                "content": "Viral meningitis often doesn't require hospital treatment and tends to improve on its own within 7 to 10 days. Treatment focuses on rest, painkillers and anti-sickness medication to relieve symptoms.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the long-term outlook?",
+                "tag": "h2"
+            },
+            {
+                "content": "Viral meningitis usually resolves completely without long-term problems.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0While most people with bacterial meningitis and septicaemia who receive prompt treatment make a full recovery, some experience serious long-term complications including:",
+                "tag": "p"
+            },
+            {
+                "content": "Early diagnosis and treatment significantly improve chances of recovery.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2025/10/31/what-is-meningitis-symptoms-risks-and-how-to-protect-yourself/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Meningitis is a serious condition where the protective layers (meninges) around the brain and spinal cord become inflamed. It has many causes, such as different germs, including bacteria, viruses, and fungi. In the UK, most cases are due to bacteria or viruses. Some of the bacteria that cause meningitis can also lead to septicaemia (blood \u2026"
+    },
+    {
+        "title": "How the government is tackling corridor care",
+        "authors": [
+            "DHSC Media Team"
+        ],
+        "posted_on": "2025-10-31T10:14:44",
+        "categories": [
+            "NHS"
+        ],
+        "content": [
+            {
+                "content": "The government\u2019s position on corridor care is below:",
+                "tag": "p"
+            },
+            {
+                "content": "Health Minister Karin Smyth said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cNo one should receive care in a corridor - it\u2019s unacceptable, undignified and we are determined to end it.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cTo tackle a problem you\u2019ve got to be honest about it. For the first time, the NHS will measure and publish the number of patients waiting in corridors. Sunlight is the best disinfectant.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cTo give patients the care they deserve, we\u2019re investing \u00a3450 million to build same day urgent and emergency care centres , buying 500 new ambulances, building 40 new mental health crisis centres, and giving NHS leaders on the ground more power to deliver local solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAhead of this winter, we urge everyone to protect themselves, their family, and the NHS by getting vaccinated.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "The fact sheet below outlines in further detail how the government is tackling this problem:",
+                "tag": "p"
+            },
+            {
+                "content": "What is \u201ccorridor care\u201d and why is it a problem?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Corridor care is when patients are treated or held in hospital corridors because there aren\u2019t enough beds or space. This can affect patient dignity, safety, and the quality of care. The government is committed to ending this practice.",
+                "tag": "p"
+            },
+            {
+                "content": "What is being done to increase hospital capacity?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The government is investing in expanding and modernising hospitals, adding more beds, buying and upgrading 500 ambulances and choosing locations for new emergency units. Temporary care units are also being set up to help during busy times.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Patients can also get the same level of care and support they would receive in hospital, but at home, through virtual wards, with doctors and nurses keeping track of their health using regular check-ins and remote monitoring.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this, we are also shifting care out of busy hospitals through the role of Community Diagnostic Centres, meaning that patients can get quicker access to the vital tests, checks and scans they need in quicker time. Since July 2024, over 8.7 million tests have been carried out at these sites.",
+                "tag": "p"
+            },
+            {
+                "content": "Vital schemes, such as Advice and Guidance is also helping to keep patients away from busy hospitals. The process sees GPs and other healthcare professionals seek quick expert advice from hospital specialists, helping patients get the right care faster and often avoiding the need for a hospital appointment. Since April 2025, over half a million patients received more appropriate care in the community, rather than automatically being referred to hospital services thanks to the \u00a0scheme.",
+                "tag": "p"
+            },
+            {
+                "content": "How are you supporting emergency care?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A&E demand has increased compared to last year but we are making sure more patients are being treated in the right place at the right time, including through Same Day Emergency Care.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Patients will soon be able to book into the most appropriate urgent care service for them, via 111 or the NHS App before attending, by 2028.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Patients may be redirected to care elsewhere, such as their GP or pharmacy, if not considered an emergency.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through our Urgent and Emergency Care Plan published in the summer, backed by \u00a3450 million, we will introduce new Mental Health Emergency Departments to reduce the strain on A&E and ensure patients receive specialist support. Alongside this, we are also buying and upgrading 500 ambulances to ensure that patients can receive quicker pre-hospital care where they need it. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The measures this government has taken will not only reduce unnecessary hospital attendance, but also put care in the places people need it, whether that is through the NHS App or in neighbourhood health centres.",
+                "tag": "p"
+            },
+            {
+                "content": "How are you supporting NHS staff?",
+                "tag": "p"
+            },
+            {
+                "content": "NHS staff are the heart of our health service and programmes to support the mental and physical wellbeing of healthcare workers are being enhanced to improve retention and morale.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this there are national efforts to recruit more doctors, nurses, and healthcare assistants. This year we have seen record numbers of doctors working in the NHS in England, and more doctors working in almost every speciality area than a year ago \u2014 on top of this, we have committed to creating 1000 more speciality training places over the next 3 years in our 10 Year Health Plan. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are over 147,000 full time equivalent (FTE) doctors employed by NHS Trusts and integrated care boards in England as of July 2025, almost 6,800 (4.8%) more than a year ago. This includes over 59,000 FTE consultants, over 2,200 (3.9%) more than a year ago.",
+                "tag": "p"
+            },
+            {
+                "content": "In under 18 months we recruited over 2,500 GPs \u2013 smashing through our promise of 1,000 alongside the extra \u00a31.1 billion investment we\u2019ve made in general practice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the long-term our 10 Year Health Plan will deliver a revolution in healthcare. It is through the NHS\u2019s workforce that the transformed service will be delivered.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To meet this challenge we must create a workforce that is more empowered, more flexible, and more fulfilled.\u00a0 Over the long-term our 10 Year Health Plan will relieve NHS Staff of the unnecessary bureaucracy and empower them to reshape services to work for their patients.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will work with the Social Partnership Forum to develop a set of Staff Standards so that all staff have access to healthy meals, support to work healthily and flexibly, and tackle violence, racism and sexual harassment.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Staff Standards will support a workforce model that is fit for the future, where staff wellbeing is more than a \u2018nice to have\u2019.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How will patient flow through hospitals improve?",
+                "tag": "p"
+            },
+            {
+                "content": "Hospitals are speeding up safe discharges to free up beds for those who need them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They are also working more closely with GPs and community services to help patients leave hospital sooner and avoid unnecessary admissions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are taking a more collaborative approach to how care is delivered, making it more organised, proactive, and focused on the patient, ensuring teams work together effectively, use data and technology wisely, and allow people to receive the right care at the right time and place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are also strengthening the use of a Single Point of Contact \u2013 for example a dedicated phone number or service that makes it easy for patients, families, or community healthcare teams to get in touch with the right hospital team, ask questions, or get updates about care without needing to make multiple calls.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "NHS leaders on the ground are being given more power to deliver local solutions, so they can ensure the right plans are in place to be able to support the needs of their local communities.",
+                "tag": "p"
+            },
+            {
+                "content": "How are you supporting community services and social care?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through the 10 Year Health Plan the government is expanding access to community care, urgent treatment centres, and rolling out technology to allow virtual healthcare services to reduce pressure on hospital A&E departments.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The shift from hospital to community will give older people more choice in how they access their care and make it more convenient as a wider range of services will be available at home or in the community. Quality of care will also be improved.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0The shift from sickness to prevention will ensure older people are supported to maintain their independence with more services coming to them, rather than being delivered in hospital.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our neighbourhood health programme will see 43 hubs covering 12 million people as part of the first phase. Each area will receive \u00a310 million to transform care for people with long term conditions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Around 100 community diagnostic centres now offer services, 12 hours a day, 7 days a week.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "More funding is going into social care to help people return home safely, especially older and vulnerable patients. Longer-term, we have launched the Casey Commission to build cross-party consensus for a National Care Service.",
+                "tag": "p"
+            },
+            {
+                "content": "When will you publish corridor care statistics?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To tackle a problem you\u2019ve got to be honest about it. For the first time, the NHS will measure and publish the number of patients waiting in corridors. Sunlight is the best disinfectant.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This Government is committed to tackling the unacceptable practice of corridor care in our NHS. Our Urgent and Emergency Care Plan, published in June, set out steps we are taking, including the commitment to publish data on the prevalence of corridor care.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "NHS England has been working with trusts since 2024 to put in place new reporting arrangements related to the use of corridor care, to drive improvement.\u00a0 Subject to a review of data quality, this information will be published shortly, and we will consider how this data could be published on a regular basis.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Will corridor care take over busy hospitals?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re working closely with the NHS to prepare for winter - from \u2018war game\u2019 exercises, to extra checks for the most vulnerable and rolling out vaccines - to ease pressure on hospitals and ensure patients get the care they need.\u00a0 We\u2019re investing nearly \u00a3450 million to expand urgent and emergency care facilities so patients get better, faster emergency care. It\u2019s easier than ever to book vaccine appointments available at GP surgeries, pharmacies and community centres across the country so get vaccinated to protect yourself, and your loved ones this winter.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What about vaccinations?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Vaccines are one of the safest and most effective ways you can do this. They work by providing a barrier of protection to prevent serious illnesses that can cause lifelong problems or even death.",
+                "tag": "p"
+            },
+            {
+                "content": "This winter the government is ramping up activity ahead of winter more than ever before, encouraging people to \u2018Stay Strong. Get Vaccinated\u2019 and getting a flu vaccine is now as easy as ordering food or scheduling an appointment.\u00a0 Since the start of September, vaccination teams have been rolling out flu vaccines to pregnant women and children across maternity services, in school settings or GP practices, and pregnant women, younger children and those who miss their school or nursery session will also be able to get the vaccine at their local pharmacy or drop-in community clinic.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "High street pharmacies are now offering flu vaccinations for 2- and 3-year-olds - in addition to the offer for all other eligible adults - in a bid to make it as easy as possible for people to get protected closer to home. Local NHS teams are making getting a catch-up vaccination as easy as possible by hosting community clinics closer to home \u2013 with sessions set up in bowling alleys, football pitches, libraries and sports halls.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Those eligible for a free Covid-19 vaccine will also be able to find their nearest drop-in clinic via the NHS walk-in finder.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This winter, we\u2019re keeping vaccination windows open for longer, with appointments for COVID-19 vaccinations will be available until Friday 30 January 2026, with flu jabs offered until the end of March 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "How is technology helping?",
+                "tag": "p"
+            },
+            {
+                "content": "A: Hospitals are adopting digital platforms to monitor and manage bed availability in real-time, reducing bottlenecks, while data tools are being used to forecast demand surges and allocate resources proactively and manage patient flow more effectively.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are also investing \u00a320 million so paramedics can access patient records from all NHS services, helping avoid unnecessary hospital admissions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The NHS Federated Data Platform is being rolled out to 85% of acute trusts by March 2026, giving frontline staff a single view of operational systems to manage demand better. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Furthermore, national standards for care technology will be set by March 2026 to reduce falls\u2014which cost the NHS \u00a32.3 billion annually \u2014including remote monitoring that has halved falls in care homes, meaning less visits to A&E.",
+                "tag": "p"
+            },
+            {
+                "content": "How will progress be monitored?",
+                "tag": "p"
+            },
+            {
+                "content": "The NHS has set clear targets and standards, including eliminating corridor care. Hospitals will be regularly inspected, and data on corridor care will be published for transparency.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://healthmedia.blog.gov.uk/2025/10/31/how-the-government-is-tackling-corridor-care/",
+        "blog": "Department of Health and Social Care Media Centre",
+        "blog_link": "https://healthmedia.blog.gov.uk",
+        "description": "The government\u2019s position on corridor care is below: Health Minister Karin Smyth said: \u201cNo one should receive care in a corridor - it\u2019s unacceptable, undignified and we are determined to end it. \u201cTo tackle a problem you\u2019ve got to be \u2026"
+    },
+    {
+        "title": "Nightmare on MOT Street: Frightening Faults Lurking in UK Garages\u00a0",
+        "authors": [
+            "Matters of Testing"
+        ],
+        "posted_on": "2025-10-31T10:00:00",
+        "categories": [
+            "Horror stories",
+            "MOT testing service",
+            "News and updates"
+        ],
+        "content": [
+            {
+                "content": "Happy Hallo-wheels!\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While most horror stories are set in haunted houses or dark woods, some of the DVSA\u2019s scariest tales come straight from the MOT testing bay.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This year, testers have shared some truly hair-raising sights that would leave the bravest of testers shuddering.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In our latest edition of MOT horror stories, a collection of terrifying tales from the garage floor is revealed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Seatbelt Slasher\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "One tester reported a driver who arrived with a severed seatbelt that had been \u201crepaired\u201d with duct tape. While it might hold a parcel together, it will never hold a life.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Seatbelts are engineered to lock instantly during a crash and withstand enormous forces. A taped-up or frayed belt simply cannot perform its vital function, leaving a vehicle\u2019s occupant dangerously unprotected.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0As the front line of defence against unsafe vehicles, a tester\u2019s advice is a vital reminder \u2013 the owner is responsible for keeping their seatbelts in good condition, ensuring their car is roadworthy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The only safe choice is replacement. If the seat belt shows any cuts, frays or stiffness, it must be inspected and replaced \u2013 there\u2019s no safe DIY fix.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A Fuel Tank on Elm Street\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Another tester was stunned to find a fuel tank held in place with a fuse wire after its original strap had corroded away.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This makeshift repair posed an extremely dangerous hazard.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A fuel tank held in this way can shift or detach under road vibrations or impact, potentially damaging fuel lines and causing leaks.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Just one spark could have catastrophic results \u2013 such as causing a fire.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As experienced MOT professionals will be aware, fuel tanks must always be secured using manufacturer-approved fittings and brackets. It's also a good opportunity to remind motorists that DIY repairs of this kind can be incredibly unsafe.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Corroded Suspension Curse\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "A Ford KA was brought in after the owner reported steering issues on the motorway. The real problem uncovered during the MOT was far more serious \u2013 a coil spring mounting so corroded it had fractured completely.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With the springs no longer safely attached, the vehicle was at risk of instability or loss of control, particularly when cornering or driving over uneven roads.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As testers know, corrosion develops gradually, which is why regular inspections are so important. When corrosion is identified, it\u2019s a good opportunity for garages to promote any additional services they offer, such as vehicle safety checks.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Cursed Caliper\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Not all MOT horrors are the result of wear and tear \u2013 some are the result of dangerous shortcuts.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During one test, a brake caliper was discovered with its bleed nipple replaced by a radiator drain tap, glued into place\u2026 a true Frankenstein repair.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This wasn\u2019t just a gruesome\u00a0repair \u2013 it was an unsafe modification.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A car\u2019s braking system relies on precision, and using the wrong part could lead to leaking brake fluid, loss of pressure, and even total brake failure.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Spongy brakes, unusual noises, the car pulling to one side, or brake warning lights are all common complaints from customers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Quick fixes or unapproved modifications \u2013 especially involving the braking system \u2013 are never safe solutions. Makeshift repairs, incorrect parts, or shortcut fixes put both drivers and other road users at serious risk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By highlighting these dangers, testers can help prevent small issues from turning into a full-blown horror story on the road.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A stark reminder\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We all know that a valid MOT certificate doesn\u2019t automatically guarantee the vehicle is safe to drive for the year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Encourage motorists to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Promoting safety and inspection services available at the garage is an excellent way to help motorists stay on top of their vehicle maintenance and keep their vehicle safe all year round.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019d love to know what testers think of these MOT horror stories \u2013 have you come across any spooky discoveries of your own? Share your thoughts and experiences by leaving a comment below.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mattersoftesting.blog.gov.uk/nightmare-on-mot-street-frightening-faults-lurking-in-uk-garages/",
+        "blog": "Matters of Testing",
+        "blog_link": "https://mattersoftesting.blog.gov.uk",
+        "description": "While most horror stories are set in haunted houses or dark woods, some of the DVSA\u2019s scariest tales come straight from the MOT testing bay.\u00a0\u00a0 This year testers have shared some truly hair-raising sights that would leave the bravest of testers shuddering."
+    },
+    {
         "title": "Dragons Den IP Blog - Series 22 Episode 14",
         "authors": [
             "Jeff Webb"
