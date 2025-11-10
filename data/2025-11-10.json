@@ -1,0 +1,727 @@
+[
+    {
+        "title": "Challenges of Considering a Spiritual Model when Working Under a Social Work/Medical Model",
+        "authors": [
+            "Soyeb Aswat"
+        ],
+        "posted_on": "2025-11-10T15:47:27",
+        "categories": [
+            "Care and support",
+            "Communities",
+            "Information and access",
+            "Knowledge and skills",
+            "Mental health",
+            "Our profession",
+            "Research",
+            "Society",
+            "Viewpoint"
+        ],
+        "content": [
+            {
+                "content": "Introductions ",
+                "tag": "p"
+            },
+            {
+                "content": "Challenges of Considering a Spiritual Model when Working Under a Social Work/Medical Model - Soyeb Aswat",
+                "tag": "h2"
+            },
+            {
+                "content": "Having come into the Social Work arena as a Newly Qualified Social Worker working within an area which had a large South Asian Muslim Community, I quickly realised there were misconceptions and barriers to accessing and providing culturally appropriate interventions for this client group.",
+                "tag": "p"
+            },
+            {
+                "content": "A major dilemma I faced was what I now name, the Medical Model vs the Spiritual Model.\u00a0The dilemma of engaging with a client that is presenting with mental health symptoms, that we may term as psychosis, but the client states that their voices are attributed to Jinn possession and the intervention they want is spiritual healing or exorcism. Thus, presenting a dilemma for professionals working within a Western Medical Framework, that can appear to be not fully considerate of these differential views.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When these alternate views are dismissed without consideration, the individual client and/or groups of individuals with the same belief can become alienated and unwilling to access services.\u00a0This can create a barrier between building a therapeutic relationship with the client and the potential opportunity to engage at an early intervention stage with both the client and groups of individuals, leading to long term detrimental impact.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To try and bridge these two differentiating concepts or views of treating the same set of symptoms, there are some key areas that need consideration.",
+                "tag": "p"
+            },
+            {
+                "content": "As professionals and as individuals we do need to be aware of the differentiating views of mental health within different cultures and countries.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some of the key areas that I feel need consideration are summarised within this model, which has been based on personal experience along with various research projects I have undertaken or been involved in:",
+                "tag": "p"
+            },
+            {
+                "content": "Some (but not all) actions to take when working with spirituality:",
+                "tag": "p"
+            },
+            {
+                "content": "By using evidence base and research we are able to consider someone's spiritual needs alongside the traditional medical model interventions. ",
+                "tag": "p"
+            },
+            {
+                "content": "Undertaking research or study within your own organisation around this subject can really help evaluate how well individuals and the organisation are meeting mental health needs, but also the spiritual needs of those they work with and support.",
+                "tag": "p"
+            },
+            {
+                "content": "If anyone is interested in exploring this in more detail or would like to share ideas around this, please email: soyeb.aswat@baswindependent.co.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialworkwithadults.blog.gov.uk/2025/11/10/challenges-of-considering-a-spiritual-model-when-working-under-a-social-work-medical-model/",
+        "blog": "Social work with adults",
+        "blog_link": "https://socialworkwithadults.blog.gov.uk",
+        "description": "Introductions Challenges of Considering a Spiritual Model when Working Under a Social Work/Medical Model - Soyeb Aswat Having come into the Social Work arena as a Newly Qualified Social Worker working within an area which had a large South Asian \u2026"
+    },
+    {
+        "title": "A year of Google Analytics 4 on GOV.UK",
+        "authors": [
+            "Anne Cremin, Senior Performance Analyst, GOV.UK"
+        ],
+        "posted_on": "2025-11-10T15:41:48",
+        "categories": [
+            "Data",
+            "How we work",
+            "User insights",
+            "What we're working on"
+        ],
+        "content": [
+            {
+                "content": "At GOV.UK, we use data and insights to help us design the best possible content and services for our users. Making the most of our data, collected with a user\u2019s consent, is central to realising the vision set out in the blueprint for modern digital government.",
+                "tag": "p"
+            },
+            {
+                "content": "Google Analytics is an important tool that enables us to understand how people use GOV.UK. Over the past few years, we\u2019ve migrated from the previous version of this tool, Universal Analytics, to the current supported version, Google Analytics 4 (GA4). We\u2019ve previously talked about our work upgrading to GA4, and the technical side of our implementation. Now, we want to reflect on a year of using the data, and where we want to go next.",
+                "tag": "p"
+            },
+            {
+                "content": "How the last year has gone",
+                "tag": "h2"
+            },
+            {
+                "content": "In July 2024 the Government Digital Service (GDS) made the successful transition from Universal Analytics to GA4 with no interruption to service and a clean switch from old to new data collection. We had already been tracking page views in GA4 for nearly 2 years, and had at least a year\u2019s data for the majority of our key events. We have more than 1,500 data analytics users across government, all of whom we managed to migrate to GA4 a few months before sunset. We had given critical users longer to familiarise themselves with the data via an early access group.",
+                "tag": "p"
+            },
+            {
+                "content": "One thing we discovered during the migration is that the out-of-the-box GA4 interface would not directly meet many of our needs. We therefore adopted BigQuery as our primary platform for storing, processing and analysing our GA4 data, to enable high quality reporting and analysis. By enhancing our GA4 data with other datasets in BigQuery, we are able to uncover deeper insights about GOV.UK, such as analysing page visits against Google and internal site searches, or analysing traffic by content owner. BigQuery also allows us to customise reporting and metrics to our specific needs, enabling teams to quickly generate tailored insights and visualisations using tools such as Looker Studio. The insights we can gain from this allow us to build a much clearer picture of user behaviour on GOV.UK to help inform decision making at all levels.",
+                "tag": "p"
+            },
+            {
+                "content": "Since we completed the migration, we have also moved from implementation to maintenance and continuous improvement. We have a healthy backlog of bug fixes and improvements we\u2019d like to make to our web analytics offering, and maintaining the high quality of our GA4 implementation requires ongoing effort. To help with this, we developed a support model to manage our routine tasks as well as requests from GA4 users in GOV.UK. We\u2019re hoping to roll this out to more teams within GDS in the coming months. We\u2019ve also upskilled on Dataform, to improve the stability of our GA4 data pipelines, and are continuing to iterate our work with the help of a growing data engineering function in GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Where we\u2019re going next",
+                "tag": "h2"
+            },
+            {
+                "content": "More than 100 products rely on GA4 data, such as GOV.UK\u2019s search engine, the Content Data app, and a lot of our internal reporting. So, one of our primary goals is to ensure that this data remains as high quality as possible. We have developed a strategy for the next year that underpins our ambition to continually monitor, maintain and iterate our GOV.UK GA4 data. Google is also regularly releasing new features for GA4, so we\u2019re keeping our eyes open for anything that can help us or our data users.",
+                "tag": "p"
+            },
+            {
+                "content": "We are also thinking about governance and resilience across the team and the wider GDS. We\u2019re currently working to ensure the right staff have the right skills to maintain our data collection and processing, and reduce bottlenecks.",
+                "tag": "p"
+            },
+            {
+                "content": "With GOV.UK\u2019s proposition expanding to new channels, we\u2019ll be increasingly focussing on enabling cross-channel analysis, and we\u2019re also looking for new ways to get more out of our data. We\u2019re investigating how our work could be influenced by changes coming out of the Data (Use and Access) Act and are actively engaging with the Information Commissioner's Office consultation on updating their guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "We are also increasingly mixing our GA4 data with other datasets such as our own GOV.UK polling, and content data sources, utilising a tool our data engineers are currently building, called a semantic layer. Our semantic layer will help to translate complex data into familiar terms, so people can easily understand and work with it without needing technical knowledge. This will really help to improve our ability to make data-driven decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re really proud of how far we\u2019ve come in this project. Equally, we know there\u2019s still so much more value we can unlock from our web analytics data. We look forward to gradually delivering this to our users.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidegovuk.blog.gov.uk/2025/11/10/a-year-of-google-analytics-4-on-gov-uk/",
+        "blog": "Inside GOV.UK",
+        "blog_link": "https://insidegovuk.blog.gov.uk",
+        "description": "Discover what we\u2019ve learned in the year since the GOV.UK website fully migrated to Google Analytics 4, and how our use of data is evolving as GOV.UK expands to multiple digital channels."
+    },
+    {
+        "title": "Five reasons to join the Operational Delivery Profession and power up your Civil Service career!",
+        "authors": [
+            "Government Reform"
+        ],
+        "posted_on": "2025-11-10T14:56:43",
+        "categories": [
+            "A Modern Civil Service",
+            "Ambitious",
+            "Capability",
+            "Join a profession",
+            "Operational Delivery",
+            "Professional Networks",
+            "Proud Civil Servant",
+            "Skilled Civil Service"
+        ],
+        "content": [
+            {
+                "content": "If your role involves direct service, case work, processing, telephony, or enforcement, or supports those that do, the Operational Delivery Profession (ODP) is your professional home. The essential services you provide connect government policy to real-life impact every single day. As civil servants, we are expected to invest in our skills to continually improve and deliver the best outcomes for the public. Joining the ODP is the easiest and fastest way to meet this commitment, providing specialised support for the essential work you do. This is an 'open membership' profession, that requires no qualifications or HR process to join. You can also become a member if ODP is your secondary profession.",
+                "tag": "p"
+            },
+            {
+                "content": "Here are five reasons to register with the ODP today!",
+                "tag": "p"
+            },
+            {
+                "content": "Why join the Operational Delivery Profession?",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Get a clear career roadmap with the Professional Skills Framework",
+                "tag": "h3"
+            },
+            {
+                "content": "Stop guessing about your next move. As an ODP member, you gain access to the Professional Skills Framework. This tool is your comprehensive career roadmap, showing you exactly what skills you need for different ODP roles and the specific development pathways to acquire them. Invest five minutes to join and gain a clear path for your entire career.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Get matched with a mentor, coach or buddy in minutes",
+                "tag": "h3"
+            },
+            {
+                "content": "Need advice, guidance, or just a friendly chat? The ODP makes it easy. Use LISTR, the ODP's online mentoring, coaching, and buddying tool. LISTR can match you with an experienced mentor, coach, or buddy across the Civil Service in minutes, providing you with bespoke support and advice based on your skills and needs.",
+                "tag": "p"
+            },
+            {
+                "content": "3. Access learning and development on demand",
+                "tag": "h3"
+            },
+            {
+                "content": "Your development shouldn't disrupt your operational schedule. As an ODP member, you get immediate access to specialised learning resources whenever you need them. This includes a vast e-library and a wealth of online resources covering everything from digital skills to wellbeing - all available to you 24/7.",
+                "tag": "p"
+            },
+            {
+                "content": "4. Learn and share best practice in the Centre of Excellence",
+                "tag": "h3"
+            },
+            {
+                "content": "The ODP is a living community. As a member, you get access to the Centre of Excellence, a dedicated space to share and learn the best operational practice from colleagues in similar roles across different government departments. By connecting, you help drive innovation and ensure the whole Civil Service delivers in the best way possible.",
+                "tag": "p"
+            },
+            {
+                "content": "5. Celebrate and get inspired",
+                "tag": "h3"
+            },
+            {
+                "content": "Do you know a colleague (or team) doing an exceptional job, innovating, or showing outstanding excellence? They can be recognised! ODP members are eligible for the annual ODP Awards, which celebrate the incredible achievements and impact within the profession. It\u2019s the perfect way to shine a spotlight on the vital work you and your colleagues do every day but also to find the most inspiring stories and ideas that will be most relevant to your every day work.",
+                "tag": "p"
+            },
+            {
+                "content": "Ready to unlock your potential?",
+                "tag": "h3"
+            },
+            {
+                "content": "How to get started:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://moderncivilservice.blog.gov.uk/2025/11/10/five-reasons-to-join-the-operational-delivery-profession-and-power-up-your-civil-service-career/",
+        "blog": "A Modern Civil Service",
+        "blog_link": "https://moderncivilservice.blog.gov.uk",
+        "description": "Discover how the Operational Delivery Profession provides civil servants with dedicated career frameworks, on-demand learning and a thriving community of practice."
+    },
+    {
+        "title": "Celebrating talent and building a supportive future.",
+        "authors": [
+            "karlharvey1"
+        ],
+        "posted_on": "2025-11-10T11:00:20",
+        "categories": [
+            "#GFIEsuccessstory",
+            "Break down barriers to opportunity",
+            "Care Experienced",
+            "Care Leavers",
+            "Life Chance Recruitment",
+            "National Care Leavers Month"
+        ],
+        "content": [
+            {
+                "content": "This month, we\u2019re proud to celebrate National Care Leavers Month. It\u2019s a time to shine a spotlight on the remarkable contributions care leavers make to our communities and society, and to recognise the unique challenges they often navigate as they move into adulthood and independence. By listening, understanding, and taking action, we can help ensure every care leaver has the opportunities, respect, and support they deserve to thrive.",
+                "tag": "p"
+            },
+            {
+                "content": "Care leavers face barriers in education, employment and housing that can affect long-term outcomes. Celebrating their strength and resilience is not just about recognition; it\u2019s about committing to practical steps that unlock potential, improve public value, and create a more inclusive public service.",
+                "tag": "p"
+            },
+            {
+                "content": "Employing Care Experienced Individuals\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Our approach is turning potential into opportunity through GFiE LifeChances recruitment. GFIE offers care leavers the chance to bring their strengths into the workplace\u2014resilience, independence, and strong problem\u2011solving skills developed through lived experience. Many candidates who have joined the Civil Service through GFIE have not only secured roles, but have also gone on to thrive in their careers.",
+                "tag": "p"
+            },
+            {
+                "content": "We discover and support incredible talent by working closely with a range of referring partners\u2014including local authorities, charities, and organisations that help care leavers navigate their journey into employment.",
+                "tag": "p"
+            },
+            {
+                "content": "One of our key partners is Drive Forward Foundation, who play a vital role in referring talented candidates for opportunities at GFIE. We value our partnership with Drive Forward and the positive impact it has.",
+                "tag": "p"
+            },
+            {
+                "content": "Below, you can hear directly from Drive Forward about their experience working with GFIE and how together, we\u2019ve been able to make a meaningful difference in the lives of care leavers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The GFIE team often visit job fairs, community outreach events, taking time to speak with people and provide support. Our goal is to help experienced individuals discover skills and potential they may not yet see in themselves, in which they can bring into the work force.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This means.....",
+                "tag": "h3"
+            },
+            {
+                "content": "You can find more information about this Pathway and our other GFiE Pathways at Civil Service Careers GFIE Pathway Page, or can contact us at GFiE@cabinetoffice.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gfie.blog.gov.uk/2025/11/10/celebrating-talent-and-building-a-supportive-future/",
+        "blog": "Life Chance Recruitment - Going Forward into Employment (GFiE)",
+        "blog_link": "https://gfie.blog.gov.uk",
+        "description": "This month, we\u2019re proud to celebrate National Care Leavers Month. It\u2019s a time to shine a spotlight on the remarkable contributions care leavers make to our communities and society, and to recognise the unique challenges they often navigate as they \u2026"
+    },
+    {
+        "title": "Navigating drought: Reflections on\u00a0protecting\u00a0waterways\u00a0and supporting\u00a0canal\u00a0users\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-11-10T09:29:00",
+        "categories": [
+            "Drought",
+            "Rivers",
+            "tourism"
+        ],
+        "content": [
+            {
+                "content": "As\u00a0the\u00a0summer\u00a0boating season\u00a0has drawn\u00a0to a close,\u00a0it\u2019s\u00a0a moment\u00a0to\u00a0reflect on the challenges and achievements of the past summer. Drought conditions have tested our waterways and infrastructure\u00a0-\u00a0but\u00a0they\u2019ve\u00a0also revealed resilience, innovation, and a shared commitment to protecting England\u2019s canals and rivers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Agency (EA) Chair, Alan Lovell, recently hosted a visit at Allington Lock on the River Medway\u00a0in Kent\u00a0for several senior representatives from the Canal and River Trust, including Chair David Orr.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The group discussed key topics such as water management, navigation services, and future collaboration between both organisations. As part of this, they shared lessons learnt and best practice across cross-cutting areas of work - including recent experiences managing low river flows and drought conditions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reflecting on a record-breaking summer\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2025 brought England its hottest summer on record. Extended dry spells and minimal rainfall pushed many rivers and canals to historically low levels. These conditions forced\u00a0difficult decisions: temporary closures, lock restrictions, and reduced access. While disruptive, these measures were essential to safeguard water supplies, protect habitats, and\u00a0maintain\u00a0resilience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve\u00a0seen how low flows can strain infrastructure, hinder navigation, and increase environmental risks. In some areas, water levels dropped below safe thresholds for boating, prompting urgent action from navigation authorities and regulators.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The EA\u2019s role: Balancing navigation and environmental protection\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As both\u00a0a regulator and navigation authority, the EA has\u00a0to wear multiple hats. We oversee water abstraction and reservoir operations, issue stop notices when levels fall too\u00a0low, prioritising long-term water security.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our navigation responsibilities span over 1,000 km of inland waterways, including the non-tidal River Thames, River Great Ouse, and Medway Navigation.\u00a0It\u2019s\u00a0our job to keep them open and safe for a variety of uses\u00a0-\u00a0especially boating. This includes\u00a0maintaining\u00a0locks and weirs, managing water levels, issuing notifications for closures or restrictions, and removing obstructions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During drought, we\u00a0monitor\u00a0water levels, issue guidance to boaters, and work with partners\u00a0on\u00a0water-saving measures.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learning from the Canal & River Trust\u2019s response\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Canal & River Trust\u00a0(the Trust), which looks after 2,000 miles of canals and navigable rivers across England and Wales, has played a vital role in managing the wider canal network. With more than 35,000 boats on these waters, canals are busier now than at the height of the Industrial Revolution.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Trust\u2019s\u00a0teams and volunteers work around the clock to manage water levels\u00a0but a\u00a0record-breaking\u00a0dry start to spring meant\u00a0restrictions\u00a0were brought in\u00a0early,\u00a0around Easter,\u00a0to conserve the water supply\u00a0in several canals.\u00a0This meant reducing\u00a0lock operating hours to extend water supplies and navigation for as long as possible. In some instances, locks were temporarily closed to boats, helping save water to keep boats afloat, protect wildlife, and safeguard canal infrastructure.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For every restriction or closure,\u00a0the Trust\u00a0considered factors such as reservoir and river supply, boat traffic demand, evaporation, transpiration, and environmental flow needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Volunteer lock keepers helped manage boat traffic to ensure water was used sparingly. Their conversations with boaters shared knowledge about what was happening, why it mattered, and how to help.\u00a0The Trust\u2019s use of digital channels,\u00a0including its Notices alert system, Boaters\u2019 Update newsletter, website, and social media,\u00a0has helped\u00a0boaters stay informed and involved.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The dry spring and\u00a0hot summer\u00a0took their toll, with, at its peak, around 400 miles of the canal network\u00a0affected by\u00a0navigation restrictions or closures.\u00a0The Trust\u00a0provided support to people living on their boats and\u00a0worked with boat hire companies when planning\u00a0the closures\u00a0so they could offer alternative routes where possible.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, closures\u00a0weren't\u00a0all negative: where canals were temporarily closed, the Trust brought forward repairs to minimise disruption later in the year. Autumn rainfall has begun replenishing canal pounds and reservoirs, allowing the Trust to ease restrictions and reopen routes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Collaboration in action: EA and\u00a0the Trust\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The EA and\u00a0the Trust\u00a0worked closely to manage water levels, prioritise navigation routes, and communicate with users. Joint planning, real-time updates, and shared water-saving initiatives helped reduce disruption and build resilience.\u00a0Together,\u00a0we\u2019ve\u00a0shown that collaboration\u00a0isn\u2019t\u00a0just beneficial,\u00a0it\u2019s\u00a0essential. By pooling\u00a0expertise\u00a0and resources,\u00a0we\u2019ve\u00a0been able to make fair, transparent decisions based on the best available data.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Spotlight on the Broads\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While many inland waterways faced significant drought-related challenges this summer, the Broads presented a different picture.\u00a0The Norfolk and Suffolk Broads\u00a0-\u00a0Britain\u2019s largest protected wetland and third-largest inland waterway\u00a0-\u00a0are governed largely by tidal processes rather than river flows. This means navigable depth is typically buffered during dry periods as the sea backfills the system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, drought can still\u00a0have ecological consequences. Reduced freshwater inputs can lead to increased salinity intrusion, pushing saltwater further upstream than usual. In extreme cases, this can result in fish\u00a0deaths.\u00a0A\u00a0combination of events in early October\u00a0led\u00a0to\u00a0hundreds\u00a0of freshwater fish dying\u00a0near the River Thurne including Hickling Broad\u00a0due to a combination of pressures.\u00a0In response, the EA deployed staff to carry out a fish rescue from Womack Staithe to Hickling Broad, successfully\u00a0relocating\u00a0over 100,000 fish (over two separate events).\u00a0These ecological pressures highlight the importance of tailored approaches to drought resilience.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Drought has tested our waterways.\u00a0But it has also revealed the strength of our partnerships, the dedication of our communities, and the importance of adaptive management. As conditions begin to improve,\u00a0we\u2019re\u00a0reflecting on what worked, what\u00a0we\u2019ve\u00a0learned, and how we can build greater resilience for the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The EA\u00a0remains\u00a0committed to supporting navigation and protecting our shared water resources.\u00a0We\u2019ll\u00a0continue working with\u00a0the Trust, the Broads Authority, and local communities to ensure our rivers and canals\u00a0remain\u00a0safe, accessible, and sustainable\u00a0-\u00a0now and in the years to come.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find the latest information on drought here: \u00a0weekly dry weather summaries,\u00a0water situation reports, and the\u00a0Water hub.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/11/10/navigating-drought-reflections-on-protecting-waterways-and-supporting-canal-users/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "As the summer boating season has drawn to a close, it\u2019s a moment to reflect on the challenges and achievements of the past summer. Drought conditions have tested our waterways and infrastructure - but they\u2019ve also revealed resilience, innovation, and a shared commitment to protecting England\u2019s canals and rivers."
+    },
+    {
+        "title": "How healthy is our wildlife? New report unveiled.",
+        "authors": [
+            "Jenny Cantlay"
+        ],
+        "posted_on": "2025-11-10T09:00:16",
+        "categories": [
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "The Great Britain Wildlife Health Partnership (GBWHP) has just released its new look annual report for 2024 and it is more than just a facelift. It provides a comprehensive overview into the fascinating world of wildlife disease surveillance activities in 2024 across England, Wales and Scotland, offering insights for scientists, conservationists, and curious nature lovers alike, interested in the health of our native and non-native wildlife species.",
+                "tag": "p"
+            },
+            {
+                "content": "The Great Britain Wildlife Health Partnership (GBWHP) is a long-standing wildlife surveillance collaboration that monitors the disease status of free-living wildlife in Great Britain (GB).",
+                "tag": "p"
+            },
+            {
+                "content": "Who is behind the partnership?",
+                "tag": "h2"
+            },
+            {
+                "content": "GBWHP is a collaboration of nine expert organisations working together to monitor the health of free-living wildlife across GB. The team includes:",
+                "tag": "p"
+            },
+            {
+                "content": "The partnership shares information on new and re-emerging threats to wildlife and their impact. The One Health approach examines how threats impact human and animal health, highlighting their connection to biodiversity and the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "Scanning the wild: how surveillance works",
+                "tag": "h2"
+            },
+            {
+                "content": "Infectious and non-infectious disease surveillance of wild mammals, birds, amphibians and reptiles in GB is mainly achieved by post-mortem examination and diagnostic testing of dead wild animals. This is known as scanning surveillance. Carcases are submitted to the APHA Diseases of Wildlife Scheme (DoWS) via veterinary investigation centres and surveillance pathology partners, SRUC, and other GBWHP partners with pathology facilities. This ensures that we have pathology expertise across a wide range of terrestrial and aquatic wildlife species.",
+                "tag": "p"
+            },
+            {
+                "content": "Which species are being monitored?",
+                "tag": "h2"
+            },
+            {
+                "content": "From hedgehogs in back gardens to whales off the coast, the GBWHP casts a wide net in monitoring the health of our nation\u2019s wild creatures. The Garden Wildlife Health project investigates reports of sick and dead garden birds, amphibians, reptiles, and hedgehogs - those familiar faces of British back gardens. Meanwhile, the UK Cetacean Strandings Investigation Programme dives into the mysteries behind the deaths of marine giants like dolphins, porpoises, whales, as well as seals, basking sharks, and sea turtles found along our shores.",
+                "tag": "p"
+            },
+            {
+                "content": "On land, APHA\u2019s Diseases of Wildlife Scheme (DoWS) and Scotland\u2019s Rural College (SRUC) receive a wide variety of wild mammals and birds from across GB, helping to build a clearer picture of terrestrial health. The Wildfowl and Wetlands Trust (WWT) monitors wild bird populations at seven key wetland sites, while Cefas brings its aquatic expertise to the table, safeguarding the health of fish and shellfish in both marine and freshwater environments.",
+                "tag": "p"
+            },
+            {
+                "content": "Targeted surveillance",
+                "tag": "h2"
+            },
+            {
+                "content": "Targeted surveillance of wildlife is also done in some cases. This is the proactive sampling of species aimed at detecting a particular disease or pathogen - an essential step for early intervention and effective disease control. Sections in this year\u2019s report showcase the wide range of scanning and targeted surveillance activities conducted by partners over the last year. The impact of diseases on wildlife populations, with the wider implications for humans and domestic animals are also explained. Understanding these connections is key to building a resilient, One Health approach to disease management.",
+                "tag": "p"
+            },
+            {
+                "content": "Mass fatalities: when disease strikes hard",
+                "tag": "h2"
+            },
+            {
+                "content": "Some diseases described in the report can lead to mass fatalities of wildlife. For example, European brown hare syndrome in hare species and avian botulism in waterfowl. For species of conservation concern, a mass fatality may further threaten an already vulnerable or declining population. An example where disease surveillance is playing a key role in monitoring this kind of threat, described in the report, is in the detection of squirrel pox disease, spread by grey squirrels, which can threaten geographically isolated red squirrel populations with extinction. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Unusual or novel disease",
+                "tag": "h2"
+            },
+            {
+                "content": "Mortality investigations of wildlife also enable the diagnosis of an unusual or novel disease - shared in the highlighted cases section of the report. Cefas describes an investigation into the deaths of numerous White Craw Crayfish in Northeast England, a species listed as endangered on the International Union for Conservation (IUCN) Red List of threatened species. The crayfish were found to have unusual shell deformities and Cefas provided a rapid response, collecting samples from dead crayfish at different sites for diagnostic testing.",
+                "tag": "p"
+            },
+            {
+                "content": "Wildlife and human health: the hidden connection",
+                "tag": "h2"
+            },
+            {
+                "content": "For some diseases, wild animals can be a source of infection for domestic animals and humans. Surveillance is carried out on wildlife for several of these pathogens due to public health concerns and updates are provided in the report. Examples include:",
+                "tag": "p"
+            },
+            {
+                "content": "Why it matters: the power of surveillance",
+                "tag": "h2"
+            },
+            {
+                "content": "Wildlife surveillance by GBWHP has proven vital in detecting disease threats to vulnerable British species already facing environmental pressures from habitat loss, pollution and climate change. The latest report offers key insights into disease patterns and risk factors, enhancing our understanding of how wildlife health intersects with livestock and human populations for more informed, targeted action under a One Health approach.",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved: report what you see",
+                "tag": "h2"
+            },
+            {
+                "content": "Please report any unusual wildlife mortality events in England and Wales to the APHA Diseases of Wildlife Scheme (DoWS). Suitable wildlife casualties will be accepted for submission and further investigation under DoWS.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2025/11/10/how-healthy-is-our-wildlife/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "Explore GB\u2019s wildlife health in the 2024 report, led by APHA\u2019s expert surveillance, uncovering disease threats, novel cases, and vital One Health connections across species."
+    },
+    {
+        "title": "How to protect trees and woodland from mammal damage",
+        "authors": [
+            "Chris Tomlin"
+        ],
+        "posted_on": "2025-11-10T09:00:00",
+        "categories": [
+            "Deer",
+            "Woodland management"
+        ],
+        "content": [
+            {
+                "content": "Mammal damage can have a significant impact on trees of all ages and on wider woodland ecosystems. Deer browsing alone can reduce timber values by up to 30-50%,1 and in extreme cases, it can stop the establishment of new woodlands altogether. Common mammal species that are known to damage trees include deer, grey squirrels, voles, rabbits, hares and domestic livestock.",
+                "tag": "p"
+            },
+            {
+                "content": "Mammal damage to valuable ecosystem services",
+                "tag": "h2"
+            },
+            {
+                "content": "Mammals play an important role in woodland ecosystems and agroforestry (integrating trees into farming systems). But wild, domestic and feral mammals can all cause significant damage to trees, potentially impacting woodland creation and management goals. This may affect the valuable ecosystem services that trees provide, such as biodiversity conservation and timber production. ",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding which species pose a risk \u2013 either now or in the future \u2013 helps landowners and managers to implement the most effective tree protection measures.",
+                "tag": "p"
+            },
+            {
+                "content": "Mammal damage to trees and biodiversity",
+                "tag": "h2"
+            },
+            {
+                "content": "Studies show that well-managed woodlands increase biodiversity value, so the protection of trees from mammals is essential, for both established woodlands and for newly created woodland.\u00a0If we don\u2019t protect trees, it can result in:",
+                "tag": "p"
+            },
+            {
+                "content": "Every stage of tree growth can be attacked by one or more species of mammal. Often a species, such as grey squirrels, may cause damage at several growth stages . Most mammal damage to trees is from either:",
+                "tag": "p"
+            },
+            {
+                "content": "Our new tree protection guidance",
+                "tag": "h2"
+            },
+            {
+                "content": "We have launched our new tree protection guidance, specifically for woodland owners, woodland advisors and those planning to plant new woodland in the UK. Our guidance includes helpful real-world examples of tree protection in action, and a new visual guide will be available soon, that helps to spot the signs of mammal damage in your wood.",
+                "tag": "p"
+            },
+            {
+                "content": "This new guidance, based on best practice from across Europe, will help you to identify mammal species that can harm trees, and the practical ways you can prevent damage and protect our treasured UK treescape.",
+                "tag": "p"
+            },
+            {
+                "content": "A diverse range of mammal species covered",
+                "tag": "h3"
+            },
+            {
+                "content": "Our new guidance includes 23 mammal species, from eight species groups found in the UK, that can directly or indirectly impact trees and biodiversity. Species are grouped based on similarities in their ecology, behaviour, legal status and the type of damage they can cause to individual trees and treescapes.",
+                "tag": "p"
+            },
+            {
+                "content": "Tree protection methods",
+                "tag": "h3"
+            },
+            {
+                "content": "Our guidance outlines both the positive and negative effects of mammals and advises landowners and managers on appropriate methods to prevent or mitigate tree damage. A proportion of these methods are well-established, while others are considered to be more innovative or still in development. ",
+                "tag": "p"
+            },
+            {
+                "content": "Methods include directly managing mammal populations, physically preventing damage through exclusion or deterrence and modifying woodland management practices to improve tree resilience.",
+                "tag": "p"
+            },
+            {
+                "content": "Real-world examples",
+                "tag": "h3"
+            },
+            {
+                "content": "We feature real-world examples of tree protection strategies in action across the UK, with insights and experiences shared directly from woodland and land managers.",
+                "tag": "p"
+            },
+            {
+                "content": "A visual and practical guide",
+                "tag": "h3"
+            },
+            {
+                "content": "A new visual guide to mammal tree damage will be available soon. The guide will feature photos of mammal damage to look out for, as well as practical advice that covers additional species to the existing grey squirrel and deer damage guide.",
+                "tag": "p"
+            },
+            {
+                "content": "Incorporating best practice and experience in tree protection from Edinburgh Napier University, Confor, Natural England and Forest Research, has led to the creation of this easy to navigate, practical guidance, designed to benefit every woodland manager. ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2025/11/10/how-to-protect-trees-and-woodland-from-mammal-damage/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Chris Tomlin, a Policy Advisor at the Forestry Commission, welcomes the launch of the Forestry Commission\u2019s new tree protection guidance \u2013 designed to help landowners and managers identify mammal damage and protect woodland and agroforestry projects."
+    },
+    {
+        "title": "Building Britain's Future: Why Nature and Growth Go Hand in Hand",
+        "authors": [
+            "Tony Juniper"
+        ],
+        "posted_on": "2025-11-10T08:00:00",
+        "categories": [
+            "Development",
+            "Green Infrastructure",
+            "Growth",
+            "Natural England"
+        ],
+        "content": [
+            {
+                "content": "By Tony Juniper CBE, Chair of Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s obvious isn\u2019t it. Britain can either build the homes, infrastructure and clean energy systems our growing economy needs, or we can protect our natural environment for future generations.",
+                "tag": "p"
+            },
+            {
+                "content": "This apparent choice can at first sight make sense, but the fact is that it\u2019s false, and a false choice that has for far too long held back progress.",
+                "tag": "p"
+            },
+            {
+                "content": "The reality is that our economic success, public health and national resilience all depend on a thriving natural environment. From the clean water that powers our industries to the green spaces that keep our communities healthy, Nature isn't an obstacle to growth \u2013 it's the foundation that makes a liveable future possible.",
+                "tag": "p"
+            },
+            {
+                "content": "This basic truth about the need to restore the health of the natural world in order that it can continue to support society is what drives our new strategy. It\u2019s called \u201cRecovering Nature for Growth, Health and Security\u201d and was launched last week. It sets out a systemic change in approach. This is because England\u2019s natural environment has continued to decline overall, despite current protections, and incremental site-by-site action has not generated the level of Nature recovery we need to see.",
+                "tag": "p"
+            },
+            {
+                "content": "Implementing this strategy means change in how Natural England works, and in how we work with partners across business, government and communities to integrate Nature into every day decision making. Nature is essential national infrastructure, underpinning economic growth, health, and security. Although it remains under great strain, there is hope for the future in much of the work now taking place.",
+                "tag": "p"
+            },
+            {
+                "content": "Even in places where the natural world is particularly fragile, strong partnerships are enabling sensitive development to come forward in ways which allow Nature to recover. That\u2019s exactly what we\u2019ve seen recently in the Arun Valley area in North Sussex where Natural England has worked with partners to enable more than 20,000 new homes to go ahead while protecting internationally important wetlands and creating new opportunities for Nature recovery.",
+                "tag": "p"
+            },
+            {
+                "content": "Why businesses are embracing Nature",
+                "tag": "h4"
+            },
+            {
+                "content": "Across Britain, forward-thinking companies are discovering that working with Nature isn't just good for the environment \u2013 it's good for business. I frequently come across specific cases which prove this broad point, including at one of Britain\u2019s largest infrastructure projects.",
+                "tag": "p"
+            },
+            {
+                "content": "At Sizewell C, Nature reserves are being created and enhanced alongside the construction of a huge new power station. I\u2019ve seen in Nottinghamshire how the aggregates company Tarmac is delivering Nature-positive outcomes at quarry sites while supplying the materials needed for new houses and major infrastructure. Anglian Water has embedded strong Nature-positive ambitions into plans for its new Fenland Reservoir. Across the farming sector, more producers are embracing Nature recovery as part of modern food production.",
+                "tag": "p"
+            },
+            {
+                "content": "What strikes me most about these examples is how seamlessly environmental ambition aligns with business objectives. These companies aren't reluctantly complying with regulations \u2013 they're pioneering solutions that create competitive advantages.",
+                "tag": "p"
+            },
+            {
+                "content": "Strategic partnerships that unlock growth",
+                "tag": "h4"
+            },
+            {
+                "content": "The key to combining Nature and growth successfully lies in working at a strategic scale, bringing together multiple partners to find innovative solutions, and to do that during project conception, rather than retrofitting mitigations half way through. Natural England has pioneered this approach, and the results speak for themselves.",
+                "tag": "p"
+            },
+            {
+                "content": "Our strategic licencing system for great crested newts exemplifies this thinking. Rather than assessing each development site individually, we enable planners and developers to focus development in suitable areas while funding enhanced habitat for these protected amphibians elsewhere. The result? A faster planning process and larger, healthier newt populations overall.",
+                "tag": "p"
+            },
+            {
+                "content": "This partnership approach proved transformative in delivering over 50,000 homes around the Thames Basin Heaths. When the area was designated as a Special Protection Area for ground-nesting birds in 2005, housing plans initially stalled due to concerns about increased recreational pressure. But Natural England worked closely with 11 local authorities and developers to create alternative green spaces for residents. The outcome exceeded everyone's expectations: homes were built ahead of schedule, almost 2,000 hectares of new recreational space was created, and populations of Dartford warbler, woodlark and nightjar increased.",
+                "tag": "p"
+            },
+            {
+                "content": "Policy frameworks that enable innovation",
+                "tag": "h4"
+            },
+            {
+                "content": "Today's legislative landscape actively encourages businesses to integrate Nature into development plans. The commitment to halt biodiversity decline by 2030 provides clear direction, while policies like Biodiversity Net Gain ensure new developments leave a Nature-positive legacy. In many cases, this results in higher quality natural environments than existed before development began.",
+                "tag": "p"
+            },
+            {
+                "content": "These aren't bureaucratic barriers \u2013 they're frameworks that unlock innovation and create new market opportunities for businesses that embrace Nature-based solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "The Britain we\u2019re building together",
+                "tag": "h4"
+            },
+            {
+                "content": "If we can replicate these successful partnerships across the country, the transformation could be profound. Within the next decade, we could see housing developments that incorporate functional ecosystems, making homes more resilient to climate impacts and more attractive places to live. Infrastructure could work with natural processes rather than against them, reducing long-term maintenance costs while improving performance.",
+                "tag": "p"
+            },
+            {
+                "content": "Communities would have better access to Nature, supporting improved physical and mental health outcomes while reducing pressure on NHS services. A development sector would emerge that sees Nature recovery as a competitive advantage \u2013 one that creates investment-attractive places and enables a healthy, productive workforce.",
+                "tag": "p"
+            },
+            {
+                "content": "Leading the world in green growth",
+                "tag": "h4"
+            },
+            {
+                "content": "Britain has always been at its best when facing down false choices, when finding innovative solutions and when thinking clearly about the future and what it might hold. The path ahead is clear. It invites us to collaborate and build the partnerships necessary for achieving the resilient, prosperous and secure nation that can come from integrated the goals of growth and Nature recovery, rather than relying on the kinds of outdated thinking that pit development against the health of our natural environment.",
+                "tag": "p"
+            },
+            {
+                "content": "The more sector leaders and businesses collaborate and innovate with Nature at the heart of their plans, the brighter our future becomes. We can establish Britain as a world leader in Nature recovery \u2013 a country where people are healthier and happier in greener and more resilient communities, where forward looking businesses reap the economic rewards that accompany the steps we must make toward a healthier planet.",
+                "tag": "p"
+            },
+            {
+                "content": "This isn't just possible \u2013 it's already happening. And what we can see now is just the beginning.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/11/10/building-britains-future-why-nature-and-growth-go-hand-in-hand/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Tony Juniper CBE, Chair of Natural England It\u2019s obvious isn\u2019t it. Britain can either build the homes, infrastructure and clean energy systems our growing economy needs, or we can protect our natural environment for future generations. This apparent choice \u2026"
+    }
+]
