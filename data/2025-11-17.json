@@ -1,5 +1,1493 @@
 [
     {
+        "title": "Notifying users of changes to their holder service accounts\u00a0",
+        "authors": [
+            "Dr Tom Fisher"
+        ],
+        "posted_on": "2025-11-18T17:37:17",
+        "categories": [
+            "Digital identity",
+            "UK digital identity and attributes trust framework"
+        ],
+        "content": [
+            {
+                "content": "To be certified against the UK digital identity and attributes trust framework as a holder service provider (HSP), you need to have a process in place to get in touch with users if:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is a requirement for all HSPs and is outlined in rule 7.3.1a of the gamma (0.4) publication of the trust framework.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The purpose of the rule is to help prevent fraud, as the user can react appropriately if the request has happened without their knowledge.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Your process must be multi-channel\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As stated in rule 7.3.1.a, the communication must be \u201cmulti-channel\u201d, which means you must make more than one channel available to users. The process you put in place to notify them of changes to their holder service account, or of requests to close it, must take account of this.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some examples of channels you might use to communicate to meet the requirements of 7.3.1 include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is not an exhaustive list.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "User-initiated channels could be considered in your processes too. For example, you may have an email or phone-based helpdesk, a web-based chat, or social channel through which users can initiate contact.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Proportionate and reasonable processes\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The decision about which channels you use to notify users of any account changes or closure requests must be appropriate to the:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The conformity assessment body (CAB) certifying your service will make a judgement about whether the processes you have in place are proportionate and reasonable in the context of the service you offer.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2025/11/18/notifying-users-of-changes-to-their-holder-service-accounts/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "Holder service providers must have processes in place to get in touch with users if there\u2019s a change to their account or you\u2019ve received a request to close their account. For gamma (0.4) certification, those processes must be multi-channel."
+    },
+    {
+        "title": "Coverage of the housebuilding acceleration measures announcement",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2025-11-18T16:51:57",
+        "categories": [
+            "Housing"
+        ],
+        "content": [
+            {
+                "content": "There has been widespread, national print and broadcast coverage, alongside extensive positive stakeholder reaction, to the Ministry of Housing, Communities and Local Government\u2019s announcement to speed up housebuilding with a default \u2018yes\u2019 for new homes around well-connected train stations, measures for the Housing Secretary to potentially intervene in schemes of 150 or more homes, and proposals to streamline the statutory consultee process.",
+                "tag": "p"
+            },
+            {
+                "content": "The measures have been positively welcomed by the Home Builders Federation, Royal Town Planning Institute, Centre for Cities, major housebuilders Barratt Redrow and Vistry, campaign groups Britain Remade and the YIMBY Alliance, alongside building on the progress made by Platform4.",
+                "tag": "p"
+            },
+            {
+                "content": "The Financial Times features an exclusive interview with the Housing Secretary, leading on the angle that councils in England are set to lose their power to obstruct large-scale housing projects in an effort to boost housebuilding. Meanwhile, The Express\u00a0reports that pro-building groups have welcomed new pledges to reform planning laws to boost housebuilding around railway stations. The announcement and sector reaction was also covered across national outlets including\u00a0PA,iNews, Sky News, and Independent, The Telegraph, and Daily Mail.",
+                "tag": "p"
+            },
+            {
+                "content": "This morning, Housing Secretary, Steve Reed, also gave interviews to Times Radio, Sky News, BBC Breakfast, LBC, Today Programme, ITV Good Morning Britain, ITN, and GB News to talk about the impact the measures will have and how it will boost housebuilding across the country.",
+                "tag": "p"
+            },
+            {
+                "content": "Housing Secretary, Steve Reed:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI promised we\u2019d get Britain building and that\u2019s exactly what we are doing.\u00a0But it has to be the right homes in the right places and nearby transport links are a vital part of that.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe\u2019re making it easier to build well-connected and high-quality homes, using stronger powers to speed things up if councils drag their feet, and proposing to streamline the consultation process to cut back delays.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis is about action: spades in the ground, breathing new life into communities, and families finally getting the homes they need.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Stakeholder reaction to the announcement",
+                "tag": "p"
+            },
+            {
+                "content": "Catherine Williams, Planning Director at the Home Builders Federation said:",
+                "tag": "p"
+            },
+            {
+                "content": "\"Making more land available for development and increasing the certainty of achieving planning permission and doing so more quickly are essential steps if we are to increase housing supply.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"Sustainable development is at the core of the planning system and it is positive that Government are being proactive in permitting developments near train stations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cReducing the number of statutory consultees to planning applications is welcome and should help reduce delays and bureaucracy in the planning process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cEnsuring more larger sites come forward and preventing unnecessary delays to getting sites appropriate for development approved is a positive move that could accelerate supply.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThese further changes to the planning system build on the earlier changes made by this Government, and if broader constraints can be addressed, will really help the industry increase the delivery of high quality, environmentally friendly homes.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Victoria Hills, Chief Executive of the RTPI, said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cSustainable travel means relying less on cars and creating places where walking, cycling and public transport are the easy, everyday choices. But most new housing developments are still car-dependent, with access to key services barely improving over the last decade.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThese reforms are a step towards rectifying that, prioritising developments that are built around sustainable, accessible transport from the start. When we line up new development and transport planning, we can better connect homes with jobs, shops and services, build healthier, fairer communities and give people genuine choice in how they get around.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Robin Dobson, CEO of Platform4, said:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cToday\u2019s announcement is a welcome step in the delivery of new homes around train stations and making it simpler for everyone involved. Unlocking land around infrastructure is complex however the neighbourhoods created are well connected and stimulate further growth for towns and cities. We look forward to working with local and combined authorities as we generate more opportunities across the rail estate in the future.\u201d \u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Andrew Carter, Chief Executive of Centre for Cities, said:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe Government\u2019s continued focus on making the planning system more rules-based and targeting reforms that unlock the economic potential of Britain\u2019s cities is very welcome.\u201d\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis streamlined approach to developing new homes around well-connected transport stops is one of the best ways to align the planning system with economic growth.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cPrioritising more homes in and around big cities especially will connect more people to places with the highest number of jobs and opportunities.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "David Thomas, CEO at Barratt Redrow, said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe support the government\u2019s mission to reform the planning system, which remains a significant barrier to UK growth. Today, outline planning permission for a medium-sized development takes an average of two and a half years \u2013 more than three times as long as a decade ago.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe also share the ambition to accelerate delivery, with our own plans to grow to 22,000 new homes a year. We welcome these pragmatic proposals for a default \u2018yes\u2019 for building near train stations and to streamline the statutory consultee process, and we look forward to working with government to build the homes the country needs.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stephen Teagle, Chief Executive of Partnerships and Regeneration, Vistry:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe welcome today\u2019s announcement; this is a positive step forward and demonstrates the Government\u2019s commitment to delivering more homes where they are needed most.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAs the UK\u2019s leading partnerships-led housebuilder, Vistry is committed to placemaking and to developing communities that people are proud to live in. As such, we welcome this move to streamline planning processes around transport hubs where infrastructure already exists. We look forward to continuing to collaborate with Government and our partners under this framework, building thriving communities across the country.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kane Emerson, Head of housing research at YIMBY Alliance:",
+                "tag": "p"
+            },
+            {
+                "content": "\"This is a welcome announcement for the hundreds of thousands of British workers that commute by rail every day. Building well-located homes around railway stations will allow workers and their families to live within easy reach of economic opportunity and public services.",
+                "tag": "p"
+            },
+            {
+                "content": "These are exactly the homes that Britain needs to give people better access to well-paid jobs, reduce car dependency and grow the economy.\"",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2025/11/18/coverage-of-the-housebuilding-acceleration-measures-announcement/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been widespread, national print and broadcast coverage, alongside extensive positive stakeholder reaction, to the Ministry of Housing, Communities and Local Government\u2019s announcement to speed up housebuilding with a default \u2018yes\u2019 for new homes around well-connected train stations, measures \u2026"
+    },
+    {
+        "title": "How to protect your home and family from the invisible danger of carbon monoxide",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2025-11-18T15:38:38",
+        "categories": [
+            "Chemical and environmental hazards"
+        ],
+        "content": [
+            {
+                "content": "As the weather turns colder and we close our windows and turn on our heating, there's an invisible danger that can leak into our homes. Carbon monoxide (CO) is a colourless, odourless gas that you cannot see, smell or taste - but it can kill.",
+                "tag": "p"
+            },
+            {
+                "content": "Around 20 people die each year in England and Wales from unintentional carbon monoxide poisoning, with many more hospitalised.",
+                "tag": "p"
+            },
+            {
+                "content": "Why is winter riskier?",
+                "tag": "h2"
+            },
+            {
+                "content": "In England, 68% of carbon monoxide deaths occur in autumn and winter. During colder months, we use heating appliances more and keep windows closed to stay warm. This combination - more potentially malfunctioning fuel-burning appliances in use and less ventilation can create the perfect conditions for CO to build up to dangerous levels.",
+                "tag": "p"
+            },
+            {
+                "content": "Smaller rooms containing CO sources, such as fuel-burning cookers and fireplaces, are particularly at risk, as the pollutant concentrates more quickly in confined spaces. However, built-up CO levels can pose a threat throughout homes, as the gas disperses from room to room.",
+                "tag": "p"
+            },
+            {
+                "content": "What are the symptoms of carbon monoxide poisoning?",
+                "tag": "h2"
+            },
+            {
+                "content": "Because carbon monoxide is invisible and has no smell, recognising the symptoms is crucial. Watch out for:",
+                "tag": "p"
+            },
+            {
+                "content": "An important warning sign is symptoms coming and going, especially if they get worse when you're in a particular room or building and improve when you leave or go outside. If you notice this pattern, it could indicate a CO problem.",
+                "tag": "p"
+            },
+            {
+                "content": "Where does carbon monoxide come from?",
+                "tag": "h2"
+            },
+            {
+                "content": "Common household appliances can produce carbon monoxide if they're not installed properly, are faulty, or are poorly maintained. These include:",
+                "tag": "p"
+            },
+            {
+                "content": "Using portable generators and barbecues or camping stoves inside homes, caravans or tents potentially poses a risk for CO poisoning. CO can even enter tents from a smouldering barbecue outside, so always take an alarm when camping.",
+                "tag": "p"
+            },
+            {
+                "content": "Ventilation is key - if you are turning on vehicles, generators or engines in an enclosed space such as a garage or shed, make sure to keep a window or door open, to prevent CO from building up. Make sure you use the extractor fan while cooking or open the window.",
+                "tag": "p"
+            },
+            {
+                "content": "How to protect your home and family",
+                "tag": "h2"
+            },
+            {
+                "content": "There are several straightforward steps you can take to protect yourself and your family:",
+                "tag": "p"
+            },
+            {
+                "content": "Install CO alarms. This is the single most important action you can take. Only 46% of English homes had a CO alarm in 2020, leaving millions of households vulnerable. Install BS EN 50291-1 compliant alarms in every room with a fuel-burning appliance \u2013 whether that's a gas boiler, coal fire, or wood-burning stove. The same applies to temporary accommodation such as caravans and boats.\u00a0Test your alarms regularly, and replace batteries as needed. Landlords are required by law to install\u00a0CO\u00a0alarms in any room which is used as living accommodation and includes a combustion appliance.",
+                "tag": "p"
+            },
+            {
+                "content": "Use ventilation wisely. Research shows that using extractor fans in kitchens significantly lowers CO levels. When cooking or using open fireplaces, wood-burning stoves, or other fuel-burning appliances, ensure you have adequate ventilation. The same applies if you are using a generator or turning on vehicles in an enclosed space.",
+                "tag": "p"
+            },
+            {
+                "content": "Service your appliances annually. Have all gas appliances serviced every year by a Gas Safe registered engineer and get your chimney swept annually. Don't wait until something goes wrong.",
+                "tag": "p"
+            },
+            {
+                "content": "Watch for warning signs. 'Floppy' yellow or orange flames on gas appliances instead of crisp blue ones, soot marks around appliances, or increased condensation inside windows can all indicate a problem. Don't ignore these signs.",
+                "tag": "p"
+            },
+            {
+                "content": "What should I do if I suspect CO poisoning?",
+                "tag": "h2"
+            },
+            {
+                "content": "If you think you might have carbon monoxide poisoning:",
+                "tag": "p"
+            },
+            {
+                "content": "If you think a gas appliance is leaking carbon monoxide, call the free National Gas Helpline immediately on 0800 111 999. The service is available 24 hours a day, 7 days a week.",
+                "tag": "p"
+            },
+            {
+                "content": "Every carbon monoxide death is preventable. As we head into the colder months when risk is highest, take time this week to check your CO alarms, book appliance services if they're due, and make sure everyone in your household knows the symptoms to watch for. These simple actions could save your life or the life of someone you love.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2025/11/18/how-to-protect-your-home-and-family-from-the-invisible-danger-of-carbon-monoxide/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "As the weather turns colder and we close our windows and turn on our heating, there's an invisible danger that can leak into our homes. Carbon monoxide (CO) is a colourless, odourless gas that you cannot see, smell or taste - but it can kill."
+    },
+    {
+        "title": "Protecting students' creative ideas: a new free guide\u00a0",
+        "authors": [
+            "Lauren Brobin"
+        ],
+        "posted_on": "2025-11-18T14:59:14",
+        "categories": [
+            "Schools",
+            "STEM career",
+            "Universities"
+        ],
+        "content": [
+            {
+                "content": "The\u00a0work of the\u00a0Intellectual Property Office's  (IPO) Education Team is all about bringing intellectual property\u00a0(IP)\u00a0to life for young people.\u00a0The team\u00a0creates\u00a0resources that help\u00a0teachers and educators show\u00a0young people\u00a0how to\u00a0protect\u00a0their creativity and turn their ideas into real opportunities\u00a0-\u00a0essential skills in today's digital world.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This work has never been more\u00a0timely\u00a0-\u00a0Education Team\u00a0Campaigns Manager,\u00a0Lauren,\u00a0tells us why:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "New\u00a0UK\u00a0research from Young Enterprise reveals that 81% of\u00a016\u201324-year-olds\u00a0have already\u00a0engaged\u00a0in\u00a0entrepreneurial activity,\u00a0from selling products online to running side hustles.\u00a0Our latest guide, \"Protecting Your Creativity: A Guide for Students,\"\u00a0provides\u00a0the\u00a0IP knowledge they need to safeguard their work, from school projects to potential business ventures.\u00a0The guide makes IP accessible, relevant and\u00a0curriculum-ready. It delivers the IPO's commitment to providing tools and support that inspires\u00a0innovation and creativity.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why\u00a0IP\u00a0matters in education\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Young peoples\u2019\u00a0entrepreneurial drive is thriving,\u00a0and\u00a0education can help channel it into lasting opportunities.\u00a0Whether\u00a0they\u2019re\u00a0creating products for design and technology coursework, coding apps in computer science or developing photography portfolios, these projects often become the foundation for real ventures. Young people are generating valuable IP long before they enter the workplace. But do they know how to protect it?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Well, some do, and the results speak for themselves.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When 15-year-old Ruth Amos created an innovative stair handle for her GCSE Design & Technology project, she\u00a0didn't\u00a0just get a good mark. She protected her invention with a patent and built a successful business that now helps thousands of people. Her\u00a0full\u00a0story\u00a0(available in the new guide)\u00a0shows what's possible when young people understand IP.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But Ruth's story\u00a0isn't\u00a0common enough. Most students\u00a0don't\u00a0realise their creative work has value or that they can protect it.\u00a0That's\u00a0the gap our new guide \"Protecting Your Creativity\" aims to fill\u00a0-\u00a0helping to unlock the entrepreneurial potential that clearly exists in this generation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What makes this guide different\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The team has\u00a0written this guide specifically for young people aged 11+. No legal jargon, no complicated explanations, just clear, practical guidance on protecting their work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The guide covers everything from copyright (protecting\u00a0art,\u00a0music\u00a0and writing) to patents (which protected Ruth's invention),\u00a0trade marks\u00a0(think brand logos) and design rights. Each section uses real examples students can relate to.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It's\u00a0already supporting\u00a0the\u00a0curriculum\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Those who\u00a0teach GCSE Digital Technology or Computer Science\u00a0will\u00a0know\u00a0that\u00a0students need to understand the Copyright Act 1988, licensing requirements, and IP laws. The\u00a0guide addresses those requirements directly, while\u00a0also supporting learning in\u00a0art,\u00a0business\u00a0studies,\u00a0music and more.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Jason Cates, Subject Officer for Design & Technology at WJEC\u00a0(Wales\u2019\u00a0largest awarding body for education qualifications)\u00a0told\u00a0us:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Students learn practical skills like:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\n\nhow to document and protect their original work\u00a0\nunderstanding when they need permission to use others' content\u00a0\nrecognising opportunities to turn creative projects into income\u00a0\nnavigating digital content sharing responsibly.\u00a0\n\n\nHow to access the guide\nWhether you work with young people, know\u00a0a\u00a0budding entrepreneur or want to share IP knowledge, you can access\u00a0the guide today.\u00a0It is\u00a0freely available in English, with a Welsh version coming soon,\u00a0along with other teaching\u00a0resources.\u00a0You can\u00a0download\u00a0the guide\u00a0at\u00a0Cracking Ideas, found amongst the IPO's online\u00a0support tools (www.ipo.gov.uk/ip-support).\u00a0You'll\u00a0need to register for a free account to access\u00a0the\u00a0IP\u00a0tools and resources, but registration only takes a few minutes.\u00a0\n\nStay informed\u00a0about IP education resources\u00a0\nWhy not subscribe to\u00a0our\u00a0\u2018IP in Education\u2019\u00a0newsletter\u00a0topic?\u00a0You'll\u00a0be first to hear about new\u00a0educational\u00a0opportunities and resources as they become available.\u00a0Subscribe\u00a0to ensure you\u00a0don't\u00a0miss future guides,\u00a0learning\u00a0materials and\u00a0competitions\u00a0that can help inspire the next generation of creators,\u00a0innovators\u00a0and entrepreneurs.\u00a0\nYour next Ruth Amos might already be sitting in your classroom.\u00a0\n\n",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/11/18/protecting-your-students-creative-ideas-a-new-free-guide/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "Our latest guide, \"Protecting Your Creativity: A Guide for Students,\"\u00a0provides\u00a0the\u00a0IP knowledge students need to safeguard their work, from school projects to potential business ventures.\u00a0Learn more about the guide in this blog."
+    },
+    {
+        "title": "The importance of accurate GTIN and 2D barcode data in the modern healthcare environment",
+        "authors": [
+            "Himal Makwana"
+        ],
+        "posted_on": "2025-11-18T14:38:53",
+        "categories": [
+            "Automation",
+            "Global Trade Item Numbers"
+        ],
+        "content": [
+            {
+                "content": "The use of automation in healthcare is helping transform how patient care is delivered and robotic dispensing systems and barcode verification are now widespread amongst pharmacy operations across both primary and secondary environments, aiming to reduce human error and improve efficiency. However, these systems rely entirely on the accuracy of the data printed on medicinal products, specifically the Global Trade Item Number (GTIN) and the 2D GSI DataMatrix barcode, which encodes the GTIN, batch number, and expiry date. As with many automated processes, when this data is incorrect, incomplete, or poorly formatted, the outcomes are more than just an inconvenience. It can directly lead to delays, dispensing errors, stock rejection, and most seriously, patient harm.",
+                "tag": "p"
+            },
+            {
+                "content": "Robotic dispensing systems and barcode scanning are used to identify medicines accurately, automate storage and retrieval, verify expiry dates and batch numbers, ensure the right product reaches the right patient (including automated dispensing or specific checks of the products due to administered on hospital wards) and this process is only as safe as the data it relies on. Incorrect or inconsistent barcode data causes these systems to fail. Examples of recent issues reported by healthcare professionals include:",
+                "tag": "p"
+            },
+            {
+                "content": "These errors often result in stock being quarantined or completely discarded, or untimely manual workarounds that reintroduce human error into an otherwise safe system.",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst the use of GTINs and 2D barcodes has been well understood throughout the supply chain, the implications are far more serious than logistical inconvenience. The Defective Medicines Report Centre have seen an increase in these artwork errors, which have a real world consequence on patient safety. The potential for administration of incorrect medicines and missed doses due to stock rejection or delays have led to preventable harms, which should be avoidable by the robust systems that have been implemented. This can lead to reduced trust in automation and reduced trust with the Marketing Authorisation Holder (MAH).",
+                "tag": "p"
+            },
+            {
+                "content": "The MAH is responsible for ensuring that the artwork and encoded data on a medicine pack is accurate, compliant, and aligned with regulatory and operational standards. While the MHRA recognises that there is currently limited legislation in relation to the standardisation of this data, the following points can be used to ensure that all patient safety risks are mitigated as effectively as possible. The MAH should:",
+                "tag": "p"
+            },
+            {
+                "content": "As healthcare providers expand their use of robotic dispensing, ePMA (electronic prescribing and medicines administration, hub and spoke models), and closed-loop medication systems, barcode integrity is central to safety and efficiency. However, beyond compliance, this is a matter of patient trust. Every unreadable or incorrect barcode risks breaking the chain of safety that patients and healthcare providers are now dependent upon.",
+                "tag": "p"
+            },
+            {
+                "content": "See further information and contact details for the Defective medicines reporting centre (DMRC):",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhrainspectorate.blog.gov.uk/2025/11/18/the-importance-of-accurate-gtin-and-2d-barcode-data-in-the-modern-healthcare-environment/",
+        "blog": "MHRA Inspectorate",
+        "blog_link": "https://mhrainspectorate.blog.gov.uk",
+        "description": "The use of automation in healthcare is helping transform how patient care is delivered and robotic dispensing systems and barcode verification are now widespread amongst pharmacy operations across both primary and secondary environments, aiming to reduce human error and improve \u2026"
+    },
+    {
+        "title": "Routes to overseas markets and the role of agri-food attach\u00e9s\u00a0",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2025-11-18T14:13:36",
+        "categories": [
+            "Farming across the UK"
+        ],
+        "content": [
+            {
+                "content": "Defra\u2019s network of agri-food attach\u00e9s helps UK farmers and food producers get their products onto international shelves and grow their businesses overseas.",
+                "tag": "p"
+            },
+            {
+                "content": "Based in British embassies and consulates, the attach\u00e9s open new markets, keep existing ones accessible, promote UK food and drink abroad, and guide businesses through export requirements.",
+                "tag": "p"
+            },
+            {
+                "content": "Their work creates new opportunities for farmers and strengthens the reputation of British produce for quality, sustainability and high standards.",
+                "tag": "p"
+            },
+            {
+                "content": "In this post, we explain what they do and include links for those looking to expand their international sales and find the best markets for their products.",
+                "tag": "p"
+            },
+            {
+                "content": "What the attach\u00e9s do",
+                "tag": "h2"
+            },
+            {
+                "content": "We currently have 16 agri-food attach\u00e9s covering the following locations: ",
+                "tag": "p"
+            },
+            {
+                "content": "They work closely with colleagues across Defra, the Department for Business and Trade, the Foreign, Commonwealth and Development Office, and industry partners to open and protect markets for British producers.",
+                "tag": "p"
+            },
+            {
+                "content": "So far this year, the attach\u00e9s have helped resolve 41 agri-food market access barriers worth nearly \u00a3100 million a year, according to industry estimates. ",
+                "tag": "p"
+            },
+            {
+                "content": "Last year, Defra resolved more than a barrier a week for the first time, demonstrating the impact of an expanded attach\u00e9 network.",
+                "tag": "p"
+            },
+            {
+                "content": "Recent successes include securing market access for dairy to Egypt, worth \u00a335 million per year, and pork exports to Mexico, worth \u00a33.8 million per year.",
+                "tag": "p"
+            },
+            {
+                "content": "The attach\u00e9s also collaborate with the UK Agri-Tech Centre to showcase British innovation and sustainability to global audiences.",
+                "tag": "p"
+            },
+            {
+                "content": "They recently secured access for UK sheep and goat genetic material to Kenya\u2019s livestock market, building on earlier success in beef, bovine and poultry genetics exports. According to industry estimates, UK breeding stock now makes up about 70% of the world\u2019s poultry.",
+                "tag": "p"
+            },
+            {
+                "content": "Earlier this month, the attach\u00e9s met farmers, processors and industry bodies from across the country to discuss opportunities for the sector and further build understanding of the barriers they face.",
+                "tag": "p"
+            },
+            {
+                "content": "From mead to dairy, producers shared their experiences and insights into where UK food and drink have the potential to thrive overseas.",
+                "tag": "p"
+            },
+            {
+                "content": "These conversations ensure attach\u00e9s can represent British farming interests effectively in global markets, tackle barriers the sector faces and identify and share insights on new opportunities as they emerge.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more about growing your exports",
+                "tag": "h2"
+            },
+            {
+                "content": "If you're a farmer or food producer looking to grow your exports, we encourage you to visit the Business Growth Service. The site provides a range of tools, guidance, and support to help you sell abroad and identify the best markets for your products. ",
+                "tag": "p"
+            },
+            {
+                "content": "This includes access to the UK Export Academy, a free training programme designed to help UK businesses expand their international sales.",
+                "tag": "p"
+            },
+            {
+                "content": "By combining the expertise of Defra\u2019s agri-food attach\u00e9s with the resources available through the Business Growth Service, we hope UK producers can navigate export requirements, overcome barriers, and make the most of opportunities in global markets.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2025/11/18/routes-to-overseas-markets-and-the-role-of-agri-food-attaches/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Defra\u2019s network of agri-food attach\u00e9s helps UK farmers and food producers get their products onto international shelves and grow their businesses overseas. In this post, we explain what they do and include links for those looking to expand their international sales and find the best markets for their products."
+    },
+    {
+        "title": "Testing new planning data specifications with industry: 5 pilot partnerships paving the way\u00a0",
+        "authors": [
+            "Rafael Garcia, Vendor Relations and Market Strategy Lead, Digital Planning team"
+        ],
+        "posted_on": "2025-11-18T11:54:18",
+        "categories": [
+            "Data",
+            "Digital Planning"
+        ],
+        "content": [
+            {
+                "content": "Faster and more efficient planning relies on open, accessible and trustworthy planning data. But data alone is not enough. Councils, planning applicants and the software providers supporting both in our planning system, need an agreed standard for how the information they exchange can be\u00a0structured. This will help improve certainty for all parties and enable modern, digital systems to\u00a0talk to each other and empower better decision making. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Data standards are emerging through the Digital Planning programme\u2019s work with the data standards community. Significant progress has been made on planning application submissions, with draft specifications now at pilot stage and work is beginning on standardising how decisions are recorded. But how will these specifications work with core planning software systems used by local authorities? What will development management services look like once these standards are introduced? And what support might technology companies need to prepare for the transition and plan for wide customer rollout?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To answer these questions, we\u2019re funding 5 pilot projects representing the main back-office planning systems used by local planning authorities across England to process planning applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The pilot partnerships\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "All projects are led by local planning authorities, who understand the importance of modernising digital planning services to better serve their communities, each paired with a key software supplier:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These partnerships cover a range of locations and system types, to give us broad insight into how the standards will perform in different contexts. The Planning Portal is also participating in this work. Updates will be shared widely including with the with data standards community.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This work is critical to help the standards mature from design discussions to real life applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A phased approach\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The 5 pilots have structured the work into 3 phases: analysis, testing and preparation for transition.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During the analysis phase, the aim is to assess the impact of proposed specifications on current technology and processes. As part of this, the project teams are working together to identify potential challenges and explore how these might be addressed in collaboration with the data standards community.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We want to make the entire planning application and permission process data rich through standardisation. We are identifying the minimum viable set of standards needed to create a data-rich ecosystem without disrupting existing processes.\u00a0\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the\u00a0testing phase\u00a0suppliers and planning teams will see proposed changes materialise and build the evidence and knowledge needed that other Local Planning Authorities can learn from to upgrade their own planning software and IT systems in future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The final phase of these projects, expected in early 2026, will see the projects consolidate these learnings so they can be made accessible to all. Software suppliers will also use what they\u2019ve learned to plan support for their customer base.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing for data standards adoption\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The work we\u2019re doing now is helping the industry prepare for changes needed to comply with emerging data standards due to be introduced by the Ministry of Housing, Communities and Local Government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This work will make it easier for planning officers to access consistent, high-quality information, and for applicants and communities to see clearer, more transparent decisions. Over time, open and standardised data will support more modular, interoperable and responsive planning services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Active participation by different parties in community discussions has made a significant contribution. When government and stakeholders work towards a common goal, it becomes far more achievable.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Join the data standards community if you want to help shape the planning applications data specifications.\u00a0You can sign up and find information, updates and relevant links about this work on the planning applications submissions project homepage.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/11/18/testing-new-planning-data-specifications-with-industry-5-pilot-partnerships-paving-the-way/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Modernising planning relies on standardised data that enables digital systems to communicate effectively. The Digital Planning programme is funding 5 pilot projects with local authorities and software suppliers to test emerging data standards for planning applications. Read about how these partnerships will help create more transparent and efficient planning services across England."
+    },
+    {
+        "title": "How MHCLG is Delivering for the British Public",
+        "authors": [
+            "Joanna Key"
+        ],
+        "posted_on": "2025-11-18T10:47:32",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "In the first of our new series spotlighting civil servants driving the government\u2019s Plan for Change, we meet the woman tasked with delivering more homes than Britain has built in half a century. Joanna Key of Ministry of Housing, Communities and Local Government explains why planning reform, a \u00a339bn investment and making YIMBYs cool are all part of her mission to get 1.5 homes built this Parliament.",
+                "tag": "p"
+            },
+            {
+                "content": "Name: Joanna Key",
+                "tag": "p"
+            },
+            {
+                "content": "Role: Director General for Regeneration, Housing and Planning",
+                "tag": "p"
+            },
+            {
+                "content": "Department: Ministry of Housing, Communities and Local Government (MHCLG)",
+                "tag": "p"
+            },
+            {
+                "content": "If you had to explain what your mission is about to a member of the public in a lift in 30 seconds, what would you say?",
+                "tag": "p"
+            },
+            {
+                "content": "This is the mission to build 1.5 million homes over this parliament. That\u2019s a 50% increase on the million homes we built during the last parliament, and would take housebuilding back to levels not seen for more than 50 years. Delivering on this is essential to ensuring everyone has a safe, affordable and decent home.",
+                "tag": "p"
+            },
+            {
+                "content": "Practically, what has actually been achieved on this goal since it began?",
+                "tag": "p"
+            },
+            {
+                "content": "Last year we made a great start by delivering a major reform of the planning system which the OBR say will take housebuilding to its highest level in 40 years. At the Spending Review, we announced historic investment: A new 10-year, \u00a339bn Social and Affordable Homes Programme, delivering around 300,000 social and affordable homes over its lifetime.",
+                "tag": "p"
+            },
+            {
+                "content": "Our landmark Planning and Infrastructure Bill will also shortly receive Royal Assent, speeding up and streamlining the delivery of new homes and critical infrastructure.",
+                "tag": "p"
+            },
+            {
+                "content": "Next year, we will launch a new National Housing Bank to unlock private investment into house building and help build over 500,000 homes.",
+                "tag": "p"
+            },
+            {
+                "content": "What's the one moment in the past three months that made you think, \"This is why I do this job\"?",
+                "tag": "p"
+            },
+            {
+                "content": "There have been many moments, as I feel very privileged to do this job, but in the last few weeks, we have announced two very important milestones.",
+                "tag": "p"
+            },
+            {
+                "content": "First, Awaab\u2019s Law came into effect, protecting social housing tenants from health hazards like damp and mould. It\u2019s named after Awaab Ishak, a small boy who sadly died after his health became exacerbated by his living conditions. I hope we\u2019ve made it very difficult for anything like that to occur again.",
+                "tag": "p"
+            },
+            {
+                "content": "We also saw Royal Assent to the Renters\u2019 Rights Bill, which will prevent landlords evicting private tenants without reason. Our hope is that this brings more stability and certainty for millions of people in the private rented sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Name one barrier standing between you and your goal \u2013 and\u00a0 how are you smashing through it?",
+                "tag": "p"
+            },
+            {
+                "content": "Maybe the trickiest thing about the 1.5m homes milestone is timelines. It can take years to build a home, so we need to speed up every part of the delivery chain.",
+                "tag": "p"
+            },
+            {
+                "content": "Our New Homes Accelerator is removing delivery blockers and has sped up the delivery of almost 100,000 homes. Our planning reforms are speeding up processes and increasing certainty for developers.",
+                "tag": "p"
+            },
+            {
+                "content": "What's your biggest win that nobody's talking about yet, but should be shouting from the rooftops?",
+                "tag": "p"
+            },
+            {
+                "content": "I think maybe.... we\u2019ve made it cooler to be a YIMBY! (Yes In My Backyard!)",
+                "tag": "p"
+            },
+            {
+                "content": "What's the biggest myth about your delivery area, you'd love to bust right now?",
+                "tag": "p"
+            },
+            {
+                "content": "Data shows most people think that around 70-80% of England is developed land. In fact, it\u2019s around 9% - smaller than the Green Belt designation, which covers about 13% of land in England.",
+                "tag": "p"
+            },
+            {
+                "content": "This weekly series runs from 10 November to 15 December, where we quiz senior leaders on their department\u2019s goals, what progress they\u2019re making, and the challenges they face.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://civilservice.blog.gov.uk/2025/11/18/how-mhclg-is-delivering-for-the-british-public/",
+        "blog": "Civil Service",
+        "blog_link": "https://civilservice.blog.gov.uk",
+        "description": "In the first of our new series spotlighting civil servants driving the government\u2019s Plan for Change, we meet the woman tasked with delivering more homes than Britain has built in half a century. Joanna Key of Ministry of Housing, Communities \u2026"
+    },
+    {
+        "title": "What our external data discovery taught us about data processing, sharing and retention",
+        "authors": [
+            "Anthony Love, Chief Data Architect"
+        ],
+        "posted_on": "2025-11-18T10:22:45",
+        "categories": [
+            "Professions"
+        ],
+        "content": [
+            {
+                "content": "Anthony Love",
+                "tag": "h3"
+            },
+            {
+                "content": "This blog continues our series exploring insights from a recent research project, involving 15 organisations across the civil service, private sector and charity sector. The project explored how large, complex organisations approach development of data strategies \u2013 their ambitions, challenges and practical choices.",
+                "tag": "p"
+            },
+            {
+                "content": "In this post, we focus on what we learned about data processing, sharing and retention, and how these compare to our own approach at DBT.",
+                "tag": "p"
+            },
+            {
+                "content": "Why focus on data processing, sharing and retention?",
+                "tag": "h2"
+            },
+            {
+                "content": "Let\u2019s start with some definitions:",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these areas combine technical and non-technical approaches that are critical to how we use data at DBT.",
+                "tag": "p"
+            },
+            {
+                "content": "What's our context?",
+                "tag": "h2"
+            },
+            {
+                "content": "As Soumaya and Michal highlighted in their blog about building better data platforms, at DBT we already have established tools and infrastructure for processing data. As a rule, our systems don\u2019t tend to process high volumes of real-time data. Instead, our focus to date has been on quality, and on bringing diverse datasets together to gain new insights and better support UK businesses.",
+                "tag": "p"
+            },
+            {
+                "content": "However, data volumes are growing. We\u2019ve seen this first hand in our digital and data services over the past few years. This gives us new challenges for efficiency, scale and performance.",
+                "tag": "p"
+            },
+            {
+                "content": "There is also a clear and continuing ambition to make better use of shared government data, and of course, to use data to enable AI and other innovation.",
+                "tag": "p"
+            },
+            {
+                "content": "What did we discover?",
+                "tag": "h2"
+            },
+            {
+                "content": "Our data discovery looked at a wide mix of public- and private-sector organisations, but we found a few recurring themes.",
+                "tag": "p"
+            },
+            {
+                "content": "To centralise or not to centralise?",
+                "tag": "h3"
+            },
+            {
+                "content": "Many of the organisations we spoke to began with a centralised approach to processing data. DBT has followed a similar path through our central data platform, Data Workspace. However, we observed a clear move towards decentralisation, particularly in more mature data organisations.",
+                "tag": "p"
+            },
+            {
+                "content": "This makes sense \u2013 putting data in the hands of the people who know it best \u2013 but it can lead to inconsistencies in how data is processed and shared. We saw a wide variety of data ingestion approaches.\u00a0 These ranged from using advanced tools like Apache Airflow or Kafka, to Secure File Transfer Protocol (SFTP) or even bulk-uploading spreadsheets.",
+                "tag": "p"
+            },
+            {
+                "content": "For DBT, we have established a relatively consistent approach in how we ingest, process and transform data. The challenge is: how can we enable decentralisation while keeping things consistent?",
+                "tag": "p"
+            },
+            {
+                "content": "Sharing and making data interoperable",
+                "tag": "h3"
+            },
+            {
+                "content": "Data sharing was a key theme for the public sector organisations. The private sector organisations focused more on interoperability \u2013 especially those with a complex technology landscape and a multi-cloud approach.",
+                "tag": "p"
+            },
+            {
+                "content": "Public sector teams recognised the value of data sharing but were often constrained by the technology available to them. There was strong recognition that manual bulk data sharing should be avoided, in favour of access to data through automated Application Programming Interfaces (APIs). However, there is not always an easy way to get there.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThere is no standard way of sharing data\u201d - quote from a public sector participant",
+                "tag": "p"
+            },
+            {
+                "content": "Could we think of government as a single multi-cloud, multi-approach organisation? Might this help us to take a more holistic approach to accessing, sharing and using our data?",
+                "tag": "p"
+            },
+            {
+                "content": "Data retention",
+                "tag": "h3"
+            },
+            {
+                "content": "Data retention was not a primary focus for many of the teams we spoke to, often because it sits with adjacent teams in data protection or knowledge and information management. Still, we found that retention practices vary significantly across government and that teams are keen to improve consistency.",
+                "tag": "p"
+            },
+            {
+                "content": "Fortunately, DBT is a relatively young organisation and does not hold large volumes of legacy data. Nonetheless, we face the same challenge of applying consistent data retention practices. The discovery helped us connect with potential collaborators and learn from their experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "At a crossroads - where next?",
+                "tag": "h2"
+            },
+            {
+                "content": "Our discovery also highlighted opportunities for DBT. One promising solution for improving data sharing between public sector organisations is X-Road - an open-source solution that offers secure, real-time exchange of data via APIs. This could address many of the usual technology and governance barriers to data sharing.",
+                "tag": "p"
+            },
+            {
+                "content": "By exploring how other governments around the world are using X-Road, we gained insight on how it - or a similar technology - might work for DBT. Success would depend on clear coordination between departments, established API gateways, shared standards and secure access controls.",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "It was reassuring to hear that other organisations like ours are facing the same issues and great to uncover some of the pros and cons of different approaches to data processing, sharing and retention. It gave us some exciting food for thought as we plan our next steps.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2025/11/18/what-our-external-data-discovery-taught-us-about-data-processing-sharing-and-retention/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "Some of the insights and opportunities we uncovered that are critical to how we use data at DBT."
+    },
+    {
+        "title": "Leading\u00a0the\u00a0way: National Estate for Nature agrees shared objectives to accelerate nature recovery",
+        "authors": [
+            "Louisa Willows"
+        ],
+        "posted_on": "2025-11-18T10:08:42",
+        "categories": [
+            "Land use",
+            "Nature"
+        ],
+        "content": [
+            {
+                "content": "The\u00a0National Estate for Nature (NEN)\u00a0group\u00a0has taken\u00a0an important step\u00a0forward in its mission to drive nature recovery across England\u2019s major estates.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On\u00a014 October,\u00a0the group of\u00a0major\u00a0landowners\u00a0\u2013\u00a0who collectively manage one tenth of\u00a0England\u2019s land\u00a0-\u00a0took\u00a0a decisive step forward\u00a0by\u00a0agreeing\u00a0its\u00a0terms of\u00a0reference\u00a0and\u00a0affirming\u00a0their shared commitment to collaborative action and national leadership.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Formed\u00a0this year, the NEN brings together major landowners from government, private estates and the third sector to work towards the\u00a0terrestrial\u00a0Environment Act targets and 30by30. Together, these organisations\u00a0are\u00a0uniquely positioned\u00a0to deliver nature recovery at scale.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Setting shared\u00a0objectives\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Members have agreed to hold\u00a0each\u00a0other\u00a0accountable, tackle operational challenges together, and provide clear routes for other landowners to replicate successful\u00a0strategies, helping to scale up nature recovery across England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To\u00a0ensure a shared foundation,\u00a0members\u00a0have agreed\u00a0a minimum standard on their\u00a0estate.\u00a0This includes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All\u00a0members\u00a0are planning to have\u00a0estate management plans\u00a0available for\u00a0publication\u00a0by April 2026.\u00a0These\u00a0plans will provide a clear picture of land use and set measurable targets for nature recovery, creating transparency and accountability, as well as consistency.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Plans\u00a0will also enable better coordination across landscapes, helping to\u00a0identify\u00a0opportunities for\u00a0unified action\u00a0and ensuring progress towards national environmental goals.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building collaboration and leadership\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The NEN is designed to foster\u00a0cooperation and\u00a0partnerships\u00a0\u2013 exchanging evidence, tackling barriers, and\u00a0providing\u00a0practical advice to other landowners.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This collective effort will help achieve landscape-scale change and support wider priorities such as food security and economic resilience.\u00a0Read members key thoughts below:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe NEN is taking shape and has potential to really show national leadership by estates, both public and private, working collaboratively to achieve amazing outcomes for nature.\u201d\u00a0John Varley,\u00a0Chief Executive,\u00a0Clinton Devon Estates\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe productive, sustainably managed forests cared for by Forestry England have\u00a0an important role\u00a0to play in restoring nature, providing people places to be active outdoors, and are a vital source of domestic timber. Now the Terms of Reference\u00a0is in place for the NEN, we can move at pace through collaborative, joint action with others for nature recovery across landscapes.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mike Seddon,\u00a0Chief Executive,\u00a0Forestry England\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Agreeing\u00a0the\u00a0terms of\u00a0reference\u00a0and\u00a0its\u00a0minimum\u00a0standard is just the starting point.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Group\u00a0intends to\u00a0raise collective ambition\u00a0for nature recovery,\u00a0working together to define what that\u00a0means\u00a0in reality\u00a0and\u00a0ensure it reflects\u00a0evolving best practice, policy\u00a0developments\u00a0and environmental needs.",
+                "tag": "p"
+            },
+            {
+                "content": "By sharing learning and tackling barriers together, the NEN aims to act as a catalyst for innovation and collaboration that\u00a0accelerates nature\u2019s recovery across England, contributing to the\u00a0restoration of\u00a0nature\u00a0and\u00a0vital\u00a0landscapes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more details and to read the\u00a0terms of\u00a0reference, visit\u00a0the\u00a0National Estate for Nature on GOV.UK.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2025/11/18/leading-the-way-national-estate-for-nature-agrees-shared-objectives-to-accelerate-nature-recovery/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "The\u00a0National Estate for Nature group\u00a0has taken\u00a0an important step\u00a0forward in its mission to drive nature recovery across England\u2019s major estates.\u00a0Read this post to find out more."
+    },
+    {
+        "title": "Launch of \u2018East Marine Plan development engagement\u2019 summary report\u00a0",
+        "authors": [
+            "Rosie Bailey, Marine Planner"
+        ],
+        "posted_on": "2025-11-18T09:23:40",
+        "categories": [
+            "marine planning"
+        ],
+        "content": [
+            {
+                "content": "The Marine Planning Team have published the \u2018East Marine Plan development engagement summary report\u2019 concluding this period of engagement.",
+                "tag": "p"
+            },
+            {
+                "content": "What does the report say?",
+                "tag": "p"
+            },
+            {
+                "content": "The report details stakeholder insights on drafted plan policies and spatial prescription opportunities for the East Marine Plan. Stakeholders were very knowledgeable and engaged, providing their perspectives on all drafted policies which are detailed within the report.",
+                "tag": "p"
+            },
+            {
+                "content": "The Marine Management Organisation (MMO) conducted three in-person events in Norwich, King\u2019s Lynn, and Hull, two online sessions for external stakeholders and two online sessions for MMO colleagues. The events took place in the period from 16 September - 08 October.",
+                "tag": "p"
+            },
+            {
+                "content": "Why are England\u2019s East Marine Plans being replaced?",
+                "tag": "p"
+            },
+            {
+                "content": "In 2023, the Secretary of State for Environment, Food and Rural Affairs agreed with the Marine Management Organisation\u2019s recommendation to replace the East Inshore and East Offshore Marine Plans. The adopted East Inshore and East Offshore Marine Plans will be replaced with a new \u2018East Marine Plan\u2019 which will be the first of a second generation of plans for English waters. The new document will be referred to as the \u2018East Marine Plan\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "The first stage of plan development was the East Marine Plan Statement of Public Participation, which was published in April 2024, updated in April 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "The east marine plan area consists of the east inshore and the east offshore marine plan areas. The east inshore marine plan area stretches from mean high water springs to 12 nautical miles offshore along the coastline between Flamborough Head and Felixstowe. The east offshore marine plan area extends from the outer boundary of the east inshore area to England\u2019s maritime borders with the Netherlands, Belgium, and France.",
+                "tag": "p"
+            },
+            {
+                "content": "Stakeholder input and collaboration is vital through all stages of developing and shaping the new East Marine Plan. The new policies in the plan will affect all stakeholders operating in the east marine plan areas.",
+                "tag": "p"
+            },
+            {
+                "content": "Marine Planning",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to receive regular updates from the Marine Planning Team, please sign up to our newsletter.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any questions, please do not hesitate to contact the team at planning@marinemanagement.org.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2025/11/18/launch-of-east-marine-plan-development-engagement-summary-report/",
+        "blog": "Marine Development Blog",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "The Marine Planning Team have published the \u2018East Marine Plan development engagement summary report\u2019 concluding this period of engagement. What does the report say? The report details stakeholder insights on drafted plan policies and spatial prescription opportunities for the East \u2026"
+    },
+    {
+        "title": "Accelerating Investment Export Pathway: Supporting UK Space SMEs Reach Global Markets",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-11-18T09:00:00",
+        "categories": [
+            "Catalysing Investment"
+        ],
+        "content": [
+            {
+                "content": "The UK Space Agency has launched the Accelerating Investment Export Pathway (AIEP), a new pilot programme designed to help early-stage space businesses prepare for international growth and become export-ready.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The UK\u2019s space sector is thriving, generating \u00a318.9 billion and supporting over 55,000 jobs. But for many early-stage businesses, breaking into international markets can be challenging. The Accelerating Investment Export Pathway aims to change that by helping high-potential UK space SMEs overcome barriers to international expansion and make the most of global opportunities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Antonia Yendell, Head of the Space Ecosystem team at the UK Space Agency, said:",
+                "tag": "p"
+            },
+            {
+                "content": "Joshua Broom, Head of Space for the Department for Business and Trade, added:",
+                "tag": "p"
+            },
+            {
+                "content": "Helping UK space innovators go global",
+                "tag": "h2"
+            },
+            {
+                "content": "Funded by the UK Space Agency as part of the wider Space Ecosystem Development strategy, this pilot initiative is designed to help high-potential, early-stage space companies become export-ready. KPMG is pleased to be supporting the delivery of the UK Space Agency Accelerating Investment Export Pathway programme, which is a practical response to the challenges SMEs face when navigating the complexities of global trade. For many businesses, engagement with government export opportunities is the natural next step in their scale up journey but often they find that they aren\u2019t quite ready - sometimes lacking the skills, knowledge, or confidence to take the leap.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The programme will offer targeted support and training to upskill up to ten ambitious businesses, ensuring they are prepared to access the wealth of opportunities available through the Department for Business and Trade (DBT).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through a combination of in-person and online workshops, delivered by technical experts and international market specialists, participants will gain targeted training on export readiness and global market engagement.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the programme offers",
+                "tag": "h2"
+            },
+            {
+                "content": "The core curriculum focuses on two main areas:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Market selection and entry strategy development\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participants will also learn to navigate overseas government procurement processes, common commercial challenges, and typical trade barriers. They will gain insights into DBT missions, including application processes, preparation, selection criteria, and readiness for participation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Foundational export readiness and capability building\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participants will also receive comprehensive course materials, including recordings and a tailored \u2018Export Guide\u2019 to support their next steps. A partially funded trade mission may be offered as part of the programme to help put learning into practice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Overall, applicants can expect a comprehensive and practical training experience, designed to help them successfully enter and compete in international space markets.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Opening new doors for UK space businesses",
+                "tag": "h2"
+            },
+            {
+                "content": "Supporting the international growth of our space sector is not just about numbers on a balance sheet - it\u2019s about championing British innovation, creating new jobs, and driving sustainable economic growth. By helping SMEs break into global markets, the Accelerating Investment Export Pathway is not just opening doors - it\u2019s presenting a universe of possibilities.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to apply",
+                "tag": "h2"
+            },
+            {
+                "content": "If you are an early-stage UK space business looking to scale internationally, applications for the Accelerating Investment Export Pathway are now open.",
+                "tag": "p"
+            },
+            {
+                "content": "Apply here.",
+                "tag": "p"
+            },
+            {
+                "content": "Spaces are limited, so we encourage interested businesses to apply as soon as possible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The sky is no longer the limit - it\u2019s the launchpad.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/11/18/accelerating-investment-export-pathway-supporting-uk-space-smes-reach-global-markets/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "The UK Space Agency has launched the Accelerating Investment Export Pathway, a new pilot programme designed to help early-stage space businesses prepare for international growth and become export-ready."
+    },
+    {
+        "title": "Help beat the eight-toothed spruce bark beetle through proactive woodland management",
+        "authors": [
+            "Fred Toft"
+        ],
+        "posted_on": "2025-11-18T09:00:00",
+        "categories": [
+            "Tree health",
+            "Woodland management"
+        ],
+        "content": [
+            {
+                "content": "As a woodland owner, staying informed about threats to your trees is crucial for maintaining healthy forests and protecting your investment. One pest you need to know about is Ips typographus, commonly known as the eight-toothed spruce bark beetle. This beetle represents a significant threat to spruce trees across Great Britain.",
+                "tag": "p"
+            },
+            {
+                "content": "About Ips typographus",
+                "tag": "h2"
+            },
+            {
+                "content": "Ips typographus is classified as a quarantine pest in the UK, meaning we're legally obligated to act against any findings to prevent its establishment. This beetle specifically targets spruce tree species and could have devastating effects on our forestry sector if it becomes established.",
+                "tag": "p"
+            },
+            {
+                "content": "The numbers speak for themselves: spruce makes up 60% of the conifer crop across Great Britain, with a total estimated value of \u00a32.9 billion per annum, supporting thousands of jobs across the country.1 This includes economic, social and environmental benefits, with around \u00a3350 million annually coming from timber revenue alone.2",
+                "tag": "p"
+            },
+            {
+                "content": "How the beetle arrived in the UK",
+                "tag": "h2"
+            },
+            {
+                "content": "Evidence shows that outbreaks since 2018 have resulted from natural dispersal \u2013 essentially, beetles being blown over by the wind from continental Europe, where the pest is native, during favourable weather conditions. There's currently no evidence of the pest spreading within the UK or impacting healthy spruce trees domestically.",
+                "tag": "p"
+            },
+            {
+                "content": "Using extensive pheromone trap networks across France, Belgium and England, scientists have managed to track the beetles\u2019 movements. They observed a clear pattern in the Ardenne region, where the number of beetles decrease the further you are away from outbreak hotspots. This confirms that cross-channel aerial dispersal is indeed a viable pathway for this pest invasion.3",
+                "tag": "p"
+            },
+            {
+                "content": "The team are also exploring methods to trap the beetles at varying altitudes using aircraft and helium balloons. This will help to understand how far the species can travel using wind-assisted dispersal.",
+                "tag": "p"
+            },
+            {
+                "content": "Weather conditions increase risk",
+                "tag": "h2"
+            },
+            {
+                "content": "Recent extreme weather patterns have created concerning conditions for spruce trees in south-eastern and eastern England. The combination of heavy rain and waterlogging throughout 2024, followed by the driest spring in 69 years, are considered to be key causes for putting lowland spruce on clay soils under significant stress.",
+                "tag": "p"
+            },
+            {
+                "content": "This stress is critical because it reduces resin pressure in trees \u2013 their main defence mechanism against bark beetle attack. Stressed spruce trees become vulnerable targets for Ips typographus, making vigilant monitoring and proactive management more important than ever.",
+                "tag": "p"
+            },
+            {
+                "content": "Reducing the risk of establishment",
+                "tag": "h2"
+            },
+            {
+                "content": "Collaboration across the Forestry Commission, Forest Research and the Department for Environment, Food and Rural Affairs is helping to manage and reduce the risk of Ips typographus establishing in the UK. A series of innovative methods are being used to help fight this invasive pest.",
+                "tag": "p"
+            },
+            {
+                "content": "Demarcated area and restrictions",
+                "tag": "h3"
+            },
+            {
+                "content": "To prevent establishment of Ips typographus, a demarcated area covers south-eastern and eastern England, providing robust detection and eradication measures. Within this area, restrictions apply to planting, felling, stacking and the movement of spruce material. All movement of spruce in this area is subject to inspection.",
+                "tag": "p"
+            },
+            {
+                "content": "If your woodland is in this region, we actively encourage the proactive management or removal of spruce and to replace these trees with non-susceptible tree species. This approach significantly limits the potential for the pest to establish and can protect not only your woodland but the broader forestry industry too.",
+                "tag": "p"
+            },
+            {
+                "content": "Cutting-edge surveillance and research",
+                "tag": "h3"
+            },
+            {
+                "content": "The fight against Ips typographus involves sophisticated monitoring systems. Since 2018, 62 woodland-focused aerial surveillance flights have covered over 105,000 hectares of spruce on Public Forest Estate. During the 2024/25 season alone, surveillance identified 1,200 sites requiring ground inspections \u2013 a 154% increase from the previous season.",
+                "tag": "p"
+            },
+            {
+                "content": "The demarcated area was expanded in June 2024 following the discovery of outbreaks in East Anglia. Within the expanded zone, restrictions on spruce management came into effect, prompting rapid adaptation by the forestry sector.",
+                "tag": "p"
+            },
+            {
+                "content": "As a result, there was a 143% increase in requests for authorisation inspections \u2013 a significant rise that my team, along with the wider Plant Health team, managed effectively without compromising ongoing Ips typographus surveillance or other priority pest surveys.",
+                "tag": "p"
+            },
+            {
+                "content": "Our extensive pheromone trapping network monitors over 700 locations across Great Britain, including a citizen science project with the Sylva Foundation where volunteers monitor traps on their land. From across all the pheromone trapping networks, Forest Research processed over 8,000 samples during the 2024/25 season.",
+                "tag": "p"
+            },
+            {
+                "content": "We are keen on recruiting more volunteers for the citizen science network. If you are willing to host a pheromone trap in your spruce woodland, you can join our\u00a0national monitoring project\u00a0to help prevent the potential spread of\u00a0Ips typographus.",
+                "tag": "p"
+            },
+            {
+                "content": "Innovation in detection methods",
+                "tag": "h3"
+            },
+            {
+                "content": "Exciting developments in detection technology are enhancing our capabilities to help stop the establishment of Ips typographus. Forest Research is developing prototype traps that could photograph beetles in real-time, potentially revolutionising early detection. Partners contributing to these efforts include CENSIS and the University of Cambridge.",
+                "tag": "p"
+            },
+            {
+                "content": "Detection dogs represent another innovative approach. These specially trained dogs can identify indirect scents of Ips typographus, including beetle frass (excrement or debris left by beetles) and artificial pheromones. They're currently undergoing trials and could significantly improve spruce material movement inspections within the demarcated area.",
+                "tag": "p"
+            },
+            {
+                "content": "Drone surveillance adds another layer to our monitoring capabilities, providing highly repeatable datasets to detect changes over time and to identify symptomatic trees requiring investigation.",
+                "tag": "p"
+            },
+            {
+                "content": "What you can do as a woodland owner",
+                "tag": "h2"
+            },
+            {
+                "content": "Your role in preventing establishment is crucial. Check the health of spruce trees on your land, particularly identifying stressed, recently fallen and snapped trees. Take immediate action to remove these vulnerable trees and any surrounding susceptible material by chipping, burning or debarking.",
+                "tag": "p"
+            },
+            {
+                "content": "If your woodland is based in the demarcated area and you would like to move spruce material off-site, you will need prior authorisation from the Forestry Commission.",
+                "tag": "p"
+            },
+            {
+                "content": "You can also watch our informative video: Ips typographus: beat the beetle, for practical guidance on identification and management. Look out for adult beetles in the spring and summer, when the temperature rises above 20\u00b0C. Signs to look out for include 2-3mm entrance and exit holes in the bark, and linear larval gallery systems that show in the bark and the surface of the wood.",
+                "tag": "p"
+            },
+            {
+                "content": "Remain vigilant for signs of this beetle, if you suspect you've spotted signs of Ips typographus, report it immediately using TreeAlert. You can also submit alerts if your spruce woodland shows signs of decline or stress \u2013 as we may arrange follow-up inspections.",
+                "tag": "p"
+            },
+            {
+                "content": "Financial support is available",
+                "tag": "h2"
+            },
+            {
+                "content": "Grants are available to help manage or fell spruce trees, restock woodland and maintain newly planted trees. This includes support following receipt of a Statutory Plant Health Notice, or through proactive management via the tree health pilot for removing spruce that falls within the proactive spruce removal area in south-eastern England.",
+                "tag": "p"
+            },
+            {
+                "content": "Recently we also launched the Spruce Site Assessment grant which supports woodland owners by encouraging proactive management of spruce trees to help prevent outbreaks of Ips typographus.",
+                "tag": "p"
+            },
+            {
+                "content": "This is available to landowners with spruce trees within the proactive spruce removal area, and these assessments will help with making informed decisions about proactive spruce removal on your land to mitigate future risks.",
+                "tag": "p"
+            },
+            {
+                "content": "Effective eradication of Ips typographus",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019m pleased to say that there's good news to share. We have successfully eradicated Ips typographus from all 13 outbreak sites identified in 2021. This achievement demonstrates that our policy approach and operational activities are working effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "Following the removal of spruce trees, outbreak sites are continuously monitored for three years, with extensive surveillance showing no ongoing presence of breeding beetles.",
+                "tag": "p"
+            },
+            {
+                "content": "Analysis of pheromone trap catches from these eradication sites reveals significantly lower beetle numbers compared to nearby spruce forests. This confirms successful eradication of breeding beetles at these sites.",
+                "tag": "p"
+            },
+            {
+                "content": "There is still much more work to be done. Ips typographus continues to be caught in pheromone traps even on sites without spruce, likely due to wind-assisted dispersal from the continent. Ongoing proactive management and the removal of spruce in areas vulnerable to pest incursions is essential if we are to sustain this success story.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "Current modelling suggests further incursions may occur while continental populations of the beetle remain high, and when warm, dry weather conditions are present. However, our comprehensive surveillance network, rapid response capabilities and ongoing research provide robust protection against establishment during this window of opportunity to beat the beetle.",
+                "tag": "p"
+            },
+            {
+                "content": "By working together \u2013 government agencies, researchers and woodland owners like you are continuing to protect the UK\u2019s valuable spruce forests from this significant threat. Your continued vigilance and cooperation remain essential to maintaining this success.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2025/11/18/help-beat-the-eight-toothed-spruce-bark-beetle-through-proactive-woodland-management/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Fred Toft is the Forestry Commission\u2019s Ips typographus Programme Lead within the Plant Health Forestry team. Fred shares insights into the collaborative work happening to help manage this pest, and what you can do to help."
+    },
+    {
+        "title": "Reflections on the Role of Social Workers in Safeguarding Adults",
+        "authors": [
+            "Dr Adi Cooper OBE"
+        ],
+        "posted_on": "2025-11-18T08:51:14",
+        "categories": [
+            "Care and support",
+            "Communities",
+            "Education and training",
+            "Events",
+            "Knowledge and skills",
+            "Our profession",
+            "Personalisation",
+            "Recognition",
+            "Safeguarding",
+            "Viewpoint"
+        ],
+        "content": [
+            {
+                "content": "Introduction by Sarah McClinton, Chief Social Worker for Adults",
+                "tag": "h2"
+            },
+            {
+                "content": "Reflections on the role of social workers in safeguarding adults - Dr Adi Cooper OBE",
+                "tag": "h2"
+            },
+            {
+                "content": "I remain concerned that, in adults\u2019 social services, safeguarding often remains a niche area of practice and interest \u2013 it is still not integrated across adult social care in the way that child protection is within children\u2019s social care. Yet risk is an integral part of life. We want to enable the people we work with to live their best lives, which does mean taking some risks, as we do ourselves. However, having care and support needs can affect the risks that people face in daily living \u2013 and in some cases mean that people are more vulnerable to abuse and neglect. They may be more dependent on other people who can exploit that dependency, whether through financial abuse, psychological abuse, sexual abuse, domestic violence, physical abuse, neglect and acts of omission\u2026\u2026.",
+                "tag": "p"
+            },
+            {
+                "content": "For every individual the risks they face are personal to them, their relationships, family, friends, circumstances, care and support needs, their personal histories and identities; this is why Making Safeguarding Personal remains so important. Each person is different and so the processes, practices and pathways we have for supporting people must accommodate a broad range of needs and risks. We have made huge strides and progressed a long way from the adult protection processes of the 2000s which sought to establish whether harm was \u2018substantiated\u2019 or not, rather than seeking resolution and recovery for the person involved.\u00a0Safeguarding knowledge and practices have improved considerably; the Care Act 2014 has helped to clarify and establish who is responsible for what and how, by making safeguarding enquiries a statutory duty for the first time. But there is still a long way to go; we are still at the beginning of the journey (compared to our colleagues working to safeguard children).",
+                "tag": "p"
+            },
+            {
+                "content": "What we do know from the current round of Care Quality Commission inspections of adult social care services, is that approximately 40% of local areas need some improvement in their safeguarding services \u2013 and the most common themes emerging are issues with safeguarding practice, staff (social workers) capability and confidence, as well as pathways, waiting lists and decision making. But let\u2019s be more positive, 60% are doing well.",
+                "tag": "p"
+            },
+            {
+                "content": "I would argue that social work is essential to effective safeguarding practice \u2013 as well as multi-agency working \u2013 as we need everyone\u2019s expertise (for example, as a social worker I am not able to assess whether a pressure sore is due to neglect, I would ask a Tissue Viability Nurse for advice).\u2018Safeguarding is everybody\u2019s business\u2019 of course. However, as social workers, we bring our social justice and human rights values, which are critical when balancing rights and responsibilities and dealing with ethical issues. We bring our skills in relational working, and cultural humility, which are needed in working with someone experiencing safeguarding risks to support them to reduce the risks in their life, for example where the abuser is an informal carer/family member and may be under huge stress themselves.",
+                "tag": "p"
+            },
+            {
+                "content": "We utilise our professional curiosity to find out what lies behind the surface, why someone might self-neglect, harm themselves, use drugs and alcohol to manage mental ill-health or emotional distress. We apply our legal literacy regarding mental health and mental capacity to negotiate some of the trickiest areas of social work practice, informing and directing our ability to intervene in people\u2019s lives.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We bring trauma-informed approaches, which means that we understand when someone refuses help despite being \u2018cuckooed\u2019 (home invasion), or experiencing multiple exclusion homelessness. We understand how their personal history might have led to a distrust of authority, and so we persevere and don\u2019t close a case automatically because of \u2018service refusal\u2019 or \u2018non-engagement\u2019. We don\u2019t judge or differentiate between those who are \u2018deserving\u2019 and \u2018undeserving\u2019 of our support.",
+                "tag": "p"
+            },
+            {
+                "content": "We can deal with the pain and shame that safeguarding situations inevitably contain. We understand that our colleagues who want to \u2018hand off\u2019 cases do so because they can\u2019t contain the transference of distress; this is a predictable reaction even though not necessarily the right one. We know that we need resilience to do this work and have to look after ourselves, seeking support and space for reflection, so we don\u2019t burn out from emotional overload, nor lose our ability to empathise and to care. We can be brave and courageous, advocating for people who don\u2019t fit rigid eligibility criteria. We are able to deal with complexity and chaos, messy interfaces between non-congruent legislation and policies regarding safeguarding practice, for example when working with young people (recognising the challenges of Transitional Safeguarding).",
+                "tag": "p"
+            },
+            {
+                "content": "As with all we do, we use a strengths-based approach, validating what people, their families and communities can bring to prevent or mitigate risks of abuse or neglect. We hold onto hope, even when it seems unrealistic, that people\u2019s lives can improve, and that we can make a difference. And we understand that this work is not for everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you",
+                "tag": "h2"
+            },
+            {
+                "content": "I want to use this opportunity to celebrate the wonderful work that social workers do, every day, everywhere, with people experiencing or at risk of abuse or neglect. In Safeguarding Adults Week let\u2019s take a step back and notice, acknowledge each other (because we don\u2019t often get thanked for it). This role is important. Thank you to all the social workers who are undertaking safeguarding work: \u2018working with\u2019 not \u2018doing to\u2019; helping people achieve the outcomes they want in their lives; and keeping themselves safe (because we can\u2019t be by their side 24/7), to attain whatever resolution is required and recovery from trauma is possible. You are amazing.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialworkwithadults.blog.gov.uk/2025/11/18/reflections-on-the-role-of-social-workers-in-safeguarding-adults/",
+        "blog": "Social work with adults",
+        "blog_link": "https://socialworkwithadults.blog.gov.uk",
+        "description": "Introduction by Sarah McClinton, Chief Social Worker for Adults As we welcome the start of\u00a0Safeguarding Adults Week, I am delighted that Adi Cooper has accepted our invitation to write this blog and share some of her valuable reflections on one \u2026"
+    },
+    {
+        "title": "Antimicrobial Resistance\u00a0and food: What it is and why it matters",
+        "authors": [
+            "Rick Mumford, Deputy Director, Science Evidence and Research, Deputy CSA"
+        ],
+        "posted_on": "2025-11-18T08:30:00",
+        "categories": [
+            "Science"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "Antibiotics have saved millions of lives, but what happens when they stop working? Antimicrobial resistance (AMR) is a growing threat and\u00a0it\u2019s\u00a0not just a hospital\u00a0problem;\u00a0it\u2019s\u00a0also on our plates.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This\u00a0week is\u00a0World AMR Awareness Week\u00a0(WAAW), an annual event promoted by the World Health Organisation (WHO), who recognise\u00a0AMR\u00a0as one the\u00a0top 10 threats to global public health.\u00a0Through\u00a0over,\u00a0or inappropriate,\u00a0use\u00a0of antibiotics,\u00a0bacterial and fungal pathogens (any small organism that can cause disease, such as a virus or bacterium) can develop resistance and\u00a0thus\u00a0render\u00a0treatments ineffective\u00a0over time; raising the risk that even\u00a0simple medical procedures\u00a0become more dangerous in the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the UK,\u00a0the case for\u00a0containing\u00a0and controlling AMR was presented\u00a0by the Government\u00a0in\u00a0the 20-year vision\u00a0and\u00a0delivered via\u00a0a\u00a05-year\u00a0National Action Plans\u00a0(NAP). The first action plan\u00a0ran\u00a0from 2019 until 2024\u00a0and\u00a0the\u00a0second\u00a0is\u00a0currently in progress.\u00a0The NAP approach is important because it recognises\u00a0that\u00a0AMR is a One Health issue, which can only be properly addressed\u00a0by joining up\u00a0human,\u00a0animal\u00a0and environmental health.\u00a0The role of the Food\u00a0Standards\u00a0Agency (FSA)\u00a0in the\u00a0NAP exemplifies this.\u00a0Many pathogens causing gastrointestinal illness in humans (for example, salmonella)\u00a0can carry AMR. These pathogens are\u00a0zoonotic\u00a0i.e.\u00a0originating\u00a0in animals and spreading to humans via food\u00a0or the environment.\u00a0That is why the FSA\u2019s AMR research and surveillance work is focused on understanding the risk posed by food\u00a0as a bridge between animal\u00a0sources and human infections\u00a0(a farm to fork approach).\u00a0For more information on food and AMR, you can visit the\u00a0FSA\u2019s website.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "FSA\u00a0science in action\u00a0against AMR\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The FSA has a long-standing programme of\u00a0research and surveillance focused on AMR in food, and you can find out more\u00a0on our\u00a0AMR research webpages.\u00a0Every year we support\u00a0a number of\u00a0projects through our Foodborne Disease and AMR Research\u00a0& Evidence Programme. The research priorities for this can be found in our recently expanded and published\u00a0Areas of Research Interest.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A key element\u00a0of our work is surveillance to understand\u00a0which foods might be carrying AMR pathogens. We look at\u00a0how much and of what type of resistance\u00a0is present, for example\u00a0resistance to medically\u00a0critical\u00a0antibiotics.\u00a0Recent examples include a\u00a0survey on whole head lettuce (FS900515). Ready-to-eat foods like lettuce can pose a higher risk,\u00a0if contaminated, since they are not cooked before eating and therefore any harmful bacteria present are not destroyed.\u00a0Our\u00a0survey on raw dog and cat food (FS900253)\u00a0isn't\u00a0just about pet\u00a0health;\u00a0it's\u00a0about the risk of cross-contamination onto kitchen surfaces and human hands.\u00a0These studies told us two different stories;\u00a0there is\u00a0limited evidence of AMR contamination on lettuce,\u00a0contrasted\u00a0with finding lots of pathogens and AMR on raw pet food.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In addition to\u00a0targeted\u00a0surveys, we have also been looking at how we can\u00a0carry out\u00a0foodborne pathogen and AMR surveillance better in the future, for example through increasing\u00a0the\u00a0use\u00a0of\u00a0newer\u00a0technology like Whole Genome Sequencing (WGS). A key example of\u00a0surveillance innovation was the FSA-led\u00a0PATH-SAFE programme, which generated valuable new data on AMR in the environment\u00a0and\u00a0developed new\u00a0tools and\u00a0approaches to conducting\u00a0pathogen and\u00a0AMR surveillance, such as\u00a0monitoring\u00a0wastewater from hospitals.\u00a0The FSA are\u00a0continuing\u00a0this work via\u00a0a new national Food Surveillance Programme.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This also\u00a0links to the FSA-funded\u00a0Infectious Intestinal Disease (IID3) study\u00a0designed to\u00a0ascertain\u00a0the levels and causes\u00a0of intestinal illnesses in the UK.\u00a0This\u00a0major\u00a0study,\u00a0testing over 5000 human samples\u00a0for the first time,\u00a0is also testing for AMR in the\u00a0pathogens\u00a0it finds. This will help us understand what proportion of foodborne infections are resistant to antibiotics and how big the problem really is.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You are part of the solution: The 4 Cs\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst we understand food can be a\u00a0cause\u00a0of spread for AMR into humans, there are simple things people can do to reduce\u00a0any risk.\u00a0And actually,\u00a0these\u00a0align with best practice for\u00a0food hygiene in the kitchen, namely the 4 Cs:\u00a0Cooking, Chilling,\u00a0Cleaning\u00a0and avoiding\u00a0Cross-contamination.\u00a0In the case of AMR, thorough cooking will kill the bugs carrying the resistance\u00a0and proper cleaning (hands and surfaces) after handling\u00a0(for example) raw pet food\u00a0will help prevent cross-contamination. For more advice,\u00a0go to the FSA website:\u00a0Antimicrobial resistance (AMR) | Food Standards Agency.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae gwrthfiotigau wedi achub miliynau o fywydau, ond beth sy\u2019n digwydd pan fyddan nhw\u2019n stopio gweithio? Mae ymwrthedd gwrthficrobaidd (AMR) yn fygythiad cynyddol ac nid yn unig i ysbytai; mae\u2019r bygythiad hefyd i\u2019w gael ar ein platiau ni.",
+                "tag": "p"
+            },
+            {
+                "content": "Yr wythnos hon yw Wythnos Ymwybyddiaeth AMR y Byd (WAAW), digwyddiad blynyddol sy\u2019n cael ei hyrwyddo gan Sefydliad Iechyd y Byd (WHO), sy\u2019n cydnabod ymwrthedd gwrthficrobaidd fel un o\u2019r 10 bygythiad mwyaf i iechyd y cyhoedd ar draws y byd. Drwy or-ddefnyddio gwrthfiotigau, neu eu defnyddio\u2019n amhriodol, gall pathogenau \u00a0(unrhyw organeb fach a all achosi clefyd, fel\u00a0feirws\u00a0neu facteriwm)\u00a0bacteriol a ffwngaidd ddatblygu ymwrthedd gan wneud triniaethau\u2019n aneffeithiol dros amser. Yn y dyfodol, gallai hyn olygu y bydd hyd yn oed y triniaethau meddygol symlaf yn dod yn fwy peryglus.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn y DU, cafodd yr achos dros atal a rheoli ymwrthedd gwrthficrobaidd ei gyflwyno gan y llywodraeth yn ei gweledigaeth 20 mlynedd a\u2019i gyflwyno drwy Gynllun Gweithredu Cenedlaethol pum mlynedd. Roedd cyfnod y cynllun gweithredu cyntaf rhwng 2019 a 2024, ac mae\u2019r ail gynllun ar y gweill ar hyn o bryd. Mae\u2019r dull sydd yn y Cynllun Gweithredu Cenedlaethol yn bwysig oherwydd ei fod yn cydnabod bod ymwrthedd gwrthficrobaidd yn fater Iechyd Cyfunol, ac mai\u2019r unig ffordd o fynd i\u2019r afael ag ef yn iawn yw trwy gyfuno iechyd pobl, anifeiliaid a\u2019r amgylchedd. Mae r\u00f4l yr Asiantaeth Safonau Bwyd (ASB) yn y Cynllun Gweithredu Cenedlaethol yn enghraifft o hyn. Gall llawer o bathogenau sy\u2019n achosi salwch gastroberfeddol mewn pobl (er enghraifft, salmonela) gario ymwrthedd gwrthficrobaidd. Mae\u2019r pathogenau hyn yn filheintiol, hynny yw, maen nhw\u2019n tarddu o anifeiliaid ac yn lledaenu i bobl trwy fwyd neu\u2019r amgylchedd. Dyna pam mae gwaith ymchwil a gwyliadwriaeth yr ASB mewn perthynas ag ymwrthedd gwrthficrobaidd yn canolbwyntio ar ddeall y risg a achosir gan fwyd fel pont rhwng ffynonellau anifeiliaid a heintiau dynol (dull o\u2019r fferm i\u2019r fforc). Am fwy o wybodaeth am fwyd ac ymwrthedd gwrthficrobaidd, gallwch ymweld \u00e2 gwefan yr ASB.",
+                "tag": "p"
+            },
+            {
+                "content": "Gwyddoniaeth yr ASB ar waith yn erbyn ymwrthedd gwrthficrobaidd",
+                "tag": "h4"
+            },
+            {
+                "content": "Mae gan yr ASB raglen ymchwil a gwyliadwriaeth hirsefydlog sy\u2019n canolbwyntio ar ymwrthedd gwrthficrobaidd mewn bwyd, a gallwch ddysgu mwy ar ein tudalennau gwe ymchwil ymwrthedd gwrthficrobaidd. Bob blwyddyn, rydym yn cefnogi nifer o brosiectau trwy ein Rhaglen Ymchwil a Thystiolaeth ar gyfer Clefydau a Gludir gan Fwyd ac Ymwrthedd Gwrthficrobaidd. Gellir dod o hyd i\u2019r blaenoriaethau ymchwil ar gyfer hyn yn ein meysydd o ddiddordeb ymchwil a gafodd eu hehangu a\u2019u cyhoeddi\u2019n ddiweddar.",
+                "tag": "p"
+            },
+            {
+                "content": "Elfen allweddol o\u2019n gwaith yw gwyliadwriaeth er mwyn deall pa fwydydd a allai fod yn cario pathogenau ag ymwrthedd gwrthficrobaidd. Rydym yn edrych ar faint o",
+                "tag": "p"
+            },
+            {
+                "content": "ymwrthedd sydd, a pha fath o ymwrthedd sy\u2019n bresennol, er enghraifft ymwrthedd i wrthfiotigau sy\u2019n hanfodol yn feddygol. Mae enghreifftiau diweddar yn cynnwys arolwg ar letys pen cyfan (FS900515). Gall bwydydd parod i\u2019w bwyta fel letys beri risg uwch, os ydynt wedi\u2019u halogi, gan nad ydynt yn cael eu coginio cyn eu bwyta ac felly nid yw unrhyw facteria niweidiol sy\u2019n bresennol yn cael eu dinistrio. Nid yw ein harolwg ar fwyd c\u0175n a chathod amrwd (FS900253) yn ymwneud ag iechyd anifeiliaid anwes yn unig; mae\u2019n ymwneud \u00e2\u2019r risg o groeshalogi ar arwynebau cegin a dwylo pobl. Dywedodd yr astudiaethau hyn ddwy stori wahanol wrthym; mae tystiolaeth gyfyngedig o halogiad ag ymwrthedd gwrthficrobaidd ar letys, o\u2019i gymharu \u00e2 chanfod llawer o bathogenau ac ymwrthedd gwrthficrobaidd ar fwyd anifeiliaid anwes amrwd.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn ogystal ag arolygon wedi\u2019u targedu, rydym hefyd wedi bod yn edrych ar sut y gallwn gynnal gwaith gwyliadwriaeth gwell ar bathogenau a gludir gan fwyd ac ymwrthedd gwrthficrobaidd yn y dyfodol, er enghraifft trwy gynyddu\u2019r defnydd o dechnoleg newydd fel Dilyniannu Genom Cyfan. Enghraifft allweddol o arloesi ym maes gwyliadwriaeth oedd y rhaglen PATH-SAFE dan arweiniad yr ASB, a gynhyrchodd ddata newydd gwerthfawr ar ymwrthedd gwrthficrobaidd yn yr amgylchedd ac a ddatblygodd offer a dulliau newydd o gynnal gwaith gwyliadwriaeth ar bathogenau ac ymwrthedd gwrthficrobaidd, fel monitro d\u0175r gwastraff o ysbytai. Mae\u2019r ASB yn parhau \u00e2\u2019r gwaith hwn drwy Raglen Cadw Gwyliadwriaeth ar Fwyd genedlaethol newydd.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae hyn hefyd yn cysylltu \u00e2\u2019r astudiaeth Clefydau Perfeddol Heintus (IID3) a ariannwyd gan yr ASB. Cafodd yr astudiaeth ei chynllunio i ganfod lefelau ac achosion afiechydon perfeddol yn y DU. Mae\u2019r astudiaeth fawr hon, sy\u2019n profi dros 5,000 o samplau dynol am y tro cyntaf, hefyd yn profi am ymwrthedd gwrthficrobaidd yn y pathogenau y mae\u2019n eu canfod. Bydd hyn yn ein helpu i ddeall pa gyfran o heintiau a gludir gan fwyd sy\u2019n gwrthsefyll gwrthfiotigau a pha mor fawr yw\u2019r broblem mewn gwirionedd.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydych chi\u2019n rhan o\u2019r ateb: Y pedwar hanfod hylendid bwyd",
+                "tag": "p"
+            },
+            {
+                "content": "Er ein bod yn deall y gall bwyd fod yn gyfrifol am ledaenu ymwrthedd gwrthficrobaidd ymhlith pobl, mae yna bethau syml y gellir eu gwneud i leihau unrhyw risg. Mewn gwirionedd, mae\u2019r rhain yn cyd-fynd \u00e2\u2019r arferion gorau ar gyfer hylendid bwyd yn y gegin, sef: coginio, oeri, glanhau ac atal croeshalogi. Yn achos ymwrthedd gwrthficrobaidd, bydd coginio trylwyr yn lladd yr heintiau sy\u2019n cario\u2019r ymwrthedd, a bydd glanhau dwylo ac arwynebau yn briodol ar \u00f4l trin, er enghraifft, fwyd anifeiliaid anwes amrwd yn helpu i atal croeshalogi. Am fwy o gyngor, ewch i wefan yr ASB: Ymwrthedd gwrthficrobaidd (AMR) | Asiantaeth Safonau Bwyd",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2025/11/18/antimicrobial-resistance-and-food-what-it-is-and-why-it-matters/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Cymraeg Antibiotics have saved millions of lives, but what happens when they stop working? Antimicrobial resistance (AMR) is a growing threat and\u00a0it\u2019s\u00a0not just a hospital\u00a0problem;\u00a0it\u2019s\u00a0also on our plates.\u00a0 This\u00a0week is\u00a0World AMR Awareness Week\u00a0(WAAW), an annual event promoted by the World \u2026"
+    },
+    {
         "title": "Mission Moment: From \u00a31 jabs and \u00a350m breakthrough \u2013 how we\u2019re delivering mission-led innovation",
         "authors": [
             "Alex McLaughlin"
