@@ -1,5 +1,923 @@
 [
     {
+        "title": "From local to national and back again: place-based support for citizen science",
+        "authors": [
+            "Andy Jefferies"
+        ],
+        "posted_on": "2025-11-20T16:38:49",
+        "categories": [
+            "Connecting People with Nature",
+            "Evidence",
+            "Monitoring",
+            "Natural England",
+            "Nature",
+            "Science and evidence"
+        ],
+        "content": [
+            {
+                "content": "By Andy Jefferies, Senior Officer for Citizen Science",
+                "tag": "p"
+            },
+            {
+                "content": "One challenge for the citizen science sector is how to bridge the gap between evidence and experiences which are meaningful at a local scale, and those which are meaningful at a national one. Local schemes are often brilliant at inspiring participation and in keeping people engaged year after year, but they may lack scientific rigor or pathways to wider impact. ",
+                "tag": "p"
+            },
+            {
+                "content": "Conversely, national schemes with specialist data scientists on board often find it easier to produce robust outputs leading to national-scale insight about nature, but they can struggle to recruit and retain volunteers given that so much of their work is necessarily centralised.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improving our knowledge about the environment",
+                "tag": "h4"
+            },
+            {
+                "content": "To explore how we might narrow the\u00a0gap\u00a0between\u00a0these perspectives, over the last two years Natural England, working within the Defra-led\u00a0Natural Capital and Ecosystem Assessment\u00a0(NCEA) programme,\u00a0has\u00a0trialled a small number of local citizen science partnerships.",
+                "tag": "p"
+            },
+            {
+                "content": "These pilot projects bring together organisations and individuals who, although they may have very different priorities and interests in many areas, all have a shared interest in improving our knowledge about the environment and want to coordinate better together towards that larger goal. They\u2019ve taken very different approaches, but all of them have led to improved collaboration and insight both for the partners involved, and for us at Natural England.",
+                "tag": "p"
+            },
+            {
+                "content": "Wessex:\u00a0convening\u00a0local organisations and sharing resources",
+                "tag": "h4"
+            },
+            {
+                "content": "In Wessex, Natural England partnered with the\u202fBristol Natural History Consortium\u00a0to increase local capacity for citizen science. Over 18 months, they engaged\u00a078 organisations\u00a0through a regional conference and a week-long citizen science showcase\u00a0\u2013\u00a0events\u00a0which\u00a0helped set shared priorities and created new opportunities for engagement.\u00a0Alongside this, the\u00a0NHC ran online workshops and produced written guidance to address key areas like communications, fundraising, academic collaboration, and organisational networking.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participant feedback highlighted\u00a0some of the immediate benefits\u00a0of the workshops and events:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "West Midlands/Severn catchment: community water quality monitoring",
+                "tag": "h4"
+            },
+            {
+                "content": "In the\u00a0Stour\u00a0River catchment (a sub-catchment of the Severn),\u00a0a second local pilot\u00a0led by the\u00a0Severn Rivers Trust\u00a0brought together\u00a0representatives from a wide range of groups \u2013 including industry, local government and agencies, NGOs and communities\u00a0\u2013\u00a0and set them on the joint quest of\u00a0aligning local and national needs for\u00a0water quality monitoring. ",
+                "tag": "p"
+            },
+            {
+                "content": "Once data priorities had been identified, these were matched with approaches already developed by the CaSTCo initiative (Catchment Systems Thinking Cooperative \u2013 a national citizen science initiative for river monitoring). In cases where existing methods were designed for national rather than local data needs, they were adapted to make them relevant at a local scale. Volunteers recruited through local networks were then trained in these methods, and were able to start carrying out surveys of water quality to Environment Agency accepted standards. Meanwhile, wider Rivers Trust facilities made it possible for local data to be immediately available to the volunteers and the project, and grouped it together with similar data produced by other initiatives.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "The pilot demonstrated how local needs and motivations can align with national data needs. This parallels other work, notably the Tracking the Impact project supported by JNCC, which is testing the local use and application of protocols used in national-scale species monitoring schemes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Northumbria:\u00a0large-scale online participation",
+                "tag": "p"
+            },
+            {
+                "content": "Our final pilot aimed to build engagement through\u00a0large-scale\u00a0online volunteering using a bespoke platform.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Deep Time\u00a0was developed and run by partners\u00a0DigVentures, responding to the needs of local conservation land-managing organisations including the National Trust,\u00a0the\u00a0Wildlife Trusts, and landscape bodies. Through\u00a0the platform,\u00a0volunteers were engaged, recruited,\u00a0trained, and deployed\u00a0on a\u00a0mission:\u00a0to\u00a0create\u00a0accurate\u00a0habitat maps at a landscape scale.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To achieve this, the platform delivered a range of base-mapping including aerial and satellite imagery, from which volunteers learned to identify habitats to 16 broad categories. The quality of mapping was checked through double sampling and (where available) professional ground survey data, and through five experimental \u2018missions\u2019, each focused on a different area in Northumberland,\u00a0 volunteers donated over 9,000 hours (5 years) of time to create over 46,000 polygon features, collectively mapping 4,800 square kilometres of habitat.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0beneficial outcomes of the project went well beyond maps.\u00a0Of\u00a0almost 500\u00a0participants from\u00a032 countries (including\u00a0Kazakhstan!),\u00a0ranging\u00a0in age from 17 to 89,\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While\u00a0this\u00a0project\u00a0was an experiment designed to test whether mass online participation can complement\u00a0professional survey\u00a0and AI analysis of\u00a0satellite data\u00a0(yes it can!),\u00a0the platform and approach\u00a0could be easily transferred to other\u00a0landscape\u00a0features\u00a0or species. One possibility under consideration is\u00a0whether volunteers could map invasive species distribution\u00a0from high-resolution drone images\u00a0\u2013\u00a0though the list\u00a0of\u00a0potential projects\u00a0is\u00a0endless.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What next?",
+                "tag": "h4"
+            },
+            {
+                "content": "While this project was an experiment designed to test whether mass online participation can complement professional survey and AI analysis of satellite data (yes it can!), the platform and approach could be easily transferred to other landscape features or species. One possibility under consideration is whether volunteers could map invasive species distribution from high-resolution drone images \u2013 though the list of potential projects is endless.",
+                "tag": "p"
+            },
+            {
+                "content": "Note: This is the third in a series of blogposts on Natural England\u2019s work for and with citizen scientists \u2013 volunteers who collect environmental data to help us better understand nature. You can also read an\u00a0overview of this work, or find out more about our\u00a0pond\u00a0and\u00a0freshwater monitoring work.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/11/20/from-local-to-national-and-back-again-place-based-support-for-citizen-science/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Andy Jefferies, Senior Officer for Citizen Science One challenge for the citizen science sector is how to bridge the gap between evidence and experiences which are meaningful at a local scale, and those which are meaningful at a national \u2026"
+    },
+    {
+        "title": "\ud83d\udce2\u202fUK Space Agency Christmas card design competition!\u202f\ud83c\udf85\u00a0",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-11-20T16:01:35",
+        "categories": [
+            "Championing Space"
+        ],
+        "content": [
+            {
+                "content": "Calling all artists \u2013 Santa\u2019s deliveries are at risk from space debris!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are looking for your Christmas card designs on the need to #KeepSpaceTidy,\u202fso that Santa and the satellites we all rely on every day stay safe.\u202f\ud83d\udef0\ufe0f\ud83c\udf85\ud83d\udef7",
+                "tag": "p"
+            },
+            {
+                "content": "If your design is chosen, you could win some great UK Space Agency prizes, including a notebook, pen, pencil, stickers, mug, bag and even your very own UK Space Agency mission patch!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "See below for details on how to enter, and entry link at the bottom of this blog!",
+                "tag": "p"
+            },
+            {
+                "content": "The competition closes at 5pm on Monday 15 December 2025.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Did you know?",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK Space Agency works to keep space safe and sustainable, both within the UK and through the European Space Agency.\u202f\u202fFor more information visit\u202four website\u202for watch the video below.",
+                "tag": "p"
+            },
+            {
+                "content": "We're looking for designs for a Christmas card to help us communicate the scale and urgency of this problem and what we are doing about it. The design should help encourage people to behave responsibly, work together to protect our space environment and\u202f#KeepSpaceTidy, helping ensure our use of space is sustainable for future generations.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to enter",
+                "tag": "h2"
+            },
+            {
+                "content": "Terms and conditions",
+                "tag": "h2"
+            },
+            {
+                "content": "Designs must be your own work, and AI-generated images are NOT permitted.\u202f\u202fWe reserve the right to disqualify any images we have reason to believe are plagiarised or AI-generated.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Please also share your designs on social media, tagging in the UK Space Agency and using the hashtag #KeepSpaceTidy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By submitting your design via our form, you give permission for the image to be used by the UK Space Agency and chosen partners in promotional material and publications, now and in the future \u2013 including online and in print \u2013 and waive any rights of compensation or ownership.",
+                "tag": "p"
+            },
+            {
+                "content": "Entries will be judged by the UK Space Agency\u2019s Space Sustainability team.\u202f\u202fThe judges\u2019 decision is final.",
+                "tag": "p"
+            },
+            {
+                "content": "The name and age category for each winning designer may be published on social media, sent online to our stakeholders with our digital Christmas cards, and may be published elsewhere alongside the winning designs.",
+                "tag": "p"
+            },
+            {
+                "content": "Your personal information will be processed in accordance with the Agency\u2019s public task and legitimate interests, and your right to object to the processing of your personal data is not affected. The UK Space Agency is committed to processing personal information in accordance with all applicable data protection laws and will ensure that the rights and interests of data subjects are weighted appropriately.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Any personal data (information about yourself) that you provide to us for the purpose of entering this competition will be stored and processed securely within UK-based systems. It will only be used by UK Space Agency employees who are involved in facilitating this competition, it will not be shared with any third parties, and it will be destroyed within one month of the winners being announced.",
+                "tag": "p"
+            },
+            {
+                "content": "Further information and contact details can be found within the UK Space Agency Privacy Notice: https://www.gov.uk/government/publications/uk-space-agency-gdpr-privacy-notice. Your rights under the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018 are not affected.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/11/20/%f0%9f%93%a2-uk-space-agency-christmas-card-design-competition-%f0%9f%8e%85/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "Design a Christmas card about keeping Santa and the satellites we all rely on every day safe!\u202f\ud83d\udef0\ufe0f\ud83c\udf85\ud83d\udef7\u00a0"
+    },
+    {
+        "title": "A wickedly good IP strategy\u00a0",
+        "authors": [
+            "Christina Watts"
+        ],
+        "posted_on": "2025-11-20T15:00:00",
+        "categories": [
+            "Copyright",
+            "Innovation"
+        ],
+        "content": [
+            {
+                "content": "Cinema tickets are purchased, the perfect Glinda-inspired outfit is planned, and I am truly ready for the release of Wicked: For Good \u2013 John M. Chu\u2019s sequel to\u202fhis 2024 fantasy film Wicked, based loosely on the Wizard of Oz story.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But while I'm daydreaming about pink-clad Glinda the good witch and green-skinned Elphaba, who is based on the Wicked Witch of the West, I started thinking about the intellectual property (IP) behind all the different versions of the wonderful world of Oz.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Follow the road to Wicked\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Let's start at the very beginning. In 1900, L. Frank Baum wrote The Wonderful Wizard of Oz. When Baum began publishing the Oz books, the copyright law in effect in the United States (US) was the Copyright Act of 1831, which provided a 28-year term with a possible fourteen more years upon renewal. ",
+                "tag": "p"
+            },
+            {
+                "content": "However, the Copyright Act of 1909 retroactively affected Baum's books, allowing a 28-year renewal for 56 total years of copyright protection. The L. Frank Baum Trust renewed the copyright on all of Baum's Oz novels, and The Wonderful Wizard of Oz entered the public domain in 1956 when the copyright expired in the US.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Although the beloved children\u2019s novel was written in the US, its copyright would have been protected in the UK through international agreements such as the Berne Convention. Dating back to 1886, the Berne Convention is an international copyright treaty that enables creators\u2014including authors, poets, painters and musicians\u2014to control the use of their work across more than 180 signatory nations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the UK, copyright in 1900 was covered by the Copyright Act of 1842, which provided protection for life of the author plus 7 years, or 42 years from publication. The Copyright Act of 1911 extended this to life of the author plus 50 years. This would have protected The Wonderful Wizard of Oz until 1969, but because the US had a shorter term, copyright would also have expired in the UK in 1956. This means anyone can lawfully use Baum's original story, characters and ideas without asking permission or paying fees.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Fast forward to 1995. Gregory Maguire wrote Wicked: The Life and Times of the Wicked Witch of the West, reimagining the story from Elphaba's perspective. This was later adapted into a Broadway musical by Stephen Schwartz and Winnie Holzman that's still running today. In 2024, the first act of the musical was released as the movie Wicked. And now? We're getting a sequel, with Wicked: For Good telling the story of act two. ",
+                "tag": "p"
+            },
+            {
+                "content": "Each version generated new copyright protection: Maguire owns the copyright to his novel's unique story elements while Schwartz and Holzman own the copyright to the musical's songs and script. The creation of the films led to even more new copyrighted material.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But here's where it gets tricky. Warner Bros owns the copyright to the iconic 1939 MGM film The Wizard of Oz. In the UK, copyright protection usually lasts for 70 years after the creator's death. The last of the relevant authors of the film died in 1987 (producer Mervyn LeRoy), meaning that the 1939 film's copyright is still very much active until 2057.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ruby slippers",
+                "tag": "h3"
+            },
+            {
+                "content": "We all know Dorothy's ruby red slippers from the 1939 film. In fact, I grew up thinking that they had always been red.",
+                "tag": "p"
+            },
+            {
+                "content": "In Baum's original 1900 book, Dorothy's slippers were silver. MGM changed them to ruby red to show off their fancy new Technicolour technology - and because they created that change, Warner Bros restricts reproductions of the ruby red slippers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, what did Gregory Maguire do for his 1995 novel? He went back to silver. The 2024 Wicked\u202f film and the upcoming\u202fWicked: For Good\u202f also use silver slippers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This might seem like a small detail, but it's actually a clever piece of rights navigation. By returning to Baum's public domain description, they avoided needing a licence for the ruby slippers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Witches are always green\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "\"And Yes, I Have Always Been Green\" - or have I?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In Baum's 1900 novel, the Wicked Witch of the West isn't described as green. That distinctive green skin was another of MGM's creative inventions for the 1939 film. So technically, that green colouring is part of Warner Bros' copyrighted material. But the extent to which characters (rather than the whole film) are protected by copyright is still debated in court cases.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Maguire kept his witch green in his 1995 novel, as did the stage musical and films. How did they manage that without copyright issues \u2013 or at least needing a licence?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The answer is in how they transformed the character. The 1939 Wicked Witch was purely evil - cackling, threatening, forever trying to kill Dorothy. Elphaba is completely different. She's intelligent, compassionate, misunderstood, and challenges unjust systems. As she sings, she's someone who's \"unapologetically me.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The 2024 film went even further with visual distinction. Elphaba's makeup is softer and more naturalistic than the harsh green of the 1939 witch. Her costumes are beautifully detailed designer pieces, not basic black robes. These creative choices help establish her as a different character who just happens to share the green skin tone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Wonderful Copyright of Oz\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The journey from Baum's 1900 novel to the 2024 Wicked\u202ffilm shows how IP works in practice. It's the framework that lets creative works evolve while protecting the people who create them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Silver slippers instead of ruby; a misunderstood hero instead of a cackling villain; these weren't just creative choices, they were likely to be strategic IP decisions that allowed new stories to exist alongside earlier copyright works.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The constraints shaped the storytelling. Unable to copy the 1939 film, creators had to build something different, giving us an Elphaba who has a more complex, rounded character.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, as the lights dim and the film begins, I'll be thinking about more than just the story on screen. I'll be noticing the decades of copyright navigation and creative decisions that made this gravity defying moment possible.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/11/20/a-wickedly-good-ip-strategy/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "Cinema tickets are purchased, the perfect Glinda-inspired outfit is planned, and I am truly ready for the release of Wicked: For Good but whilst I'm daydreaming about pink and green, I started thinking about the IP behind the wonderful world of Oz."
+    },
+    {
+        "title": "Consultation launched on 11 Scotland led demersal FMPs",
+        "authors": [
+            "FMP team, Scottish Government's Marine Directorate"
+        ],
+        "posted_on": "2025-11-20T12:51:59",
+        "categories": [
+            "- Scotland led FMPs",
+            "Public consultation"
+        ],
+        "content": [
+            {
+                "content": "Today we, the Scottish Government, are publishing a consultation on 11 proposed joint UK fisheries management plans (FMPs) for demersal fish stocks.",
+                "tag": "p"
+            },
+            {
+                "content": "The FMPs were developed by the four UK fisheries administrations with the Scottish Government as the coordinating authority. ",
+                "tag": "p"
+            },
+            {
+                "content": "The FMPs gather evidence of what we know about the state of these demersal stocks, the management approach, and set out policies and actions to restore or maintain the stocks at sustainable levels.",
+                "tag": "p"
+            },
+            {
+                "content": "Share your views",
+                "tag": "h2"
+            },
+            {
+                "content": "Read the consultation documents and share your views here: https://consult.gov.scot/marine-scotland/fisheries-management-plans-demersal-fish-stocks/",
+                "tag": "p"
+            },
+            {
+                "content": "You can submit your consultation response through an online questionnaire, or by email or post until 11:59pm on Wednesday 11 March 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Consultation events",
+                "tag": "h2"
+            },
+            {
+                "content": "We will be running online sessions to discuss these plans in more detail. ",
+                "tag": "p"
+            },
+            {
+                "content": "The first events will primarily be information giving sessions and will be held on:",
+                "tag": "p"
+            },
+            {
+                "content": "More events are being planned for early 2026 where you can share your views to be fed into the consultations. Details will be shared on the events page of this blog when they\u2019re available.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/11/20/consultation-launched-on-11-scotland-led-demersal-fmps/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "These joint UK FMPs are open for your views. Find out more with online events in December."
+    },
+    {
+        "title": "Confirming user understanding: what to do and what not to do",
+        "authors": [
+            "John Peart"
+        ],
+        "posted_on": "2025-11-20T10:00:00",
+        "categories": [
+            "Digital identity",
+            "UK digital identity and attributes trust framework"
+        ],
+        "content": [
+            {
+                "content": "If a digital verification service (DVS) is user-facing, before it does something with a users\u2019 identity or attribute information, the service must confirm that the user understands what is about to happen. CABs review how a service implements the rules for confirming user understanding from the trust framework as part of the certification process.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve been asked what a \u2018good\u2019 confirmation that meets the requirements of the trust framework looks like.",
+                "tag": "p"
+            },
+            {
+                "content": "What the rules say",
+                "tag": "h2"
+            },
+            {
+                "content": "The rules for confirming user understanding are found in sections 12.7.3. and 12.7.4. of the gamma (0.4) publication of the trust framework. A similar concept existed in the previous, beta version too \u2013 but we called it \u201cuser agreement\u201d instead.",
+                "tag": "p"
+            },
+            {
+                "content": "In broad terms, the rules require that a digital verification service:",
+                "tag": "p"
+            },
+            {
+                "content": "Services must also reconfirm the users\u2019 understanding in certain circumstances.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s not the same as \u201cconsent\u201d",
+                "tag": "h2"
+            },
+            {
+                "content": "Confirming user understanding is different from seeking \u201cconsent\u201d under UK data protection law.",
+                "tag": "p"
+            },
+            {
+                "content": "There may be similarities between what we call \u201cconfirming understanding\u201d and what UK data protection law calls \u201cconsent\u201d, but the trust framework does not require that \u201cconsent\u201d is used as the legal basis for a service. Service providers can use any legal basis that is appropriate; it\u2019ll depend on the service and what it\u2019s for.",
+                "tag": "p"
+            },
+            {
+                "content": "Instead, the rules in the trust framework regarding user confirmation are intended to give users as much understanding and control over how their data is used as possible. These rules are in addition to the transparency requirements under the UK GDPR.",
+                "tag": "p"
+            },
+            {
+                "content": "Lengthy terms and conditions are not the answer",
+                "tag": "h2"
+            },
+            {
+                "content": "Services providers \u2013 not just digital verification ones \u2013 often have lengthy terms and conditions or \u201cEnd User License Agreements\u201d (EULAs). Users are often asked to accept these terms and policies before they use a service.",
+                "tag": "p"
+            },
+            {
+                "content": "We don\u2019t think that asking users to read and accept a complex policy statement is an effective way of confirming user understanding.",
+                "tag": "p"
+            },
+            {
+                "content": "To get certified against the trust framework, services need to do more than that; they need be as simple as possible for users.",
+                "tag": "p"
+            },
+            {
+                "content": "Lengthy, legalistic documents are not examples of clear, plain and easily understood language. There is plenty of evidence that they cannot reliably demonstrate that users positively agree to those terms.",
+                "tag": "p"
+            },
+            {
+                "content": "The rules in the trust framework are intended to make using a digital verification service a genuine choice. Services shouldn\u2019t rely on deceptive design patterns \u2013 like making it easier to accept than to decline a choice \u2013 to \u2018nudge\u2019 users towards accepting terms and conditions they may not fully be aware of or understand.",
+                "tag": "p"
+            },
+            {
+                "content": "Use brief, straightforward prompts",
+                "tag": "h2"
+            },
+            {
+                "content": "When users install an app on a phone or computer, and open it for the first time, they are often asked for permission to access certain features, for example, to send notifications, to access location data, or to use the camera or microphone.",
+                "tag": "p"
+            },
+            {
+                "content": "Different apps need different permissions at different times, so users are presented with different prompts. Permissions sometimes need to be refreshed, so the user sees the prompt at regular intervals. Often those prompts are customised by the developers of the apps to explain very briefly why they need those permissions, and a user can decide whether to permit the access.",
+                "tag": "p"
+            },
+            {
+                "content": "The clarity of this model is what we\u2019re trying to encourage for digital verification services. It puts what is happening front and centre for users. Services should provide:",
+                "tag": "p"
+            },
+            {
+                "content": "Some examples",
+                "tag": "h2"
+            },
+            {
+                "content": "There are many ways that you could design an interface that confirms user understanding. As the trust framework is outcome-focused and technology-agnostic, we don\u2019t mandate exactly what it should look like.",
+                "tag": "p"
+            },
+            {
+                "content": "We would encourage service providers to try different approaches and to test their designs with real users through user research.",
+                "tag": "p"
+            },
+            {
+                "content": "Here are some examples we came up with, inspired by things we\u2019ve seen so far in real world services.",
+                "tag": "p"
+            },
+            {
+                "content": "1. Asking permission to take a selfie",
+                "tag": "h3"
+            },
+            {
+                "content": "In this example, a user needs to take a selfie to match it to a passport photo they\u2019ve already provided. They\u2019re presented with a prompt before they take the selfie, so they can confirm their understanding.",
+                "tag": "p"
+            },
+            {
+                "content": "This approach wouldn\u2019t check off every part of the rules in sections 12.7.3, but it could meet some of them:",
+                "tag": "p"
+            },
+            {
+                "content": "The prompt itself should summarise everything that is happening with a user\u2019s data. A \u201cfind out more\u201d button is provided which could take the user to a more detailed explanation of what is happening; for example, it could link to a privacy notice. A service shouldn\u2019t hide or introduce additional data processing behind that button.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Sharing data with another service",
+                "tag": "h3"
+            },
+            {
+                "content": "In this example, a user already has an identity service set up and has been asked to share some attributes with an orchestration service acting on behalf of a relying party. It follows a similar pattern to the first example.",
+                "tag": "p"
+            },
+            {
+                "content": "This example is one way you could attempt to comply rule with 12.7.4.c, which suggests that services could reconfirm a user\u2019s understanding whenever there is a request to share or disclose data to a third-party.",
+                "tag": "p"
+            },
+            {
+                "content": "3. \u00a0Reconfirm user understanding after a period of inactivity",
+                "tag": "h3"
+            },
+            {
+                "content": "Rule 12.7.4.b. requires that a service must reconfirm user understanding if more than 14 months have elapsed since a user last reconfirmed their understanding.",
+                "tag": "p"
+            },
+            {
+                "content": "This example tries to explain, as plainly as possible, that the user needs to agree to keep their account active or, alternatively, can choose to close their account.",
+                "tag": "p"
+            },
+            {
+                "content": "We want service providers to innovate",
+                "tag": "h2"
+            },
+            {
+                "content": "We should stress that these are only examples; they\u2019re not whole solutions. Service providers don\u2019t have to follow these examples in their services.\u00a0 These are just ideas that point in the right direction.",
+                "tag": "p"
+            },
+            {
+                "content": "We want service providers to innovate and find great ways to achieve compliance with the rules.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019d like to start to compile examples of best practice so we can share them with our approved conformity assessment bodies, to support consistent evaluations across the market. If you think your service confirms a users\u2019 understanding well, we\u2019d love to hear from you.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2025/11/20/confirming-user-understanding-what-to-do-and-what-not-to-do/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "We\u2019ve been asked what a \u2018good\u2019 confirmation of user understanding, that meets the requirements of the trust framework, looks like."
+    },
+    {
+        "title": "UK Space Agency teams up with IMEO and GHGSat to tackle methane emissions",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-11-20T09:43:47",
+        "categories": [
+            "Earth from space",
+            "Earth observation"
+        ],
+        "content": [
+            {
+                "content": "A new partnership uses high-resolution satellite data to support progress towards global methane targets.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK Space Agency has announced a significant collaboration with the United Nations Environment Programme\u2019s International Methane Emissions Observatory (IMEO), reinforcing the UK\u2019s leadership in tackling one of the most urgent climate challenges: methane emissions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through this initiative, the UK Space Agency provides IMEO and UK Government users with high-resolution methane data, utilising commercial satellite company GHGSat\u2019s advanced satellite monitoring capabilities and data analytics. ",
+                "tag": "p"
+            },
+            {
+                "content": "These satellites provide improved accuracy and granularity compared to traditional datasets.",
+                "tag": "p"
+            },
+            {
+                "content": "By integrating this data into IMEO\u2019s global monitoring systems, the partnership strengthens international capacity to detect, validate, and respond to emissions across different sectors and regions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth Greenaway, Head of Earth Observation at the UK Space Agency, said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Methane is a potent greenhouse gas, responsible for around 30% of global warming since pre-industrial times. ",
+                "tag": "p"
+            },
+            {
+                "content": "Reducing methane emissions is widely recognised as one of the fastest and most cost-effective ways to slow climate change. ",
+                "tag": "p"
+            },
+            {
+                "content": "This new partnership supports global efforts to meet commitments under the Global Methane Pledge, which aims to cut methane emissions by 30% by 2030, a key milestone as nations prepare to report progress at COP30.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The announcement coincides with COP30, where the United Nations has released its latest Global Methane Assessment which suggests more needs to be done to meet the aims of the pledge.",
+                "tag": "p"
+            },
+            {
+                "content": "This alignment underscores the urgency of coordinated international action and the UK\u2019s commitment to delivering measurable progress on methane reduction as set out in the updated UK methane action plan.",
+                "tag": "p"
+            },
+            {
+                "content": "Meghan Demeter, Programme Management Officer, United Nations Environment Programme\u2019s International Methane Emissions Observatory said:",
+                "tag": "p"
+            },
+            {
+                "content": "The collaboration is already delivering tangible benefits. Data is being used to validate emission mitigation activities catalysed by IMEO and track long-term trends in methane emissions in several countries.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "GHGSat\u2019s UK Managing Director Dan Wicks said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Methane reduction is one of the most impactful steps we can take to slow global warming in the near term. Many existing inventories rely on estimates rather than direct measurements, creating uncertainty that hampers effective action.",
+                "tag": "p"
+            },
+            {
+                "content": "GHGSat\u2019s high-resolution imagery provides a more complete and transparent picture, supporting evidence-based policy and international cooperation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By championing innovation in methane monitoring, the UK is demonstrating global leadership in climate action and setting a new standard for transparency and accountability.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/11/20/uk-space-agency-teams-up-with-imeo-and-ghgsat-to-tackle-methane-emissions/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "The UK Space Agency has announced a collaboration with the United Nations Environment Programme\u2019s International Methane Emissions Observatory (IMEO), reinforcing the UK\u2019s leadership in tackling one of the most urgent climate challenges: methane emissions.\u00a0"
+    },
+    {
+        "title": "Finding Support as a Care Leaver",
+        "authors": [
+            "Emily"
+        ],
+        "posted_on": "2025-11-20T09:36:05",
+        "categories": [
+            "Care leavers"
+        ],
+        "content": [
+            {
+                "content": "This month is National Care Leavers Month, which celebrates the resilience and achievements of young people leaving care. Emily's story is a powerful example of what dedicated support can achieve. Her life was transformed by Staying Close, a Department for Education-funded programme supporting care leavers. The Children\u2019s Wellbeing and Schools Bill, which is currently going through parliament, will strengthen duties on councils to provide support like Staying Close.",
+                "tag": "p"
+            },
+            {
+                "content": "How Staying Close changed my life",
+                "tag": "h2"
+            },
+            {
+                "content": "My name is Emily. I'm a 19-year-old mum to my 3-month-old son who is my world. I came into care when I was 2 and lived in a mixture of foster care, with family, and in residential homes. When I was 17, my social worker told me about Staying Close. To be honest, I didn't want the service, but I agreed to meet my Personal Staying Close Adviser, Cath. I'm so glad I did.",
+                "tag": "p"
+            },
+            {
+                "content": "Staying anywhere but home",
+                "tag": "h2"
+            },
+            {
+                "content": "I was going missing a lot and getting involved with the police. I'd stay at different friends' houses, sometimes out of the area. Sometimes I felt safe, other times not. One house I stayed at regularly had chaos, random people coming and going with substance misuse. I was either coming back at all hours or staying out, and I was close to being asked to leave my residential home.",
+                "tag": "p"
+            },
+            {
+                "content": "I was with partners who weren't good for me, sometimes toxic. I wasn't in a happy place and didn't like where I was living or what I was doing. I felt like I had no one else in my life.",
+                "tag": "p"
+            },
+            {
+                "content": "The team who showed up",
+                "tag": "h2"
+            },
+            {
+                "content": "Meeting Cath was a turning point. When I got to know her, I knew we'd get on and that she was a good person. She helped me with shopping, got me involved with a food pantry, and helped me with budgeting. We'd have a laugh. I felt I could talk openly to Cath about anything \u2013 she'd listen and give good advice.",
+                "tag": "p"
+            },
+            {
+                "content": "Debbie, my education worker, helped me get volunteering opportunities and supported me onto a course with NACRO, a social justice charity. When I became pregnant, I wanted to focus on becoming a mum, and she understood.",
+                "tag": "p"
+            },
+            {
+                "content": "Holly, my housing worker, helped me look for my own tenancy. When I was pregnant and had to move to a temporary homeless hotel, I was scared. The Staying Close Manager, Michelle, took me there to settle me in and gave me goodies and pamper stuff to destress. I was so grateful.",
+                "tag": "p"
+            },
+            {
+                "content": "Building a home and a family",
+                "tag": "h2"
+            },
+            {
+                "content": "I got my own tenancy with Holly's support. Cath helped me move in on a Friday when I had no electric or gas. She came back on her day off on Saturday to get everything sorted. Cath and Debbie helped me get a bed, TV and bedding \u2013 Cath even took the sheets home to wash them so they were fresh.",
+                "tag": "p"
+            },
+            {
+                "content": "Cath and Debbie came to my scans, which was amazing. The team did a baby shower for me, and everyone has been out to see me and the baby since he was born.",
+                "tag": "p"
+            },
+            {
+                "content": "To anyone who thinks they\u2019re alone",
+                "tag": "h2"
+            },
+            {
+                "content": "Just having the Staying Close team there for me, with no judgement, and them sticking to their word has meant so much. I'd tell other young people: take all the advice and support because it's genuine. Everyone on Staying Close really cares. When they tell you something, they mean it. You can trust them.Everyone on the team tells me how it is in a nice way, and I really respect this. They don't just help me, they help my baby and my baby's dad too. They look after us like their own family. There aren't enough words in the world to say thank you.",
+                "tag": "p"
+            },
+            {
+                "content": "Further links",
+                "tag": "h2"
+            }
+        ],
+        "link": "https://childrenssocialcare.blog.gov.uk/2025/11/20/care-leaver-support-staying-close/",
+        "blog": "Children\u2019s social care",
+        "blog_link": "https://childrenssocialcare.blog.gov.uk",
+        "description": "Emily shares how her life has been transformed by Staying Close, a Department for Education-funded programme supporting care leavers."
+    },
+    {
+        "title": "Building bridges: a joint mission in the Falklands",
+        "authors": [
+            "bobsendall"
+        ],
+        "posted_on": "2025-11-20T08:32:18",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Sarah Browning-Lee, Joint Programme Officer, British Forces South Atlantic Islands",
+                "tag": "p"
+            },
+            {
+                "content": "At the heart of the Cyber & Specialist Operations Command's global presence are our overseas bases, within this is the British Forces South Atlantic Islands (BFSAI), with a mission to safeguard the Falkland Islanders' right to self-determination and to deter further acts of aggression from foreign powers.",
+                "tag": "p"
+            },
+            {
+                "content": "Sarah Browning-Lee is crucial to this mission, coordinating and collaborating between the Forces and the Falkland Islands Government (FIG). She has been involved in projects that are making a difference, economically and practically, to those on the islands.",
+                "tag": "p"
+            },
+            {
+                "content": "Sarah shared with us the strong relationships she has forged while in BFSAI, and how these are paving the way for the future of the islands.",
+                "tag": "p"
+            },
+            {
+                "content": "Bridging two Governments",
+                "tag": "h3"
+            },
+            {
+                "content": "I am the British Forces South Atlantic Islands (BFSAI) and Falkland Islands Government (FIG) Joint Programme Officer. This role sits within the BFSAI Command Secretariat team based at the Mount Pleasant Complex in the Falkland Islands.",
+                "tag": "p"
+            },
+            {
+                "content": "I am privileged to work for both BFSAI and the FIG coordinating a suite of joint collaborative projects and initiatives centred around the business needs and objectives of both organisations. We seek to collaborate on projects which deliver mutual benefits to both organisations, and which are aligned to each other's strategic plans and visions.",
+                "tag": "p"
+            },
+            {
+                "content": "Together we gain economic and practical benefits through using the local workforce and contracts to deliver projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Collaborative projects making a difference",
+                "tag": "h3"
+            },
+            {
+                "content": "Current projects include a Joint Housing Project, which is the construction of 30 new Service Families Accommodation houses on the BFSAI Base and 40 in Stanley for the FIG, and the Joint Waste / Recycling Programme, a new Joint Waste Facility in the capital, Stanley.",
+                "tag": "p"
+            },
+            {
+                "content": "These Projects are led by FIG departments and greatly enhance on-Island skills and capacity in critical areas, supporting and enabling the continuation of the economic development of the Islands.",
+                "tag": "p"
+            },
+            {
+                "content": "Building economic resilience",
+                "tag": "h3"
+            },
+            {
+                "content": "The Falkland Islands provide a fantastic opportunity to work collaboratively particularly on Climate Change and Sustainability initiatives. This work was recently acknowledged through a Spotlight Award Recognition to BFSAI, Defence Infrastructure Organisation (DIO) and myself for upholding and demonstrating the Strategic Command Charter Value of being Innovative in the work and studies undertaken in BFSAI, working alongside the FIG.",
+                "tag": "p"
+            },
+            {
+                "content": "Continuity and strategic partnership",
+                "tag": "h3"
+            },
+            {
+                "content": "My role is a continuity posting (over one year in duration). There is a high level of stakeholder engagement working across both government organisations and this continuity helps strengthen the working relationship between MOD and FIG and ensures both organisations' strategic objectives and challenges are understood as we work towards joint and individual goals and targets.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting UK Defence priorities",
+                "tag": "h3"
+            },
+            {
+                "content": "My role within the Cyber & Specialist Operations Command cements the strong relationship and commitment that BFSAI and the Falkland Islands Government (FIG) have to each other.",
+                "tag": "p"
+            },
+            {
+                "content": "The recently published Strategic Defence Review puts UK Overseas Territories at the top of the UK's Defence objectives. Investing in the Falkland Islands through joint working is a key contributor to this Defence objective. It demonstrates the UK's commitment to the Falkland Islands \u2013 the people and their economic prosperity.",
+                "tag": "p"
+            },
+            {
+                "content": "Our people are the lifeblood of CSOC \u2013 a dedicated force of 26,000 specialists stationed at over 130 sites worldwide. From cyber warriors and medics to intelligence analysts, special forces, educators, and Defence attach\u00e9s, our specialists are ready to fight across all domains to protect the UK.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our specialist operators are across every UK operation, delivering the capabilities you don\u2019t usually see - or those you can\u2019t.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cyberandspecialistoperationscommand.blog.gov.uk/2025/11/20/building-bridges-a-joint-mission-in-the-falklands/",
+        "blog": "Cyber & Specialist Operations Command",
+        "blog_link": "https://cyberandspecialistoperationscommand.blog.gov.uk",
+        "description": "Sarah Browning-Lee, Joint Programme Officer, British Forces South Atlantic Islands At the heart of the Cyber & Specialist Operations Command's global presence are our overseas bases, within this is the British Forces South Atlantic Islands (BFSAI), with a mission to \u2026"
+    },
+    {
+        "title": "Everything you need to know about free school breakfast clubs",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-11-19T22:30:00",
+        "categories": [
+            "Childcare",
+            "Schools"
+        ],
+        "content": [
+            {
+                "content": "Since April 2025, we\u2019ve delivered 5 million meals through our free breakfast clubs early adopter scheme.",
+                "tag": "p"
+            },
+            {
+                "content": "Our 30-minute free breakfast clubs help ensure pupils start every day ready to learn, and in turn improve behaviour, attendance and attainment.",
+                "tag": "p"
+            },
+            {
+                "content": "As well as helping children thrive academically and socially, breakfast clubs give parents and carers more choices in childcare, and support families with the cost of living",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s the next stage of the free breakfast club roll out?",
+                "tag": "h3"
+            },
+            {
+                "content": "Following the success of the early adopters, we\u2019re investing a further \u00a380 million to onboard approximately 2000 more schools between April 2026 and March 2027.",
+                "tag": "p"
+            },
+            {
+                "content": "To make sure support reaches the children and families who need it most, schools with a 40% or higher free school meal rate\u00a0will be invited to apply to join the scheme in April 2026, with National School Breakfast Programme primary schools joining the scheme in September 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Will there be more funding?",
+                "tag": "h3"
+            },
+            {
+                "content": "Using insights from the early adopters, we\u2019ve increased the funding rate for mainstream schools and this will come into effect from April 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "The funding rates will be as follows:",
+                "tag": "p"
+            },
+            {
+                "content": "Mainstream schools",
+                "tag": "p"
+            },
+            {
+                "content": "Special/ alternative provision schools",
+                "tag": "p"
+            },
+            {
+                "content": "All schools new to the programme will also receive a \u00a31000 start-up grant to purchase the equipment and materials they need to run their club.",
+                "tag": "p"
+            },
+            {
+                "content": "How can schools apply to the free breakfast club programme?",
+                "tag": "h3"
+            },
+            {
+                "content": "All schools who are eligible will be contacted directly and can apply by completing an expression of interest form.",
+                "tag": "p"
+            },
+            {
+                "content": "We will consider free school meal rates and current participation in the National School Breakfast Programme when selecting successful schools. ",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll contact successful schools in the new year.",
+                "tag": "p"
+            },
+            {
+                "content": "When will families be able to access free breakfast clubs?",
+                "tag": "h3"
+            },
+            {
+                "content": "If their school is an early adopter, families can already access a free breakfast club will receive information on the offer direct from their school.",
+                "tag": "p"
+            },
+            {
+                "content": "If their school is not an early adopter, families will be able to access a free breakfast club as we roll out the programme nationally. This will take place in phases but schools will be in touch with families when they begin their club.",
+                "tag": "p"
+            },
+            {
+                "content": "What other support is available to families?",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019re also expanding childcare for\u00a0primary school\u00a0children across England by increasing the number of places available, to support working families.",
+                "tag": "p"
+            },
+            {
+                "content": "Separate to the breakfast programme, wraparound childcare is before and after school care for primary school aged children in England during term time, such as regular afterschool provision that runs until 6pm or later. You can read more about the offer on the Education Hub.",
+                "tag": "p"
+            },
+            {
+                "content": "Hundreds of thousands of eligible working parents can also now access 15 hours government-funded early education for children aged 9-months-old and older after new rules kicked in from 1 September 2024. Read more here. ",
+                "tag": "p"
+            },
+            {
+                "content": "Some families may also be entitled to free school meals at lunchtime. You can find out more about the programme, including who\u2019s eligible, on Gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/11/free-school-breakfast-clubs/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Families will soon be able to start accessing free breakfast clubs lasting 30 minutes for their children before school through our new free breakfast club programme. Find out more."
+    },
+    {
         "title": "Explainer: everything you need to know about the new Renters\u2019 Rights Act",
         "authors": [
             "mhclgpress"
