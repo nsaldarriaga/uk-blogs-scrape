@@ -1,5 +1,374 @@
 [
     {
+        "title": "A better register of digital identity and attribute services",
+        "authors": [
+            "Aniqa"
+        ],
+        "posted_on": "2025-11-21T16:25:14",
+        "categories": [
+            "Digital identity",
+            "Register of digital identity and attribute services"
+        ],
+        "content": [
+            {
+                "content": "The GOV.UK register of digital identity and attribute services makes it easy to check and find digital verification services that you can trust. It's a digital service, so we've been making continuous improvements to the register in line with the government's Service Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Based on findings from user research, we've made some big changes to how the register is presented this month. Here\u2019s a summary of what we've done.",
+                "tag": "p"
+            },
+            {
+                "content": "The changes we\u2019ve made",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Choose to view by services or providers",
+                "tag": "h3"
+            },
+            {
+                "content": "When we first launched the register, you could only browse it as a list of providers. Now, you can also browse the register as a list of services and find more information about each service at first glance.",
+                "tag": "p"
+            },
+            {
+                "content": "If you need additional information, you can click on the service. ",
+                "tag": "p"
+            },
+            {
+                "content": "Each service now has its own dedicated page with information presented in tabular format for easy perusal.",
+                "tag": "p"
+            },
+            {
+                "content": "You might not want to view by service. In that case, you can still view the register as a list of providers, using the banner at the top to navigate between different views.",
+                "tag": "p"
+            },
+            {
+                "content": "Each provider also has a dedicated page with contact information. You can click on a provider to see this. You can also find a list of all registered services connected to that provider on this page and find out more about a service by clicking on \u2018View details\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Sort and filter by your needs",
+                "tag": "h3"
+            },
+            {
+                "content": "We've introduced additional options for sorting information on the register.",
+                "tag": "p"
+            },
+            {
+                "content": "You can now sort information on the register by:",
+                "tag": "p"
+            },
+            {
+                "content": "We've also added more filters. Before you could filter by role types and supplementary codes. You can now also filter by trust framework version.",
+                "tag": "p"
+            },
+            {
+                "content": "3. Use the improved search bar",
+                "tag": "h3"
+            },
+            {
+                "content": "We've made it easier to find providers and services using keyword searching. You can now get accurate results with just partial input. Now you won\u2019t need to scroll the register if you know what you\u2019re looking for.",
+                "tag": "p"
+            },
+            {
+                "content": "4. Download the register",
+                "tag": "h3"
+            },
+            {
+                "content": "If searching, filtering and sorting on the live register doesn't work for you, you can now download a copy of the register too.",
+                "tag": "p"
+            },
+            {
+                "content": "This data is presented in CSV format; an open data format that we hope makes it easier to work with offline. This is just a first, very small step in enabling the register to be accessible in machine-readable formats.",
+                "tag": "p"
+            },
+            {
+                "content": "5. Keep up to date  ",
+                "tag": "h3"
+            },
+            {
+                "content": "We've implemented a new updates page telling you when services are published and when there is new information about a service or a provider. You can stay up to date with the latest by clicking 'Updates' on the top banner.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll keep improving the service",
+                "tag": "h2"
+            },
+            {
+                "content": "We are making continuous improvements to the register and are keen to hear from you. If you have any feedback, either positive or negative, please reach out to us via correspondence@dsit.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2025/11/21/a-better-register-of-digital-identity-and-attribute-services/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "The GOV.UK register of digital identity and attribute services makes it easy to check and find digital verification services that you can trust. It's a digital service, so we've been making continuous improvements to the register in line with the \u2026"
+    },
+    {
+        "title": "Celebrating Inter Faith Week in the Civil Service",
+        "authors": [
+            "Civil Service"
+        ],
+        "posted_on": "2025-11-21T14:01:00",
+        "categories": [
+            "Faith & Belief"
+        ],
+        "content": [
+            {
+                "content": "Earlier this year, I was honoured to be appointed as the Civil Service Faith and Belief Champion. It's a responsibility I take very seriously, but it's also one that fills me with hope and purpose. Faith and belief \u2013 whether religious, spiritual, or secular \u2013 shape how many of us see the world, make decisions, and connect with one another.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reflecting on Inter Faith Week (November 9th - 16th), the opportunity to deepen our understanding of diverse faiths and beliefs within the Civil Service (CS) felt more timely than ever. This annual celebration week serves as a powerful reminder of the rich tapestry of perspectives that we bring to all that we do.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The three aims of Inter FaithWeek this year were:",
+                "tag": "p"
+            },
+            {
+                "content": "Inter Faith Week is a time for both reflection on our shared values and appreciation of our diverse backgrounds. It encourages open dialogue and greater interaction, allowing us to learn from one another and build stronger connections.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Civil Service is fortunate enough to have dedicated departmental and cross-CS faith and belief networks, alongside departmental champions. Both groups encourage employees to better understand those who have a faith or belief, and those who have none. We have cross-CS faith and belief networks, and within these exist multiple denominations and view points. Having recently met with our faith and belief networks, I can attest to them being fantastic places for everyone to learn more. All networks are open to all civil servants, regardless of whether you have a faith or belief, or none.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I encourage everyone to engage in conversations about faith and belief in the workplace, not just this week but at any point. By doing so, we actively contribute to a more inclusive and supportive environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Should you require resources to better understand and support colleagues from different faith and belief backgrounds, the Civil Service faith and belief toolkit offers an excellent starting point. If you would like to learn more about events to celebrate Inter Faith week in your department, contact your departmental Faith and Belief Champion.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://civilservice.blog.gov.uk/2025/11/21/celebrating-inter-faith-week-in-the-civil-service/",
+        "blog": "Civil Service",
+        "blog_link": "https://civilservice.blog.gov.uk",
+        "description": "Earlier this year, I was honoured to be appointed as the Civil Service Faith and Belief Champion. It's a responsibility I take very seriously, but it's also one that fills me with hope and purpose. Faith and belief \u2013 whether \u2026"
+    },
+    {
+        "title": "Speculative reporting of council tax rises",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2025-11-21T12:13:42",
+        "categories": [
+            "Council finance"
+        ],
+        "content": [
+            {
+                "content": "There has been reporting in the media that the government will allow \u2018limitless\u2019 council tax rises \u2013 this is not true or accurate.",
+                "tag": "p"
+            },
+            {
+                "content": "There has been no change in the governments approach to council tax. Council tax has always been, and remains, a decision for local leaders and the government expects all councils to consider their residents when setting rates and ensure support is in place for vulnerable households.",
+                "tag": "p"
+            },
+            {
+                "content": "The core referendum threshold level, set by the previous government, of 3%, and a 2%, adult social care precept until 2028/29, remains.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Yesterday, the Department announced reforms to the outdated local government funding system to make the system fairer, update decades-old data used to distribute money and tackle deprivation across the country. There were no changes to council tax policy.",
+                "tag": "p"
+            },
+            {
+                "content": "The Local Government Finance Policy Statement, as in previous years, set out that the government will continue to consider requests from a small number of councils facing significant financial pressures for temporary, bespoke arrangements to go above the threshold \u2013 but it will not agree to any flexibility where taxpayers are already paying more than the average.\u00a0 Taxpayers will remain at the heart of the government\u2019s decision making.",
+                "tag": "p"
+            },
+            {
+                "content": "An MHCLG spokesperson said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cCouncil tax rises are limited to 5% without a local referendum, and we have not made any decision to change that.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe made \u00a369 billion available for council finances this year and we are fixing the outdated and unfair funding system we inherited, so funding finally matches local people\u2019s needs and councils can deliver better public services.\u201d",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2025/11/21/speculative-reporting-of-council-tax-rises/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been reporting in the media that the government will allow \u2018limitless\u2019 council tax rises \u2013 this is not true or accurate. There has been no change in the governments approach to council tax. Council tax has always been, \u2026"
+    },
+    {
+        "title": "UK Space Agency funds studies to tackle space debris challenges",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2025-11-21T10:33:42",
+        "categories": [
+            "Space sustainability"
+        ],
+        "content": [
+            {
+                "content": "The UK Space Agency has awarded more than \u00a3380,000 across 10 technical studies to support international research into space debris through the Inter-Agency Space Debris Coordination Committee (IADC).",
+                "tag": "p"
+            },
+            {
+                "content": "The studies will contribute to the work of the IADC's 4 working groups covering measurements, environment and database, modelling, and mitigation. The committee brings together 13-member space agencies and 3 associate members to coordinate research into space debris challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting international space sustainability",
+                "tag": "h2"
+            },
+            {
+                "content": "The IADC, established over 30 years ago, conducts research on critical topics including innovative shielding techniques to protect spacecraft from debris and modelling the long-term evolution of the space debris environment.",
+                "tag": "p"
+            },
+            {
+                "content": "The committee's research has informed the development of the IADC Space Debris Mitigation Guidelines, which are widely recognised as a foundational framework that has shaped regulatory approaches to debris mitigation globally.",
+                "tag": "p"
+            },
+            {
+                "content": "Andrew Ratcliffe, Chief Engineer at the UK Space Agency and current Chair of the IADC, said:",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Mamatha Maheshwarappa, Head of Research and Development at the UK Space Agency, said:",
+                "tag": "p"
+            },
+            {
+                "content": "UK leadership in space sustainability",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK Space Agency\u2019s leading role within the IADC and other international forums such as the UNCOPUOS (United Nations Committee on the Peaceful Uses of Outer Space) forms part of broader space sustainability and In-orbit Servicing, Assembly and Manufacturing (ISAM) activities.",
+                "tag": "p"
+            },
+            {
+                "content": "These activities are led by the UK Space Agency and the Space Directorate within the Department for Science, Innovation and Technology and include regulation and standards, research, space observation and monitoring capabilities, and technology development for Active Debris Removal and ISAM.",
+                "tag": "p"
+            },
+            {
+                "content": "Funded studies",
+                "tag": "h2"
+            },
+            {
+                "content": "The studies supported under this phase of IADC funding include:",
+                "tag": "p"
+            },
+            {
+                "content": "Lot 1.1\u00a0\u2013 Analysis of data from EISCAT Beampark campaign (Digantara Research and Technologies Private Ltd)",
+                "tag": "p"
+            },
+            {
+                "content": "Lot 2.1\u00a0\u2013 Assess the utility of existing metrics and develop new metrics for space environment (Two parallel studies)",
+                "tag": "p"
+            },
+            {
+                "content": "Lot 2.2\u00a0\u2013 Develop software and tools to assess the environment (Two parallel studies)",
+                "tag": "p"
+            },
+            {
+                "content": "Lot 2.3\u00a0\u2013 Timeliness for End of Life (EOL) proposal (Two parallel studies)",
+                "tag": "p"
+            },
+            {
+                "content": "Lot 3.1\u00a0\u2013 Critical space debris threshold vulnerability (The Aerospace Corporation UK, Ltd)",
+                "tag": "p"
+            },
+            {
+                "content": "Lot 4.1\u00a0\u2013 Lunar debris mitigation guidelines: further work on disposal options (Space Professionals Partnership Ltd)",
+                "tag": "p"
+            },
+            {
+                "content": "Lot 4.2\u00a0\u2013 Assessment of technologies driving post-mission disposal reliability (3S Northumbria Ltd)",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2025/11/21/uk-space-agency-funds-studies-to-tackle-space-debris-challenges/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "The UK Space Agency has awarded more than \u00a3380,000 across 10 technical studies to support international research into space debris through the Inter-Agency Space Debris Coordination Committee (IADC)."
+    },
+    {
+        "title": "Do schools close because of bad weather? Everything parents need to know",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-11-21T09:20:37",
+        "categories": [
+            "Schools"
+        ],
+        "content": [
+            {
+                "content": "Schools will make every effort to stay open in adverse weather conditions, including storms, flooding, snow and heatwaves. However, the safety of pupils and teachers is a top priority.",
+                "tag": "p"
+            },
+            {
+                "content": "On rare occasions schools do sometimes need to close or operate at a reduced level.",
+                "tag": "p"
+            },
+            {
+                "content": "Who decides if schools should close?",
+                "tag": "h3"
+            },
+            {
+                "content": "Schools and other education settings set their own plans and policies on how to deal with adverse weather conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s up to schools to decide on whether it is safe for them to open or close based on their own risk assessment and taking local issues into account.",
+                "tag": "p"
+            },
+            {
+                "content": "How should schools and councils inform parents?",
+                "tag": "h3"
+            },
+            {
+                "content": "Schools will have their own approaches to contacting parents, in many circumstances they have their own apps and/or messaging services.",
+                "tag": "p"
+            },
+            {
+                "content": "Schools will try to give parents as much notice as possible but sometimes decisions will be made quite late as circumstances change.",
+                "tag": "p"
+            },
+            {
+                "content": "What things should schools consider when deciding whether to close?",
+                "tag": "h3"
+            },
+            {
+                "content": "Decisions will be made locally based on common sense and there are a large range of things that schools will consider.",
+                "tag": "p"
+            },
+            {
+                "content": "This could include where staffing levels can\u2019t be met because transport issues are preventing teachers from getting to work.",
+                "tag": "p"
+            },
+            {
+                "content": "Other examples include safety conditions around the school, temperatures in school buildings and more.",
+                "tag": "p"
+            },
+            {
+                "content": "If they do decide to temporarily close during severe weather, they should consider moving to remote learning for pupils until it is safe to reopen.",
+                "tag": "p"
+            },
+            {
+                "content": "What if it\u2019s unsafe to travel to school?",
+                "tag": "h3"
+            },
+            {
+                "content": "In exceptional circumstances, a pupil may be unable to attend school because a local or national emergency has resulted in widespread disruption to travel.",
+                "tag": "p"
+            },
+            {
+                "content": "If parents believe it would be unsafe to travel, they should inform the school as soon as possible to let them know their child won't be attending and why (in line with the schools absence policy).",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/11/do-schools-close-because-of-bad-weather-everything-parents-need-to-know/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Schools will make every effort to stay open in adverse weather conditions, however, the safety of pupils and teachers is a top priority. Here's everything you need to know."
+    },
+    {
         "title": "From local to national and back again: place-based support for citizen science",
         "authors": [
             "Andy Jefferies"
