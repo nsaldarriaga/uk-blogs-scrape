@@ -1,5 +1,1593 @@
 [
     {
+        "title": "From Data Features to Digital Products\u00a0",
+        "authors": [
+            "Neil Barnby"
+        ],
+        "posted_on": "2025-11-27T17:08:51",
+        "categories": [
+            "collaboration",
+            "Data Science",
+            "digital delivery",
+            "Digital skills",
+            "Our services"
+        ],
+        "content": [
+            {
+                "content": "How do you turn powerful data insights into tools that genuinely help users?",
+                "tag": "p"
+            },
+            {
+                "content": "That was the question we faced when our Data Science team in Electronic Monitoring (EM) began its journey into digital delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "Electronic Monitoring, often known as tagging, helps the justice system track offenders in the community and supports rehabilitation. The EM Data Science team uses this information to develop insights and tools that help practitioners make safer, more informed, and more timely decisions. This work directly supports public protection and contributes to smoother, more efficient justice services.",
+                "tag": "p"
+            },
+            {
+                "content": "When I joined the team in July 2023, product management in data science was still quite new at the Ministry of Justice. Our product manager had recently stepped up from an associate role, and I joined as her associate product manager (APM), at the time, the only one across MoJ.",
+                "tag": "p"
+            },
+            {
+                "content": "The team I joined was analytical, highly efficient, and deeply skilled in its field. It delivered innovative work at pace and produced high-quality insights. But, like many data science teams, we started with data rather than users. We were experts at discovering what the data could tell us; now we needed to learn how to turn those insights into products that directly met user needs.",
+                "tag": "p"
+            },
+            {
+                "content": "Stepping up and holding the line",
+                "tag": "h2"
+            },
+            {
+                "content": "When our product manager moved to another area just before Christmas 2023, I stayed on to support the Electronic Monitoring work. Overnight, I became a kind of stand-in PM, sharing responsibilities with our lead data scientists. They made strategic decisions while I looked after delivery, sprint ceremonies, and stakeholder engagement.",
+                "tag": "p"
+            },
+            {
+                "content": "It wasn\u2019t always straightforward. Product management in a data science team sits somewhere between delivery, design and coordination. But together we kept things moving, balancing technical expertise with product thinking and making decisions based on evidence and outcomes rather than just technical milestones.",
+                "tag": "p"
+            },
+            {
+                "content": "From analysis to something users could see",
+                "tag": "h2"
+            },
+            {
+                "content": "As our work developed, we began to see that some of our data insights could form the basis of a new kind of tool, one that brought useful information directly to the people who needed it most.",
+                "tag": "p"
+            },
+            {
+                "content": "At that point, there was no digital capacity to build anything new, and at the time there was no allocated funding. Rather than stop, we explored what we could do ourselves. Drawing on previous coding experience, I helped the team create simple prototypes using the Government Design System. These mock-ups weren\u2019t production-ready, but they helped others see the potential.",
+                "tag": "p"
+            },
+            {
+                "content": "That made a difference. By showing what the future could look like, we caught the attention of senior stakeholders. In late 2024, funding was released to bring in digital roles so we could build something properly.",
+                "tag": "p"
+            },
+            {
+                "content": "Entering the digital world",
+                "tag": "h2"
+            },
+            {
+                "content": "When a digital service owner joined the team, everything changed. Before we could build, we needed to go through a Government Digital Service (GDS) Discovery which was the first stage in the GDS process that helps teams understand the problem and users before developing a solution.",
+                "tag": "p"
+            },
+            {
+                "content": "Working closely with a new design team - a user researcher, content designer and interaction designer, we reviewed what we already knew and where the gaps were. We had a lot of analysis, but it wasn\u2019t yet structured around user needs. Together we reshaped the evidence, passed our Discovery assessment in early 2025, and started our Alpha, where we tested our assumptions and began creating prototypes with users.",
+                "tag": "p"
+            },
+            {
+                "content": "Learning goes both ways",
+                "tag": "h2"
+            },
+            {
+                "content": "Alpha was a steep learning curve. Our new product manager joined around that time and encouraged us to focus on the riskiest assumptions and learn fast.",
+                "tag": "p"
+            },
+            {
+                "content": "As the digital side of the team learned about data models and pipelines, we realised that they were also navigating new ground. To help build shared understanding, our data scientists ran a workshop for our digital colleagues. They explained, in simple terms, how a model is trained, how we review algorithms through consultation panels, and how we apply our ethics framework to identify and manage potential bias.",
+                "tag": "p"
+            },
+            {
+                "content": "That session sparked curiosity and respect on both sides. The digital specialists began to appreciate the rigor and governance that sit behind data science. In turn, the data scientists started to see how user research and iterative design could make their work more practical and impactful.",
+                "tag": "p"
+            },
+            {
+                "content": "Since then, the learning has continued. Our developers are now planning a joint workshop with the data scientists to explore technical ways of working, so that this cross-learning keeps growing.",
+                "tag": "p"
+            },
+            {
+                "content": "Our data science work is part of the CDIO group\u2019s mission to transform justice through digital and data. We share the same vision: digital by design, data-driven by default, resilient by necessity, and focused on building services that are user-centered, secure and future-ready.",
+                "tag": "p"
+            },
+            {
+                "content": "Becoming a hybrid team",
+                "tag": "h2"
+            },
+            {
+                "content": "By the time we passed our Alpha assessment and prepared to enter Private Beta, our team had completely changed how it thought about delivery. We\u2019ve moved from producing analytical outputs to designing services grounded in user needs, a genuine hybrid of data and digital.",
+                "tag": "p"
+            },
+            {
+                "content": "We learned that every design decision needs evidence from users, not just technical justification. We also learned that user-centered design takes time, iteration and sometimes the discipline to narrow focus so that you can go deeper on what matters most.",
+                "tag": "p"
+            },
+            {
+                "content": "What we learned together",
+                "tag": "h2"
+            },
+            {
+                "content": "This journey has been about more than delivery frameworks. It has been about learning how two disciplines, data science and digital delivery, can strengthen each other.",
+                "tag": "p"
+            },
+            {
+                "content": "For anyone in data science curious about product management, or digital teams beginning to integrate data-led features, our experience shows that bridging these worlds is worth the effort. The most exciting opportunities often appear when you bring both perspectives together.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2025/11/27/from-data-features-to-digital-products/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "How do you turn powerful data insights into tools that genuinely help users? That was the question we faced when our Data Science team in Electronic Monitoring (EM) began its journey into digital delivery. Electronic Monitoring, often known as tagging, \u2026"
+    },
+    {
+        "title": "Update: Progress on managing the Kidlington illegal waste\u00a0site",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-11-27T16:50:57",
+        "categories": [
+            "Regulated industry",
+            "Uncategorized",
+            "Waste"
+        ],
+        "content": [
+            {
+                "content": "Following\u00a0our\u00a0initial\u00a0blog about\u00a0the appalling large-scale illegal dumping of waste near Kidlington,\u00a0we want to update you on the\u00a0significant progress\u00a0being made to protect\u00a0the\u00a0community and environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve\u00a0continued to work with\u00a0partner agencies,\u00a0including Cherwell District Council, Oxfordshire County\u00a0Council\u00a0and local emergency services, to\u00a0take\u00a0action to mitigate\u00a0the risks to the local environment and community.\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This week, a 39-year-old man was arrested thanks to cooperation between Environment Agency enforcement officers from the Major Investigation team and the\u00a0South East\u00a0Regional Organised Crime Unit. Our National Environmental Crime Unit, staffed by highly skilled waste crime investigators, continues to lead the investigation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Residents of the area will rightly be concerned about the potential for contamination of the surrounding land and waterways \u2013 which is why works have been ongoing at the location over recent weeks to tackle those challenges, as well as a comprehensive programme of monitoring to understand what materials might pose a risk.\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here is a summary that builds on the actions to date carried out by the Environment Agency and our\u00a0partners",
+                "tag": "p"
+            },
+            {
+                "content": "\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Protecting the community\u202f\u00a0\u00a0We\u00a0have\u00a0secured the site with Heras fencing to prevent entry to this active crime\u00a0scene and\u00a0employed 24-hour security on site.\u202fIn addition, colleagues at\u00a0Oxfordshire County Council\u00a0have closed all footpaths surrounding the affected area.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We remind the public that this is a crime scene, covered by an active restriction order \u2013 it is illegal to enter the site. Visiting hampers our investigation and causes further harm to the environment as waste underfoot gets compacted into the ground or dispersed further.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The waste pile is around ten metres from the River Cherwell at its closest point. However, recognising the potential for heavy rainfall or rising floodwaters to cause waste to enter the river,\u00a0we\u00a0have\u00a0put in place\u00a0large sandbags\u00a0to\u00a0further reduce the risk of pollution entering the watercourse.\u202f\u202f\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our specialist teams\u00a0remain\u00a0on the ground at the site, conducting rigorous assessments of risks to the River Cherwell,\u00a0monitoring\u00a0environmental impact, and taking immediate action where needed. We will continue this intensive monitoring and enforcement work until the site is secured, and any environmental damage is addressed.\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Managing fire risk\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Oxfordshire County Council Fire and Rescue Service has been on site to assess any potential fire risk using thermal imaging technology.\u00a0Firefighters\u00a0checked the waste pile for any hot spots that could lead to a fire breaking out.\u00a0They\u00a0also visited the site to see how\u00a0they would enter\u00a0quickly if\u00a0they needed\u00a0to respond in an emergency.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping\u00a0firefighters and the local community safe is central to our planning as we continue to\u00a0monitor\u00a0the risk of this illegal waste site.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Waste clearance\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u202fWork continues with partners to look at options for removal and disposal of the waste. Unlike the offenders, who showed no regard for the environment or\u00a0impacts\u00a0on the local community, the Environment Agency and partners will ensure that this is done in a safe and managed way to prevent further damage and minimise risk to the environment.\u202f\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u202fWhile we cannot give a timeline for this work, we ask the public to remain patient whilst the necessary steps are put in place, in the knowledge that all partners are working together to manage the current risks.\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Investigation\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Following the arrest of an individual on Tuesday, the partners continue to work closely to progress the investigation into this incident.\u202f\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Any information from the public can be reported to the Environment Agency via its 24-hour incident hotline at 0800 807060 or anonymously via\u202fCrimeStoppers.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Factual corrections",
+                "tag": "p"
+            },
+            {
+                "content": "Why are\u00a0you\u00a0not calling this\u00a0fly tipping?\u00a0It is clear from the waste on site that is has been through a mechanical treatment process and is not waste dumped by opportunists.\u00a0The way in which\u00a0it\u00a0has been dumped suggests it is organised criminality and will be investigated as such by our National Environmental Crime Unit.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why did you only start investigating when the media got involved?\u00a0\u00a0This is not true.\u00a0We\u00a0started our investigation\u00a0in July\u00a0before\u00a0news of the site\u00a0reached\u00a0the media\u00a0in October.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why can\u2019t you fine those you believe to be involved\u00a0immediately?\u00a0\u00a0Civil\u00a0sanctions\u00a0are\u00a0generally not\u00a0appropriate where\u00a0the offending\u00a0is deliberate.\u00a0Due to the nature of how the waste has been deposited it appears to have been a deliberate\u00a0act\u00a0and we are therefore pursuing a criminal investigation.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Investigations\u00a0potentially\u00a0involving a network of offenders can be complex and take time.\u00a0We have specialist resources assigned to the investigation, both from the EA and partner\u00a0organisations. We\u00a0must\u00a0follow all lines of enquiry to\u00a0present\u00a0a\u00a0strong case\u00a0to court,\u00a0who make decisions based on the evidence,\u00a0to get the best outcome for the\u00a0taxpayer.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why didn\u2019t you act sooner?\u00a0We were on site within days of the site being reported and\u00a0immediately\u00a0confirmed it as a high-risk illegal waste site and went on to take urgent action.\u00a0While we act\u00a0immediately, we also rely on information from the public to alert us to illegal waste sites and the quicker we are made aware the quicker we can act.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Read more on the blog about what we're doing to combat waste crime. ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/11/27/update-progress-on-managing-the-kidlington-illegal-waste-site/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Following\u00a0our\u00a0initial\u00a0blog about\u00a0the appalling large-scale illegal dumping of waste near Kidlington,\u00a0we want to update you on the\u00a0significant progress\u00a0being made to protect\u00a0the\u00a0community and environment.\u00a0"
+    },
+    {
+        "title": "Using pupil profiles to improve disadvantaged outcomes",
+        "authors": [
+            "Elkie Bailes"
+        ],
+        "posted_on": "2025-11-27T15:49:13",
+        "categories": [
+            "Pupil Premium"
+        ],
+        "content": [
+            {
+                "content": "At a glance",
+                "tag": "h2"
+            },
+            {
+                "content": "Understanding each child as an individual lies at the heart of The Greetland Academy\u2019s pupil premium strategy. This West Yorkshire primary school - part of the Great Heights Academy Trust \u2013 has achieved positive outcomes for disadvantaged pupils, well above the national average. Assistant Principal Elkie Bailes shares the strategies that are helping every child thrive.",
+                "tag": "p"
+            },
+            {
+                "content": "Our school context and pupil premium cohort",
+                "tag": "h2"
+            },
+            {
+                "content": "There are currently 383 children between the ages of 4 and 11 attending The Greetland Academy. Approximately, 13.3% of pupils are eligible for pupil premium funding, considerably below the national average for primary schools.",
+                "tag": "p"
+            },
+            {
+                "content": "At our school, some pupil premium children face lower attendance and underperform in Maths and English compared to their peers, with gaps widening for those with SEND who make up 41% of this group.",
+                "tag": "p"
+            },
+            {
+                "content": "Disadvantaged pupils often lack rich experiences outside school, limiting vocabulary and contextual knowledge. Post-pandemic, there was a rise in pupils needing social and emotional support, further impacting learning across the curriculum.",
+                "tag": "p"
+            },
+            {
+                "content": "While these barriers were common, we know that our disadvantaged pupils are not a homogeneous group. As schools we are rich in data, but we recognised the challenge of joining up this data to develop a full picture of the whole child, their family, and community.",
+                "tag": "p"
+            },
+            {
+                "content": "Our pupil premium strategy: Quality-first teaching and individual profiles",
+                "tag": "h2"
+            },
+            {
+                "content": "At The Greetland Academy, we are united around a belief that all children should reach great heights and fulfil their potential. Evidence shows that high-quality teaching is the biggest lever that we have to improve outcomes for disadvantaged pupils. We have prioritised professional development to ensure all pupils are immersed in a language-rich environment and we offer a range of oral language interventions as part of our targeted academic support to boost reading and attainment. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have also developed individual one-page plans tailored for each of our vulnerable learners. By engaging with teachers, pupils, and wider teams, we developed bespoke plans highlighting each child\u2019s strengths, needs, current provision, and support strategies. When staff at every level understand the varied needs of disadvantaged pupils and believe in their potential, identification of barriers becomes a tool for empowerment rather than deficit-finding.",
+                "tag": "p"
+            },
+            {
+                "content": "The plans are shared with all adults working in the classroom, ensuring consistency and enabling staff to provide targeted support that helps every child succeed. These plans are living documents, regularly reviewed and updated by teachers to remain current and effective.",
+                "tag": "p"
+            },
+            {
+                "content": "Pupil premium impact: 2025 outcomes and pupil voice",
+                "tag": "h2"
+            },
+            {
+                "content": "Early signs of success are evident in the 2025 data. At the end of Key Stage Two, 100% of children eligible for pupil premium funding met the expected standard in Reading, Writing, and Maths, and all Pupil Premium pupils passed the Year 1 Phonics Screening Check. Feedback gathered through pupil voice sessions with school governors revealed that children spoke positively about the opportunities provided by the school and the support they receive in class. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps for sustainability",
+                "tag": "h2"
+            },
+            {
+                "content": "We are now focusing on how we can sustain the approach by normalising use of pupil profiles within existing structures. We are also developing the use of the profiles as a transition tool at entry and exit points.",
+                "tag": "p"
+            },
+            {
+                "content": "When considering barriers to learning for particular children, we challenge ourselves to think about what we can do differently to help them succeed. These adaptations to our curriculum, our teaching, and wider provision can help all children to achieve their full potential.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "Department for Education (DfE) publications\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Education Endowment Foundation resources\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "DfE pupil premium webinars\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://teaching.blog.gov.uk/2025/11/27/pupil-premium-profiles-improve-disadvantaged-outcomes/",
+        "blog": "Teaching",
+        "blog_link": "https://teaching.blog.gov.uk",
+        "description": "Elkie Bailes shares how The Greetland Academy's pupil premium approach, using individual profiles and quality teaching, helped every disadvantaged child meet expected standards."
+    },
+    {
+        "title": "Rediscovering the value of water meadows",
+        "authors": [
+            "Edward Parrott"
+        ],
+        "posted_on": "2025-11-27T14:57:50",
+        "categories": [
+            "Biodiversity",
+            "Connecting People with Nature",
+            "Landscape",
+            "Natural England",
+            "Nature"
+        ],
+        "content": [
+            {
+                "content": "By  Edward Parrott, Senior officer - Agri-Environment Evidence team, Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "Earlier this year I had the pleasure of joining contractors LUC and industry experts on a visit to Harnham water meadows - a rare surviving example of a centuries-old farming innovation that once shaped the English countryside.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The visit was part of a two-year evaluation project, funded through the Natural England Agri-Environment Evidence (AEE) programme and delivered by LUC and CCRI. The project is looking closely at agri-environment scheme options designed to support this habitat and aims to give a clearer picture of what\u2019s working, and ways to improve.",
+                "tag": "p"
+            },
+            {
+                "content": "The attendees on the day kindly permitted me to do some filming and capture interviews. We arrived early to catch the dramatic light of a low-sun spilling across the undulating water meadows. The weather was perfect and I got a drone up into the air to gain the aerial perspective. From this, I\u2019ve produced a video showcasing the uniqueness of historic water meadows as a habitat, as an agricultural technique, as a community asset and celebrate the incredible dedication of the people who manage them.",
+                "tag": "p"
+            },
+            {
+                "content": "What are water meadows and how do we manage them?",
+                "tag": "h4"
+            },
+            {
+                "content": "Water meadows are a historic agricultural practice which emerged in England in the 16th century. Hadrian Cook (Harnham Water Meadows Trust) explains that the meadows at Harnham are thought to be around 400 years old. Located on the western edge of Salisbury, the meadows sit within the River Nadder system and span around 100 acres.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These meadows use a network of channels, ditches and sluices to \u2018float\u2019 or \u2018drown\u2019 the land with a shallow layer of flowing water \u2014 typically around 25mm deep. This process, known as \u2018drowning,\u2019 warms the grass, deposits nutrient-rich silt and provides oxygen to the soil, stimulating early grass growth \u2013 a term known as \u2018early bite.\u2019 Historically this helped support more livestock through the winter months which otherwise would have had to have been slaughtered.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Harnham is managed under a Higher Tier Countryside Stewardship agreement with advice from Natural England. This agreement supports the water meadow management and specifically the need to drown the meadows in the early part of the year in alternate weeks over a 6\u20138-week period. Volunteers manage the sluices daily during this period to ensure the water keeps flowing to avoid the water stagnating and negatively impacting grass growth.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Water meadows in the past",
+                "tag": "h4"
+            },
+            {
+                "content": "Traditionally livestock would have grazed the early bite and then the water meadow may have been drowned again to stimulate grass for a hay crop. Water meadows like Harnham supported what\u2019s known as a sheep-corn system. The meadows were grazed in the day by sheep which were then taken off around 4pm to fold overnight in nearby barley and corn fields. This was an efficient way of transporting the fertility provided by the flooding, onto the arable land and caused significant increases in crop yield. Good for the water meadow habitat, good for water quality, good for agricultural production. This is regenerative farming at its core.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Of course, the medieval economy and society relied much more heavily on horses and draft animals than it does today. Hay was an essential and valuable commodity to keep these animals alive outside of the growing season, and water meadows were an intensive way of producing hay at times when other grasslands were unsuited to do so.",
+                "tag": "p"
+            },
+            {
+                "content": "Harnessing the fertility and production potential of the water meadows was labour intensive. Naturally, the cost/benefit of this effort shifted following the industrial revolution at the latter end of the 19th century. Agriculture became more mechanised and horses less essential for day-to-day life. As expected, traditional water meadow management dropped off at this point in history.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Water meadows today",
+                "tag": "h4"
+            },
+            {
+                "content": "While hay cropping was historically important, it\u2019s rarely practiced today due to the undulating topography and the damp ground making it unsuitable for modern machinery.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A flock of sheep graze the Harnham water meadows, but as industry expert Dr Kathy Stearne from KIS Landscape Ecology explains: \"it doesn\u2019t have to be sheep or cattle, it could be llamas or water buffalo \u2013 you\u2019re looking for a light animal that doesn\u2019t pull the sward out when it grazes.\"",
+                "tag": "p"
+            },
+            {
+                "content": "I would personally love to see llamas splashing around these places.",
+                "tag": "p"
+            },
+            {
+                "content": "Water meadows offer a host of benefits. They can support nature recovery, by providing habitat for plants and animals, they improve health and wellbeing by fostering community engagement with nature, and they deliver security through nature, providing flood storage and cleaning river water. Harnessing these benefits is only possible through working closely in partnership with communities, in this case the Harnham Water Meadows Trust who provide expert local knowledge to operate the meadows and engage their communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Walking (splashing) through Harnham\u2019s meadows, it\u2019s easy to see how these landscapes are valuable community assets \u2014 rich in wildlife and history. Yet despite their value, many water meadows have fallen out of use. They are labour intensive and require specialised skills to manage.",
+                "tag": "p"
+            },
+            {
+                "content": "Managing for the future",
+                "tag": "h4"
+            },
+            {
+                "content": "Historic water meadows have been funded through government schemes for the past 20 years. Through Environmental Land Management (ELM) schemes, land managers are continuing to be incentivised to protect and restore such heritage-rich landscapes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today, the challenge is to manage water meadows for biodiversity, heritage, water quality, and community engagement. Objectives vary with some sites focusing on aquatic invertebrates and marginal vegetation (like southern damselfly), others on diverse flora, or overwintering birds and breeding waders. Striking the right balance and unlocking the potential of each water meadow site is not simple and requires expert case-by-case advice. Something we at Natural England aim to support with.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The agri-environment evidence report will be published online on Defra Science in 2026. The report will summarise insights from literature reviews, field surveys and interviews with agreement holders and industry experts to identify the key barriers to uptake and recommendations for improving delivery of water meadow related options and capital works.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sharing the story",
+                "tag": "h4"
+            },
+            {
+                "content": "I invite you to experience these historic landscapes from above and hear from the people who manage them. Click below to explore Harnham with us.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/11/27/rediscovering-the-value-of-water-meadows/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Edward Parrott, Senior officer - Agri-Environment Evidence team, Natural England Earlier this year I had the pleasure of joining contractors LUC and industry experts on a visit to Harnham water meadows - a rare surviving example of a centuries-old \u2026"
+    },
+    {
+        "title": "From systems maps to system stories",
+        "authors": [
+            "Becky Miller"
+        ],
+        "posted_on": "2025-11-27T12:00:00",
+        "categories": [
+            "Case study",
+            "PublicPolicyDesign"
+        ],
+        "content": [
+            {
+                "content": "Inspired by the award-winning work of designers in the Ministry of Justice, our Policy Design Lab team in the Department for Environment, Food & Rural Affairs were keen to use system mapping to help policy colleagues make sense of their evidence base.",
+                "tag": "p"
+            },
+            {
+                "content": "But systems maps can be visually overwhelming, often only making sense to those making them. The Foresight Obesity Systems Map is an often-quoted example of this. As a result, they can sometimes feel alienating and ultimately lose their value and impact.",
+                "tag": "p"
+            },
+            {
+                "content": "We wanted to design a more participatory method of systems mapping that allowed a wider, more diverse group of colleagues to be involved in the sense making process.",
+                "tag": "p"
+            },
+            {
+                "content": "Innovating how evidence is mapped",
+                "tag": "h2"
+            },
+            {
+                "content": "In our recent blog post, we described the challenges of evidence-based policy making that we\u2019ve experienced on the Farming and Countryside Programme. In response, we ran a participatory workshop in June 2023 which combined systems mapping and serious games methods.",
+                "tag": "p"
+            },
+            {
+                "content": "We worked with professional games designer Matteo Menapace to design a participatory \u2018evidence mapping\u2019 workshop, that allowed 36 colleagues with little or no prior knowledge of systems mapping to explore the 150 individual insights and build their own evidence maps. An important part of the workshop was printing off our insights as individual \u2018nuggets\u2019 or \u2018evidence cards\u2019. In the first part of the workshop, we used simple card swapping activities to socialise the evidence base and get colleagues familiar with the breath of insights.",
+                "tag": "p"
+            },
+            {
+                "content": "One of our participants reflected on how this tactile approach allowed for a more engaging, collaborative experience of evidence review, for an activity which is often done in isolation in front of a computer:",
+                "tag": "p"
+            },
+            {
+                "content": "By the end of the day, colleagues had identified both the vicious and virtuous cycles that connect the individual insights:",
+                "tag": "p"
+            },
+            {
+                "content": "Visualising system stories",
+                "tag": "h2"
+            },
+            {
+                "content": "After the workshop we analysed the evidence maps and create an aggregated map identifying the underlying series of factors driving and blocking policy outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "Knowing how overwhelming systems maps can be to read, we then broke down the aggregated map into 8 smaller (but still connected) maps or \u2018system stories\u2019. Each told an important story in the evidence base that significantly impacts the policy outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "We made simple animated visuals of these system stories, allowing colleagues across the programme to appreciate how different insight \u2018nuggets\u2019 in the evidence impact each other.",
+                "tag": "p"
+            },
+            {
+                "content": "The final framing was to introduce the notion of these system stories as \u2018opportunity areas of work\u2019 for the programme. This framing allowed us to identify and share new challenge questions (\u2018how might we...\u2019) with the policy team to stimulate new thinking, ideas and hypotheses to test. ",
+                "tag": "p"
+            },
+            {
+                "content": "It also allowed us to identify existing work, beyond the scope of our programme\u2019s work. That is already working to flip the system stories, addressing some of its delivery risks. This highlighted an important aspect of systems thinking, which is considering where to usefully draw the boundary to a system, which might involve challenging assumptions and silos.",
+                "tag": "p"
+            },
+            {
+                "content": "Lessons for participatory mapping",
+                "tag": "h2"
+            },
+            {
+                "content": "For us there were five key learning areas from this work:",
+                "tag": "p"
+            },
+            {
+                "content": "1. Using multidisciplinary working to actively bridge the \u2018policy-delivery gap\u2019",
+                "tag": "h3"
+            },
+            {
+                "content": "Inviting professionals from both the policy and delivery disciplines to contribute to our evidence discovery and take part in the evidence mapping workshop was an effective way to avoid overlooking insights and generate a wider variety of hypotheses and ideas to test. It was also an active way of demonstrating the value of a multidisciplinary team upstream in the policy space.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Embracing visual and physical ways of learning",
+                "tag": "h3"
+            },
+            {
+                "content": "We heard feedback during the evidence discovery that the visual images we used to theme the evidence helped people navigate and review the volume of evidence quickly. Similarly, we heard that the physical, tactile quality of printed evidence cards and the card swapping activities helped people digest and explore the insights in a more meaningful way than online workshops. These things reminded us of the value of investing in face-to-face working at points in a project when collective understanding and buy-in are critical to moving work forward.",
+                "tag": "p"
+            },
+            {
+                "content": "3. Supporting knowledge management",
+                "tag": "h3"
+            },
+            {
+                "content": "Our insights database will now be added to a new programme-wide insights library, being led by the User Research Community in Defra. Our project went further, showing the potential for an accessible, searchable insights library to form the basis of a whole range of creative, innovative policy making workshops that invite diverse groups of people to review evidence, make meaning and imagine new policy ideas to test.",
+                "tag": "p"
+            },
+            {
+                "content": "4. Framing the analysis",
+                "tag": "h3"
+            },
+            {
+                "content": "In our final playback we framed the system stories we\u2019d identified as \u2018opportunity areas of work\u2019. However, on reflection, we\u2019re learning that policy colleagues can often be more compelled to action by \u2018risks\u2019 and \u2018mitigations\u2019. This is an interesting and important learning for us about policymaker motivations, and how to inspire action from research and insights.",
+                "tag": "p"
+            },
+            {
+                "content": "5. A note on language",
+                "tag": "h3"
+            },
+            {
+                "content": "We deliberately chose not to use the language of \u2018system mapping\u2019 which can sometimes feel overly technical or alienating for those coming new to the method. Instead, we stuck with plain English, describing the logical next step of \u2018mapping\u2019 the evidence after our earlier evidence discovery workshop.",
+                "tag": "p"
+            },
+            {
+                "content": "Share your experience",
+                "tag": "h2"
+            },
+            {
+                "content": "Those were our key takeaways from this work, but we\u2019re also curious to know what your reflections are on this participatory approach to systems mapping",
+                "tag": "p"
+            },
+            {
+                "content": "Let us know your thoughts below or email us: policydesignlab@defra.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://publicpolicydesign.blog.gov.uk/2025/11/27/from-systems-maps-to-system-stories/",
+        "blog": "Public Policy Design",
+        "blog_link": "https://publicpolicydesign.blog.gov.uk",
+        "description": "Defra\u2019s Policy Design Lab team show some of the design methods they use to make sense of complex evidence."
+    },
+    {
+        "title": "A coordinated effort: how we\u2019re tackling the dual threat of deer and grey squirrels",
+        "authors": [
+            "Dr Anna Brown"
+        ],
+        "posted_on": "2025-11-27T12:00:00",
+        "categories": [
+            "Deer",
+            "Woodland management"
+        ],
+        "content": [
+            {
+                "content": "England\u2019s woodlands are a vital natural asset. They provide habitat for native wildlife, support the timber industry, offer spaces for recreation and capture carbon. However, these ecosystems face significant threats from deer and the non-native grey squirrel. ",
+                "tag": "p"
+            },
+            {
+                "content": "Both organisations are working to manage the impacts through financial support, scientific innovation, increased culling effort and landscape-scale collaboration to protect woodlands.",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding the problem",
+                "tag": "h2"
+            },
+            {
+                "content": "The impact of deer",
+                "tag": "h3"
+            },
+            {
+                "content": "Heavy deer browsing prevents woodland creation by damaging newly planted trees and preventing, or slowing, natural colonisation. In established woodlands, it can destroy the understorey which degrades habitat for wildlife, stops regeneration and reduces resilience in the long term. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Heavily browsed woodlands grow more slowly, store less carbon and support fewer plant, invertebrate and bird species. This has clear environmental and economic consequences.",
+                "tag": "p"
+            },
+            {
+                "content": "The threat of grey squirrels",
+                "tag": "h3"
+            },
+            {
+                "content": "Grey squirrels threaten our native red squirrel population though competition and disease transmission. They can also strip bark from trees, undoing years of careful woodland management.",
+                "tag": "p"
+            },
+            {
+                "content": "Bark stripping slows growth, weakens branches and allows fungal diseases into the heartwood. In extreme cases, when trees are stripped all the way round the main stem, it kills them. This limits future timber use and can change woodland composition.",
+                "tag": "p"
+            },
+            {
+                "content": "These problems are acknowledged across the sector and beyond.",
+                "tag": "p"
+            },
+            {
+                "content": "Andy Leitch, Deputy Chief Executive of the Confederation of Forest Industries (Confor), says:",
+                "tag": "p"
+            },
+            {
+                "content": "Our response",
+                "tag": "h2"
+            },
+            {
+                "content": "The impacts of grey squirrels and deer on woodlands are well documented. We know that a balanced, long-term approach is essential for the health and resilience of England\u2019s trees and woodland biodiversity. Here is just some of the work happening across the sector:",
+                "tag": "p"
+            },
+            {
+                "content": "Financial support for woodland owners",
+                "tag": "h3"
+            },
+            {
+                "content": "We introduced deer and squirrel management supplements into Countryside Stewardship in 2022 to help woodland owners and foresters offset the cost of managing the impact of deer and squirrels.",
+                "tag": "p"
+            },
+            {
+                "content": "The grants offer flexibility: from applicants funding professional wildlife managers for lethal control to capital investment in infrastructure and equipment such as high seats and humane squirrel traps.",
+                "tag": "p"
+            },
+            {
+                "content": "Since launch, over 900 grant agreements have been signed, increasing resources to reduce deer impacts on 65,000 hectares of woodland and grey squirrels impacts on 55,000 hectares. We encourage all woodland owners to consider these grants where eligible (now under PA7, CWS1 and CWS3).",
+                "tag": "p"
+            },
+            {
+                "content": "Christopher Williams, CEO of the Royal Forestry Society (RFS), says:",
+                "tag": "p"
+            },
+            {
+                "content": "Landscape-scale deer management",
+                "tag": "h3"
+            },
+            {
+                "content": "Wild deer, particularly herding species such as fallow, red and sika, can cross several properties in a single day, making collaboration between landowners essential for effective management.",
+                "tag": "p"
+            },
+            {
+                "content": "Projects like the Sussex Woods Pilot, managed by Natural England, bring together many landowners to understand deer numbers and impacts, coordinate culling, provide training and develop initiatives such as venison marketing schemes to provide healthy locally sourced meat.",
+                "tag": "p"
+            },
+            {
+                "content": "Steve Walker, Project Coordinator of the Sussex Woods Protected Site Strategies Pilot, says:",
+                "tag": "p"
+            },
+            {
+                "content": "Knowledge sharing and building capacity",
+                "tag": "h3"
+            },
+            {
+                "content": "Forestry Commission Deer Officers reach thousands of people each year through large events such as the National Deer Conference (attended by over 300 people in 2024) to local workshops and one-to-one advice for woodland owners, agents and managers.",
+                "tag": "p"
+            },
+            {
+                "content": "Sharing successes and failures is essential to improving deer and squirrel management nationally. Deer management is often solitary work, so bringing professionals and recreational stalkers together is an effective way of enabling knowledge exchange.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting the Squirrel Accord",
+                "tag": "h3"
+            },
+            {
+                "content": "The Forestry Commission and Natural England, along with 43 other organisations, are signatories to the Accord, which aims to protect red squirrels and broadleaf trees from grey squirrel impacts.",
+                "tag": "p"
+            },
+            {
+                "content": "Through dedicated Squirrel Officers, the Accord increases grey squirrel management across woodland areas. Officers work with landowners and volunteers in Yorkshire, Lancashire and County Durham, close to England\u2019s few remaining red squirrel strongholds.",
+                "tag": "p"
+            },
+            {
+                "content": "Kay Haw, Director of the UK Squirrel Accord (UKSA), says:",
+                "tag": "p"
+            },
+            {
+                "content": "Embracing technology and innovation",
+                "tag": "h3"
+            },
+            {
+                "content": "Advances in night vision and thermal imagery have enabled more accurate population surveys. Drones with thermal cameras are increasingly used across estates and in landscape-scale projects to reduce deer and squirrel impacts, whilst night vision helps deer managers increase their effectiveness within current legislation.",
+                "tag": "p"
+            },
+            {
+                "content": "Research into grey squirrel fertility control, conducted by the Animal and Plant Health Agency and facilitated by the UKSA, could provide a longer-term alternative to lethal control.",
+                "tag": "p"
+            },
+            {
+                "content": "Developing the venison supply chain",
+                "tag": "h3"
+            },
+            {
+                "content": "Culling of wild deer not only improves our woodland resilience, but it also provides a nutritious and healthy source of protein, and the only climate positive red meat in the form of wild venison.",
+                "tag": "p"
+            },
+            {
+                "content": "We have been working with Grown in Britain, Approved Game Handling Establishments and others to build confidence in the venison supply chain. The resulting British Quality Wild Venison (BQWV) standard provides the assurance that the venison produced under this scheme has come from humanely culled deer, carefully inspected and prepared for the food chain immediately after shooting, then stored and transported in climate-controlled facilities.",
+                "tag": "p"
+            },
+            {
+                "content": "Dougal Driver, CEO of Grown in Britain, says:",
+                "tag": "p"
+            },
+            {
+                "content": "Increasing demand for wild venison helps offset deer management costs whilst providing a sustainable and healthy source of free-range meat. Various organisations, including hospitals and universities, are using venison more frequently and feedback has been positive.",
+                "tag": "p"
+            },
+            {
+                "content": "The Royal Society for the Protection of Birds (RSPB) supports maintaining deer populations at levels that enable healthy, functioning ecosystems and sees a growing wild venison market as key to achieve this balance.",
+                "tag": "p"
+            },
+            {
+                "content": "Andrew Weatherall, Principal Policy Officer (Woodlands and Forestry) for the RSPB, says:",
+                "tag": "p"
+            },
+            {
+                "content": "Managing the nation\u2019s forests \u2013 Forestry England\u2019s vision for the future",
+                "tag": "h2"
+            },
+            {
+                "content": "Deer licensing reform",
+                "tag": "h3"
+            },
+            {
+                "content": "Shooting deer at night is normally unlawful but night shooting can increase culling efficiency, particularly for herding species that move into fields after dark.",
+                "tag": "p"
+            },
+            {
+                "content": "Currently, individuals must apply for night shooting licences for specific land areas and demonstrate that daytime shooting cannot resolve the damage. Natural England has reviewed how these licences are issued and is introducing a lighter-touch licensing regime to support wider use of night shooting.",
+                "tag": "p"
+            },
+            {
+                "content": "People will be able to register for a night shooting class licence if they meet training and experience requirements. The new approach is currently being tested with Forestry England rangers, with plans to offer it to all deer managers in early 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working together for England's woodlands",
+                "tag": "h2"
+            },
+            {
+                "content": "The challenges posed by deer and grey squirrels require action at every level, from policy and innovation to practical management on the ground. Ultimately, success or failure to reduce deer and grey squirrel impacts nationally rests with woodland owners making decisions to work with their neighbours, increase cull efforts and use government support to help achieve this. Without collective effort, these species will continue to undermine efforts to improve farming and forestry economics, restore nature and mitigate climate change.",
+                "tag": "p"
+            },
+            {
+                "content": "We celebrate everyone contributing to this effort: landowners and managers,  Squirrel Accord and Deer Initiative Partnership members, professional and recreational deer managers, game keepers, game dealers and consumers choosing British Quality Wild Venison. Your work directly supports the health of England's woodlands and the benefits they provide to us all, and we encourage you to both continue and expand your efforts.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2025/11/27/a-coordinated-effort-how-were-tackling-the-dual-threat-of-deer-and-grey-squirrels/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "As part of National Tree Week, Anna Brown, Director of Forest Services at the Forestry Commission, and Alan Law, Chief Officer for Strategy and Reform at Natural England, reflect on the work happening across the sector to reduce the impacts of deer and squirrels on England\u2019s woodlands."
+    },
+    {
+        "title": "Copyright carols for choirs",
+        "authors": [
+            "Meg Davies"
+        ],
+        "posted_on": "2025-11-27T12:00:00",
+        "categories": [
+            "Copyright"
+        ],
+        "content": [
+            {
+                "content": "Attending a\u00a0carol\u00a0concert can be one of the highlights of Christmas.\u00a0If, like me,\u00a0you're\u00a0in a choir, then\u00a0the festive season is bound to start early. Rehearsals from September\u00a0onwards\u00a0are met with\u00a0a mixture of\u00a0excitement and cries of 'it's too\u00a0soon!' as the\u00a0year's\u00a0selection\u00a0of carols\u00a0gets handed around.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But,\u00a0do you know the role that copyright plays in the\u00a0music performed?\u00a0Following on from a\u00a0previous blog on copyright in choir music, here are some of our top tips\u00a0for\u00a0making sure that your performances\u00a0remain\u00a0as lawful as they are tuneful.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Oh\u00a0Come All Ye Faithful... to\u00a0copyright law\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Copyright is the automatic protection that covers\u00a0written, dramatic,\u00a0musical\u00a0and artistic work. The automatic protection over musical work covers a variety of areas: the music itself by the composer and/or arranger, the lyrics by the writer,\u00a0and\u00a0how it looks on the page, also known as the typographical\u00a0arrangement.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Choir leaders should consider\u00a0this when choosing and distributing music for a new season \u2013 and\u00a0luckily,\u00a0we have guidance to help you adhere to the rules.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Public domain:\u00a0the gift that keeps on giving\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Copyright\u00a0protection\u00a0in the UK covers\u00a0music\u00a0for 70 years after the author's death. This means that favourites like The Twelve Days of Christmas, We Wish You a Merry Christmas and Hark! The Herald Angels Sing are all in the public domain \u2013 but\u00a0this\u00a0doesn't\u00a0mean that every\u00a0version\u00a0of them is free to use.\u00a0Only the original carol\u00a0compositions or\u00a0very old\u00a0arrangements\u00a0are\u00a0available to use\u00a0as you please.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Modern arrangements of the classics are covered by their own copyright, and so you should obtain the correct permissions before using them.\u00a0For\u00a0example,\u00a0the upbeat\u00a0versions\u00a0of classic songs by\u00a0prolific composer/arranger Mac\u00a0Huff\u00a0(that my choir favours)\u00a0remain\u00a0protected,\u00a0even though the original carol\u00a0may have long\u00a0been in the public domain.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s\u00a0also crucial that you remember\u00a0that\u00a0if the composer is still alive or has passed away in the last 70 years,\u00a0their music is still covered by copyright. So modern favourites like\u00a0John Rutter's Angel Carol\u00a0and\u00a0Christmas pop songs\u00a0such as\u00a0All I Want for Christmas is You\u00a0are protected by\u00a0copyright and\u00a0should be\u00a0purchased\u00a0from official vendors.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Even well-loved carols might differ in their copyright protection. The lyrics of In the Bleak Midwinter by Christina Rosetti are long expired, and the version by Gustav Holst is no longer protected by copyright. However, the version by Harold Darke is still protected, as he died in 1976 (within the 70 year period).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Copying music:\u00a0it's\u00a0beginning to look a lot like infringement\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It may seem tempting;\u00a0you\u2019ve\u00a0bought one copy of a carol, and decide to make photocopies to avoid buying a copy for each choir member.\u00a0Yet while this\u00a0might seem harmless,\u00a0it's\u00a0usually not allowed without permission. Copyright law treats photocopying as making a copy, which is a restricted act.\u00a0This protection\u00a0is\u00a0vital \u2013 it ensures that composers and arrangers can continue to create the beautiful music that soundtracks our festive seasons. Without it, creating music would be a hobby, not a livelihood.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So,\u00a0what are the options?\u00a0If your choir learns by ear (without music), but you need an accessible copy for certain members, you may be able to rely on a\u00a0copyright exception. For everyone else, you can either buy extra copies for your\u00a0choir or\u00a0secure\u00a0an appropriate licence\u00a0to allow you to distribute copies.\u00a0Ensure you read the terms and conditions when buying\u00a0new music\u00a0to understand how your purchase allows it to be distributed.\u00a0Organisations like the\u00a0Music Publishers' Association\u00a0can help you understand what licences you might need.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Lessons in carols\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If in doubt, check the copyright\u00a0statement\u00a0on the sheet music or contact the publisher\u00a0-\u00a0it's\u00a0the best way to keep your choir singing legally and ethically this Christmas.\u00a0Many publishers are happy to help and may offer flexible solutions for choirs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Remember, copyright\u00a0isn't\u00a0there to be a Grinch \u2013 it ensures that composers,\u00a0arrangers\u00a0and lyricists can continue creating the music that makes our Christmases so special. By respecting copyright,\u00a0we're\u00a0all singing from the same hymn sheet when it comes to supporting the arts.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more detailed information on copyright in printed music, you can\u00a0read\u00a0our guidance\u00a0including\u00a0the\u00a0copyright notice on sheet music.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/11/27/copyright-carols-for-choirs/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "Do you know the role that copyright plays in Christmas carols?\u00a0Following on from a\u00a0previous blog on copyright in choir music, here are some of our top tips\u00a0for\u00a0making sure that your performances remain\u00a0as lawful as they are tuneful.\u00a0\u00a0"
+    },
+    {
+        "title": "Vision to verdicts: Introducing new courts and tribunals",
+        "authors": [
+            "HMCTS Communications"
+        ],
+        "posted_on": "2025-11-27T11:46:42",
+        "categories": [
+            "Podcast",
+            "User experience and research",
+            "Working at HMCTS"
+        ],
+        "content": [
+            {
+                "content": "What goes into creating a modern courthouse?",
+                "tag": "p"
+            },
+            {
+                "content": "From Blackpool's new courthouse to London's state-of-the-art City of London law courts on Fleet Street, explore the major developments transforming justice facilities across England and Wales.",
+                "tag": "p"
+            },
+            {
+                "content": "Discover accessibility features like changing places and wheelchair-accessible cells, the regeneration of Salisbury Square, and the conversion of 7 Newgate Street into a world-leading 30-hearing-room tribunal centre.",
+                "tag": "p"
+            },
+            {
+                "content": "Plus, hear how \u00a3148 million is tackling leaking roofs and ageing heating systems from Nottingham Crown Court to Birmingham, making buildings fit for purpose.",
+                "tag": "p"
+            },
+            {
+                "content": "Listen to the latest episode now, available wherever you get your podcasts from!",
+                "tag": "p"
+            },
+            {
+                "content": "Amazon",
+                "tag": "p"
+            },
+            {
+                "content": "Apple",
+                "tag": "p"
+            },
+            {
+                "content": "Buzzsprout",
+                "tag": "p"
+            },
+            {
+                "content": "Spotify",
+                "tag": "p"
+            },
+            {
+                "content": "A transcript of the podcast is also available.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2025/11/27/vision-to-verdicts-introducing-new-courts-and-tribunals/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "From Blackpool's new courthouse to London's state-of-the-art City of London law courts on Fleet Street, major developments are transforming justice facilities across England and Wales, delivering accessible, modern buildings for all."
+    },
+    {
+        "title": "Launching the Export Support Chatbot: Empowering small businesses to go global",
+        "authors": [
+            "Kai Hellstrom, Senior Product Manager"
+        ],
+        "posted_on": "2025-11-27T10:30:50",
+        "categories": [
+            "Products"
+        ],
+        "content": [
+            {
+                "content": "Kai Hellstrom",
+                "tag": "h3"
+            },
+            {
+                "content": "Small businesses are a core part of the UK economy. They drive innovation, create jobs, and support communities across the country. Yet when it comes to exporting and scaling up, finding the time to understand the process can be daunting. Small Business Saturday is held on the first Saturday in December, but its impact extends beyond this as a national effort to highlight small businesses' contributions to our communities and economy. This blog discusses how the Department for Business and Trade\u2019s (DBT's) digital team works to help these businesses all year round.",
+                "tag": "p"
+            },
+            {
+                "content": "DBT offers businesses in the United Kingdom and beyond a range of learning and support services on its Digital Business Growth Service website, business.gov.uk. This digital service brings together valuable sources of information for small businesses to help them understand how to start or grow their business.",
+                "tag": "p"
+            },
+            {
+                "content": "A key component of our support to business is the information it provides regarding how to export, or how to access the department\u2019s export support services.",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding the problem",
+                "tag": "h2"
+            },
+            {
+                "content": "Through extensive user research with small business owners, it is clear that the exporting process is often hindered by several key pain points:",
+                "tag": "p"
+            },
+            {
+                "content": "Recognising these obstacles, the team set out to create a solution that would simplify the fractured support landscape and empower small businesses to act with confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "Testing the solution",
+                "tag": "h2"
+            },
+            {
+                "content": "The Export Support Chatbot is designed to be a trusted companion for all businesses looking to navigate the complexities of exporting. Powered by artificial intelligence, it provides instant, authoritative answers to a wide range of export-related questions. The chatbot is in the Private-Beta testing stage, meaning that it is currently available by invite only to a small number of randomly selected business.gov.uk account holders.",
+                "tag": "p"
+            },
+            {
+                "content": "The invited users have been engaging with the chatbot for a 2-month trial period to ask any export focused questions that they have.",
+                "tag": "p"
+            },
+            {
+                "content": "This approach has allowed the team to learn about how businesses interact with a government chatbot in a controlled environment. We hope to learn about the types of questions asked, how they are phrased, and understand the expectations of responses provided. By analysing the questions and responses, we can refine the chatbot\u2019s performance and enable it to provide even better responses over future iterations.",
+                "tag": "p"
+            },
+            {
+                "content": "Developing an AI-powered chatbot for government presents unique challenges. While chatbots can be spun up in less than an hour, accuracy and trust are paramount and this requires work. The chatbot draws exclusively from verified government and partner sources with the relevant citation - to ensure that businesses receive accurate and up-to-date information. \u00a0These safeguards have helped us maintain trust and transparency in the chatbot. They have also allowed us to better understand the types of questions that the chatbot will respond to, and those that it will not.",
+                "tag": "p"
+            },
+            {
+                "content": "We recognise that some business users might prefer human interaction, so we\u2019ve also implemented options to easily connect with our team of export advisers for more complex queries.",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach has been collaborative and iterative, and by starting with a focused set of export topics only, we can learn quickly and expand responsibly. We collaborated closely with our internal subject matter experts and monitoring evaluation teams.\u00a0 This ensured that the chatbot was providing accurate, relevant, and meaningful responses before we opened it up to select businesses.",
+                "tag": "p"
+            },
+            {
+                "content": "What we're learning: Real impact for small businesses",
+                "tag": "h2"
+            },
+            {
+                "content": "Early feedback from users has been encouraging. Businesses appreciate the speed and clarity of the chatbot\u2019s responses, because it often brings multiple sources of information together from various sources. This saves time and avoids the frustration of having to search through multiple sources to find answers.",
+                "tag": "p"
+            },
+            {
+                "content": "As we continue to iterate and build, the Private Beta will help us to better understand where businesses most need support. This allows us to refine the chatbot\u2019s content and features to be as helpful as possible and determine how we can best expand and scale.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead: Scaling support for small businesses",
+                "tag": "h2"
+            },
+            {
+                "content": "The Export Support Chatbot is just one new step on the journey to transform our digital support for small businesses.",
+                "tag": "p"
+            },
+            {
+                "content": "Our ambition is to expand the offer available to include a wide range of support for all aspects of starting and running a business. These include assistance in understanding finance options and how to access them, help navigating and understanding the regulations that apply to running a business, and support by providing onwards journeys onto network and partner services available to them. \u00a0By bringing all this trusted information together for small businesses, we hope that the chatbot can have a real impact in allowing small businesses across the UK to scale up and make the most of global growth opportunities. This is something we should celebrate on Small Business Saturday and all year round.",
+                "tag": "p"
+            },
+            {
+                "content": "We have an extensive programme of work to improve how we support businesses to start up, grow, run, export and invest. Read about it in these blogs on our first public-facing AI tool that helps businesses find funding opportunities and the launch of Business.gov.uk. \u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2025/11/27/launching-the-export-support-chatbot-empowering-small-businesses-to-go-global/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "How DBT's Export Support Chatbot will supply small businesses with the knowledge they need to export."
+    },
+    {
+        "title": "Introducing the UK Standard Skills Classification: a new way to explore skills and occupations, by Frank Bowley",
+        "authors": [
+            "Communications Team"
+        ],
+        "posted_on": "2025-11-27T10:07:31",
+        "categories": [
+            "analysis",
+            "data",
+            "Insight",
+            "services",
+            "skills england tools"
+        ],
+        "content": [
+            {
+                "content": "Skills England, in partnership with the University of Warwick's Institute for Employment Research (IER), has launched a groundbreaking prototype tool to help everyone speak the same language about skills.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today, we\u2019re excited to introduce the UK Standard Skills Classification (SSC), the first standardised skills framework of its kind in our country.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can think of the SSC as a comprehensive dictionary that translates the complex world of skills, knowledge and tasks across UK occupations into clear, consistent language that everyone can understand and use.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The resource has been launched along with an accompanying report, the 'UK\u202fStandard\u202fSkills\u202fClassification:\u202finterim\u202fdevelopment\u202freport', which describes the classification, its use cases, the development methodology and recommendations for future updates and extensions of the tool. A final version of this report will be published alongside the release of version 1 of the classification in spring 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is the SSC?",
+                "tag": "h2"
+            },
+            {
+                "content": "The SSC is a free resource for individuals, careers advisors, employers, and organisations involved in labour market analysis. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At its heart, it\u2019s a standardised set of lists that breaks down the skills, knowledge and tasks required across UK occupations. But it\u2019s much more than just lists \u2013 it\u2019s a common language that bridges the gap between different sectors, industries and career paths.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The SSC provides an essential common language, helping everyone from individual job seekers to major employers to navigate the world of skills with confidence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who can benefit from this?",
+                "tag": "h3"
+            },
+            {
+                "content": "The beauty of the SSC lies in its versatility. Whether you\u2019re an individual planning your next career move, a careers adviser supporting clients, or an employer trying to understand your workforce better, the SSC has something valuable to offer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For individuals, it opens up new possibilities by helping you discover transferable skills you might not have realised you had, identify exactly what new skills you\u2019d need for a career change, and find relevant training courses to bridge any gaps.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Careers advisers can use it as a powerful tool to support clients in understanding their options and planning realistic career paths based on their existing skills, qualifications and interests.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Employers will find it invaluable for assessing current workforce capabilities, identifying skills gaps before they become problems, planning more effective skills-based recruitment, drafting job vacancy adverts, and making informed strategic decisions about long-term workforce development.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Local authorities, mayoral combined authorities, and organisations involved in labour market analysis can use the SSC to understand local skills needs, forecast future demand, and guide training providers on curriculum priorities and development.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Launching with the UK Skills Explorer\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019re not just releasing the classification on its own \u2013 we\u2019re also launching it alongside our new UK Skills Explorer digital tool. This user-friendly platform makes it easy to browse and navigate the classification, turning what could be overwhelming amounts of information into an intuitive, searchable experience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The UK Skills Explorer takes the comprehensive information in the SSC and presents it in a way that makes sense, whether you\u2019re quickly checking what skills are needed for a particular role or conducting detailed analysis for workforce planning.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is just the beginning",
+                "tag": "h3"
+            },
+            {
+                "content": "We are calling this a prototype because your feedback is crucial to making it even better. We want to hear from everyone who uses it \u2013 what works well, what could be improved, and what added features would make it more useful for your specific needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can share your thoughts directly through the Skills Explorer platform via the feedback functionality. Your input will directly influence the development of version 1, which we are planning to release in spring 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During this beta testing phase, the SSC is hosted on an external website by our partners at the IER.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters",
+                "tag": "h3"
+            },
+            {
+                "content": "In a rapidly changing economy, having a clear, shared understanding of skills has never been more important. The SSC represents a significant step forward in how we think about and discuss skills in the UK. It\u2019s about creating opportunities, reducing barriers, and ensuring that skills development is targeted, effective, and accessible to everyone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you\u2019re looking to advance your career, support others in theirs, or plan for your organisation\u2019s future, the UK Standard Skills Classification provides the foundation for making informed, strategic decisions about skills.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re excited to see how you\u2019ll use it, and we look forward to your feedback as we continue to develop this resource.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to use the UK Skills Explorer",
+                "tag": "h2"
+            },
+            {
+                "content": "With the UK Skills Explorer, you can explore skills, occupations, knowledge, core skills and qualifications by navigating the tabs on the top bar of the website or the links on the left-hand side.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Home",
+                "tag": "h3"
+            },
+            {
+                "content": "Under the 'home' tab, you can use the intelligent search to explore this prototype version of the UK Standard Skills Classification, filtering for:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, a search for 'welding' will bring up results for skills such as \u2018Perform tungsten inert gas (TIG) welding\u2019 and \u2018Perform shielded metal arc welding (SMAW)\u2019; knowledge areas like \u2018Spot Welding Machines\u2019; and occupations such as \u2018Plate welders\u2019 and \u2018Pipe fitters\u2019.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These filters can also be viewed individually, as explained below.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Skills",
+                "tag": "h3"
+            },
+            {
+                "content": "Under the 'skills' tab you can explore all skills at the most detailed level of the classification; at more aggregated levels like skill groups, areas or domains; or industry sectors.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, filtering by the domain \u2018Programming & Implementing (Digital Tools & Systems)\u2019 displays the 170 skills within this domain.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The dynamic filtering allows you to narrow down your search further to the relevant:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Selecting these filters will display the 4 most relevant skills. You can then click on each of the skills to explore them further.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Occupations",
+                "tag": "h3"
+            },
+            {
+                "content": "Under the 'occupations' tab you can explore all occupations at the most detailed level of the 2020 version of the Standard Occupational Classification by search, or by job groups and Sector Subject Areas (SSAs).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, filtering by the job group \u2018Caring Personal Service Occupations\u2019 and the SSA \u2018Health and social care\u2019 returns 28 occupations such as \u2018Home care workers\u2019 and \u2018Residential care workers\u2019.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Knowledge",
+                "tag": "h3"
+            },
+            {
+                "content": "Under the 'knowledge' tab you can explore knowledge by search, or by SSA and concept types.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, filtering by the SSA \u2018Engineering\u2019 and concept type of \u2018Subject\u2019 returns 96 knowledge subject concepts. Adding the further search term of \u2018electrical engineering\u2019 to the search box returns 8 knowledge subject concepts including \u2018Electrical Engineering\u2019 and \u2018Computer Engineering\u2019.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Core Skills",
+                "tag": "h3"
+            },
+            {
+                "content": "Under the 'core skills' tab you can explore core skills, which are the essential foundational abilities that underpin various skills and occupations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The categories are:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Qualifications",
+                "tag": "h3"
+            },
+            {
+                "content": "Under the 'qualifications' tab you can explore all qualifications (including Higher Education, Ofqual registered qualifications and Skills England apprenticeships) by search, or by SSA, qualification types and Regulated Qualifications Framework (RQF) levels.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, filtering by the SSA \u2018Science\u2019, qualification type of \u2018Apprenticeship\u2019 and RQF level of 6 returns 4 qualifications including the \u2018Biomedical scientist\u2019 apprenticeship.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Feedback Functionality\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The digital tool allows users to leave their feedback on the classification.\u00a0 This functionality can be found on the pages relating to particular skills, occupations, knowledge and qualifications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, on the page for 'S.0005 - Adapt leadership style to different situations' you can click on the \"Provide feedback\" icon (see the icon in the image below, top right, circled in red) and give free text feedback on the featured skill's title.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alternatively, you can give feedback on each section of the page where you can either enter free text feedback or select feedback from a set of pre-defined options, for example that the ranking of a particular related concept is \"Too High\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Data Downloads",
+                "tag": "h3"
+            },
+            {
+                "content": "The digital tool also allows users to create a login and download the data that sits behind the Skills Explorer tool. Access to an API will also be available soon.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Frank Bowley\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Deputy Director of Analysis and Insight, Skills England\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://skillsengland.blog.gov.uk/2025/11/27/introducing-the-uk-standard-skills-classification-a-new-way-to-explore-skills-and-occupations-by-frank-bowley/",
+        "blog": "Skills England",
+        "blog_link": "https://skillsengland.blog.gov.uk",
+        "description": "Skills England, in partnership with the University of Warwick's Institute for Employment Research (IER), has launched a groundbreaking prototype tool to help everyone speak the same language about skills.\u00a0 Today, we\u2019re excited to introduce the UK Standard Skills Classification (SSC), \u2026"
+    },
+    {
+        "title": "Future of food regulation \u2013 Budget announcement\u00a0",
+        "authors": [
+            "Katie Pettifer, Chief Executive"
+        ],
+        "posted_on": "2025-11-27T09:39:08",
+        "categories": [
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "As part of this week\u2019s Budget announcement, the FSA has been asked by the UK Government to develop a new national system of regulation for highly compliant large food businesses in England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This request from the Government builds on work we have already done. Two years ago, the FSA carried out a year-long trial of \u2018National Level Regulation\u2019 with major retailers, looking at whether we could regulate the biggest businesses at a national level, scrutinising their data and systems at national level, combined with some checks on the ground.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since then, we\u2019ve worked with local authorities, businesses and other stakeholders on how food regulation could evolve to keep protecting consumers and supporting businesses at both local and national level in the future. We\u2019ve talked about an enhanced registration system, greater use of data and intelligence, more effective local enforcement powers and strong consumer information, building on our trusted food hygiene rating scheme.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A national level approach is an important part of this picture. It could strengthen oversight of the largest businesses, which sell the vast majority of food that households buy. Frequent scrutiny of business data and control systems, together with some checks on the ground, means we can identify and address food safety risks across entire businesses far more quickly, whilst reducing administrative burdens on compliant business.\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately our job at FSA is to protect public health, and to protect consumers, and that will guide any changes we propose. There must always be independent regulation of food businesses, and as the food sector evolves we can develop new ways to do this well. In any future system environmental health professionals will continue to play a vital role \u2013 their insight on the ground is invaluable.\u00a0 But a national level approach for the largest businesses could give those in local authority food teams more time to focus on those local shops and restaurants that need more hands-on support.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, what\u2019s next? We will work up ideas for future food regulation, based on discussions with partners across the food system over the past year. Our proposals will be put to the FSA Board at its meeting in March.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our goal is simple: a food retail sector that\u2019s safe, trusted, and fit for the future. We\u2019ll keep listening to consumers, businesses, and professionals as we go, and we\u2019ll keep you updated as this work progresses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Katie Pettifer, FSA CEO\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Fel rhan o gyhoeddiad Cyllideb yr wythnos hon, mae Llywodraeth y DU wedi gofyn i\u2019r Asiantaeth Safonau Bwyd (ASB) ddatblygu system reoleiddio genedlaethol newydd ar gyfer busnesau bwyd mawr yn Lloegr sy\u2019n cydymffurfio i raddau helaeth.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r cais hwn gan y llywodraeth yn adeiladu ar waith rydym eisoes wedi\u2019i wneud. Ddwy flynedd yn \u00f4l, cynhaliodd yr ASB brawf blwyddyn o hyd ar \u2018Reoleiddio ar Lefel Genedlaethol\u2019 gyda manwerthwyr mawr. Diben y prawf oedd ystyried a fyddai modd rheoleiddio\u2019r busnesau mwyaf ar lefel genedlaethol, gan graffu ar eu data a\u2019u systemau ar lefel genedlaethol, ynghyd \u00e2 rhai gwiriadau ar lawr gwlad.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ers hynny, rydym wedi gweithio gydag awdurdodau lleol, busnesau a rhanddeiliaid eraill ar sut y gallai\u2019r gwaith rheoleiddio bwyd esblygu i barhau i ddiogelu defnyddwyr a chefnogi busnesau ar lefel leol a chenedlaethol yn y dyfodol. Rydym wedi siarad am system gofrestru fanylach, mwy o ddefnydd o ddata a chudd-wybodaeth, pwerau gorfodi lleol mwy effeithiol a threfniadau cadarn o ran darparu gwybodaeth i ddefnyddwyr, gan adeiladu ar ein cynllun sgorio hylendid bwyd dibynadwy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae dull gweithredu ar lefel genedlaethol yn rhan bwysig o\u2019r darlun hwn. Gallai gryfhau\u2019r gwaith o oruchwylio\u2019r busnesau mwyaf, sy\u2019n gwerthu\u2019r mwyafrif helaeth o\u2019r bwyd y mae pobl yn ei brynu ar gyfer y cartref. Drwy graffu ar ddata a systemau rheoli busnesau\u2019n aml, ynghyd \u00e2 chynnal rhai gwiriadau ar lawr gwlad, gallwn nodi a mynd i\u2019r afael \u00e2 risgiau diogelwch bwyd ar draws busnesau cyfan yn gynt o lawer, gan leihau\u2019r baich gweinyddol ar fusnesau sy\u2019n cydymffurfio.\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Yn y pen draw, ein gwaith ni yn yr ASB yw diogelu iechyd y cyhoedd, a diogelu defnyddwyr, a dyna fydd yn llywio unrhyw newidiadau a gynigiwn. Rhaid i fusnesau bwyd gael eu rheoleiddio\u2019n annibynnol bob amser, ac wrth i\u2019r sector bwyd esblygu gallwn ddatblygu dulliau newydd o wneud hyn yn dda. Mewn unrhyw system yn y dyfodol, bydd gweithwyr proffesiynol iechyd yr amgylchedd yn parhau i chwarae rhan hanfodol \u2013 mae eu mewnwelediad ar lawr gwlad yn amhrisiadwy.\u00a0 Ond gallai dull gweithredu ar lefel genedlaethol ar gyfer y busnesau mwyaf olygu bod gan weithwyr mewn timau bwyd awdurdodau lleol fwy o amser i ganolbwyntio ar y siopau a\u2019r bwytai lleol hynny sydd angen mwy o gymorth ymarferol.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Felly, beth nesaf? Byddwn yn gweithio ar syniadau ar gyfer rheoleiddio bwyd yn y dyfodol, yn seiliedig ar drafodaethau \u00e2 phartneriaid ar draws y system fwyd dros y flwyddyn ddiwethaf. Bydd ein cynigion yn cael eu cyflwyno i Fwrdd yr ASB yn ei gyfarfod ym mis Mawrth.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae ein nod yn syml: sector manwerthu bwyd sy\u2019n ddiogel, yn ddibynadwy, ac yn addas ar gyfer y dyfodol. Byddwn yn parhau i wrando ar ddefnyddwyr, busnesau a gweithwyr proffesiynol wrth i ni fynd ymlaen, a byddwn yn rhoi\u2019r wybodaeth ddiweddaraf i chi wrth i\u2019r gwaith hwn fynd rhagddo.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Katie Pettifer, Prif Weithredwr yr ASB\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2025/11/27/future-of-food-regulation-budget-announcement/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Cymraeg As part of this week\u2019s Budget announcement, the FSA has been asked by the UK Government to develop a new national system of regulation for highly compliant large food businesses in England.\u00a0 This request from the Government builds on \u2026"
+    },
+    {
+        "title": "Marine Planning Engagement at RTPI Conference",
+        "authors": [
+            "Mae van Loaf, Coastal Marine Planner (South West)"
+        ],
+        "posted_on": "2025-11-27T09:38:21",
+        "categories": [
+            "marine planning"
+        ],
+        "content": [
+            {
+                "content": "The South West Coastal Planners from the Marine Planning team recently attended the Royal Town Planning Institute (RTPI) conference in Exeter, joining sessions on planning conditions, flood risk standing advice from the Environment Agency, and Nature-Based Solutions. These discussions offered valuable insights into integrating sustainable approaches into planning and policy-making, particularly in coastal and marine contexts.",
+                "tag": "p"
+            },
+            {
+                "content": "Interactive Marine Spatial Planning Workshop \u2013 Positive FeedbackFor the workshop, Mae and Ellie, Coastal Planners for the south west marine plan area, delivered an adapted version of our Marine Spatial Planning (MSP) challenge. Delegates stepped into the shoes of different marine stakeholders, such as fishers, offshore wind developers, and tourism operators, to explore the complexities of balancing sector priorities with environmental and social goals. Participants who played the role of Marine Planners used a decision-making framework they created for activities to prioritise or deprioritise, drawing on their own experience and expertise to balance economic, environmental, and social objectives.",
+                "tag": "p"
+            },
+            {
+                "content": "It was a highlight of the overall event, and feedback was overwhelmingly positive, with praise on the workshop as \u201ca really useful insight into the competing issues involved in marine spatial planning\u201d and other comments said the interactive element of the workshop was both enjoyable and effective in illustrating the challenges and opportunities of strategic marine planning.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2025/11/27/marine-planning-engagement-at-rtpi-conference/",
+        "blog": "Marine Development Blog",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "The South West Coastal Planners from the Marine Planning team recently attended the Royal Town Planning Institute (RTPI) conference in Exeter, joining sessions on planning conditions, flood risk standing advice from the Environment Agency, and Nature-Based Solutions. These discussions offered \u2026"
+    },
+    {
+        "title": "Understanding and improving access arrangements",
+        "authors": [
+            "Amanda Swann"
+        ],
+        "posted_on": "2025-11-27T09:30:00",
+        "categories": [
+            "A levels and GCSEs",
+            "Exams"
+        ],
+        "content": [
+            {
+                "content": "Back in July we withdrew our official statistics on access arrangements for GCSEs, AS and A levels covering 2014 to 2024, after identifying significant issues with how data had been recorded and reported. Today we are pleased to be following that up by publishing revised statistics, alongside new research and a regulatory report that confirms what we expect from exam boards. The report sets out several specific areas where we believe improvements can be made.",
+                "tag": "p"
+            },
+            {
+                "content": "Here's a summary of:",
+                "tag": "p"
+            },
+            {
+                "content": "What the official statistics show",
+                "tag": "h2"
+            },
+            {
+                "content": "As we explained in July, previous figures did not give an accurate picture of the number of students receiving access arrangements within a specific year\u2019s exam cohort. This was not because arrangements were being granted inappropriately, but rather due to limitations of the data source we used for our reporting. These included counting students who held valid arrangements but didn't sit exams in the given year, and not being able to filter out duplicate applications.",
+                "tag": "p"
+            },
+            {
+                "content": "The new statistics \u2013 for the 2024 to 2025 academic year and going back to 2015 to 2016 \u2013 use an improved methodology that focuses only on arrangements granted to students who were actually assessed in each year. They show that 25% extra time was granted for 16.6% to 25.5% of all students being assessed in 2024 to 2025, compared with 14.7% to 20.6% in 2023 to 2024.",
+                "tag": "p"
+            },
+            {
+                "content": "This means the proportion of exam students with an approval for 25% extra time is lower than the previous data suggested, and broadly in line with the rate of special educational needs (SEN) in the student population (as reported by the Department for Education).",
+                "tag": "p"
+            },
+            {
+                "content": "We have given ranges rather than absolute numbers to reflect the complexity of the data. The upper end of the ranges will decrease when these figures are updated next year, as new data becomes available. You can read more about our improved methodology in the regulatory report.",
+                "tag": "p"
+            },
+            {
+                "content": "What our research found",
+                "tag": "h2"
+            },
+            {
+                "content": "Like everyone else, we had seen for some time that demand for access arrangements had been rising, and with it pressure on exam boards and schools and colleges to keep on meeting that demand. We wanted to better understand this, and to identify anything that could be done to improve the system.",
+                "tag": "p"
+            },
+            {
+                "content": "So our research, data and policy experts went to work, analysing the available evidence and data. Our work focused on the granting of 25% extra time in exams, as this is the most common exam-board approved arrangement, as well as the concept of time in assessment.",
+                "tag": "p"
+            },
+            {
+                "content": "Our research found limited evidence of students experiencing time pressure (also known as \u201cspeededness\u201d) in GCSE, AS and A level exams, although this varied across subjects and student groups. While these exams are not designed to assess students' ability to work under time pressure, the interaction between exam tasks, duration and individual students can create unintended speededness for some students.",
+                "tag": "p"
+            },
+            {
+                "content": "We heard a range of views about the current system, including concerns from schools and colleges about the increasing workload and costs involved in identifying appropriate arrangements, evidencing student need, and administering access arrangements.",
+                "tag": "p"
+            },
+            {
+                "content": "There was, however, support for the core principle that access arrangements should be based on a student\u2019s individual needs. The system generally meets this purpose, but we have identified some aspects which could be improved.",
+                "tag": "p"
+            },
+            {
+                "content": "What we expect exam boards to do, and what we will do",
+                "tag": "h2"
+            },
+            {
+                "content": "Ofqual already has rules in place for what exam boards need to do in relation to access arrangements. They must also comply with equalities law.",
+                "tag": "p"
+            },
+            {
+                "content": "But as well as this, and as a result of our findings, we have told the exam boards that we expect them to:",
+                "tag": "p"
+            },
+            {
+                "content": "We will monitor the exam boards\u2019 progress in these areas as part of our normal regulatory approach.",
+                "tag": "p"
+            },
+            {
+                "content": "Also, as we respond to the government\u2019s proposals following the Curriculum and Assessment Review, we will consider our requirements around assessment duration for GCSEs, AS and A levels. We will also take this into account in setting our requirements for the proposed new post-16 qualifications, such as V levels. We will confirm our regulatory expectations for exam boards following that work.",
+                "tag": "p"
+            },
+            {
+                "content": "An access arrangements system we can all be confident in",
+                "tag": "h2"
+            },
+            {
+                "content": "The research and analysis we have done shows our commitment to ensuring the access arrangements system functions effectively and is reported on accurately. It has taken time, but that\u2019s because it\u2019s complex. It\u2019s also really important.",
+                "tag": "p"
+            },
+            {
+                "content": "And the improvements we\u2019ve asked exam boards to make will ensure students continue to receive the support they need to demonstrate their knowledge, skills and understanding, while minimising burden on the schools and colleges managing these vital arrangements.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofqual.blog.gov.uk/2025/11/27/understanding-and-improving-access-arrangements/",
+        "blog": "The Ofqual blog",
+        "blog_link": "https://ofqual.blog.gov.uk",
+        "description": "Back in July we withdrew our official statistics on access arrangements for GCSEs, AS and A levels covering 2014 to 2024, after identifying significant issues with how data had been recorded and reported. Today we are pleased to be following \u2026"
+    },
+    {
+        "title": "What the Budget means for young people\u00a0",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-11-27T07:00:00",
+        "categories": [
+            "Students",
+            "Universities"
+        ],
+        "content": [
+            {
+                "content": "Today the Chancellor announced the Autumn Budget, setting out changes that will affect young people in higher education.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Students from low-income families will get extra money to help with day to day costs at university.\u00a0This will help support more students from the lowest income households progress into and excel in higher education.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here's what these changes mean for you in more detail.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Will I get extra money to help with costs at university?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "If you're from a low-income family and studying certain subjects full-time at university, you'll be able to get a maintenance grant from 2028/29. This money, which you don\u2019t have to pay back, and comes on top of your student loan, will help break down financial barriers so that more young people, regardless of background, can access the opportunities higher education offers.",
+                "tag": "p"
+            },
+            {
+                "content": "If you're from a low-income family and studying certain subjects full-time at university, you'll be able to get a maintenance grant from 2028/29. This is money you don't have to pay back, and it comes on top of your student loan.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The money is there to help with everyday costs like food, travel and bills whilst you're studying. You'll get the grant on top of your maintenance loan, which means you'll have more money in your pocket without taking on extra debt.",
+                "tag": "p"
+            },
+            {
+                "content": "How much money will I get?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "If your family's household income is \u00a325,000 a year or less, you\u2019ll get \u00a31,000 extra each year in your first and second years of study. If your family's household income is between \u00a325,000 and \u00a330,000, you'll get between \u00a3500 and \u00a31,000.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In your third year onwards, if you remain eligible, you'll get up to \u00a3750 if your household income is \u00a325,000 or less, and between \u00a3375 and \u00a3750 if it's between \u00a325,000 and \u00a330,000.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This means you get the most support in your first two years when you're starting university and settling into student life. All students will also benefit from maintenance loans going up with inflation every year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When will these maintenance grants be introduced?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The grants are being paid for by a new charge on international student fees. Both the grants and this charge will start from academic year 2028/29.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The good news is that if you're already at university when the grants start, you'll still be able to get them. You don't need to delay going to university to benefit from this support.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Which university courses can I get a grant for?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The grant will be available for courses in subjects that support the skills the country needs for the future. We\u2019ll announce which courses are included before the grants start in 2028/29.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0What if my course is longer than three years?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "If you're studying a longer course, you can get the grant for every year you're studying, as long as you meet the household income requirements and still qualify for a means-tested maintenance loan.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/11/what-the-budget-means-for-young-people/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Today the Chancellor announced the Autumn Budget, setting out changes that will affect young people in higher education.\u00a0 Students from low-income families will get extra money to help with day to day costs at university.\u00a0This will help support more students from the lowest income households progress into and excel in higher education."
+    },
+    {
         "title": "Visual\u00a0collaboration week: getting involved with the\u00a0Digital Workplace\u00a0community\u00a0\u00a0",
         "authors": [
             "David Lau, Lead Technologist, GDS"
