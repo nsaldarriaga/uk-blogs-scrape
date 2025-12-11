@@ -1,5 +1,1641 @@
 [
     {
+        "title": "Using a third party provider to verify your identity with Companies House",
+        "authors": [
+            "Mark Buckley - Implementation Lead, ACSP"
+        ],
+        "posted_on": "2025-12-11T15:07:18",
+        "categories": [
+            "Changes to UK company law",
+            "Digital transformation",
+            "Running a company"
+        ],
+        "content": [
+            {
+                "content": "Companies House has introduced a new identity verification process to help prevent the misuse of UK companies. All directors need to verify their identity before filing their company\u2019s next confirmation statement, otherwise the filing will be rejected.",
+                "tag": "p"
+            },
+            {
+                "content": "People with significant control (PSCs) also need to provide verification details by their due date. Check the\u00a0Companies House register\u00a0to see the due dates for each role you hold.",
+                "tag": "p"
+            },
+            {
+                "content": "There are 2 ways to complete identity verification. You can use the \u2018Verify your identity for Companies House\u2019 service which uses GOV.UK One Login, or through an Authorised Corporate Service Provider (ACSP). This blog post focuses on the option of using an ACSP to verify your identity.",
+                "tag": "p"
+            },
+            {
+                "content": "Authorised Corporate Service Providers",
+                "tag": "h2"
+            },
+            {
+                "content": "An ACSP is an individual or organisation that undertakes anti-money laundering (AML) supervised activity, such as:",
+                "tag": "p"
+            },
+            {
+                "content": "If you choose to verify your identity using an ACSP, you'll need to provide them with approved identity documents as evidence. They'll complete the required checks and confirm your identity with Companies House using the \u2018Tell Companies House you\u2019ve verified someone\u2019s identity\u2019 service. ACSPs may charge for this service.Once the process is complete, an email will be sent to the email address provided by the ACSP containing your Companies House personal code. This code is an 11-character unique identifier that you'll need to provide to Companies House to confirm your identity for each role you hold. You can find the date when you're required to provide your personal code by on the Companies House register.",
+                "tag": "p"
+            },
+            {
+                "content": "Using an ACSP",
+                "tag": "h2"
+            },
+            {
+                "content": "Using an ACSP to verify your identity for Companies House can take the pressure off doing the process yourself.",
+                "tag": "p"
+            },
+            {
+                "content": "Some of the reasons why you may wish to use an ACSP include:",
+                "tag": "p"
+            },
+            {
+                "content": "If you already use a professional to file on your behalf, such as an agent or accountant, they may already hold copies of your ID documents. This can make verifying your identity through an ACSP even quicker and easier.",
+                "tag": "p"
+            },
+            {
+                "content": "ACSP compliance",
+                "tag": "h2"
+            },
+            {
+                "content": "ACSPs are regulated third-party providers. Only authorised agents who have registered with Companies House and have been approved by our teams can perform identity verification checks.",
+                "tag": "p"
+            },
+            {
+                "content": "Companies House also has a strict ACSP compliance policy. This means we have the power to randomly carry out checks on the data being provided by ACSPs to make sure they're meeting their legal requirements. Any potential issues will be investigated thoroughly, and if an ACSP is found to not be meeting the standard required, they will be suspended or ceased. You can find a list of suspended and ceased ACSPs on GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "This means you can rest assured that using an ACSP is a safe and secure method of verifying your identity.",
+                "tag": "p"
+            },
+            {
+                "content": "Finding an ACSP",
+                "tag": "h2"
+            },
+            {
+                "content": "Over 10,000 accountants, solicitors and formation agents have already registered as ACSPs. If you already use an agent, you can ask if they're registered as an ACSP or plan to register so they can verify identities for Companies House. If they're not, they may be able to recommend an ACSP through their professional network.",
+                "tag": "p"
+            },
+            {
+                "content": "You can also find a list of registered ACSPs on GOV.UK to help you find a provider if you do not already use one. This is not a complete list of all ACSPs \u2013 it only includes those who have chosen to appear on the public list.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "If you\u2019re a third-party provider and have not yet registered as an ACSP, you can do this on our website. Registration will allow you to carry out identity verification on behalf of your clients for Companies House. In the future, you\u2019ll also need to be registered as an ACSP to file documents on their behalf.",
+                "tag": "p"
+            },
+            {
+                "content": "Stay up to date by signing up to email updates from Companies House.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://companieshouse.blog.gov.uk/2025/12/11/using-a-third-party-provider-to-verify-your-identity-with-companies-house/",
+        "blog": "Companies House",
+        "blog_link": "https://companieshouse.blog.gov.uk",
+        "description": "Directors and people with significant control (PSCs) can verify their identity through an Authorised Corporate Service Provider (ACSP). This blog post explores the benefits of using an ACSP to verify."
+    },
+    {
+        "title": "Lobster size rules are changing \u2013 here\u2019s what you need to know",
+        "authors": [
+            "Shellfish FMP policy team, Defra"
+        ],
+        "posted_on": "2025-12-11T15:00:00",
+        "categories": [
+            "- Defra led FMPs",
+            "Implementation"
+        ],
+        "content": [
+            {
+                "content": "Marine Management Organisation (MMO) and Defra will be introducing a\u00a0new national minimum conservation reference size (MCRS), also known as theminimum landing size,\u00a0for European lobster (Homarus gammarus), increasing it from 87mm to 90mm, as committed in the 2023 crab and lobster fisheries management plan.From 1 March 2026, the new MCRS for lobster will be:",
+                "tag": "p"
+            },
+            {
+                "content": "Why is this happening?",
+                "tag": "h2"
+            },
+            {
+                "content": "This increase is one of the first of the proposed \u2018initial management interventions\u2019, or early actions to be taken, in the crab and lobster fisheries management plan (FMP).",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s designed to:",
+                "tag": "p"
+            },
+            {
+                "content": "Scientific assessments from\u00a0Cefas\u00a0(the Centre for Environment, Fisheries and Aquaculture Science) show that\u00a0an increased MCRS will improve English lobster stocks in the long-term. Moving to a 90mm MCRS will support a healthier fishery.",
+                "tag": "p"
+            },
+            {
+                "content": "Stakeholders told us in the FMP consultation that economic impacts could be high for inshore fishers, particularly in the North East. We committed in the government response to consider ways to lessen the impacts, like using a phased approach.",
+                "tag": "p"
+            },
+            {
+                "content": "We also considered economic and biological factors and held two meetings with fishermen in Whitby and Amble to discuss the approach. The decision to phase the increase over 3 years was taken to balance the stock and economic needs of the fishery.",
+                "tag": "p"
+            },
+            {
+                "content": "What's changing and when?",
+                "tag": "h2"
+            },
+            {
+                "content": "The new size limit will first be applied through a license condition for commercial fishermen licensed and fishing in English waters.It will then be moved into legislation later in 2026 (subject to parliamentary timings) to apply to all commercial and recreational fishermen in English waters.",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s how it will roll out:",
+                "tag": "p"
+            },
+            {
+                "content": "South West England \u2013 Increase to 90mm on 1 March 2026",
+                "tag": "h3"
+            },
+            {
+                "content": "A 3mm increase to 90mm will be applied through a license condition on 1 March 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Inshore rules in\u00a0Cornwall, Isles of Scilly, and Devon and Severn IFCA districts\u00a0already require a 90mm minimum size. So, this change will align offshore rules with existing inshore ones, making things clearer and fairer.",
+                "tag": "p"
+            },
+            {
+                "content": "This applies to all vessels fishing in English waters \u00a0west of 2\u00b056.78\u2019W and south of 52\u00b00.0\u2019N, from the high-water mark out to the UK\u2019s Exclusive Economic Zone (EEZ).",
+                "tag": "p"
+            },
+            {
+                "content": "Rest of England \u2013 phased over three years",
+                "tag": "h3"
+            },
+            {
+                "content": "To help fishers adjust and reduce economic impacts, the increase will happen gradually:",
+                "tag": "p"
+            },
+            {
+                "content": "This phased approach was shaped by feedback from fishermen, IFCAs, Cefas, and scientific advisory groups. A longer five-year phase-in was considered but not chosen, as it would delay the benefits to lobster stocks without significantly reducing short-term impacts.",
+                "tag": "p"
+            },
+            {
+                "content": "What's next?",
+                "tag": "h2"
+            },
+            {
+                "content": "Licences will be updated to reflect the changes from 1 March 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Defra, with the support from MMO and stakeholder groups will be moving forward to develop new fishing effort management to support the sustainability of the crab and lobster fishery.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "If you want to find out more, check out the updates on the crab and lobster FMP on the FMP blog and find regional information on the Regional Fisheries Groups - GOV.UK page.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0If you have any questions, contact MMO and Defra\u2019s teams by email:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/12/11/lobster-size-rules-are-changing-heres-what-you-need-to-know/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "The lobster MCRS will increase to 90mm in the South West in January 2026 and phased in at 1mm/year in the rest of English waters."
+    },
+    {
+        "title": "Applying\u00a0to become a Chartered Scientist:\u00a0a fast streamer\u2019s\u00a0personal journey\u00a0\u00a0",
+        "authors": [
+            "gseprofession"
+        ],
+        "posted_on": "2025-12-11T14:59:12",
+        "categories": [
+            "Blog Series",
+            "GSE Offer",
+            "GSE Opportunities",
+            "GSE Profession Updates",
+            "Reward & Recognition"
+        ],
+        "content": [
+            {
+                "content": "On Day\u00a04 of Professional Recognition Week,\u00a0we\u2019re\u00a0focusing on\u00a0the\u00a0recognition journey\u00a0of\u00a0one of our\u00a0Science\u00a0and\u00a0Engineering Fast Streamers\u00a0(SEFS).\u00a0David\u00a0Franklin, a\u00a0SEFS\u00a0alumni\u00a0based at the Department for Energy Security\u00a0and\u00a0Net Zero,\u00a0reflects\u00a0on\u00a0his\u00a0experience\u00a0applying for Professional Recognition\u00a0following\u00a0the SEFS scheme.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What motivated you to pursue professional accreditation during your time on (or shortly after) the Science and Engineering Fast Stream?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My academic background is in applied\u00a0mathematics and\u00a0based on this I applied to become an associate member of\u00a0the\u00a0Institute\u00a0of Mathematics and\u00a0its\u00a0Applications\u00a0(IMA)\u00a0earlier this year as the\u00a0professional\u00a0body\u00a0most relevant to\u00a0my\u00a0experience.\u00a0I\u2019ve\u00a0applied to become a Charted Scientist (CSci) to enable further professional development\u00a0and\u00a0to\u00a0have my skills and experience in science recognised\u00a0in my field.\u00a0I also wanted to join\u00a0to\u00a0reconnect with the wider mathematics community!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What challenges did you\u00a0encounter\u00a0and how did you overcome them?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To apply for CSci, you need to be a full member of a professional body. This can be challenging for non-specialists, as most professional bodies require you to have\u00a0significant experience\u00a0in their academic discipline to be a full member. I\u00a0contacted\u00a0my relevant professional body (the\u00a0Institute of Mathematics and\u00a0its\u00a0Applications, IMA) and they\u00a0said\u00a0that I\u00a0could\u00a0apply as an associate member.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As\u00a0the majority of\u00a0my\u00a0Civil\u00a0Service experience had\u00a0been non-mathematical, I engaged with the IMA to understand how this would affect my application to become a Chartered Scientist. They were\u00a0very open\u00a0that my application would be assessed by a panel of mathematicians,\u00a0however they were happy for me to still apply and would request\u00a0additional\u00a0information if needed. Where possible in my application I tried to make connections to my core mathematical skills and experience and wider science that I have delivered in my career.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What advice would you give to others considering Professional Recognition?",
+                "tag": "p"
+            },
+            {
+                "content": "Like any application for chartership, the\u00a0application for CSci\u00a0takes time.\u00a0Put the time aside to write your application, approach the professional body\u00a0before\u00a0submitting, and talk to someone else who has applied to learn\u00a0about their experience\u00a0and to get\u00a0advice on your application!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Available support when\u00a0applying for\u00a0Professional\u00a0Recognition\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0The GSE team offer a variety of support pathways to help\u00a0you with applying for\u00a0Professional\u00a0Recognition\u00a0\u2013 our\u00a0express or\u00a0aspiring cohorts can help you draft up your examples and\u00a0coach you through the process. If you're interested in joining one of our\u00a0cohorts\u00a0please\u00a0contact us\u00a0at\u00a0gse@go-science.gov.uk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It can be\u00a0challenging\u00a0to find the right organisation for you, especially with so many diverse fields within the\u00a0Civil\u00a0Service. If\u00a0you\u2019re\u00a0curious to find out more about\u00a0the skills needed\u00a0and about\u00a0the\u00a0support\u00a0we provide to help you through the application process, we have a handy support booklet. For\u00a0a copy of this booklet please email us at\u00a0gse@go-science.gov.uk.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If\u00a0you're\u00a0interested in\u00a0starting\u00a0your\u00a0Professional\u00a0Recognition journey, complete the\u00a0GSE Professional Recognition Offer\u00a0interest form, and\u00a0we\u2019ll\u00a0be in touch!\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2025/12/11/applying-to-become-a-chartered-scientist-a-fast-streamers-personal-journey/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "On Day\u00a04 of Professional Recognition Week,\u00a0we\u2019re\u00a0focusing on\u00a0the\u00a0recognition journey\u00a0of\u00a0one of our\u00a0Science\u00a0and\u00a0Engineering Fast Streamers\u00a0(SEFS).\u00a0David\u00a0Franklin, a\u00a0SEFS\u00a0alumni\u00a0based at the Department for Energy Security\u00a0and\u00a0Net Zero,\u00a0reflects\u00a0on\u00a0his\u00a0experience\u00a0applying for Professional Recognition\u00a0following\u00a0the SEFS scheme.\u00a0 What motivated you to pursue professional accreditation during your time on (or shortly after) the \u2026"
+    },
+    {
+        "title": "Bio-beads: what are they, what are they used for and what risk do they pose to the environment?\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-12-11T14:07:33",
+        "categories": [
+            "Cleaner Seas",
+            "Environment Agency",
+            "Regulated industry",
+            "Water",
+            "Water Monitoring"
+        ],
+        "content": [
+            {
+                "content": "On the week of 3 November a vast number of small black plastic pellets started to wash up on the beach at Camber Sands in East Sussex. ",
+                "tag": "p"
+            },
+            {
+                "content": "It immediately, and naturally, drew considerable concern from the public and local community. We quickly started an investigation to understand where this plastic pollution came from, what it was, and who caused it.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A lot of progress has been made and the pellets were swiftly identified as \u2018bio-beads\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "Southern Water have publicly apologised for a failure at their Eastbourne Sewage Treatment works, and the local authority, Rother District Council, has driven forward efforts to clean up the beach along with many committed volunteers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sadly, despite huge efforts from volunteers, some of the beads are still in the sea and may continue to wash up along local beaches. However, a clear up plan is in place and resources identified to respond as that happens.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are leading the investigation into what happened and why, and as part of that will consider what enforcement action is necessary. As a live investigation we cannot comment on any element of this investigation. We will also continue to support partners with advice and guidance on the clean-up operation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are these small (approx. 5mm) plastic pellets, known as \u2018bio-beads\u2019, and what are they used for?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They are called \u2018bio-beads\u2019 because they support the biological breakdown of sewage effluent when used in sewage treatment works, but they are not biologically active themselves.\u00a0 Essentially, they just provide a surface for billions of microscopic bacteria to call home.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the wastewater treatment process, once solid matter has been removed, liquid sewage effluent is passed into aerated tanks containing millions of these beads. The bacteria living on them then get to work devouring the remaining organic matter in the liquid.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If the sewage effluent went directly into rivers or seas, without that treatment stage, naturally occurring bacteria would do the same. But as many bacteria require oxygen to break down the organic matter they would strip the oxygen from the local environment (as opposed to within the treatment works), potentially harming anything that needs oxygen to survive, like fish.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are bio-beads made of and are they harmful?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Generally, plastic bio-beads will be made from a form of polyethylene, like High Density Polyethylene (HDPE). The sort of plastic you might find around the house or even in some food and drink packaging. They may be made from new or recycled plastic. Typically for bio-beads, which might be used for many years, the composition of the plastic used will be slow to degrade.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Like all plastics, chemical additives are used in the manufacture of polyethylene which help give it the characteristics required for its intended use, such as strength, flexibility or durability. Over time some of these chemicals may eventually be released as the plastic degrades. If recycled plastic is used it may also contain other contaminants, such as metallic elements, from the original plastic. Whether these chemicals have a harmful impact in the environment will depend on the nature of the chemical, the concentration of that chemical and how long anything is exposed to it. Chemical levels released from such plastics are usually extremely low, but the risks increase where the chemicals are persistent, not readily diluted and exposure to wildlife is prolonged.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There is a more immediate physical risk to wildlife from plastics in the environment. Bio-beads are small so could be easily swallowed by wildlife if they were mistaken for food. If not subsequently rejected or released, then they could build up and cause a physical hazard in the stomach or gut resulting in the deterioration or death of the animal.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As they float, bio-beads will also disperse with any water currents and so are likely to spread over a considerable area. Sadly, any release of bio-beads to the water environment adds to the already huge burden of plastic pollution in the water environment today. The United Nations Environment Programme (UNEP) has estimated that every year, worldwide, 19-23 million tonnes of plastic waste leak into aquatic ecosystems, polluting lakes, rivers and seas.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why are bio-beads used and are there alternatives?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Plastic bio-beads are an effective and lightweight option to provide a large surface area for bacteria to break down organic material in sewage effluent. Bio-beads are not used in all sewage treatment works but may be useful where there are physical constrictions on a site. Their use is decreasing however as water companies invest in new technologies to treat sewage. There are alternative materials for beads which have been used, such as glass or clay and some treatment plants use other processes to treat their effluent, such as fixed filters.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is our role in the regulation and use of bio-beads?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our primary concern for the use of bio-beads in industry is ensuring that those beads are contained within any works, managed appropriately, and not allowed to escape to the environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0We have been increasingly concerned about the instances of bio-beads appearing on beaches having been lost from industrial processes by various routes. This is unacceptable and industry must take responsibility to prevent this happening. If beads are allowed to escape into the environment from water treatment processes for example, water companies should immediately report this to us as a pollution incident, and we will not hesitate to take enforcement action where appropriate.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you suspect pollution from bio-beads or any other pollutant we encourage you to call our free 24-hour hotline 0800 807060.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/12/11/bio-beads-what-are-they-what-are-they-used-for-and-what-risk-do-they-pose-to-the-environment/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "On the week of 3 November a vast number of small black plastic pellets started to wash up on the beach at Camber Sands in East Sussex. It immediately, and naturally, drew considerable concern from the public and local community. \u2026"
+    },
+    {
+        "title": "National plan to halve long-term rough sleeping and prevent homelessness",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2025-12-11T13:22:21",
+        "categories": [
+            "Homelessness"
+        ],
+        "content": [
+            {
+                "content": "There has been widespread, national print and broadcast coverage, alongside extensive positive stakeholder reaction, on the Ministry of Housing, Communities and Local Government\u2019s cross-government plan to prevent homelessness and rough sleeping.",
+                "tag": "p"
+            },
+            {
+                "content": "The strategy is backed by \u00a33.5 billion of investment and is informed by people with lived experience, frontline workers and the sector, and puts real world insight into action.",
+                "tag": "p"
+            },
+            {
+                "content": "The plan has been positively welcomed by various stakeholders including homelessness charities including St Mungo\u2019s, Shared Health Foundation, Justlife, Revolving Doors, Centrepoint, St Basils and the Lived Experience Forum.",
+                "tag": "p"
+            },
+            {
+                "content": "The Mirror leads with the story as its splash on its front page, leading with the fact that the \u2018scandal\u2019 of homelessness will be halved by 2030 under the strategy, highlighting the three key pledges which include halving the number of long-term rough sleepers, ending the unlawful use of B&B\u2019s for families, and preventing more families from becoming homeless in the first place.",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile, the Guardian reports on their interview with the Minister McGovern and coverage can be seen in Sky, the Big Issue, the I paper and Politico London Playbook who highlight the reception from MP\u2019s and stakeholders.",
+                "tag": "p"
+            },
+            {
+                "content": "This morning, Homelessness Minister, Alison McGovern, also gave interviews to\u00a0Times Radio,\u00a0Sky News,\u00a0LBC,\u00a0Bauer,\u00a0ITV Good Morning Britain,\u00a0ITN, and\u00a0GB News\u00a0to talk about the impact the measures will have and how it will support the most vulnerable in our society to find their feet and improve their lives.\u202f\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Housing Secretary Steve Reed said:\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cHomelessness is one of the most profound challenges we face as a society, because at the heart, it\u2019s about people. Families deserve stability, children\u202fneed a safe place to grow, and individuals\u202fsimply want the dignity of a home.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis strategy is shaped by the voices of those who\u2019ve lived through homelessness and the frontline workers who fight tirelessly to prevent it.\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThrough our new strategy we can build a future where homelessness is rare, brief, and not repeated. With record investment, new duties on public services, and a relentless focus on accountability, we will turn ambition into reality.\u201d\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Homelessness Minister Alison McGovern said:\u202f\u202f\u202f\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cEveryone deserves a roof over their head.\u202f And for those experiencing the worst of homelessness right now \u2013 our children \u2013 they deserve a place to play and a bedroom to do their homework in. It\u2019s our collective responsibility to make that a reality, for anyone at risk of homelessness, be it sofa-surfing or getting stuck on the streets.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cBy working together including government, local leaders, charities, and communities, we can stop homelessness before it happens and ensure that when people do fall into crisis, support is swift and effective.\u202f\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The prize is big.\u202f Right now, taxpayers are paying the price of failure, with temporary accommodation costs skyrocketing.\u202f And the next generation of British young people can\u2019t succeed without the space they need.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis strategy sets us on a better path \u2013 to save money and change lives.\u201d\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Emma Haddad, Chief Executive of St Mungo\u2019s, said:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe homelessness strategy published today is a watershed moment and is strongly welcomed by St Mungo\u2019s. Homelessness has no place in modern society. The ambition set out today offers the start of a blueprint for ending homelessness and rough sleeping for good. There is no time to lose, we hope the strategy will galvanise decisive action from the whole system.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAfter 15 years of almost consistent rises in the number of people being affected by homelessness, we are relieved to see the Government recognising the scale of the crisis and the pressing need to address it.\u00a0 Last year St Mungo\u2019s supported over 26,000 out of homelessness. We see how damaging even a single night on the streets can be, and how quickly that one-off crisis can turn into a complex cycle of homelessness. The new targets need to focus all our minds.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe welcome the focus on prevention as well as on long-term rough sleeping.\u00a0 We also particularly welcome the new \u2018duty to collaborate\u2019; there is a huge opportunity to end the needless homelessness that we see from people leaving hospitals, prisons and asylum accommodation through joining up how government agencies work together.\u00a0 And we are very pleased to see the continuing commitment to utilise the knowledge, expertise and experience of frontline organisations like St Mungo\u2019s and the lived experience of our clients to help inform the way forward.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Laura Neilson, Chief Executive, Shared Health Foundation, said:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"It is heartening to see that ministers have heard the plight of the record number of children and families who are homeless. Alongside the child poverty strategy this strategy is ambitious in reducing the impact of homelessness on families. We urge the government to continue to show brave leadership and look forward to working together to go faster and beyond what is outlined today. Homelessness should be rare, brief and non recurring and is not detrimental to the life chances of children and young people\".\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Simon Gale, CEO at Justlife, part of the Lived Experience Forum, said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis strategy sets out some important steps that reflect what people living in temporary accommodation need most: earlier support, safer places to stay and services that work together rather than in silos. The investment in prevention and frontline capacity is especially crucial at a time when more households are being pushed into crisis.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThere is still a long way to go, but this is a crucial step forward. Long stays in poor-quality temporary accommodation remain far too common, and the supply of genuinely affordable homes must grow if we\u2019re serious about lasting change. We\u2019re ready to work with government and local partners to make sure these commitments translate into real improvements for the people who need them most.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Balbir Kaur Chatrik, Director of Policy and Prevention at Centrepoint, said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"We have seen record levels of youth homelessness so it\u2019s very welcome to see government looking at young people specifically.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis is a multi-faceted issue and, while on the one hand, there is an urgent need to support those without anywhere safe or stable to stay, we can only solve this crisis by supporting those who may face similar circumstances in the future. The emerging evidence is quite clear that working in schools can identify children who would have otherwise remained hidden and have a positive impact on their risk of homelessness.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThat is why the government\u2019s plans to create a duty to collaborate and support in-school prevention, modelled on Centrepoint's Upstream England pilot, has the potential to be a game-changing development. We are hugely excited to continue working with the government and our partners to reach as many vulnerable children as possible.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Revolving Doors on behalf of the National Expert Citizens Group (NECG), said:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cMembers of the National Expert Citizens Group have experienced the cycle of trauma and hopelessness that homelessness brings. They know it as more than just a policy problem: for them and thousands of others, it\u2019s something far more personal. We are therefore pleased to see their voices and insights reflected in the strategy and welcome the Government\u2019s recognition of the scale of the homelessness crisis. We share their ambition in tackling this issue so that people can rebuild their lives with hope and dignity.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Jean Templeton, Chief Executive, St Basil's said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe adoption of a National Plan to End Homelessness is very welcome and in particular, the recognition of collective responsibility across government, systems, and sectors for enabling positive life course experiences. The Duty to Collaborate will move beyond a Duty to Refer and hopefully lead to Inclusion being designed into mainstream systems helping to prevent the ultimate exclusion that is homelessness.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rachel Brennan, Director of Participation, Progression & Change at Groundswell, part of the Lived Experience Forum said:",
+                "tag": "p"
+            },
+            {
+                "content": "\"We welcome the commitment to involving people with lived experience in the design and implementation of the strategy. When people with lived experience help shape solutions alongside systems and services the solutions are stronger, more compassionate and more effective. It is encouraging to see recognition of how closely homelessness is linked to our health and the important shift in ensuring that people are not discharged from hospitals or other services into crisis. The focus on collaboration and cross-sector working is a vital step forward recognising everyone has a role to play in ending homelessness.\"\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2025/12/11/national-plan-to-halve-long-term-rough-sleeping-and-prevent-homelessness/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been widespread, national print and broadcast coverage, alongside extensive positive stakeholder reaction, on the Ministry of Housing, Communities and Local Government\u2019s cross-government plan to prevent homelessness and rough sleeping. The strategy is backed by \u00a33.5 billion of investment \u2026"
+    },
+    {
+        "title": "School inspections: frequently asked questions",
+        "authors": [
+            "Lee Owston, National Director, Education"
+        ],
+        "posted_on": "2025-12-11T12:52:25",
+        "categories": [
+            "education inspection framework",
+            "schools"
+        ],
+        "content": [
+            {
+                "content": "Since we published the renewed inspection framework on 9 September 2025, we\u2019ve put on lots of online and face-to-face engagement with schools to answer your questions. We\u2019re publishing the most frequently asked questions below, so you can see all the answers in one place.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll regularly update this as we continue to inspect with our renewed approach, so do bookmark it and check back in future.",
+                "tag": "p"
+            },
+            {
+                "content": "If you want to watch any of our webinars, you can find them on our YouTube playlist.",
+                "tag": "p"
+            },
+            {
+                "content": "1. When will my school be inspected?",
+                "tag": "h2"
+            },
+            {
+                "content": "When your school is due to be inspected is based on a number of factors, including its previous inspection outcome.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve published a video on inspection timing for schools to explain when your school will be inspected. Timings for 9 out of 10 schools (those judged \u2018good\u2019 or \u2018outstanding\u2019 at their last inspection) are covered in the opening minute of the video.",
+                "tag": "p"
+            },
+            {
+                "content": "We also have a school monitoring operating guide for inspectors, which sets out how we will monitor schools where one or more evaluation areas have been graded \u2018needs attention\u2019 or \u2018urgent improvement\u2019 in the latest inspection.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Who can take on the role of nominee and what do they do?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The nominee is a new role on all school inspections. We explain the role of the nominee in our inspection guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "When you\u2019ve decided who might be the nominee for your school, you can watch our nominee training video.",
+                "tag": "p"
+            },
+            {
+                "content": "3. What happens on the planning call?",
+                "tag": "h2"
+            },
+            {
+                "content": "The planning call is important to help the lead inspector understand the structure, organisation and context of your school, as well as its strengths, successes and priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s helpful if you have key leaders and the nominee (if you have one) present for the planning call. To ensure we build professional working relationships from the very start of an inspection, we always offer to do the planning call as a video call. This has worked particularly well on our pilot inspections.",
+                "tag": "p"
+            },
+            {
+                "content": "Our inspection information for state-funded schools explains how we notify you of an inspection and what information we\u2019ll need for the planning call. See the sections:",
+                "tag": "p"
+            },
+            {
+                "content": "Our school inspection operating guide for inspectors sets out what inspectors need to do when it comes to the planning call.",
+                "tag": "p"
+            },
+            {
+                "content": "4. How does case sampling of pupils work?",
+                "tag": "h2"
+            },
+            {
+                "content": "Our school inspection operating guide for inspectors explains case sampling. We\u2019ll agree with you the pupils selected for case sampling on day 1 (we select approximately 6 pupils for this).",
+                "tag": "p"
+            },
+            {
+                "content": "To help us select the pupils, we will ask you to provide a list of pupils who:",
+                "tag": "p"
+            },
+            {
+                "content": "5. How do you take into account the context of small schools?",
+                "tag": "h2"
+            },
+            {
+                "content": "Our state-funded school inspection toolkit sets out how our inspectors are mindful of potential differences when inspecting small schools.",
+                "tag": "p"
+            },
+            {
+                "content": "Some examples of how we do this include:",
+                "tag": "p"
+            },
+            {
+                "content": "6. How do you apply the toolkit in specialist settings or university technical colleges?",
+                "tag": "h2"
+            },
+            {
+                "content": "If your school or setting is a special school, alternative provision or university technical college (UTC), inspectors take this into account and make some adaptations. Each evaluation area in the state-funded school inspection toolkit includes a section on how it applies across different phases, age groups and types of educational provision.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors use the planning call (see question 3) to start understanding the structure and context of your school. Working with leaders, they use this information to decide what\u2019s best to focus on during the inspection:",
+                "tag": "p"
+            },
+            {
+                "content": "We recently held a series of live webinars, which we\u2019ve published on our YouTube channel, giving more information for:",
+                "tag": "p"
+            },
+            {
+                "content": "7. What is the governors\u2019 role in school inspections?",
+                "tag": "h2"
+            },
+            {
+                "content": "The \u2018leadership and governance\u2019 evaluation area in the state-funded school inspection toolkit considers the impact of governance. The impact of leadership is a thread that runs throughout all evaluation areas. The toolkit, school inspection operating guide for inspectors and the inspection information for state-funded schools set out the role of governors on inspection.",
+                "tag": "p"
+            },
+            {
+                "content": "During the inspection, inspectors will meet with those responsible for governance in your school, either face to face or on a call \u2013 whichever works best for them.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve based the standards relevant to governors on the Department for Education\u2019s \u2018academy trusts: governance guide\u2019 and \u2018maintained schools: governance guide\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "8. What do you mean by \u2018barriers to learning and/or wellbeing\u2019 and how do you define 'disadvantaged'?",
+                "tag": "h2"
+            },
+            {
+                "content": "Inspectors want to understand your school\u2019s context, including the demographics of the pupils and their needs. As part of the inspection planning process they\u2019ll review your school's inspection data summary report (IDSR) and other contextual information such as the relevant area SEND inspection and local authority\u2019s children\u2019s services inspection. They\u2019ll also speak with leaders and your nominee during the planning calls and throughout the inspection to find out more about the community you serve and the opportunities and challenges this may bring.",
+                "tag": "p"
+            },
+            {
+                "content": "Our inspections focus on the most vulnerable learners, such as those who are socio-economically disadvantaged (as defined in our glossary of education inspection terminology), those with SEND and those who are known (or previously known) to children\u2019s social care. Inspectors focus on these pupils through various inspection activities and also use case sampling to gather first-hand evidence of their experiences. We want to find out how your school is helping pupils overcome barriers they may face to their learning and/or wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "When we talk about barriers to learning and/or wellbeing, this means any factors that may make it difficult for a pupil to achieve as well as they should, and develop positive wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "Barriers can be caused by a pupil\u2019s individual circumstances, such as their health, development or emotional needs, or by external factors, including their family, community or wider social conditions. They can include\u00a0protected characteristics. There may also be barriers that pupils face that are specific to the school\u2019s context. These may require tailored approaches to reduce their impact on learning and/or wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "Schools have a responsibility, through statutory duties or government guidance, to address barriers for certain groups of pupils. This includes pupils who are disadvantaged, pupils with SEND and pupils known (or previously known) to children\u2019s social care.",
+                "tag": "p"
+            },
+            {
+                "content": "We recently recorded a webinar on how we use the IDSR on inspection, which we\u2019ll be publishing soon on our YouTube channel. You can also read our blog about the role of data on school inspections.",
+                "tag": "p"
+            },
+            {
+                "content": "9. How do you grade achievement in selective education/grammar schools?",
+                "tag": "h2"
+            },
+            {
+                "content": "We evaluate and grade achievement in selective education schools and grammar schools the same way as we do in other schools. However, we recognise that the context in which any school operates is important in understanding leaders\u2019 priorities and why they have made certain decisions in the best interests of pupils.",
+                "tag": "p"
+            },
+            {
+                "content": "This is why inspectors want to develop an accurate understanding of your school\u2019s context, including the demographics of the pupils and their needs. It will help them reflect on the impact of leaders\u2019 actions on pupils.",
+                "tag": "p"
+            },
+            {
+                "content": "They will want to find out:",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors take into account that published outcomes data may have gaps or limitations in how comprehensive the overall picture is. They\u2019ll use evidence they gather on site to get a fuller picture of pupils\u2019 achievement over time and the progress they make from their starting points.",
+                "tag": "p"
+            },
+            {
+                "content": "The state-funded school inspection toolkit also explains how we consider achievement for different ages, phases and provision types.",
+                "tag": "p"
+            },
+            {
+                "content": "10. What is the difference between the old \u2018best fit\u2019 model and new \u2018secure fit\u2019 model that inspectors use to grade schools?",
+                "tag": "h2"
+            },
+            {
+                "content": "Our inspectors use a \u2018secure fit\u2019 model of evaluation to award grades. This means that each standard within each grade must be met before it can be awarded.",
+                "tag": "p"
+            },
+            {
+                "content": "We designed this model to keep grading as consistent as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "11. Is \u2018expected standard\u2019 a high standard?",
+                "tag": "h2"
+            },
+            {
+                "content": "The \u2018expected standard\u2019 is what we would typically expect to see on inspection. It covers the statutory, professional and non-statutory guidance that you are already expected to follow. It is a high bar, particularly as we use a secure fit model (as explained in question 10) to determine whether all of the standards have been met. Inspectors will report on the \u2018expected standard\u2019 positively, though there will be some areas identified that prevent the \u2018strong standard\u2019 from being met.",
+                "tag": "p"
+            },
+            {
+                "content": "It is important to remember that inspectors will start the process of evaluating your school by automatically considering it to be at the \u2018expected standard\u2019 (see question 10). In order to get a \u2018strong standard\u2019, then all expected standards would need to be met first.",
+                "tag": "p"
+            },
+            {
+                "content": "12. Is \u2018exceptional\u2019 the new \u2018outstanding\u2019?",
+                "tag": "h2"
+            },
+            {
+                "content": "There is no read-across from the previous grading system, so \u2018exceptional\u2019 is not the new \u2018outstanding\u2019. It is also important to say that the \u2018expected standard\u2019 or \u2018strong standard\u2019 do not equate to the old \u2018good\u2019 grade.",
+                "tag": "p"
+            },
+            {
+                "content": "For your school to achieve \u2018exceptional\u2019 for an area, it needs to show a transformational impact on the outcomes and experiences of disadvantaged pupils, those with\u00a0SEND and those who are known (or previously known) to children\u2019s social care, and there can be no significant areas of improvement identified that leaders have not already prioritised. Practice and/or outcomes (depending on the evaluation area) will also have been sustained over the last 3 years or more.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors will consider awarding \u2018exceptional\u2019 when they see an area of practice that is of such high quality that it should be shared to support improvement internally, regionally and nationally.",
+                "tag": "p"
+            },
+            {
+                "content": "13. Is \u2018needs attention\u2019 the new \u2018requires improvement\u2019?",
+                "tag": "h2"
+            },
+            {
+                "content": "As with question 12, the \u2018needs attention\u2019 grade is not equivalent to \u2018requires improvement\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors will grade an evaluation area as \u2018needs attention\u2019 when the \u2018expected standard\u2019 of the particular evaluation area is not met because inconsistencies in practice have a negative impact on pupils in general, or on a particular group. The \u2018needs attention\u2019 grade is not a \u2018fail\u2019. As we explain in our video for parents, \u2018needs attention\u2019 is an indication that there is work to be done to reach the \u2018expected standard\u2019 and it highlights where issues can be addressed before they become bigger problems that need \u2018urgent improvement\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "Where \u2018needs attention\u2019 has been identified, we will describe what needs to improve and return to your school through our monitoring programme, which means we can regrade if we identify improvement (see question 1). \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "14. What are you doing to explain the new grade system to parents?",
+                "tag": "h2"
+            },
+            {
+                "content": "When we\u2019ve notified you that your school is about to be inspected, the inspector will send you a letter to send to parents and carers on our behalf.",
+                "tag": "p"
+            },
+            {
+                "content": "That letter includes details of the changes to the report card and a link to our video 'New Ofsted report cards and grades: a guide for parents', which explains the changes in more detail for parents.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationinspection.blog.gov.uk/2025/12/11/school-inspections-frequently-asked-questions/",
+        "blog": "Ofsted: education",
+        "blog_link": "https://educationinspection.blog.gov.uk",
+        "description": "Since we published the renewed inspection framework on 9 September 2025, we\u2019ve put on lots of online and face-to-face engagement with schools to answer your questions. We\u2019re publishing the most frequently asked questions below, so you can see all the \u2026"
+    },
+    {
+        "title": "World first as GE Vernova completes Step 2 generic design assessment",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-12-11T12:38:58",
+        "categories": [
+            "Nuclear",
+            "Regulated industry",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "We\u2019ve just announced that GE Vernova Hitachi Nuclear Energy is the first company in the world to successfully complete our two step generic design assessment (GDA) process.",
+                "tag": "p"
+            },
+            {
+                "content": "Its BWRX-300 reactor design, a 300 megaWatt electrical (MWe) boiling water reactor, has been issued with a Step 2 statement. What does this mean and what have we said about this reactor design. Our lead nuclear assessor for this reactor Paula Atkin explains.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s a two step generic design assessment?",
+                "tag": "p"
+            },
+            {
+                "content": "We created GDA back in 2007 after government asked us and the Office for Nuclear Regulation (ONR) to look at how to de-risk new nuclear reactor projects.",
+                "tag": "p"
+            },
+            {
+                "content": "We introduced an option of stopping or pausing after the initial two steps (Fundamental Assessment) back in 2019 following discussions with government about how to make our process more enabling for Small Modular Reactors (SMRs) and under-developed designs.",
+                "tag": "p"
+            },
+            {
+                "content": "Before this innovation all GDAs followed the full process including detailed assessment, taking up to five years.",
+                "tag": "p"
+            },
+            {
+                "content": "Our team of assessors has completed this two-step review in just under two years. Step 1 was completed last December and since then the project team has been examining the fundamentals of the BWRX-300 design.",
+                "tag": "p"
+            },
+            {
+                "content": "Our focus in Step 2 is on fundamentals related to environmental protection and waste management such as how the design avoids creating radioactive waste. Our colleagues in ONR focus on the safety and security fundamentals.",
+                "tag": "p"
+            },
+            {
+                "content": "What have we learned about this reactor design?",
+                "tag": "p"
+            },
+            {
+                "content": "Our headline conclusion statement is that there are no \u2018fundamental\u2019 environmental protection shortfalls in this design. We\u2019ve not identified anything that is \u2018unacceptable\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "At this stage the design is likely to be consistent with the application of BAT (best available techniques) for minimising the generation and impact of radioactive waste disposals on people and the environment. This is subject to the completion of the further work identified in our regulatory observation (that we have concerns about waste segregation that will need to be resolved) and completing a detailed assessment of the design. Currently the company proposes not to change the design to enable sorting and segregation of waste ion exchange resins and liquid waste arisings. If it can\u2019t demonstrate that its proposals on waste segregation are BAT, then design changes may be required.",
+                "tag": "p"
+            },
+            {
+                "content": "The radiation dose to the public and wildlife is likely to be well below the dose limit during normal operations. Further work is required to specify expected discharges, including looking in more detail at the \u201csource term\u201d that discharges are based on. The source term is essentially the level of radioactivity that is expected to arise in the reactor\u2019s cooling circuit. We consider that it is overly conservative and so discharges are overestimated.",
+                "tag": "p"
+            },
+            {
+                "content": "We are also recommending the company looks at sampling and monitoring provisions as soon as possible, to ensure space is available to fit the equipment.",
+                "tag": "p"
+            },
+            {
+                "content": "We studied the company\u2019s estimates for low and higher activity solid wastes for operation and decommissioning and found that there is nothing novel and all are likely to be disposable. And we also agree with NWS\u2019 conclusion that the fuel is likely to be able to be disposed of in a future GDF.",
+                "tag": "p"
+            },
+            {
+                "content": "We recommend a continued focus on decommissioning as the design work progresses to ensure that there is sufficient information for any future permit application.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next for BWRX-300 design?",
+                "tag": "p"
+            },
+            {
+                "content": "The company didn\u2019t ask for a more detailed Step 3 GDA so a full detailed assessment will be required if a developer wants to take it forward at a site in England and Wales.",
+                "tag": "p"
+            },
+            {
+                "content": "The detailed assessment could take place as part of pre-application work for permitting or by restarting GDA. We\u2019d assess the detailed design for how it ensures environmental protection and would also assess design changes that have been made since we began our assessments.",
+                "tag": "p"
+            },
+            {
+                "content": "The reactor is still being designed \u2013 it\u2019s not finished. There are currently no plans to deploy here but GE Vernova told us that the reactor is going to be used in projects in Canada, the US, Poland and the Czech Republic. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sharing design assessment information with regulators around the world",
+                "tag": "p"
+            },
+            {
+                "content": "The value of GDA is that it enables us to identify regulatory concerns and design problems early \u2013 when the design is still \u201con paper\u201d \u2013 so that we can ask the designer to address them and change the design. This avoids costly and time-consuming changes down the line at the construction site.",
+                "tag": "p"
+            },
+            {
+                "content": "New nuclear power stations are an important part of the government\u2019s policy for us to have secure low carbon energy supplies and to have economic growth in the UK. Most recently the Prime Minister and the US President signed a new UK-US agreement called the Atlantic Partnership for Advanced Nuclear Energy that requires closer working between UK and US regulators to improve the coordination and efficiency of our assessments. We\u2019re already talking to regulators around the world about our GDA work and the new Atlantic partnership will encourage this further.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting involved",
+                "tag": "p"
+            },
+            {
+                "content": "You can read about all our GDA work \u00a0New nuclear power stations: assessing reactor designs - GOV.UK",
+                "tag": "p"
+            },
+            {
+                "content": "If a developer takes forward this design in the future you\u2019ll be able to read information and share your views through site specific consultations and public engagement work we\u2019ll organise at that time.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/12/11/world-first-as-ge-vernova-completes-step-2-generic-design-assessment/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "We\u2019ve just announced that GE Vernova Hitachi Nuclear Energy is the first company in the world to successfully complete our two step generic design assessment (GDA) process. Its BWRX-300 reactor design, a 300 megaWatt electrical (MWe) boiling water reactor, has been issued with a Step 2 statement. What does this mean and what have we \u2026"
+    },
+    {
+        "title": "Our\u00a0Voice,\u00a0Video\u00a0and Integration journey\u00a0\u00a0",
+        "authors": [
+            "Marc Bowie"
+        ],
+        "posted_on": "2025-12-11T12:37:16",
+        "categories": [
+            "delivering value",
+            "Evolve",
+            "Justice Digital Strategy"
+        ],
+        "content": [
+            {
+                "content": "Sometimes bigger\u00a0isn\u2019t\u00a0better.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Three years ago, MoJ\u00a0launched\u00a0our\u00a0Justice Digital Strategy 2025,\u00a0aiming to\u00a0become a\u00a0more flexible organisation,\u00a0driven by data\u00a0and\u00a0led by users.\u00a0Our\u00a0Evolve portfolio of projects\u00a0has played\u00a0an important role\u00a0in delivering on this strategy\u00a0and in\u00a0Justice Digital\u2019s mission\u00a0to make\u00a0things\u00a0simpler,\u00a0faster, and\u00a0better\u00a0for our users.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As 2025 draws to a close,\u00a0it\u2019s\u00a0a good time\u00a0to reflect on\u00a0our\u00a0progress.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Becoming a more flexible organisation\u00a0requires us to reduce\u00a0reliance on legacy systems and contracts, and\u00a0to move\u00a0services to the cloud.\u00a0When the\u00a0Justice Digital Strategy\u00a0launched,\u00a0MoJ\u00a0had recently renewed\u00a0our\u00a0Voice,\u00a0Video\u00a0and Integration (VVI) contract with Vodafone\u00a0\u2013\u00a0one of the\u00a0monolithic outsourced services Evolve was set up to\u00a0transform.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the time,\u00a0MoJ\u00a0depended\u00a0on VVI, largely\u00a0because\u00a0the\u00a0legacy\u00a0Public Services Network (PSN)\u00a0standard\u00a0was embedded in our network services\u2019 architecture.\u00a0We\u00a0couldn\u2019t\u00a0get the benefits\u00a0of\u00a0opening up\u00a0our\u00a0service provision to market competition\u00a0without\u00a0conquering a\u00a0series of\u00a0challenges.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have\u00a0come a long way since then.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Contact\u00a0centres\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Evolve set about breaking\u00a0up\u00a0the services\u00a0comprising\u00a0VVI\u00a0into smaller, more specialist\u00a0chunks,\u00a0starting with\u00a0our contact centres.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The VVI-provided\u00a0system was one\u00a0of\u00a0five\u00a0solutions used across\u00a0eight\u00a0contact centres\u00a0operated\u00a0by MoJ and our agencies, each with different\u00a0requirements. But all\u00a0of\u00a0them\u00a0needed\u00a0better access to data\u00a0and the benefits\u00a0associated with\u00a0moving to the cloud.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "British Telecommunications (BT)\u00a0won our\u00a0contact centre system\u00a0contract, and\u00a0the\u00a0new\u00a0cloud-based\u00a0Genesys solution\u00a0is now in use\u00a0across\u00a0all\u00a0eight\u00a0organisational\u00a0units.\u00a0It\u00a0now\u00a0handles over\u00a01,000 calls per week and\u00a0provides\u00a0improved management control, better access to reporting and quicker response times for customer queries.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Evolving telephony\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Desk phones used to be the norm\u00a0for office workers\u00a0everywhere.\u00a0But\u00a0working practices and communications have\u00a0changed over time, and it sometimes\u00a0feels\u00a0hard to remember a time before Microsoft Teams, Zoom and the like became\u00a0widespread.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With the prevalence of wi-fi, a fixed cable is no longer essential for many kinds of communication.\u00a0While\u00a0traditional\u00a0phones\u00a0remain\u00a0essential for many operational staff, their regular use has become\u00a0the\u00a0exception in\u00a0lots of\u00a0office-based roles.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this context, the Evolve Voice project\u00a0needed\u00a0to design a modern service to support the varied\u00a0user\u00a0needs across MoJ and our different agencies. In 2023, we\u00a0appointed UC specialists\u00a0Symity\u00a0as our Voice Design Partner. With their help, we\u00a0set out\u00a0to maximise the value of MoJ\u2019s existing investment in MS Teams.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Because our\u00a0colleagues\u00a0work\u00a0across\u00a0multiple\u00a0sites\u00a0and\u00a0the public has diverse\u00a0needs,\u00a0we need a flexible system\u00a0that lets staff work from anywhere and gives people more ways to contact us.\u00a0Transferring to Teams\u00a0Phone\u00a0will\u00a0bring\u00a0access to modern call management\u00a0tools and better data\u00a0to support\u00a0continual improvement. Additionally, working with five suppliers rather than relying on one also increases our\u00a0supply chain\u00a0resilience, among other benefits.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are\u00a0now\u00a0making\u00a0this\u00a0new Teams-led solution a reality.\u00a0With support from our\u00a0Voice Implementation and Integration Partner, Insight Direct,\u00a0we\u00a0have\u00a0so far\u00a0rolled out\u00a0the MS Teams\u00a0Phone\u00a0solution to\u00a0over 900\u00a0users across\u00a050\u00a0sites.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have\u00a0signed contracts with Specialist Computer Centres (SCC) to supply and\u00a0maintain\u00a0the\u00a0devices\u00a0we need\u00a0(such as\u00a0MS\u00a0Teams-certified\u00a0handsets)\u00a0and to\u00a0manage our\u00a0voice infrastructure.\u00a0All\u00a0our\u00a0users will migrate to\u00a0our\u00a0strategic voice solution\u00a0by the end of 2027.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Flexible, driven by\u00a0data\u00a0and led by users\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our new\u00a0discrete contracts for infrastructure, devices and contact centre systems\u00a0bring\u00a0better tooling and data, as well as an improved experience for end users.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Colleagues in our\u00a0contact centres\u00a0report\u00a0that\u00a0better data insights\u00a0support\u00a0day-to-day\u00a0decisions\u00a0such as\u00a0assigning agents\u00a0and setting\u00a0call\u00a0priorities.\u00a0Call handlers\u00a0tell us\u00a0Genesys\u00a0is\u00a0\u201chelping to improve our customer service standards\u201d as well as \u201cmuch more user-friendly\u201d,\u00a0with built-in tools to support\u00a0training and development.\u00a0And the\u00a0move to Teams\u00a0Phone\u00a0is also\u00a0gaining positive feedback, with staff describing it as \u201ca real game-changer\u201d\u00a0which has \u201cmade life a lot easier\u201d.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In November,\u00a0the\u00a0\u2018I\u2019\u00a0moved out of\u00a0VVI\u00a0when\u00a0delivery of\u00a0our integration gateway\u00a0transferred to\u00a0our new wide area network (WAN) contract.\u00a0As part of the new WAN service,\u00a0Vodafone will implement\u00a0tooling to give\u00a0MoJ\u2019s network operations centre\u00a0real-time visibility of the\u00a0gateway.\u00a0Better\u00a0insight into network traffic and bandwidth usage\u00a0will\u00a0enable\u00a0faster incident resolution\u00a0as well as making us better equipped to respond to changing demand.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Evolve Video\u00a0project\u00a0will\u00a0complete the disaggregation of\u00a0VVI.\u00a0A new Justice Video Service contract is due to be signed in\u00a0early\u00a02026,\u00a0to\u00a0upgrade\u00a0our\u00a0on-premise\u00a0systems with a new cloud-based solution\u00a0with improved\u00a0service resilience and\u00a0tooling.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering value\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0new contracts\u00a0position us\u00a0deliver significant financial savings\u00a0over the next decade,\u00a0as well as cutting\u00a0our\u00a0energy use and\u00a0carbon\u00a0footprint.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But another hugely valuable outcome\u00a0is\u00a0reducing\u00a0our\u00a0technical debt and\u00a0giving us\u00a0the flexibility to adapt infrastructure and systems in response to changing\u00a0times\u00a0and technologies.\u00a0We're\u00a0more agile, more responsive, and better equipped to\u00a0meet\u00a0future\u00a0challenges.\u00a0As we move into 2026,\u00a0our tech strategy\u00a0has\u00a0four \u2018pillars\u2019\u00a0and\u00a0the changes\u00a0we\u2019ve\u00a0made\u00a0have laid the foundations for them:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cSimpler, faster, better\u201d\u00a0for\u00a0our end users\u00a0depends on\u00a0smaller, more specialist, and more\u00a0numerous\u00a0supplier contracts\u00a0\u2012\u00a0a more complex\u00a0but\u00a0flexible\u00a0supplier landscape.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0still have further to go on this journey, but the progress\u00a0we\u2019ve\u00a0made is delivering huge dividends.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And bigger benefits are unquestionably better.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2025/12/11/our-voice-video-and-integration-journey/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "Sometimes bigger\u00a0isn\u2019t\u00a0better.\u00a0 Three years ago, MoJ\u00a0launched\u00a0our\u00a0Justice Digital Strategy 2025,\u00a0aiming to\u00a0become a\u00a0more flexible organisation,\u00a0driven by data\u00a0and\u00a0led by users.\u00a0Our\u00a0Evolve portfolio of projects\u00a0has played\u00a0an important role\u00a0in delivering on this strategy\u00a0and in\u00a0Justice Digital\u2019s mission\u00a0to make\u00a0things\u00a0simpler,\u00a0faster, and\u00a0better\u00a0for our users.\u00a0\u00a0 As 2025 draws to a close,\u00a0it\u2019s\u00a0a \u2026"
+    },
+    {
+        "title": "Minimum brown crab size backed by South West fishermen",
+        "authors": [
+            "Fisheries Management Team, Marine Management Organisation"
+        ],
+        "posted_on": "2025-12-11T12:20:17",
+        "categories": [
+            "Implementation"
+        ],
+        "content": [
+            {
+                "content": "Brown crab (Cancer pagurus, also called edible crab) is a species found in the crab and lobster fisheries management plan (FMP).\u00a0 It\u2019s a non-quota species, meaning fishing of these stocks is not currently subject to catch limits.",
+                "tag": "p"
+            },
+            {
+                "content": "Changes in the South West from 1 February 2026",
+                "tag": "h2"
+            },
+            {
+                "content": "The species is important for many fishers in the South West, especially for the smaller inshore fleet.",
+                "tag": "p"
+            },
+            {
+                "content": "To support the stock, a harmonised minimum conservation reference size (MCRS), also known as minimum landing size (MLS), will come into place to align the offshore and inshore sizes.",
+                "tag": "p"
+            },
+            {
+                "content": "This will be done through a fishing vessel licence condition and will apply to all UK and EU commercial vessels fishing in South West English waters (west of 2\u00b056.78W and south of 52\u00b00N) - see boundaries in the map below.",
+                "tag": "p"
+            },
+            {
+                "content": "From 1 February the minimum size that can be landed will be:",
+                "tag": "p"
+            },
+            {
+                "content": "\ud83e\udd80 160 mm for male brown crabs",
+                "tag": "p"
+            },
+            {
+                "content": "\ud83e\udd80 150 mm for female brown crabs",
+                "tag": "p"
+            },
+            {
+                "content": "This means fishermen can only keep crabs this size or above, and must return any that are smaller to the sea.",
+                "tag": "p"
+            },
+            {
+                "content": "How did we get here?",
+                "tag": "h2"
+            },
+            {
+                "content": "When it was published in December 2023, the FMP proposed new measures including a trial of management options in the South West crab fishery.",
+                "tag": "p"
+            },
+            {
+                "content": "Defra commissioned us, the Marine Management Organisation (MMO) to work on this.",
+                "tag": "p"
+            },
+            {
+                "content": "Working together",
+                "tag": "h2"
+            },
+            {
+                "content": "Seafish and MMO set up the South West Crab Trial Group with members including fishermen, regulators, and other experts.",
+                "tag": "p"
+            },
+            {
+                "content": "The group looked at many options, but one measure stood out, which was making the MCRS the same across the region.",
+                "tag": "p"
+            },
+            {
+                "content": "Why a regional MCRS is good",
+                "tag": "h2"
+            },
+            {
+                "content": "\u2022 More female crabs can spawn, helping crab numbers grow.\u2022 One clear rule to follow makes things easier for everyone.\u2022 Introduces management on a regional scale.",
+                "tag": "p"
+            },
+            {
+                "content": "Stakeholder views",
+                "tag": "h2"
+            },
+            {
+                "content": "The option was proposed to stakeholders in a survey in August 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "Fishermen and others in the industry shared their views and out of 78 responses, over 80% said they liked the proposal.",
+                "tag": "p"
+            },
+            {
+                "content": "You can find a summary of the survey and document on the decision to progress the proposal on GOV.UK: South West Regional Fisheries Group.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "h2"
+            },
+            {
+                "content": "The MCRS in the South West will be brought in through a fishing vessel licence condition, starting on 1 February 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Defra, with the support from MMO and the Crab and Lobster Implementation Group (CLIG) are now starting work on the medium- and long-term goal of looking at crab and lobster fishing effort. This will build on work completed for the South West and North East trials.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "If you want to find out more, check out the updates on the crab and lobster FMP on the FMP blog and find regional information on the South West Regional Fisheries Group page on GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any questions, contact MMO and Defra\u2019s teams by email:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 MMO FMP team: FMP@marinemanagement.org.uk\u2022 Defra Shellfish policy team: shellfish@defra.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/12/11/minimum-brown-crab-size-backed-by-south-west-fishermen/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "The minimum size will be changing on 1 February 2026 to protect stocks and make fishing clearer and fairer across the region."
+    },
+    {
+        "title": "Buncefield: 20 years on, reflections from those who were there\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-12-11T11:07:25",
+        "categories": [
+            "Regulated industry"
+        ],
+        "content": [
+            {
+                "content": "In our previous blog, we looked back at the Buncefield incident, our role in the response, and how it shaped the way we regulate high-risk sites. ",
+                "tag": "p"
+            },
+            {
+                "content": "For this second piece, we want to share first-hand experiences from some of our colleagues who were directly involved. Their memories highlight the scale of the incident and how it continues to influence our work today.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Colin Chiverton, Area Environment Manager, Thames Area\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rob Argent, Operations Team\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A reflection on Buncefield\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The memories shared by our colleagues show how deeply the Buncefield incident affected those involved. Their stories underline why the Environment Agency continues to work so closely with partners and industry to minimise the risk of another major industrial accident.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A message from our Chief Regulator Director, Jo Nettleton\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to hear more updates and insights from our teams on topics like this, please follow our Chief Regulator LinkedIn account.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/12/11/buncefield-20-years-on-reflections-from-those-who-were-there/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "For this second piece, we wanted to share first-hand experiences from some of our colleagues who were directly involved. Their memories highlight the scale of the incident and how it continues to influence our work today.\u00a0"
+    },
+    {
+        "title": "Rethinking how we approach the design of reservoirs",
+        "authors": [
+            "Jacqui Jobbins"
+        ],
+        "posted_on": "2025-12-11T10:01:53",
+        "categories": [
+            "Climate change",
+            "Development",
+            "Evidence",
+            "Green Infrastructure",
+            "Growth",
+            "Landscape",
+            "Natural England"
+        ],
+        "content": [
+            {
+                "content": "By Jacqui Jobbins, Landscape Senior Specialist, Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "As our climate changes and demand for water grows, water companies across the country are planning new reservoirs and expanding existing ones. But these projects aren\u2019t just about storing water \u2013 they\u2019re also a chance to create beautiful, nature-rich places that benefit both people and wildlife.",
+                "tag": "p"
+            },
+            {
+                "content": "A new way of thinking: The landscape-led approach",
+                "tag": "h4"
+            },
+            {
+                "content": "When we talk about a landscape-led approach, we mean designing with the land, not just on it. It\u2019s about understanding the unique character of a place \u2013 its natural features, history, and how people connect with it \u2013 and using that understanding to shape how new developments, like reservoirs, are planned and built.",
+                "tag": "p"
+            },
+            {
+                "content": "When we think of reservoirs, we often picture vast bodies of water quietly storing the supply we rely on for drinking, farming, and industry. But behind every reservoir lies a deeper story \u2014 one of transformation, trade-offs, and potential.",
+                "tag": "p"
+            },
+            {
+                "content": "No matter how big or small, every reservoir reshapes the landscape around it. The ecosystems that once thrived in these spaces are disrupted, and the natural balance shifts. It\u2019s a reality that can\u2019t be ignored.",
+                "tag": "p"
+            },
+            {
+                "content": "While these changes are inevitable, in the longer term they don\u2019t have to be destructive. With thoughtful, landscape-led design, reservoirs can do more than just store water \u2014 they can become hubs of ecological resilience. Imagine a reservoir that not only meets our water needs but also supports wildlife, restores degraded land, and creates new green spaces for communities to enjoy.",
+                "tag": "p"
+            },
+            {
+                "content": "What are the \u2018Reservoirs in the Landscape: Design Principles\u2019?",
+                "tag": "h4"
+            },
+            {
+                "content": "To support this way of thinking, Natural England and the APEM Group have created a publication called \u2018Reservoirs in the Landscape: Design Principles.\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "Why it matters",
+                "tag": "h4"
+            },
+            {
+                "content": "When it comes to building new reservoirs, it\u2019s not just about storing water \u2013 it's about how these structures fit into the landscape around them. That\u2019s why the new Reservoir Design Principles take a landscape-led approach, focusing on how water infrastructure can work in harmony with nature.",
+                "tag": "p"
+            },
+            {
+                "content": "To help shape this vision, Natural England brought together water companies and regulators, national landscape organisations, environmental non-government organisations and Local Planning Authorities. Their combined expertise has helped to shape the Reservoir Design Principles and will ensure that future reservoirs are not only practical and efficient, but also enhance the character and beauty of the places they\u2019re built in.",
+                "tag": "p"
+            },
+            {
+                "content": "The publication encourages developers to think beyond function and consider how reservoirs can contribute to the wider landscape. It is not a rulebook, but a set of principles that complement existing policies and help unlock the full potential of these projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Reservoirs are large and often transformative developments. Done well, they can become valued parts of the landscape \u2013 places where people walk, sail, fish, or simply enjoy nature. Many existing reservoirs have already become beloved local landmarks.",
+                "tag": "p"
+            },
+            {
+                "content": "With today\u2019s challenges\u2014like climate change, biodiversity loss, and the need for sustainable infrastructure\u2014we have a unique opportunity. By designing reservoirs that work with the landscape, we can deliver water security and create places that support nature and bring joy to communities.",
+                "tag": "p"
+            },
+            {
+                "content": "Who is it for?",
+                "tag": "h4"
+            },
+            {
+                "content": "It\u2019s a practical resource for anyone involved in designing reservoirs \u2013 from engineers and planners from the water industry to landowners and local communities.",
+                "tag": "p"
+            },
+            {
+                "content": "While the publication is aimed primarily at the water industry, it\u2019s also useful for:",
+                "tag": "p"
+            },
+            {
+                "content": "It can be used at every stage of a reservoir project \u2013 from early planning and feasibility studies to design, construction, and long-term management. It\u2019s also flexible enough to apply to smaller projects or the repurposing of existing reservoirs.",
+                "tag": "p"
+            },
+            {
+                "content": "Want to know more?",
+                "tag": "h4"
+            },
+            {
+                "content": "We\u2019re excited to invite professionals working in the water sector, protected landscapes, Local Planning Authorities and environmental national government organisations to an upcoming webinar focused on the Reservoir Design Principles. If you\u2019re interested in joining us, please email clare.foster@naturalengland.org.uk",
+                "tag": "p"
+            },
+            {
+                "content": "Read more: \u2018Reservoirs in the Landscape: Design Principles.\u2019",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/12/11/rethinking-how-we-approach-the-design-of-reservoirs/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Jacqui Jobbins, Landscape Senior Specialist, Natural England As our climate changes and demand for water grows, water companies across the country are planning new reservoirs and expanding existing ones. But these projects aren\u2019t just about storing water \u2013 they\u2019re \u2026"
+    },
+    {
+        "title": "Paws, patents and protection\u00a0\u00a0",
+        "authors": [
+            "Rachel Gilmore"
+        ],
+        "posted_on": "2025-12-11T10:00:00",
+        "categories": [
+            "Design",
+            "Design right",
+            "Innovation",
+            "Patents"
+        ],
+        "content": [
+            {
+                "content": "I love dogs, and the number of products that exist out there now makes owning a dog all the more enjoyable.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We adopted a rescue bulldog named Rosa just over two years ago, and she quickly became the love of our lives. From the very first day, it felt like she knew she was finally home. She\u2019s a curious little thing and rummaged through everything in her path, grabbed a toy and raced around the coffee table with pure delight (nearly sending our coffees flying in the process). \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "She\u2019s a bundle of joy, always eager for walks, naps and most of all, food.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Designs for hungry pups\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Her love of food, however, came with a challenge. She used to eat her food so quickly that one day she struggled to swallow it, and we had a terrifying moment where she seemed to be choking. She toppled onto her side, her legs moving as if she were running, but thankfully that motion dislodged the food and she was fine, but it gave us quite a scare! We soon looked into how to perform the Heimlich Maneuver on a dog, which is really handy to know!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since then, we\u2019ve invested in a slow feeder bowl, which has been a lifesaver, literally. This registered design (GB6263701) protects the visual appearance of a slow feeder dog bowl, featuring raised obstacles and compartments that help prevent pets from gulping their food too quickly. The distinctive structure combines safety with practicality, making mealtimes much safer for dogs prone to bloat.",
+                "tag": "p"
+            },
+            {
+                "content": "Although Rosa sometimes gets frustrated and flips the bowl across the floor to get to her food faster, it still does its job of slowing down her eating.",
+                "tag": "p"
+            },
+            {
+                "content": "The long and short of lead innovation\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "She can sometimes feel a little anxious around other dogs, so we use a retractable lead to walk her with. This allows her the freedom to explore on her walks, while still giving us full control if another dog comes too close.\u00a0 Interestingly, a patent for this type of retractable pet lead was filed by Philip Martin Nicholson in 1977 (GB1546235A\u00a0)",
+                "tag": "p"
+            },
+            {
+                "content": "Because she can be a little anxious, we often bring along a snuffle mat to keep her happily occupied at bars and restaurants. For car journeys, we also use a specially designed travel water bowl (Patent GB2428551B) invented by Natalie Ellis. The bowl's floating inner section and liquid feed holes prevent spills when we're on the move, keeping both Rosa hydrated and our car seats dry!",
+                "tag": "p"
+            },
+            {
+                "content": "Sniffing out the fakes\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "It\u2019s not just toys and accessories where intellectual property matters, it also plays a vital role in keeping our pets safe with medicines and treatments. Sadly, there are people who try to cut corners with cheap, unsafe products just to make a profit and this puts our pets at great risk which is not ok. This campaign explains all about that. So next time you\u2019re shopping for products for your pet, take a moment to make sure it\u2019s the real deal and not a fake alternative \u2013 it could save your pets life!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ll wrap up by saying just how much adopting Rosa has transformed our lives for the better. She fills our days with endless joy, greeting us with excitement and love (even when we\u2019re at our worst). Adopting Rosa has been one of the most rewarding decisions we\u2019ve ever made.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But dogs are for life, not just for Christmas! They require a lot of time, effort and commitment, but the love and companionship they offer in return are second to none. When you adopt, you\u2019re not just giving a dog a second chance, you\u2019re also getting a best friend for life which is exactly why adoption is one of the best things you can do if you ever get the chance.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/12/11/paws-patents-and-protection/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "From slow feeder bowls to retractable leads, discover how intellectual property protects the products that keep our four-legged friends safe and happy."
+    },
+    {
+        "title": "Occupations in\u00a0demand in 2025:\u00a0what\u00a0the analysis means\u00a0for the skills system, by Frank Bowley",
+        "authors": [
+            "Communications Team"
+        ],
+        "posted_on": "2025-12-11T09:53:06",
+        "categories": [
+            "analysis",
+            "data",
+            "Insight",
+            "News and announcements",
+            "Statistics"
+        ],
+        "content": [
+            {
+                "content": "Skills England\u00a0has published its\u00a0latest\u00a0analysis,\u00a0occupations in\u00a0demand,\u00a0exploring\u00a0the occupations most in demand across the\u00a0UK\u00a0labour market in 2025. ",
+                "tag": "p"
+            },
+            {
+                "content": "This analysis helps us to understand\u00a0which\u00a0employers and\u00a0industries are likely to be feeling the\u00a0greatest\u00a0pressures to recruit and\u00a0retain\u00a0workers, and\u00a0the level of qualification\u00a0those workers\u00a0are likely to\u00a0need.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Used alongside other sources of evidence, the statistics\u00a0can\u00a0help\u00a0pinpoint\u00a0where investment in skills\u00a0could have\u00a0the greatest impact, by recognising the roles\u00a0and industries where workers are\u00a0most needed right now.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What 'in demand' means",
+                "tag": "h2"
+            },
+            {
+                "content": "This analysis\u00a0is a data-driven way of\u00a0measuring the level of demand\u00a0for different jobs in the labour market.\u00a0It\u00a0identifies\u00a0signs that employers are trying to recruit or retain\u00a0workers,\u00a0or\u00a0asking existing\u00a0employees\u00a0to\u00a0work longer hours.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0use\u00a0five different measures\u00a0to\u00a0capture\u00a0demand,\u00a0including\u00a0the\u00a0number of\u00a0online\u00a0job\u00a0adverts\u00a0relative\u00a0to the size of the\u00a0workforce,\u00a0and wage growth.\u00a0Comparing these\u00a0measures\u00a0across occupations and\u00a0to historic trends allows us to categorise occupations into three groups:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Demand in 2025",
+                "tag": "h2"
+            },
+            {
+                "content": "This year we\u00a0assessed\u00a062\u00a0occupations\u00a0as in\u00a0\u2018critical demand\u2019,\u00a0out of\u00a0368\u00a0occupations included in\u00a0the analysis. Occupations were defined using\u00a0ONS\u2019s\u00a0Standard Occupational Classification, which is\u00a0a way to divide up the types of jobs in the labour market.\u00a0These\u00a0critical demand\u00a0occupations employ over 5 million workers, or 15.4%\u00a0of\u00a0all workers employed in the UK.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Occupations\u00a0showing\u00a0the highest levels\u00a0of\u00a0demand\u00a0include\u00a0health roles\u00a0such as:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There was also particularly high demand among digital roles such as\u00a0IT business analysts,\u00a0architects\u00a0and systems designers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A further 125 occupations are in elevated demand.\u00a0There are almost 11 million workers,\u00a0or 32.9% of\u00a0all workers employed in the UK,\u00a0in these occupations.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Care workers and home carers has the largest number of workers\u00a0in this category,\u00a0at 910k.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Demand across industries and skill levels",
+                "tag": "h2"
+            },
+            {
+                "content": "By grouping occupations in larger industries,\u00a0we\u00a0get a\u00a0broader sense of\u00a0where\u00a0demand exists across\u00a0the\u00a0economy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0industry with the largest number of people working in elevated or critical demand occupations is health and social care, with over 2.7 million workers\u00a0in these occupations.\u00a0This is followed by education, with 1.9m workers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As well as\u00a0the\u00a0total\u00a0number of workers,\u00a0it\u2019s\u00a0useful to consider\u00a0how this\u00a0compares\u00a0to the size of the\u00a0industry as a whole.\u00a0For example, the information and communication industry\u00a0has the\u00a06th\u00a0highest number of workers in high demand occupations\u00a0(1.1m),\u00a0but\u00a0the\u00a0largest\u00a0proportion of workers\u00a0in high demand occupations\u00a0(66.8%).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The analysis\u00a0also\u00a0helps us to\u00a0understand the level of training\u00a0required\u00a0for these high-demand occupations. Over half of people, 52.3%, working in critical demand occupations are\u00a0in\u00a0roles\u00a0that\u00a0require post-compulsory education but not normally to degree level. Most commonly these were business associate professional roles, like sales,\u00a0accounts\u00a0and business development managers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The impact of this analysis",
+                "tag": "h2"
+            },
+            {
+                "content": "The\u00a0\u2018Occupations in\u00a0demand\u2019\u00a0analysis\u00a0helps us\u00a0to\u00a0understand\u00a0what\u2019s\u00a0happening now in the labour market.\u00a0We\u2019ll\u00a0be using it alongside other ways of understanding demand, like our\u00a0forward-looking\u00a0Assessment of Priority Skills to 2030, to\u00a0identify\u00a0where and how to invest in skills to improve growth and opportunity.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since our\u00a0first\u00a0'Occupations in demand\u2019 publication\u00a0in 2024\u00a0we have\u00a0been making\u00a0major improvements to the\u00a0\u2018occupations in\u00a0demand\u2019\u00a0methodology,\u00a0building in feedback from users and our partners. The changes mean that our latest results\u00a0can\u2019t\u00a0be compared with\u00a0the data for\u00a02024, but future releases will allow us to see how demand is changing across the years.\u00a0This will\u00a0underpin Skills England\u2019s long-term work to assess and respond to skills needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Feedback",
+                "tag": "h2"
+            },
+            {
+                "content": "If you would like to give any feedback on the findings or methods used ahead of our next release in 2026,\u00a0please complete\u00a0our short feedback survey, or use\u00a0the\u00a0contact details below.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Email:\u00a0skills.england@education.gov.uk\u00a0For attention of: Nathan Chalam-Judge\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Frank Bowley",
+                "tag": "p"
+            },
+            {
+                "content": "Deputy Director of Analysis and Insight, Skills England\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://skillsengland.blog.gov.uk/2025/12/11/occupations-in-demand-in-2025-what-the-analysis-means-for-the-skills-system-by-frank-bowley/",
+        "blog": "Skills England",
+        "blog_link": "https://skillsengland.blog.gov.uk",
+        "description": "Skills England\u00a0has published its\u00a0latest\u00a0analysis,\u00a0occupations in\u00a0demand,\u00a0exploring\u00a0the occupations most in demand across the\u00a0UK\u00a0labour market in 2025. This analysis helps us to understand\u00a0which\u00a0employers and\u00a0industries are likely to be feeling the\u00a0greatest\u00a0pressures to recruit and\u00a0retain\u00a0workers, and\u00a0the level of qualification\u00a0those workers\u00a0are likely to\u00a0need.\u00a0 Used alongside other \u2026"
+    },
+    {
+        "title": "What teachers need to know about our on-screen assessment proposals",
+        "authors": [
+            "Jo Handford"
+        ],
+        "posted_on": "2025-12-11T00:01:00",
+        "categories": [
+            "A levels and GCSEs",
+            "Exams",
+            "On-screen assessment",
+            "Regulation"
+        ],
+        "content": [
+            {
+                "content": "As teachers, you know better than anyone that GCSEs, AS and A levels are high-stakes qualifications that shape young people's futures. Every decision about how these exams are delivered must start with one question: is this fair for students?",
+                "tag": "p"
+            },
+            {
+                "content": "That's why we're consulting on a carefully balanced approach to on-screen assessment. One that protects the integrity of qualifications you and your students work so hard for, while enabling measured innovation where the evidence supports it.",
+                "tag": "p"
+            },
+            {
+                "content": "A balanced approach",
+                "tag": "h2"
+            },
+            {
+                "content": "We're proposing a controlled approach that enables innovation while protecting what matters most: standards, fairness, and your ability to prepare students effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "Here's what this means in practice:",
+                "tag": "p"
+            },
+            {
+                "content": "Protecting fairness for all students",
+                "tag": "h2"
+            },
+            {
+                "content": "We know you're concerned about fairness \u2013 and so are we. Our proposals include specific protections:",
+                "tag": "p"
+            },
+            {
+                "content": "Built on solid evidence",
+                "tag": "h2"
+            },
+            {
+                "content": "These proposals are informed by extensive research, including:",
+                "tag": "p"
+            },
+            {
+                "content": "We've also been clear about the risks. On-screen assessment introduces new challenges around cyber-security, technical failures during exams, and maintaining standards across different modes. Our controlled approach ensures these risks are carefully managed.",
+                "tag": "p"
+            },
+            {
+                "content": "We're listening to your concerns",
+                "tag": "h2"
+            },
+            {
+                "content": "Our research tells us that while there's interest in greater use of technology in assessment, teachers have legitimate concerns. You've told us about:",
+                "tag": "p"
+            },
+            {
+                "content": "We've listened. Our proposals reflect these realities.",
+                "tag": "p"
+            },
+            {
+                "content": "What won't change",
+                "tag": "h2"
+            },
+            {
+                "content": "Your professional expertise remains at the heart of preparing students for qualifications. The knowledge and skills being assessed won't change. The rigour and value of qualifications won't be compromised. And traditional pen and paper assessment will remain the primary mode for most exams.",
+                "tag": "p"
+            },
+            {
+                "content": "We need your voice",
+                "tag": "h2"
+            },
+            {
+                "content": "This consultation runs for 12 weeks, and we particularly want to hear from teachers and school leaders. You understand the realities of exam delivery. You know your students. You see what works and what doesn't.",
+                "tag": "p"
+            },
+            {
+                "content": "Your responses will help us ensure that any changes serve students' interests and are deliverable in schools and colleges.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "If these proposals are taken forward, detailed rules and guidance will follow in 2026. We'll keep the 2-specification limit under review, learning from how on-screen assessments work in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "This is about evolution, not revolution. It's about protecting the qualifications system that serves your students well, while carefully enabling innovation where the evidence supports it.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s worth remembering that this is optional.\u00a0 In the vast majority of cases you can choose the specification that suits your preferences.",
+                "tag": "p"
+            },
+            {
+                "content": "Read the full consultation and share your views here.",
+                "tag": "p"
+            },
+            {
+                "content": "Your expertise and experience are essential to getting this right. Together, we can ensure that any changes maintain the standards and fairness that make England's qualifications trusted and valued.",
+                "tag": "p"
+            },
+            {
+                "content": "Jo Handford",
+                "tag": "p"
+            },
+            {
+                "content": "Associate Director Strategic Projects and Innovation, Ofqual",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofqual.blog.gov.uk/2025/12/11/what-teachers-need-to-know-about-our-on-screen-assessment-proposals/",
+        "blog": "The Ofqual blog",
+        "blog_link": "https://ofqual.blog.gov.uk",
+        "description": "As teachers, you know better than anyone that GCSEs, AS and A levels are high-stakes qualifications that shape young people's futures. Every decision about how these exams are delivered must start with one question: is this fair for students? That's \u2026"
+    },
+    {
         "title": "100 Days of Cyber & Specialist Operations Command",
         "authors": [
             "bobsendall"
