@@ -1,0 +1,940 @@
+[
+    {
+        "title": "Turning science into action: How\u00a0we\u2019re\u00a0delivering water data for England\u2019s future\u00a0\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-12-15T15:21:06",
+        "categories": [
+            "hydrometry",
+            "Rivers",
+            "Science",
+            "telemetry",
+            "Water Monitoring"
+        ],
+        "content": [
+            {
+                "content": "By Dr Robert Bradburne, Environment Agency Chief Scientist\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Friday 12 December marked\u00a0a\u00a0significant\u00a0moment for all of us who care about England\u2019s rivers and streams. Today,\u00a0we\u2019re\u00a0releasing our first set of analysis-ready water data under Defra\u2019s Natural Capital and Ecosystem Assessment (NCEA) programme\u00a0and\u00a0I\u2019m\u00a0immensely\u00a0proud of\u00a0the work\u00a0of\u00a0hundreds of\u00a0committed\u00a0Environment\u00a0Agency\u00a0Staff\u00a0that has got\u00a0us to\u00a0this point.\u00a0We know England\u2019s rivers\u00a0are hugely valuable to us, but\u00a0face\u00a0considerable\u00a0pressures,\u00a0from pollution to climate change,\u00a0and\u00a0that\u2019s\u00a0precisely why building this evidence base matters.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why? Because this\u00a0isn\u2019t\u00a0just data\u00a0we\u2019re\u00a0collecting.\u00a0It\u2019s\u00a0the foundation for something\u00a0potentially\u00a0transformative: a truly representative national picture of river and stream health, built on a\u00a0statistically\u00a0balanced design.\u00a0\u00a0This first\u00a0data\u00a0release\u00a0is\u00a0a major step\u00a0towards\u00a0the NCEA producing a\u00a0complete\u00a0baseline of our natural assets by 2029,\u00a0which\u00a0will underpin decisions that strengthen resilience for nature, people, and the economy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are at the start of the biggest investment from water companies in improving the water system that we have seen for many years, with \u00a3104bn being put into measures that could improve water quality over the next five years.\u00a0\u00a0The Government has\u00a0recently announced \u00a3500m will be spent with farmers on Landscape Recovery Schemes across the country, sparking considerable land use\u00a0or management\u00a0change\u00a0across\u00a0a number of\u00a0catchments.\u00a0\u00a0We\u2019re\u00a0planting trees faster now than we have for\u00a020\u00a0years, and of course there will be more houses, and new industrial clusters in many places across the country.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What makes NCEA different?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Natural Capital and Ecosystem Assessment (NCEA) is Defra\u2019s\u00a0largest\u00a0single\u00a0research and\u00a0development\u00a0programme.\u00a0Its ambition\u00a0is\u00a0clear:\u00a0that\u00a0the\u00a0national baseline of our natural assets,\u00a0can ensure\u00a0decisions\u00a0and investments\u00a0across government and society\u00a0that\u00a0impact\u00a0our\u00a0environment\u00a0can be grounded in the best possible evidence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The water\u00a0component, delivered by the Environment Agency, is designed for national-scale\u00a0insight.\u00a0Using unbiased, spatially balanced sampling across rivers and small streams, it helps us understand England\u2019s water environment as a whole - not just individual sites or local pressures.\u00a0That matters because it gives us a clearer, fairer picture of how our rivers and streams are doing.\u00a0\u00a0It enables us to see how the investments and changes we are making interact with drivers such as changing weather patterns and how this\u00a0ultimately shapes\u00a0the health and value of\u00a0our waters.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How does this fit with existing monitoring?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s important to be clear:\u00a0NCEA evidence does not replace regulatory monitoring\u00a0such as\u00a0that\u00a0needed\u00a0under\u00a0The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017\u00a0which\u00a0remains\u00a0the\u00a0overarching\u00a0statutory framework for assessing and managing\u00a0much of\u00a0the water environment, focusing on\u00a0a cycle\u00a0of\u00a0river basin planning, programmes of measures,\u00a0with\u00a0monitoring targeted at\u00a0assessing\u00a0pressures and \u201cat-risk\u201d water bodies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0NCEA\u00a0is a\u00a0separately\u00a0funded\u00a0research\u00a0programme\u00a0which\u00a0complements this by\u00a0fulfilling\u00a0a different need. The\u00a0NCEA\u00a0tells us how the environment is doing at the national\u00a0scale. For\u00a0example,\u00a0how\u00a0the\u00a0health and\u00a0value of\u00a0rivers and\u00a0lakes\u00a0and\u00a0groundwaters\u00a0is\u00a0changing\u00a0in response to\u00a0broad scale\u00a0changing\u00a0pressures and management\u00a0activities.\u00a0Assessments\u00a0done\u00a0for the\u00a0Water Environment\u00a0(WFD) (England and Wales)\u00a0Regulations 2017,\u00a0support regulatory\u00a0and planning\u00a0actions at local and regional levels, and enable us to understand how those plans, actions and investments are\u00a0supporting\u00a0and improving the chemical and biological status of our waterbodies.\u00a0Both are vital\u00a0and,\u00a0together\u00a0with the variety of other data available,\u00a0they\u00a0give us\u00a0a truly unique\u00a0and powerful set of tools with which to understand\u00a0our water environment.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0we\u2019re\u00a0publishing now\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This release includes analysis-ready datasets from the River Surveillance Network (RSN) and the Small Streams Network (SSN).\u00a0It's\u00a0an interim snapshot,\u00a0a small subset of the planned survey,\u00a0so\u00a0it\u2019s\u00a0not the full picture yet. But\u00a0it\u2019s\u00a0a major step\u00a0forward, and it sets the stage for\u00a0what\u2019s\u00a0to come.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Opening up NCEA data\u00a0at\u00a0this\u00a0early\u00a0stage\u00a0is about\u00a0transparency and\u00a0openness, and\u00a0I\u00a0hope\u00a0it\u00a0will\u00a0encourage\u00a0discussion\u00a0and\u00a0innovation.\u00a0It reflects the work of colleagues across field teams, labs, and analysis -combining traditional\u00a0expertise\u00a0with newer methods to raise the bar in environmental science.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It embodies\u00a0our vision for science in the Environment Agency: evidence that is\u00a0excellent, trusted, and applied to real-world decisions.\u00a0This is science in action - making a difference for the places and people we serve.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Using the data in the right way\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know people will want to compare NCEA data with other datasets.\u00a0I\u2019m\u00a0really pleased\u00a0for people to\u00a0explore\u00a0the\u00a0data, but\u00a0a\u00a0friendly caution: methodological differences can look like real-world change if you\u00a0don\u2019t\u00a0account for them.\u00a0That\u2019s\u00a0why\u00a0we\u2019re\u00a0incorporating\u00a0plain-English caveats, guidance on\u00a0appropriate\u00a0use, and reminders that these datasets are for national-scale inference - not site-level compliance decisions.\u00a0\u00a0As\u00a0we collect more\u00a0data over\u00a0the\u00a0coming\u00a0years\u00a0you will\u00a0be able to do\u00a0more and more\u00a0with it, and\u00a0I am\u00a0really\u00a0looking\u00a0forwards to\u00a0hearing about\u00a0new\u00a0insights\u00a0that\u00a0are\u00a0generated using it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What comes next\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This\u00a0is just the start. Over the coming years,\u00a0we\u2019ll\u00a0release more data across freshwater, groundwater, estuarine, and coastal networks - all part of building England\u2019s national baseline. By pairing open data with clear\u00a0contextual\u00a0information,\u00a0we\u2019ll\u00a0help everyone - from policymakers and practitioners to researchers and communities - to\u00a0make better, more confident choices for England\u2019s environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So,\u00a0I encourage you\u00a0all -\u00a0explore\u00a0the data, share your insights, and join us in shaping a resilient future for England\u2019s rivers and streams.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To hear more from the NCEA programme on their other newly released datasets, read their latest blog.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/12/15/turning-science-into-action-how-were-delivering-water-data-for-englands-future/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Today marks\u00a0a\u00a0significant\u00a0moment for all of us who care about England\u2019s rivers and streams. Today,\u00a0we\u2019re\u00a0releasing our first set of analysis-ready water data under Defra\u2019s Natural Capital and Ecosystem Assessment (NCEA) programme\u00a0and\u00a0I\u2019m\u00a0immensely\u00a0proud of\u00a0the work\u00a0of\u00a0hundreds of\u00a0committed\u00a0Environment\u00a0Agency\u00a0Staff\u00a0that has got\u00a0us to\u00a0this point."
+    },
+    {
+        "title": "Major milestone: NCEA publishes new datasets on England's environment",
+        "authors": [
+            "David Jones"
+        ],
+        "posted_on": "2025-12-15T14:52:27",
+        "categories": [
+            "Nature",
+            "NCEA programme",
+            "Research and data analysis"
+        ],
+        "content": [
+            {
+                "content": "I\u2019m\u00a0David Jones,\u00a0and I have the privilege\u00a0of\u00a0being\u00a0the Senior Responsible Owner for Defra\u2019s largest research and development programme, the Natural Capital and Ecosystem Assessment (NCEA).\u00a0Today, I am excited\u00a0to share an\u00a0update on\u00a0a major milestone for the programme \u2013 the\u00a0first release of\u00a0Analysis\u00a0Ready\u00a0Data\u00a0from the UK\u2019s largest ever field surveys.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The NCEA\u00a0programme\u00a0is\u00a0all about\u00a0turbocharging nature's recovery through\u00a0delivering\u00a0robust and up to date evidence on the terrestrial and\u00a0freshwater environment.\u00a0I\u2019m\u00a0therefore\u00a0very\u00a0pleased\u00a0that\u00a0we have\u00a0now\u00a0published\u00a0our\u00a0first datasets\u00a0relating to\u00a0soil health,\u00a0rivers and\u00a0streams,\u00a0and\u00a0trees.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This marks\u00a0a significant step forward in understanding the condition of England\u2019s natural capital.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0is being\u00a0published?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our\u00a0NCEA\u00a0programme is\u00a0publishing\u00a0its\u00a0datasets as\u00a0analysis-ready\u00a0data.\u00a0They are\u00a0cleaned, standardised, quality-assured data that are well-documented, accessible, and\u00a0prepared\u00a0for analysis.\u00a0This\u00a0analysis-ready data\u00a0are\u00a0published under the Open Government Licence\u00a0which\u00a0means\u00a0they\u00a0are\u00a0free to use\u00a0and\u00a0can be\u00a0accessed\u00a0via\u00a0the NCEA\u2019s\u00a0\u2018Find Natural Capital Data\u2019\u00a0search\u00a0service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These newly released datasets cover the first year of\u00a0the programme\u2019s\u00a0data collection (2023/24), alongside data from the preparation year (2022/23),\u00a0and\u00a0include outputs from\u00a0both\u00a0terrestrial and freshwater surveys.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When these multi-year\u00a0surveys\u00a0complete\u00a0in\u00a02028, the\u00a0programme will\u00a0have\u00a0provided\u00a0a representative and\u00a0unbiased\u00a0picture\u00a0of England\u2019s\u00a0terrestrial and freshwater\u00a0ecosystems\u00a0at a national and regional basis.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why does this matter?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Every dataset we share helps build a clearer picture of England\u2019s natural capital.\u00a0Natural capital is the term encompassing all natural assets that form the environment we live in.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural capital knowledge enables us to improve people\u2019s wellbeing while accelerating economic growth, by placing the benefits of nature to society at the heart of decision-making.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By making high-quality environmental data openly available,\u00a0we\u2019re\u00a0giving policymakers, researchers, and anyone with an interest in nature the tools they need to make better decisions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For me, this is what the NCEA programme is all about: providing the evidence needed to drive action that helps improve the environment.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether\u00a0it\u2019s\u00a0shaping policy, driving research, or helping the public engage with the natural world - the data\u00a0we\u2019re\u00a0collecting today, will make a real difference for the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding the data:\u00a0important context\u00a0and limitations\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our\u00a0programme is designed to transform environmental decision-making in England by generating a \u2018whole system\u2019 picture of the state of our natural environment. Data collection has been structured as a\u00a0representative\u00a0random stratified\u00a0sample, to produce\u00a0an\u00a0unbiased view of England\u2019s natural capital assets\u00a0and ecosystems.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The datasets published to date represent only a\u00a0partial\u00a0subset of the\u00a0full\u00a0baseline, specifically, data from the preparation year (2022/23) and the first full year of collection (2023/24).\u00a0They\u00a0are experimental outputs and\u00a0may\u00a0not\u00a0be\u00a0fully\u00a0representative\u00a0or suitable for\u00a0many\u00a0analytical purposes.\u00a0Before using the data, please\u00a0therefore\u00a0read the\u00a0limitations statement\u00a0and supporting documentation to\u00a0the\u00a0dataset\u00a0for more\u00a0information\u00a0on suitable uses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "December 2025\u00a0data\u00a0release\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This week,\u00a0I\u2019m\u00a0pleased to share that the following datasets\u00a0are being\u00a0published:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "NCEA data in practice\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s\u00a0a few examples of how\u00a0the datasets\u00a0are\u00a0being\u00a0used\u00a0across Defra.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For water,\u00a0we\u2019re\u00a0using data from NCEA\u2019s River Surveillance Network to help track the health of England\u2019s rivers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This information\u00a0will feed into\u00a0interim\u00a0national reporting on the state of\u00a0the\u00a0water environment\u00a0indicator (B3)\u00a0and\u00a0provide\u00a0supporting evidence\u00a0to complement existing\u00a0regulatory monitoring\u00a0for the\u00a0Water\u00a0Framework Directive.\u00a0It is providing\u00a0up to date,\u00a0unbiased,\u00a0and nationally representative\u00a0data, helping us make better decisions for water quality and river health.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For soils,\u00a0NCEA\u00a0is\u00a0collecting\u00a0detailed information on soils\u00a0\u2013 including physical, chemical, and biological properties \u2013 through the England Ecosystem Survey and National Forest Inventory Plus.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This data\u00a0will be\u00a0a\u00a0key\u00a0input\u00a0for\u00a0the\u00a0Healthy Soils Indicator, which is\u00a0part of the\u00a0national Environmental\u00a0Indicator\u00a0Framework.\u00a0\u00a0Once\u00a0we\u2019ve\u00a0completed\u00a0the full\u00a0five years of monitoring,\u00a0we\u2019ll\u00a0have a\u00a0complete\u00a0picture of\u00a0soil health across England\u00a0and its regions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead,\u00a0we\u2019ve\u00a0got some exciting plans.\u00a0The next\u00a0analysis-ready data\u00a0release is scheduled for March 2026, and regular publications will continue through to the end of the programme in 2028/29.\u00a0To keep up to date on future releases\u00a0and other programme developments,\u00a0please\u00a0subscribe to\u00a0our\u00a0NCEA mailing list.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If\u00a0you\u2019re\u00a0interested in exploring the data we have released, visit the NCEA\u00a0\u2018Find Natural Capital Data\u2019\u00a0search service\u00a0to find out more.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can also search for Earth Observation products and data delivered earlier\u00a0in the programme,\u00a0such as\u00a0the Living England map, the England Peat\u00a0Map\u00a0and the Trees Outside Woodlands map.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any questions or would like to provide feedback on the data, please email us at:\u00a0NCEAdata@defra.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "//\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wondering who the NCEA are?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "NCEA is Defra\u2019s largest Research and Development programme, working\u00a0hand-in-hand\u00a0with a fantastic network of partners and arms-length bodies:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together, they are delivering a nationwide survey of England\u2019s natural capital and ecosystems, mapping their location and extent, and collecting data on condition to inform environmental policy and decision-making.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To read more about the NCEA programmes, read\u00a0our\u00a0previous blog posts.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2025/12/15/major-milestone-ncea-publishes-new-datasets-on-englands-environment/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "Today, a major milestone for the programme has been announced \u2013 the\u00a0first release of Analysis Ready Data from the UK\u2019s largest ever field surveys have been published.\u00a0 The NCEA\u00a0programme\u00a0is\u00a0all about\u00a0turbocharging nature's recovery through\u00a0delivering\u00a0robust and up to date evidence on the terrestrial and\u00a0freshwater environment. Read this blog post to find out more."
+    },
+    {
+        "title": "Coverage of our over \u00a31 billion investment to support victims of domestic abuse",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2025-12-15T11:23:47",
+        "categories": [
+            "Domestic abuse",
+            "Housing"
+        ],
+        "content": [
+            {
+                "content": "There has been widespread national coverage of the government\u2019s announcement which unveiled over \u00a31 billion will be invested for victims of domestic abuse to access support and rebuild their lives.",
+                "tag": "p"
+            },
+            {
+                "content": "An extra \u00a319 million will be invested under the Domestic Abuse Safe Accommodation Duty, meaning local authorities will receive nearly \u00a3500 million over the next three years to provide support in safe accommodation. The total funding is expected to help nearly 140,000 people, including women and their children.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As part of the announcement, the Ministry of Justice also reaffirmed that more than half a billion pounds is also being invested in vital support services to help domestic abuse victims and witnesses navigate the justice process, ensuring survivors receive the support they need at every stage.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "National coverage can be seen in the Times, Mirror, Guardian, Independent, Express and PA who report that this funding is on top of \u00a3480 million already pledged over three years for victims of domestic abuse, including refuges.",
+                "tag": "p"
+            },
+            {
+                "content": "Elsewhere the Herald\u00a0and Politico London Playbook\u00a0outline the measures which local authorities will be able to provide includingaccess to housing or confidential locations, as well as security upgrades such as lock changes and alarms for people staying in their own home.",
+                "tag": "p"
+            },
+            {
+                "content": "This morning, Justice Minister, Alex Davies Jones also gave interviews to Times Radio, Sky, BBC Breakfast, LBC, ITV GMB, ITN, and GB News about the announcement.",
+                "tag": "p"
+            },
+            {
+                "content": "Homelessness Minister Alison McGovern said:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cNo one should have to choose between staying in an unsafe home or facing homelessness.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe\u2019re treating violence against women and girls as a national emergency, with a clear commitment to halve it in the next decade.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis funding will help local authorities provide safe accommodation and tailored support, including refuges and Sanctuary Schemes, so every survivor can access safety, stability and a fresh start.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Minister for Safeguarding and Violence Against Women and Girls, Jess Phillips, said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWith government and society united, we can achieve our mission of halving violence against women and girls within a decade. That means bearing down on abusers but also giving survivors the support and resources they desperately need to rebuild their lives.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis funding will ensure victims remain safe while preventing their abusers from inflicting further unnecessary suffering.\u201d",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2025/12/15/coverage-of-our-over-1-billion-investment-to-support-victims-of-domestic-abuse/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been widespread national coverage of the government\u2019s announcement which unveiled over \u00a31 billion will be invested for victims of domestic abuse to access support and rebuild their lives. An extra \u00a319 million will be invested under the Domestic \u2026"
+    },
+    {
+        "title": "ADOPT: first projects selected as next round opens",
+        "authors": [
+            "Joss Wallace"
+        ],
+        "posted_on": "2025-12-15T10:52:39",
+        "categories": [
+            "Payments for research and innovation"
+        ],
+        "content": [
+            {
+                "content": "In April, we launched the first round of the Accelerating Development of Practices and Technologies (ADOPT) fund.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Grants offered through ADOPT support farmer-led on-farm trials to develop and test new solutions to farming challenges. The results of these trials will be shared so you can see if any of the solutions can work on your farm.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The fund is part of the Farming Innovation Programme, and delivered in partnership with Innovate UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With the next round (the fifth) now open, we share a recap of the funding available and shine a light on some projects from the first round to inspire you to apply.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "About the fund",
+                "tag": "h2"
+            },
+            {
+                "content": "Through ADOPT, two grants are available.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Full ADOPT Grant\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "If you have an idea for an on-farm trial, you can apply for funding to support on-farm trial and demonstration projects to improve adoption of new ideas or solutions in the agricultural sector.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Your project\u2019s total costs must be between \u00a350,000 and \u00a3100,000.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Facilitator Grant\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Facilitator grants are for applicants who are new to the grants process. ",
+                "tag": "p"
+            },
+            {
+                "content": "They provide up to \u00a32,500 for a farmer, grower, or forester in England to hire an external project facilitator. ",
+                "tag": "p"
+            },
+            {
+                "content": "These project facilitators will help prepare an application for the full ADOPT Grant.",
+                "tag": "p"
+            },
+            {
+                "content": "You do not need to apply for a Facilitator Grant to apply for a Full Grant.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Support Hub\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The ADOPT Support Hub is designed to support farmers to get the most out of this grant by:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It's delivered by ADAS, UK Agri-Tech Centre and The Soil Association. If you have further questions, whether you are exploring an idea, preparing to apply or running a funded project, do make use of the hub.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more about the support hub and how to apply.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Farmer-led innovation",
+                "tag": "h2"
+            },
+            {
+                "content": "Over the past year, through 5 rounds, we\u2019ve seen some fascinating ideas come forward. The first are now beginning to take shape and are being tested on farms across England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By supporting trials on working farms, these projects will help demonstrate to all farmers the best ways to boost their own productivity, helping to make farms more resilient and profitable.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Exploring a brighter future for carrots with UV-C light",
+                "tag": "h3"
+            },
+            {
+                "content": "Carrot growers face major challenges from foliar diseases like Alternaria leaf blight, as well as significant post-harvest losses during storage. ",
+                "tag": "p"
+            },
+            {
+                "content": "These pressures result in heavy use of chemical fungicides which, in turn, come with crop quality and safety concerns, and contribute to rising input costs.",
+                "tag": "p"
+            },
+            {
+                "content": "The main trial is hosted by Huntapac Produce Ltd, one of the UK\u2019s largest carrot and parsnip producers, farming 1,500 hectares across vertically integrated operations. Trial work will run at their Yorkshire base and across their wider cropping areas.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They are joined by R & A Molyneux Ltd, a collaborative farming partner running parallel large-scale trials to compare how UV-C performs under different agronomic conditions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They will test UV-C light as a sustainable, non-chemical way to protect crops by killing fungal spores and triggering natural plant defences. Both growers will test the UV-C equipment within their own commercial production systems, ensuring results reflect real farming pressures and market requirements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By comparing UV-C treatments with standard fungicides, they will see how well they control disease, improve root quality and work in practice, all with the aim of reducing pesticide use.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Other project partners include Autonomous Agri Solutions (AAS), which is supplying the autonomous tractor and robotic platforms used to deliver the UV-C treatments, as well as providing engineering support, data collection, and operational expertise.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "SRH Agribusiness Ltd is acting as the agronomy and advisory partner, helping to consolidate and interpret data and support wider dissemination. The project facilitator is Harry Parsons of SRH Agribusiness.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more about this project.",
+                "tag": "p"
+            },
+            {
+                "content": "Mastitis detection: rapid detection to slow antibiotic use",
+                "tag": "h3"
+            },
+            {
+                "content": "Mastitis remains one of the most costly and challenging diseases facing UK dairy farmers.",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond reducing milk yield and quality, it leads to financial losses through lower productivity, penalties from processors, higher veterinary and treatment bills, and discarded milk during withdrawal periods.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Repeated or severe cases can also cause lasting udder damage, compromise cow welfare, push up culling and replacement rates\u2014all adding to labour and management pressures.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Conventional diagnostics typically take around two days to return results, leaving farmers to rely on broad-spectrum antimicrobials as a precaution. While understandable, this approach is not always the most efficient or effective and contributes to broader antimicrobial resistance (AMR) concerns.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "RapiPath is a next-generation on-farm diagnostic tool designed to identify mastitis-causing bacteria within 2 hours. This rapid turnaround has the potential to transform mastitis management by enabling targeted treatments, reducing unnecessary antibiotic use and supporting better outcomes for both cows and farmers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "RapiPath will be tested across real farm and veterinary settings to ensure the tool responds effectively to day-to-day pressures, from herd size and workflow to seasonal variation and milk quality demands.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The trial is taking place on a farm in the North East. By comparing rapid diagnostics with current mastitis treatment approaches, the project will assess how well the technology supports disease control, improves decision-making and enhances sustainable milk production.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more about this project.",
+                "tag": "p"
+            },
+            {
+                "content": "AI-powered bird deterrent system",
+                "tag": "h3"
+            },
+            {
+                "content": "Bird damage, particularly from pigeons, is a major challenge for UK brassica and salad growers, causing significant crop losses, contamination, and increased costs for mitigation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A Lincolnshire-based brassica grower, T.H. Clements & Son Ltd, will lead this project. They are joined by Vitacress Salads Ltd who manage 300 hectares of salad crops and 20 hectares of watercress farms across Dorset, Hampshire, Wiltshire and Kent.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They will both partner with B-Hive Innovations Ltd who have expertise in AI, computer vision, and hardware/software development for field applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together they will test a new AI-powered bird deterrent system - S.C.A.R.E (Sensory Countermeasures for Avians using Repellents and Emissions).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "S.C.A.R.E combines computer vision detection with adaptive countermeasures (lasers, predator calls, and randomized white noise). It\u2019s solar powered, remotely accessible, and designed to scare birds away without them getting used to it and without disturbing other wildlife.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To monitor the effectiveness of S.C.A.R.E, the sites will use drone imagery for crop damage assessments and cameras for continuous observations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The project will produce a final report with recommendations for commercial rollout. By reducing bird damage, the system should help farmers use less fertiliser, rely less on imports, and could increase yields by around 5\u201310% for brassicas and 20\u201325% for salad crops.\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more about this project.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more",
+                "tag": "h2"
+            },
+            {
+                "content": "For more case studies, visit the Support Hub.",
+                "tag": "p"
+            },
+            {
+                "content": "To stay up to date with the latest from the Farming and Countryside Programme, subscribe to the Farming blog.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2025/12/15/adopt-first-projects-selected-as-next-round-opens/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "With the next round of the Accelerating Development of Practices and Technologies (ADOPT) fund now open, we highlight some projects that have recently begun, to inspire you to apply."
+    },
+    {
+        "title": "Carbon valuation: why it matters for regulatory policy",
+        "authors": [
+            "Allan Little"
+        ],
+        "posted_on": "2025-12-15T10:29:05",
+        "categories": [
+            "Carbon valuation methodology",
+            "Energy sector"
+        ],
+        "content": [
+            {
+                "content": "Carbon impacts can feature heavily in the economic appraisal supporting regulatory policy proposals. They can sit on either side of the cost-benefit ledger. Recent impact assessments published with legislation illustrate both.",
+                "tag": "p"
+            },
+            {
+                "content": "The Clean Heat Market Mechanism (Amendment) Regulations 2025 showed a \u00a3153 million benefit in carbon savings. The Warm Home Discount (Amendment) Regulations 2025 included \u00a370 million in carbon costs, offset by the government\u2019s fuel poverty objectives.",
+                "tag": "p"
+            },
+            {
+                "content": "Either way, how government values carbon has become an increasingly important part of its value for money analysis.",
+                "tag": "p"
+            },
+            {
+                "content": "What are carbon values?",
+                "tag": "h2"
+            },
+            {
+                "content": "Carbon values represent the monetary value that society places on one tonne of carbon dioxide equivalent emissions (\u00a3/tCO2e). ",
+                "tag": "p"
+            },
+            {
+                "content": "In this context \"carbon\" is shorthand for all greenhouse gas emissions. ",
+                "tag": "p"
+            },
+            {
+                "content": "CO2 equivalent is the standard metric used to compare emissions from different greenhouse gases, based on their global warming potential - for example, methane and nitrous oxide are converted to their CO2 equivalent based on their relative climate impact.",
+                "tag": "p"
+            },
+            {
+                "content": "How government values carbon",
+                "tag": "h2"
+            },
+            {
+                "content": "Carbon values differ from carbon prices - what businesses actually pay in markets like the UK Emissions Trading Scheme (UK ETS), to buy and sell emissions permits. While ETS prices reflect current market conditions, carbon values reflect the \u2018full\u2019 cost, across the whole economy.",
+                "tag": "p"
+            },
+            {
+                "content": "Economists have developed two main approaches to valuing carbon.",
+                "tag": "p"
+            },
+            {
+                "content": "Social cost of carbon (SCC) ",
+                "tag": "h3"
+            },
+            {
+                "content": "This estimates the damage each tonne of emissions causes - climate harms, extreme weather, sea level rise, and so on.",
+                "tag": "p"
+            },
+            {
+                "content": "Marginal abatement cost (MAC) ",
+                "tag": "h3"
+            },
+            {
+                "content": "This estimates the cost of cutting one tonne of emissions.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK government uses the MAC approach, in part because the SCC relies on highly uncertain damage estimates.",
+                "tag": "p"
+            },
+            {
+                "content": "The more we reduce emissions, the costlier it gets. Cheaper abatement options are exhausted first; later reductions require more expensive interventions. ",
+                "tag": "p"
+            },
+            {
+                "content": "That's why we face an upward-sloping cost curve, illustrated below. The government uses the MAC approach to identify the carbon value required to deliver sufficient abatement to meet its legally binding targets.",
+                "tag": "p"
+            },
+            {
+                "content": "Source: Department for Energy Security and Net Zero with Department for Business, Energy and Industrial Strategy (2021): Valuation of greenhouse gas emissions: for policy appraisal and evaluation",
+                "tag": "p"
+            },
+            {
+                "content": "Current values",
+                "tag": "h2"
+            },
+            {
+                "content": "The Green Book supplementary guidance on the valuation of energy use and greenhouse gas emissions for appraisal, from the Department for Energy Security and Net Zero, sets a central carbon value of \u00a3273 per tonne CO2e for 2025 (2022 prices), with a \u00b150% sensitivity range reflecting uncertainty. Since abatement becomes more costly, the value rises to \u00a3398 per tonne by 2050.",
+                "tag": "p"
+            },
+            {
+                "content": "The \u00b150% range is significant. It reflects genuine uncertainty, for example about future technology costs and their evolution. Where a regulatory policy's overall value for money is influenced by these carbon values, it should include sensitivity testing across this range. Sensitivity tests are also important where emissions impacts are themselves uncertain.",
+                "tag": "p"
+            },
+            {
+                "content": "Why carbon valuation matters for regulatory policy",
+                "tag": "h2"
+            },
+            {
+                "content": "Valuing carbon serves several purposes in regulatory policy appraisal.",
+                "tag": "p"
+            },
+            {
+                "content": "It captures the benefits of climate change mitigation",
+                "tag": "h3"
+            },
+            {
+                "content": "Carbon valuation allows assessments to account for the real costs of emissions reductions to meet legally-binding emissions targets. Without this, cost-benefit analyses would systematically understate the cost of policies that increase emissions or undervalue those that reduce them.",
+                "tag": "p"
+            },
+            {
+                "content": "It guides efficient resource allocation",
+                "tag": "h3"
+            },
+            {
+                "content": "It helps direct regulatory policy toward the most cost-effective ways to reduce emissions. In short, considering value for money is just as important in achieving climate goals, as it is with other government objectives.",
+                "tag": "p"
+            },
+            {
+                "content": "It ensures consistency",
+                "tag": "h3"
+            },
+            {
+                "content": "Using common carbon values across all policy areas prevents departments from implicitly valuing emissions differently, which could lead to inefficient choices about where to focus decarbonisation efforts.",
+                "tag": "p"
+            },
+            {
+                "content": "It supports environmental goals",
+                "tag": "h3"
+            },
+            {
+                "content": "Explicitly quantifying and valuing carbon helps government track and report progress toward carbon budgets and net zero. That\u2019s why we\u2019d also expect carbon impacts to feature in monitoring and evaluation plans.",
+                "tag": "p"
+            },
+            {
+                "content": "It improves transparency",
+                "tag": "h3"
+            },
+            {
+                "content": "Making carbon impacts explicit allows Parliament, businesses and other stakeholders to scrutinise the trade-offs involved in regulatory decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "Carbon valuation remains one of the most challenging impacts to assess in regulatory policy, drawing on scientific, behavioural and economic evidence. ",
+                "tag": "p"
+            },
+            {
+                "content": "At the RPC, we scrutinise carbon appraisal as we would other societal impacts - looking for proportionality, transparency and consistency. ",
+                "tag": "p"
+            },
+            {
+                "content": "Robust analysis helps government evidence progress toward climate goals and demonstrate that its plans represent value for money.",
+                "tag": "p"
+            },
+            {
+                "content": "For more information, we recommend:",
+                "tag": "p"
+            },
+            {
+                "content": "What has been your experience with carbon valuation? ",
+                "tag": "p"
+            },
+            {
+                "content": "Leave us a comment below and\u00a0subscribe to the RPC\u2019s blog\u00a0to be notified when we post new articles.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://rpc.blog.gov.uk/2025/12/15/carbon-valuation-why-it-matters-for-regulatory-policy/",
+        "blog": "Regulatory Policy Committee",
+        "blog_link": "https://rpc.blog.gov.uk",
+        "description": "How government values carbon has become an increasingly important part of its value for money analysis. At the RPC, we scrutinise carbon appraisal as we would other societal impacts - looking for proportionality, transparency and consistency."
+    },
+    {
+        "title": "Future Food Regulation and Healthy Food Sales",
+        "authors": [
+            "Professor Susan Jebb, FSA Chair"
+        ],
+        "posted_on": "2025-12-15T09:36:11",
+        "categories": [
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "At the FSA\u2019s Board meeting on Wednesday, the Chief Executive\u2019s update to the Board highlighted the recent request from Government for the FSA to develop a new national approach to regulation for large food businesses in England. This will be part of a wider programme of reform, as discussed at previous board meetings, to ensure food regulation remains effective and fit for the future.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "FSA Chief Executive, Katie Pettifer, made clear that protecting public health must remain at the heart of everything the FSA does and any changes should benefit consumers. Katie pointed out that developing a new approach to regulating large national food businesses would be part of a wider set of improvements to the assurance system, which had been discussed with stakeholders over the past year. Local authorities play a vital role in supporting businesses and maintaining standards, and it was important that they could continue to do so in future. Board members expressed their support for this, having shadowed expert Environmental Health and Trading Standards Officers in Slough and Reading earlier in the week and observing how these physical inspections and support complement the proposals for strategic intelligence and data-led regulation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Board welcomed the request from Government and the approach outlined by Katie. They reflected on the way the food industry continues to evolve, which requires a more tailored and agile approach to regulation. The Board emphasised that the FSA needs to work in partnership with local authorities and businesses to support growth and, above all, to make sure people continue to have food they can trust. They were clear that the FSA must continue engaging with partners across the sector \u2013 local authorities, businesses, and consumers \u2013 to inform the development of these proposals.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Board members highlighted that reforms must work for businesses of all sizes, combining robust data with on-the-ground checks to maintain confidence and protect public health. While the FSA has been asked to develop a new national approach for England only, the Board considered that there may be opportunities to align options for reform across Northern Ireland, Wales and Scotland, recognising the operating footprint of most of the larger businesses and asked FSA officials to explore this.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Commenting after the FSA Board meeting, the Chartered Institute for Environmental Health said:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cEnvironmental Health professionals work across local authorities and business to ensure the public can trust the safety of the food and drink they buy.\u00a0\u00a0We welcome the Government budget announcement, and the FSA\u2019s clear commitment to full engagement with its stakeholders at all stages of this work.\u00a0\u00a0CIEH will work to ensure these opportunities enhance protection for the public.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Government has asked us to take on this role, but it\u2019s the FSA Board\u2019s job to scrutinise how it is done. Our job, set out in law, is to protect public health and to protect the interests of consumers.\u00a0 We recognised at the Board meeting that doing this well \u2013 through proportionate and efficient regulation \u2013 is the best way in which we can also support economic growth.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In an additional item, I discussed with the Board a new request from the Department of Health and Social Care for the FSA to provide detailed advice on the policy development and implementation of the mandatory healthy food sales reporting and targets. These aim to increase the healthiness of sales by large food businesses, following a commitment in the NHS 10-year plan. Final decisions on the regulation of the scheme will be subject to consultation, but the Board welcomed the opportunity for the FSA to be involved in the design at this early stage.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can watch the FSA Board\u2019s discussions on this and all the other items on the agenda.",
+                "tag": "p"
+            },
+            {
+                "content": "Rheoleiddio Bwyd yn y Dyfodol a Gwerthu Bwyd Iach",
+                "tag": "h2"
+            },
+            {
+                "content": "Yn ystod cyfarfod Bwrdd yr Asiantaeth Safonau Bwyd (ASB) ddydd Mercher, nododd diweddariad y Prif Weithredwr i\u2019r Bwrdd fod y llywodraeth wedi gofyn i\u2019r ASB ddatblygu dull cenedlaethol newydd o reoleiddio ar gyfer busnesau bwyd mawr yn Lloegr. Bydd hyn yn rhan o raglen ddiwygio ehangach, fel y trafodwyd mewn cyfarfodydd bwrdd blaenorol, er mwyn sicrhau bod y dull o reoleiddio bwyd yn parhau i fod yn effeithiol ac yn addas ar gyfer y dyfodol.",
+                "tag": "p"
+            },
+            {
+                "content": "Eglurodd Prif Weithredwr yr ASB, Katie Pettifer, fod yn rhaid i ddiogelwch iechyd y cyhoedd barhau wrth wraidd popeth y mae\u2019r ASB yn ei wneud, ac y dylai unrhyw newidiadau fod o fudd i ddefnyddwyr. Nododd Katie y byddai datblygu dull newydd o reoleiddio busnesau bwyd cenedlaethol mawr yn rhan o set ehangach o welliannau i\u2019r system sicrwydd, sydd wedi bod yn destun trafodaethau \u00e2 rhanddeiliaid dros y flwyddyn ddiwethaf. Mae awdurdodau lleol yn chwarae rhan hanfodol wrth gefnogi busnesau a chynnal safonau, ac roedd yn bwysig eu bod yn gallu parhau i wneud hynny yn y dyfodol. Mynegodd aelodau\u2019r Bwrdd eu cefnogaeth, a hynny ar \u00f4l cysgodi Swyddogion Iechyd yr Amgylchedd a Safonau Masnach arbenigol yn Slough a Reading yn gynharach yn yr wythnos ac arsylwi sut mae arolygiadau ffisegol a chefnogaeth yn ategu\u2019r cynigion ar gyfer cudd-wybodaeth strategol a rheoleiddio sy\u2019n seiliedig ar ddata.",
+                "tag": "p"
+            },
+            {
+                "content": "Croesawodd y Bwrdd y cais gan y llywodraeth a\u2019r dull a amlinellwyd gan Katie. Gwnaethon nhw fyfyrio ar y ffordd y mae\u2019r diwydiant bwyd yn parhau i esblygu, sy\u2019n gofyn am ddull wedi\u2019i deilwra a mwy hyblyg tuag at reoleiddio. Pwysleisiodd y Bwrdd fod angen i\u2019r ASB weithio mewn partneriaeth ag awdurdodau lleol a busnesau i gefnogi twf ac, yn anad dim, i sicrhau bod pobl yn parhau i gael bwyd y gallant ymddiried ynddo. Roeddent yn glir bod yn rhaid i\u2019r ASB barhau i ymgysylltu \u00e2 phartneriaid ar draws y sector \u2013 awdurdodau lleol, busnesau a defnyddwyr \u2013 i ddatblygu\u2019r cynigion hyn.",
+                "tag": "p"
+            },
+            {
+                "content": "Pwysleisiodd aelodau\u2019r Bwrdd fod yn rhaid i\u2019r diwygiadau weithio i fusnesau o bob maint, gan gyfuno data cadarn \u00e2 gwiriadau ar y safle i gynnal hyder a diogelu iechyd y cyhoedd. Er mai datblygu dull cenedlaethol newydd ar gyfer Lloegr yn unig oedd gofyniad y cais i\u2019r ASB,, ystyriodd y Bwrdd y gallai fod cyfleoedd i alinio opsiynau diwygio ar draws Cymru, Gogledd Iwerddon a\u2019r Alban, gan gydnabod bod y rhan fwyaf o\u2019r busnesau mawr yn gweithredu ar draws y DU. Gofynnwyd i swyddogion yr ASB edrych ar hyn ymhellach.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn ei sylwadau ar \u00f4l cyfarfod Bwrdd yr ASB, dywedodd Sefydliad Siartredig Iechyd yr Amgylchedd (CIEH):",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cMae gweithwyr proffesiynol Iechyd yr Amgylchedd yn gweithio ar draws awdurdodau lleol a busnesau i sicrhau y gall y cyhoedd ymddiried bod y bwyd a\u2019r ddiod maen nhw\u2019n eu prynu yn ddiogel. Rydym yn croesawu cyhoeddiad cyllideb y llywodraeth, ac ymrwymiad clir yr ASB i ymgysylltu\u2019n llwyr \u00e2\u2019i rhanddeiliaid ar bob cam o\u2019r gwaith hwn. Bydd CIEH yn gweithio i sicrhau bod y cyfleoedd hyn yn gwella diogelwch i\u2019r cyhoedd.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r Llywodraeth wedi gofyn i ni ymgymryd \u00e2\u2019r r\u00f4l hon, ond gwaith Bwrdd yr ASB fydd yn craffu\u2019r broses. Ein gwaith, fel y nodir yn y gyfraith, yw diogelu iechyd y cyhoedd a buddiannau defnyddwyr. Yn ystod y cyfarfod, gwnaethom ni gydnabod mai gwneud hyn yn dda \u2013 drwy reoleiddio cymesur ac effeithlon \u2013 yw\u2019r ffordd orau y gallwn ni hefyd gefnogi twf economaidd.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn ychwanegol, trafodwyd y cais newydd gan yr Adran Iechyd a Gofal Cymdeithasol, yn gofyn i\u2019r ASB ddarparu cyngor manwl ar ddatblygu polisi a gweithredu dulliau adrodd a thargedau gorfodol ar gyfer gwerthu bwyd iach. Nod y rhain yw gwella pa mor iach yw\u2019r bwyd y mae busnesau bwyd mawr yn ei werthu, yn dilyn ymrwymiad yng nghynllun 10 mlynedd y GIG. Bydd penderfyniadau terfynol ar reoleiddio\u2019r cynllun yn destun ymgynghoriad, ond croesawodd y Bwrdd y cyfle i\u2019r ASB fod yn rhan o\u2019r gwaith cynllunio ar y cam cynnar hwn.",
+                "tag": "p"
+            },
+            {
+                "content": "Gallwch wylio trafodaethau Bwrdd yr ASB ar hyn, yn ogystal \u00e2\u2019r holl eitemau eraill ar yr agenda.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2025/12/15/future-food-regulation-and-healthy-food-sales/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Cymraeg At the FSA\u2019s Board meeting on Wednesday, the Chief Executive\u2019s update to the Board highlighted the recent request from Government for the FSA to develop a new national approach to regulation for large food businesses in England. This will \u2026"
+    },
+    {
+        "title": "5 tips for managing your woodland this winter",
+        "authors": [
+            "MacBradan Bones"
+        ],
+        "posted_on": "2025-12-15T09:00:00",
+        "categories": [
+            "Tree health",
+            "Tree planting",
+            "Woodland management"
+        ],
+        "content": [
+            {
+                "content": "Winter marks the start of tree planting season, the ideal time for planting. This allows roots to establish during the milder winter days, even though the tree's top is dormant. Root growth is essential for the tree's survival, especially if there's a spring drought.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re a woodland owner, it can also be the perfect time to get outside and check how your woodland has fared over the growing season. It can be hard to know where to start during these cold months,\u00a0so we\u2019ve put together our top 5 tips for managing your woodland this winter.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "1. Check on areas of new planting",
+                "tag": "h2"
+            },
+            {
+                "content": "If you have any areas of new planting, now is the time to \u2018beat up\u2019 (replace) any trees which haven\u2019t survived the summer. Count your trees and replant any which have died ready for the next growing season.",
+                "tag": "p"
+            },
+            {
+                "content": "Newly planted trees are particularly vulnerable for the first 3 years or so, as their roots are not established enough to find water during droughts or prolonged dry spells. You can also take this opportunity to check if there is any one species not thriving on the site and look to replace them with a better-adapted tree species.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Now is also a good time for your trees\u2019 annual check-up. The lack of leaves and reduction in ground vegetation can reveal the presence of squirrel nests and bark damage, particularly at the junction of big branches and the main stem. It can also make it easier to spot where deer may be coming and going.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Read up on tree pests and diseases",
+                "tag": "h2"
+            },
+            {
+                "content": "In mature woodland many fungi species will be fruiting. During the cold season, after leaves fall in deciduous woodlands, the brackets and toadstools of various fungi are easier to spot on the stems, crown and around the bases and roots of trees.",
+                "tag": "p"
+            },
+            {
+                "content": "Many are harmless or even beneficial, but many others can kill trees and even whole stands if not dealt with. Getting to know the ones that are harmful with a bit of reading up on tree pests and diseases, can be a good way to spend a wet day indoors.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are in the East and South East of England, your woodland could be at risk of the eight toothed spruce bark beetle (Ips typographus). Make sure you\u2019re up to date with the control measures in the\u00a0Ips typographus\u00a0demarcated area.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Watch our video\u00a0Ips typographus: beat the beetle\u00a0on active woodland management to help mitigate the risk of this pest by removing any susceptible material during the winter.",
+                "tag": "p"
+            },
+            {
+                "content": "3. Take note of repairs needed to paths and fences",
+                "tag": "h2"
+            },
+            {
+                "content": "After a summer\u2019s compaction along paths and rides, winter rains can reveal areas where water does not drain and attention is needed. If the ground is soft, working on it now could cause damage. Make a note of what\u2019s needed and plan for this later in the season while the ground is hard with frost, or during the following spring when access is easier on a drier soil.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The soft ground makes it easier to replace fence posts or the like. However, avoid using heavy machinery or taking too many trips up and down rides to minimise damage.",
+                "tag": "p"
+            },
+            {
+                "content": "The grassy areas of woodland rides and glades can also be cut now that any seeds have fallen, and shrubby edges can be cut as part of a rotational system. If there are fruits on any shrubs and bushes, try to wait until these have gone before cutting them, as the fruit provides an important source of food for many animals.",
+                "tag": "p"
+            },
+            {
+                "content": "4. Start any tree work",
+                "tag": "h2"
+            },
+            {
+                "content": "Winter is a good season for felling, so if you have a felling licence any tree work can start. Felling trees without a licence, where one is required, is an offence. Check if you need one before starting any work.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are a firewood producer and you have an area for seasoning and processing, firewood orders are likely to be coming in fast. If you haven\u2019t already sold out, firewood can be loaded up ready for sale and any wood for seasoning can be stacked in the dry. Make sure to follow new regulations, like the Ready to Burn scheme, to ensure your firewood is properly seasoned to reduce air pollution.",
+                "tag": "p"
+            },
+            {
+                "content": "It's also cooler, making the hard physical work of felling and coppicing a little easier!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The lack of vegetation makes moving around the wood easier and now birds have finished nesting there\u2019s no risk of accidentally disturbing them. However, be aware that other animals may be using the wood to shelter or hibernate. Although all wildlife is protected under the Wildlife and Countryside Act 1981, bats and common dormice are of particular importance in woodland, so great care should be taken not to disturb them if they are present.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Practise good biosecurity",
+                "tag": "h2"
+            },
+            {
+                "content": "As a woodland owner, you want to keep your trees healthy throughout the year. Wet winter weather can increase the risk of tree diseases being spread, as some diseases need water to disperse, and mud on boots and tyres can transfer diseases from place to place.",
+                "tag": "p"
+            },
+            {
+                "content": "Practise good biosecurity at all times and make sure your boots and equipment are cleaned before you start any work and before you leave the site. If you have visitors to your woodland, make sure they do the same. It\u2019s a great idea to always have a simple biosecurity kit on hand.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, and most importantly, make time to go out and enjoy the stark, quiet beauty of your woodland in winter. The cold weather and long nights can make it hard to spend time outdoors but it\u2019s important to remember all the health benefits getting out can bring. Woodlands are fantastic for our physical and mental health, and watching your woodland thrive in the coldest season can be incredibly rewarding.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2025/12/15/5-tips-for-managing-your-woodland-this-winter/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "MacBradan Bones, Nature Recovery Advisor for the Forestry Commission, shares his tips on managing your woodland this winter."
+    }
+]
