@@ -1,5 +1,428 @@
 [
     {
+        "title": "The Small Services Space One Year On: Learnings and Ambitions",
+        "authors": [
+            "Emma Harley"
+        ],
+        "posted_on": "2025-12-23T10:48:48",
+        "categories": [
+            "collaboration",
+            "dog handler records",
+            "Our services",
+            "Small Services Space"
+        ],
+        "content": [
+            {
+                "content": "The Shared Infrastructure team in Justice Digital launched an innovative new product (The Small Services Space) just over 12 months ago. It aims to support smaller teams who have a need, and desire, to modernise or mature using digital solutions but don't always have the skills and experience to achieve their vision. The team set out to provide as much end-to-end support as needed from scoping solutions through to deploying a production service as part of the Small Services Space product.",
+                "tag": "p"
+            },
+            {
+                "content": "The benefits of modernisation are well documented in terms of saving money, reducing man-hours, and improving user experience, but there are much broader benefits in terms of reputation, governance, and assurance. These are benefits the Shared Infrastructure team was committed to helping teams realise.",
+                "tag": "p"
+            },
+            {
+                "content": "The past 12 months have been a huge learning curve, and it\u2019s a good point to reflect on the value and impact the service has had. Here are some of the things the Small Services Space has enabled teams to achieve by supporting them to solve their problems digitally.",
+                "tag": "p"
+            },
+            {
+                "content": "Dog handler records",
+                "tag": "p"
+            },
+            {
+                "content": "The National Dog Inspectorate has been rolling out a solution to go paperless for all dog handler records using the Small Service Space.",
+                "tag": "p"
+            },
+            {
+                "content": "The solution is being rolled out over 12 months and is already live in a wide range of dog teams and sections across the Country (from Wales, Hertfordshire, Essex & Suffolk, Bedfordshire, Cambridgeshire Norfolk & the Isle of Wight, to name but a few). It will be everywhere by Christmas. This iterative implementation has allowed collaboration with our supplier ensuring a robust, user-friendly system tailored to operational needs, supported by high quality training & support.",
+                "tag": "p"
+            },
+            {
+                "content": "Qualitative benefits such as remote access (via any MoJ device over VPN means work can be done anytime, anywhere), enhanced data protection (all data is held to OFFICIAL categorisation standards), business continuity (digitised data can be recovered quickly in case of loss or disaster) standardised data (eliminates repetitive work an enables mass data entry) and searchable records (supporting rapid incident and operational responsiveness) are clear.",
+                "tag": "p"
+            },
+            {
+                "content": "We have significant quantifiable benefits, too. These figures are conservative estimates based on a small sample size, but they demonstrate a strong return.",
+                "tag": "p"
+            },
+            {
+                "content": "The National Dog Inspectorate has saved 3,000 hours in staff admin overheads this year, thanks to more efficient assessments. Data can now be accessed from anywhere, eliminating the need to locate a physical record book and search for relevant entries.",
+                "tag": "p"
+            },
+            {
+                "content": "In each dog section, trainers have eliminated 1,760 hours of admin work over the past year. The software has already been rolled out across 10 sections, that\u2019s an enormous 17,600 hours now freed up to focus on delivering training instead of documenting and reporting it.",
+                "tag": "p"
+            },
+            {
+                "content": "By bringing hosting in-house rather than using a third-party provider, we have achieved significant annual savings. Moving away from paper-based dog record books has also reduced costs, but the real benefit comes from the time saved. By transforming our ways of working and adopting a digital approach, we have avoided substantial expenditure of staff time.",
+                "tag": "p"
+            },
+            {
+                "content": "The National Dog Inspectorate can demonstrate savings and cost avoidance many times greater than the cost of hosting and operating the system internally and they are not finished yet",
+                "tag": "p"
+            },
+            {
+                "content": "The aim is to be completely paperless, with all dog licences and records fully digitised by January 2026 and paper records archived by June 2026. They also plan to onboard private sector dog records so that staff who need them can access them easily. A comprehensive quality assurance audit will be conducted to ensure data accuracy and appropriate access levels. They are also working directly with the supplier on software changes to further enhance the system's user-friendliness.",
+                "tag": "p"
+            },
+            {
+                "content": "The collaboration between ORRU National Dog Inspectorate, the Small Services Space, and our supplier has modernised the way we manage dog records and enabled a fundamental transformation of operations. We have been able to work smarter, reduce costs, and strengthen compliance across the board. Together, we are setting a new standard for public service delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "Visualising Data",
+                "tag": "p"
+            },
+            {
+                "content": "The analyst notebook gives additional options for visualising data and identifying links in various pieces of information much more efficiently. It has the potential to significantly reduce time taken on analysis from days to hours.",
+                "tag": "p"
+            },
+            {
+                "content": "Analysts have been able to identify patterns and gaps much faster and share those insights in formats more consumable and impactful for audiences. It enables experimentation and innovation regarding reporting where a paragraph of text can be accompanied by an engaging visual.",
+                "tag": "p"
+            },
+            {
+                "content": "The data used has varied from open-source data, case progress and completion times and stakeholder mapping and focus. The ability to test the versatility of the tool and how it fits into the wider transformation programme continues to be invaluable to our usage strategy moving forward.",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, as a small team, having a direct relationship with the supplier has been incredible in terms of learning and support. The delivery model for the application through the Small Services Space has really met our needs and we wouldn't hesitate to work with them again",
+                "tag": "p"
+            },
+            {
+                "content": "And next?",
+                "tag": "p"
+            },
+            {
+                "content": "Change isn\u2019t easy. It needs courage, dedication and innovative thinking. Over the past 12 months, we have worked with some amazing teams to deliver real transformation and learned how to do it more efficiently. We\u2019re not stopping.",
+                "tag": "p"
+            },
+            {
+                "content": "The Small Services Space is currently undergoing changes to meet even more user needs. We aim to support and enable any small team with the vision and courage to do things differently. If you want to modernise, transform, experiment, or innovate, we are here to help make your vision a reality.",
+                "tag": "p"
+            },
+            {
+                "content": "Don\u2019t hesitate to get in touch: alzdemand@justice.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2025/12/23/the-small-services-space-one-year-on-learnings-and-ambitions/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "The Shared Infrastructure team in Justice Digital launched an innovative new product (The Small Services Space) just over 12 months ago. It aims to support smaller teams who have a need, and desire, to modernise or mature using digital solutions \u2026"
+    },
+    {
+        "title": "FiPL at four: making a difference across protected landscapes",
+        "authors": [
+            "Mark Ward"
+        ],
+        "posted_on": "2025-12-23T10:43:44",
+        "categories": [
+            "Payments to support National Parks, National Landscapes and the Broads"
+        ],
+        "content": [
+            {
+                "content": "This year marks\u00a0four\u00a0years of the\u00a0Farming in Protected Landscapes (FiPL) programme.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The programme supports farmers and land managers in England\u2019s National Landscapes, National Parks and the Broads to farm more sustainably, protect nature, restore heritage\u00a0features\u00a0and make the countryside more accessible.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this post,\u00a0I\u2019ll\u00a0share the impact of that\u00a0work.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In numbers\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Since its launch,\u00a0FiPL\u00a0has supported around 11,000 farmers and land managers to deliver\u00a0nearly 5,500\u00a0projects across England\u2019s most treasured landscapes, making a real difference for nature, heritage, and communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some achievements include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these achievements show how the programme is\u00a0working with farmers and land managers to\u00a0support\u00a0the care of England\u2019s landscapes, heritage and rural communities, and improving access to\u00a0and enjoyment of the natural environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These projects also support the priorities set out in Defra\u2019s\u00a0Environmental Improvement Plan (EIP). To date,\u00a0FiPL\u00a0has helped to create and restore thousands of hectares of wildlife-rich habitat, contributing towards Defra\u2019s long-term target of 250,000 hectares by 2042.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond numbers\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The figures are important, but they only tell part of the story. Behind each project, wildlife\u00a0benefits\u00a0from new habitats, visitors\u00a0discover\u00a0our landscapes and school\u00a0children\u00a0learn\u00a0where their food comes from and how to care for the countryside.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The programme has also strengthened relationships between land managers and\u00a0protected landscape organisations, helping to build lasting partnerships and a shared sense of purpose.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Strong farm groups are important because they help farmers and land managers work together to deliver change at a scale that individual holdings cannot achieve alone. ",
+                "tag": "p"
+            },
+            {
+                "content": "By sharing knowledge, skills and experience, these groups support better decision-making, reduce duplication of\u00a0effort\u00a0and encourage more joined-up management across whole landscapes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This collaborative approach is particularly effective for nature recovery, water\u00a0management\u00a0and flood resilience, where coordinated action across neighbouring farms delivers greater and more lasting benefits. ",
+                "tag": "p"
+            },
+            {
+                "content": "Over time, stronger farm groups also help build confidence,\u00a0leadership\u00a0and resilience within the farming community, supporting long-term stewardship of protected landscapes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For me, the most important outcome is the commitment shown by farmers and land managers involved in\u00a0FiPL. The programme supports them to develop and deliver well-designed projects, working with trusted advisers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When I visit\u00a0FiPL\u00a0projects, I see work that will last, with people committed to managing and\u00a0maintaining\u00a0projects on their land.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Case study",
+                "tag": "h2"
+            },
+            {
+                "content": "I want to share an example of the programme in action.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stag beetles are listed as near threatened and are a priority in Dedham Vale\u2019s Nature Recovery Plan.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A group of farmers and landowners worked with Suffolk Wildlife Trust in the Dedham Vale National Landscape and Stour Valley to create 25 \u2018stumperies\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "A stumpery is a simple habitat made by burying hardwood timber so it can rot over time, providing the conditions needed by stag beetle larvae.\u00a0In total, 12 landowners across the Dedham Vale and Stour Valley provided sites for habitat creation, each committing land\u00a0in the long-term\u00a0for a species whose larvae can take up to six years to mature. ",
+                "tag": "p"
+            },
+            {
+                "content": "By coordinating action across a large area, the project created a connected network of habitat at a landscape scale, something no single landowner could have achieved alone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This approach helps create connected habitat across the landscape, making it more effective than isolated action. Participants included farmers from the Dedham Vale and Stour Valley Farm Cluster, community\u00a0groups\u00a0and the Flatford Field Studies Centre.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The project also helped build understanding and support for nature recovery. Landowners took part in a workshop to learn more about the species. Local primary schools\u00a0also\u00a0took part, with children learning about the role of stag beetles in the Stour Valley.\u00a0The public can learn more about the project through interpretation boards along nearby footpaths.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For me, helping people understand why this work matters\u00a0is\u00a0just as important as delivering\u00a0the\u00a0projects themselves. When members of the public encounter initiatives like the stumperies, it brings to life the role farmers and land managers play as custodians of the countryside, working every day to balance food production with care for nature.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This visibility helps build understanding and respect between farming and local communities, creating a stronger shared commitment to looking after these landscapes. ",
+                "tag": "p"
+            },
+            {
+                "content": "It can also encourage people to\u00a0act\u00a0themselves, whether\u00a0that\u2019s\u00a0supporting\u00a0local\u00a0farming, getting involved in community projects, or creating simple habitats such as deadwood piles in their own gardens, so that nature recovery extends well beyond individual sites.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The programme is scheduled to run until March 2026, and\u00a0farmers and land managers in Protected Landscapes can still apply for funding.\u00a0FiPL\u00a0is a competitive programme, and applications may close earlier if all available funding is\u00a0allocated.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "FiPL\u2019s\u00a0journey so far shows what can be achieved when farmers,\u00a0communities\u00a0and nature work together to deliver shared benefits.",
+                "tag": "p"
+            },
+            {
+                "content": "The programme forms part of the government\u2019s wider work to improve the natural environment, including the revised Environmental Improvement Plan (EIP) published on 1 December, which sets out a 5-year approach to tackling the nature and climate crisis, improving public\u00a0health\u00a0and supporting sustainable growth.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To keep up to date with the work of the farming and countryside programme and projects like these, you can\u00a0subscribe to the Farming blog.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2025/12/23/fipl-at-four-making-a-difference-across-protected-landscapes/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Now in its fourth year, the Farming in Protected Landscapes programme is helping farmers and land managers in England\u2019s protected landscapes farm more sustainably while restoring nature, heritage and access to the countryside. This post highlights what collaborative working has achieved."
+    },
+    {
+        "title": "Two years of fisheries management plans: progress and what\u2019s next",
+        "authors": [
+            "FMP policy team, Defra"
+        ],
+        "posted_on": "2025-12-23T10:00:00",
+        "categories": [
+            "- Defra led FMPs"
+        ],
+        "content": [
+            {
+                "content": "It\u2019s been two years since the first fisheries management plans (FMPs) were published.",
+                "tag": "p"
+            },
+            {
+                "content": "With five more Defra-led plans published last week and Scottish Government consulting on their first 11, it is a good time to look back at what has been achieved so far.",
+                "tag": "p"
+            },
+            {
+                "content": "FMPs are central to how we manage our fisheries more sustainably, balancing the needs of communities and the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s gone well",
+                "tag": "h2"
+            },
+            {
+                "content": "A truly collaborative process",
+                "tag": "h3"
+            },
+            {
+                "content": "Defra and delivery partners have worked closely with fishermen, and other stakeholders across the UK to develop and begin to implement our FMPs.",
+                "tag": "p"
+            },
+            {
+                "content": "Collaborative working is at the heart of how we are developing and implementing FMPs.\u00a0 We would like to thank all of you that have been involved.",
+                "tag": "p"
+            },
+            {
+                "content": "Engagement events, meetings and new stakeholder groups have brought together commercial and recreational fishermen, and environmental NGOs - often for the first time.",
+                "tag": "p"
+            },
+            {
+                "content": "Discussions in these groups are essential to make sure each FMP is practical, innovative and responsive to real world needs.\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improving transparency",
+                "tag": "h3"
+            },
+            {
+                "content": "We introduced our blog as a trusted place to find updates and explanations on how FMPs are being delivered. It has become a key part of how we share updates and stay open with you. Engagement continues to grow with over 9000 visits to the site this year.",
+                "tag": "p"
+            },
+            {
+                "content": "We recently launched the FMP directory on the blog. This was a big step to bring together information about each of Defra\u2019s plans. You can find ways to get involved or stay updated with groups that are working on, or give updates on, FMPs.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting on with implementation",
+                "tag": "h3"
+            },
+            {
+                "content": "Both Defra and Marine Management Organisation (MMO) have led actions across the published FMPs.",
+                "tag": "p"
+            },
+            {
+                "content": "New legislation was introduced to help manage flyseine effort in the English Channel. \u00a0This legislation also increased the Minimum Conservation Reference Sizes (MCRS) for brill, lemon sole, turbot and crawfish to protect the juveniles of these species.",
+                "tag": "p"
+            },
+            {
+                "content": "For bass we\u2019ve reviewed both the shore based netting provision and the commercial authorisation system to identify improvements that could be made. We also launched the cuttlefish action plan which concluded a number of actions including a report on improving data found in markets.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead, new minimum conservation reference sizes (MCRS) for brown crab in the South West  and lobster in England will be brought in early next year. These steps follow the recommended measures in the FMPs.",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, we\u2019re also designing new effort management systems for scallops, crab and lobster.",
+                "tag": "p"
+            },
+            {
+                "content": "We have also started work with the European Commission to develop a joint UK/EU Multi Year Strategy on king scallop management. An expert group has been established involving UK and EU scientists to offer independent analysis and advice.",
+                "tag": "p"
+            },
+            {
+                "content": "Building our evidence base",
+                "tag": "h3"
+            },
+            {
+                "content": "20 scientific research projects are underway to address key gaps in evidence related to FMPs. These projects are informed and prioritised by a Research and Development (R&D) steering group, with members that represent the views of various stakeholder groups.",
+                "tag": "p"
+            },
+            {
+                "content": "These projects will improve our understanding of how to manage stocks in a sustainable way. For instance, new stock assessments for species with limited data, like crabs, lobsters, and scallops will give us a better understanding of stock status, and whether measures are needed to ensure these stocks are not over-exploited.",
+                "tag": "p"
+            },
+            {
+                "content": "Our research will also inform how to reduce carbon emissions in the fishing sector, reduce bycatch, increase survival of discards, help us move towards an ecosystem-based approach to fisheries management, and more. These projects are being delivered by bodies including Cefas and MMO, with support from partners including IFCAs, academia and industry.",
+                "tag": "p"
+            },
+            {
+                "content": "The aim of the R&D work is to deliver research to address current and emerging evidence gaps and support the implementation of FMP measures and goals in accordance with the objectives listed in the Fisheries Act 2020.",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing for emerging issues",
+                "tag": "h3"
+            },
+            {
+                "content": "As well as setting direction for long term development of fisheries, FMP implementation allows us to react to emerging issues.",
+                "tag": "p"
+            },
+            {
+                "content": "When an octopus bloom appeared in the South West, we supported work to understand its immediate and long-term impacts, co-funding a research project with Plymouth City Council which looked to provide early indications of the nature and likely extent of population change. Working with MMO, we were able to quickly bring in octopus ID cards to help fishermen support both the plan and the future of the fishery.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenges",
+                "tag": "h2"
+            },
+            {
+                "content": "Bringing about change across diverse fisheries isn\u2019t simple. Some elements need more time and attention than others.",
+                "tag": "p"
+            },
+            {
+                "content": "FMPs are ambitious so we need to carefully prioritise what actions happen first, and what can happen in the future based on available resource.",
+                "tag": "p"
+            },
+            {
+                "content": "Better data is crucial. We\u2019re working to fill the gaps on some species, habitats and social economic impacts to improve decision making.",
+                "tag": "p"
+            },
+            {
+                "content": "Balancing social, environmental and economic priorities is challenging. Not everyone agrees, but we continue to actively involve individuals and groups to deliver the best outcomes under the Fisheries Act.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "Putting the plans into action is key, as is monitoring results and refining as we learn.",
+                "tag": "p"
+            },
+            {
+                "content": "Collaboration remains vital as we test and adapt the evidence base and management options, and groups will also play a central role in coordinating delivery and tracking effectiveness.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re looking forward to continuing to work with you in 2026 and beyond.",
+                "tag": "p"
+            },
+            {
+                "content": "Make sure you subscribe to the FMP blog to get the latest updates by email.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/12/23/two-years-of-fisheries-management-plans-progress-and-whats-next/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "From collaboration to action, FMPs are transforming fisheries management\u2014see what\u2019s been achieved and what\u2019s coming up."
+    },
+    {
         "title": "2025 in MedTech: a year of innovation, global leadership and regulatory milestones",
         "authors": [
             "Rob Reid"
