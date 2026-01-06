@@ -1,5 +1,492 @@
 [
     {
+        "title": "The Future of Childhood #1: Engaging with Children and Young People",
+        "authors": [
+            "Government Office for Science"
+        ],
+        "posted_on": "2026-01-06T15:55:00",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Improving outcomes for future generations",
+                "tag": "h2"
+            },
+            {
+                "content": "What could childhood look like in 10-20 years? That\u2019s what the Government Chief Scientific Adviser is exploring in GO-Science\u2019s latest Foresight project: The Future of Childhood and Adolescence. We want to understand what factors might impact childhood in the future, how these issues impact each other, what different versions of the future could look like, and create positive visions for the future of childhood.",
+                "tag": "p"
+            },
+            {
+                "content": "We are working with researchers, policymakers, parents, practitioners, and \u2013 most importantly \u2013 children and young people, to bring together perspectives from across society, build evidence and understanding and ultimately increase opportunities for future generations.",
+                "tag": "p"
+            },
+            {
+                "content": "The project will run throughout 2026, and we\u2019ll use the Futures, Foresight and Horizon Scanning blog to tell you more about our approach \u2013 starting with how we\u2019re engaging with children and young people.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cNothing about us without us\u201d",
+                "tag": "h2"
+            },
+            {
+                "content": "We are engaging children and young people as each experience, idea, and story we hear makes our work more relevant and grounded in reality. This is called \u2018co-production\u2019, where we involve those who stand to benefit from the project throughout. Their voices will inform our decisions, shape our outputs and inspire our thinking, bringing essential perspectives and challenge to the project.",
+                "tag": "p"
+            },
+            {
+                "content": "Youth Advisory Panel",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ve been working with the office of the Children\u2019s Commissioner for England to set up a Youth Advisory Group as part of our governance which will meet monthly throughout the project. The group is made up of 16 young people aged 14-18, with diverse backgrounds and interests.",
+                "tag": "p"
+            },
+            {
+                "content": "In our first session in November, we discussed what childhood means to them, and the biggest factors they think will shape childhood in the UK over the next 10-20 years. They told us they view childhood as a time of innocence and fun, valuing education, parental support and freedom from responsibilities. They identified many drivers of change for the future, from AI to changes in education and relationships, to inequalities and social media. In the December session, we explored how these drivers might impact childhood in the future, focusing on areas of uncertainty. For example, for AI they imagine potential positive impacts (e.g. for learning), but also negative ones, worrying about its impact on jobs, skills, creativity and social connection. Their insights will help shape the scenarios we\u2019re developing to demonstrate the range of possible futures. We\u2019re grateful for their input and looking forward to working with them on other parts of the project over the next year.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking forward: Other ways we will involve children and young people in the project",
+                "tag": "h2"
+            },
+            {
+                "content": "In addition to the Youth Advisory Group, we want to hear from children of all ages from across the UK. Working with partner organisations, we will investigate what children think a positive future could look like, using participatory futures and social research methods. We will also hear from parents, carers, teachers, social workers, healthcare professions, and more.",
+                "tag": "p"
+            },
+            {
+                "content": "We plan to publish the final report for this Foresight project in 2026/27.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://foresightprojects.blog.gov.uk/2026/01/06/the-future-of-childhood-1-engaging-with-children-and-young-people/",
+        "blog": "Futures, Foresight and Horizon Scanning",
+        "blog_link": "https://foresightprojects.blog.gov.uk",
+        "description": "Improving outcomes for future generations What could childhood look like in 10-20 years? That\u2019s what the Government Chief Scientific Adviser is exploring in GO-Science\u2019s latest Foresight project: The Future of Childhood and Adolescence. We want to understand what factors might \u2026"
+    },
+    {
+        "title": "Promoting ethical alternatives to monetary incentives in user research",
+        "authors": [
+            "Adnan Mouhiddin, Senior User Researcher"
+        ],
+        "posted_on": "2026-01-06T13:26:16",
+        "categories": [
+            "Professions"
+        ],
+        "content": [
+            {
+                "content": "Adnan Mouhiddin",
+                "tag": "h3"
+            },
+            {
+                "content": "At the Department for Business and Trade (DBT), we take ethics in user research seriously. In our first blog in this series, we explored why ethics matter throughout the research process. In the second, we shared how we apply these principles in practice. This blog focuses on how we ensure that any incentives we offer our participants are both ethical and beneficial.",
+                "tag": "p"
+            },
+            {
+                "content": "What are incentives?",
+                "tag": "h2"
+            },
+            {
+                "content": "To incentivise someone is to motivate them. In research, incentives are a well-established ethical principle. They are rewards offered to participants to compensate for their time and the insights they provide.",
+                "tag": "p"
+            },
+            {
+                "content": "Incentives can also boost recruitment and remove barriers for those who might otherwise be unable to participate. This helps make research more inclusive and can enable researchers to diversify their research sample.",
+                "tag": "p"
+            },
+            {
+                "content": "Monetary incentives are an intrinsic part of ethical research, but they can  impact its integrity. Our key concerns revolve around whether incentives accidentally influence participants, compromise data quality, or are too generous.  Our approach is grounded in research ethics principles: respect for autonomy, individual beneficence, and justice. These principles help us balance participants\u2019 consent and research integrity, maximising benefits and minimising potential harm. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond monetary incentives",
+                "tag": "h2"
+            },
+            {
+                "content": "At DBT, our research supports our mission to drive economic growth and help businesses access the support they need.",
+                "tag": "p"
+            },
+            {
+                "content": "Our researchers gather insights from our service users about their needs, to inform policy and improve users\u2019 experience. These efforts contribute to the common social good. In this context, incentives are more than recruitment tools. They come in various forms that serve a number of purposes. This is evident in the following examples.",
+                "tag": "p"
+            },
+            {
+                "content": "Building partnerships",
+                "tag": "h3"
+            },
+            {
+                "content": "Non-monetary incentives help us build partnerships with the public and reduce the risk of undue influence. For example, one of our projects involved creative arts students and SME businesses. In this project, the students partnered with businesses and collected data that enabled them to analyse business activities. The resulting outcome was students gaining an in-depth understanding of how businesses operate, and for business owners to gain a better understanding of their own businesses and reflect on their practices. This transformed the experience for both parties into a meaningful exercise rather than a mere function of data collection. ",
+                "tag": "p"
+            },
+            {
+                "content": "Highlighting the common social good of participating in research can also raise awareness of the topics we explore at DBT. Research is said to be a reflective process which involves both researchers and participants. Questions asked and the overall conversation during sessions can lead to shared knowledge and new ideas. In this sense, the process and its outcome, when explained in advance, could provide a form of incentives for participants to contribute to our projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting participants in their work",
+                "tag": "h3"
+            },
+            {
+                "content": "Participants often tell us that research sessions helped them think differently about their practices, then discover new opportunities, available support, and learn more about their sector. For instance, in one of our research projects, participants were asked to find answers to questions related to their business on our website business.gov.uk. It signposted the users to further support services and networks. Many of our users shared that they were unaware of some listed services.",
+                "tag": "p"
+            },
+            {
+                "content": "Giving participants a voice",
+                "tag": "h3"
+            },
+            {
+                "content": "Participating in our research projects also gives the participants a platform to advocate for their sector and have their voice heard, and this could also serve as an incentive for business community to share their experience with us. When we share our findings in DBT, direct quotes are often described as powerful, informative, and influential. Sharing these insights with the wider business community can foster a sense of altruism. Participation in research helps the community of the sector involved, enables the collective work of contributing to shaping public policy through expertise and opinion, and creates shared benefits. In this way, the process and outcomes of research can themselves serve as meaningful incentives.",
+                "tag": "p"
+            },
+            {
+                "content": "Encouraging altruism",
+                "tag": "h3"
+            },
+            {
+                "content": "Even when monetary, research incentives can promote altruism and community principles. For example, participants may choose to donate their incentive to a charity or a cause they care about. This shows how both monetary and non-monetary incentives can complement each other and contribute to the public good.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion: Monetary and non-monetary incentives: hand-in-hand",
+                "tag": "h2"
+            },
+            {
+                "content": "We shared in a previous blog how we take research ethics seriously in our research projects, and how they are part of every step of the research process. The sampling process (i.e. deciding on the appropriate method to select and invite participants to take part in each project) involves a significant level of safeguarding and protecting our participants. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Every research project has its own ethical questions that are embedded in its process and methods. These issues are part of the research journey. As DBT researchers, we do not claim that we can eliminate all ethical issues completely. We are aware that this is an impossible task. Instead, we are reflective practitioners. We share a deep awareness about the impact of these ethical issues on our research participants and how we can minimise the impact of these issues. ",
+                "tag": "p"
+            },
+            {
+                "content": "We also acknowledge that monetary incentives, while intrinsic to any research we undertake, are not without their own issues that we highlighted above. Therefore, we embed non-monetary incentives in our practise by incorporating them in the research information sheet (the document that details research aims, processes and steps) for participants, promoting them in playbacks and sharing research findings with them. As a result, we maintain the 3 principles that guide research incentives: participants\u2019 autonomy, individual beneficence, and fairness. ",
+                "tag": "p"
+            },
+            {
+                "content": "If you are interested in finding out more about how we set up some of these incentives, or use others, we\u2019d love to hear from you in the comments.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/01/06/promoting-ethical-alternatives-to-monetary-incentives-in-user-research/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "At DBT, our research projects are based on ethical and methodologically sound foundations. We ensure that our participants are incentivised for their time and the expertise they share with us. In this blog, we share about balancing different kind of incentives for ethical user research."
+    },
+    {
+        "title": "Response to claims on housebuilding and migration",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-01-06T12:27:51",
+        "categories": [
+            "Housing"
+        ],
+        "content": [
+            {
+                "content": "Reports today suggest new homes built in this country will be required to house arriving migrants.",
+                "tag": "p"
+            },
+            {
+                "content": "This is scaremongering. The majority of homes that developers sell in this country are to British nationals.",
+                "tag": "p"
+            },
+            {
+                "content": "Nearly nine in ten social homes go to UK nationals and most councils have tough local connections rules in place to ensure housing goes to people who need it most. These rules mean people must have a connection to the local area in order to apply for social housing.",
+                "tag": "p"
+            },
+            {
+                "content": "Social housing eligibility remains tightly controlled and migrants arriving in the UK on student or work visas are not eligible and nor are those who arrive in the country illegally with no leave to remain. It is also illegal for asylum seekers to access social housing.",
+                "tag": "p"
+            },
+            {
+                "content": "The only way to meet the demand for housing is to build more of them. That\u2019s why we\u2019re pulling every lever to build 1.5 million homes and deliver the biggest increase to social and affordable housebuilding in a generation.",
+                "tag": "p"
+            },
+            {
+                "content": "Just recently we set out the biggest rewrite of planning rules in over a decade, so developments that meet clear standards can move quickly from plans to construction. And with our landmark Planning and Infrastructure Act now law we\u2019re going even further to accelerate housebuilding at scale.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/01/06/response-to-claims-on-housebuilding-and-migration/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "Reports today suggest new homes built in this country will be required to house arriving migrants. This is scaremongering. The majority of homes that developers sell in this country are to British nationals. Nearly nine in ten social homes go \u2026"
+    },
+    {
+        "title": "Launching a new Co-design Toolkit for Early Years Services",
+        "authors": [
+            "Ellen Adams"
+        ],
+        "posted_on": "2026-01-06T12:11:01",
+        "categories": [
+            "Policy Lab",
+            "Projects",
+            "Skills, tools and techniques"
+        ],
+        "content": [
+            {
+                "content": "This blog launches a new co-design toolkit to support the development of services for early years. The co-design toolkit is a practical set of resources created to enable local authorities and communities to design public services together. It has been tested and developed with local authorities and members of the public in different locations across the country. Here, we introduce the toolkit, share reflections from those who helped to shape it and explore how it can be used to support collaborative service design in local government and beyond.",
+                "tag": "p"
+            },
+            {
+                "content": "Why a co-design toolkit?",
+                "tag": "h2"
+            },
+            {
+                "content": "Policy Lab was commissioned by the Department of Health and Social Care (DHSC) to work with local authorities and parents and carers to support the development of early years services offered through the joint DHSC and Department for Education Family Hubs and Start for Life programme. The programme includes a strong focus on the 1,001 days from conception to the age of two, which are crucial to a child\u2019s health, development and life chances.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of the programme, local authorities receive funding to support parents, carers and families to co-design services, putting the needs of local babies and families at the centre of service design and delivery. The co-design toolkit emerged from a policy ambition to provide further support to bring the voices of parents and carers into the development of services which support families during those 1,001 critical days.",
+                "tag": "p"
+            },
+            {
+                "content": "In our initial phase of work, we engaged with nearly two thirds of the 75 local authorities receiving funding through the programme. This took place through a co-design workshop, survey and collective intelligence debate, helping us to better understand what local authorities needed to support the uptake of co-design approaches in early years services. Local authorities told us they wanted flexible, user-centred resources which could be adapted across different contexts and build on existing work. There was a strong appetite for less theory and more action.",
+                "tag": "p"
+            },
+            {
+                "content": "Co-designing with communities",
+                "tag": "h2"
+            },
+            {
+                "content": "Our first phase of work identified the need for practical, hands-on support for local authorities to meaningfully involve people in the design of services. This pointed to the development of a co-design toolkit. In our second phase, we worked closely with parents and carers in six local authorities in Barnsley, Blackburn with Darwen, Camden, Durham, Lewisham, Sheffield to ensure the concept and content of the co-design toolkit worked on the ground, for both local authorities and families.",
+                "tag": "p"
+            },
+            {
+                "content": "We developed and tested the co-design toolkit in both in-person and online sessions with parents and carers, across varied environments. This included sessions with babies present, rooms without tables, and sessions with parents of children with Special Education Needs and Disabilities. Testing showed that the co-design approach and tools created space for meaningful participation by supporting quieter voices, sparking new conversations and providing just enough structure without being restrictive.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s inside the co-design toolkit?",
+                "tag": "h2"
+            },
+            {
+                "content": "The co-design toolkit for early years can be used by local authority service teams and co-design participants during in-person or online sessions.",
+                "tag": "p"
+            },
+            {
+                "content": "There are three core components:",
+                "tag": "p"
+            },
+            {
+                "content": "Please see the short video explainer that walks you through the tools.",
+                "tag": "p"
+            },
+            {
+                "content": "To use the toolkit with people in person, we recommend printing it in colour and bringing it to your in-person session. More details on printing are in the playbook. We have also provided digital assets such as JPGs of activity cards. These support flexible use, including online sessions.",
+                "tag": "p"
+            },
+            {
+                "content": "You can download the toolkit here",
+                "tag": "p"
+            },
+            {
+                "content": "Making the co-design toolkit your own",
+                "tag": "h2"
+            },
+            {
+                "content": "The co-design toolkit provides a starting point for local authority teams to use co-design approaches. Although it has been tested in the context of early years services it can be adapted and used in other service areas. Since testing it, Parent and Carer Participation Leads in local authorities have continued to use the co-design toolkit as part of regular practice, supporting consistency, confidence and shared ownership.",
+                "tag": "p"
+            },
+            {
+                "content": "There is no right or wrong way to use the co-design toolkit for early years. Over time, we hope that other local authorities and organisations interested in co-designing services with people will add in their own activities or pieces of wisdom to make it their own and continue to share with others.",
+                "tag": "p"
+            },
+            {
+                "content": "Bridging national policy and local voices",
+                "tag": "h2"
+            },
+            {
+                "content": "The co-design toolkit for early years services builds on Policy Lab\u2019s work over more than ten years, to bring deep and visceral understanding of people\u2019s experiences as well as participatory practices into policy. This experience underpins the toolkit, which enables greater participation in service development and brings voices from inside and outside of government together. The toolkit also demonstrates a practical response to a national policy ambition to increase parent and carer involvement in service development and helps to unlock local capacity and knowledge.",
+                "tag": "p"
+            },
+            {
+                "content": "Let us know how you are using the co-design toolkit in early years and other contexts.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are interested in learning more about co-design approaches to develop policy or public services, get in touch with us at team@policylab.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "Acknowledgements",
+                "tag": "p"
+            },
+            {
+                "content": "This toolkit was developed by Policy Lab with support from local authority teams, Parent and Carer Panel leads and members, policymakers, and sector experts from across England. We\u2019re grateful to everyone who contributed \u2013 including Barnsley, Blackburn with Darwen, Camden, Durham, Lewisham, Sheffield local authorities, Professor Leon Cruickshank from Imagination Lancaster, and Claire Craig from Lab4Living for generously sharing their experiences, expertise and ideas.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://openpolicy.blog.gov.uk/2026/01/06/launching-a-new-co-design-toolkit-for-early-years-services/",
+        "blog": "Policy Lab",
+        "blog_link": "https://openpolicy.blog.gov.uk",
+        "description": "This blog launches a new co-design toolkit to support the development of services for early years. The co-design toolkit is a practical set of resources created to enable local authorities and communities to design public services together. It has been \u2026"
+    },
+    {
+        "title": "Modernising democracy: Transforming the Electoral registration officer portal\u00a0",
+        "authors": [
+            "Joe Platonoff, Senior Product Manager, Elections Digital Team"
+        ],
+        "posted_on": "2026-01-06T10:19:05",
+        "categories": [
+            "Elections",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "The Electoral registration officer portal (EROP) is a secure web portal used by\u202fElectoral Registration Officers (EROs) \u2013 the officials responsible for maintaining\u00a0accurate\u00a0electoral registers in local authorities across the UK. The portal is used daily to process applications that directly affect people\u2019s ability to vote.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Elections Digital team\u00a0in the Ministry of Housing, Communities and Local Government (MHCLG)\u00a0recently\u00a0completed a major transformation project  called\u00a0\u2018Optimising\u00a0Services\u2019.\u00a0This\u00a0long-term\u00a0initiative\u00a0used digital principles,  along with\u00a0a phased rollout\u00a0approach,\u00a0to\u00a0significantly improve EROP, making  the portal more efficient, easier to\u00a0maintain,\u00a0and better equipped to support future electoral reforms.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is EROP\u00a0used for?\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0The portal allows EROs to process applications for:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These services were introduced or expanded\u00a0as a result of\u00a0the\u202fElections Act 2022, which brought changes to how elections are run in the UK.\u202fEROP was built specifically to support these new or expanded services.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why\u00a0was\u00a0Optimising Services\u00a0needed?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "EROP was originally built quickly to\u00a0comply with\u00a0legislative deadlines\u00a0born out of the Elections Act 2022.\u00a0The requirements encompassed a variety of needs, including enabling all\u00a0applications to be\u00a0submitted\u00a0online, with each service addressed individually. To meet these stringent deadlines and  minimise technical complexity, EROP was constructed incrementally, beginning with the development of a VAC service. Consequently, each application type was created and managed as a separate\u00a0service.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a\u00a0result,\u00a0within EROP:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This fragmented\u00a0structure\u00a0made it harder to\u00a0continue improving and  maintaining\u00a0the system\u00a0or\u00a0respond to\u00a0policy\u00a0changes\u00a0or\u00a0the needs of EROs. These needs\u00a0are well documented\u00a0by\u00a0the team, making\u00a0great use\u00a0of user feedback.\u00a0However, reacting to new feedback was challenging because the fragmented structure made changes hard to implement.\u00a0To address these  needs, the team\u00a0outlined\u00a0Optimising Services,\u00a0a solution\u00a0to create a  centralised application system\u202fthat could handle all services in a unified way.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0phased\u00a0rollout\u00a0to\u00a0build\u00a0confidence\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "When introducing major changes to a live public service,\u00a0especially one as critical as electoral administration,\u00a0stability and trust are paramount. EROP\u202fis used daily by local authorities to process applications that directly affect people\u2019s ability to vote. Any disruption could have\u00a0serious consequences, and  switching over\u00a0all services\u00a0in EROP\u00a0for all EROs\u00a0at once would have carried  risk.\u00a0To\u00a0manage this,\u00a0the team opted\u00a0to\u00a0develop this work\u00a0through\u00a0a\u202fphased rollout.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the\u00a0phased\u00a0rollout\u00a0looked\u00a0like\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The rollout began with a group of 12 EROs from across England,\u00a0Scotland\u00a0and Wales. These early adopters started using the new system for\u00a0some types of  applications, while all other services remained on the legacy platform. This allowed the team to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As confidence grew,\u00a0the recently tested phase was rolled out to all EROs, and  the\u00a0phased launch\u00a0rollout expanded to include\u202fother types of\u00a0applications\u00a0in phases.\u00a0This\u00a0created\u00a0a steady flow of new\u00a0services being tested, and\u00a0now-tested\u00a0services\u00a0being\u00a0released to\u00a0the live product for everyone.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Unlocking\u00a0real-time benefits\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In addition to improving feature delivery times, a\u00a0significant outcome of\u00a0the project\u00a0was our ability\u00a0to\u202funlock new improvements\u202fduring the rollout itself,  not just after the transition was complete.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The benefits of Optimising Services\u00a0enabled\u00a0the team\u00a0to\u00a0deliver  enhancements that previously would have\u00a0required\u00a0separate development work for each service. This meant that improvements were delivered faster  and\u00a0more efficiently,\u00a0providing\u00a0live benefits as part of this large-scale project. ",
+                "tag": "p"
+            },
+            {
+                "content": "Completing the\u00a0journey\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The final phase involved transitioning older\u00a0elector\u00a0applications\u00a0to the new system and decommissioning the legacy services. This was done carefully, working through services\u00a0to avoid disruption.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By August 2025, the legacy infrastructure was successfully decommissioned.  By this\u00a0time, the\u00a0new\u00a0Optimising Services\u00a0system\u00a0had already processed over 2.1 million applications\u00a0\u2013\u00a0a\u00a0clear sign of its robustness and readiness for  future demands.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optimising Services is\u00a0a great example\u00a0of how thoughtful design,  collaboration and user-centred development can deliver lasting  improvements to public services.\u00a0It\u2019s\u00a0a milestone worth celebrating,\u00a0and a foundation for future innovation in electoral services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This project was delivered by a multidisciplinary team, which included colleagues from our contracted supplier, Softwire Technology Ltd.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/01/06/modernising-democracy-transforming-the-electoral-registration-officer-portal/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "The Electoral registration officer portal (EROP) is used by local authority officials responsible for maintaining accurate electoral registers, and to process millions of applications directly affecting people\u2019s ability to vote. Learn how the Elections Digital team transformed this service, making it more efficient and better equipped to support future electoral reforms."
+    },
+    {
+        "title": "UK NSC authors write journal article on the ethics of multi-cancer detection tests",
+        "authors": [
+            "Dr Tom Callender"
+        ],
+        "posted_on": "2026-01-06T09:35:38",
+        "categories": [
+            "Adult screening"
+        ],
+        "content": [
+            {
+                "content": "A new article has been published in Nature Medicine on the ethics of Multi-Cancer Detection tests (MCDs). It is authored by 3 members of the UK National Screening Committee (UK NSC) MCD Task Group, Dr Tom Callender, Prof Anne-Marie Slowther and Prof Anne Mackie.",
+                "tag": "p"
+            },
+            {
+                "content": "The paper builds on evidence review work commissioned by the UK NSC and is part of a group of projects considering MCDs that the UK NSC Evidence Team is coordinating.",
+                "tag": "p"
+            },
+            {
+                "content": "MCDs can look for signs of several different cancers at once, most commonly using a blood sample. This new approach could change how we screen for cancer, as current UK screening programmes only check for one type of cancer at a time, such as breast or bowel cancer. However, introducing MCD testing raises important ethical questions.",
+                "tag": "p"
+            },
+            {
+                "content": "The paper explores the ethical challenge of testing for many cancers with a single test. When considering a cancer screening programme, the UK NSC weighs up the possible benefits of screening against the possible harms. Possible benefits include catching cancer early and improving survival, while possible harms include false positive and false negative results, as well as overdiagnosis, and overtreatment \u2013 the treatment of cancers that would never have caused harm.",
+                "tag": "p"
+            },
+            {
+                "content": "This process of assessing benefits and harms is potentially particularly challenging for MCDs because not all cancers detected by the test will benefit equally from early detection. For some cancers, screening may do more harm than good.",
+                "tag": "p"
+            },
+            {
+                "content": "Evaluating MCDs therefore involves assessing benefits and harms both collectively across all cancers detected and individually by cancer type. If the detection of certain cancers by an MCD shows no benefit or causes harm, any modification of the test or filtering of the screening results would raise questions about withholding information and respecting patient autonomy.",
+                "tag": "p"
+            },
+            {
+                "content": "The paper also highlights other ethical considerations relating to:",
+                "tag": "p"
+            },
+            {
+                "content": "Ethics is just one of several strands of work that the UK NSC MCD Task Group is considering when discussing the potential use of MCD tests in screening.",
+                "tag": "p"
+            },
+            {
+                "content": "We will keep you updated on progress of the work via this blog.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u202fregister to receive updates\u202fdirect to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u202fuknsc@dhsc.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2026/01/06/uk-nsc-authors-write-journal-article-on-the-ethics-of-multi-cancer-detection-tests/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "UK NSC authors write journal article that explores the ethical challenge of testing for many cancers using a single test."
+    },
+    {
         "title": "Feedback invited on UK NSC\u2019s work\u00a0on screening for coeliac disease",
         "authors": [
             "Dr David Thompson"
