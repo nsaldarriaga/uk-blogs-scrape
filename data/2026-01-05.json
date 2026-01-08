@@ -1,5 +1,1344 @@
 [
     {
+        "title": "What is the difference between Weather-Health Alerts and Severe Weather Warnings?",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-01-08T17:42:32",
+        "categories": [
+            "Health Protection"
+        ],
+        "content": [
+            {
+                "content": "During summer and winter, UKHSA and the Met Office monitor weather forecasts to help health and social care professionals, emergency responders, the voluntary sector and the public prepare for adverse conditions. When periods of particularly hot or cold weather are forecast, we carry out a joint risk assessment and issue alerts where necessary.",
+                "tag": "p"
+            },
+            {
+                "content": "UKHSA's Weather-Health Alerts (WHAs) are separate from the Met Office's National Severe Weather Warning Service (NSWWS) - and understanding the difference matters.",
+                "tag": "p"
+            },
+            {
+                "content": "Weather-Health Alerts\u00a0focus specifically on the health impacts of weather. They are primarily aimed at the health and social care sector and emergency responders, although they may be of interest to a wider audience. During a WHA, we remind the public to check on friends and family who may be vulnerable due to age or health conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "The National Severe Weather Warning Service\u00a0covers a broader range of weather hazards such as flooding or storms for a wider audience across the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "A key difference is that UKHSA's system includes yellow alerts, while the Met Office's Extreme Heat warnings begin at amber. UKHSA's yellow alerts focus on people who are particularly vulnerable - such as older adults and those with certain long-term health conditions. At this level, action is essential within health and social care settings.",
+                "tag": "p"
+            },
+            {
+                "content": "The 2 systems have slightly different audiences and aims, and therefore we may issue amber before Met Office do, but that we are in constant contact during alerting/warning periods to ensure there is a shared picture of the weather situation",
+                "tag": "p"
+            },
+            {
+                "content": "What do the different colours of Weather-Health Alert mean?",
+                "tag": "h2"
+            },
+            {
+                "content": "What triggers a Weather-Health Alert?",
+                "tag": "h2"
+            },
+            {
+                "content": "UKHSA's Weather-Health Alert system was updated in June 2023. Previously, alerts were triggered when temperatures reached a specific threshold. The new system takes a more sophisticated approach, considering:",
+                "tag": "p"
+            },
+            {
+                "content": "This change reflects the latest evidence on how temperature affects mortality, observed impacts on the health and social care system during recent heatwaves, and long-term weather trends across England's regions.",
+                "tag": "p"
+            },
+            {
+                "content": "Cold-Health Alerts",
+                "tag": "h2"
+            },
+            {
+                "content": "The Met Office does not issue cold temperature-specific warnings as part of the NSWWS. Instead, it publishes warnings for high-impact weather conditions including rain, fog, wind, thunderstorms, snow and ice.",
+                "tag": "p"
+            },
+            {
+                "content": "UKHSA takes a different approach. We consider cold temperatures explicitly through our Cold-Health Alerts, assessing them alongside other factors as part of a dynamic risk assessment conducted with the Met Office.",
+                "tag": "p"
+            },
+            {
+                "content": "UKHSA and the Met Office remain in close contact throughout winter to ensure Cold-Health Alerts are issued as early as possible. Met Office warnings contribute to decisions about alert levels.",
+                "tag": "p"
+            },
+            {
+                "content": "Heat-Health Alerts",
+                "tag": "h2"
+            },
+            {
+                "content": "England has 2 early warning systems for high temperatures:",
+                "tag": "p"
+            },
+            {
+                "content": "Due to generally higher temperatures in London, a slightly different threshold is used to trigger Heat-Health Alerts in that region.",
+                "tag": "p"
+            },
+            {
+                "content": "Why do UKHSA\u2019s Weather-Health Alerts only cover England?",
+                "tag": "h2"
+            },
+            {
+                "content": "The Met Office's National Severe Weather Warning Service covers the whole of the UK. Weather-Health Alerts cover England only due to this being a devolved responsibility in Scotland, Wales and Northern Ireland. The automated alerting system for Weather Health allows users to specify which area of England they want to receive updates about.",
+                "tag": "p"
+            },
+            {
+                "content": "How can I receive notifications?",
+                "tag": "h2"
+            },
+            {
+                "content": "You can register for Weather-Health Alerts here or visit our Data Dashboard to view current alert status across England. We also share alerts on our social media accounts.",
+                "tag": "p"
+            },
+            {
+                "content": "You can check current UK weather warnings on the Met Office website.",
+                "tag": "p"
+            },
+            {
+                "content": "Weather affects different people in different ways. A cold snap that poses little risk to most of the population can be dangerous for older adults or people with heart conditions. A heatwave that doesn't meet the threshold for a national weather warning may still require urgent action in hospitals and care homes. By maintaining a dedicated Weather-Health Alert system alongside the Met Office's National Severe Weather Warning Service, we ensure that health and social care professionals receive targeted, actionable guidance - while the public continues to benefit from broader weather warnings. Both systems work together to protect lives.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/01/08/what-is-the-difference-between-weather-health-alerts-and-severe-weather-warnings/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "UKHSA's Weather-Health Alerts (WHAs) are separate from the Met Office's National Severe Weather Warning Service (NSWWS) - and understanding the difference matters."
+    },
+    {
+        "title": "Response to claims on local elections postponement",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-01-08T16:36:04",
+        "categories": [
+            "Elections",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Reports yesterday suggested that 22 areas across England will have their elections delayed.",
+                "tag": "p"
+            },
+            {
+                "content": "This is pure speculation. So far we have had responses from a fraction of the councils that are due to hold their elections in May this year.",
+                "tag": "p"
+            },
+            {
+                "content": "In December, we announced that 63 areas undergoing local government reorganisation were invited to provide their views on whether postponing elections next year would release capacity to deliver these essential reforms.",
+                "tag": "p"
+            },
+            {
+                "content": "We have been clear that we would listen to local areas, as they are in the best position to judge their local capacity and the impact of potential postponements on their area.",
+                "tag": "p"
+            },
+            {
+                "content": "There is a clear precedent for postponing local elections when local government reorganisation is in progress, as previously happened between 2019 and 2021.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/01/08/response-to-claims-on-local-elections-postponement/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "Reports yesterday suggested that 22 areas across England will have their elections delayed. This is pure speculation. So far we have had responses from a fraction of the councils that are due to hold their elections in May this year. \u2026"
+    },
+    {
+        "title": "Further education and skills inspections: frequently asked questions",
+        "authors": [
+            "Lee Owston, National Director, Education"
+        ],
+        "posted_on": "2026-01-08T13:58:59",
+        "categories": [
+            "education inspection framework",
+            "further education and skills"
+        ],
+        "content": [
+            {
+                "content": "Since we published the renewed inspection framework on 9 September 2025, we\u2019ve put on lots of online and face-to-face engagement with further education and skills (FE) providers to answer your questions. We\u2019re publishing the most frequently asked questions below, so you can see all the answers in one place.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll regularly update this as we continue to inspect with our renewed approach, so do bookmark it and check back in future.",
+                "tag": "p"
+            },
+            {
+                "content": "If you want to watch any of our webinars, you can find them on our YouTube playlist.",
+                "tag": "p"
+            },
+            {
+                "content": "1. When will my FE and skills provision be inspected?",
+                "tag": "h2"
+            },
+            {
+                "content": "When your provision is due to be inspected is based on a number of factors, including its previous inspection outcome.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve published a video on inspection timings for FE and skills providers to explain when your provision will be inspected.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Who can take on the role of nominee and what do they do?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We continue to have a nominee and shadow nominee on FE and skills inspections. We\u2019ve explained how the nominee role works for FE and skills in our inspection information for FE and skills providers.",
+                "tag": "p"
+            },
+            {
+                "content": "If your provision receives an enhanced inspection (this applies to general FE colleges, sixth-form colleges and designated institutions), there will no longer be a skills nominee.",
+                "tag": "p"
+            },
+            {
+                "content": "When you\u2019ve decided who your nominee is, you can watch our nominee training video.",
+                "tag": "p"
+            },
+            {
+                "content": "3. What happens on the planning call?",
+                "tag": "h2"
+            },
+            {
+                "content": "The planning call is important to help the lead inspector understand the structure, organisation and context of your provision, as well as its strengths, successes and priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s helpful if you have key leaders and the nominee present for the planning call. To ensure we build professional working relationships from the very start of an inspection, we always offer to do the planning call as a video call.",
+                "tag": "p"
+            },
+            {
+                "content": "Our FE and skills inspection operating guide for inspectors sets out what inspectors need to do when it comes to the planning call.",
+                "tag": "p"
+            },
+            {
+                "content": "4. How much notice will we get before the inspection?",
+                "tag": "h2"
+            },
+            {
+                "content": "For a full inspection, you will normally get 5 to 6 working days\u2019 notice. This enables leaders and inspectors to plan for the complexity of different inspections.",
+                "tag": "p"
+            },
+            {
+                "content": "For more information, see: \u2018What happens when a provider is notified of an inspection\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "5. What data will we need?",
+                "tag": "h2"
+            },
+            {
+                "content": "The inspection information for FE and skills providers sets out what information the lead inspector may ask for during the notification call. Inspectors will also gather data from the Further Education and Skills Inspection Tool (FESIT).",
+                "tag": "p"
+            },
+            {
+                "content": "For the \u2018achievement\u2019 evaluation area, inspectors will not review your internal data. However, they may talk to you about how you use internal assessment data, what it tells you about learners\u2019 or apprentices\u2019 achievement, and the decisions that your leaders make as a result.",
+                "tag": "p"
+            },
+            {
+                "content": "The FE and skills inspection operating guide for inspectors and FE and skills inspection toolkit explain how we use data on inspection.",
+                "tag": "p"
+            },
+            {
+                "content": "6. What do you mean by \u2018barriers to learning and/or wellbeing\u2019 and how do you define 'disadvantaged'?",
+                "tag": "h2"
+            },
+            {
+                "content": "Inspectors want to understand your provision\u2019s context, including the demographics of the learners or apprentices and their needs.",
+                "tag": "p"
+            },
+            {
+                "content": "Barriers can be caused by a learner\u2019s individual circumstances, such as their health, development or emotional needs, or by external factors, including their family, community or wider social conditions. They can include\u00a0protected characteristics. There may also be barriers that learners face that are specific to the provider\u2019s context. These may require tailored approaches to reduce their impact on learning and/or wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "Our inspections focus on the most vulnerable learners, such as those who are socio-economically disadvantaged (as defined in our glossary of education inspection terminology), those with special educational needs and/or disabilities (SEND) or high needs, those known (or previously known) to social care and those without level 2 English and/or mathematics. Inspectors focus on these learners through various inspection activities and also use case sampling to gather first-hand evidence of their experiences. We want to find out how your provision is helping learners overcome barriers they may face to their learning and/or wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "When we talk about barriers to learning and/or wellbeing, this means any factors that may make it difficult for a learner or apprentice to achieve as well as they should, and develop positive wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "Providers have a responsibility, through statutory duties or government guidance, to address barriers for certain groups of learners. This includes learners who are disadvantaged, those with SEND or high needs, those known (or previously known) to children\u2019s social care and those without level 2 English and/or mathematics.",
+                "tag": "p"
+            },
+            {
+                "content": "We outline the 4 categories for inclusion in our FE and skills inspection toolkit.",
+                "tag": "p"
+            },
+            {
+                "content": "7. How will evening and weekend provision be assessed?",
+                "tag": "h2"
+            },
+            {
+                "content": "Inspectors normally leave your premises by 5.45pm, other than in exceptional circumstances and always as agreed with your nominee. If you have twilight or evening provision, we may stay later but will agree that with you.",
+                "tag": "p"
+            },
+            {
+                "content": "8. How do you inspect apprenticeship providers?",
+                "tag": "h2"
+            },
+            {
+                "content": "We recently ran a webinar to explain how we inspect apprenticeship providers, which we\u2019ve published on our YouTube channel.",
+                "tag": "p"
+            },
+            {
+                "content": "9. What is the difference between the old \u2018best fit\u2019 model and new \u2018secure fit\u2019 model that inspectors use to grade FE and skills provision?",
+                "tag": "h2"
+            },
+            {
+                "content": "Our inspectors use a \u2018secure fit\u2019 model of evaluation to award grades. This means that each standard within each grade must be met before it can be awarded.",
+                "tag": "p"
+            },
+            {
+                "content": "We designed this model to keep grading as consistent as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "10. Is \u2018expected standard\u2019 a high standard?",
+                "tag": "h2"
+            },
+            {
+                "content": "The \u2018expected standard\u2019 is what we would typically expect to see on inspection. It covers the statutory, professional and non-statutory guidance that you are already expected to follow. It is a high bar, particularly as we use a secure fit model (as explained in question 8) to determine whether all of the standards have been met. Inspectors will report on the \u2018expected standard\u2019 positively, though there will be some areas identified that prevent the \u2018strong standard\u2019 from being met.",
+                "tag": "p"
+            },
+            {
+                "content": "It is important to remember that inspectors will start the process of evaluating your provision by automatically considering it to be at the \u2018expected standard\u2019 (see question 8). In order to get a \u2018strong standard\u2019, then all expected standards would need to be met first.",
+                "tag": "p"
+            },
+            {
+                "content": "11. Is \u2018exceptional\u2019 the new \u2018outstanding\u2019?",
+                "tag": "h2"
+            },
+            {
+                "content": "There is no read-across from the previous grading system, so \u2018exceptional\u2019 is not the new \u2018outstanding\u2019. It is also important to say that the \u2018expected standard\u2019 or \u2018strong standard\u2019 do not equate to the old \u2018good\u2019 grade.",
+                "tag": "p"
+            },
+            {
+                "content": "For your provision to achieve \u2018exceptional\u2019 for an area, it needs to show a transformational impact on the outcomes and experiences of disadvantaged learners, those with high needs, those known (or previously known) to social care and those without level 2 English and/or mathematics, and there can be no significant areas of improvement identified that leaders have not already prioritised. Practice and/or outcomes (depending on the evaluation area) will also have been sustained over the last 3 years or more.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors will consider awarding \u2018exceptional\u2019 when they see an area of practice that is of such high quality that it should be shared to support improvement internally, regionally and nationally.",
+                "tag": "p"
+            },
+            {
+                "content": "12. Is \u2018needs attention\u2019 the new \u2018requires improvement\u2019?",
+                "tag": "h2"
+            },
+            {
+                "content": "As with question 10, the \u2018needs attention\u2019 grade is not equivalent to \u2018requires improvement\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors will grade an evaluation area as \u2018needs attention\u2019 when the \u2018expected standard\u2019 of the particular evaluation area is not met because inconsistencies in practice have a negative impact on learners or apprentices in general, or on a particular group. The \u2018needs attention\u2019 grade is not a \u2018fail\u2019. As we explain in our video for parents, \u2018needs attention\u2019 is an indication that there is work to be done to reach the \u2018expected standard\u2019 and it highlights where issues can be addressed before they become bigger problems that need \u2018urgent improvement\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "Where an area is less than \u2018expected standard', we will describe what needs to improve and will return to your provision through our monitoring programme, which means we can regrade if we identify improvement (see question 1). \u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationinspection.blog.gov.uk/2026/01/08/further-education-and-skills-inspections-frequently-asked-questions/",
+        "blog": "Ofsted: education",
+        "blog_link": "https://educationinspection.blog.gov.uk",
+        "description": "Since we published the renewed inspection framework on 9 September 2025, we\u2019ve put on lots of online and face-to-face engagement with further education and skills (FE) providers to answer your questions. We\u2019re publishing the most frequently asked questions below, so \u2026"
+    },
+    {
+        "title": "The power of patterns",
+        "authors": [
+            "Joanna Goodwin"
+        ],
+        "posted_on": "2026-01-08T12:00:00",
+        "categories": [
+            "Case study",
+            "PublicPolicyDesign"
+        ],
+        "content": [
+            {
+                "content": "Perhaps you consider patterns as boring. When it comes to design in government, boring doesn\u2019t mean dull or unimaginative. It means dependable, familiar, and safe. In public policy and service design, that\u2019s exactly what we need more of. We need approaches that make it easier for people to use government services, and easier for teams to deliver them well.",
+                "tag": "p"
+            },
+            {
+                "content": "Across government, teams are grappling with common challenges: tightening budgets, rising demand, and the people who use our services expecting digital services to \u201cjust work.\u201d Amid these pressures, the real innovation isn\u2019t about reinventing the wheel but about scaling what already works.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s where design patterns come in \u2026reusable solutions to common problems.",
+                "tag": "p"
+            },
+            {
+                "content": "Enabling leaders to create better outcomes for citizens",
+                "tag": "h2"
+            },
+            {
+                "content": "Patterns don\u2019t only deliver efficiency; they\u2019re a leadership tool.",
+                "tag": "p"
+            },
+            {
+                "content": "When leaders champion reuse and consistency, they\u2019re signalling a commitment to value, trust, and delivery. They\u2019re making it easier for teams across departments to learn from one another, and for citizens to experience government as one joined-up system rather than a maze of separate services.",
+                "tag": "p"
+            },
+            {
+                "content": "When every government service looks and behaves differently, it\u2019s confusing. Familiar patterns mean people can complete tasks more easily and confidently, even when moving between departments. They don\u2019t notice consistency when it\u2019s there, but they do when it\u2019s missing.",
+                "tag": "p"
+            },
+            {
+                "content": "Consistency means better accessibility by default. It means fewer mistakes. It means more time and energy for those who need extra support. In other words, it means better outcomes for everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "Consistency builds trust. People shouldn\u2019t have to learn how to interact with government anew each time they need something. Familiarity gives confidence; confidence builds trust; and trust strengthens the legitimacy of public institutions.",
+                "tag": "p"
+            },
+            {
+                "content": "So at its heart, this isn\u2019t about systems or standards, but it\u2019s about people.",
+                "tag": "p"
+            },
+            {
+                "content": "Defining patterns",
+                "tag": "h2"
+            },
+            {
+                "content": "There is nothing new or wild about using patterns. A design pattern is a general, reusable solution to a common problem that occurs within a particular context. It\u2019s not finished or perfect, but rather a template or blueprint that provides a starting point to help structure solutions in a consistent, proven way.",
+                "tag": "p"
+            },
+            {
+                "content": "Simply put, patterns have been used for hundreds of years to improve consistency - the first mention I can find is from using patterns in planning and how we design physical infrastructure such as roundabouts - so it is very \u2018tried and tested\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "When we think of design patterns for digital, some of our designers at Wales\u2019s Centre for Digital Public Services played with different levels of fidelity and have broken down the different types of patterns that might be used (\u2026and we are still working out what each one should be called!):",
+                "tag": "p"
+            },
+            {
+                "content": "Patterns as a policy tool",
+                "tag": "h2"
+            },
+            {
+                "content": "What we are finding, across different parts of the public sector, is that service patterns in the form of user flows, can be used and applied in a wide range of contexts with confidence - we\u2019ve already proven that in a fire service, a local authority, a sponsored body, and more.",
+                "tag": "p"
+            },
+            {
+                "content": "User flow patterns (like apply, book, pay) are becoming the quiet superpower of design across policy and delivery. In Wales, we\u2019ve been developing a library of service patterns to help teams build consistently high-quality services faster and more safely.",
+                "tag": "p"
+            },
+            {
+                "content": "Now imagine applying that same principle to policy design itself. Patterns aren\u2019t just a design concern. They\u2019re a strategic policy opportunity.",
+                "tag": "p"
+            },
+            {
+                "content": "Every time a policymaker designs a new intervention, they\u2019re engaging with patterns, whether they realise it or not. Recognising and reusing proven ways of doing these things helps ensure policies can be implemented effectively, safely, and at scale.",
+                "tag": "p"
+            },
+            {
+                "content": "Could we identify recurring \u201cpolicy patterns\u201d? Then, could we equip policymakers with tried-and-tested frameworks? Instead of starting from scratch, teams could focus on adapting what works to their context, informed by evidence and citizen experience.",
+                "tag": "p"
+            },
+            {
+                "content": "Patterns help translate intent into reality. Patterns can become the connective tissue between policy intent, service delivery, and citizen outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "Patterns are a multiplier for reform",
+                "tag": "h2"
+            },
+            {
+                "content": "Patterns may be quiet work, but they have loud effects. They enable scale, efficiency, and trust. They turn isolated good practice into shared capability. And they give policymakers the tools to design for delivery - not just in theory, but in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "In an era where public services must do more with less, patterns are not a constraint. They are a multiplier. ",
+                "tag": "p"
+            },
+            {
+                "content": "The future of government isn\u2019t about one big reform, it\u2019s about thousands of small, consistent, reusable patterns that make the system work better for everyone.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://publicpolicydesign.blog.gov.uk/2026/01/08/the-power-of-patterns/",
+        "blog": "Public Policy Design",
+        "blog_link": "https://publicpolicydesign.blog.gov.uk",
+        "description": "Design leader, Joanna Goodwin, writes about Wales's newest government design system."
+    },
+    {
+        "title": "The new SFI offer for 2026",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-01-08T11:05:32",
+        "categories": [
+            "Sustainable Farming Incentive"
+        ],
+        "content": [
+            {
+                "content": "The new Sustainable Farming Incentive (SFI) offer will launch this year. It will continue to support sustainable farming in England and help encourage growth.",
+                "tag": "p"
+            },
+            {
+                "content": "In response to feedback, we are improving the new SFI offer to:",
+                "tag": "p"
+            },
+            {
+                "content": "These changes will deliver an SFI that is simpler and fairer, so farmers can plan with confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "We will work with stakeholders now to get these changes right before the new SFI offer launches, and we will publish full scheme details before the first application window opens.",
+                "tag": "p"
+            },
+            {
+                "content": "Simplicity and focus",
+                "tag": "h2"
+            },
+            {
+                "content": "To make the new SFI offer simpler and more focused, we are streamlining it by reducing the number of actions.",
+                "tag": "p"
+            },
+            {
+                "content": "There will still be a broad offer to suit different types of farms and plenty of choice, with greater emphasis on actions that support sustainable food production.",
+                "tag": "p"
+            },
+            {
+                "content": "This will include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Fairness and accessibility",
+                "tag": "h2"
+            },
+            {
+                "content": "We want as many farmers as possible to benefit from SFI. This will help us achieve the government\u2019s target of doubling the number of farms providing sufficient year-round resources for farm wildlife by December 2030, compared with 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "We are considering ways to do this and will publish further details before we launch the new SFI offer.",
+                "tag": "p"
+            },
+            {
+                "content": "Certainty and transparency",
+                "tag": "h2"
+            },
+            {
+                "content": "We know you need certainty to plan ahead, so we can confirm there will be two SFI application windows this year.",
+                "tag": "p"
+            },
+            {
+                "content": "We will publish clear definitions of these two groups before the first window opens.",
+                "tag": "p"
+            },
+            {
+                "content": "We will set clear budgets for each window and provide regular updates so you can see when a window is close to being fully subscribed.",
+                "tag": "p"
+            },
+            {
+                "content": "We will not close application windows without warning.",
+                "tag": "p"
+            },
+            {
+                "content": "Stay informed",
+                "tag": "h2"
+            },
+            {
+                "content": "This morning, we published a blog post summarising the Secretary of State's OFC2026 speech. It includes a number of announcements to support farmers in England.",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the Farming blog to receive updates on the SFI offer and information from the Farming and Countryside Programme.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/01/08/the-new-sfi-offer-for-2026/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Following the Secretary of State\u2019s speech at the Oxford Farming Conference today, we summarise how we're making the new SFI simpler and more targeted, and what this means for you."
+    },
+    {
+        "title": "OFC 2026: clarity, partnership and growth",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-01-08T11:04:56",
+        "categories": [
+            "Farming and Countryside Programme"
+        ],
+        "content": [
+            {
+                "content": "Today at the Oxford Farming Conference, the Environment Secretary made a series of announcements to support farmers in England, with a focus on clarity, partnership and growth.",
+                "tag": "p"
+            },
+            {
+                "content": "This post summarises those announcements. It includes updates on the Sustainable Farming Incentive, the Farming Roadmap, Farming in Protected Landscapes, new investment in advice, and support for the uplands.",
+                "tag": "p"
+            },
+            {
+                "content": "Today\u2019s announcements follow December\u2019s update that the inheritance tax threshold for Agricultural and Business Property Relief will increase from \u00a31 million to \u00a32.5 million.",
+                "tag": "p"
+            },
+            {
+                "content": "This means couples will be able to pass on up to \u00a35 million without paying inheritance tax on their assets. This is in addition to existing allowances, such as the nil-rate band.",
+                "tag": "p"
+            },
+            {
+                "content": "Around 85% of farming estates are expected to pay no inheritance tax on their farms and estates in 2026/27. The reforms will still ensure that the wealthiest estates do not receive unlimited relief.",
+                "tag": "p"
+            },
+            {
+                "content": "Clarity",
+                "tag": "h2"
+            },
+            {
+                "content": "The new Sustainable Farming Incentive offer for 2026",
+                "tag": "h3"
+            },
+            {
+                "content": "The Sustainable Farming Incentive (SFI) supports farmers to run productive, resilient businesses while caring for the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "When the new offer opens later this year, it will be simpler. We are streamlining the actions available to reduce complexity. There will still be plenty of choice, with a stronger focus on actions that support sustainable food production.",
+                "tag": "p"
+            },
+            {
+                "content": "We are also considering an agreement value cap to help share funding more fairly while delivering benefits for nature and climate.",
+                "tag": "p"
+            },
+            {
+                "content": "We will publish full details before the first application window opens in June, giving farmers time to understand the offer.",
+                "tag": "p"
+            },
+            {
+                "content": "Read our post on the SFI offer in 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Publishing the Farming Roadmap",
+                "tag": "h3"
+            },
+            {
+                "content": "The 25-year Farming Roadmap will set out the long-term direction for farming, including how the sector will adapt to changing markets, new technologies and environmental pressures, and how government will support that change.",
+                "tag": "p"
+            },
+            {
+                "content": "Last year, we worked with farmers through sector-specific and regional workshops to help shape the roadmap. ",
+                "tag": "p"
+            },
+            {
+                "content": "We will continue to engage with the sector as it develops and will publish the Farming Roadmap later this year.",
+                "tag": "p"
+            },
+            {
+                "content": "Partnership",
+                "tag": "h2"
+            },
+            {
+                "content": "Creating a Farming and Food Partnership Board",
+                "tag": "h3"
+            },
+            {
+                "content": "The new Farming and Food Partnership Board will bring together representatives from farming, food, retail, finance and government.",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Secretary highlighted the importance of giving farmers and food businesses a seat at the table as policy is developed.",
+                "tag": "p"
+            },
+            {
+                "content": "Chaired by the Secretary of State, the board will champion profitable and sustainable production and food security. It will help ensure growth aligns with health and environmental goals, and that market demand is matched by domestic and export supply. The Farming Minister, Angela Eagle, will be deputy chair.",
+                "tag": "p"
+            },
+            {
+                "content": "The board will work to improve how the whole food supply chain functions, identifying solutions that deliver real benefits. It will take a strategic \u2018farm to fork\u2019 approach by establishing shared, collectively owned goals. Sector plans will initially focus on horticulture, followed by poultry.",
+                "tag": "p"
+            },
+            {
+                "content": "Board membership will be developed in partnership with the sector, with further details to be shared in due course.",
+                "tag": "p"
+            },
+            {
+                "content": "Investing \u00a330 million in advice",
+                "tag": "h3"
+            },
+            {
+                "content": "Access to trusted advice and shared experience helps farmers make informed decisions for their businesses and land.",
+                "tag": "p"
+            },
+            {
+                "content": "To support this, \u00a330 million will be invested over the next three years in a new approach to farm collaboration. This funding will support both existing and new farmer groups and networks, helping farmers share experience with each other and access expert advice.",
+                "tag": "p"
+            },
+            {
+                "content": "The funding will also support activities such as farm visits, talks from expert speakers, and stronger links with innovators and leaders at local and sector level.",
+                "tag": "p"
+            },
+            {
+                "content": "From 2026, different approaches will be trialled in different areas, giving farmers greater flexibility to develop their own plans and focus on delivery rather than unnecessary bureaucracy.",
+                "tag": "p"
+            },
+            {
+                "content": "This investment will support practical, farmer-led approaches and help ensure advice is available where it can make the greatest difference.",
+                "tag": "p"
+            },
+            {
+                "content": "Extending the Farming in Protected Landscapes Programme (FiPL)",
+                "tag": "h3"
+            },
+            {
+                "content": "The Farming in Protected Landscapes Programme will be extended for a further 3 years, with \u00a330 million in funding confirmed for next year.",
+                "tag": "p"
+            },
+            {
+                "content": "Partnership lies at the heart of the programme, bringing farmers, protected landscape organisations and local communities together to deliver change at a scale that no single holding could achieve alone.",
+                "tag": "p"
+            },
+            {
+                "content": "This extension will enable more farmers to deliver meaningful benefits for nature, the climate and local communities across England\u2019s National Parks and National Landscapes.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the past four years, this programme has supported over 11,000 farmers across 44 protected landscapes \u2013 funding more than 5,500 projects and creating around 100 farm cluster groups.",
+                "tag": "p"
+            },
+            {
+                "content": "We recently blogged about FiPL\u2019s impact four years on and shared case studies showcasing this collaboration in action.",
+                "tag": "p"
+            },
+            {
+                "content": "The FiPL programme forms part of the government\u2019s wider work to improve the natural environment, including the revised Environmental Improvement Plan (EIP) published on 1 December.",
+                "tag": "p"
+            },
+            {
+                "content": "Transforming the uplands",
+                "tag": "h3"
+            },
+            {
+                "content": "England\u2019s uplands are among the country\u2019s most valued landscapes, shaped by generations of farming and community life. From Dartmoor to the Lake District, they supply around 70% of the UK\u2019s drinking water. Upland farming plays a vital role in maintaining these landscapes and habitats.",
+                "tag": "p"
+            },
+            {
+                "content": "Upland farms also face distinct challenges. Short growing seasons, poor soils, steep terrain and remoteness increase costs, limit yields and make everyday operations more difficult. These pressures affect local communities too, where services are often distant, affordable housing is limited and opportunities for young people are fewer.",
+                "tag": "p"
+            },
+            {
+                "content": "To explore new ways of addressing these challenges, we have partnered with Dr Hilary Cottam OBE, a social entrepreneur known for innovative, relationship-based approaches to social change.",
+                "tag": "p"
+            },
+            {
+                "content": "Working with Dr Cottam, the next step will be to develop a place-based approach shaped by the needs of upland communities, with solutions co-designed around local challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "This will include building a shared understanding of how land can support food production alongside wider public benefits, underpinned by strong local governance that reflects the realities facing upland farms and communities.",
+                "tag": "p"
+            },
+            {
+                "content": "The work will also explore how public, private and third-sector funding can be better aligned to create new income opportunities and build the skills and networks communities need to shape their own future. At its core, the aim is to support change that is led locally, by communities themselves.",
+                "tag": "p"
+            },
+            {
+                "content": "This marks the beginning of a long-term partnership. We will start by working with communities in Dartmoor, followed by Cumbria.",
+                "tag": "p"
+            },
+            {
+                "content": "Growth",
+                "tag": "h2"
+            },
+            {
+                "content": "Profitable farming and a thriving environment both depend on sustainable growth. That growth will be supported by securing trade deals that open new markets, reforming the planning system and investing in technology.",
+                "tag": "p"
+            },
+            {
+                "content": "As mentioned, at the end of 2025, more farms and businesses were made exempt from inheritance tax, halving the number of farms affected while maintaining the core principle that the wealthiest estates should not receive unlimited relief.",
+                "tag": "p"
+            },
+            {
+                "content": "Last month, a consultation launched on proposed planning changes. With input from farmers and land managers, the aim is to make it easier to diversify  and develop farm infrastructure, including reservoirs, greenhouses, polytunnels and farm shops.",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe",
+                "tag": "h2"
+            },
+            {
+                "content": "The Farming blog shares updates and information about  policies, schemes and programmes affecting farmers, growers and land managers in England.",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the Farming blog for a notification whenever we publish a new post.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/01/08/ofc-2026-clarity-partnership-and-growth/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Today at the Oxford Farming Conference, the Environment Secretary made a series of announcements to support farmers in England, with a focus on clarity, partnership and growth."
+    },
+    {
+        "title": "GDS Parish Council Domains Helper Service wins Digital Transformation award",
+        "authors": [
+            "Khidr Suleman, GDS Service Owner, GDS"
+        ],
+        "posted_on": "2026-01-08T10:00:00",
+        "categories": [
+            "Domain",
+            "Security",
+            "Services"
+        ],
+        "content": [
+            {
+                "content": "The Government Cyber Unit Cyber Services team is pleased to share that the Parish Council Domains Helper Service won the Digital Transformation Project of the Year 2025 at the BCS UK IT Industry Awards.The team took on the responsibility for helping to improve the digital health of parish councils, which are the foundational tier of UK democracy. Historically, many councils have poor cyber security and low digital adoption.",
+                "tag": "p"
+            },
+            {
+                "content": "Before we launched our service in 2024, 80% of the 10,000 English parish councils were still using non-government domains instead of .gov.uk. Coupled with this, 66% of councils were also using free, personal email addresses for official council business. Our aim was to not only onboard councils to .gov.uk but to increase security practices and professionalism across the sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Winning this industry award caps off an exciting 18 months of hard work, which has seen the service go from an idea on a spreadsheet to a live service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Getting to the heart of the problem during our discovery\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The idea sprung to life in 2023, under the direction of Simon Foster, Head of the Cyber Services team. Grace Hernandez, Portfolio Lead put out a tender on the Digital Marketplace to recruit a team to work on the project.",
+                "tag": "p"
+            },
+            {
+                "content": "As with every discovery, we started small by focusing on 10 parish councils, carrying out online surveys, workshops and one-to-one interviews to uncover barriers to adopting .gov.uk domains. We discovered 4 main pain points that were preventing .gov.uk adoption across the sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Moving onto the Alpha phase, we were able to:",
+                "tag": "p"
+            },
+            {
+                "content": "How we onboarded 1,000 parish councils during the Beta phase",
+                "tag": "h2"
+            },
+            {
+                "content": "Over the course of 2024, Tim, Will and Steph worked on iterating the service based on feedback from workshops, surveys, presentations and incoming stats. During the 2024 calendar year, the team:",
+                "tag": "p"
+            },
+            {
+                "content": "Sandra and Karen built valuable relationships with the Society of Local Council Clerks (SLCC) and the National Association of Local Councils (NALC). This culminated in achieving a major milestone where they strengthened wording in NALC\u2019s Practitioners\u2019 Guide 2025. This helped to increase .gov.uk adoption in the live phase by clarifying its importance to councils.",
+                "tag": "p"
+            },
+            {
+                "content": "One of the more challenging aspects of the service delivery was the requirement to process and receipt all of the invoices for the funding. Grace engaged with internal senior finance business partners to agree an approach and worked on processing and receipting over 1000 invoices. This required weekly cross-checks with the delivery team to ensure the domain registrations were live, before handing out the funding.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As you can imagine there was a lot of back and forth, having to chase invoices and financial teams required a lot of effort to make sure that everything was paid on time",
+                "tag": "p"
+            },
+            {
+                "content": "Adding to the complexity of the Beta phase, I was also running the .gov.uk Registry migration project and building a brand new Get Approval to use .gov.uk domain name service.",
+                "tag": "p"
+            },
+            {
+                "content": "The Parish Council Domains Helper Service was dependent on these 2 services being launched on time in July 2024, so parish council domains could benefit from the renegotiated \u00a310 wholesale cost and get their domains registered and working. Both of those projects ran to time and budget - launching on the 26 June 2024.",
+                "tag": "p"
+            },
+            {
+                "content": "Year one stats of the Parish Council Domains Helper Service",
+                "tag": "h2"
+            },
+            {
+                "content": "The judging panel was particularly impressed with the impact of the service. The headline figures included:",
+                "tag": "p"
+            },
+            {
+                "content": "Sustaining our momentum for the live service",
+                "tag": "h2"
+            },
+            {
+                "content": "Once our fixed-term contract with our supplier ended in March 2025, the team working on the Parish Council Domains Helper Service reduced from 8 full-time staff down to 1.5 full-time people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There was uncertainty as to how well the service would perform when resourcing was cut by 80%. Added to this, we no longer had the carrot of giving out \u00a3100 funding, as budgets were diverted to other high priority projects. Even with these restrictions, we were set with an ambitious target of onboarding 750 parish councils during 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "I handed over the day-to-day Service Owner reins to Emma Dwan who has done an excellent job of building on momentum from the launch year. This has resulted in us smashing through our targets thanks to the strong foundation of the service. Together we\u2019ve:",
+                "tag": "p"
+            },
+            {
+                "content": "At its current rate - the Parish Domains Helper Service can theoretically complete the on-boarding of all 10,000 parish councils within 5 years. That\u2019s 15 years faster than if we would have done nothing. However, we do expect new challenges as some councils have zero budget, so we will have to get creative with ways to help as we creep closer to our target.",
+                "tag": "p"
+            },
+            {
+                "content": "As more parish councils join the .gov.uk ecosystem, our attention is increasingly turning to help them increase their overall cyber security.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019d like to learn more you can email us at parish.helper@domains.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2026/01/08/gds-parish-council-domains-helper-service-wins-digital-transformation-award/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "Find out how the team scooped the biggest prize at the UK IT Industry Awards 2025."
+    },
+    {
+        "title": "The\u00a0red\u00a0triangle\u00a0that\u00a0made\u00a0 history:\u00a0celebrating 150\u00a0years of UK\u00a0Trade Mark\u00a0no. 1\u00a0",
+        "authors": [
+            "Gavin Blackmore"
+        ],
+        "posted_on": "2026-01-08T10:00:00",
+        "categories": [
+            "Business",
+            "Trade marks"
+        ],
+        "content": [
+            {
+                "content": "London, 31 December, 1875. Midnight approaches. Outside a modest office, a queue forms \u2013 not for concert tickets or Boxing Day bargains, but for something far more valuable: a place in history.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the clock edges towards midnight, the\u00a0Trade Marks\u00a0Registration Act 1875 is about to come into force, allowing businesses to officially register and protect their brands for the very first time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bass & Co. is determined to be first. Legend has it their representative camped outside through the freezing winter night, wrapped in blankets and clutching the company\u2019s application papers, waiting for the doors of the\u00a0new registration\u00a0office to open.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The clock strikes twelve. The doors swing open. Bass steps forward.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Despite a scuffle in the hall with other eager company representatives, Bass secures\u00a0trade marks\u00a01, 2 and 3. Their iconic\u00a0beer\u00a0label,\u00a0featuring a\u00a0red triangle\u00a0-\u00a0becomes UK\u00a0trade mark\u00a0No. 1, securing its place at the very top of the register forever.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0revolutionary\u00a0moment for\u00a0brand\u00a0protection\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "That New Year\u2019s Day in 1876\u00a0wasn\u2019t\u00a0just important\u00a0for Bass \u2013 it transformed how we protect innovation and creativity. It laid the foundation for the work we still do today at the IPO.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Other countries had experimented with\u00a0trade mark\u00a0systems before. France introduced a deposit system in 1857, and the US tried something similar in 1870 (though it was declared unconstitutional and\u00a0didn\u2019t\u00a0return until 1881). But the UK\u2019s\u00a01875\u00a0Trade Marks\u00a0Registration Act\u00a0created something different: a systematic, nationally centralised register that would stand the test of time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why did businesses care so much about being first through those doors? Because a strong\u00a0trade mark\u00a0is more than just a logo \u2013\u00a0it\u2019s\u00a0a badge of identity. As\u00a0the Chartered Institute of\u00a0Trade\u00a0Mark\u00a0Attorneys (CITMA)\u00a0puts it:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Being number 1 on that register meant something then, just as it does now. It signalled that you were a serious business, forward-thinking enough to protect your brand from the very first moment it became possible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0story\u00a0behind the\u00a0triangle\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Bass & Co. had been brewing beer in Burton upon Trent since 1777,\u00a0nearly a\u00a0century before that famous queue formed. The town\u2019s water quality was legendary \u2013 brewers believed it made superior beer, and Bass built its reputation on it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By the 1850s, they were already using the red triangle to\u00a0identify\u00a0their bottles. Simple, bold, and instantly recognisable \u2013 distinctive in exactly the way a good\u00a0trade mark\u00a0should be. When the opportunity came to make that protection official, Bass\u00a0wasn\u2019t\u00a0taking any chances.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Their strategy paid off spectacularly. They\u00a0didn\u2019t\u00a0just secure the number 1 spot \u2013 they also grabbed marks 1, 2 and 3. The first two\u00a0remain\u00a0live on the register to this day, a remarkable\u00a0achievement in itself.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Did you know?\u00a0You can view UK\u00a0Trade Mark\u00a0No. 1 on our own register right now.\u00a0There it is \u2013 the iconic red triangle, exactly as it appeared 150 years ago.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From Burton to the Bar at the Folies-Berg\u00e8re\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Within six years of registration, Bass was already so iconic that it appeared in one of the era\u2019s most famous paintings. In 1882, \u00c9douard Manet painted\u00a0\"A Bar at the Folies-Berg\u00e8re\"\u00a0\u2013 and there, visible in both corners of the canvas, are bottles bearing that distinctive red triangle.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The brand became synonymous with quality and modernity. Its cultural influence\u00a0didn\u2019t\u00a0stop there.\u00a0In the early 20th century, it caught the eye of the Cubist movement, inspiring works by Georges Braque and Pablo Picasso.\u00a0Even James Joyce mentioned it in\u00a0Ulysses, describing the Bass label as\u00a0\u201ccertainly calculated to attract anyone\u2019s remark on account of its scarlet appearance.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s\u00a0remarkable to think that a UK\u00a0trade mark\u00a0became part of global art and literature \u2013 a testament to the power of IP.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Still on the\u00a0register\u00a0after 150 Years\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The Bass\u00a0trade marks\u00a0are now owned by Anheuser-Busch InBev (AB InBev). The original Bass Brewery in Burton upon Trent closed in 2005, but the\u00a0trade mark\u00a0lives on. It is\u00a0a reminder of where our work began \u2013 and how the IP we register today might still be protecting businesses 150 years from now.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Think about what that red triangle has survived: more than 30 changes to\u00a0trade mark\u00a0law, two world wars, the decline of traditional British brewing, multiple changes of ownership, and the complete transformation of how we consume media and advertising. Yet there it sits on the register, as valid today as it was in 1876.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A Legacy That Continues\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The Bass red triangle\u00a0demonstrates\u00a0everything a successful\u00a0trade mark\u00a0should\u00a0be:\u00a0highly distinctive, instantly recognisable, and built to last. It proved that protecting your brand\u00a0isn\u2019t\u00a0just about legal\u00a0rights \u2013\u00a0it\u2019s\u00a0about creating something that becomes woven into the cultural fabric.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we celebrate 150 years of UK\u00a0Trade Mark\u00a0No. 1 in 2026,\u00a0let\u2019s\u00a0reflect on the journey from that freezing New Year\u2019s Eve queue to the sophisticated IP system we\u00a0operate\u00a0today. Every\u00a0trade mark\u00a0we register carries the potential to be the next Bass triangle \u2013 a brand that not only stands the test of time but becomes part of our shared history.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s\u00a0to the innovations that endure \u2013 and to the next 150 years of protecting British creativity and enterprise.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2026/01/08/the-red-triangle-that-made-history-celebrating-150-years-of-uk-trade-mark-no-1/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "To celebrate the 150th anniversary of the trade mark registry, this blog explores the history of the first trade mark - and you can now have your say on the most iconic trade mark in history..."
+    },
+    {
+        "title": "Are schools closed because of snow? Everything parents need to know",
+        "authors": [
+            "Media Officer"
+        ],
+        "posted_on": "2026-01-08T09:35:42",
+        "categories": [
+            "Schools"
+        ],
+        "content": [
+            {
+                "content": "On snowy days schools make every effort to stay open but sometimes they must close or partially close if it\u2019s unsafe for pupils and teachers to attend.",
+                "tag": "p"
+            },
+            {
+                "content": "When there is a cold weather warning in place, many parents will be wondering whether their child's school will open. ",
+                "tag": "p"
+            },
+            {
+                "content": "Here we answer your questions about snow days.",
+                "tag": "p"
+            },
+            {
+                "content": "Is my school closed today because of snow?",
+                "tag": "h3"
+            },
+            {
+                "content": "Schools will have their own approaches to contacting parents, in many circumstances they have their own apps and/or messaging services.",
+                "tag": "p"
+            },
+            {
+                "content": "Schools will try to give parents as much notice as possible but sometimes decisions will be made quite late as circumstances change.",
+                "tag": "p"
+            },
+            {
+                "content": "It is always best to check your email, school app or school social media accounts regularly for updates.",
+                "tag": "p"
+            },
+            {
+                "content": "Who decides if schools should close?",
+                "tag": "h3"
+            },
+            {
+                "content": "Schools and other education settings set their own plans and policies on how to deal with adverse weather conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s up to schools to decide on whether it is safe for them to open or close based on their own risk assessment and taking local issues into account.",
+                "tag": "p"
+            },
+            {
+                "content": "What things should schools consider when deciding whether to close?",
+                "tag": "h3"
+            },
+            {
+                "content": "Decisions will be made locally based on common sense and there are a large range of things that schools will consider",
+                "tag": "p"
+            },
+            {
+                "content": "This could include where staffing levels can\u2019t be met because transport issues are preventing teachers from getting to work.",
+                "tag": "p"
+            },
+            {
+                "content": "Other examples include safety conditions around the school, temperatures in school buildings and more.",
+                "tag": "p"
+            },
+            {
+                "content": "If they do decide to temporarily close during severe weather, they should consider moving to remote learning for pupils until it is safe to reopen.",
+                "tag": "p"
+            },
+            {
+                "content": "What if it\u2019s unsafe to travel to school in the snow and ice?",
+                "tag": "h3"
+            },
+            {
+                "content": "In exceptional circumstances, a pupil may be unable to attend school because a local or national emergency has resulted in widespread disruption to travel.",
+                "tag": "p"
+            },
+            {
+                "content": "If parents believe it would be unsafe to travel, they should inform the school as soon as possible to let them know their child won't be attending and why (in line with the schools absence policy).",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2026/01/schools-closed-for-snow-days-information-for-parents/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "On snowy days schools make every effort to stay open but sometimes they must close or partially close if it\u2019s unsafe for pupils and teachers to attend."
+    },
+    {
+        "title": "Minutes published of UK NSC November 2025 meeting",
+        "authors": [
+            "Mike Harris"
+        ],
+        "posted_on": "2026-01-08T09:22:23",
+        "categories": [
+            "UK National Screening Committee"
+        ],
+        "content": [
+            {
+                "content": "The UK National Screening Committee (UK NSC) has published the minutes of its November 2025 meeting.",
+                "tag": "p"
+            },
+            {
+                "content": "During the meeting, the committee agreed to go out to public consultation on a draft prostate cancer screening recommendation:",
+                "tag": "p"
+            },
+            {
+                "content": "Following public consultations, the UK NSC also updated its recommendations on newborn screening for metachromatic leukodystrophy (MLD) and on adult screening for dementia.",
+                "tag": "p"
+            },
+            {
+                "content": "Committee members recognised the devastating impact of MLD and thanked the many individuals and organisations who had responded to the consultation. Members found that more research and evaluation are needed to explore the case for screening further and therefore reiterated their recommendation not to screen for MLD.",
+                "tag": "p"
+            },
+            {
+                "content": "To address the challenges associated with evidence generation for rare diseases in newborn screening, the UK NSC is working with partners to develop plans for a multi-condition in-service evaluation (ISE), termed EquipoISE, within the UK newborn blood spot screening programme. MLD has been identified as a good candidate for inclusion in this type of evaluation, which could provide valuable information on the performance of MLD screening in UK newborns.",
+                "tag": "p"
+            },
+            {
+                "content": "The committee also restated its recommendation not to offer adult population screening for dementia because of the lack of an accurate and reliable test and limited treatments. Members again thanked all those who had responded to the consultation.",
+                "tag": "p"
+            },
+            {
+                "content": "Other topics discussed at the meeting included:",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u00a0register to receive updates\u00a0direct to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u00a0uknsc@dhsc.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2026/01/08/minutes-published-of-uk-nsc-november-2025-meeting/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "The minutes have been published of the UK NSC November 2025 meeting."
+    },
+    {
+        "title": "Introducing EquipoISE: an evaluation of adding multiple rare conditions to the newborn blood spot screening programme",
+        "authors": [
+            "Dr Graham Shortland"
+        ],
+        "posted_on": "2026-01-08T09:20:06",
+        "categories": [
+            "Newborn Blood Spot Screening"
+        ],
+        "content": [
+            {
+                "content": "The NHS Newborn Blood Spot (NBS) Screening Programme prevents severe disability and death by detecting a number of rare but serious health conditions in newborns.",
+                "tag": "p"
+            },
+            {
+                "content": "Healthcare professionals take blood spots using a heel prick device when babies are 5 days old. The blood spots are then tested for sickle cell disease, cystic fibrosis, congenital hypothyroidism and a number of inherited metabolic diseases.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK National Screening Committee (UK NSC) is working with experts and partner organisations to look at how to make it easier to develop evidence needed to make robust recommendations on the addition of more rare diseases to the NBS screening programme.",
+                "tag": "p"
+            },
+            {
+                "content": "Today, the UK NSC is publishing an update on this work, which provides an outline of a project called EquipoISE. This is a proposed rolling multi-condition in-service evaluation (ISE) within the NBS screening programme.",
+                "tag": "p"
+            },
+            {
+                "content": "Use the link below to download the report:",
+                "tag": "p"
+            },
+            {
+                "content": "EquipoISE \u2013 A multi-disease in-service evaluation within the UK newborn blood spot screening programme: extended bloodspot ISE",
+                "tag": "p"
+            },
+            {
+                "content": "The aims of EquipoISE",
+                "tag": "h2"
+            },
+            {
+                "content": "ISEs in screening involve assessing new or modified screening programmes in real-world NHS settings to answer specific questions about the operation or effectiveness of a proposed screening test and pathway.",
+                "tag": "p"
+            },
+            {
+                "content": "The main aim of EquipoISE would be to answer policy-relevant research questions that will allow the UK NSC to make recommendations on adding new conditions to the NBS programme. EquipoISE would:",
+                "tag": "p"
+            },
+            {
+                "content": "If the assessment of a candidate condition under EquipoISE is successful, then it could be rolled out formally as part of the national NBS screening programme.",
+                "tag": "p"
+            },
+            {
+                "content": "Current uncertainties in screening for rare diseases",
+                "tag": "h2"
+            },
+            {
+                "content": "Around 1 in 17 people are affected by a rare disease, most of which develop in childhood. Many of the conditions are treatable if detected early enough, so using screening to detect them before symptoms develop can be extremely helpful.",
+                "tag": "p"
+            },
+            {
+                "content": "However, for many diseases we do not yet have enough data on their natural history, prevalence or age of onset to know whether screening would be beneficial. We also do not know which biomarkers will reliably predict disease in newborns, which biomarkers might indicate benign disease, or how many children with a \u2018positive\u2019 screening result would go on to develop symptoms.",
+                "tag": "p"
+            },
+            {
+                "content": "These uncertainties mean screening could incorrectly diagnose healthy babies, leading to unnecessary interventions, causing distress to families and placing pressure on health systems already supporting children with confirmed rare diseases.",
+                "tag": "p"
+            },
+            {
+                "content": "Importance of evaluation in UK setting",
+                "tag": "h2"
+            },
+            {
+                "content": "There is wide international variation in NBS screening practice, so newborn screening varies considerably. It is very difficult to determine whether screening practice in another country would translate effectively to a UK setting.",
+                "tag": "p"
+            },
+            {
+                "content": "The aim of EquipoISE would be to collect and analyse UK-specific data to support any future safe, evidence-based expansion of the NHS NBS Screening Programme in line with the UK NSC\u2019s evidence review criteria, code of practice and ethical framework.",
+                "tag": "p"
+            },
+            {
+                "content": "We will keep you informed about the project\u2019s progress via this blog.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u202fregister to receive updates\u202fdirect to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u00a0uknsc@dhsc.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2026/01/08/introducing-equipoise-an-evaluation-of-adding-multiple-rare-conditions-to-the-newborn-blood-spot-screening-programme/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "The UK NSC has published an update on a project called EquipoISE to make it easier to develop the evidence needed to make robust recommendations on screening newborns for rare diseases."
+    },
+    {
+        "title": "Building a data model for planning decisions\u202f\u00a0",
+        "authors": [
+            "Mike Rose, Data, Licensing and Intellectual Property SME"
+        ],
+        "posted_on": "2026-01-08T09:14:40",
+        "categories": [
+            "Data",
+            "Digital Planning"
+        ],
+        "content": [
+            {
+                "content": "Every year, local planning authorities make hundreds of thousands of planning decisions. But right now, that decision data exists in dozens of different formats across different systems, making it difficult to use, compare\u00a0and\u00a0learn from.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're\u00a0working to change that by creating a\u00a0planning decision data specification \u2013 a common standard that will make planning decision data consistent,\u00a0accessible\u00a0and useful across England.\u00a0In a recent blog post, we shared\u00a0what we learnt\u00a0from our\u00a0initial user research\u00a0sessions\u00a0about the problems people face and why\u00a0standardised decision data is so critical to solving them.",
+                "tag": "p"
+            },
+            {
+                "content": "Why\u00a0this matters\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Consistent\u00a0data\u00a0created at the\u00a0decision stage  will benefit everyone working in the planning system and beyond:",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0we're\u00a0standardising\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Our definition of\u00a0decision\u00a0stage\u00a0data captures everything needed to understand and act on\u00a0the outcome of a\u00a0planning\u00a0application:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How\u00a0we're\u00a0building this\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Unlike\u00a0our work\u00a0standardising the planning application submission stage\u00a0where we could build on existing application forms,\u00a0we're\u00a0creating this\u00a0new\u00a0national\u00a0specification from scratch.\u00a0The approach\u00a0we\u2019re\u00a0taking to achieve this is\u00a0to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The specifications are currently\u00a0informed by 5 main sources:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Progress so far\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We're\u00a0building the data model piece by piece, with each element traceable back\u00a0to user\u00a0needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Decision\u00a0notices\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We started with the core legal requirement \u2013 the decision notice itself. We've defined fields for linking to\u00a0the\u00a0application\u00a0record, recording timings\u00a0such as the decision date on the notice and the date when the application was first received by the local planning authority,\u00a0to track whether deadlines were met, and capturing who made the decision\u00a0\u2013 whether it was by a planning officer, a planning committee at the local planning authority or by the Planning Inspectorate on appeal.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Conditions\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We've\u00a0been\u00a0looking at\u00a0how conditions attach to decisions\u00a0and can be discharged by one.\u00a0For example, understanding\u00a0whether\u00a0conditions attached to a permission have been\u00a0met, allowing development to proceed or continue in compliance\u00a0with specific\u00a0requirements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What's\u00a0next\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "While we have\u00a0made\u00a0solid progress on\u00a0what is the decision and\u00a0what  conditions apply,\u00a0we're\u00a0still\u00a0working on the\u00a0rest of the\u00a0picture, including the application log\u00a0capturing the\u00a0steps leading to\u00a0the\u00a0decision,\u00a0such as consultation periods and\u00a0time\u00a0extensions, the\u00a0overall application status (including withdrawals and appeals), and the remaining\u00a0data from the\u00a0local authority\u00a0statistical returns.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Join us\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This work covers complex territory \u2013 from\u00a0initial\u00a0submissions through to post-decision actions like condition discharge.\u00a0We're\u00a0taking it step by step, tackling what\u00a0we're\u00a0confident about first, then using\u00a0further\u00a0research to understand\u00a0more needs and model the more complicated scenarios. We're continuing our user research and are keen to speak to people who have valuable insights they\u00a0can\u00a0share.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We need your help:\u00a0",
+                "tag": "h3"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/01/08/building-a-data-model-for-planning-decisions/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Every year, local planning authorities make hundreds of thousands of planning decisions. Right now, planning decisions are recorded in dozens of different formats. Find out about the work taking place to change that by creating a data standard for planning decisions."
+    },
+    {
         "title": "The Rural Payments Agency Podcast: Episode 14",
         "authors": [
             "RPA Editor"
