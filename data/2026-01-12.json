@@ -1,5 +1,321 @@
 [
     {
+        "title": "Governance lessons from the UK-US PETs Pilot\u00a0for cancer research",
+        "authors": [
+            "John Smith, Senior Technology Advisor, GDS"
+        ],
+        "posted_on": "2026-01-15T14:45:00",
+        "categories": [
+            "Data insights",
+            "Data protection",
+            "Data Standards",
+            "Data Strategy",
+            "Guidance"
+        ],
+        "content": [
+            {
+                "content": "This\u00a0post\u00a0was written with\u00a0contributions\u00a0from the Information Commissioner's Office\u00a0(ICO) and NHS England. It\u00a0follows GDS\u2019 first blog post\u00a0on\u00a0Using Privacy Enhancing Technologies to Enable International Data Sharing.",
+                "tag": "p"
+            },
+            {
+                "content": "Why focus on governance?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In\u00a0October\u00a02025,\u00a0we described\u00a0how\u00a0DSIT\u2019s Privacy\u00a0Enhancing Technologies (PETs) pilot\u00a0allowed\u00a0England\u2019s National Disease Registration Service\u00a0(NDRS) and the US\u00a0National Cancer Institute\u00a0(NCI) to study ultra-rare childhood tumours without moving patient-level data across borders.\u00a0This\u00a0cross-border\u00a0data\u00a0access\u00a0aligns with\u00a0the\u00a0blueprint for modern digital government goal of using\u00a0privacy-preserving data\u00a0sharing\u00a0to unlock public\u00a0value\u00a0for\u00a0research\u00a0and offers\u00a0concrete model for future digital-innovation projects across government.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, the\u00a0technical story\u00a0was only half the achievement. The other half was\u00a0governance: proving to information governance\u00a0boards, legal\u00a0teams\u00a0and regulators that the collaboration was safe,\u00a0lawful\u00a0and proportionate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In practical terms,\u00a0our\u00a0governance approach\u00a0allowed us\u00a0to\u00a0cut the \u201cpre-research\u201d waiting time from the 12+\u00a0months typical for international cancer studies to just\u00a0two\u00a0months: from first proposal to an approved\u00a0Data Protection Impact Assessment (DPIA) and agreement on safeguards at both registries.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This blog explains\u00a0how\u00a0we did that, what we learnt, and\u00a0our advice for\u00a0practitioners\u00a0delivering\u00a0collaborative,\u00a0PETs-based\u00a0research\u00a0initiatives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Starting\u00a0information governance at the whiteboard\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Traditional projects\u00a0can\u00a0treat\u00a0governance\u00a0as a late-stage hurdle, but applying PETs allowed us to ensure that\u00a0data\u00a0protection compliance\u00a0requirements were integrated from the design stage right through the processing lifecycle, up to and including the\u00a0end of data retention.\u00a0This is a key requirement of data protection by design as described in the\u00a0ICO\u2019s data protection by design and default guidance.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We collaborated with\u00a0asset owners,\u00a0technologists,\u00a0information governance leads and legal\u00a0advisors\u00a0from early in the pilot and structured our project's architecture to fit each element of a DPIA:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By writing these points\u00a0before\u00a0any code was\u00a0used, reviewers could see that the technology\u00a0was built to answer regulatory questions, not to dodge them. This helped yield\u00a0quick positive\u00a0results, ensuring risks\u00a0identified\u00a0in the DPIA were effectively and proactively mitigated.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mapping\u00a0PETs to\u00a0established\u00a0control frameworks\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "PETs\u00a0describe a\u00a0range of\u00a0technical methods\u00a0and\u00a0can\u00a0often\u00a0feel abstract, so\u00a0we tried to anchor\u00a0each\u00a0PET\u00a0concept\u00a0in\u00a0language\u00a0that the regulators, clinicians and compliance teams would be\u00a0familiar\u00a0with:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Presenting our architecture decisions in this way reassured registry governance boards that PETs\u00a0complement, rather than replace,\u00a0existing controls.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Streamlining\u00a0GDPR\u00a0compliance\u00a0\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "ICO guidance\u00a0stresses proportionality: if the\u00a0residual\u00a0risk\u00a0of\u00a0data processing is low, the\u00a0data protection compliance measures\u00a0should be\u00a0less involved.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With\u00a0the PETs\u00a0in\u00a0place,\u00a0the\u00a0residual risk\u00a0of\u00a0processing\u00a0dropped significantly; query results\u00a0are\u00a0anonymous\u00a0and\u00a0fall outside UK GDPR data protection law.\u00a0However,\u00a0because\u00a0the underlying processing inside each\u00a0disease\u00a0registry still involves patient-level records (i.e. personal data)\u00a0a DPIA was still required.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0completed\u00a0a concise DPIA that\u00a0assured stakeholders that data\u00a0protection risks had been fully considered\u00a0and mitigated in all the processing activities leading up to the sharing of aggregated,\u00a0anonymous outputs.\u00a0Critically,\u00a0we were not\u00a0transferring personal data\u00a0outside of the UK\u00a0under UK GDPR.\u00a0This meant that the overseas transfer rules in UK GDPR\u00a0did not apply and there was no need\u00a0to\u00a0carry out\u00a0a\u00a0Transfer Risk Assessment\u00a0or\u00a0issue\u00a0an\u00a0International Data Transfer Agreement.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Other governance\u00a0accelerators\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "During the project, we applied several\u00a0behind-the-scenes governance practices that\u00a0eased the\u00a0overall\u00a0delivery process,\u00a0including:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Research\u00a0benefits\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Early analysis\u00a0from NDRS\u00a0indicates that by accessing combined registry data\u00a0instead\u00a0of\u00a0UK-only data,\u00a0researchers were able to increase the analytical power of their queries in two main ways:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Real-world analyses on combined UK-US childhood cancer data are now under way by our\u00a0partners\u00a0at NDRS and NCI, and results will be presented later this year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Takeaways\u00a0for practitioners\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "If you would like to know more,\u00a0please contact us\u00a0at\u00a0pets@dsit.gov.uk.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dataingovernment.blog.gov.uk/2026/01/15/governance-lessons-from-the-uk-us-pets-pilot-for-cancer-research/",
+        "blog": "Data in government",
+        "blog_link": "https://dataingovernment.blog.gov.uk",
+        "description": "The UK-US Privacy Enhancing Technologies (PETs) pilot demonstrates how privacy-by-design can be applied to international data sharing and provides a concrete model for future PETs projects across government. In this blog, we reflect on the governance lessons from the pilot."
+    },
+    {
+        "title": "Housing Sec hails recovery 'green shoots' in latest housing supply figures",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-01-15T14:27:55",
+        "categories": [
+            "Housing"
+        ],
+        "content": [
+            {
+                "content": "The Housing Secretary has welcomed new housing supply figures published today, showing green shoots of recovery across the housebuilding sector. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new data release confirms a rise in the number of new build starts in the year ending September 2025 (117,980) which is a 18% increase compared to the previous year.",
+                "tag": "p"
+            },
+            {
+                "content": "It also confirms a 3% rise in new build starts between July and September 2025 (29,620) when compared to the same quarter in the previous year.",
+                "tag": "p"
+            },
+            {
+                "content": "An estimated 309,600 new homes have been delivered since the start of this Parliament (9 July 2024) \u2013 meaning the government has now surpassed a fifth of its 1.5 million homes target.",
+                "tag": "p"
+            },
+            {
+                "content": "These figures show the government\u2019s overhaul of the planning system, alongside other pro-supply measures, begin to take effect and the impact of reforms will continue to feed into higher levels of delivery in the later years of this Parliament. ",
+                "tag": "p"
+            },
+            {
+                "content": "As part of the next phase of reforms to get Britain building, the Housing Secretary has pledged to \u2018go further than ever before\u2019 to make the system clearer, more predictable, and faster to build 1.5 million homes.",
+                "tag": "p"
+            },
+            {
+                "content": "Housing Secretary Steve Reed said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI said I will build 1.5 million homes and I meant it.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThanks to our changes to planning laws we\u2019re now seeing the green shoots of recovery \u2013 with an 18% increase in work starting on new homes compared to the previous year.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe will keep on streamlining the planning system and investing in social housing so we can end the housing crisis we inherited and give everyone the chance to live in the home they dream of.\u201dManaging Director at Muse, Phil Mayall said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe latest housing delivery statistics which have been released by the government are an encouraging sign.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAt Muse we\u2019ve been hearing the messages sent out by the government loud and clear and have been readying to respond. For the past two years, our teams have been preparing sites across the country so we can move quickly. Today, we have a pipeline of almost 15,000 homes, including affordable, which we are set to deliver across the country.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe rise in the number of starts points to positive progress and reflects the focus that has been placed on supporting housing delivery. There is, however, still further to go to reach the scale of delivery the country needs, with challenges still to be overcome.\u201d ",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAs these continue to be addressed, we look forward to continuing to play our part in supporting increased housing supply and delivering homes in sustainable, well-connected places.\u201d",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/01/15/housing-sec-hails-recovery-green-shoots-in-latest-housing-supply-figures/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "The Housing Secretary has welcomed new housing supply figures published today, showing green shoots of recovery across the housebuilding sector. \u00a0 The new data release confirms a rise in the number of new build starts in the year ending September \u2026"
+    },
+    {
+        "title": "Inaccurate reporting on fines under Simpler Recycling",
+        "authors": [
+            "Defra Press Office"
+        ],
+        "posted_on": "2026-01-15T14:21:49",
+        "categories": [
+            "waste"
+        ],
+        "content": [
+            {
+                "content": "Recent media reporting in the\u00a0Daily Mail,\u00a0Sun\u00a0and the\u00a0Mirror\u00a0has\u00a0claimed that households could face \u00a3400 fines for recycling 37 \u201cprohibited\u201d items under the government\u2019s Simpler Recycling reforms, which\u00a0come into effect from 31 March.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These claims are completely false.\u00a0Our\u00a0Simpler Recycling scheme ensures households across England can recycle the same core materials, ending the postcode lottery of collections. It does not introduce new \u00a3400 fines for incorrectly\u00a0recycling items, nor does it ban households from disposing of everyday items.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The items described in media reports as \u201cprohibited\u201d can still be disposed of and they are not banned. They are simply listed in government guidance for local authorities as not in scope for specific recycling streams under Simpler Recycling.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Most of the items referenced can still be placed in the residual (general waste) bin, while some items, such as batteries and electricals, must be taken to appropriate collection points. Local authorities are responsible for providing clear, local information to households about what can and cannot be recycled in each waste stream, to reduce confusion.",
+                "tag": "p"
+            },
+            {
+                "content": "Any penalty for incorrect presentation of household waste in England is a civil penalty, not a criminal fine. A Fixed Penalty Notice - valued between \u00a360 and \u00a380 -\u00a0can only be issued after a written warning and where incorrect presentation is causing a nuisance.",
+                "tag": "p"
+            },
+            {
+                "content": "A Defra spokesperson said:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://deframedia.blog.gov.uk/2026/01/15/inaccurate-reporting-on-fines-under-simpler-recycling/",
+        "blog": "Defra in the media",
+        "blog_link": "https://deframedia.blog.gov.uk",
+        "description": "There has been inaccurate media coverage of the government's Simpler Recycling reforms, which come into effect from 31 March."
+    },
+    {
+        "title": "A day in the life - Senior Lawyer, Jamie Munk",
+        "authors": [
+            "TRA Communications"
+        ],
+        "posted_on": "2026-01-15T11:41:10",
+        "categories": [
+            "Recruitment"
+        ],
+        "content": [
+            {
+                "content": "We have recently opened applications to join our legal team. We asked our Senior Lawyer, Jamie Munk about his day-to-day work life and what it's like working at the Trade Remedies Authority... ",
+                "tag": "p"
+            },
+            {
+                "content": "Tell us about yourself Jamie!",
+                "tag": "p"
+            },
+            {
+                "content": "I joined the TRA as a senior lawyer about 18 months ago \u2013 and currently lead the legal team\u2019s work advising on new trade remedy investigations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What motivated\u00a0you\u00a0to join\u00a0TRA?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I started my legal career in private practice as a commercial litigator, but prior to joining TRA much of my working life has been spent in\u00a0Government\u00a0on international trade\u00a0matters -\u00a0so\u00a0I already had a\u00a0fair\u00a0idea of how interesting\u00a0and important\u00a0the work of the TRA is. Working in trade law involves\u00a0a fascinating\u00a0intersection of commercial,\u00a0governmental\u00a0and civil society\u00a0interests,\u00a0and\u00a0between public international and domestic law. And with\u00a0its mission to defend\u00a0UK\u00a0economic interests against unfair international trade practices \u2013 the TRA offered\u00a0an exciting\u00a0opportunity to bring my experience to\u00a0bear\u00a0on live\u00a0investigations to support the delivery of this important function.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s\u00a0it been like in\u00a0terms of work?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The work itself has been challenging, varied and fast-paced \u2013 but also highly rewarding.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0team is also called on to advise on litigation matters\u00a0\u2013 including a judicial review on one of our investigations last year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Can you give an insight into life at the TRA?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The culture of the TRA as an organisation has been a real highlight for me. For a small organisation,\u00a0the diversity of experiences and backgrounds of\u00a0colleagues\u00a0is amazing \u2013 both within the legal team and beyond. This\u00a0means\u00a0I\u2019m\u00a0constantly learning from those\u00a0with backgrounds in economic analysis, accountancy, investigations, public policy and\u00a0beyond\u00a0\u2013\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "from across the UK and overseas -\u00a0in a genuinely multidisciplinary team.\u00a0I\u2019ve\u00a0also been supported to\u00a0develop my\u00a0expertise\u00a0further\u00a0through a great training offering, underpinned by a\u00a0culture of learning\u00a0\u2013 and the ability to connect with our wider stakeholders, such as through\u00a0the\u00a0TRA Stakeholder Forum.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This also\u00a0makes for\u00a0an inclusive place to work - and joining as a senior lawyer\u00a0has given me opportunities to feed into this as part of our senior\u00a0managers group, helping shape the\u00a0culture and direction of the organisation as a senior leader.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ve\u00a0also really valued the flexibility of working here\u00a0\u2013 both in terms of\u00a0the balance of\u00a0working at home and in the office\u00a0and wider approach\u00a0to flexible working\u00a0and leave.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who would you recommend the role to?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To\u00a0any\u00a0experienced\u00a0lawyer\u00a0with a\u00a0commitment\u00a0to work in public service, a\u00a0genuine interest in international trade and its\u00a0relationship to UK economic interests, and\u00a0an enthusiasm for developing their\u00a0expertise\u00a0in a\u00a0multidisciplinary, delivery-focussed organisation.\u00a0For anyone interested,\u00a0I\u2019d\u00a0really encourage you to sign up for a chat to learn a bit more about the roles being advertised.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What else should\u00a0an\u00a0applicant know?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ll\u00a0be available for informal conversations\u00a0with those interested in applying\u00a0about the TRA\u2019s Legal team up until 30 January\u00a02026. Please email\u00a0jamie.munk@traderemedies.gov.uk\u00a0to arrange one.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To learn more about the role and apply, head to Civil Service Jobs.",
+                "tag": "h2"
+            }
+        ],
+        "link": "https://traderemedies.blog.gov.uk/2026/01/15/a-day-in-the-life-senior-lawyer-jamie-munk/",
+        "blog": "Trade Remedies Authority",
+        "blog_link": "https://traderemedies.blog.gov.uk",
+        "description": "We have recently opened applications to join our legal team. We asked our Senior Lawyer, Jamie Munk about his day-to-day work life and what it's like working at the Trade Remedies Authority... Tell us about yourself Jamie! I joined the \u2026"
+    },
+    {
         "title": "Building Homes, Restoring Nature: How District Level Licensing has streamlined development\u00a0",
         "authors": [
             "Mike Burke"
