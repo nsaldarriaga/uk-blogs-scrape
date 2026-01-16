@@ -1,5 +1,534 @@
 [
     {
+        "title": "Latest statement in response to small boat crossings",
+        "authors": [
+            "Home Office news team"
+        ],
+        "posted_on": "2026-01-16T17:00:39",
+        "categories": [
+            "Reactive statements"
+        ],
+        "content": [
+            {
+                "content": "A Home Office spokesperson said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis Government is bearing down on small boat crossings.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe have stopped 40,000 crossing attempts since this Government came into office through our joint work with the French. We have detained and removed almost 50,000 people who were here illegally. Our pilot deal with the French means those who arrive on small boats are now being sent back.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe Home Secretary has also announced the most sweeping reforms to tackle illegal migration in modern times, removing the incentives that bring illegal migrants to the UK and scaling up the return of those with no right to be here.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Background:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://homeofficemedia.blog.gov.uk/2026/01/16/latest-statement-in-response-to-small-boat-crossings/",
+        "blog": "Home Office in the media",
+        "blog_link": "https://homeofficemedia.blog.gov.uk",
+        "description": "A Home Office spokesperson said: \u201cThis Government is bearing down on small boat crossings. \u201cWe have stopped 40,000 crossing attempts since this Government came into office through our joint work with the French. We have detained and removed almost 50,000 \u2026"
+    },
+    {
+        "title": "Investigations at OPG",
+        "authors": [
+            "dquill"
+        ],
+        "posted_on": "2026-01-16T12:00:00",
+        "categories": [
+            "Investigations",
+            "lasting power of attorney",
+            "LPA"
+        ],
+        "content": [
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Last year, our teams handled more than 11,000 concerns\u00a0reported to us\u00a0\u2013 with only around a third falling within our legal powers to act.\u00a0Understanding how investigations work at the Office of the Public Guardian (OPG), and how we use the information you share, can make the process clearer and easier to navigate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One of our principal responsibilities is to\u00a0consider\u00a0concerns about how a donor\u2019s affairs are being managed,\u00a0including\u00a0whether\u00a0decisions made on their behalf are done\u00a0in their best interests.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From October 2025, concerns about the misuse of a lasting/ enduring power of attorney (LPA/ EPA) or deputyship\u00a0order\u00a0can be reported online using\u00a0our\u00a0digital form\u00a0. This improved service is designed to make reporting\u00a0simpler,\u00a0quicker\u00a0and more accessible;\u00a0while helping us gather everything we need to decide how best to respond.\u00a0We hope this will become the\u00a0main\u00a0route for concerns to be reported to us.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When should you\u00a0get in touch with\u00a0us?\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We encourage you to contact us\u00a0if\u00a0you believe an attorney or deputy is not acting in the best interests of the person they support. Some examples that might raise concern include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0cannot\u00a0investigate concerns if:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If\u00a0we\u2019re\u00a0unable to investigate, we will\u00a0explain\u00a0any reasoning and direct you to other organisations that may be able to help, such as the police or local authorities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Checking if an LPA or deputyship exists",
+                "tag": "h3"
+            },
+            {
+                "content": "If\u00a0you\u2019re\u00a0unsure if an LPA or deputyship order is in place\u00a0or\u00a0are\u00a0unable to approach the\u00a0donor\u00a0directly, you can request a search of the\u00a0OPG registers.\u00a0This allows you to check whether an LPA, enduring power of attorney (EPA), or deputyship order is registered, and who is acting on behalf of the\u00a0donor.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can find details about how to complete a search via\u00a0our\u00a0FAQs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How our investigations work",
+                "tag": "h3"
+            },
+            {
+                "content": "When a concern is raised, we review all available information to\u00a0determine\u00a0if we have enough evidence and the legal authority to act. If we open an investigation, there are three\u00a0possible outcomes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How much legal authority do we have?",
+                "tag": "h3"
+            },
+            {
+                "content": "Under the Mental Capacity Act 2005, we can explore whether someone appointed under a lasting/ enduring power of attorney, or by the Court of Protection, is acting in the best interests of the person they\u00a0represent.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However,\u00a0it\u2019s\u00a0important to understand that our powers are specific and limited. The law allows us to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0cannot:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How long does an investigation take?\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Where\u00a0there is enough evidence to begin an investigation, we aim to respond within five working days.\u00a0Most investigations are complex and can take several months to complete, depending on the circumstances of the case.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If an investigation is likely to exceed 14 weeks, we will\u00a0inform\u00a0anyone who is legally entitled to updates.\u00a0Information is\u00a0not typically provided to any\u00a0third parties, including the person who raised the concern, unless\u00a0they\u00a0have a professional\u00a0safeguarding\u00a0role.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are currently experiencing a period of high demand, which may mean some investigations take longer to complete.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What if an attorney or deputy\u00a0doesn't\u00a0cooperate?\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "If an attorney or deputy does not cooperate with our investigation, or if we uncover evidence of abuse, we may need to take further action by applying to the Court of Protection. Here, the\u00a0Court can order attorneys or deputies to provide evidence of their decisions, and where necessary, restrict or remove their powers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Court of Protection is the specialist\u00a0Court responsible for making decisions about someone\u2019s property, finances, health, or welfare when they lack the mental capacity to do so themselves.\u00a0While we can investigate and\u00a0escalate\u00a0concerns about attorneys or deputies, only the\u00a0Court has the authority to\u00a0act\u00a0if\u00a0a breach of duties\u00a0is suspected.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to raise a concern",
+                "tag": "h3"
+            },
+            {
+                "content": "If you find yourself\u00a0concerned\u00a0about the actions of an attorney or deputy, please\u00a0don\u2019t\u00a0hesitate to reach out to us. You can contact us at:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Y llynedd, deliodd ein timau \u00e2 dros 11,000 o bryderon a adroddwyd i ni - gyda dim ond tua thraean yn dod o fewn ein pwerau cyfreithiol i weithredu.\u00a0Gall deall sut mae ymchwiliadau'n gweithio yn Swyddfa'r Gwarcheidwad Cyhoeddus (OPG), a sut rydym yn defnyddio'r wybodaeth rydych chi'n ei rhannu, wneud y broses yn fwy clir ac yn haws ei defnyddio.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Un o'n prif gyfrifoldebau yw ystyried pryderon ynghylch sut mae materion rhoddwyr yn cael eu rheoli, gan gynnwys a yw penderfyniadau sy'n cael eu gwneud ar eu rhan yn cael eu gwneud er eu lles gorau.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "O fis Hydref 2025 ymlaen, gellir rhoi gwybod ar-lein am bryderon ynghylch camddefnyddio\u00a0atwrneiaeth\u00a0arhosol/barhaus (LPA/EPA) neu orchymyn dirprwyaeth gan ddefnyddio ein\u00a0ffurflen ddigidol. Mae'r gwasanaeth gwell hwn wedi'i gynllunio fel bod y broses adrodd yn symlach, yn gyflymach ac yn fwy hygyrch; gan ein helpu i gasglu popeth sydd ei angen arnom i benderfynu ar y ffordd orau o ymateb. Rydym yn gobeithio mai dyma fydd y prif ddull o roi gwybod i ni am bryderon.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Pryd ddylech chi gysylltu \u00e2 ni?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Ni allwn\u00a0ymchwilio i bryderon os:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Os na allwn ymchwilio, byddwn yn egluro unrhyw resymau ac yn eich cyfeirio at sefydliadau eraill a allai helpu, fel yr heddlu neu awdurdodau lleol.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Gwirio a oes LPA neu ddirprwyaeth yn bodoli",
+                "tag": "h3"
+            },
+            {
+                "content": "Os nad ydych chi'n si\u0175r a oes LPA neu orchymyn dirprwyaeth ar waith neu os nad ydych chi'n gallu cysylltu \u00e2'r rhoddwr yn uniongyrchol, gallwch wneud cais i chwilio\u00a0cofrestrau'r OPG. Mae hyn yn eich galluogi i wirio a yw LPA,\u00a0atwrneiaeth\u00a0barhaus (EPA), neu orchymyn dirprwyaeth wedi'i gofrestru, a phwy sy'n gweithredu ar ran y rhoddwr.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cymerwch gip ar ein\u00a0Cwestiynau Cyffredin\u00a0i gael manylion am sut mae mynd ati i chwilio.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae ein hymchwiliadau'n gweithio\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Pan godir pryder, rydym yn adolygu'r holl wybodaeth sydd ar gael i benderfynu a oes gennym ddigon o dystiolaeth a'r awdurdod cyfreithiol i weithredu. Os byddwn yn agor ymchwiliad, mae tri chanlyniad posibl:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Faint o awdurdod cyfreithiol sydd gennym?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Dan Ddeddf Galluedd Meddyliol 2005, gallwn archwilio a yw rhywun a benodir dan\u00a0atwrneiaeth\u00a0arhosol/barhaus, neu gan y Llys Gwarchod, yn gweithredu er lles gorau'r unigolyn y maent yn ei gynrychioli.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Fodd bynnag, mae'n bwysig deall bod ein pwerau'n benodol ac yn gyfyngedig. Mae'r gyfraith yn caniat\u00e1u i ni:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ni allwn:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Pa mor hir mae ymchwiliad yn ei gymryd?\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Os oes digon o dystiolaeth i ddechrau ymchwiliad, ein nod yw ymateb o fewn pum diwrnod gwaith. Mae'r rhan fwyaf o ymchwiliadau'n gymhleth a\u00a0gallant\u00a0gymryd sawl mis i'w cwblhau, yn dibynnu ar amgylchiadau'r achos.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Os yw ymchwiliad yn debygol o bara am fwy na 14 wythnos, byddwn yn rhoi gwybod i unrhyw un sydd \u00e2 hawl gyfreithiol i gael yr wybodaeth ddiweddaraf. Nid yw gwybodaeth fel arfer yn cael ei rhoi i unrhyw drydydd parti, gan gynnwys yr unigolyn sydd wedi codi'r pryder, oni bai fod ganddynt r\u00f4l ddiogelu broffesiynol.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ar hyn o bryd rydym yn profi cyfnod o alw mawr, a allai olygu bod rhai ymchwiliadau'n cymryd mwy o amser i'w cwblhau.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth os nad yw atwrnai neu ddirprwy yn cydweithredu?\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Os na fydd atwrnai neu ddirprwy yn cydweithredu \u00e2'n hymchwiliad, neu os byddwn yn datgelu tystiolaeth o gamddefnyddio, efallai y bydd angen i ni gymryd camau pellach drwy wneud cais i'r Llys Gwarchod. Yma, gall y Llys orchymyn i atwrneiod neu ddirprwyon ddarparu tystiolaeth o'u penderfyniadau, a lle bo angen, cyfyngu neu ddileu eu pwerau.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Y Llys Gwarchod yw'r Llys arbenigol sy'n gyfrifol am wneud penderfyniadau am eiddo, cyllid, iechyd neu les rhywun pan nad oes\u00a0ganddo'r\u00a0galluedd meddyliol i wneud hynny ei hun. Er y gallwn ymchwilio i bryderon am atwrneiod neu ddirprwyon\u00a0a'u\u00a0huwchgyfeirio, dim ond y Llys sydd \u00e2'r awdurdod i weithredu os amheuir bod dyletswyddau wedi cael eu torri.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae mynegi pryder\u00a0\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Os ydych chi'n poeni am weithredoedd atwrnai neu ddirprwy, mae croeso i chi gysylltu \u00e2 ni. Gallwch anfon e-bost atom yn:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://publicguardian.blog.gov.uk/2026/01/16/investigations-at-opg/",
+        "blog": "Office of the Public Guardian",
+        "blog_link": "https://publicguardian.blog.gov.uk",
+        "description": "[English] - [Cymraeg] Last year, our teams handled more than 11,000 concerns\u00a0reported to us\u00a0\u2013 with only around a third falling within our legal powers to act.\u00a0Understanding how investigations work at the Office of the Public Guardian (OPG), and how we \u2026"
+    },
+    {
+        "title": "Our approach to keeping GOV.UK One Login secure\u00a0",
+        "authors": [
+            "The GDS Team"
+        ],
+        "posted_on": "2026-01-16T11:30:13",
+        "categories": [
+            "GOV.UK One Login"
+        ],
+        "content": [
+            {
+                "content": "This\u00a0month\u00a0the\u00a0Government Cyber Action Plan\u00a0was published.\u00a0It sets out the importance of\u00a0improving our cyber defences\u00a0for\u00a0digital\u00a0public services.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The vast majority of\u00a0government services are already available online, providing millions of people with secure and reliable digital access every day.\u00a0Our\u00a0focus is not simply on moving services online, but on strengthening and innovating the ways people interact with them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This includes developing new capabilities highlighted in the Blueprint for modern digital government, such as digital wallets and verifiable credentials, which will further enhance how users prove their identity and manage access to services. By continually advancing these features, we ensure that people can use government services with the utmost confidence in both their security and convenience.",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog post we will share 5 key ways that we are securing access to government services with GOV.UK One Login.",
+                "tag": "p"
+            },
+            {
+                "content": "1. GOV.UK One Login makes accessing government services easier",
+                "tag": "h2"
+            },
+            {
+                "content": "GOV.UK One Login is designed to be the single, secure way for people to sign in and prove their identity when using government services online. Over 13 million people have already used it to access more than 120 different services, making interactions with government simpler and more joined-up.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Security and trust are our top priorities",
+                "tag": "h2"
+            },
+            {
+                "content": "The programme is built on the principle that public trust is essential. GOV.UK One Login follows strict security standards, similar to those used in the private sector, to protect users\u2019 data and privacy. Security is our top priority and the team is constantly working to deliver a smooth and secure user experience.",
+                "tag": "p"
+            },
+            {
+                "content": "3. GOV.UK One Login is run by expert teams, with independent oversight",
+                "tag": "h2"
+            },
+            {
+                "content": "A dedicated team of security experts, including architects and engineers, design and operate the system. Their work is regularly reviewed by independent bodies and government partners to ensure high standards are maintained.",
+                "tag": "p"
+            },
+            {
+                "content": "The GOV.UK One Login programme also conducts regular independent security testing, including red team exercises that simulate real-world attacks. These exercises ensure our security systems remain robust and identify any potential vulnerabilities. ",
+                "tag": "p"
+            },
+            {
+                "content": "The programme benefits from ongoing advice and support from national cyber security authorities, and we are working closely with them to align GOV.UK One Login to the government\u2019s new Secure by Design standard.",
+                "tag": "p"
+            },
+            {
+                "content": "4. How we protect user data and privacy",
+                "tag": "h2"
+            },
+            {
+                "content": "GOV.UK One Login is fully compliant with UK data protection laws. Only the minimum necessary data is collected for verification, and there is no central database linking user information across government. Users\u2019 information is kept secure, and third parties working with the programme must also meet strict privacy standards.",
+                "tag": "p"
+            },
+            {
+                "content": "5. Security measures are always evolving",
+                "tag": "h2"
+            },
+            {
+                "content": "The Government Cyber Action Plan talks about how government will rise to meet the growing range of online threats. Security is not a once and done. ",
+                "tag": "p"
+            },
+            {
+                "content": "In the GOV.UK One Login programme our security model involves multiple lines of protection, such as monitoring for threats, controlling access to systems, and keeping detailed logs.\u202f\u202fWe regularly review and update these measures to stay ahead of any new risks.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u202fcarry out regular, independent security testing as our users rightly expect,\u202ftaking swift action whenever possible\u202fvulnerabilities are\u202fidentified.\u202fWe have strong security measures in place to keep the programme safe, and to ensure that GOV.UK One Login continues to provide a secure and trusted way for millions of people to access government services.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2026/01/16/our-approach-to-keeping-gov-uk-one-login-secure/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Explore 5 ways GDS strengthens the security and privacy of GOV.UK One Login, using expert safeguards and ongoing improvements to support trusted access to government services."
+    },
+    {
+        "title": "Understanding identity verification for people with significant control (PSCs)",
+        "authors": [
+            "Identity Verification Team"
+        ],
+        "posted_on": "2026-01-16T09:54:26",
+        "categories": [
+            "Changes to UK company law",
+            "Digital transformation",
+            "Running a company"
+        ],
+        "content": [
+            {
+                "content": "As part of the UK government's efforts to tackle economic crime and improve transparency, Companies House has introduced new identity verification requirements for people with significant control (PSCs). If you're a PSC of a company, this blog post will help you to understand:",
+                "tag": "p"
+            },
+            {
+                "content": "What is a PSC?",
+                "tag": "h2"
+            },
+            {
+                "content": "A PSC is someone who owns or controls a company. A PSC may hold more than 25% of the shares or voting rights, have the power to appoint or remove directors, or otherwise influence key decisions, even without formal ownership. Many PSCs are also directors, but this is not always the case.",
+                "tag": "p"
+            },
+            {
+                "content": "A PSC could be:",
+                "tag": "p"
+            },
+            {
+                "content": "In small and medium-sized enterprises (SMEs) and family businesses, a PSC could be:",
+                "tag": "p"
+            },
+            {
+                "content": "Why PSCs need to verify their identity",
+                "tag": "h2"
+            },
+            {
+                "content": "Identity verification has been introduced to help tackle fraud, improve the accuracy of information on the Companies House register, and make it harder for criminals to use fake or stolen identities to set up and control companies. These changes will help create a more trustworthy business environment where honest companies can thrive.",
+                "tag": "p"
+            },
+            {
+                "content": "When PSCs need to complete identity verification",
+                "tag": "h2"
+            },
+            {
+                "content": "When you need to complete identity verification depends on your specific circumstances. Every PSC has a 14-day period during which they must provide their Companies House personal code and a verification statement.",
+                "tag": "p"
+            },
+            {
+                "content": "You can get your personal code by verifying your identity either through the Verify your identity for Companies House service, which uses GOV.UK One Login, or via an Authorised Corporate Service Provider (ACSP). You only need to do this once \u2013 the same personal code can then be used to link your verified identity to each role you hold.",
+                "tag": "p"
+            },
+            {
+                "content": "If you're both a PSC and a director of the same company, your 14-day period starts from the day after the company's confirmation statement date.For example, if your company\u2019s confirmation statement date is 31 March 2026, your 14-day verification period as a PSC would run from 1 April to 14 April 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "If you're a PSC but not a director of the company, you must complete identity verification within the first 14 days of your birth month. This makes sure that where a PSC is not directly involved in the running of the company, they have a clearly defined period for complying with identity verification requirements",
+                "tag": "p"
+            },
+            {
+                "content": "As an example, if your birthday is 24 February, your 14-day verification period as a PSC would run from 1 February to 14 February 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re a new PSC, you can provide your personal code when you\u2019re first added to the register, or within 14 days of the date on the direction letter sent to you shortly after you\u2019re added.",
+                "tag": "p"
+            },
+            {
+                "content": "You can check your specific due dates on the Companies House register.",
+                "tag": "p"
+            },
+            {
+                "content": "How to provide your personal code to Companies House",
+                "tag": "h2"
+            },
+            {
+                "content": "Once you\u2019ve verified your identity and received your personal code, you can use the Provide identity verification details for a PSC service to link your personal code to the PSC roles you hold.",
+                "tag": "p"
+            },
+            {
+                "content": "After you\u2019ve signed in, you\u2019ll be asked for the company number. The service will then list the company\u2019s PSCs, where you can find your name and provide your personal code.",
+                "tag": "p"
+            },
+            {
+                "content": "You\u2019ll only be able to provide the personal code once your 14-day period has started.",
+                "tag": "p"
+            },
+            {
+                "content": "Alternatively, you can share your personal code with the company or an ACSP who can provide it for you during your 14-day period.",
+                "tag": "p"
+            },
+            {
+                "content": "Data mismatches",
+                "tag": "h2"
+            },
+            {
+                "content": "The \u2018Provide identity verification details for a PSC\u2019 service will check the details used to verify your identity and match them to the details Companies House holds.",
+                "tag": "p"
+            },
+            {
+                "content": "If the details do not match, you will not be able to connect your verified identity to our records. This might be because your date of birth is incorrect on our records or if you verified your identity with an ACSP, they may have provided incorrect details for you.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out what you should do if the personal details linked to your code do not match our records.",
+                "tag": "p"
+            },
+            {
+                "content": "Important things to remember",
+                "tag": "h2"
+            },
+            {
+                "content": "Before you verify, make sure the personal details held by Companies House (such as your date of birth) match the details on your identity documents. If they do not match, you\u2019ll need to update your details before you link your verified identity to your PSC role.",
+                "tag": "p"
+            },
+            {
+                "content": "If you cannot provide your verification details on time, you can request a 14-day extension before your deadline passes using the online service.",
+                "tag": "p"
+            },
+            {
+                "content": "If you do not comply with identity verification requirements as a PSC, you may be committing an offence and have to pay a financial penalty or fine. In the future, we may also display a note against your name on the public register.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://companieshouse.blog.gov.uk/2026/01/16/understanding-identity-verification-for-people-with-significant-control-pscs/",
+        "blog": "Companies House",
+        "blog_link": "https://companieshouse.blog.gov.uk",
+        "description": "Companies House has introduced new identity verification requirements for people with significant control (PSCs). Find out why, how and when you need to verify if you're a PSC."
+    },
+    {
+        "title": "Speculation on local elections",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-01-16T08:54:05",
+        "categories": [
+            "Elections",
+            "Local government"
+        ],
+        "content": [
+            {
+                "content": "There has been continued speculation in the media about the potential number of areas that may have their local elections postponed this May.",
+                "tag": "p"
+            },
+            {
+                "content": "To be clear: no decisions have been taken. Councils had until 23:59 tonight (15 January) to submit their representations, and ministers will now assess the evidence before making any decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "The position remains that all elections should go ahead unless there is strong, evidence-based justification for a temporary delay. The vast majority of local elections in May 2026 are not affected by local government reorganisation and will proceed as planned.",
+                "tag": "p"
+            },
+            {
+                "content": "Where councils are undergoing reorganisation, we invited local leaders to tell us whether a delay would free up capacity to deliver these essential reforms. If they said yes, we are listening carefully. If they say no, there will be no delay. This approach respects local judgment rather than imposing decisions from Whitehall.",
+                "tag": "p"
+            },
+            {
+                "content": "There is clear precedent for this. Previous governments postponed local elections during reorganisation, including in Cumbria, Somerset and North Yorkshire between 2019 and 2021.",
+                "tag": "p"
+            },
+            {
+                "content": "Running elections for councils that are about to be abolished risks diverting scarce resources \u2014 staff, money and time \u2014 away from frontline services and the work needed to create stronger, more accountable local government. Councils themselves, across all political stripes, have raised concerns that holding these elections would derail reorganisation and delay improvements residents have waited years for.",
+                "tag": "p"
+            },
+            {
+                "content": "Reorganisation will cut the number of councillors, and bring critical services like housing, planning and roads under one roof to speed up decision making in key areas like housebuilding.",
+                "tag": "p"
+            },
+            {
+                "content": "As a result, residents will receive better, more efficient public services, freeing up cash to be invested in local priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "Any decisions will be announced to Parliament in the usual way.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/01/16/speculation-on-local-elections/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been continued speculation in the media about the potential number of areas that may have their local elections postponed this May. To be clear: no decisions have been taken. Councils had until 23:59 tonight (15 January) to submit \u2026"
+    },
+    {
         "title": "Governance lessons from the UK-US PETs Pilot\u00a0for cancer research",
         "authors": [
             "John Smith, Senior Technology Advisor, GDS"
