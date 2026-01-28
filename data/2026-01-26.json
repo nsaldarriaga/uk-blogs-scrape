@@ -1,5 +1,770 @@
 [
     {
+        "title": "Coverage of leasehold announcement",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-01-28T15:42:57",
+        "categories": [
+            "Housing"
+        ],
+        "content": [
+            {
+                "content": "There has been significant and widespread media coverage of a major shake-up of the outdated leasehold system, announced by the government yesterday.",
+                "tag": "p"
+            },
+            {
+                "content": "Over 5 million leaseholders and future homeowners will benefit from stronger control, powers and protections, through the draft Commonhold and Leasehold Reform Bill, which will fundamentally rewire homeownership across England and Wales.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of the reforms, ground rents are set to be capped at \u00a3250 a year, reducing to a peppercorn after 40 years, while new leasehold flats will be banned.",
+                "tag": "p"
+            },
+            {
+                "content": "The announcement has received widespread national press coverage, with online pieces in The Times, GB News, Metro, Guardian and Bloomberg\u00a0published directly in the aftermath of the morning announcement.",
+                "tag": "p"
+            },
+            {
+                "content": "The Housing Secretary Steve Reed also highlighted the positive effects the bill will have on leaseholders \u2013 helping millions of people save money and give them more control over their home, on yesterday\u2019s the morning broadcast round. He spoke to Times Radio, Sky News, ITN, BBC Breakfast, GB News\u00a0and ITV\u2019s Good Morning Britain. While later in the day the Housing Minister Matthew Pennycook spoke to Radio 4\u2019s PM programme about the reforms.",
+                "tag": "p"
+            },
+            {
+                "content": "There has been further coverage in today\u2019s papers in The Financial Times, Guardian, The Sun, The Mirror and The I, while the announcement is continuing to get pick up and analysis online including social media explainers from Sky News and The I\u2019s Vicky Spratt.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/01/28/coverage-of-leasehold-announcement/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been significant and widespread media coverage of a major shake-up of the outdated leasehold system, announced by the government yesterday. Over 5 million leaseholders and future homeowners will benefit from stronger control, powers and protections, through the draft \u2026"
+    },
+    {
+        "title": "Towards a comprehensive National Underground Asset Register, integrated into the existing ecosystem\u00a0",
+        "authors": [
+            "Mehul Doshi, Head of Strategy - National Underground Asset Register"
+        ],
+        "posted_on": "2026-01-28T15:08:38",
+        "categories": [
+            "Data",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "The goal of the National Underground Asset Register (NUAR)\u00a0is\u00a0to make\u00a0street works safer and more efficient\u00a0by bringing together underground asset data in a standard form, securely accessible in one place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Informed by\u00a0extensive consultation, we are designing regulations that ensure that the data in the register is\u00a0consistent and\u00a0comprehensive.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re\u00a0also ensuring that the register is ready for integration into existing processes designed to support safety, and working on proposals to ensure that anyone who needs access to the data to support safe working can do so, subject to\u00a0strict\u00a0access and\u00a0security controls.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Listening to the views of the sector\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Last year,\u00a0we asked for public feedback on the first set of\u00a0proposals\u00a0to put parts of the Data (Use and Access) Act 2025 into action for NUAR. These new\u00a0proposals will update current requirements and add new ones for asset owners,\u00a0making sure they keep records of\u00a0important information\u00a0about their underground apparatus\u00a0in a consistent way.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We received 103 responses from a broad range of groups, including councils,\u00a0devolved\u00a0governments, utilities, contractors, trade bodies, and professionals. GDS would like to thank everyone who contributed.\u00a0We have analysed the responses and are working to\u00a0make\u00a0\u00a0sure that\u00a0our regulations align with\u00a0the input received.\u00a0We will issue a response to the consultation\u00a0once our regulations are finalised so we can provide clarity around\u00a0the final\u00a0legislative frameworks.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A comprehensive register\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The regulations will require undertakers to\u00a0enter specified information about their apparatus into\u00a0NUAR and\u00a0keep this up to date as it changes.\u00a0This will\u00a0ensure\u00a0a\u00a0comprehensive\u00a0and\u00a0current\u00a0record\u00a0of\u00a0information about these apparatuses\u00a0to support\u00a0street works in England, Wales, and Northern Ireland.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ordnance Survey, the service operator\u00a0for NUAR, will continue to support asset owners to bring their data onto the service and adopt NUAR into their working practices.\u00a0Recently,\u00a0Openreach, the UK\u2019s largest broadband network provider, joined NUAR\u00a0meaning that\u00a0over\u00a080% of known underground assets\u00a0are\u00a0now\u00a0mapped\u00a0in\u00a0the\u00a0service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Integrating with the ecosystem\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We recognise the importance of existing safe digging processes and practices and the\u00a0expertise\u00a0that exists across the sector to support them. Access to\u00a0accurate\u00a0and up to date information is only one aspect of safe digging. Effective communication between the parties planning and carrying out works is vital. The owners and operators of assets hold the definitive view of the risks posed by works in the vicinity of those assets.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Asset owners can already provide detailed guidance and targeted instructions to users of NUAR,\u00a0but one area\u00a0where we\u00a0are\u00a0strengthening\u00a0integration\u00a0is through\u00a0Notification of Works. This will notify\u00a0an\u00a0asset\u00a0owner, or a\u00a0third-party\u00a0service provider\u00a0nominated to act\u00a0on\u00a0their\u00a0behalf, when an\u00a0enquiry\u00a0is\u00a0made\u00a0near\u00a0their\u00a0assets. This will\u00a0enable\u00a0asset\u00a0owners\u00a0to carry out risk assessments and\u00a0provide\u00a0targeted\u00a0guidance on safe working practices where\u00a0needed\u00a0and\u00a0ensures that those existing processes are still\u00a0followed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This approach, based on\u00a0collaboration\u00a0and open standards,\u00a0will support sustainable integration into a broad and diverse ecosystem\u00a0made up of many asset owners,\u00a0stakeholders\u00a0and service providers, providing flexibility\u00a0and room for growth and improvement. Please read this blog by Ordnance Survey if you would like to understand more about the Notifcation of Works roll out plan.",
+                "tag": "p"
+            },
+            {
+                "content": "Added flexibility and scope for innovation\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As well as that targeted integration\u00a0with\u00a0the safe dig ecosystem,\u00a0we\u2019re\u00a0also\u00a0exploring options\u00a0for even more flexible and widespread integration\u00a0of NUAR data\u00a0by\u00a0developing secure\u00a0Application Programming Interfaces (APIs)\u00a0to\u00a0allow different\u00a0systems\u00a0to share information automatically.\u00a0This will\u00a0encourage\u00a0flexibility,\u00a0innovation and\u00a0support\u00a0the development of value-added services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Security\u00a0remains\u00a0of paramount importance in the development of APIs of course, and the secure-by-design approach that has been applied to the NUAR service to date continues in this space.\u00a0The same strict security controls that apply to access to and usage of the NUAR platform\u00a0will be\u00a0applied to\u00a0any future\u00a0usage of APIs.\u00a0We\u2019ve\u00a0also done a lot of work\u00a0on\u00a0how we could provide\u00a0different levels\u00a0of detail\u00a0via different APIs\u00a0in the future.\u00a0Not all users and use cases require a full level of detail of course. In\u00a0fact,\u00a0too much detail can be confusing and distracting\u00a0in some cases, and we always\u00a0seek\u00a0to provide exactly the right amount of information\u00a0for a given purpose.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0secure\u00a0sandbox environment for testing access will be created\u00a0using synthetic data, allowing\u00a0authorised\u00a0asset owners,\u00a0public sector bodies, service\u00a0providers\u00a0and innovators\u00a0to experiment\u00a0with APIs in a safe environment\u00a0and\u00a0to\u00a0provide feedback\u00a0for their further development and future\u00a0deployment.\u00a0We\u2019re\u00a0excited to\u00a0test\u00a0use cases\u00a0established\u00a0through the Discovery project\u00a0and\u00a0see further\u00a0innovations the market can\u00a0come up with.\u00a0Insights from the consultation and sandbox testing will inform\u00a0subsequent\u00a0regulations and service iterations.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Expanding\u00a0access\u00a0to NUAR\u00a0to deliver\u00a0benefit\u00a0for everyone\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We are dedicated to working collaboratively with the underground asset sector to ensure that\u00a0NUAR continues to meet industry needs. Engagement with stakeholders has\u00a0highlighted\u00a0that secure, broadened access to NUAR will\u00a0deliver substantial economic, safety, and operational advantages.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u00a0has the potential\u00a0to\u00a0generate\u00a0\u00a328\u00a0million\u00a0of benefits\u00a0annually by reducing accidental asset strikes and improving efficiency for asset owners and data consumers. Wider access will enhance public safety, support emergency response, and empower communities with better information for land use and development.\u00a0NUAR\u00a0further streamlines\u00a0data sharing,\u00a0eliminates\u00a0the need for multiple systems, and fosters\u00a0innovation through new tools and services enabled by APIs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our plans for the next two years include extending NUAR access to new user groups and for\u00a0additional\u00a0use cases.\u00a0This will be done in a\u00a0phased\u00a0manner, prioritising the areas of greatest benefit to safe excavation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A public consultation on proposals is planned for spring 2026, with secondary legislation\u00a0required\u00a0to enable\u00a0expansion\u00a0of access.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The proposed expansions\u00a0may\u00a0include\u00a0allowing access to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Any extension of access will be developed in close cooperation with security stakeholders to ensure robust safeguards are in place.\u00a0Ordnance Survey\u00a0will lead the design\u00a0and development of enhanced services and functionality to accommodate diverse user needs while\u00a0maintaining\u00a0strong security standards.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Regulations\u00a0for extending access\u00a0are proposed to\u00a0be fully\u00a0implemented\u00a0by April\u00a02028, ensuring all enhancements are\u00a0established\u00a0before\u00a0asset owners are directly\u00a0charged for the operation of NUAR.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our\u00a0initial\u00a0priorities for expansion are:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will aim to implement the proposed interventions as soon as\u00a0feasible\u00a0to maximise the value NUAR delivers across the street works community and beyond. In doing so we are committed to\u00a0maintaining\u00a0high standards\u00a0of data security and quality.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Comprehensive; Integrated; Flexible; Purposeful\u00a0\u2013 and Secure\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "To summarise, we have set out\u00a0plans for\u00a0the\u00a0next steps\u00a0and future direction\u00a0of\u00a0NUAR as a statutory register, as always driven by consultation and collaboration.\u00a0These include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our plans will allow\u00a0NUAR\u00a0to\u00a0more effectively integrate into the wider landscape and\u00a0create the potential for an ecosystem of innovative services to develop around NUAR,\u00a0while\u00a0maintaining\u00a0a security-first approach.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Please reach out to geospatial@dsit.gov.uk\u00a0\u00a0if you have any comments on this blog or the items it covers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can also\u202fsign up\u202fto get an email notification every time we publish a new blog post. More information about NUAR can be found on\u00a0gov.uk\u00a0or follow us on\u00a0LinkedIn.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gdsgeospatial.blog.gov.uk/2026/01/28/towards-a-comprehensive-national-underground-asset-register-integrated-into-the-existing-ecosystem/",
+        "blog": "Geospatial Insights",
+        "blog_link": "https://gdsgeospatial.blog.gov.uk",
+        "description": "The goal of the National Underground Asset Register (NUAR)\u00a0is\u00a0to make\u00a0street works safer and more efficient\u00a0by bringing together underground asset data in a standard form, securely accessible in one place.\u00a0 Informed by\u00a0extensive consultation, we are designing regulations that ensure that the \u2026"
+    },
+    {
+        "title": "A look back at DVLA and Amazon Web Services (AWS)\u2019s knowledge-sharing event",
+        "authors": [
+            "Simon Cromwell"
+        ],
+        "posted_on": "2026-01-28T15:04:09",
+        "categories": [
+            "Features"
+        ],
+        "content": [
+            {
+                "content": "At DVLA, we\u2019re always looking for ways to improve our digital services. We recently brought together Welsh Local Government and public sector colleagues to share how Amazon Web Services (AWS) is supporting our digital transformation.",
+                "tag": "p"
+            },
+            {
+                "content": "We also talked about investing in people through digital skills training and career development. It was a great opportunity to share what we\u2019ve learnt over the years with others who have the same mission: delivering better and faster public services.",
+                "tag": "p"
+            },
+            {
+                "content": "I was proud to speak at an event full of insightful discussions and practical takeaways. In this blog, I\u2019ll share some of what we learnt during the day - the positive impact of cloud technology, the importance of giving back to the community, and how to develop digital talent.",
+                "tag": "p"
+            },
+            {
+                "content": "It kicked off with Tom Brewer, Head of DVLA\u2019s IT Service Creation, who took us back to 2015.",
+                "tag": "p"
+            },
+            {
+                "content": "Taking control: how cloud technology transformed our IT services",
+                "tag": "h2"
+            },
+            {
+                "content": "Tom shared a turning point from 2015, when DVLA reduced our need to hire outside IT companies by developing our own digital skills and capabilities. Alongside our legacy platforms and other serverless systems, we've used the AWS cloud platform to deliver digital public services quicker and more efficiently ourselves.",
+                "tag": "p"
+            },
+            {
+                "content": "Today, our platform handles 5 billion online interactions a year - things like renewing a driving licence or answering automated enquiries. Shared standards and automation mean less hands-on work, faster results, and simple tools for everyone to use.",
+                "tag": "p"
+            },
+            {
+                "content": "The impact? Tasks that once took months now take minutes, and we produce more than 500,000 software builds every year.",
+                "tag": "p"
+            },
+            {
+                "content": "It was fantastic to see attendees consider how these solutions can be adapted to speed up and simplify services across the public sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Investing in people and giving back to our communities",
+                "tag": "h2"
+            },
+            {
+                "content": "Next, I shared how we\u2019re developing our people and giving back to our community through outreach activities.",
+                "tag": "p"
+            },
+            {
+                "content": "I spoke through examples like our volunteer-led Science, Technology, Engineering and Maths (STEM) programme, which inspires young people to build their digital skills. Another great example is our Digital Voices advocacy group, which promotes digital development and career opportunities for colleagues of all backgrounds.",
+                "tag": "p"
+            },
+            {
+                "content": "My presentation also mentioned our support of the Digital Inclusion Scheme and the UK government\u2019s \u2018IT Reuse for Good\u2019 charter. Through this, we\u2019ve donated more than 1,600 laptops to schools and charities across Wales, enabling young people to have access to the technology they need to succeed.",
+                "tag": "p"
+            },
+            {
+                "content": "These initiatives sparked excellent discussions on how building a strong employer reputation, with the backing of senior leaders, can help to support local communities and attract the next generation of talent to the public sector.",
+                "tag": "p"
+            },
+            {
+                "content": "This led us on nicely to the final talk, where our Capability and Talent Lead, Craig James, shared how we\u2019re helping to develop our people through our Centre of Digital Excellence (CoDE) development programme.",
+                "tag": "p"
+            },
+            {
+                "content": "CoDE offers 18 schemes and has helped more than 200 people start their digital careers, regardless of whether they have a background in technology. People often arrive from other professions bringing transferable skills that work brilliantly in technical roles. In some of our teams, half the staff are CoDE graduates!",
+                "tag": "p"
+            },
+            {
+                "content": "So, what did our attendees gain from this discussion? Investing in people is just as important as investing in technology, and if they help their own teams grow, they can bring success to their organisations.",
+                "tag": "p"
+            },
+            {
+                "content": "Working together for better public services",
+                "tag": "h2"
+            },
+            {
+                "content": "What truly made the day special were the conversations we shared with attendees. Every organisation has unique circumstances, but a lot of common themes came up - embracing new technology, balancing competing priorities, and the ongoing mission to attract and develop digital talent.",
+                "tag": "p"
+            },
+            {
+                "content": "Our experience has taught us that success doesn't happen overnight - it takes persistent effort, meaningful investment in people, and the courage to embrace change.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019d like to thank AWS for organising this event with us, and everyone who attended. Seeing everyone sharing their knowledge, experiences and ideas reminded us why events like this are so powerful!",
+                "tag": "p"
+            },
+            {
+                "content": "Interested in joining us on our digital journey? Learn more about DVLA\u2019s digital professions and read our collection of digital blogs.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidedvla.blog.gov.uk/2026/01/28/a-look-back-at-dvla-and-amazon-web-services-awss-knowledge-sharing-event/",
+        "blog": "Inside DVLA",
+        "blog_link": "https://insidedvla.blog.gov.uk",
+        "description": "Simon Cromwell, ITS Strategy and Communication Lead, reflects on our recent event with Welsh Local Government and public sector colleagues. From cloud technology to developing digital careers, we explored what we've learnt and why investing in people is just as important as investing in technology."
+    },
+    {
+        "title": "How people used GOV.UK in 2025",
+        "authors": [
+            "Paul Cronk, Senior Performance Analyst, GOV.UK"
+        ],
+        "posted_on": "2026-01-28T12:28:19",
+        "categories": [
+            "Content",
+            "Data",
+            "User insights"
+        ],
+        "content": [
+            {
+                "content": "GOV.UK had a milestone year in 2025 as the shift to a multi-channel experience of interacting with government, that meets users where they are, gathered real momentum. Last year saw the public beta launch of the GOV.UK app, the development of the official GOV.UK social media channels, and the continued improvement and iteration of the GOV.UK website.",
+                "tag": "p"
+            },
+            {
+                "content": "But what were users looking at and doing across GOV.UK throughout the last 12 months?",
+                "tag": "p"
+            },
+            {
+                "content": "Using tools such as Google Analytics, data from the GOV.UK website search engine, and social media insights, teams in the Government Digital Service (GDS) can identify notable trends. This data helps us to understand how we can develop GOV.UK to ensure it continues to meet people\u2019s needs and work well for everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog post we\u2019ll share insights about how people used GOV.UK\u2019s channels during 2025 \u2013 from finding out about a digital permission to travel to the UK on the website, and engaging with social media posts raising awareness of the second national test of the Emergency Alerts service, to tailoring their experience on the homepage of the GOV.UK app.",
+                "tag": "p"
+            },
+            {
+                "content": "What we saw on the GOV.UK website",
+                "tag": "h2"
+            },
+            {
+                "content": "Millions of visits in 2025, with mobile at the forefront",
+                "tag": "h3"
+            },
+            {
+                "content": "Overall in 2025, the GOV.UK website had 1 billion visits and 2.3 billion page views, with an average of 85 million visits every month. We collect this data only from users who consent to Google Analytics cookies \u2013 meaning full numbers are likely to be higher than this.",
+                "tag": "p"
+            },
+            {
+                "content": "By December 2025, more than half of monthly visits were on mobile at 61% (622 million), followed by desktop at 38% (388 million) and tablet at 1% (12 million). A very small number of users access the website with smart TVs and game consoles. The proportion of visits made via mobiles has increased hugely since GOV.UK was released in 2012, when 13% of visits came this way.",
+                "tag": "p"
+            },
+            {
+                "content": "External search engines, such as Google and Bing, remain the biggest source of traffic to the GOV.UK website, with around two-thirds of visits originating in this way. The GOV.UK website has however seen a noticeable increase in traffic from AI websites such as Claude.ai, ChatGPT.com, Perplexity.ai and Gemini.google.com. ChatGPT.com is the most common referrer of these sites.",
+                "tag": "p"
+            },
+            {
+                "content": "GOV.UK website pages with the highest-rising traffic in 2025 included information about the electronic travel authorisation (ETA), a digital permission to travel to the UK which continued to be rolled out during the year. Visits to Get an ETA to visit the UK reached more than 9.8 million. There were also peaks in traffic to pages, and in related searches, on a range of political announcements, news stories and events. The Budget took place on 26 November 2025. There were 190,000 visits across 5 key Budget pages from 22 to 30 November, making it the third busiest Budget since 2020 on the GOV.UK website.",
+                "tag": "p"
+            },
+            {
+                "content": "International incidents and weather events",
+                "tag": "h3"
+            },
+            {
+                "content": "Every year sees peaks in activity on the GOV.UK website\u2019s travel advice pages, as people seek essential guidance relating to overseas conflicts, natural disasters and health warnings.",
+                "tag": "p"
+            },
+            {
+                "content": "In 2025, tensions between India and Pakistan in early May saw weekly visits to the nations\u2019 travel advice pages rise from 1,500 to 54,000 (India) and 1,000 to 24,000 (Pakistan). In October, weekly visits to Jamaica\u2019s travel advice increased from 600 to 22,000 when the island was impacted by Hurricane Melissa, while in October and November, weekly visits to Tanzania\u2019s travel advice rose from 900 to 22,000, coinciding with post-election unrest in the country.",
+                "tag": "p"
+            },
+            {
+                "content": "Weather events in the UK bring users to the GOV.UK website too. Storm \u00c9owyn, in January 2025, was the UK\u2019s most powerful windstorm for over a decade, according to the Met Office, with a red weather warning issued including all of Northern Ireland and Scotland\u2019s Central Belt. We saw website traffic on search terms that contained the word \u201cstorm eowyn\u201d, which took users to a press release that received 2,000 visits and saw a 19% click-through rate.",
+                "tag": "p"
+            },
+            {
+                "content": "A strong start for the GOV.UK app",
+                "tag": "h2"
+            },
+            {
+                "content": "The first version of the GOV.UK app was released by GDS in July 2025, starting with features that enable people to have a more customised and persistent GOV.UK experience, ahead of introducing new tools and functionality. By the end of December 2025, there had been 316,000 downloads of the app, more than double the number of downloads seen by early October.",
+                "tag": "p"
+            },
+            {
+                "content": "The ability to customise the GOV.UK app is proving popular \u2013 85% of users have done this, through choosing favourite topics or adding their local authority to their homepage.",
+                "tag": "p"
+            },
+            {
+                "content": "Benefits, Driving and transport and Money and tax were the most popular topics users engaged with from July to the end of December, though not always in the same order, while Universal Credit and apprenticeships were among the most searched-for terms in the app.",
+                "tag": "p"
+            },
+            {
+                "content": "Return users are increasing with time, showing that the app is already a valuable route for accessing government services and information more quickly. They accounted for 46% of all app users by the end of December, with more of them taking advantage of navigation shortcuts, like Pages You\u2019ve Viewed and Previous Searches (36%). Growth also continues among new users, some of which was driven by the introduction of activity promoting the app on the GOV.UK website in October, including a prominent link on the website\u2019s homepage.",
+                "tag": "p"
+            },
+            {
+                "content": "GOV.UK\u2019s most\u2011viewed social media posts",
+                "tag": "h2"
+            },
+            {
+                "content": "GOV.UK now reaches people across 5 official social media channels \u2013 Instagram, Facebook, Threads, X and YouTube \u2013 sharing timely, trustworthy information and guidance. These channels provide an entry point to GOV.UK in places central to users\u2019 digital lives, and are a vital part of our role in delivering a multi-channel experience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The numbers from 2025 show just how widely that content travelled. Instagram posts were viewed 2.4 million times, with the GCSE results day grading conversion table leading the way at 360,000 views.",
+                "tag": "p"
+            },
+            {
+                "content": "Facebook saw an impressive 9 million views overall, driven by the Emergency Alerts test reminder, which alone was viewed 1.9 million times. Threads generated more than 3 million views, with the year\u2019s bank holidays post topping the list at 461,000 views.",
+                "tag": "p"
+            },
+            {
+                "content": "On X, GOV.UK content reached 19.8 million views, and its most-seen post \u2013 changes to the National Living Wage \u2013 attracted 2.3 million views. YouTube added a further 179,900 views, with the Emergency Alerts System test video drawing in 27,700 of them.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidegovuk.blog.gov.uk/2026/01/28/how-people-used-gov-uk-in-2025/",
+        "blog": "Inside GOV.UK",
+        "blog_link": "https://insidegovuk.blog.gov.uk",
+        "description": "User insights help us to understand how we can develop GOV.UK to ensure it continues to meet people\u2019s needs and work well for everyone. Learn about some of 2025\u2019s main findings across the GOV.UK website, app and social media channels."
+    },
+    {
+        "title": "AI Skills Boost: Skills England\u2019s AI foundation skills for work benchmark supports\u00a0free AI training for all,\u00a0by Phil Smith\u202f\u00a0",
+        "authors": [
+            "Skills England Communications"
+        ],
+        "posted_on": "2026-01-28T12:20:07",
+        "categories": [
+            "artificial intelligence",
+            "News and announcements",
+            "skills england tools"
+        ],
+        "content": [
+            {
+                "content": "Emerging technologies such as artificial intelligence (AI) are\u00a0changing the way we work. \u00a0In\u00a0order to\u202fbenefit\u202ffrom the opportunities AI presents,\u202fboost \u00a0economic\u00a0growth\u00a0and career success,\u00a0it\u2019s\u00a0essential that\u00a0people\u00a0have the right skills\u00a0and are confident in using them.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge",
+                "tag": "h2"
+            },
+            {
+                "content": "Too many people in the UK lack digital and AI skills for work. This is holding us back from capitalising on AI's potential to add \u00a3400 billion to the economy by 2030. ",
+                "tag": "p"
+            },
+            {
+                "content": "Government commitment",
+                "tag": "h2"
+            },
+            {
+                "content": "The government\u00a0has set an ambitious target to upskill\u00a010 million\u00a0UK workers by 2030\u00a0to ensure the workforce is adequately skilled\u00a0and\u00a0ready to grasp the full opportunities of AI.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s\u00a0why\u00a0the Department for Innovation, Science and Technology (DSIT) has today\u202funveiled the\u202f\u2018AI Skills Boost\u2019 programme. This is a package of\u00a0free,\u00a0industry-developed short courses which\u00a0are available to everyone in the UK online.",
+                "tag": "p"
+            },
+            {
+                "content": "Major tech companies\u00a0which\u00a0have developed the courses include Accenture, Google,\u202fIBM\u202fand Microsoft.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Action taken by Skills England",
+                "tag": "h2"
+            },
+            {
+                "content": "The courses chosen for the AI Skills Boost programme were assessed against Skills England\u2019s\u202fnew\u00a0AI foundation skills for work benchmark.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This\u202fsets out\u00a0the\u00a0skills\u202fneeded to use simple AI tools confidently and responsibly\u202fat work, which include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our benchmark\u202fwas developed with industry experts,\u00a0building from an AI Skills Framework tool developed\u202ffor our\u202frecent\u00a0'AI skills for the UK workforce' report.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Everybody who completes\u202fa\u202fcourse\u202fwhich\u202fmeets\u202fthe benchmark, will receive a\u202fvirtual\u202fbadge via the AI\u202fSkills Boost\u202fprogramme\u202fconfirming they have learned all the AI foundation skills.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The badge can be used\u00a0on social media and in CVs when applying for jobs.\u202fIt\u2019s\u202fa simple idea that will make\u202fa huge difference.",
+                "tag": "p"
+            },
+            {
+                "content": "Our research on AI training needs",
+                "tag": "h2"
+            },
+            {
+                "content": "Published in October 2025, in partnership with\u202fDr Nisreen Ameen, of Royal Holloway, University of London,\u202four\u202f\u202f\u2018AI\u202fskills for the UK workforce\u2019\u202freport\u00a0uncovered\u202fchallenges with AI\u00a0upskilling\u00a0including\u00a0poor employer understanding, particularly among small and medium sized enterprises (SMEs), of what is meant by AI\u202fskills and what their staff need to learn.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Skills England\u2019s new\u202fAI foundation skills for work\u202fbenchmark provides that much needed\u202fclarity on\u202fskills\u202fneeded\u202fto\u202freap the benefits of using\u202fAI tools.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It has\u202ftaken inspiration\u202ffrom\u202f3\u202ffree\u00a0tools\u202fwithin the \u2018AI Skills for the UK Workforce\u2019 report.\u202fThey are:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These tools can help employers, educators, and policymakers to assess AI skills, plan training, and support responsible adoption of AI across all sectors.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "AI technology is developing\u202fat\u202fa phenomenal\u202fpace.\u00a0\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m\u202freally\u202fpleased to say that Skills England and the\u00a0government\u202fare\u202fmoving fast\u202fto make sure businesses and workers\u202fhave access to quality training that will help them\u202ffully capitalise\u202fon\u202fthe opportunities presented by AI.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The \u2018AI Skills Boost\u2019 programme,\u202fwhich we have been proud to support DSIT in developing,\u202fis the first\u202fof a series of new\u202fproducts\u202fin this space. We will be keeping you updated\u202fabout the brilliant new developments\u202fwith apprenticeships, all developed with employers,\u202fnext month.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Roll on\u00a0National Apprenticeship Week\u202f2026,\u202fand\u202fwatch this space!\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Phil Smith CBE",
+                "tag": "p"
+            },
+            {
+                "content": "Chair, Skills England",
+                "tag": "p"
+            }
+        ],
+        "link": "https://skillsengland.blog.gov.uk/2026/01/28/ai-skills-boost-skills-englands-ai-foundation-skills-for-work-benchmark-supports-free-ai-training-for-all-by-phil-smith/",
+        "blog": "Skills England",
+        "blog_link": "https://skillsengland.blog.gov.uk",
+        "description": "Emerging technologies such as artificial intelligence (AI) are\u00a0changing the way we work. \u00a0In\u00a0order to\u202fbenefit\u202ffrom the opportunities AI presents,\u202fboost \u00a0economic\u00a0growth\u00a0and career success,\u00a0it\u2019s\u00a0essential that\u00a0people\u00a0have the right skills\u00a0and are confident in using them.\u00a0\u00a0 The challenge Too many people in the UK lack digital \u2026"
+    },
+    {
+        "title": "OFSI and partners clamp down on the abuse of cryptoassets",
+        "authors": [
+            "OFSI"
+        ],
+        "posted_on": "2026-01-28T11:59:31",
+        "categories": [
+            "OFSI Blog"
+        ],
+        "content": [
+            {
+                "content": "Sanctions enablers are increasingly turning to cryptoassets to move and hide illicit funds, including those linked to sanctions evasion. But every transaction leaves a trace. By working together, UK agencies are following those traces to identify, investigate and disrupt criminal activity.",
+                "tag": "p"
+            },
+            {
+                "content": "The Office of Financial Sanctions Implementation (OFSI) is working closely with UK law enforcement and regulatory partners to tackle the abuse of cryptoassets and associated money laundering activities.",
+                "tag": "p"
+            },
+            {
+                "content": "Recently, OFSI joined forces with the Crypto Cash Fusion Cell (CCFC) to target criminal funds linked to sanctions offences. The CCFC is a pilot, multiagency initiative that brings together the National Crime Agency, the Metropolitan Police Service, His Majesty\u2019s Revenue and Customs, the Financial Conduct Authority, City of London Police and OFSI. The aim is to improve how the UK enforcement and regulatory community identifies, understands and responds to criminal abuse of cryptoassets.",
+                "tag": "p"
+            },
+            {
+                "content": "OFSI shared detailed intelligence with the CCFC to enable joint working against specific, prioritised targets. This led to action against potential breaches of financial sanctions involving cryptoassets by UK-based individuals. The collaboration, which involves law enforcement, regulators and private sector partners such as blockchain analytics provider Elliptic, is enhancing our understanding of the threat and supporting joint learning across partners. During a short, focussed, analytical operation, UK law enforcement, government agencies and the private sector worked side-by-side sharing intelligence in real time and rapidly turning data into operational outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "The message for the sector is clear: the use of cryptoassets to evade sanctions is treated no differently to the exploitation of traditional currencies. OFSI stands ready to investigate and pursue sanctions offences involving cryptoassets, alongside partners from across government, law enforcement and industry, as our intelligence continues to be developed. OFSI\u2019s collaboration with the CCFC marks an important step forward on working operationally against the abuse of cryptoassets.",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more about OFSI\u2019s work on clamping down on the abuse of cryptoassets, read OFSI\u2019s Threat Assessment Report on sanctions compliance in the Cryptoassets sector",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofsi.blog.gov.uk/2026/01/28/ofsi-and-partners-clamp-down-on-the-abuse-of-cryptoassets/",
+        "blog": "Office of Financial Sanctions Implementation",
+        "blog_link": "https://ofsi.blog.gov.uk",
+        "description": "Sanctions enablers are increasingly turning to cryptoassets to move and hide illicit funds, including those linked to sanctions evasion. But every transaction leaves a trace. By working together, UK agencies are following those traces to identify, investigate and disrupt criminal \u2026"
+    },
+    {
+        "title": "Time to Adapt: Helping Coastal Communities Prepare for a Changing Coast",
+        "authors": [
+            "Julie Foley, Director of Flood Risk Strategy & National Adaptation at the Environment Agency"
+        ],
+        "posted_on": "2026-01-28T11:12:07",
+        "categories": [
+            "Environment Agency"
+        ],
+        "content": [
+            {
+                "content": "From seaside towns to quiet rural stretches, England\u2019s coastline is one of the country\u2019s most valued assets. It is home to thriving communities, beautiful landscapes and vital infrastructure that we all rely on. But the coast is also one of the places where the impacts of climate change are being felt most clearly.",
+                "tag": "p"
+            },
+            {
+                "content": "Coastlines naturally change over time, but rising sea levels and more frequent storms are accelerating erosion and putting increasing numbers of people at risk. For some communities, these pressures are not a distant concern \u2014 they are being experienced right now.",
+                "tag": "p"
+            },
+            {
+                "content": "The National Coastal Erosion Risk Map developed by the Environment Agency shows that around 3,500 homes could be at risk of erosion by 2055, even with today\u2019s coastal defences in place. Without the long-term actions set out in Shoreline Management Plans, that number could rise to 32,800.",
+                "tag": "p"
+            },
+            {
+                "content": "Even with plans implemented, by 2100, nearly 20,000 properties may still face erosion risk. Worryingly, one in six of these homes are in the country\u2019s most deprived areas, meaning the impacts of coastal change fall disproportionately on those with the fewest resources.",
+                "tag": "p"
+            },
+            {
+                "content": "That is why the Environment Agency and Defra are launching a major new initiative \u2014 the \u00a330m Coastal Adaptation Pilots \u2014 to help coastal communities plan ahead and prepare for a safer, more resilient future.",
+                "tag": "p"
+            },
+            {
+                "content": "Why we need to plan ahead",
+                "tag": "p"
+            },
+            {
+                "content": "We need to manage coastal change and not just resist it. That is why since 2022, the Environment Agency has managed the Coastal Transition Accelerator Programme (CTAP), working in partnership with communities such as East Riding of Yorkshire and North Norfolk. These projects have supported some of the most vulnerable communities to adapt and transition away from parts of the coast that cannot be defended in the long term.",
+                "tag": "p"
+            },
+            {
+                "content": "Through CTAP, projects have:",
+                "tag": "p"
+            },
+            {
+                "content": "The lessons from these projects are clear: planning early, rather than reacting in an emergency, reduces uncertainty, avoids disruption and saves money in the long run.",
+                "tag": "p"
+            },
+            {
+                "content": "The new Coastal Adaptation Pilots will build on these strong foundations, testing more advanced and innovative ideas while extending support to more communities at risk from coastal erosion.",
+                "tag": "p"
+            },
+            {
+                "content": "Introducing the \u00a330m Coastal Adaptation Pilots",
+                "tag": "p"
+            },
+            {
+                "content": "The Coastal Adaptation Pilots will run from 2026 to 2029, supported by up to \u00a330 million of government funding. The pilots will focus on three key aims: supporting the places facing the greatest erosion risk, testing practical solutions that communities can benefit from now, and building the evidence needed to shape future national policy and long-term funding.",
+                "tag": "p"
+            },
+            {
+                "content": "To do this, the funding is split into two strands, reflecting the fact that different communities are at different stages of readiness when it comes to coastal adaptation.",
+                "tag": "p"
+            },
+            {
+                "content": "Up to \u00a318 million will be invested in advanced coastal adaptation in East Riding of Yorkshire, Suffolk and Norfolk\u2014 areas that face some of the highest levels of coastal erosion risk in the country.",
+                "tag": "p"
+            },
+            {
+                "content": "These places are well placed to act quickly. They have experienced teams, strong relationships with their communities and a solid evidence base built up over many years of monitoring and evaluation. This means they can hit the ground running, delivering practical, value-for-money actions over the next three years. In some locations, this could include selective property purchase where there is both community support and a clear benefit to the public purse.",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this, up to \u00a312 million will support coastal adaptation readiness across England. This funding will be allocated through Regional Flood and Coastal Committees (RFCCs), based on the number of homes at highest risk of erosion in each area.",
+                "tag": "p"
+            },
+            {
+                "content": "This strand will help fund smaller, early-stage actions that can make a real difference on the ground. That could mean relocating or adapting community buildings and car parks, making minor changes to public infrastructure, creating temporary safe spaces for communities or nature in erosion zones, or testing new approaches such as early warning systems.",
+                "tag": "p"
+            },
+            {
+                "content": "All projects will be aligned with the strategic long term management approaches in the Shoreline Management Plans.",
+                "tag": "p"
+            },
+            {
+                "content": "The lessons from these pilots will directly inform future coastal policy, helping create sustainable long\u2011term funding models and ensuring the latest science and evidence are fully reflected in local planning.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next",
+                "tag": "p"
+            },
+            {
+                "content": "Over the coming months, the Environment Agency will work closely with East Riding of Yorkshire, East Suffolk, Great Yarmouth and North Norfolk councils and the RFCCs to refine plans and prepare for delivery from 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "By combining advanced adaptation with practical readiness actions, the Coastal Adaptation Pilots will help more communities take earlier, more confident steps towards a safer and more resilient future on our changing coast. Together, they will help coastal communities move from reacting to erosion impacts to planning ahead for a changing climate.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/01/28/time-to-adapt-helping-coastal-communities-prepare-for-a-changing-coast/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "From seaside towns to quiet rural stretches, England\u2019s coastline is one of the country\u2019s most valued assets. It is home to thriving communities, beautiful landscapes and vital infrastructure that we all rely on. But the coast is also one of the places where the impacts of climate change are being felt most clearly."
+    },
+    {
+        "title": "Improving the way Google delivers search services in the UK",
+        "authors": [
+            "Will Hayter"
+        ],
+        "posted_on": "2026-01-28T10:00:54",
+        "categories": [
+            "Digital Markets Unit"
+        ],
+        "content": [
+            {
+                "content": "The digital markets competition regime allows the CMA to design proportionate, targeted interventions to address specific issues. Our strategy is purposeful and pragmatic \u2013 rooted in real world context, leveraging the unique design of the UK regime to deliver tangible benefits for the UK economy. Throughout, the CMA is applying its \u20184Ps\u2019 - proportionality, pace, predictability and process \u2013 to ensure we avoid hampering innovation or creating uncertainty for businesses and investors.",
+                "tag": "p"
+            },
+            {
+                "content": "Today we\u2019re proposing a package of measures to improve how Google delivers search services in the UK. Our goal is to support innovation and growth, ensure people benefit from a high-quality digital experience, deliver fairer outcomes for content publishers and help businesses and consumers make active, informed choices. This is an important milestone, as these are the first set of conduct requirements under the digital markets competition regime.",
+                "tag": "p"
+            },
+            {
+                "content": "Why Google\u2019s search services matter",
+                "tag": "h2"
+            },
+            {
+                "content": "Google handles more than 90% of general search queries in the UK. Millions of people rely on it as a gateway to the internet, and over 200,000 UK firms spent more than \u00a310 billion on Google search advertising last year. Search is central to the economy and everyday life \u2013 and increasingly relies on AI-generated responses \u2013 so it is essential that competition works well.",
+                "tag": "p"
+            },
+            {
+                "content": "Our proposed measures",
+                "tag": "h2"
+            },
+            {
+                "content": "In June 2025, we set out a roadmap of potential measures. We are now consulting on the detailed design of those we have prioritised, focusing on 4 areas:",
+                "tag": "p"
+            },
+            {
+                "content": "1. Publisher content",
+                "tag": "h3"
+            },
+            {
+                "content": "We want publishers to have greater choice, transparency and attribution in how their content is used in Google\u2019s AI features, such as AI Overviews. We propose that Google should:",
+                "tag": "p"
+            },
+            {
+                "content": "These measures will give publishers \u2013 including news and other content producers \u2013 stronger bargaining power and support the long-term sustainability of trusted information online. They will also help people verify sources in AI-generated results and build trust in what they see.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Fair ranking",
+                "tag": "h3"
+            },
+            {
+                "content": "We want Google\u2019s approach to ranking search results \u2013 including AI-generated results \u2013 to be fair and transparent for businesses. Our proposals would require Google to:",
+                "tag": "p"
+            },
+            {
+                "content": "3. Choice screens",
+                "tag": "h3"
+            },
+            {
+                "content": "We want it to be easier for people to choose and switch their search service. We propose that Google should:",
+                "tag": "p"
+            },
+            {
+                "content": "4. Data portability",
+                "tag": "h3"
+            },
+            {
+                "content": "We want people and businesses to be able to make better use of their search data.",
+                "tag": "p"
+            },
+            {
+                "content": "We propose that Google should place its existing data portability tool on a legal footing. This will ensure that people can continue to transfer search data between services or use third-party tools alongside Google\u2019s products.",
+                "tag": "p"
+            },
+            {
+                "content": "This measure will give certainty to innovative start-up and scale-up businesses so they can invest and innovate in new data-driven services. Businesses could also help people use their own search data to get discounts, rewards, useful insights, or other benefits.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "h2"
+            },
+            {
+                "content": "We are inviting views on these proposed requirements and, after reviewing responses, will confirm any measures to be imposed on Google.",
+                "tag": "p"
+            },
+            {
+                "content": "We also continue to assess the other measures in our June 2025 roadmap. Those not identified as early priorities remain deprioritised. In relation to publishers, we will wait for 12 months to see the impact of our initial measures before deciding whether to take further action in ensuring they receive fair and reasonable terms for their content. Other potential measures relate to action in other jurisdictions, including the US (where a final remedies judgment in an important case was made in December) and the EU (where, amongst other things, Google\u2019s compliance with a requirement about self-preferencing is being investigated). We are assessing what these developments mean for the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Future decisions will be guided by the CMA\u2019s prioritisation principles and government\u2019s Strategic Steer.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2026/01/28/improving-the-way-google-delivers-search-services-in-the-uk/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "Find out more about our proposed conduct requirements relating to Google\u2019s general search and search advertising services."
+    },
+    {
         "title": "Housing Secretary rallies sector at housing and infrastructure roundtables",
         "authors": [
             "mhclgpress"
