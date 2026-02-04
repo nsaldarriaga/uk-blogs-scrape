@@ -1,5 +1,1128 @@
 [
     {
+        "title": "National Apprenticeship Week 2026: The\u00a0value of a personal\u00a0perspective\u00a0",
+        "authors": [
+            "gseprofession"
+        ],
+        "posted_on": "2026-02-04T14:00:37",
+        "categories": [
+            "Blog Series",
+            "Learning & Development"
+        ],
+        "content": [
+            {
+                "content": "Dr Beverley MacKenzie ",
+                "tag": "p"
+            },
+            {
+                "content": "As part of National Apprenticeship Week 2026, Dr Beverley MacKenzie, a lifelong advocate of apprenticeships, reflects on their unique value in combining academic study with real-world experience.",
+                "tag": "p"
+            },
+            {
+                "content": "Why apprenticeships matter",
+                "tag": "p"
+            },
+            {
+                "content": "From my experience, apprenticeships at all levels are an excellent way to gain both academic knowledge and practical work experience. This belief has been reinforced at various stages of my life.",
+                "tag": "p"
+            },
+            {
+                "content": "Starting out: my journey as a young tech",
+                "tag": "p"
+            },
+            {
+                "content": "As a young tech eager to break into the IT industry, I was fortunate to secure a graduate apprenticeship position within an Internet Service Provider (ISP). During this time, I rotated through various teams within the ISP environment-working on cabling, supporting the Network Operations Centre, and even building bespoke hardware.",
+                "tag": "p"
+            },
+            {
+                "content": "The combination of hands-on experience and academic learning gave me a comprehensive, 360-degree understanding of the industry. More importantly, it taught me the value of continuous self-development while working.",
+                "tag": "p"
+            },
+            {
+                "content": "Returning to academia",
+                "tag": "p"
+            },
+            {
+                "content": "Later in life, when my children were older, I chose to return to university to pursue a PhD. During this period, I was again fortunate to work as a teaching fellow while studying. This experience allowed me to view the apprenticeship model from the other side-as an educator.",
+                "tag": "p"
+            },
+            {
+                "content": "As a lecturer at a Scottish university, I saw firsthand how the blend of academic learning and industry experience equips students with the tools they need to successfully launch and sustain their careers.",
+                "tag": "p"
+            },
+            {
+                "content": "The power of apprenticeships",
+                "tag": "p"
+            },
+            {
+                "content": "In my opinion what makes apprenticeships so powerful is their ability to bridge the gap between theory and practice. They enable learners to apply classroom concepts in real-world scenarios, fostering critical thinking and problem-solving skills that employers value.",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships also promote adaptability-a key trait in today\u2019s fast-changing job market-while offering a structured pathway for career progression. For businesses, they provide access to motivated talent and help build a workforce aligned with industry needs. For individuals, they offer confidence, competence, and a sense of purpose.",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond skills: lifelong benefits",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, apprenticeships encourage lifelong learning and professional growth. They often open doors to networking opportunities, mentorship, and hands on exposure of a variety of technologies, which can accelerate career development.",
+                "tag": "p"
+            },
+            {
+                "content": "Unlike traditional academic routes, apprenticeships immerse learners in the realities of their chosen field from day one, making them job-ready and resilient. This practical foundation, combined with academic rigor, creates well-rounded professionals who can adapt to evolving industry demands.",
+                "tag": "p"
+            },
+            {
+                "content": "Why I advocate for apprenticeships",
+                "tag": "p"
+            },
+            {
+                "content": "These experiences have shaped my unwavering advocacy for apprenticeship schemes, because they are a proven and practical way to successfully launch a career.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about the Government Science and Engineering (GSE) profession!\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Visit the Government Science and Engineering careers website to explore the diverse expertise shaping government.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2026/02/04/national-apprenticeship-week-2026-the-value-of-a-personal-perspective/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "Dr Beverley MacKenzie As part of National Apprenticeship Week 2026, Dr Beverley MacKenzie, a lifelong advocate of apprenticeships, reflects on their unique value in combining academic study with real-world experience. Why apprenticeships matter From my experience, apprenticeships at all levels \u2026"
+    },
+    {
+        "title": "Creating a Vehicle Examination Facility network for approvals tests\u00a0",
+        "authors": [
+            "Matthew Williscroft"
+        ],
+        "posted_on": "2026-02-04T13:54:40",
+        "categories": [
+            "ATF forums",
+            "Features",
+            "Vehicle testing"
+        ],
+        "content": [
+            {
+                "content": "We\u2019re transforming the way we conduct vehicle approval services,\u00a0introducing Vehicle Examination\u00a0Facilities (VEF) for Individual Vehicle Approval (IVA) and Motorcycle Single Vehicle Approval (MSVA) customers\u00a0and\u00a0bringing the test closer to you.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog post, we'll outline why we\u2019re doing this and what positive changes this will have for industry.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improving access to approvals tests\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Currently,\u00a0the vast majority of\u00a0approval tests are carried out in\u00a0DVSA\u2019s\u00a0own\u00a0Goods Vehicle Testing Stations (GVTS)\u00a0across Great Britian. But many customers\u00a0have to\u00a0travel long distances to attend a test, costing businesses time and money.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To help make our services more efficient and accessible to you,\u00a0we\u2019re\u00a0creating a VEF network across the country \u2013\u00a0alongside continuing to provide IVAs and MSVAs at some existing sites.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new model will bring approvals tests closer to customers. It is\u00a0very similar\u00a0to the way heavy vehicle annual tests are conducted and allows approvals tests to be conducted at third party sites.\u00a0DVSA staff will continue to carry out the test.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "VEF sites can\u00a0operate\u00a0as:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If\u00a0you\u2019d\u00a0like more information on how to gain VEF status, contact our team on\u00a0ATI@DVSA.gov.uk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Existing\u00a0Privately Owned Testing Facilities (POTFs) can\u00a0also\u00a0apply to gain VEF status. This means\u00a0that these sites can gain the same benefits as VEF providers.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why DVSA is making this change\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "VEFs will bring many benefits for our vehicle approval customers and businesses who wish to apply for VEF status. For approvals customers:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For businesses who gain VEF status it will:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How we have worked with pilot sites\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "To make sure\u00a0our processes\u00a0run smoothly,\u00a0we\u2019ve\u00a0been working with\u00a0some\u00a0pilot\u00a0sites\u00a0to get their feedback on the authorisation and application processes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So far, feedback has been\u00a0really positive. And where issues have arisen, we handled them quickly and easily.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Their input has been\u00a0really valuable\u00a0in refining the process for the rollout of the VEF network.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It has helped us to put the right standards in place for prospective applicants in terms of their infrastructure and equipment. This will make sure our examiners can carry out vehicle approval tests at the new sites\u00a0safely and\u00a0in accordance with\u00a0the standards.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To raise awareness of\u00a0VEFs,\u00a0we have:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In the\u00a0coming months\u00a0we\u00a0hope to start\u00a0to authorise sites that meet the required standards and begin building up the VEF network.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll\u00a0also continue to work behind the scenes to make sure the new VEF network is suitable for all our approvals customers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll\u00a0continue to engage with\u00a0trade associations\u00a0to increase awareness of VEFs and\u00a0the positive roll these sites\u00a0will play in our vehicle approvals service. Our webinars will also continue to run over the next few months.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As ever, we love to hear from you, so please leave us a comment with any questions or feedback that you have.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://movingon.blog.gov.uk/2026/02/04/creating-a-vehicle-examination-facility-network-for-approvals-tests/",
+        "blog": "Moving On",
+        "blog_link": "https://movingon.blog.gov.uk",
+        "description": "We\u2019re transforming the way we conduct vehicle approval services,\u00a0introducing Vehicle Examination\u00a0Facilities for Individual Vehicle Approval and Motorcycle Single Vehicle Approval..."
+    },
+    {
+        "title": "More support for children through foster care: what you need to know\u00a0",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2026-02-04T12:58:34",
+        "categories": [
+            "Foster Carer",
+            "Fostering"
+        ],
+        "content": [
+            {
+                "content": "Foster carers provide safe, stable homes for children who cannot live with their birth families. For many children, fostering offers the chance to grow up in a caring family environment, close to their community.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0New plans have been set out to increase the number of foster carers in England and improve the support available to foster families.\u00a0Here\u2019s\u00a0what\u2019s\u00a0changing and why it matters.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s\u00a0being introduced?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Plans are in place to create up to 10,000 new foster care places during this Parliament,\u00a0changing\u00a0rules\u00a0to\u00a0accommodate\u00a0different types\u00a0of loving families.",
+                "tag": "p"
+            },
+            {
+                "content": "This is\u00a0alongside a national drive to encourage more people to consider fostering,\u00a0opening up\u00a0fostering to a more\u00a0diverse range of people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This comes at a time when more children need foster care, but fewer people are currently approved to provide it, often because they\u00a0aren\u2019t\u00a0married to their partner,\u00a0don\u2019t\u00a0own their own home, work full time or even if\u00a0they\u2019ve\u00a0had therapy for mental health challenges\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why is this needed?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Over the last ten years, the number of approved foster carers in England has fallen by almost 12%, with numbers dropping further since the Covid pandemic. During the same period, the number of children in care has\u00a0increased.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Because of this, some children are placed far from home or in residential care. These placements can be more disruptive for\u00a0children, if\u00a0they\u00a0have to\u00a0move far from home,\u00a0and are often linked to poorer outcomes in education and health.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Increasing the number of foster carers\u00a0will\u00a0help\u00a0more children stay in family homes that meet their needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who can foster?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Fostering is being\u00a0opened up\u00a0to a wider range of people by updating long-standing assumptions about what foster carers need to look like.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You\u00a0do not\u00a0need to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "People of different ages, backgrounds and family set-ups can foster,\u00a0as long as\u00a0they are able to offer a safe,\u00a0stable\u00a0and supportive home.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What support is available for foster carers?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Additional\u00a0funding is being used to strengthen support for foster carers and the services around them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This includes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There is also a focus on offering support earlier, rather than waiting until families are under pressure.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What else is changing?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "A new vision and action plan for fostering sets out practical changes to make fostering simpler and more supportive, including:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These changes are designed to make fostering easier to understand, easier to access and easier to sustain.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does this mean for children?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Creating more foster care places would mean more children growing up in safe, supportive family homes, rather than being placed far from their community or in residential care.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stable foster homes can help children build strong relationships, recover from difficult\u00a0experiences\u00a0and feel more settled at school and at home.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2026/02/more-support-for-children-through-foster-care-what-you-need-to-know/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Foster carers provide safe, stable homes for children who cannot live with their birth families. For many children, fostering offers the chance to grow up in a caring family environment, close to their community.\u00a0"
+    },
+    {
+        "title": "Greener, Faster, Better: How Partnership Working is Streamlining Development on the Lower Thames Crossing",
+        "authors": [
+            "Marian Spain"
+        ],
+        "posted_on": "2026-02-04T12:55:00",
+        "categories": [
+            "Development",
+            "Growth",
+            "Natural England",
+            "Nature"
+        ],
+        "content": [
+            {
+                "content": "By Marian Spain, CEO of Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s not often that a major infrastructure project is associated with being green, but recently I visited a project which aims to be \u2018Britain\u2019s greenest road\u2019. This is a bold claim but one that many people, working in partnership, are trying to make a reality. The Lower Thames Crossing project will connect Kent and Essex through two 2.6 mile long tunnels beneath the Thames and is designed to alleviate pressure on the Dartford Crossing.",
+                "tag": "p"
+            },
+            {
+                "content": "A project of this scale gives us an exciting opportunity to build in nature from the very start, not as an afterthought. Because the truth is, nature and growth aren't in competition. When we get this right, congestion will be cut, boosting the economy, and leaving the environment in a better state than we found it.",
+                "tag": "p"
+            },
+            {
+                "content": "In July 2025 Natural England was appointed by government as the Lead Environmental Regulator for the Lower Thames Crossing, making the project the first pilot to test this model. What does this mean in practice? Instead of developers going back and forth between different regulators, they'll have one front door on areas of advice that overlap. That means faster decisions, more streamlined processes, and more certainty for everyone involved. ",
+                "tag": "p"
+            },
+            {
+                "content": "As the Lead Environmental Regulator, Natural England\u2019s focus has been to coordinate input from various regulators, reduce duplication, streamline processes and ensure clear communication, all while working within existing legislative frameworks. Collaboration is therefore key and recently I had the opportunity to get on site with partners from the Lower Thames Crossing, National Highways, the Marine Management Organisation and the Environment Agency to hear more about this pioneering project.",
+                "tag": "p"
+            },
+            {
+                "content": "Environmental Legacy",
+                "tag": "h4"
+            },
+            {
+                "content": "Recovering nature is core to Natural England\u2019s recently launched strategy, and it was inspiring to visit the site for the early wetland mitigation works at the historic Coalhouse Point. The area was once marshland but was enclosed by a sea wall and farmed. Before construction of the road and tunnels can begin, Coalhouse Point must be up and running as a wetland habitat for birds and climate resilience. Once functioning, this will support a wide range of bird species such as black-tailed godwit, avocet, ringed plover and lapwing. The great news is this vital wetland habitat creation is on track to be delivered on time, thanks to the close partnership working facilitated by the Lead Regulator.",
+                "tag": "p"
+            },
+            {
+                "content": "But that\u2019s not the only environmental benefit to come from this project; it also plans to reuse material generated by the construction, such as chalk tunnel spoil. This spoil will be used to create habitats that safeguard rare and threatened brownfield invertebrates such as the shrill carder bee, as many invertebrates bury into this type of material as part of their lifecycle.",
+                "tag": "p"
+            },
+            {
+                "content": "The Lower Thames Crossing team also hope to create seven green bridges of varying sizes and functions. A green bridge is a vegetated structure built over a road to let wildlife safely cross, connect fragmented habitats and reduce animal-vehicle collisions, whilst also providing connection for people and traffic. Natural England is working with the partnership to ensure the green bridges meet the needs of people, nature, traffic and the wider landscape. The green bridges offer the potential to reconnect nature rich sites previously fragmented by existing roads, providing great opportunities for people to connect these sites. Projects like the Lower Thames Crossing and other major infrastructure are catalysts for change and provide the opportunity to support nature\u2019s recovery at a landscape scale.",
+                "tag": "p"
+            },
+            {
+                "content": "James Seymour, Deputy Director for Sussex and Kent in Natural England shared his experience of working on the project:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe environmental legacy of this project is significant. From the ambition for green bridges that support traffic, people, and wildlife, to habitat creation around Coalhouse Point, these measures are critical.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Partnership Working",
+                "tag": "h4"
+            },
+            {
+                "content": "This type of nature recovery and environmental benefit cannot be achieved by working in isolation, and it was clear from the site meeting that the Lead Environmental Regulator model is trailblazing a new way to expedite nature recovery while accelerating development. For example, coordinating the permissions required to deliver the early wetland mitigation works at Coalhouse Point involved engaging early and openly to build shared understanding and trust, and working closely with other regulatory bodies to ensure a unified, outcome-focused approach.",
+                "tag": "p"
+            },
+            {
+                "content": "A key part of the Lead Regulator work is agreeing timelines that rely on the developer providing timely and complete information and regulators reviewing information efficiently. This mutual accountability and shared decision-making is vital to ensuring that the project not only meets its delivery goals, but also leaves a lasting environmental legacy. During the visit, I was happy to see how well this partnership is working.",
+                "tag": "p"
+            },
+            {
+                "content": "Matt Palmer, Lower Thames Crossing CEO, explains the benefits they have seen from the partnership working that is central to the Lead Environmental Regulator Model:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe Lower Thames Crossing is one of the UK's most important infrastructure projects. Not only will it tackle congestion and create a new route that will add \u00a3billions to the UK economy, it will be the UK's greenest road which will be carbon neutral in construction and create six times more green space than new road.",
+                "tag": "p"
+            },
+            {
+                "content": "Our landscape-scale nature improvements have been developed jointly with Natural England, a partnership that has only strengthened over time and is now further enhanced by its role as Lead Environmental Regulator. Together we've achieved some important wins for nature - like the ones we're already creating at Coalhouse Point - which show how the Lower Thames Crossing can deliver on its ambitions both to grow the economy and enhance and improve access to the natural world.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England's role as the Lead Environmental Regulator",
+                "tag": "h4"
+            },
+            {
+                "content": "From early habitat creation to integrated advice and streamlined decision-making, our role as Lead Environmental Regulator enables efficient delivery in partnership, while upholding environmental standards, in a way that adds long-term value for nature, people, and place.",
+                "tag": "p"
+            },
+            {
+                "content": "As Lead Environmental Regulator, this project represents a valuable opportunity to formalise and amplify the collaborative relationships that exist between regulators and ensure open dialogue and visibility with all project partners. Our shared mission is clear: to actively seek innovative solutions that enhance outcomes for nature and growth, to avoid delays linked to environmental conditions and ensure commitments are delivered on time.",
+                "tag": "p"
+            },
+            {
+                "content": "There is always opportunity to learn and that\u2019s one of the exciting things about the Lead Environmental Regulator role with Lower Thames Crossing. We have trialled this role as a pilot. Therefore, there will be a formal evaluation so we can learn lessons for the developer and regulators, which can inform other major projects around the country.",
+                "tag": "p"
+            },
+            {
+                "content": "One piece of learning is already clear though. The practical benefits of the Lead Environmental Regulator approach have been prominent for the Lower Thames Crossing project. Necessary regulatory processes have been streamlined. For example, the time needed to amend a legal requirement was significantly reduced (achieved in record time) - helping to reduce project risk, practical solutions were sought to protect species whilst supporting the project timeline and delays were prevented by collaborating on protective provisions applications.",
+                "tag": "p"
+            },
+            {
+                "content": "Nick Harris, National Highways CEO, joined us at the Lower Thames Crossing site and we discussed the future applications of the Lead Environmental Regulator role.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cNational Highways values its close working relationship with environmental regulators and we are actively working with them to deliver good environmental outcomes. We\u2019re proud to be the first partner organisation, working with Natural England in its role as Lead Environmental Regulator. This relationship will help us protect and harness nature on our soft estate, including clean air and water, biodiversity and cultural heritage, to benefit people and the economy.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Connection and Nature Recovery",
+                "tag": "h4"
+            },
+            {
+                "content": "Reflecting on the visit, I can see that the Lower Thames Crossing project shows great promise in terms of connectivity. Connection for people, in terms of access to places and nature, connection for wildlife and connection between organisations. This is just one of the ways that we are innovating at Natural England to drive nature recovery while enabling the building of the essential infrastructure and homes that this country needs.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/02/04/greener-faster-better-how-partnership-working-is-streamlining-development-on-the-lower-thames-crossing/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Marian Spain, CEO of Natural England It\u2019s not often that a major infrastructure project is associated with being green, but recently I visited a project which aims to be \u2018Britain\u2019s greenest road\u2019. This is a bold claim but one \u2026"
+    },
+    {
+        "title": "How the Better Regulation Framework promotes competition to deliver affordable prices, innovation and growth",
+        "authors": [
+            "John Davies, RPC committee member"
+        ],
+        "posted_on": "2026-02-04T11:54:15",
+        "categories": [
+            "Better Regulation Framework",
+            "Competition"
+        ],
+        "content": [
+            {
+                "content": "The Better Regulation Framework (BRF) requires departments to undertake a proportionate assessment of the effects of policies on competition, because more competitive markets are better for consumers and spur growth. ",
+                "tag": "p"
+            },
+            {
+                "content": "Unlike more direct impacts such as administrative costs, knock-on effects of policies on competition may not be obvious. Often the most valuable competitor is the one which is not even there yet: a disruptive innovator whose entry might be stifled by regulations suited to existing suppliers. ",
+                "tag": "p"
+            },
+            {
+                "content": "Fortunately, the Competition and Markets Authority (CMA) and the Organisation for Economic Co-operation and Development (OECD) have published guidance to help - and the RPC has published case histories showing how departments have successfully used the CMA framework in impact assessments.",
+                "tag": "p"
+            },
+            {
+                "content": "Harm to competition from policy interventions can hurt consumers and restrain growth, by making entry more difficult",
+                "tag": "h2"
+            },
+            {
+                "content": "Competitive markets usually produce better economic outcomes than monopolised or state-directed markets. When buyers can choose between suppliers, they can find products better suited to their needs and this process rewards those suppliers with better, cheaper or more innovative products than their rivals. ",
+                "tag": "p"
+            },
+            {
+                "content": "Harming competition does not merely increase prices, it results in a less productive and innovative economy, harming growth, as reported in the OECD's report on competition and macro-economic outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "Sometimes, promoting competition is the main objective of a policy intervention, for example by requiring interoperability of digital systems, as highlighted in this Ofcom economics discussion paper.",
+                "tag": "p"
+            },
+            {
+                "content": "Government intervention and regulation aimed at other policy objectives also has the potential to restrict competition, with effects that can be longer-lasting than the private cartels or monopoly abuses forbidden by competition law. The UK is one of the better performers in this area, but any new policy could harm competition and decision-makers need an honest assessment of the competitive effects, and potential alternatives.",
+                "tag": "p"
+            },
+            {
+                "content": "Successful entry usually requires something new, significantly cheaper or better than existing products. Entrants are often the source of \u2018disruptive innovation\u2019 as noted in the OECD's policy paper on disruptive innovations and their effect on competition. Challengers with new ways of doing things, such as ride-hailing apps like Uber and Bolt, came from apparently nowhere to overturn industry norms. Regulations can be particularly harmful to such radical entrants, if they entrench existing standards, or specify particular ways of doing things.",
+                "tag": "p"
+            },
+            {
+                "content": "The Better Regulation Framework guidance recommends use of the CMA\u2019s five-step checklist in options assessments and impact assessments",
+                "tag": "h2"
+            },
+            {
+                "content": "Whether competition is an objective of the policy, or may be harmed by it, this must be assessed when shortlisting policy options and in selecting a preferred option in impact or options assessments. The RPC may require changes to the assessment, or red rate it, if this assessment does not adequately support the proposed way forward. ",
+                "tag": "p"
+            },
+            {
+                "content": "More detailed assessment should be provided in the regulatory scorecard, considering competition effects within the overall cost-benefit analysis. The CMA\u2019s competition assessment guidelines for policymakers suggest that a policy measure could have a significant impact on competition if it:",
+                "tag": "p"
+            },
+            {
+                "content": "Examples of these are available in the CMA\u2019s guidelines and RPC case histories on competition assessments. I will focus here on the first, as this relates to entry.",
+                "tag": "p"
+            },
+            {
+                "content": "Assess whether the policy could deter entry",
+                "tag": "h2"
+            },
+            {
+                "content": "Sometimes regulations directly restrict entry, although this is rare. More commonly, regulations can slow down or impose additional costs on entrants. Advertising bans make it harder for new entrants to inform consumers and thus displace rivals. This was a concern examined by the Department of Health and Social Care in the impact assessment for its policy to restrict advertising of high fat, salt and sugar products to children.",
+                "tag": "p"
+            },
+            {
+                "content": "However, any policy that imposes \u2018fixed\u2019 costs that do not scale with firm size will necessarily be placing a greater burden on new entrants than on existing firms. So will standards that are already met by existing firms. Studies have shown that larger firms are more likely to lobby for regulations imposing costs or standards on their industry, as they fully understand these help preserve their positions. ",
+                "tag": "p"
+            },
+            {
+                "content": "Policymakers need to be aware of these vested interests and the potential impact on barriers to entry.",
+                "tag": "p"
+            },
+            {
+                "content": "Mitigating harm to competition: explore options to protect new entrants and small business",
+                "tag": "h2"
+            },
+            {
+                "content": "Policymakers should explore options to mitigate any harm to competition. Does the policy objective really need to be achieved in this manner or are there more pro-competitive alternative ways of intervening? OECD and CMA guidelines provide examples. Think about ways in which policies could be implemented while allowing new entrants flexibility in how to meet requirements. ",
+                "tag": "p"
+            },
+            {
+                "content": "The BRF always requires formal consideration of a small business exemption. If this is not possible, try to avoid imposing fixed costs disadvantaging smaller and newer firms, or being over-specific about how to meet a regulated standard, as this can protect incumbent firms and existing technologies.",
+                "tag": "p"
+            },
+            {
+                "content": "When consulting \u2018the industry\u2019 be aware of the vested interests of those firms. Make an effort to contact smaller existing suppliers, who may be less active in consultations and industry forums, and try to find possible disruptive entrants, such as tech firms who might be considering entering the industry with radically different business models.",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, the monitoring and evaluation plan should set out how any competitive effects of the policy will be evaluated in the post-implementation review. For example by identifying data sources that could be used to evaluate entry and exit, or the dynamics of prices, especially if the before-and-after effects of the intervention can be compared to an unaffected industry or region. Again, if the regulation turns out to be harming competition, policymakers will need to understand why, to redesign it to mitigate this effect.",
+                "tag": "p"
+            },
+            {
+                "content": "The RPC can help in thinking through these problems. We have expertise, derived from applying the BRF in the UK, but also experience from overseas and from the private sector in identifying competition problems and thinking about alternatives. ",
+                "tag": "p"
+            },
+            {
+                "content": "Contact us at enquiries@rpc.gov.uk and subscribe to our blog for further advice and support.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://rpc.blog.gov.uk/2026/02/04/how-the-better-regulation-framework-promotes-competition-to-deliver-affordable-prices-innovation-and-growth/",
+        "blog": "Regulatory Policy Committee",
+        "blog_link": "https://rpc.blog.gov.uk",
+        "description": "The Better Regulation Framework requires departments to assess how policies affect market competition. Regulations can inadvertently harm consumers and growth by creating barriers for new businesses and innovative competitors. Policymakers should use the CMA's checklist to identify competition impacts and explore alternatives that protect smaller firms and potential market entrants."
+    },
+    {
+        "title": "Funding Service: How we built a new funding platform for MHCLG",
+        "authors": [
+            "Gideon Goldberg, Lead Developer"
+        ],
+        "posted_on": "2026-02-04T11:27:51",
+        "categories": [
+            "Funding Service"
+        ],
+        "content": [
+            {
+                "content": "Over the past year, the Funding Service has been building a new funding  platform for the Ministry of Housing, Communities and Local Government (MHCLG) based on an entirely new single codebase. \u2018Deliver grant funding\u2019 and \u2018Access grant funding\u2019 deliver enhanced capabilities whilst being simpler to maintain and iterate on.",
+                "tag": "p"
+            },
+            {
+                "content": "This blog post explains why we decided to do this and how we approached it from a technical standpoint, as part of our mission to deliver grants faster, better and cheaper.",
+                "tag": "p"
+            },
+            {
+                "content": "Why we built a new platform",
+                "tag": "h2"
+            },
+            {
+                "content": "We thought long and hard about writing a new platform versus making  incremental improvements to our previous microservices. This is not a  decision to take lightly as it involves a major upfront commitment and is often regarded a last resort once other re-engineering options have been considered.",
+                "tag": "p"
+            },
+            {
+                "content": "Learning from our previous architecture",
+                "tag": "h3"
+            },
+            {
+                "content": "Previously we used a microservices architecture, slicing by both frontend and backend functionality, as well as by different stages of the funding lifecycle.  To paint the picture, our microservices included:",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst this delivered some initial benefits, for example being able to speed up time to go-live by using existing capabilities and components from the XGov Form Builder as part of the system, there were many downsides caused by early design decisions:",
+                "tag": "p"
+            },
+            {
+                "content": "We realised what we had built was closer to a Distributed Monolith. We had all the pain of maintaining microservices without many of the benefits.",
+                "tag": "p"
+            },
+            {
+                "content": "These issues impacted all our user groups in different ways, grant applicants and recipients were more likely to experience errors and outages, it was difficult for developers to work at pace (without impacting quality) and  feature development was slow for our product and service owners.",
+                "tag": "p"
+            },
+            {
+                "content": "Another factor in play was a pivot in policy through government\u2019s commitment to simplify funding, moving away from competitive grants towards allocative grants, which required different capabilities. This meant some of what the previous microservices did would be less useful and new capabilities were needed, making it an opportune moment for change.",
+                "tag": "p"
+            },
+            {
+                "content": "Testing our hypothesis with a prototype",
+                "tag": "h2"
+            },
+            {
+                "content": "To prove and de-risk the single platform approach, a small team of a couple of developers spent a fortnight building a prototype. This was much higher fidelity than you might ordinarily build using the GOV.UK Prototype Kit. But taking this approach enabled us to prove and demonstrate high-level  hypotheses the team had, including:",
+                "tag": "p"
+            },
+            {
+                "content": "Following a really intense effort by the team, by the end of the fortnight we had a prototype with a real data model, database backend and full WYSIWYG (What You See is What You Get) preview capabilities. This felt like a huge step up from the status quo and the demo was enough to convince stakeholders including our product manager and service owner of the value of the project.",
+                "tag": "p"
+            },
+            {
+                "content": "How we approached the build",
+                "tag": "h2"
+            },
+            {
+                "content": "The team were well aware of the possible pitfalls designing and scaling a Monolith. To try and avoid those, we put some guardrails in place which would provide clear boundaries within the system, such as:",
+                "tag": "p"
+            },
+            {
+                "content": "Although we were changing architectural pattern, we retained many of the tried and tested building blocks the team were already familiar with,  including:",
+                "tag": "p"
+            },
+            {
+                "content": "This brought a level of familiarity and helped team members quickly become productive on the new codebase.",
+                "tag": "p"
+            },
+            {
+                "content": "Now to deliver it!",
+                "tag": "p"
+            },
+            {
+                "content": "What we achieved",
+                "tag": "h2"
+            },
+            {
+                "content": "We have recently gone live with our new 'Deliver grant funding' and 'Access grant funding' services, and 2 grants have already been onboarded to the new system.",
+                "tag": "p"
+            },
+            {
+                "content": "Although 'Deliver' and 'Access' appear as separate services, they are essentially 2 sides of the same coin, a form building/CMS side and an applicant/recipient-facing side. Working in a single codebase and database made it much easier to deliver features like WYSIWYG preview, as they are essentially just different views on the same data.",
+                "tag": "p"
+            },
+            {
+                "content": "Furthermore, having these self-service capabilities means that content  designers can design, share live previews with policy teams and launch a  whole grant without any developer involvement. This will be hugely beneficial in freeing up developers to work on new functionality, rather than doing grant configuration as code.",
+                "tag": "p"
+            },
+            {
+                "content": "As I move on to an equally exciting digital programme within MHCLG (Elections Digital), I'm proud to have left our civil servant-led team working in the open with (after a few iterations) a simple, right-sized architecture which enables them to build out features at pace, empower colleagues with self-service capabilities, and a platform to continue to extend across the funding lifecycle.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/02/04/funding-service-how-we-built-a-new-funding-platform-for-mhclg/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Over the past year, the Funding Service has been building a new funding platform for the department based on an entirely new single codebase. This post outlines the technical choices and approach that guided the build of the platform, and how the functionality will support MHCLG to deliver grants faster, better and cheaper."
+    },
+    {
+        "title": "Introducing the new nutrient management planning tool on GOV.UK",
+        "authors": [
+            "David Solomon"
+        ],
+        "posted_on": "2026-02-04T10:52:47",
+        "categories": [
+            "Farming and Countryside Programme"
+        ],
+        "content": [
+            {
+                "content": "Managing nutrients is one of the most important jobs on a farm. It affects crop performance, input costs and how farming impacts the environment. ",
+                "tag": "p"
+            },
+            {
+                "content": "Apply too little and crops won\u2019t reach their potential. Apply too much and fertiliser, slurry and other organic materials are wasted, costs rise, and the risk of nutrients running into rivers and streams increases.",
+                "tag": "p"
+            },
+            {
+                "content": "Good nutrient planning helps you get the best from your crops, keeps costs down and reduces harm to the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "To make this easier, we\u2019ve created a new online tool: the Plan and Manage Nutrient Applications Tool.",
+                "tag": "p"
+            },
+            {
+                "content": "The tool builds on the existing PLANET and MANNER-NPK tools. ",
+                "tag": "p"
+            },
+            {
+                "content": "Defra developed it with independent provider of agricultural and environmental advice,\u00a0ADAS (who created PLANET) and the Agriculture and Horticulture Development Board (AHDB).",
+                "tag": "p"
+            },
+            {
+                "content": " Farmers and advisers tested it on real farms over several months, helping shape a tool that works in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "The tool uses the latest RB209 guidance (the Nutrient Management Guide) to calculate nutrient recommendations using your own farm data, such as soil analysis and expected yields. ",
+                "tag": "p"
+            },
+            {
+                "content": "By following the recommendations, you can reduce over-application, cut waste and make sure every bag of fertiliser or load of slurry contributes to crop growth.",
+                "tag": "p"
+            },
+            {
+                "content": "Because it\u2019s online, there\u2019s nothing to install. Once you\u2019ve set up your farm and fields and entered your soil type and soil analysis, the tool can pull in local data from your postcode automatically, including rainfall and altitude. You can also adjust the rainfall figure if needed.",
+                "tag": "p"
+            },
+            {
+                "content": "It then guides you to nutrient recommendations across a wide range of crops, including arable, grassland, horticulture and permanent crops, and it can be used for organic and regenerative systems too.",
+                "tag": "p"
+            },
+            {
+                "content": "The tool takes account of factors such as soil type, previous crops and the environmental setting of your farm, helping you make well-informed decisions efficiently.",
+                "tag": "p"
+            },
+            {
+                "content": "Your data is stored securely. In future updates, you\u2019ll be able to import farm data from PLANET to help set up your plan. ",
+                "tag": "p"
+            },
+            {
+                "content": "Not all data will transfer at first, but we\u2019ll expand this over time so you can build on your plans year after year.",
+                "tag": "p"
+            },
+            {
+                "content": "You can also share reports with advisers, tenants, or for compliance purposes. No data will be shared directly for compliance monitoring.",
+                "tag": "p"
+            },
+            {
+                "content": "If your farm is in a Nitrate Vulnerable Zone (NVZ), you can confirm this in the tool. It will then produce the correct compliance reports, giving you confidence that your nutrient planning meets regulatory requirements. ",
+                "tag": "p"
+            },
+            {
+                "content": "It's free to use. We\u2019re launching it in England and Wales first, with Scotland following in 2026. ",
+                "tag": "p"
+            },
+            {
+                "content": "Join the explainer webinar",
+                "tag": "h2"
+            },
+            {
+                "content": "On Wednesday, 4 March, ADAS will run a free webinar explaining how the tool works.",
+                "tag": "p"
+            },
+            {
+                "content": "Register to join the webinar ",
+                "tag": "p"
+            },
+            {
+                "content": "As you start using it, we welcome your feedback in the comments below. Your input will inform improvements.",
+                "tag": "p"
+            },
+            {
+                "content": "The tool has been built and tested with farmers and advisers, and we\u2019re keen to see it used on farms across the country. ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/02/04/introducing-the-new-nutrient-management-planning-tool-on-gov-uk/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Managing nutrients effectively is one of the most important jobs a farmer does. To make this easier, we\u2019ve launched a new tool on GOV.UK."
+    },
+    {
+        "title": "UK Space Agency Accelerator drives investment and growth across space sector",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2026-02-04T10:00:00",
+        "categories": [
+            "Catalysing Investment"
+        ],
+        "content": [
+            {
+                "content": "The UK Space Agency Accelerator announced impressive results from its 2025 Explore and Leo accelerator cohorts, demonstrating how targeted support can rapidly accelerate investment, revenue growth and commercial readiness among UK space entrepreneurs.",
+                "tag": "p"
+            },
+            {
+                "content": "Since its launch, the Accelerator has delivered 20 cohorts, supported more than 317 high-potential space entrepreneurs from across the UK, and provided over 11,000 hours of hands-on mentoring, guidance and support. Participating ventures have collectively raised more than \u00a365 million, highlighting its strong return on investment and its role as a powerful engine for innovation and growth in the UK\u2019s growing space industry.",
+                "tag": "p"
+            },
+            {
+                "content": "Explore and Leo outcomes",
+                "tag": "h2"
+            },
+            {
+                "content": "Earlier in 2025, the Explore and Leo cohorts welcomed 45 entrepreneurs in total, supporting founders at an early stage of their journey to build confidence, sharpen leadership capability and accelerate commercial decision-making. Across both cohorts, participants reported more than 200 new high-value connections with investors, partners, peers and mentors, focused on long-term collaboration and commercial opportunity. Moreover, entrepreneurs formed over 35 new strategic partnerships, reflecting the Accelerator\u2019s emphasis on peer learning, ecosystem engagement and long-term relationship building.",
+                "tag": "p"
+            },
+            {
+                "content": "In just a few months, entrepreneurs across Explore and Leo secured more than \u00a32.8 million in combined private and grant funding, increased monthly revenue by over \u00a3112,000, and strengthened their routes to market. Participants also reported measurable progress in customer engagement, technology\u00a0readiness\u00a0and commercial focus; key indicators for ventures moving from development toward deployment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Founders highlighted the value of personalised mentoring, investor-led insight and practical commercial support in helping them refine their value propositions, build resilience as\u00a0leaders\u00a0and move faster with greater clarity. Several entrepreneurs noted that the programme helped unlock opportunities that would otherwise have taken significantly longer to achieve, accelerating time to market by an average of more than six months across the\u00a0cohorts.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting\u00a0businesses to scale",
+                "tag": "h2"
+            },
+            {
+                "content": "One example of this long-term impact is Frontier Space, a UK-based space biotech company that participated in the Leo programme. Through continued access to expert-led support and investor insight, Frontier strengthened its commercial and investment readiness.",
+                "tag": "p"
+            },
+            {
+                "content": "Since then, the company has successfully\u00a0validated\u00a0its\u00a0SpaceLab\u00a0Mark 1 autonomous microgravity laboratory in orbit, marking a major milestone in its journey toward scalable in-space research and biomanufacturing services.\u00a0This milestone positions Frontier Space at the forefront\u00a0of commercial microgravity science,\u00a0opening\u00a0new pathways for pharmaceutical R&D and sustainable production that could\u00a0benefit\u00a0industries back on Earth.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Aqeel Shamsul, CEO of Frontier Space,\u00a0said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building a stronger UK space ecosystem",
+                "tag": "h2"
+            },
+            {
+                "content": "These results\u00a0demonstrate\u00a0the Accelerator\u2019s growing impact in developing entrepreneurial capability alongside commercial outcomes. By focusing on mindset, leadership and connection to the wider space ecosystem, the UK Space Agency Accelerator is helping entrepreneurs turn ambition into action, attract investment at\u00a0pace\u00a0and deliver lasting economic value for the UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Antonia Yendell, Head of Space Ecosystem Development, UK Space Agency said:",
+                "tag": "p"
+            },
+            {
+                "content": "While\u00a0Explore\u00a0and Leo have now concluded, the Accelerator continues to support ventures through its Fusion, Geo, and Shuttle programmes, further strengthening the UK\u2019s position as a hub for space innovation and commercial growth.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond the space sector itself, the technologies being developed by the UK Space Agency Accelerator\u2019s supported businesses contribute to everyday life, including satellite-enabled navigation and weather forecasting, as well as advances in science and industry that improve productivity and economic efficiency across the UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applications for upcoming programmes are set to open early\u00a02026.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Register for Fusion\u2019s Demo Day",
+                "tag": "h2"
+            },
+            {
+                "content": "Join us for Fusion\u2019s Demo Day on 24th February 2026 \u2013 an opportunity to meet a cohort of investment-ready UK space ventures, showcasing innovations across defence, agritech, climatetech, AI and more. This virtual event offers a first look at the technologies and entrepreneurs shaping the future of the UK space sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more and register here.",
+                "tag": "p"
+            },
+            {
+                "content": "For more on the UK Space Agency Accelerator and how to get involved, visit ukspaceaccelerator.co.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2026/02/04/uk-space-agency-accelerator-drives-investment-and-growth-across-space-sector/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "The UK Space Agency Accelerator announced impressive results from its 2025 Explore and Leo accelerator cohorts, demonstrating how targeted support can rapidly accelerate investment, revenue growth and commercial readiness among UK space entrepreneurs."
+    },
+    {
+        "title": "Looking back, looking forward: farewell reflections from the Chair of the Forestry Commission",
+        "authors": [
+            "Sir William Worsley"
+        ],
+        "posted_on": "2026-02-04T10:00:00",
+        "categories": [
+            "Climate change and resilience",
+            "Our staff",
+            "Woodland creation",
+            "Woodland management"
+        ],
+        "content": [
+            {
+                "content": "As I prepare to step down as Chair of the Forestry Commission after six extraordinary years, I find myself reflecting on what we have achieved, what lies ahead and what this role has meant to me personally.",
+                "tag": "p"
+            },
+            {
+                "content": "I have always felt a deep connection to the land. Trees and forests have been a constant in my life \u2013 grounding, reassuring, and inspiring. My love of nature and my belief in environmental stewardship has shaped everything I do.",
+                "tag": "p"
+            },
+            {
+                "content": "When I became Chair of the Forestry Commission, I saw it as an opportunity to serve the public and to help safeguard something precious: the landscapes that define our country and the woodlands and forests that will underpin our climate resilience for generations to come.",
+                "tag": "p"
+            },
+            {
+                "content": "Why forests matter",
+                "tag": "h2"
+            },
+            {
+                "content": "The Forestry Commission are the government\u2019s forestry experts. We manage the nation\u2019s forests, protect and expand England\u2019s woodlands, and work with landowners, communities and partners to ensure trees and forests thrive. It is work that touches every part of the country and every aspect of our lives.",
+                "tag": "p"
+            },
+            {
+                "content": "Forests are not just beautiful, they are vital. They lock in carbon, provide timber for our homes, create habitats for wildlife, and offer spaces for people to connect with nature. The Forestry Commission has a unique role in shaping all of this, balancing environmental, economic, and social needs, whilst meeting our important regulatory and legal duties.",
+                "tag": "p"
+            },
+            {
+                "content": "That sense of purpose drew me in six years ago, and my experience as Chair has only deepened my conviction that forestry matters now more than ever.",
+                "tag": "p"
+            },
+            {
+                "content": "What we have achieved together",
+                "tag": "h2"
+            },
+            {
+                "content": "When I look back over my time as Chair, I am proud of how far we have come. We set out to build a more focused, effective organisation, and we have done just that.",
+                "tag": "p"
+            },
+            {
+                "content": "We have strengthened how the Commission works, with clearer decision making and greater accountability for delivering results. New leadership has made us more resilient for the future and we are now more visible, playing a central role in influencing forestry policy and leading delivery across England.",
+                "tag": "p"
+            },
+            {
+                "content": "We have also worked hard to improve diversity \u2013 both within our workforce and in the way we think about forestry. This is not simply about representation; it\u2019s about bringing in a range of perspectives and skills that make us stronger and more innovative.",
+                "tag": "p"
+            },
+            {
+                "content": "One of my key ambitions as Chair was to raise the profile of forestry and the Commission\u2019s work. We have championed the importance of trees in tackling climate change, restoring biodiversity, and supporting rural economies. Public awareness and engagement have grown, and forestry is now firmly on the national agenda.",
+                "tag": "p"
+            },
+            {
+                "content": "These achievements belong to the dedicated staff across the Forestry Commission as much as to me. Their knowledge, professionalism and passion for forestry is extraordinary and I owe a great debt of gratitude for the hard work and support during my time as Chair.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "While we have achieved a great deal, there is still much to do. As I hand over to my successor, I want to highlight three priorities that I believe are critical for the years ahead.",
+                "tag": "p"
+            },
+            {
+                "content": "Timber security, growth and development",
+                "tag": "h3"
+            },
+            {
+                "content": "Timber is a strategic resource that underpins our homes, infrastructure and economy. Yet, despite record planting rates, England is still losing productive woodland, particularly the conifers that provide the bulk of our domestic timber.",
+                "tag": "p"
+            },
+            {
+                "content": "Without action, we risk even greater reliance on imports, exposing us to global market shocks and increasing our carbon footprint. With the government committed to building 1.5 million new homes \u2013 the question of how many of these can be built using homegrown timber is more pressing than ever.",
+                "tag": "p"
+            },
+            {
+                "content": "We need a balanced approach. That is why the Forestry Commission has recommended that all government-funded schemes include at least 30% productive species, securing timber for future generations while maintaining biodiversity goals.",
+                "tag": "p"
+            },
+            {
+                "content": "Building resilience through diversity",
+                "tag": "h3"
+            },
+            {
+                "content": "Climate change, pests, and diseases are real and growing threats. To future-proof our forests, we must expand species selection and create diverse, resilient woodlands. Planting only native species may not withstand future climate pressures, and unmanaged woods are far less resilient to stressors like wildfires and disease.",
+                "tag": "p"
+            },
+            {
+                "content": "By integrating a mix of species, including productive conifers and climate-adapted broadleaves, we can safeguard our forests against future risks and ensure they continue to deliver for nature, climate and people.",
+                "tag": "p"
+            },
+            {
+                "content": "Maintaining strong foundations",
+                "tag": "h3"
+            },
+            {
+                "content": "Good governance may not be the most thrilling subject, but it is the backbone of everything we do. Over the past six years, we have strengthened how the Commission operates, with a clear strategy, robust planning, and better ways of measuring our performance.",
+                "tag": "p"
+            },
+            {
+                "content": "This progress must continue. Strong foundations ensures that the Commission remains focused, transparent and effective in delivering its mission \u2013 whether that\u2019s bringing timber to market, supporting landowners to grow more trees, or leading world-class research.",
+                "tag": "p"
+            },
+            {
+                "content": "A personal thank you",
+                "tag": "h2"
+            },
+            {
+                "content": "As I step down, I do so with immense pride and gratitude. It has been an honour to lead the Forestry Commission through a period of real progress and to work alongside such talented and committed people, in both the Commission and the wider sector.",
+                "tag": "p"
+            },
+            {
+                "content": "I am delighted to welcome Baroness Young as the new Chair. Her deep experience and lifelong commitment to the environment will serve the Commission exceptionally well. I know the organisation will continue to thrive under her leadership, and I look forward to seeing its important work go from strength to strength in the years ahead.",
+                "tag": "p"
+            },
+            {
+                "content": "To everyone who cares about our forests, whether you walk in them, work in them, or simply value what they give us, thank you for your support. Our woodlands are one of our greatest national assets and their future has never been more important.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2026/02/04/looking-back-looking-forward-farewell-reflections-from-the-chair-of-the-forestry-commission/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Sir William Worsley, outgoing Chair of the Forestry Commission, reflects on six years leading the organisation and shares his thoughts on the priorities that will shape the future of England\u2019s forests."
+    },
+    {
+        "title": "From Redbox to Assist: Building AI tools that balance innovation and trust",
+        "authors": [
+            "Alfie Dennen, Digital Senior Product Manager in AI Enablement"
+        ],
+        "posted_on": "2026-02-04T09:55:28",
+        "categories": [
+            "Products"
+        ],
+        "content": [
+            {
+                "content": "Alfie Dennen",
+                "tag": "h3"
+            },
+            {
+                "content": "Saisakul Chernbumroong",
+                "tag": "h3"
+            },
+            {
+                "content": "When the Incubator for AI (I.AI) team retired their Redbox codebase in December 2025, DBT had already diverged substantially from that original work. What began as collaboration evolved into something distinct, shaped by 2 years of iterating with users and the specific needs of civil servants working with Official Sensitive material.",
+                "tag": "p"
+            },
+            {
+                "content": "Rebranding when technical divergence requires new identity ",
+                "tag": "h2"
+            },
+            {
+                "content": "Redbox at DBT is now called Assist. The rebrand to Assist isn't cosmetic. Redbox carried I.AI's identity: their naming conventions, design system(s), and roadmap. As we diverged technically, building new capabilities and patterns for handling sensitive information, the branding became misleading. Users expected the central government product, but we were building something fundamentally different.",
+                "tag": "p"
+            },
+            {
+                "content": "Assist signals what the tool actually does: it assists with specific, high-value tasks where generic AI falls short.\u00a0 Rather than a general-purpose chatbot, Assist provides specialised capabilities for repeatable workflows from quality-checking ministerial submissions to extracting company intelligence from internal databases.",
+                "tag": "p"
+            },
+            {
+                "content": "The design challenge",
+                "tag": "h2"
+            },
+            {
+                "content": "Many of us use consumer AI services like ChatGPT in our personal lives. When we use Large Language Model (LLM) tools at work, we expect conversational interfaces, immediate responses, and familiar interaction patterns. But the Government Digital Service (GDS) design system wasn't built for streaming AI responses or dynamic chat interfaces.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge was balancing modern expectations against institutional trust requirements. When someone uploads an Official Sensitive document, they need confidence it's handled appropriately. When they use an AI-generated summary in a ministerial submission, their name is on it.\u00a0 The interface must communicate both capability and accountability.",
+                "tag": "p"
+            },
+            {
+                "content": "We created new patterns such as chat interfaces, streaming responses, and source citations with page-level precision. We did this while preserving the familiar GDS and departmental branding. The result feels immediate and conversational while maintaining essential trust markers.",
+                "tag": "p"
+            },
+            {
+                "content": "Contributing design patterns for cross-government use",
+                "tag": "h2"
+            },
+            {
+                "content": "This work can be contributed back to GDS and other departments. We're not alone in this territory. Across government, teams are building conversational AI including:",
+                "tag": "p"
+            },
+            {
+                "content": "The pattern is consistent: start with summarisation and search, scope tightly, measure rigorously, and build trust before expanding. By documenting our approach including the components we built, the user research that informed them, and the patterns for sensitive information, we can accelerate implementation for other departments facing the same challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "Trust as a functional requirement",
+                "tag": "h2"
+            },
+            {
+                "content": "In consumer AI, trust is assumed. In government, it must be earned continuously. Trust isn't just security controls. It is a result of:",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach is carefully measured, ensuring we understand whether technological advancements genuinely translate into increased productivity. This extends to the interface itself. Users need to see where information comes from, understand limitations, and maintain agency over how they use AI-generated insights.",
+                "tag": "p"
+            },
+            {
+                "content": "Building on proven foundations",
+                "tag": "h2"
+            },
+            {
+                "content": "Back in 2024, through joint workshops, employee secondment, and code-sharing with I.AI, we got Redbox running in one month. That foundation enabled rapid iteration based on user feedback.",
+                "tag": "p"
+            },
+            {
+                "content": "Since then, we learned which capabilities matter most.\u00a0 A Policy Advisor told us the Submissions Checker was \"impressive\" in how it \"challenges the clarity of argument and evidence bases,\" acting as \"an independent pair of eyes\". It helps \"avoid documents being returned for corrections, ultimately saving valuable time.\" These insights drove our evolution toward task-specific tools.",
+                "tag": "p"
+            },
+            {
+                "content": "From generic chat to purpose-built tools",
+                "tag": "h3"
+            },
+            {
+                "content": "Assist now features an improved interface built around what we are calling \u2018Tools\u2019.\u00a0Instead of a blank chat, users choose from purpose-built capabilities for specific workflows like Submissions Checker for quality assurance and InvestLens for company intelligence. We are currently working on a Negotiation Planner for trade precedents.",
+                "tag": "p"
+            },
+            {
+                "content": "This reflects a broader insight. The most valuable government AI applications aren't the most general ones. They are tools that understand specific professional contexts, integrate with departmental systems, and augment rather than replace human expertise.",
+                "tag": "p"
+            },
+            {
+                "content": "A replicable pattern",
+                "tag": "h2"
+            },
+            {
+                "content": "The path from Redbox to Assist demonstrates a pattern for government AI adoption:",
+                "tag": "p"
+            },
+            {
+                "content": "We publish our code openly and regularly collaborate with other departments. As government explores generative AI, the approach matters more than technical choices. It builds trust through transparency, creates reusable patterns, and focuses on problems where AI demonstrably adds value.",
+                "tag": "p"
+            },
+            {
+                "content": "Assist represents DBT's contribution to this collective learning. Our platform is built through collaboration, refined through user research, and designed to assist with the complex, sensitive work of modern government.",
+                "tag": "p"
+            },
+            {
+                "content": "Innovation, collaboration and trust must go hand in hand in government. If your team is exploring what is possible with AI tools, we want to hear from you in the comments.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/02/04/from-redbox-to-assist-building-ai-tools-that-balance-innovation-and-trust/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "When I.AI closed their Redbox product in December 2025, DBT had already diverged substantially from that original platform. Two years of user research and iteration created something distinct, shaped by the specific needs of civil servants working with Official Sensitive material."
+    },
+    {
         "title": "National Apprenticeship Week 2026:\u00a0A future\u00a0in metrology at\u00a0National Physical Laboratory (NPL)\u00a0",
         "authors": [
             "gseprofession"
