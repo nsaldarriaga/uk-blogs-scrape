@@ -1,5 +1,754 @@
 [
     {
+        "title": "Stomach bugs: A brief guide to their causes and treatment",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-02-06T18:27:36",
+        "categories": [
+            "Health and Wellbeing"
+        ],
+        "content": [
+            {
+                "content": "Gastrointestinal illness - the kind of illness that makes us feel sick, vomit or have diarrhoea - affects people of all ages and is one of the most common health complaints in the United Kingdom. It is also one of the most common health issues that people experience when travelling abroad.",
+                "tag": "p"
+            },
+            {
+                "content": "While diarrhoea and vomiting are typically short-lived, they can be serious for some. Understanding their causes can help you take appropriate steps to protect yourself and your family.",
+                "tag": "p"
+            },
+            {
+                "content": "Viral infections",
+                "tag": "h2"
+            },
+            {
+                "content": "Viruses are one of the most common causes of gastrointestinal illness, spreading easily in environments where individuals have close contact, such as hospitals, care homes, schools and nurseries.",
+                "tag": "p"
+            },
+            {
+                "content": "Norovirus\u00a0is perhaps the most widely recognised cause, commonly known as the \u2018winter vomiting bug\u2019, although infections can occur at any point in the year. The virus is mostly spread person to person but can also be spread by contaminated food or water. It is possible to catch norovirus more than once within a short period, as multiple strains circulate at any given time. The incubation period, which is the time between catching an illness and showing symptoms, is typically 12 to 48 hours. Most people recover after a few days\u2019 rest, but vulnerable groups are at risk of complications including dehydration, which can cause hospitalisation.",
+                "tag": "p"
+            },
+            {
+                "content": "Rotavirus\u00a0is the most common cause of gastroenteritis in infants and very young children, producing severe watery diarrhoea alongside vomiting, fever and stomach cramps. Since the introduction of the rotavirus vaccine to the national vaccination schedule in 2013, the incidence among infants has declined considerably. Infants receive 2 doses at 8 and 16 weeks of age.",
+                "tag": "p"
+            },
+            {
+                "content": "Adenovirus\u00a0is a group of viruses that usually cause symptoms like a common cold but can cause various infections including gastroenteritis. It does not follow a seasonal pattern and infections may occur at any time of year. Although most common in infants and young children, individuals of any age may be affected. Symptoms are generally mild, though infections can prove more severe in those with weakened immune systems.",
+                "tag": "p"
+            },
+            {
+                "content": "Bacterial infections",
+                "tag": "h2"
+            },
+            {
+                "content": "Bacteria are another significant cause of gastrointestinal illness, frequently associated with food poisoning. Illness caused by a bacterial infection typically lasts longer than that due to a virus.",
+                "tag": "p"
+            },
+            {
+                "content": "Campylobacter\u00a0are the most common bacterial causes of food poisoning globally. You typically catch the infection from raw or undercooked meat (particularly poultry), unpasteurised milk, or untreated water. Poor hygiene during food preparation can cause it to spread through cross-contamination, and it is also passed on through contact with an infected animal or its environment, for example pets suffering from diarrhoea. The incubation period is generally 2 to 5 days.",
+                "tag": "p"
+            },
+            {
+                "content": "Shigella can cause severe diarrhoea (which is sometimes bloody), fever and stomach cramps. Transmission occurs through contact with contaminated poo, either directly from person to person, or indirectly through contaminated food, water or surfaces. Travellers to regions with inadequate sanitation face particular risk, although it is present in the UK. Globally, most cases of shigellosis are in children younger than 5 years of age, but all ages can be affected. There is also a risk of Shigella transmission through sexual contact, which is more likely among men who have sex with men.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Salmonella may be present in eggs, chicken, pork and dairy products, as well as fruit and vegetables that have come into contact with livestock, manure or untreated water. Symptoms including diarrhoea, stomach cramps, nausea, vomiting and fever typically develop in the 12 to 72 hours following infection. The illness usually persists for 4 to 7 days.",
+                "tag": "p"
+            },
+            {
+                "content": "E. coli\u00a0(Escherichia coli) bacteria are commonly found in the intestines of humans and animals. While many strains exist harmlessly in the digestive system, others may cause infections, including gastrointestinal illness. The bacterium is present in poo and can survive in the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "STEC (Shiga toxin-producing Escherichia coli) can cause diarrhoea, often bloody, with abdominal pain. In some cases, particularly in young children and older adults, infection can lead to haemolytic uraemic syndrome (HUS), a serious kidney complication. Spread mostly occurs through contaminated food, water and contact with farm animals. Common food sources may include undercooked minced beef, unpasteurised milk and dairy products, and raw leafy greens.",
+                "tag": "p"
+            },
+            {
+                "content": "Parasitic infections",
+                "tag": "h2"
+            },
+            {
+                "content": "Cryptosporidium\u00a0is a microscopic parasite responsible for an illness known as cryptosporidiosis. This organism lives in the intestines of infected humans and animals and often spreads through contaminated drinking water and other water sources such as swimming pools, lakes and rivers, as well as through raw milk and vegetables. Children under 5 years are particularly susceptible, with infections often associated with animal contact at petting farms or lambing events.",
+                "tag": "p"
+            },
+            {
+                "content": "Treatment and management",
+                "tag": "h2"
+            },
+            {
+                "content": "Diarrhoea and vomiting can typically be managed at home. The primary concern is ensuring you take in enough fluids to prevent dehydration.",
+                "tag": "p"
+            },
+            {
+                "content": "Recommended actions:",
+                "tag": "p"
+            },
+            {
+                "content": "Actions to avoid:",
+                "tag": "p"
+            },
+            {
+                "content": "Diarrhoea typically resolves within 5 to 7 days, while vomiting usually stops within 1 to 2 days. Seek healthcare advice if symptoms continue after this or you experience severe illness.",
+                "tag": "p"
+            },
+            {
+                "content": "Individuals should consult a pharmacist if they or their child show signs of dehydration, such as dark-coloured urine or reduced urination frequency. Pharmacists may recommend oral rehydration solutions or, for adults, temporary anti-diarrhoeal medication.",
+                "tag": "p"
+            },
+            {
+                "content": "How to prevent spreading a stomach bug",
+                "tag": "h2"
+            },
+            {
+                "content": "To prevent transmission of a viral or bacterial infection:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/02/06/stomach-bugs-a-brief-guide-to-their-causes-and-treatment/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Gastrointestinal illness - the kind of illness that makes us feel sick, vomit or have diarrhoea - affects people of all ages and is one of the most common health complaints in the United Kingdom. It is also one of the most common health issues that people experience when travelling abroad."
+    },
+    {
+        "title": "Latest statement in response to small boat crossings",
+        "authors": [
+            "Home Office news team"
+        ],
+        "posted_on": "2026-02-06T17:00:39",
+        "categories": [
+            "Reactive statements"
+        ],
+        "content": [
+            {
+                "content": "A Home Office spokesperson said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis Government is bearing down on small boat crossings.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe have stopped 40,000 crossing attempts since this Government came into office through our joint work with the French. We have removed or deported almost 60,000 people who were here illegally. Our pilot deal with the French means those who arrive on small boats are now being sent back.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe Home Secretary has also announced the most sweeping reforms to tackle illegal migration in modern times, removing the incentives that bring illegal migrants to the UK and scaling up the return of those with no right to be here.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Background:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://homeofficemedia.blog.gov.uk/2026/02/06/latest-statement-in-response-to-small-boat-crossings/",
+        "blog": "Home Office in the media",
+        "blog_link": "https://homeofficemedia.blog.gov.uk",
+        "description": "A Home Office spokesperson said: \u201cThis Government is bearing down on small boat crossings. \u201cWe have stopped 40,000 crossing attempts since this Government came into office through our joint work with the French. We have removed or deported almost 60,000 \u2026"
+    },
+    {
+        "title": "STEM Apprenticeship Pathway Guide",
+        "authors": [
+            "gseprofession"
+        ],
+        "posted_on": "2026-02-06T16:05:16",
+        "categories": [
+            "Learning & Development"
+        ],
+        "content": [
+            {
+                "content": "We are thrilled to introduce the new STEM Apprenticeship Pathway Guide \u2013 an accessible and visually rich resource designed to showcase the huge potential of STEM careers across government.",
+                "tag": "p"
+            },
+            {
+                "content": "This guide brings STEM apprenticeships to life. It demystifies what they are, highlights the incredible benefits they offer, and sets out exactly how to get started. Whether you are a civil servant exploring your next career move, a student considering your future, an educator supporting learners, or a prospective apprentice, this guide is built to inspire action.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2026/02/06/stem-apprenticeship-pathway-guide/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "We are thrilled to introduce the new STEM Apprenticeship Pathway Guide \u2013 an accessible and visually rich resource designed to showcase the huge potential of STEM careers across government. This guide brings STEM apprenticeships to life. It demystifies what they \u2026"
+    },
+    {
+        "title": "Coverage of Pride in Place expansion announcement\u00a0",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-02-06T15:50:26",
+        "categories": [
+            "Local government",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "There has been\u00a0some\u00a0national and local media coverage of a major expansion of the Pride in Place scheme,\u00a0announced by the government yesterday.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new package is worth up to \u00a3800 million, allowing 40 new areas across England to decide where to invest \u00a320 million in their neighbourhood, whether that is rejuvenating their high streets, restoring community spaces, or launching local events.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Secretary of State was on the morning round to discuss the announcement\u00a0on location in Hastings and was interviewed by\u00a0Times Radio, Sky News, BBC Breakfast, LBC, ITV\u2019s Good Morning Britain, and GB\u00a0News,\u00a0\u00a0and\u00a0the announcement was referenced by the Prime Minister in his speech.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There has been further coverage on BBC\u00a0South East\u00a0Today, BBC\u00a0PoliticsLive,\u00a0BBC News,\u00a0The Sun,\u00a0Sky News,\u00a0LocalGov,\u00a0SME Magazine\u00a0and regional publications like\u00a0EastSussexNews\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There was\u00a0also\u00a0radio reporting nationally on BBC Radio 5 Live, Radio 4, Radio 2 and LBC News as well as regional coverage on BBC Stoke,\u00a0BBC Wiltshire, BBC Sussex, BBC\u00a0Kent\u00a0and BBC Cornwall\u00a0which\u00a0referenced\u00a0the announcement and\u00a0the wider programme.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Communities Secretary Steve Reed said: \u201cPride in Place is about giving power to local people who know best what needs to change in their area.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe ambitious plans we\u2019re seeing take shape in communities across the country is proof that when you give local people the tools to do the job \u2013 things get better.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "More details can be found here:\u00a0Pride in Place: 40 neighbourhoods join transformational programme - GOV.UK.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/02/06/coverage-of-pride-in-place-expansion-announcement/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been\u00a0some\u00a0national and local media coverage of a major expansion of the Pride in Place scheme,\u00a0announced by the government yesterday.\u00a0\u00a0 The new package is worth up to \u00a3800 million, allowing 40 new areas across England to decide where to \u2026"
+    },
+    {
+        "title": "Defra\u2019s T Level pilot: investing in young people and building digital capability in government",
+        "authors": [
+            "Hermionie Blake"
+        ],
+        "posted_on": "2026-02-06T15:21:51",
+        "categories": [
+            "Careers in Digital",
+            "Learning and Development"
+        ],
+        "content": [
+            {
+                "content": "By Hermione Blake and Zoe Whitfield",
+                "tag": "p"
+            },
+            {
+                "content": "Over the past few months, we\u2019ve been running a T Level pilot programme in partnership with Newcastle College, and we\u2019re incredibly proud of the role the programme has been able to play in developing the next generation of digital professionals. We\u2019ve welcomed a group of enthusiastic students, aged 17 to 19, into our Digital, Data, Technology and Security team, and given them hands on experience of real projects that support Defra\u2019s mission and wider government priorities. It\u2019s been great to see them explore, contribute and grow. ",
+                "tag": "p"
+            },
+            {
+                "content": "Experience different digital roles",
+                "tag": "h2"
+            },
+            {
+                "content": "After a busy 2 week induction, they rotated through areas such as user research, architecture, business analysis, and content design. Their placement will finish with a challenge: designing a digital service that allows users to apply for a wind turbine grant. It\u2019s an ambitious brief, but they\u2019ve already shown they\u2019re more than up to it.This pilot is a brilliant way to showcase the breadth of digital roles within Defra, and to help young people understand the technologies and approaches we use every day. Our hope is that we\u2019re not only giving them valuable experience \u2013 we\u2019re also inspiring them to consider careers in the Civil Service.We are passionate about making Defra a diverse, inclusive, and supportive place to work. Through this pilot, we\u2019ve offered opportunities to students from a range of backgrounds, helping them feel welcome, valued and hopefully more confident about their futures. Many have told us that the experience has helped challenge the idea that the Civil Service isn\u2019t for \u201cpeople like them\u201d \u2013 and that\u2019s something we hope we can help change for good through this programme.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting government goals",
+                "tag": "h2"
+            },
+            {
+                "content": "This pilot directly supports key government priorities, including:",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve also strengthened relationships with education providers and industry partners along the way. By working together, we\u2019re helping bridge the gap between classroom learning and real world digital delivery. At a time when many young people are navigating a competitive jobs market and have reduced access to early career opportunities, programmes like this are really important, and it\u2019s something we will look to repeat given the success we\u2019ve had with this pilot. ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2026/02/06/defras-t-level-pilot-investing-in-young-people-and-building-digital-capability-in-government/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "By Hermione Blake and Zoe Whitfield Over the past few months, we\u2019ve been running a T Level pilot programme in partnership with Newcastle College, and we\u2019re incredibly proud of the role the programme has been able to play in developing \u2026"
+    },
+    {
+        "title": "Strengthening assessment without compromising quality, by Carmel Grant",
+        "authors": [
+            "Skills England Communications"
+        ],
+        "posted_on": "2026-02-06T12:34:20",
+        "categories": [
+            "Apprenticeship assessment",
+            "News and announcements"
+        ],
+        "content": [
+            {
+                "content": "In our December 2025 blog, Deputy Chief Executive Gemma Marsh set out why apprenticeship assessment reform matters \u2013 we explained how simplifying and strengthening assessment can better serve apprentices, employers and the wider skills system.",
+                "tag": "p"
+            },
+            {
+                "content": "Since then, we\u2019ve moved into the first phase of implementation, working closely with employer sector experts, assessment organisations and training providers to get the new assessment plans right.",
+                "tag": "p"
+            },
+            {
+                "content": "Delivery experience shows that there is an opportunity to strengthen assessment by making it clearer and more proportionate, while continuing to provide strong assurance of competence. A more streamlined approach can maintain high quality and reinforce confidence that apprentices are fully occupationally competent.",
+                "tag": "p"
+            },
+            {
+                "content": "The reforms give us the flexibility to make these improvements \u2013 but assessment cannot be designed to a one-size-fits-all approach. Apprenticeships span very different occupations, levels of risk and professional expectations. What works for one standard will not work for all.",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach is therefore deliberately flexible \u2013 proportionate where it can be, rigorous where it must be, and always grounded in sector expertise and employer confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "In this update, I want to share what we\u2019re hearing, what we\u2019ve achieved so far and what comes next.",
+                "tag": "p"
+            },
+            {
+                "content": "We are listening to your concerns",
+                "tag": "h2"
+            },
+            {
+                "content": "Last year, we deliberately selected a small number of apprenticeships to test the assessment reform process. These standards were chosen to surface risks and reflect different sector characteristics.",
+                "tag": "p"
+            },
+            {
+                "content": "As intended, the tests generated valuable learning \u2013 including strong messages about the importance of protecting quality and employer confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "While many employers and apprentices support more proportionate assessment, they have been equally clear that change must be handled carefully. This means working in full partnership with employers, ensuring assessments demonstrate full occupational competence, and maintaining rigour \u2013 particularly in safety-critical roles.",
+                "tag": "p"
+            },
+            {
+                "content": "We have heard clear asks to:",
+                "tag": "p"
+            },
+            {
+                "content": "We have also heard concerns about pace. We are committed to delivering reform so benefits are realised as early as possible \u2013 but we are equally committed to taking the time needed to get this right.",
+                "tag": "p"
+            },
+            {
+                "content": "Progress so far - working with sector experts",
+                "tag": "h2"
+            },
+            {
+                "content": "In December, we published the first 93 standards selected for assessment plan reform. Since then, we\u2019ve been working with stakeholders to revise these plans, and this work will continue over the coming months as we update all assessment plans.",
+                "tag": "p"
+            },
+            {
+                "content": "Once approved, revised plans will be published on individual standard pages on the Skills England Apprenticeship Finder. A full list of approved and published revised plans is also available via the\u00a0Revisions and Adjustments status report,\u00a0which includes revised plans we are publishing today, with thanks to our external panels for their expert contributions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where revised plans have been published but are not yet available for delivery, current end-point assessment plans remain in place. Information banners on the Apprenticeship Finder will make clear when apprentices can begin assessment under the new arrangements.",
+                "tag": "p"
+            },
+            {
+                "content": "Construction and safety-critical sectors",
+                "tag": "h2"
+            },
+            {
+                "content": "During the testing phase, construction employers told us they are working hard to meet workforce competence expectations set by the Building Safety Regulator. Following the Grenfell tragedy, there is rightly a renewed focus on rigour and safe practice.",
+                "tag": "p"
+            },
+            {
+                "content": "In response, we are working with a dedicated construction taskforce to ensure sector-specific needs are fully reflected. We will take a similar approach in other sectors where risks and regulatory requirements demand it.",
+                "tag": "p"
+            },
+            {
+                "content": "This is a clear example of how we are adapting our approach in response to what employers have told us.",
+                "tag": "p"
+            },
+            {
+                "content": "Making a positive difference",
+                "tag": "h2"
+            },
+            {
+                "content": "Alongside challenge, we have also heard strong support for the reforms and the difference they can make.",
+                "tag": "p"
+            },
+            {
+                "content": "Shelley Jeffery FIA C.Act, Head of Pensions Operations, The Core, XPS Group",
+                "tag": "p"
+            },
+            {
+                "content": "Maurice Porter, Head of Learning, Development & Apprenticeships, HepcoMotion",
+                "tag": "p"
+            },
+            {
+                "content": "Lydia Wright, Managing Director, Little Pearls Nursery",
+                "tag": "p"
+            },
+            {
+                "content": "How to get involved ",
+                "tag": "h2"
+            },
+            {
+                "content": "We recognise there are a range of views on assessment reform, and we value all feedback. That\u2019s why we run apprenticeship assessment surveys on plans in development.",
+                "tag": "p"
+            },
+            {
+                "content": "To be notified when a survey is released, email\u00a0submissionsurvey.skillsengland@education.gov.uk\u00a0with the standard and route you\u2019re interested in.",
+                "tag": "p"
+            },
+            {
+                "content": "For general queries, contact\u00a0apprenticeshipassessment.skillsengland@education.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next",
+                "tag": "h2"
+            },
+            {
+                "content": "Today, we have updated the Revisions and Adjustments status report with further standards scheduled for assessment plan revision. The report will be updated regularly, and you can\u00a0subscribe to receive email alerts.",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps include:",
+                "tag": "p"
+            },
+            {
+                "content": "Carmel Grant",
+                "tag": "p"
+            },
+            {
+                "content": "Deputy Director, Skills England",
+                "tag": "p"
+            }
+        ],
+        "link": "https://skillsengland.blog.gov.uk/2026/02/06/strengthening-assessment-without-compromising-quality-by-carmel-grant/",
+        "blog": "Skills England",
+        "blog_link": "https://skillsengland.blog.gov.uk",
+        "description": "In our December 2025 blog, Deputy Chief Executive Gemma Marsh set out why apprenticeship assessment reform matters \u2013 we explained how simplifying and strengthening assessment can better serve apprentices, employers and the wider skills system. Since then, we\u2019ve moved into \u2026"
+    },
+    {
+        "title": "National Apprenticeship Week 2026\u00a0-  Apprentice to Crisis Management Lead\u00a0",
+        "authors": [
+            "gseprofession"
+        ],
+        "posted_on": "2026-02-06T11:29:47",
+        "categories": [
+            "Blog Series",
+            "Guest Blog",
+            "Learning & Development"
+        ],
+        "content": [
+            {
+                "content": "Sue Richards \u2013 Crisis Management Lead\u00a0and Chartered Engineer\u00a0and Member of the\u202fInstitution of Engineering and Technology\u00a0(CEng MIET)\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For National Apprenticeship Week 2026,\u00a0Sue Richards, Crisis Management Lead for Ofgem,\u00a0started\u00a0her career as an apprentice and strongly supports alternative pathways into engineering and the Civil Service.\u00a0Sue explains\u00a0the benefits of learning and earning.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Starting out: the apprenticeship advantage",
+                "tag": "p"
+            },
+            {
+                "content": "I started my career as an apprentice and am a huge advocate for anyone joining the Engineering Profession via that route. I am well known for championing different routes into the profession and into the Civil Service.",
+                "tag": "p"
+            },
+            {
+                "content": "For me, the apprenticeship route suited my learning needs and my drive to be learning and earning. I have never lost sight of what an amazing, solid foundation an apprenticeship has given me.",
+                "tag": "p"
+            },
+            {
+                "content": "Networking and career opportunities",
+                "tag": "p"
+            },
+            {
+                "content": "Networking opportunities \u2013 As an apprentice, I got to meet so many different people in the industries that I worked in, meet great people and make friends and contacts for life. It is a great way to really see how an organisation works and the people who make that happen.",
+                "tag": "p"
+            },
+            {
+                "content": "Career opportunities \u2013 As part of my apprenticeship, my placements took me to areas of work and inspired my creativity that I would never have found left to my own devices. As a result, I have worked for great organisations and delivered some high-profile projects in Great Britain.",
+                "tag": "p"
+            },
+            {
+                "content": "Building confidence and achievement",
+                "tag": "p"
+            },
+            {
+                "content": "Learning that there is no limit \u2013 The fostering environment of an apprenticeship, really helped me with my confidence and self-belief. I have been able to use the great foundation of my apprenticeship to build a career I am proud of and there is no limit to what you can achieve! Including becoming a Chartered Engineer.",
+                "tag": "p"
+            },
+            {
+                "content": "Today: making an impact",
+                "tag": "p"
+            },
+            {
+                "content": "And now\u2026 now I work as the Crisis Management Lead for Ofgem and get to support some of the most vulnerable consumers at the most important time when they need our support. I am also helping shape the future policy of how we will use the energy system in the mission to deliver Net Zero.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about the Government Science and Engineering (GSE) profession!\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Visit the\u00a0Government Science and Engineering careers website\u00a0to explore the diverse\u00a0expertise\u00a0shaping government.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2026/02/06/national-apprenticeship-week-2026-apprentice-to-crisis-management-lead/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "Sue Richards \u2013 Crisis Management Lead\u00a0and Chartered Engineer\u00a0and Member of the\u202fInstitution of Engineering and Technology\u00a0(CEng MIET)\u00a0 For National Apprenticeship Week 2026,\u00a0Sue Richards, Crisis Management Lead for Ofgem,\u00a0started\u00a0her career as an apprentice and strongly supports alternative pathways into engineering and the \u2026"
+    },
+    {
+        "title": "National Apprenticeship Week 2026\u00a0- From Apprentice to Leader: A 42-year\u00a0journey\u00a0in\u00a0engineering.\u00a0\u00a0",
+        "authors": [
+            "gseprofession"
+        ],
+        "posted_on": "2026-02-06T11:21:56",
+        "categories": [
+            "Blog Series",
+            "Guest Blog",
+            "Learning & Development"
+        ],
+        "content": [
+            {
+                "content": "Nick Jones - Engineering People Coach, Defence Equipment & Support\u00a0(DE&S)\u00a0Ministry of Defence",
+                "tag": "p"
+            },
+            {
+                "content": "For National Apprenticeship Week 2026,\u00a0Nick Jones, [Engineering People Coach, Defence Equipment & Support\u00a0(DE&S)\u00a0Ministry of Defence] outlines\u00a0how an apprenticeship can open doors you never imagined-\u00a0shaping not just a career, but a mindset for lifelong learning and leadership.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Starting out: learning the how and the why",
+                "tag": "p"
+            },
+            {
+                "content": "I remember starting my apprenticeship at the Royal Naval Aircraft Yard Fleetlands as if it was yesterday, surprising now that I'm almost 42 years into my career. As a 16-year-old with imposter syndrome daunted by my peer group, overwhelmed by the types of aircraft that I was expected to work on and understand in detail, I would never have guessed that I would have travelled the world. I didn\u2019t think I\u2019d work with such amazing people, experience incredible moments that remain unforgettable. Then within Defence, be responsible, as a Project Manager then a Chief Engineer, and latterly Deputy Head for the DE&S Airworthiness Team. When I look at my peer group now, all of whom are successful professionals, my reflection on the training we received as young adults is that it not only taught the basics (the how) but taught us to really understand 'the why'. Of course, all apprenticeships teach you that, but it's not until later in life when you appreciate that trained inquisitiveness becomes your superpower when looking for better outcomes or improvements to products and services.",
+                "tag": "p"
+            },
+            {
+                "content": "Building a career: from experience to Chartered Engineer",
+                "tag": "p"
+            },
+            {
+                "content": "Those early years formed the foundation of experiences that supported my journey in becoming a Chartered Engineer, especially as one who has stepped through the experiential route proving that academic achievement is just another path to success. As one of many mentors within our department, I volunteer to support the Engineering Apprentice and Graduate programmes, with the aim of helping them gain not just the developmental opportunities for becoming the future Chief Engineers but understanding why we do the things we do. And of course, hopefully some of those exciting, \u2018money can\u2019t buy\u2019 experiences that only Defence can offer.",
+                "tag": "p"
+            },
+            {
+                "content": "Giving back: mentoring, coaching, and lifelong learning",
+                "tag": "p"
+            },
+            {
+                "content": "I took a step into the unknown earlier this year to become a People Coach within DE&S, with a job title that includes the words \u2018Human Resources\u2019, those skills learnt as an apprentice are just as relevant now. Helping colleagues where I can, demystify requirements to determine intent, challenge when appropriate, simplify and mature activity to make work achievable, all whilst continuing to learn, are things that fortunately for myself come relatively naturally. If you\u2019re starting your career or thinking about mentoring, take that step - you never know where it might lead. When does that apprenticeship stop; possibly never, that\u2019s the fun part. What would be really fun is to go back to my roots, get my overalls on then go and get my hands dirty, I miss that!",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about the Government Science and Engineering (GSE) profession!\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Visit the\u00a0Government Science and Engineering careers website\u00a0to explore the diverse\u00a0expertise\u00a0shaping government.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2026/02/06/national-apprenticeship-week-2026-from-apprentice-to-leader-a-42-year-journey-in-engineering/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "Nick Jones - Engineering People Coach, Defence Equipment & Support\u00a0(DE&S)\u00a0Ministry of Defence For National Apprenticeship Week 2026,\u00a0Nick Jones, [Engineering People Coach, Defence Equipment & Support\u00a0(DE&S)\u00a0Ministry of Defence] outlines\u00a0how an apprenticeship can open doors you never imagined-\u00a0shaping not just a career, \u2026"
+    },
+    {
+        "title": "Celebrating one year of the cross-government low code community: a people-first approach",
+        "authors": [
+            "Katherine Bhambra, Senior Content Designer, GDS"
+        ],
+        "posted_on": "2026-02-06T11:01:00",
+        "categories": [
+            "Technology",
+            "Tools",
+            "Transformation"
+        ],
+        "content": [
+            {
+                "content": "Five years ago, a handful of individuals across government started chatting about the challenges we faced with low code tools. What began as informal conversations which were often sparked by questions such as \u2018does anyone know how to do this?\u2019,\u00a0grew\u00a0organically\u00a0into a vibrant, grassroots community\u00a0focused on\u00a0sharing best practice and lessons learnt.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today,\u00a0our\u00a0low code community is\u00a0nearly 700\u00a0strong, and\u00a0spans\u00a0a wide landscape of\u00a0departments, agencies, and roles.\u00a0One year ago, we\u00a0launched our\u00a0community page in the\u00a0GOV.UK Service Manual, so\u00a0now is\u00a0a good time\u00a0to reflect on past successes and future challenges for the community.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is low code,\u00a0and why does it matter?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Low code is a way of building digital services and applications using visual tools and minimal\u00a0manual\u00a0coding. It allows people to create and adapt software quickly, through drag-and-drop interfaces or configuration rather than traditional programming.\u00a0This makes it especially suitable for people from a non-IT background.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The technology\u00a0is constantly\u00a0evolving, and over the past couple of\u00a0years, AI has taken low-code platforms to a new level.\u00a0Natural language\u00a0can now be used to\u00a0suggest designs, and even generate\u00a0apps and\u00a0workflows automatically, which\u00a0lowers\u00a0the barrier to entry for aspiring\u00a0developers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0low code approach\u00a0is especially useful in government,\u00a0where teams need to respond quickly to changing user needs, policy\u00a0updates\u00a0and\u00a0operational challenges.\u00a0It also supports the plans set out in the\u00a0blueprint for modern digital government\u00a0by helping with joined-up public services and replicable processes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Low code platforms\u00a0themselves can offer a range benefits, including:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By making development more accessible, low code helps us\u00a0to\u00a0more efficiently\u00a0build better services\u00a0for\u00a0our\u00a0users.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A grassroots movement with strong foundations\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The low code community has been\u00a0around\u00a0for over five years,\u00a0operating\u00a0as separate grassroots groups. We\u00a0made the decision to merge last year to form\u00a0a single cross government community\u00a0called\u00a0xGov\u00a0low\u00a0code.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our members range from complete beginners to experienced low code developers. We encourage anyone in the public sector with an interest in\u00a0problem-solving\u00a0to join, as we\u00a0benefit\u00a0from having as wide and diverse a pool of experience as possible.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "More than anything,\u00a0we\u2019re\u00a0proud of our inclusivity and openness. You don't need to be an expert to join in as our members range\u00a0from those just starting out to those leading automation in their organisations. We help each other, share what works, what\u00a0doesn\u2019t, and celebrate the small wins, such as someone building their first flow or finding a workaround that saves hours of manual work.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Identifying\u00a0our aims",
+                "tag": "h2"
+            },
+            {
+                "content": "Our community\u00a0isn\u2019t\u00a0about polished best practice or\u00a0endorsing\u00a0strategy from the top down.\u00a0We came together because we needed practical answers and a place to learn from each other. There are no barriers,\u00a0just a shared belief that anyone in the public sector can build, experiment, and solve problems with the right support.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We use low code tools to help people across government turn ideas into impact, whether\u00a0that\u2019s\u00a0by streamlining a personal task, or deploying a scalable digital service. Our aim is to make low code accessible, collaborative, and\u00a0human-focused.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together,\u00a0we\u2019ve\u00a0identified\u00a0the most important\u00a0objectives\u00a0for the community. These are to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Successes and the year ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "This year has been full of activity and progress. We held our first\u00a0in-person community conference at the Microsoft campus in Reading\u00a0to\u00a0bring together our\u00a0members to share ideas and learn from each other. We also ran a successful low code workshop in London in September.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the last year,\u00a0we\u2019ve\u00a0launched two major community projects.\u00a0The first is\u00a0a shared\u00a0GitHub\u00a0repository to promote collaboration and reuse, and the second is\u00a0focused on low code standards\u00a0and best practice.\u00a0Both projects aim to share our experiences\u00a0so that government organisations\u00a0at the beginning of their low code journey\u00a0can build on\u00a0what\u2019s\u00a0already been done, rather than\u00a0starting from scratch.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We run weekly virtual sessions and use our Teams channel to help solve problems and share updates.\u00a0Our weekly content includes demonstrations of low-code solutions,\u00a0technical deep dives,\u00a0a\u00a0\u2018Low Code for Beginners\u2019\u00a0track and regular guest speakers on topics such as governance,\u00a0good design\u00a0and accessibility.\u00a0We\u2019re\u00a0also passionate about automating the processes needed\u00a0to\u00a0run\u00a0a large community,\u00a0so as to\u00a0be\u00a0exemplars of our own automation approach!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our plans are even\u00a0more ambitious for 2026.\u00a0We\u2019ll\u00a0continue\u00a0work on our shared repository as well as sharing solutions,\u00a0code\u00a0and best practice.\u00a0We also\u00a0hope to\u00a0organize and\u00a0attend\u00a0more\u00a0in-person\u00a0events,\u00a0such as\u00a0Civil Service Live,\u00a0so that we can\u00a0reach more departments.\u00a0We want to make it easier for people across government to get involved with low code and to\u00a0benefit\u00a0from the experience and support of others.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Join us",
+                "tag": "h2"
+            },
+            {
+                "content": "If you work in government and are interested in low code,\u00a0you\u2019re welcome to join our community. Whether\u00a0you\u2019re\u00a0just starting out or have years of experience,\u00a0you can\u00a0become a member\u00a0by\u00a0completing this form.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alternatively, you can contact the\u00a0low\u00a0code\u00a0community committee by emailing\u00a0xgovlowcode@ics.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2026/02/06/celebrating-one-year-of-the-cross-government-low-code-community-a-people-first-approach/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "Five years ago, a handful of individuals across government started chatting about the challenges we faced with low code tools. What began as informal conversations which were often sparked by questions such as \u2018does anyone know how to do this?\u2019,\u00a0grew\u00a0organically\u00a0into \u2026"
+    },
+    {
+        "title": "UK NSC stakeholder engagement strategy updated",
+        "authors": [
+            "Mike Harris"
+        ],
+        "posted_on": "2026-02-06T07:56:11",
+        "categories": [
+            "UK National Screening Committee"
+        ],
+        "content": [
+            {
+                "content": "Today we have published the updated UK NSC stakeholder engagement strategy after conducting a comprehensive review in 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "Background",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK National Screening Committee (UK NSC) could not do its work without drawing on the research, expertise, opinions, and experiences of a wide range of individuals and organisations, including:",
+                "tag": "p"
+            },
+            {
+                "content": "Effective engagement with these stakeholders helps the UK NSC make informed, evidence-based, practicable recommendations and keep up to date with developments on screening topics.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK NSC first published its stakeholder engagement strategy in 2022 following a recommendation from the UK\u2019s 4 chief medical officers (Recommendation 6a of CMOs\u2019 recommendations for the expanded remit of the UK NSC published with the minutes of the March 2022 UK NSC meeting).",
+                "tag": "p"
+            },
+            {
+                "content": "Review findings",
+                "tag": "h2"
+            },
+            {
+                "content": "Last year, the secretariat that supports the UK NSC carried out a thorough review of the strategy and associated stakeholder engagement activities.",
+                "tag": "p"
+            },
+            {
+                "content": "This review included an online survey and 3 focused discussion groups in which stakeholders provided a wealth of valuable insights.",
+                "tag": "p"
+            },
+            {
+                "content": "There was praise for the UK NSC\u2019s evidence-based approach and processes while concerns were raised on the themes of:",
+                "tag": "p"
+            },
+            {
+                "content": "Stakeholder feedback also highlighted common misunderstandings about the UK NSC\u2019s role and remit, as well as when and how it needs to engage with stakeholders during evidence review processes.",
+                "tag": "p"
+            },
+            {
+                "content": "How we are responding",
+                "tag": "h2"
+            },
+            {
+                "content": "Analysis of the feedback received from stakeholders, and from patient and public voice (PPV) members of the UK NSC and its expert groups, highlighted ways in which we could enhance the strategy and engagement activities.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK NSC\u2019s updated stakeholder engagement strategy more clearly explains how and when the committee engages with stakeholders to optimise their input.",
+                "tag": "p"
+            },
+            {
+                "content": "Other steps we are taking to improve the way we communicate with stakeholders include:",
+                "tag": "p"
+            },
+            {
+                "content": "We will you keep you updated on all these activities via this blog.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u00a0register to receive updates\u00a0direct to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u00a0uknsc@dhsc.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2026/02/06/uk-nsc-stakeholder-engagement-strategy-updated/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "UK NSC stakeholder engagement strategy updated after comprehensive review."
+    },
+    {
         "title": "Dragons Den IP Blog - Series 23 Episode 2",
         "authors": [
             "Kelsey Jones"
