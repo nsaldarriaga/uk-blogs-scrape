@@ -1,5 +1,962 @@
 [
     {
+        "title": "New Education Estates Strategy: a decade of national renewal",
+        "authors": [
+            "Communications Team"
+        ],
+        "posted_on": "2026-02-11T16:53:46",
+        "categories": [
+            "Estates"
+        ],
+        "content": [
+            {
+                "content": "The Department for Education (DfE) today published its Education Estates Strategy backed by a 10-year plan of national renewal for schools and colleges in England.",
+                "tag": "p"
+            },
+            {
+                "content": "The strategy sets out the government\u2019s clear long-term vision for the education estate that supports opportunity for all, from early years to post-16, with an estate that is safe, suitable, sustainable and sufficiently sized.",
+                "tag": "p"
+            },
+            {
+                "content": "It is focused around three strategic pillars: manage the estate, improve and renew the estate, and build and rebuild the estate.",
+                "tag": "p"
+            },
+            {
+                "content": "At the core is a shift to more proactive management, long-term strategic maintenance and more renewal of the existing estate. This is alongside building and rebuilding where renewal is not possible and ensuring there are high-quality places from early years to post-16.",
+                "tag": "p"
+            },
+            {
+                "content": "The 10-year plan will drive up standards across the education estate so more children and young people can achieve and thrive in every setting \u2013 giving schools better tools to spot problems early, investing in repairs and upgrades so buildings last for decades, and rebuilding where it\u2019s needed most.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Backed by \u00a338 billion in overall capital investment from 2025-26 to 2029-30 \u2013 the highest since 2010 \u2013 it will help to create buildings that are fit for purpose, inclusive by design, resilient to climate change, and fit for the future.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Education Secretary, Bridget Phillipson, said: \u201cFor too long, schools and colleges have been forced to patch and mend buildings that have already deteriorated \u2013 spending their time worrying about leaking roofs instead of focusing on what matters most: giving every child the best possible education.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis 10-year plan marks a turning point. We\u2019re breaking that cycle with a decade of national renewal for schools and colleges. We\u2019ve already committed to unprecedented long-term funding, but we will go further, including our \u00a3700 million Renewal and Retrofit Programme to tackle problems before they become costly crises.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis is about more than buildings \u2013 it\u2019s about breaking down barriers to opportunity. Every child deserves to learn in a safe, accessible environment, with the right facilities to meet their needs and help them thrive.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "You can read the full press notice on GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Make sure to click \u2018sign up and manage updates\u2019 at the top right of this page to subscribe to our blog and receive notifications as we\u2019ll be focusing on estates throughout March with practical advice and case studies. \u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2026/02/11/new-education-estates-strategy-a-decade-of-national-renewal/",
+        "blog": "Buying for Schools",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "The Department for Education (DfE) today published its Education Estates Strategy backed by a 10-year plan of national renewal for schools and colleges in England. The strategy sets out the government\u2019s clear long-term vision for the education estate that supports \u2026"
+    },
+    {
+        "title": "ReSCUE takes flight: Survey campaign to address gaps in seabird flight height data.",
+        "authors": [
+            "Rachel Mewes"
+        ],
+        "posted_on": "2026-02-11T14:57:10",
+        "categories": [
+            "Evidence",
+            "Marine environment",
+            "Monitoring",
+            "Natural England",
+            "Science and evidence",
+            "Seabirds",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Rachel Mewes \u2013 Marine Ornithology Specialist and ReSCUE Project Support, Eddie Cole \u2013 ReSCUE Project Lead and Andrew Harwood \u2013 Senior Marine Ornithology Specialist and ReSCUE Technical Lead",
+                "tag": "p"
+            },
+            {
+                "content": "Offshore wind expansion is critical to the UK government\u2019s ambitions to address the climate crisis and strengthen the country\u2019s energy security. It is also important that we consider the need to halt and reverse the decline in marine biodiversity and enable nature\u2019s recovery alongside the government\u2019s priority to expand the UK\u2019s renewable energy network.",
+                "tag": "p"
+            },
+            {
+                "content": "To achieve sustainable offshore wind development alongside a thriving marine environment, offshore planning decisions need to be informed by up-to-date, high-quality evidence that allows for robust assessments of potential impacts and the identification of effective mitigation measures. Seabird collision with offshore wind infrastructure remains one such major consenting issue, partly due to the lack of accurate, high-quality data on seabird flight height and uncertainty surrounding the interaction of seabirds with wind turbines.",
+                "tag": "p"
+            },
+            {
+                "content": "The Reducing Seabird Collisions Using Evidence (ReSCUE) project, led by Natural England, seeks to address this issue by improving the way we collect and use seabird flight-height data to inform mitigation and consenting, contributing to seabird conservation and the low impact expansion of offshore wind.",
+                "tag": "p"
+            },
+            {
+                "content": "ReSCUE is a multi-year, multi-partner project funded by The Crown Estate\u2019s Offshore Wind Evidence and Change (OWEC) Programme. OWEC seeks to facilitate the sustainable and coordinated expansion of offshore wind to help meet the UK\u2019s commitments to low-carbon energy transition whilst supporting clean, healthy, productive and biologically diverse seas.",
+                "tag": "p"
+            },
+            {
+                "content": "September 2025 marked the start of a major new phase for ReSCUE with the launch of a digital aerial survey campaign including Light Detection and Ranging (LiDAR) technology. Twenty surveys are planned to take place across key sites for seabirds in UK waters between September 2025 and August 2026. ",
+                "tag": "p"
+            },
+            {
+                "content": "These surveys will make use of imagery from digital aerial surveys to identify birds in flight which can then be matched to LiDAR data to provide high-quality flight-height measurements. As of January 2026, we have flown 9 surveys with the data outputs currently under quality assurance (QA) review by the ReSCUE project team.",
+                "tag": "p"
+            },
+            {
+                "content": "Following an initial review of methods for quantifying seabird flight heights at the start of the project a validation study was designed to investigate sources of uncertainty associated with three preferred methods: combined LiDAR-digital aerial survey, laser rangefinders, and telemetry (e.g. GPS tags). This study was carried out in August 2024 by the ReSCUE team, supported by members of the NE Birds team, Earth Observations team, and the BTO. ",
+                "tag": "p"
+            },
+            {
+                "content": "The results of this field study have now been published, and the outcomes provided further confidence in the accuracy and precision of LiDAR-digital aerial survey methods for measuring seabird flight heights. In combination with a gap analysis, and input from stakeholders, the results of this study were used to inform the final scope and design of the 12-month LiDAR-digital aerial survey campaign, to ensure it is fit for purpose and delivers value for money.",
+                "tag": "p"
+            },
+            {
+                "content": "The planned surveys will be flown by APEM and cover four areas of UK waters: the northern North Sea; Irish Sea; southern North Sea and Celtic Sea. Within these four regions, eight study sites have been defined, to be surveyed at different times of the year, to target priority species, areas, and seasons where there are gaps in our seabird flight height data. ",
+                "tag": "p"
+            },
+            {
+                "content": "Importantly, the surveys include coverage of several offshore wind farms and future development areas. The resulting data will help improve our understanding of potential seabird behavioural responses to wind farms and associated collision risk. Data produced during this survey campaign will ultimately be made publicly available, under Open Government Licence, for use by everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "The data from the surveys will be used to investigate variations in seabird flight heights, develop improved flight height distributions for use in offshore wind farm impact assessments, and inform mitigation to reduce potential impacts. The project will deliver a user-friendly toolkit to facilitate access to, and use of, the outputs, which will also include clear recommendations for data collection, processing, analysis, and practical application of resulting evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "By combining rigorous validation, cutting\u2011edge aerial technology, and robust analytical approaches, ReSCUE will strengthen the evidence base needed to balance seabird conservation with the UK\u2019s low\u2011carbon ambitions, delivering practical tools and knowledge that help protect marine life while enabling sustainable offshore wind development.",
+                "tag": "p"
+            },
+            {
+                "content": "This project, and Natural England\u2019s role in it, is a great example of working collaboratively to develop the evidence needed to implement better regulations for offshore windfarm development, helping to drive nature recovery alongside economic growth in line with Natural England\u2019s new strategy.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/02/11/rescue-takes-flight-survey-campaign-to-address-gaps-in-seabird-flight-height-data/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Rachel Mewes \u2013 Marine Ornithology Specialist and ReSCUE Project Support, Eddie Cole \u2013 ReSCUE Project Lead and Andrew Harwood \u2013 Senior Marine Ornithology Specialist and ReSCUE Technical Lead Offshore wind expansion is critical to the UK government\u2019s ambitions to \u2026"
+    },
+    {
+        "title": "Wisdom from women in nuclear: advice for women and girls in science",
+        "authors": [
+            "traceyscott"
+        ],
+        "posted_on": "2026-02-11T11:25:46",
+        "categories": [
+            "diversity",
+            "Early careers",
+            "Recruitment",
+            "Skills"
+        ],
+        "content": [
+            {
+                "content": "To mark International Day of Women and Girls in Science, we asked some of our female leaders from across the Nuclear Decommissioning Authority (NDA) group to share their advice for a female apprentice starting out in the nuclear industry. Here\u2019s what they told us.",
+                "tag": "p"
+            },
+            {
+                "content": "Jenny James, Horizon Scanning Manager, NDA",
+                "tag": "h2"
+            },
+            {
+                "content": "\"I began my career in marine biology, spending years knee\u2011deep in seawater as a field assistant before diving into a PhD exploring how ocean acidification affects marine life. That curiosity about how environments change and how we can prepare for change led me into futures and foresight work at the Environment Agency, which ultimately led me to my role today as Horizon Scanning Manager at the NDA.",
+                "tag": "p"
+            },
+            {
+                "content": "\"My advice would be trust your instincts, always choose the most interesting path, refuse to sit still, and keep learning \u2013 because exploring the unknown has always been the most enjoyable part of my career.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Dawn Watson, Head of Strategy and Technical in Infrastructure, Sellafield",
+                "tag": "h2"
+            },
+            {
+                "content": "Deputy Chair of the Cumbria branch of Women in Nuclear UK and Co\u2011chair of the SL Gender Balance Network",
+                "tag": "p"
+            },
+            {
+                "content": "\"The nuclear industry is varied, complex and exciting. Make sure you take any opportunity that is put your way, and don\u2019t be afraid of asking questions and talking to people about their experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "\"You can have a fulfilling career in the industry \u2013 right from being an apprentice or graduate through to retirement. The industry is so varied that there is always a different avenue to pursue if you want it.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Ellie Jones, Electrical, Control and Instrumentation Engineer (Degree Apprentice), NRS",
+                "tag": "h2"
+            },
+            {
+                "content": "\"My advice to any female apprentice starting out in the nuclear industry is to trust yourself and not be afraid to step outside your comfort zone.",
+                "tag": "p"
+            },
+            {
+                "content": "\"Back yourself, be curious, and take every opportunity that comes your way.",
+                "tag": "p"
+            },
+            {
+                "content": "\"There\u2019s so much to get excited about in this sector, especially in decommissioning, your perspective is so valuable and you absolutely belong here.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Naomi Mawby, Shaft and Silo Programme Director, NRS Dounreay",
+                "tag": "h2"
+            },
+            {
+                "content": "\"Be curious, spend as much time with your boots on the ground as you can, learn as much as you can about the sites and how facilities work. Say yes to opportunities \u2013 there is no wrong career pathway! I started my career in sciences as a geologist, then moved into nuclear in various roles at Sellafield, then Nuclear Waste Services and now two decades on I lead a major programme at the NRS Dounreay Site in north Scotland. ",
+                "tag": "p"
+            },
+            {
+                "content": "\"Our industry has so many interesting areas to work, don\u2019t be afraid to try different areas, even if it feels a bit scary until you find the area you love to work in! Be open to new experiences, learn from colleagues around you and just as important make some new friends and connections along the way.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Becky Ruddy, FCA Programme Director, NRS Dounreay",
+                "tag": "h2"
+            },
+            {
+                "content": "\"Take every opportunity that comes your way\u2014especially the ones that make you feel uncomfortable. Those are the moments that stretch you, help you grow, and build your confidence, even if they feel daunting at the time.",
+                "tag": "p"
+            },
+            {
+                "content": "\"Most of all, enjoy your apprenticeship. Soak up every experience. I look back on my own time as an apprentice with such fantastic memories: the outward bound challenges, the life skills gained, the friendships made, and the relationships that have stayed with me for more than 23 years. These early years shape you in ways you don\u2019t see until much later, so embrace them fully.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Tracy Badham, Social Responsibility Manager, NWS",
+                "tag": "h2"
+            },
+            {
+                "content": "\"NWS is committed to inspiring women and girls to see STEM careers as exciting, achievable pathways for their future. Through our partnership programmes\u2014such as the Dream Placement initiative with the Centre for Leadership Performance\u2014we showcase the breadth of roles and opportunities available across NWS, helping young people connect with real careers and real role models.",
+                "tag": "p"
+            },
+            {
+                "content": "\"Inspiration begins early. Our primary school outreach delivers three engaging STEM workshops, each supported by a dedicated workbook, an animated film, and hands\u2011on experiments. These sessions are designed to spark curiosity, build confidence, and show students that STEM is creative, inclusive, and full of possibility.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Liz Holland, Principal Shielding Specialist, NTS",
+                "tag": "h2"
+            },
+            {
+                "content": "\"The most valuable guidance I would offer to an apprentice is to ask questions, learn as much as you can and speak up. Sharing your ideas contributes to a diversity of thought that can drive innovation within the team. While it may seem challenging to speak up amongst more experienced colleagues, insightful contributions often arise from those who bring a fresh perspective!\"",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nda.blog.gov.uk/wisdom-from-women-in-nuclear-advice-for-women-and-girls-in-science/",
+        "blog": "Cleaning up our nuclear past: faster, safer and sooner",
+        "blog_link": "https://nda.blog.gov.uk",
+        "description": "To mark International Day of Women and Girls in Science, we asked some of our female leaders from across the Nuclear Decommissioning Authority (NDA) group to share their advice for a female apprentice starting out in the nuclear industry. Here\u2019s \u2026"
+    },
+    {
+        "title": "Evenlode Landscape Recovery Project begins work on the ground",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-02-11T10:02:22",
+        "categories": [
+            "Payments to restore landscapes and ecosystems"
+        ],
+        "content": [
+            {
+                "content": "We\u2019re pleased to share that\u00a0the Evenlode Landscape Recovery Project\u00a0is ready to move from planning to delivery.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This project is the first to be led by a farmer cluster.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Managed by\u00a0The North East Cotswold Farmer Cluster CIC (NECFC),\u00a0the project\u00a0comprises\u00a0over 50 land managers and farmers, including tenant farmers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together, they will start work on the ground across the 3,000-hectare project area.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The wider\u00a0catchment includes some of\u00a0county\u2019s finest landscapes. It spans parts of the Cotswolds National Landscape, the remnants of the ancient Royal Hunting Forest of Wychwood, and the Blenheim Palace World Heritage Site.\u00a0It includes\u00a016 river water bodies, including the River Evenlode and its major tributaries, the Glyme and the Dorn.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Like so many\u00a0parts of the country,\u00a0the\u00a0landscape\u00a0is under increasing pressure from flooding, water quality decline, biodiversity\u00a0loss\u00a0and the challenge of sustaining long-term, productive food systems.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example,\u00a0around 19% of the area lies\u00a0within a\u00a0flood zone and floods frequently during heavy rainfall due\u00a0to the\u00a0catchment\u2019s rapid (\u201cflashy\u201d) response. This puts multiple communities, farmland, rail and local roads at risk. ",
+                "tag": "p"
+            },
+            {
+                "content": "One\u00a0of the farmers taking part in the project\u00a0reported one field flooding nine times in\u00a0the\u00a0winter\u00a0of\u00a02023\u201324.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The catchment supports a mosaic of habitats,\u00a0including oak and ash woodland, limestone grasslands, lowland meadows and fen, creating conditions for a wide range of wildlife.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The priority species\u00a0identified for targeted conservation action because they are rare, declining or threatened,\u00a0include remnant populations of the endangered native crayfish and water voles, alongside rare plants such as fen violet and downy woundwort.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Action grounded in careful planning\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "NECFC\u00a0drew on expertise from the Evenlode Catchment Partnership and built new relationships.",
+                "tag": "p"
+            },
+            {
+                "content": "Rothamsted Research and the University of Oxford provided scientific input, while Oxbury Bank and Great Yellow offered financial advice. Together, this\u00a0has\u00a0helped shape how the project will track progress and how it will bring different funding sources together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Now, the\u00a0Evenlode\u00a0Landscape Recovery\u00a0project\u00a0will start work\u00a0to create a resilient, productive landscape that supports biodiversity, food production and local communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England will administer the delivery of the project, with the support of the Environment Agency, Forestry Commission and Historic England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Below, we\u2019ll share some examples of where work will begin.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working\u00a0with water: floodplains, wetlands and wildlife\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Evenlode Landscape Recovery Project will enhance how land and rivers work together across the Evenlode, Dorn and Glyme catchments, improving existing habitats and creating new woodland, wetland and riverside habitat.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each participating farm is committing around 10-15% of its less productive land to the project, land that many farmers report they are losing to flooding. The project will bring this land back into use to restore and improve riverside habitats.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This will help keep land workable for longer (less waterlogging and/or compaction), reduces erosion, and improves yield reliability by keeping water where crops\u00a0and grassland\u00a0can use it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Another\u00a0objective\u00a0is cutting pollution getting into rivers by keeping soil, nutrients\u00a0and inputs on the farm instead of being lost to runoff, which protects productivity and can reduce costs. It also lowers the risk of pollution incidents, enforcement\u00a0action\u00a0and remedial work. For the environment, cleaner water supports wildlife, reduces algal\u00a0blooms\u00a0and improves river health for communities downstream.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Work will also focus on reducing pollution through measures including offline wetlands (these are wetlands that treat water using natural processes, away from the main river channel).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At Ridleys (pictured above), a field in the middle of the project, a range of interventions are planned. A poorly performing arable field is transitioning to a mosaic of scrub to connect existing woody habitats, floodplain grazing marsh, lowland hay meadow and natural processes driving river restoration. ",
+                "tag": "p"
+            },
+            {
+                "content": "This will create storage and take energy out of floodwater, allow fine sediments\u00a0to settle and improve water quality, capture more carbon and allow wildlife to flourish.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By improving existing habitats and creating new ones, the project will build a connected habitat network that helps protected species such as water voles to recover and thrive.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These species are indicators of healthy rivers, wetlands and grasslands.\u00a0If they\u2019re doing well, it usually means cleaner water, better habitat condition and a more resilient catchment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Focusing restoration on flood-prone land\u00a0helps nature do what it is good at:\u00a0slowing water, improving water\u00a0quality\u00a0and supporting wildlife. Delivered across more than 50 farms, this approach will reconnect habitats and restore more natural river processes at a landscape scale, bringing lasting benefits for nature and flood resilience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The project seeks to\u00a0store more\u00a0carbon in the long term\u00a0and capture more carbon in the short term. For farmers, practices that increase soil organic matter can improve soil structure, water-holding capacity and nutrient cycling, which can help stabilise yields and reduce losses in wet or dry years.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For the environment, it helps cut net greenhouse gas emissions and supports\u00a0wider nature\u00a0recovery. In some cases, it can also open access\u00a0to carbon-related payments or finance, where schemes and verification requirements are met.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Exploring funding approaches\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The project is piloting some of the more complex funding approaches within Landscape\u00a0Recovery. It is exploring how payments for ecosystem services could operate in practice, and how these could be combined with public funding to support long-term delivery. This includes assessing potential income from utility companies, Biodiversity Net Gain, and carbon markets.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside public payments linked to results, these options could give participating farmers and land managers a more reliable mix of income, while helping deliver environmental improvements in a cost-effective way.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The project has already\u00a0secured its first\u00a0natural flood management off-take agreement\u00a0with Oxfordshire County Council.\u00a0In natural flood management, an offtake agreement is a contract where an organisation agrees to pay a farmer or land manager for actions that reduce flood risk. It provides a reliable income to put nature-based measures in place, such as leaky dams, ponds or wetlands, which slow down, store or hold back floodwater.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is\u00a0currently negotiating several more of these new finance arrangements with several infrastructure operators in the catchment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By 2045, the project aims to show how public and private funding can work together to support\u00a0a viable\u00a0farm economy, deliver benefits for local communities, and restore the environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working together for people, nature, and resilience\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The project has a shared governance setup and advisory boards to make sure landowners and tenant farmers are both included in decisions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the development phase, the project used the funding to turn early ideas into a plan that is ready to deliver. The team checked what would work in practice, agreed actions and costs, and explored options for private investment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It also built strong partnerships with the Evenlode Catchment Partnership, the Leverhulme Centre for Nature Recovery at the University of Oxford, Oxfordshire County Council, environmental NGOs, the local farmer cluster and the wider community, involving them in both the design and preparation for delivery, as well as working with infrastructure owners such as Network Rail and Thames Water.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the project moves forward, it will work alongside local community groups, strengthening the important work they already do to\u00a0learn about and take part in local activities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The project is working with stakeholders and education\u00a0in a range of ways.\u00a0For example, hundreds of miles of footpaths threaded through the project area will\u00a0feature\u00a0QR codes, linking to stories, educational resources,\u00a0pictures, and opportunities to engage further in the project.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over time, the project will bring in more people and organisations, including local communities, farmers outside the project area, local councils and parishes, and local groups, as partners and volunteers in nature recovery and education.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "More than \u00a3160 million has now been\u00a0committed to support Landscape Recovery projects across the country during their Project Implementation Phases.",
+                "tag": "p"
+            },
+            {
+                "content": "Landscape Recovery differs from other environmental land management schemes because of its scale, ambition and long-term approach, and because it is designed to blend public and private funding. Alongside environmental outcomes, it can also deliver wider benefits for local communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these projects demonstrate the flexibility of the Landscape Recovery programme and the different ways large-scale ambition can be achieved.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Visit GOV.UK to learn more about Landscape Recovery and subscribe to the Farming blog for a notification whenever we publish a new post.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/02/11/evenlode-landscape-recovery-project-begins-work-on-the-ground/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "We\u2019re pleased to share that\u00a0the Evenlode Landscape Recovery Project\u00a0is ready to move from planning to delivery."
+    },
+    {
+        "title": "The\u00a0National Landscapes Association: Your Natural Partner, championing nature, people and place",
+        "authors": [
+            "Hannah Wilcox-Brooke"
+        ],
+        "posted_on": "2026-02-11T09:36:18",
+        "categories": [
+            "Community",
+            "Nature"
+        ],
+        "content": [
+            {
+                "content": "With some of the world\u2019s rarest and most precious habitats from chalk streams to ancient rainforests, the UK\u2019s National Landscapes are some of our most cherished places.\u00a0Formerly known as Areas of Outstanding Natural Beauty,\u00a0these landscapes\u00a0are protected in the nation\u2019s interest, and\u00a0while\u00a0they\u00a0cover around 15% of\u00a0England,\u00a0the\u00a0benefits they bring to wildlife and\u00a0ecosystem\u00a0radiate far beyond their boundaries.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "More\u00a0than two-thirds of the population live within a\u00a030-minute\u00a0journey time of a National\u00a0Landscape\u00a0and they welcome millions of visitors\u00a0annually.\u00a0National Landscapes\u00a0cover\u00a0an even larger total area\u00a0than\u00a0our\u00a0National Parks, and include some of our most iconic landscapes, including the\u00a0Cotswolds, North\u00a0Pennines\u00a0and the Chilterns.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For\u00a070\u00a0years, National Landscapes have delivered\u00a0for\u00a0nature and communities through collaboration\u00a0and stewardship.\u00a0They are spaces where people and nature thrive together, providing vital ecosystem services that sustain economies, tourism,\u00a0wildlife,\u00a0and recreation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m\u00a0Hannah Wilcox-Brooke, Head of Nature based\u00a0solutions at the National Landscapes Association, and\u00a0in this post\u00a0I\u2019m\u00a0excited to tell you about some of our work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For the first time in\u00a0National\u00a0Landscape\u00a0Association\u00a0history,\u00a0we\u00a0are\u00a0partnering with businesses to\u00a0help\u00a0meet ambitious nature recovery targets\u00a0to protect our iconic landscapes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Opening the door to private partnerships in protected landscapes\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Launched in November 2024,\u00a0Your Natural Partner\u00a0is a Defra-funded initiative led by the\u00a0National Landscapes Association.The platform connects businesses with local environmental projects that are part of established long-term plans, helping to deliver genuine benefits for both communities\u00a0and nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Public funding has already unlocked extensive nature recovery and community benefits in protected areas, but the scale of the environmental challenges faced globally need wider participation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Your Natural Partner makes it easy for businesses to explore the portfolio of nature recovery and community projects across all 46 National Landscapes in one place, streamlining their journey to finding credible partners that deliver positive, measurable outcomes across climate, nature, economy, and communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across the country, experienced National Landscape teams are already delivering agile and landscape-led nature restoration projects across government and private sectors.\u00a0Let\u2019s\u00a0discuss a few examples\u00a0below.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering catchment-scale river recovery,\u00a0Blackdown Hills National Landscape\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For decades, the River Culm has faced\u00a0intensifying\u00a0environmental problems including flooding, drought, decreased water quality, and\u00a0biodiversity loss.\u00a0These issues have intensified due to climate change, with flooding a recurring major issue.\u00a0When this happens, a major railway line serving the\u00a0south west\u00a0is severely affected, inflicting millions of pounds of damage on businesses and communities alike.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0Connecting the Culm project\u00a0is working with nature and local communities to help make the river and its catchment\u00a0more biodiverse and resilient to flood and drought. Working with clusters of landowners, it takes\u00a0a holistic approach\u00a0to strengthening the river\u2019s flood\u00a0defences\u00a0naturally, aiming to protect 200 properties and businesses from flooding while boosting biodiversity.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through strategic\u00a0nature-based\u00a0interventions,\u00a0the team has ambitious, science-backed targets to reach by 2030. Work is\u00a0underway with\u00a0initial\u00a0partners on board, and the project is now seeking further funding,\u00a0offering tailored packages that work for everyone.\u00a0Every business is\u00a0unique\u00a0and we take the time to understand\u00a0partners\u2019\u00a0priorities and tailor a solution that makes sense for your teams and stakeholders.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Restoring\u00a0globally-significant\u00a0peatland, North Pennines\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Covering around 12% of the UK, peatlands are one of the country\u2019s most powerful natural climate assets, yet in their degraded state they emit more than three million\u00a0tonnes\u00a0of carbon every year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wetland ecosystems\u00a0that\u00a0store\u00a0huge amounts\u00a0of carbon,\u00a0support a diverse range of species, improve water\u00a0quality\u00a0and\u00a0help to regulate flow,\u00a0reducing flood risk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since 2006, the North Pennines National Landscape has delivered one of the UK\u2019s\u00a0most ambitious peatland restoration\u00a0programmes, restoring over 50,000 hectares \u2014 an area four times the size of Newcastle. Backed by millions of pounds of private finance, the delivery team works collaboratively with landowners,\u00a0communities\u00a0and public bodies to halt emissions and lock carbon back into the soil, delivering measurable results on the ground.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This proven, landscape-scale\u00a0programme\u00a0is seeking forward-thinking partners to support its carbon-positive projects, with the potential to\u00a0purchase\u00a0high-integrity\u00a0credits\u00a0as part of their contribution.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Community, culture and inclusion, Dorset\u00a0National Landscape\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Nature Buddies\u00a0is\u00a0designed to overcome the physical and interpersonal barriers that prevent many people from accessing nature. Through trained volunteers providing one-to-one support, the\u00a0programme\u00a0enables individuals \u2014 particularly disabled people and those facing\u00a0additional\u00a0challenges \u2014 to experience and enjoy the outdoors safely and confidently.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With\u00a0additional\u00a0funding, the team can recruit and upskill new volunteers, embed Nature Buddies as a long-term service, and expand its reach across the area. Alongside initiatives such as\u00a0FLAVOURS, which brings underserved communities together through shared meals and locally grown food, Nature Buddies\u00a0demonstrates\u00a0how inclusive projects can deliver lasting social impact.",
+                "tag": "p"
+            },
+            {
+                "content": "A collaborative effort across protected landscapes\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This new offer is the result of over two years of scoping and engagement led by the National Landscapes Association, supported by the National Parks Partnerships team, and endorsed and funded by Defra. It reflects a growing recognition that England\u2019s protected landscapes are stronger together and is just the beginning.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last month,\u00a0teams from National Landscapes and National Parks\u00a0came together at the Protected Landscapes Forum to\u00a0showcase\u00a0their commercial offers to businesses.\u00a0It is a clear signal of a new era: one where protected\u00a0landscapes\u00a0are not only places of beauty, but active partners in delivering\u00a0nature\u00a0recovery, climate\u00a0resilience\u00a0and social value.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By\u00a0opening up\u00a0partnership opportunities, and by working collaboratively across landscapes, England is\u00a0demonstrating\u00a0how protected areas can lead the way,\u00a0retaining\u00a0the UK\u2019s reputation as a global innovator in nature recovery, while safeguarding the places people love, now and for generations to come.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Visit Your Natural Partner and start discovering projects in the UK\u2019s National Landscapes.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/02/11/the-national-landscapes-association-your-natural-partner-championing-nature-people-and-place/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "For\u00a070\u00a0years, National Landscapes have delivered\u00a0for\u00a0nature and communities through collaboration\u00a0and stewardship.\u00a0They are spaces where people and nature thrive together, providing vital ecosystem services that sustain economies, tourism,\u00a0wildlife,\u00a0and recreation.\u00a0\u00a0 I\u2019m\u00a0Hannah Wilcox-Brooke, Head of Nature based\u00a0solutions at the National Landscapes Association, and\u00a0in this post\u00a0I\u2019m\u00a0excited to tell you about some of our work."
+    },
+    {
+        "title": "Evenlode Landscape Recovery Scheme: Environment Agency\u00a0Celebrates\u00a0Partnership\u00a0Working Success\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-02-11T09:32:09",
+        "categories": [
+            "agriculture",
+            "Flood",
+            "Water"
+        ],
+        "content": [
+            {
+                "content": "by John Leyland, Executive Director of Environment and Business",
+                "tag": "p"
+            },
+            {
+                "content": "At\u00a0the\u00a0Environment Agency, nature is key to what we do.\u00a0It\u2019s\u00a0our job to protect and enhance the environment, enabling nature\u2019s recovery whilst contributing to sustainable growth, with an ambition for climate resilience and healthy air,\u00a0land\u00a0and water.\u00a0We\u00a0can't\u00a0do this alone - partnership is at the heart of how we\u00a0work.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0does that mean in reality?\u00a0It means supporting\u00a0initiatives\u00a0like\u00a0the Evenlode Landscape Recovery scheme\u00a0\u2013 a project that\u00a0is rooted in\u00a0the creation of powerful partnerships\u00a0and has brought\u00a0together communities, farmers, government partners to\u00a0deliver\u00a0at scale\u00a0on\u00a0environmental ambitions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Farmer-led environmental ambitions\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s\u00a0particularly special about\u00a0the\u00a0Evenlode project is\u00a0that it is\u00a0a true farmer-led enterprise, with over 50 pioneering land mangers across the\u00a0North East\u00a0Cotswold bringing together more than 3,000ha of land for environmental enhancement.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The project also hopes to secure private income for ecosystem services from multiple sources, including utility companies,\u00a0Biodiversity Net\u00a0Gain\u00a0and carbon sales to help land managers seek\u00a0additional\u00a0revenue while delivering cost-effective environmental improvements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Embarking on their\u00a020 year\u00a0journey this February,\u00a0landowners\u00a0will restore and regenerate\u00a0parts of their land, improving\u00a0the functions of the three key rivers \u2013 the Evenlode, the Glyme and the\u00a0Dorn.\u00a0In doing so, they will\u00a0create an agriculturally productive landscape that builds nature-based resilience for climate, flooding,\u00a0biodiversity\u00a0and water quality.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By shifting farming practices at a catchment scale, including river flow management and soil health, farms can remain productive and profitable while delivering wide\u2011ranging benefits for land managers and surrounding communities.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Making Landscape Recovery possible\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Evenlode project is to be awarded over \u00a3100m in implementation funding from Defra, going to over 50 land managers, the majority being farmers, over the next 20 years. That's not just good for nature \u2013 the project has ambitious aims, with a tailored approach to improving soil health and flood management on each landholding.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Measuring its impact is of paramount importance and the project has key markers of success it will be looking at \u2013 tracking soil quality, water quality and even the numbers of species, such as water vole.",
+                "tag": "p"
+            },
+            {
+                "content": "How the Environment Agency set out to do things differently\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I first heard about the Evenlode project at a round table event with assorted stakeholders talking about how together we could fix water. One speaker\u00a0in particular was\u00a0an articulate farmer who was passionate about farming and protecting and enhancing land for nature and habitats. His appraisal of the Environment Agency however was not positive. He cited\u00a0needing many permits from several organisations with quite a few of them being from the EA, which he felt would take years, and the idea of restoration would be over before it began. It was a story of great people, but terrible anti-growth and anti-nature processes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I asked, how can I help? And from that chance meeting, we used the lived experience of someone going through the new Landscape Recovery scheme\u00a0and took it into\u00a0the way we\u00a0operated\u00a0in practice on the development of the project.\u00a0In practice, this will mean new and innovative solutions from the Environment Agency, to help create rich wetland habitats and reducing flood risk to local communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our role in Evenlode\u2019s Landscape Recovery\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the\u00a0lead administrator\u00a0of\u00a0the project\u00a0through its development phase, we\u00a0wanted to support\u00a0those pioneering land managers\u00a0to\u00a0make\u00a0their ambitions a reality\u00a0by\u00a0challenging\u00a0ourselves to create real change.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As\u00a0the project has developed their plans for investment and\u00a0have used our\u00a0expertise\u00a0in river restoration as ecologists,\u00a0regulators\u00a0and reformers to\u00a0best to\u00a0unlock this ambitious nature restoration project at scale.\u00a0It\u2019s\u00a0been a hugely collaborative effort\u00a0and\u00a0a learning\u00a0curve for\u00a0us \u2013 but the determination\u00a0of the project, its partners and our own people have led us to overcome\u00a0multiple\u00a0obstacles. Retaining\u00a0the vision for\u00a0ambitious\u00a0environmental recovery is always\u00a0at the core of its success.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have managed grants, provided bespoke one-to-one project support and given specialist advice to a project\u00a0that\u2019s\u00a0ambitious with measurable outcomes.\u00a0Importantly,\u00a0we\u2019ve\u00a0weighed cost against impact and ensured public money is used wisely.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This project is\u00a0a great example\u00a0of how, at the Environment Agency, we can use our resources and\u00a0expertise\u00a0to help\u00a0facilitate\u00a0nature-based solutions on large-scale programmes.\u00a0It\u2019s\u00a0exciting to know that this project will go on to deliver a more resilient river habitat for farmers, local\u00a0communities\u00a0and nature by 2045.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Now the project is within the implementation stage, it will be managed by our colleagues in Natural England, with the Environment Agency continuing to provide support on aspects like permitting \u2013 such as ensuring they have the right flood risk permits in place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Innovating and improving into the future\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Something we have trialled and developed and will continue to do so is our nature permitting and coordination service. It is tailor made to help speed up big, ambitious projects navigate of our permitting service - providing a dedicated team and structured approach to permitting for large-scale and complex nature recovery projects.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the next year, we will continue to support more projects as they move through their development.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The future of Landscape Recovery\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This\u00a0isn\u2019t\u00a0the first scheme\u00a0across the country\u00a0to have an agreement\u00a0ready\u00a0for implementation and it\u00a0won\u2019t\u00a0be the last.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So far, more than 250,000ha of land\u00a0(that\u2019s\u00a0equivalent to over\u00a0300,000 football pitches)\u00a0and over 1,500 land managers have\u00a0participated\u00a0in the\u00a0Landscape Recovery\u00a02-year development phase. Projects are developing plans for more than 1,300km of river restoration, 35,000ha of peatland restoration, provide new or restore habitats for more than 260 species and benefit over 190 protected sites.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Healthier landscapes and real nature recovery\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Taking this scheme from concept to delivery has been an exciting challenge and a clear sign of the progress\u00a0we\u2019re\u00a0making towards EA2030\u2014greater climate resilience, healthier\u00a0landscapes\u00a0and real nature recovery.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our partnership with NE, Defra and our ALB colleagues has shown this team at its best: acting with clarity and conviction, focusing on effective delivery, solving problems together and always serving with care. This collaboration is what makes the scheme so\u00a0powerful\u00a0and its legacy will guide and encourage other landscape recovery schemes to make the environment better.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But for now, congratulations to the Evenlode team for a trailblazing project\u00a0that will see a landscape\u2019s recovery set in motion. We are proud to have played our part.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/02/11/evenlode-landscape-recovery-scheme-environment-agency-celebrates-partnership-working-success/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "At\u00a0the\u00a0Environment Agency, nature is key to what we do.\u00a0It\u2019s\u00a0our job to protect and enhance the environment, enabling nature\u2019s recovery whilst contributing to sustainable growth, with an ambition for climate resilience and healthy air,\u00a0land\u00a0and water.\u00a0We\u00a0can't\u00a0do this alone - partnership is at the heart of how we\u00a0work.\u00a0\u00a0"
+    },
+    {
+        "title": "On the bench: Why magistrates matter",
+        "authors": [
+            "HMCTS Communications"
+        ],
+        "posted_on": "2026-02-11T09:08:33",
+        "categories": [
+            "Interviews",
+            "Podcast"
+        ],
+        "content": [
+            {
+                "content": "What does it take to sit on the bench and deliver justice? Less than you might think. ",
+                "tag": "p"
+            },
+            {
+                "content": "Nick balances his work as a driving instructor with 17 years of volunteering as a magistrate in Sheffield and he says it's one of the most rewarding things he's ever done. ",
+                "tag": "p"
+            },
+            {
+                "content": "In this episode of Inside HMCTS, he walks us through the reality of the role, working as a team, supported by a legal adviser and making decisions that genuinely improve lives. He shares how his employers have supported him, the skills he's brought back to his day job, and why anyone aged 18-74 should consider applying.",
+                "tag": "p"
+            },
+            {
+                "content": "For more information visit:\u00a0icanbeamagistrate.co.uk",
+                "tag": "p"
+            },
+            {
+                "content": "Listen to the latest episode now, available wherever you get your podcasts from!",
+                "tag": "p"
+            },
+            {
+                "content": "Amazon",
+                "tag": "p"
+            },
+            {
+                "content": "Apple",
+                "tag": "p"
+            },
+            {
+                "content": "Buzzsprout",
+                "tag": "p"
+            },
+            {
+                "content": "Spotify",
+                "tag": "p"
+            },
+            {
+                "content": "A transcript of the podcast is also available.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2026/02/11/on-the-bench-why-magistrates-matter/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "Nick walks us through the reality of being a magistrate, working as a team, supported by a legal adviser and making decisions that genuinely improve lives. He shares how his employers have supported him, the skills he's brought back to his day job, and why anyone aged 18-74 should consider applying."
+    },
+    {
+        "title": "I am not a medic, but my title is \"Dr.\"",
+        "authors": [
+            "Bhudipa Choudhury"
+        ],
+        "posted_on": "2026-02-11T09:00:00",
+        "categories": [
+            "Women in science"
+        ],
+        "content": [
+            {
+                "content": "The stroke of the midnight hour ushering in the 15 August 1947 had a key impact on my life. Not my birth date, but the birth of independent India. My family made their way to a new life in India leaving behind all material possessions and our ancestral home, which had changed location overnight from British India to East Pakistan. Independence was expensive: British India was partitioned into three portions; there was carnage and chaos as families desperately traversed borders to reach their destinations. Millions were displaced or dead, so my family were amongst the lucky ones, alive and relatively unscathed. The turbulence continued for decades, particularly in the Eastern part of the country with East Pakistan becoming Bangladesh in 1971. There was limited opportunity or immediate hope for improvement as colonial rule had stripped countries of their assets. Ironically, this led my parents and many others to move to GB as post WWII and the fall of the empire, Britain was welcoming residents from her former colonies to participate in the nation rebuilding process.",
+                "tag": "p"
+            },
+            {
+                "content": "Cut to the only place I know as home, Birmingham, England. The trauma of partition lingers throughout generations and growing up I was repeatedly told that \u201cI should study hard to get a good job\u201d. There are multiple jokes and stereotypes around Indian families wanting their kids to be doctors or engineers or if they cannot manage either of those, perhaps a lawyer. That is with good reason: if you have lost everything you ever owned you can only rely on yourself: the skills and knowledge you hold and can carry weightlessly with you, wherever you may end up.",
+                "tag": "p"
+            },
+            {
+                "content": "Initially I was not so keen on science, my favourite subject was mathematics. It was during my GCSE years, and the teaching prowess of Mr. Gateley, that my interest in science grew. I thought I would study medicine, but from childhood I knew that I wanted to do research, no rhyme or reason, it was just what I wanted to do. I soon realised that there are more routes to research than medicine, so it was decided (with a bit of cajoling) that I would study microbiology and then follow up with a PhD - ultimately my title would be \u201cDr\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "I decided to pursue a PhD in virology and studied the evolution of Human Immunodeficiency Virus \u2013 1 (HIV-1), which belongs to the retrovirus family and is the virus which can cause Acquired Immunodeficiency Syndrome (AIDS).",
+                "tag": "p"
+            },
+            {
+                "content": "Next, I undertook a post-doc focussed on producing attenuated viruses as a vaccination strategy against HIV/AIDS. The attenuation process weakens the virus so that it is unable to cause disease but can still be recognised by the immune system, hopefully protecting the individual. I rather naively thought I was working towards a cure, but quickly understood that live attenuated viruses are not the best choice for retroviral infections: vaccines protect against disease and not infection; retroviruses reproduce by inserting their genetic material inside the host\u2019s genome, so once infected, it is lifelong.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After a hard slog but no scientific manuscripts to show for it, I had to move on. As there were not any virology specific posts, my next move was to cancer genetics. I admit it I only did it for the papers, and papers I got. However, the buzz of publications was short-lived and I was b-o-r-e-d\u2026 I wanted to return to virology\u2026",
+                "tag": "p"
+            },
+            {
+                "content": "APHA advertised for a scientist on the OFFLU programme*, and said scientist was me. I disliked the nomadic post-doc lifestyle so a permanent position in virology was even worth taking a pay cut for. I was the first OFFLU Scientist, and as well as bringing me back to virology, this role also allowed me to travel, for example the opportunity to work at APHA\u2019s Australian equivalent, the Australian Centre for Disease Preparedness. I remember nervously boarding the flight to Sydney as it was the first time that I travelled that far alone. Whilst I was enjoying my stint in the \u2018flu group, I also wanted to progress through the ranks. I joined the agency as HEO and a year later I was promoted to a team lead position within the Mammalian Virology workgroup at APHA. This role returned me to work with retroviruses; I took on leadership of the World Organisation for Animal Health Reference Laboratory for enzootic bovine leukosis and research into equine infectious anaemia virus.",
+                "tag": "p"
+            },
+            {
+                "content": "As the years rolled on, I began to feel \u201cstuck\u201d, that is the pyramidical nature of hierarchy. Change was on the horizon with a six-month secondment to the Government Office for Science during the SARS-CoV-2 (COVID-19) pandemic, a fantastic opportunity to understand the workings of another department.",
+                "tag": "p"
+            },
+            {
+                "content": "During my absence, APHA was expanding which allowed my next move to Deputy Work Group Leader (WGL) for Mammalian Virology. Shortly after, the WGL stepped into another role meaning that I could step up and take full control. After being in charge for 18 months, I did not want to be the deputy again and fortunately there was a temporary promotion opportunity for the Animal and Zoonotic Viral Disease Portfolio\u2019s (AZVDP) Lead Scientist (LS) role, which oversees all of the research and surveillance projects within that portfolio. And now I am permanently in the LS AZVDP position, I am still not sure how that happened, but it did.",
+                "tag": "p"
+            },
+            {
+                "content": "The most enjoyable objective as Lead Scientist is to promote our work which is easy as we have much to celebrate. Despite being battered by continuous disease outbreaks, we have inputted rapidly to key government policies, for example, working collaboratively to confirm non-viability of influenza virus in milk. We work on everything from hedgehogs to elephants and support with diseases of welfare and economic impact which perhaps do not get the wider acknowledgement that they deserve (Striving for healthier pigs: tackling porcine reproductive and respiratory syndrome; Advancing the fight against Bovine Viral Diarrhoea).",
+                "tag": "p"
+            },
+            {
+                "content": "We study over 30 viruses, fulfilling our responsibility to \u201cprotect animal and plant health for the benefit of people, the economy and the environment\u201d via our international and national reference laboratories \u2013 an example is our work on rabies virus.",
+                "tag": "p"
+            },
+            {
+                "content": "We also undertake surveillance to understand which disease threats may be on the horizon, for example in this blog: APHA scientists find West Nile Virus sequences in UK mosquitoes: what it means for wildlife and public health. We are also reactive to novel threats and preparing for such incursions by investigating new technologies via projects such as Genomics for Animal and Plant Disease Consortium.",
+                "tag": "p"
+            },
+            {
+                "content": "My colleagues, some of the brightest, conscientious and dedicated individuals that I have had the pleasure of interacting with, are one of the key factors in keeping me working here at APHA. Working in the veterinary field, we are sometimes seen as public health\u2019s poorer cousins, a notion that could not be further from the truth. Journal impact factors may not always reflect it, but our scientific thinking, concepts and technical innovations match, and often surpass, those in public health.",
+                "tag": "p"
+            },
+            {
+                "content": "Across portfolios we are attractive collaborative partners, for our skills and knowledge and equally for our resources, pathogen collections and facilities. We should not forget that and appreciate our own value.",
+                "tag": "p"
+            },
+            {
+                "content": "Every large organisation has its issues but there are also opportunities, particularly avenues to study, whether it is part-time post-graduate studies or apprenticeship schemes. Of late, we have had a continuous stream of high-profile visits and the wider media attention our work deserves, so let us keep our foot on the accelerator\u2026trust me, my title is \u201cDr.\u201d!",
+                "tag": "p"
+            },
+            {
+                "content": "Marking International Day of Women and Girls in Science",
+                "tag": "h2"
+            },
+            {
+                "content": "To mark International Day of Women and Girls in Science, we are delighted to share a new video featuring some of the talented female scientists working across APHA. Their dedication, expertise and passion drive our research and help protect animal and public health. Join us as we celebrate the vital role women and girls play in science.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2026/02/11/i-am-not-a-medic-but-my-title-is-dr/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "Marking International Day of Women and Girls in Science, APHA Lead Scientist Dr Choudhury shares her journey into research."
+    },
+    {
+        "title": "The business case for independent scrutiny",
+        "authors": [
+            "Stephen Gibson, RPC Chair"
+        ],
+        "posted_on": "2026-02-11T08:43:03",
+        "categories": [
+            "Business engagement"
+        ],
+        "content": [
+            {
+                "content": "This is the second post in our series on \"Why the RPC matters\" explaining the importance of our independent scrutiny. The first post was on independent scrutiny as the foundation for growth.",
+                "tag": "p"
+            },
+            {
+                "content": "When the UK's leading business organisations speak with one voice, it's worth paying attention to.",
+                "tag": "p"
+            },
+            {
+                "content": "Across sectors \u2013 from manufacturing to hospitality, from small enterprises to major corporations \u2013 business leaders consistently make the same point: the RPC\u2019s independent scrutiny of regulation matters.",
+                "tag": "p"
+            },
+            {
+                "content": "This isn't about opposing regulation. Businesses understand that well-designed rules protect workers, consumers, and fair competition. What they need is confidence that regulation is built on solid evidence \u2013 that someone independent has checked the analysis before policy proposals become law.",
+                "tag": "p"
+            },
+            {
+                "content": "For manufacturers navigating complex supply chains and international competition, poorly-evidenced regulation isn't just frustrating \u2013 it's a competitive disadvantage. Independent scrutiny helps ensure that when government acts, it acts on the basis of robust analysis.",
+                "tag": "p"
+            },
+            {
+                "content": "The hospitality sector, which employs over 3 million people across the UK, depends on regulatory decisions being proportionate and well-informed.",
+                "tag": "p"
+            },
+            {
+                "content": "And it's not just large sectors. Small businesses \u2013 the backbone of the UK economy \u2013 benefits perhaps most of all from independent scrutiny that considers whether regulations can be designed to avoid disproportionate burdens.",
+                "tag": "p"
+            },
+            {
+                "content": "The Institute of Directors captures the broader principle:",
+                "tag": "p"
+            },
+            {
+                "content": "Independent scrutiny isn't red tape. It's the mechanism that helps ensure regulation achieves its intended purpose without imposing excessive costs or unintended consequences. When business leaders across every sector unite behind this principle, it reflects a shared understanding: good evidence makes better regulation, and better regulation supports sustainable growth.",
+                "tag": "p"
+            },
+            {
+                "content": "\ud83d\udd17 Read more about how independent scrutiny supports better regulation: https://www.gov.uk/government/organisations/regulatory-policy-committee",
+                "tag": "p"
+            }
+        ],
+        "link": "https://rpc.blog.gov.uk/2026/02/11/the-business-case-for-independent-scrutiny/",
+        "blog": "Regulatory Policy Committee",
+        "blog_link": "https://rpc.blog.gov.uk",
+        "description": "This is the second post in our series on \"Why the RPC matters\" explaining the importance of our independent scrutiny."
+    },
+    {
+        "title": "From apprentice to social media manager: my journey through government communications",
+        "authors": [
+            "bobsendall"
+        ],
+        "posted_on": "2026-02-11T08:00:00",
+        "categories": [
+            "Careers"
+        ],
+        "content": [
+            {
+                "content": "At school\u00a0I knew I did not want to take the university\u00a0path but\u00a0was unsure where else my future could take me. I spent a\u00a0couple of\u00a0years\u00a0in primary schools\u00a0training to be a teaching assistant after I finished sixth form, then\u00a0I did a brief stint\u00a0as an apprentice in journalism, having thought the move from teaching assistant may push me further and give me a challenge.\u00a0Fundamentally though, it\u00a0wasn\u2019t\u00a0for me, I\u00a0didn\u2019t\u00a0feel like I was making a difference the way I did in schools. I looked for another opportunity, something that was\u00a0still\u00a0a \u2018learn as you earn\u2019 role, making an impact\u00a0and\u00a0progressing my career.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, when I started as a Government Communications Apprentice at HMRC\u00a0in 2019,\u00a0I had no idea where this career would take me. Fresh-faced\u00a0to Government\u00a0and eager to learn, I threw myself into\u00a0my first placement in\u00a0social media, discovering a genuine passion for connecting with the public through digital channels, ensuring people\u00a0were\u00a0aware and involved.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Then the pandemic hit. Suddenly, I found myself at the heart of\u00a0HMRC\u2019s\u00a0crisis communications\u00a0team\u00a0during one of the most challenging\u00a0global\u00a0periods in recent history. Those months working on COVID messaging taught me more than any textbook ever could. Helping people understand vital schemes like furlough, when their livelihoods depended on clear,\u00a0accurate\u00a0information, showed me the real impact government communications can have on people's lives. I completed my Level 4 qualification in PR during this time, which gave me a\u00a0strong\u00a0professional foundation to build on.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A couple of\u00a0years later, I made the move to the Home Office as a press officer in the\u00a0Police and\u00a0Crime team\u00a0to develop my portfolio and experience in the Civil Service. This was\u00a0an entirely different role within communications.\u00a0\u00a0Writing press releases, coordinating campaigns with influencers, and yes, working those memorable night shifts. Working\u00a0directly to\u00a0the Home Secretary brought a level of pressure\u00a0I\u00a0hadn't\u00a0experienced before, but it taught me to think on my feet and stay calm when the stakes were high. Every challenging moment was a learning opportunity. I was involved in many\u00a0life\u00a0changing campaigns \u2013\u00a0from drink spiking\u00a0to knife crime and police recruitment, every word on every release mattered.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After returning from maternity leave, I was ready for a new chapter. I joined the Ministry of Defence, working in what is now Cyber & Specialist Operations Command as a social media manager. Running three successful social media channels here has been incredibly rewarding.\u00a0I\u2019ve\u00a0grown\u00a0these\u00a0channels,\u00a0secured contracts,\u00a0met key stakeholders, attended insightful events and \u2013 most importantly \u2013\u00a0shared\u00a0the\u00a0incredible work\u00a0across the Command, from overseas bases, to medics, educators,\u00a0operators\u00a0and\u00a0intelligence.\u00a0The work we do is fascinating, and I get to\u00a0bring to life\u00a0stories\u00a0that\u00a0matter\u00a0about the people\u00a0and capabilities\u00a0protecting our nation in\u00a0cyberspace and beyond.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking back at my journey\u00a0over the last\u00a0seven\u00a0years\u00a0from apprentice to where I am now,\u00a0I'm\u00a0grateful for every step\u00a0and learned so much along the way.\u00a0Government communications\u00a0offers\u00a0such varied opportunities, and\u00a0I'd\u00a0encourage anyone considering this path to take the leap. You never quite know where it might lead you.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "GCS Advance: Apprenticeship - GCS\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cyberandspecialistoperationscommand.blog.gov.uk/2026/02/11/from-apprentice-to-social-media-manager-my-journey-through-government-communications/",
+        "blog": "Cyber & Specialist Operations Command",
+        "blog_link": "https://cyberandspecialistoperationscommand.blog.gov.uk",
+        "description": "At school\u00a0I knew I did not want to take the university\u00a0path but\u00a0was unsure where else my future could take me. I spent a\u00a0couple of\u00a0years\u00a0in primary schools\u00a0training to be a teaching assistant after I finished sixth form, then\u00a0I did a brief \u2026"
+    },
+    {
         "title": "London Vet Show 2025 - Showcasing\u00a0exciting\u00a0opportunities",
         "authors": [
             "Government Vets Blog Team"
