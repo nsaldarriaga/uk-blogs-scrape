@@ -1,5 +1,1187 @@
 [
     {
+        "title": "Launching\u00a0BluePrint: Expanding citizen science across England's waterways\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-02-17T12:24:00",
+        "categories": [
+            "Citizen Science",
+            "Fisheries and biodiversity",
+            "Rivers",
+            "Science",
+            "Sustainability",
+            "Water",
+            "Water Monitoring"
+        ],
+        "content": [
+            {
+                "content": "We\u2019re\u00a0delighted to\u00a0announce the launch\u00a0of a\u00a0new digital tool that\u00a0lets\u00a0you\u00a0report on the health of\u00a0your\u00a0local rivers,\u00a0lakes\u00a0and beaches in real-time, directly from\u00a0your\u00a0phone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "BluePrint, developed by the Environment Agency in partnership with Hello Lamp Post, builds on the success of\u00a0WaterWatch - a year-long pilot that gathered public observations at five bathing water sites. Now, the concept is going national.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Shared views on shared environments\u00a0England's waterways are constantly changing. While the Environment Agency carries out extensive monitoring, measurements alone\u00a0can't\u00a0capture how these changes are felt by the people who swim, walk and paddle there.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That's\u00a0where you come in.\u00a0We're\u00a0working with citizen scientists to gather insights from communities who visit their local waters most often -perspectives that can help us spot changes earlier and support more responsive environmental decision-making.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To build this richer picture of people\u2019s experiences,\u00a0we are\u00a0continuing our partnership\u00a0with\u00a0Hello Lamp Post\u00a0and developing their\u00a0digital\u00a0AI\u00a0tool, in our new\u00a0pilot\u00a0project\u00a0BluePrint. The\u00a0new national digital conversation tool\u00a0will\u00a0allow the public to share real\u2011time observations from rivers, lakes,\u00a0beaches\u00a0and streams anywhere in England. It builds on the success of\u00a0WaterWatch, a site\u2011based pilot that used QR signs\u00a0to engage people at five bathing water locations between October 2024 and October 2025.\u00a0Their input gave us unique insights into\u00a0water clarity, levels of activity and visible signs of pollution.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "BluePrint\u00a0expands the concept from five sites to\u00a0pilot\u00a0a national, remote\u2011access tool, ensuring anyone can participate without needing to locate a sign,\u00a0giving\u00a0us a way to hear directly from people whenever they are out enjoying their local waters,\u00a0and\u00a0helping us understand how places are being used and what changes people are noticing.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is\u00a0the\u00a0BluePrint\u00a0pilot?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Unlike the\u00a0WaterWatch\u00a0pilot,\u00a0BluePrint\u00a0does not\u00a0rely\u00a0on physical signs and QR codes at set locations. Instead,\u00a0BluePrint\u00a0will be testing the\u00a0use\u00a0of\u00a0geolocation so\u00a0you can share your\u00a0observations from any river, lake,\u00a0beach\u00a0or stream, anywhere in England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With\u00a0BluePrint, you can record information such as water clarity, how many people are in or near the water, what activities are taking place, and any visible signs of pollution. The platform also brings in live Environment Agency data, including pollution risk forecasts, tidal\u00a0heights\u00a0and river gauge levels. You can then ask any questions about local environmental conditions or the Environment Agency\u2019s work. ",
+                "tag": "p"
+            },
+            {
+                "content": "Running from February to July 2026, this project aims to create a clearer national picture of how our waterways are used, supporting our ongoing monitoring and helping strengthen our response to environmental pressures.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we learned from you\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "WaterWatch\u00a0was our first step in exploring how people\u2019s experiences can add value to our environmental work. This year-long pilot invited people at five bathing water sites across England to share simple observations about local conditions through\u00a0Hello Lamp Post.\u00a0Their input gave us\u00a0unique\u00a0insights\u00a0into\u00a0water clarity, levels of activity and visible signs of pollution.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By working with local citizen science groups,\u00a0we were able to\u00a0increase the amount of data we received, with some groups taking part in the conversation on a regular basis. This helped to highlight issues such as seaweed accumulation and dog waste, which can affect water quality.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "WaterWatch\u00a0is now expanding to seven locations and will continue until July 2026. Existing signage will remain in place at the River Nidd, the Ribble at\u00a0Edisford\u00a0Bridge and Lake Windermere, while new signage is being introduced at the River Teme, the River Dart and\u00a0additional\u00a0sites in London and Worthing. New features,\u00a0including photo uploads with automatic anonymisation,\u00a0will further enhance the quality of the citizen\u00a0generated data.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Anyone can take part!\u00a0Simply use\u00a0BluePrint\u00a0on\u00a0your phone from any river, lake,\u00a0beach\u00a0or stream\u00a0to share real-time information.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To\u00a0find out more about\u00a0WaterWatch, head to one of our\u00a0selected\u00a0Bathing\u00a0Waters\u00a0and scan the QR code on the\u00a0Hello Lamp Post\u00a0signs and share your observations.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together,\u00a0BluePrint\u00a0and the expanded\u00a0WaterWatch\u00a0network will\u00a0open up\u00a0more opportunities than ever for the public to engage with environmental protection. With national coverage, real-time data integration and enhanced functionality, these projects will support better decision-making and help the Environment Agency respond more effectively to environmental challenges.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To learn more about the Environment Agency\u2019s citizen science work and how to get involved, please visit\u00a0our\u00a0WaterHub\u00a0page.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/02/17/launching-blueprint-expanding-citizen-science-across-englands-waterways/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "We\u2019re\u00a0delighted to\u00a0announce the launch\u00a0of a\u00a0new digital tool that\u00a0lets\u00a0you\u00a0report on the health of\u00a0your\u00a0local rivers,\u00a0lakes\u00a0and beaches in real-time, directly from\u00a0your\u00a0phone.\u00a0 BluePrint, developed by the Environment Agency in partnership with Hello Lamp Post, builds on the success of\u00a0WaterWatch - a year-long pilot that gathered public observations at five bathing water sites. Now, the concept is going national."
+    },
+    {
+        "title": "Help shape the Farmer Collaboration Fund",
+        "authors": [
+            "Alice Brown"
+        ],
+        "posted_on": "2026-02-17T12:17:07",
+        "categories": [
+            "Ways to get involved"
+        ],
+        "content": [
+            {
+                "content": "Through the\u00a0Farmer Collaboration Fund, government wants to support farmers\u00a0and land managers\u00a0to turn best practice into\u00a0common practice by\u00a0making\u00a0it easier for\u00a0them\u00a0to share knowledge with each other.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re\u00a0inviting\u00a0farmers and land managers\u00a0to hear our latest plans and share\u00a0their\u00a0thoughts at a series of\u00a0in-person\u00a0workshops.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working together for better outcomes",
+                "tag": "h2"
+            },
+            {
+                "content": "Working together can help reduce costs, spread risk, upskill people and inform better business planning.",
+                "tag": "p"
+            },
+            {
+                "content": "It enables those who manage the land to test\u00a0new approaches\u00a0collectively, share evidence about what works, and access opportunities that are difficult to reach alone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across the country, farmers and land managers are already joining forces to tackle challenges and seize opportunities beyond the farm gate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Neighbouring holdings are working as one to improve soil and water management across whole catchments, coordinating action along rivers that run through multiple farms. ",
+                "tag": "p"
+            },
+            {
+                "content": "By sharing knowledge and pooling resources, they can make more targeted, cost-effective decisions that\u00a0benefit\u00a0their own businesses as well as the wider landscape.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Collaboration also strengthens their position when seeking private investment. Groups can make a clearer, more compelling case for support for outcomes like cleaner water, nature\u00a0recovery\u00a0and carbon storage \u2013 funding that is far harder to secure farm by farm.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Others are restoring hedgerows and habitat networks at scale, reconnecting wildlife corridors and creating more resilient landscapes. In some places, groups are pooling data and effort to test\u00a0new approaches, share what is working and what is not, and reduce risk for individual businesses.",
+                "tag": "p"
+            },
+            {
+                "content": "This collective learning helps them to upskill, adopt new practices with confidence and build more robust long-term plans.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the next 3 years, the \u00a330 million fund will support these existing networks and help new ones get started, so more can\u00a0benefit\u00a0from shared expertise, stronger bargaining\u00a0power\u00a0and better business resilience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Join our workshops",
+                "tag": "h2"
+            },
+            {
+                "content": "The in-person workshops will begin with a short presentation from our team to talk through our thinking, then we\u2019ll move into a guided workshop discussion.",
+                "tag": "p"
+            },
+            {
+                "content": "Each event lasts 2 hours, and refreshments will be provided.",
+                "tag": "p"
+            },
+            {
+                "content": "Places are limited, so if you\u2019re interested in a practical discussion and sharing your views, we encourage you to register.",
+                "tag": "p"
+            },
+            {
+                "content": "We look forward to seeing you there!",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the Farming Blog",
+                "tag": "h2"
+            },
+            {
+                "content": "To keep up to date as plans develop,\u00a0and for future opportunities to\u00a0work with us,\u00a0subscribe to the Farming Blog\u00a0for the latest updates.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/02/17/help-shape-the-farmer-collaboration-fund/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Through the Farmer Collaboration Fund, government will help farmers and land managers share knowledge more easily, so best practice becomes common practice. We\u2019re inviting people to hear our latest plans and share their views at a series of in-person workshops."
+    },
+    {
+        "title": "Driving Pro-Consumer Regulatory Reform in partnership with ASEAN",
+        "authors": [
+            "The Evaluation and Research Team"
+        ],
+        "posted_on": "2026-02-17T12:00:07",
+        "categories": [
+            "OPSS Research Insights"
+        ],
+        "content": [
+            {
+                "content": "This blog post explores how recent research from OPSS is contributing to shaping inclusive economic growth in the Philippines.",
+                "tag": "h4"
+            },
+            {
+                "content": "The Office for Product Safety and Standards (OPSS) is the UK's national product regulator, yet our commitment to research and impact extends\u00a0far\u00a0beyond our borders.\u00a0Through\u00a0The Association of Southeast Asian Nations (ASEAN)-UK Economic Integration Programme (EIP),\u00a0OPSS is leading on work to\u00a0foster economic growth and tackle development barriers alongside ASEAN member states.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering Change through the Role of OPSS in the Regulatory Reform Pillar",
+                "tag": "h2"
+            },
+            {
+                "content": "As the delivery lead for the Regulatory Reform Pillar (RRp) within the four-year UK-ASEAN Economic Integration Programme, OPSS has recently undertaken research to identify best practices for establishing pro-consumer institutional frameworks in the Philippines. The research reviews current challenges, the  role of consumer organisations, issues in e-commerce and offers tailored recommendations to empower consumers and build safer markets. This work is informing the design, implementation, and evaluation of reforms that put consumers first. This has also guided the development of a Philippines specific implementation toolkit, to support translating these recommendations into practical action.",
+                "tag": "p"
+            },
+            {
+                "content": "Why focus on the Philippines?",
+                "tag": "h2"
+            },
+            {
+                "content": "OPSS has been involved in research to support the broader ASEAN economic community. This research focused on the Philippines as according to the ASEAN Consumer Empowerment Index (ACEI) 2020, consumer awareness and access to redress mechanisms in the country remain moderate. As the Filipino government expressed a desire to better engage with consumer organisations and to improve consumer empowerment scores, this research aims to strengthen consumer protection in the Philippines.",
+                "tag": "p"
+            },
+            {
+                "content": "What did the research find?",
+                "tag": "h2"
+            },
+            {
+                "content": "The research provides key recommendations for the Philippines government to support consumers in the region, including:",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "h2"
+            },
+            {
+                "content": "Following publication of the research, this March OPSS will support a formal launch event for the research and accompanying toolkit. This event will be for the relevant government agencies as well as consumer organisations representing all 17 provinces across the Philippines. This activity will socialise findings and seek commitment from stakeholders to implement recommendations.",
+                "tag": "p"
+            },
+            {
+                "content": "A shared vision for inclusive growth",
+                "tag": "h2"
+            },
+            {
+                "content": "UK Ambassador to ASEAN, Helen Fazey, reflected on the wider context of the research:",
+                "tag": "p"
+            },
+            {
+                "content": "Interested in learning more?",
+                "tag": "h3"
+            },
+            {
+                "content": "Read\u00a0the\u00a0full research report\u00a0to discover how OPSS and its partners are shaping a more\u00a0equitable\u00a0future for consumers across Southeast Asia.\u00a0You can also check out our other research publications, including on gender\u00a0inclusive regulatory reforms,\u00a0here.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are you passionate about consumer rights or working within the ASEAN community?",
+                "tag": "h3"
+            },
+            {
+                "content": "Please share this blog post with your network to spark conversations.",
+                "tag": "p"
+            },
+            {
+                "content": "Want to be kept up to date with other OPSS research and activities?",
+                "tag": "h3"
+            },
+            {
+                "content": "Subscribe to our monthly newsletter by emailing \u2018opssnews@businessandtrade.gov.uk\u2019 with the subject 'Subscribe to OPSS News'\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Any questions?",
+                "tag": "h3"
+            },
+            {
+                "content": "Email\u00a0OPSS.Research@businessandtrade.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://opss.blog.gov.uk/2026/02/17/driving-pro-consumer-regulatory-reform-in-partnership-with-asean/",
+        "blog": "Office for Product Safety and Standards",
+        "blog_link": "https://opss.blog.gov.uk",
+        "description": "This blog post explores how recent research from OPSS is contributing to shaping inclusive economic growth in the Philippines. The Office for Product Safety and Standards (OPSS) is the UK's national product regulator, yet our commitment to research and impact \u2026"
+    },
+    {
+        "title": "Driving success through digital adoption",
+        "authors": [
+            "Rhian Hopkins, Engagement Manager"
+        ],
+        "posted_on": "2026-02-17T10:48:53",
+        "categories": [
+            "Products"
+        ],
+        "content": [
+            {
+                "content": "Rhian Hopkins",
+                "tag": "h3"
+            },
+            {
+                "content": "Digital adoption can often seem daunting, not just because of the technology itself, but also because of the changes it brings. People naturally prefer what they are used to, and\u00a0a constant influx of new tools and processes can leave teams feeling\u00a0overwhelmed.\u00a0That's\u00a0why empowering users to use different software and adopt\u00a0new\u00a0products and software\u00a0can be a challenge. It is as much about managing human emotions as it is about implementing new tools.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the Department for Business and Trade (DBT), empowering users,\u00a0helping colleagues\u00a0to adopt digital tools like our central Customer Relationship Management (CRM) system, Data Hub, is essential for capturing\u00a0information\u00a0and supporting our business engagement efforts. This aligns directly with DBT\u2019s objectives: enabling teams to share information, work efficiently, and make informed decisions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Importantly, successful product adoption is as much about focusing on people, their needs, emotions, and ways of working, as it is about the technology itself.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Our team, the Engagement and Strategic Adoption team, were tasked with sharing our\u00a0expertise\u00a0on digital adoption to raise awareness of Data Hub. The project focused on business-facing staff,\u00a0who\u00a0are our key contacts linking to businesses across the UK.\u00a0We worked to encourage these staff to capture valuable\u00a0insights. This\u00a0in turn helps to support ministerial briefings, inform policy development, and guide investment decisions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our goal was to help\u00a0embed Data Hub usage into daily workflows. This proactive approach helped\u00a0identify\u00a0and overcome barriers to adoption, tailor training, and drive engagement, allowing every team to fully use Data Hub\u2019s capabilities. Without any dedicated adoption efforts, even the best technology risks\u00a0being\u00a0underused, resulting in missed opportunities for growth and innovation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Implementing change\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As part of the project, we undertook a range of activities to help drive adoption, including:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout, we focused on making the benefits of using Data Hub clear and aimed to show users that it could\u00a0benefit\u00a0their workflow, making their lives easier.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Digital adoption means more than simply using new tools; it\u00a0represents\u00a0a shift in how teams\u00a0operate. When adoption is successful, teams gain access to real-time data and collaborate more effectively, regardless of where they are\u00a0located. This transformation increases workflow, supports informed decision making, and saves valuable time for employees to focus on work that directly supports objectives.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Results\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Our efforts led to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These are important first steps in encouraging adoption and usage of the tool. We continue to work with teams to embed these changes and drive the continual improvement we want to see in Data Hub adoption.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By supporting teams with guidance and toolkits for adoption and regular\u00a0reviews of metrics, we can help everyone understand the benefits of regular usage as a way of achieving their own\u00a0objectives. It will also\u00a0support their teams and wider DBT.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Summary\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Ongoing adoption of Data Hub is vital for DBT\u2019s mission to support UK businesses. By focusing on people, providing practical support, and championing digital solutions, we can ensure that our business engagement efforts are more successful, empowered by real-time data, collaboration, and innovation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What approaches have helped drive positive digital adoption in your team?\u00a0If\u00a0you\u2019ve\u00a0found any effective tactics, challenges, or insights, let us know in the comments. Your experiences can help shape and improve ongoing adoption.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/02/17/driving-success-through-digital-adoption/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "Digital adoption is about people. Our work on Data Hub shows that change is a process, and through collaboration and support teams can embrace tools that help improve workflows, strengthen business engagement, and enable smarter decisions."
+    },
+    {
+        "title": "Stress-testing\u00a0an\u00a0AI\u00a0tool\u00a0to explore its potential for faster local plans\u00a0and greater citizen engagement\u00a0",
+        "authors": [
+            "The Digital Planning team"
+        ],
+        "posted_on": "2026-02-17T10:13:50",
+        "categories": [
+            "Artificial Intelligence",
+            "Digital Planning",
+            "PropTech"
+        ],
+        "content": [
+            {
+                "content": "Local plan consultations can generate thousands of responses\u00a0from members of the public,\u00a0the development\u00a0industry\u00a0and statutory consultees. For\u00a0local planning authority (LPA) teams, that means weeks of reading, categorising and summarising\u00a0before the real work of analysis can begin.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With the government\u00a0committed to faster local plan preparation, we're exploring whether artificial intelligence (AI) can help reduce the time spent on some of the administrative tasks without compromising the quality of the consultation analysis\u00a0while continuing to support greater citizen  engagement.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where this started\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Through\u00a0support\u00a0from our\u00a0PropTech Innovation Fund,\u00a0we funded\u00a0Greater Cambridge Shared Planning (GCSP) \u2013 the shared planning service for  Cambridge City and South Cambridgeshire District Councils\u00a0\u2013\u00a0to explore how AI could transform\u00a0the consultation\u00a0summarisation\u00a0process. GCSP partnered with the University of Liverpool\u00a0to develop\u00a0a tool.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working with\u00a0the\u00a0planning team, the University\u00a0built\u00a0a bespoke large  language model (LLM) trained on 15 years of\u00a0Cambridge\u2019s\u00a0consultation data\u00a0and key planning terminology.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In a trial\u00a0last year, the tool, called PlanAI,\u00a0successfully\u00a0summarised\u00a03  planning consultations, on\u00a0supplementary\u00a0guidance documents,\u00a0in 16 minutes \u2013 a task which\u00a0took\u00a018.5 hours to do manually.\u00a0As well as the significant time\u00a0difference,\u00a0the quality\u00a0of the summaries\u00a0was also\u00a0compared, with the\u00a0AI-generated reports providing\u00a0clear breakdowns of the themes, patterns and insights from the responses.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The tool works by taking each\u00a0consultation\u00a0submission\u00a0and recognising which comments\u00a0or parts of comments\u00a0relate to different policy areas \u2013 such as affordable housing or climate change \u2013 or chapters such as housing and environment. It then reviews all\u00a0the\u00a0representations together and can  produce summaries by chapter,\u00a0policy\u00a0or site allocation, drawing out valuable insights.\u00a0It can also\u00a0provide\u00a0a spatial representation of the comments, helping teams\u00a0to\u00a0identify\u00a0under-represented areas that may need to be\u00a0targeted for future\u00a0engagement.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By\u00a0handling\u00a0the time-consuming task of\u00a0grouping and summarising  consultation comments,\u00a0the\u00a0tool\u00a0enables\u00a0officers to spend more time reading and analysing feedback, and engaging directly with\u00a0their communities and stakeholders.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Taking it further\u00a0by\u00a0scaling the\u00a0initial\u00a0pilot\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The results\u00a0achieved in Greater Cambridge\u00a0were really promising but we wanted to know if they could be replicated\u00a0in other authorities, and\u00a0achieve the same speed,\u00a0accuracy\u00a0and quality.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To\u00a0find out,\u00a0the Digital Planning programme\u00a0provided\u00a0a further\u00a0\u00a345,000\u00a0to GCSP\u00a0to stress-test\u00a0the tool\u00a0with\u00a05\u00a0more\u00a0local planning authorities\u00a0\u2013\u00a0varying in size, location,\u00a0consultation\u00a0platform\u00a0and\u00a0stage\u00a0of\u00a0plan-making.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0The\u00a05\u00a0local planning authorities\u00a0involved\u00a0are:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Progress\u00a0so far\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In the last few\u00a0weeks,\u00a0the 5 local authorities\u00a0have begun\u00a0testing\u00a0the tool\u00a0on a range of\u00a0local\u00a0plan\u00a0consultations \u2013 some recently closed, others more historic.\u00a0They've\u00a0provided baseline data on how long\u00a0previous\u00a0consultations took to summarise manually, and\u00a0planning\u00a0officers are reviewing the AI-generated summaries to ensure they properly capture the consultation responses. This is\u00a0an important step\u00a0before relying on the tool more widely.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building in transparency and trust\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "A key part of the University of Liverpool's research has been exploring the ethical, environmental and transparency considerations that come with using AI in this way.\u00a0During\u00a0their early work, when they were\u00a0developing\u00a0the tool,  they held focus groups with members of the public and planning stakeholders to understand people's questions and concerns early on.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The findings have guided how GCSP communicates about the tool and builds confidence in its use. This has also led to the creation of an 'instant summarisation tool', which\u00a0GCSP\u00a0has been\u00a0using\u00a0at the front end of the process\u00a0for their local plan consultation\u00a0\u2013 summarising comments as people submit them, and giving respondents the option to amend the summary if they wish\u00a0before it is submitted to the councils.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0we hope to\u00a0achieve\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This pilot has been about stress-testing the technology to see if it can deliver the same efficiencies and accuracies in different settings. At\u00a0the\u00a0end\u00a0of March,\u00a0the authorities involved will produce a blueprint report to support other\u00a0LPAs looking to\u00a0adopt similar approaches.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our ambition\u00a0is for local\u00a0planning\u00a0authorities\u00a0to be able to explore the use of AI to\u00a0support\u00a0faster local plan preparation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you want to learn more about the pilot and hear about the progress so far from the teams involved,\u00a0join our\u00a0online show and tell at 1pm on 26 February. Register to receive an invitation.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/02/17/stress-testing-an-ai-tool-to-explore-its-potential-for-faster-local-plans-and-greater-citizen-engagement/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "We\u2019re exploring if AI can help support faster local plan preparation. An AI tool developed by Greater Cambridge Shared Planning and the University of Liverpool is now being stress-tested by 5 local authorities, to see if the initial results \u2013 accurate consultation summaries produced in a fraction of the time - can be replicated elsewhere."
+    },
+    {
+        "title": "Ramadan and Lent: Celebrating generosity, protecting good intentions",
+        "authors": [
+            "David Holdsworth, Chief Executive Officer"
+        ],
+        "posted_on": "2026-02-17T09:42:34",
+        "categories": [
+            "Safer giving"
+        ],
+        "content": [
+            {
+                "content": "As Ramadan begins for Muslims - and as many Christians observe Lent, another period of reflection, fasting and charitable giving - I want to start with a simple message: thank you.",
+                "tag": "p"
+            },
+            {
+                "content": "The generosity of Britain's faith communities is extraordinary. Every year, millions of pounds are donated during Ramadan \u2013 a remarkable contribution that speaks to the deep-rooted traditions of zakat and sadaqah, and to the commitment of millions of people to help those in need.",
+                "tag": "p"
+            },
+            {
+                "content": "Similarly, we know that for many Christians, Lent is a time where money is diverted from some of life\u2019s luxuries towards charitable giving.",
+                "tag": "p"
+            },
+            {
+                "content": "This generosity should be celebrated by everyone, as it provides a genuine lifeline to people facing hardship, supporting charities that work locally, nationally and overseas. As I heard vividly at the Muslim Charities Convention last summer, money raised during Ramadan funds food banks, supports refugees, provides clean water, and sustains countless other vital causes. It represents something profoundly good about our society.",
+                "tag": "p"
+            },
+            {
+                "content": "And it is precisely because religiously motivated giving matters so much that I want to talk about protecting it.",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping good intentions on track",
+                "tag": "p"
+            },
+            {
+                "content": "The reality is that most fundraising is genuine. Whatever time of year it is, the vast majority of appeals comes from legitimate, hardworking charities doing important work.",
+                "tag": "p"
+            },
+            {
+                "content": "But we know that criminals and fraudsters try to take advantage of times of increased giving, so we all need to be vigilant. They set up fake charities, create convincing but fraudulent websites, and send messages designed to divert your generosity into their own pockets.",
+                "tag": "p"
+            },
+            {
+                "content": "This isn't about casting suspicion on donors or on the thousands of wonderful, genuine charities serving communities. It's about making sure that when you give \u2013 with the sincere intention of helping others \u2013 your money actually reaches those you want to help.",
+                "tag": "p"
+            },
+            {
+                "content": "That's why we are working closely with the Muslim Charities Forum and the Fundraising Regulator to raise awareness of this risk and how to avoid being caught out. Together, we want to ensure that the incredible generosity shown during religious seasons has the greatest possible impact.",
+                "tag": "p"
+            },
+            {
+                "content": "As Fadi Itani, CEO of the Muslim Charities Forum says, \u201cBritish Muslims give generously throughout the year, especially during the month of Ramadan, to UK and international causes. Giving intentionally helps maximise spiritual reward and ensure donations make the greatest impact. Checking a charity\u2019s registration and how you donate helps support genuine, effective organisations.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "A few simple safer giving steps",
+                "tag": "p"
+            },
+            {
+                "content": "The good news is that giving safely doesn't require complicated checks. A few straightforward steps can make all the difference:",
+                "tag": "p"
+            },
+            {
+                "content": "For more information, visit our Donate with Confidence campaign website.",
+                "tag": "p"
+            },
+            {
+                "content": "Making generosity go further",
+                "tag": "p"
+            },
+            {
+                "content": "Our focus is about ensuring that when you give, whoever you are and whatever time of year it is, your donation has the impact you intend. By taking these simple steps, you help ensure that your donations reach those who need them most.",
+                "tag": "p"
+            },
+            {
+                "content": "To everyone observing Ramadan, I wish you a blessed and peaceful month. And to everyone who gives \u2013 whether during these religious seasons or at any time of year \u2013 thank you. Your generosity strengthens our society and improves lives. We at the Charity Commission are here to help protect that good work.",
+                "tag": "p"
+            },
+            {
+                "content": "For more information visit our Donate with Confidence website or check the charity register.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://charitycommission.blog.gov.uk/2026/02/17/ramadan-and-lent-celebrating-generosity-protecting-good-intentions/",
+        "blog": "Charity Commission",
+        "blog_link": "https://charitycommission.blog.gov.uk",
+        "description": "As Ramadan begins for Muslims - and as many Christians observe Lent, another period of reflection, fasting and charitable giving - I want to start with a simple message: thank you. The generosity of Britain's faith communities is extraordinary. Every \u2026"
+    },
+    {
+        "title": "What to know before applying to register with\u00a0Ofsted: choosing names for your childcare setting and legal entity",
+        "authors": [
+            "Jayne Coward, Deputy Director for Early Years Regulatory Policy and Practice"
+        ],
+        "posted_on": "2026-02-17T09:40:18",
+        "categories": [
+            "Childminder registration",
+            "Early years",
+            "Nannies",
+            "Registration"
+        ],
+        "content": [
+            {
+                "content": "Selecting a name for your childcare business is an important\u00a0early decision. Getting this right from the outset\u00a0helps us process your application more quickly and limits the need for follow-up questions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog, we explain what your legal entity name means for your Ofsted registration,\u00a0how this differs from the name you give to your childcare setting\u00a0and the common points providers ask us about when registering.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Naming your legal entity\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Your legal entity name is the official name of the organisation that is legally responsible for the childcare you provide. This could be a company, a charity, a committee, a\u00a0partnership\u00a0or a sole trader.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Examples might include\u00a0Oakbridge\u00a0Childcare\u00a0Services\u00a0Ltd for a company or\u00a0Oakbridge\u00a0Childcare\u00a0Services\u00a0CIO for a charity. Sole traders will usually register in their own name but may\u00a0operate\u00a0under a different business name, such as Joe Bloggs trading as Little Stars Childcare.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If a subcommittee will run the childcare provision on behalf of the legal entity, its name must make that clear, for example\u00a0Oakbridge\u00a0Childcare\u00a0Services\u00a0CIO Subcommittee.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Naming your childcare setting\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Your setting name is the name that parents,\u00a0children\u00a0and your local community will recognise. It refers to the specific location where childcare is delivered, such as your nursery or pre-school.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Your setting name must be different from your legal entity name. For example, if your company is registered as\u00a0Bishopsgate House Childcare\u00a0Group\u00a0Ltd, your settings cannot also be called\u00a0Bishopsgate House Childcare\u00a0Group\u00a0Ltd. Instead, you might use names such as\u00a0Bishopsgate House\u00a0Nursery Prestbury or\u00a0Bishopsgate House\u00a0Nursery Pittville.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each setting should have its own unique\u00a0name\u00a0and it must not be offensive,\u00a0discriminatory\u00a0or inappropriate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding the difference\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "When you apply to register with Ofsted, you can register either as an individual (a sole trader) or as an organisation. Whichever you choose, that individual or organisation becomes the registered person responsible for providing childcare.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Your legal entity will be given a unique reference number\u00a0(URN)\u00a0which is different to your setting\u2019s URN.\u00a0If\u00a0you have\u00a0more than one\u00a0setting, each individual setting will also have its own URN.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Settings in shared facilities\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Some childcare providers work from shared buildings such as children\u2019s centres,\u00a0schools\u00a0or community hubs. If this is the case for you, it is worth thinking carefully about the name you choose. Using the exact same name as the building can sometimes create confusion for families and for Ofsted when we review your application.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A name that is linked to the building but clearly\u00a0identifies\u00a0your own provision can help people understand who you are and what you offer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, if your daycare provision is based inside a children\u2019s centre called Hollywood House, you might choose something like\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You do not have to use a different name. However, adding something that distinguishes your provision can make it easier for families to recognise you and can help us process your application more smoothly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Naming rules set by other bodies\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Your chosen name will also need to\u00a0comply with\u00a0rules set by other regulatory bodies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some words are considered sensitive and can only be used with approval from the relevant authority. Companies House publishes a list of these\u00a0sensitive words\u00a0and explains how to apply for approval if you need it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Registering with Ofsted\u00a0as\u00a0a\u00a0group or school-based provider\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Once you have selected suitable names for both your setting and your legal entity, you can\u00a0apply to register\u00a0your nursery,\u00a0pre-school\u00a0or\u00a0out-of-school-setting\u00a0with Ofsted.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Registering with Ofsted as a childminder\u00a0or\u00a0nanny\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Childminders and nannies\u00a0can only\u00a0register with Ofsted as individuals. You can set up a company for business purposes if you choose to, but your Ofsted registration will still be in your own name. Any company you create will not appear on the Ofsted website because it is not the registered legal entity for the childcare.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After you are registered\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "If you\u00a0operate\u00a0in a non-domestic building, your setting name and address will be published on\u00a0Ofsted\u2019s reports website\u00a0so that parents can find inspection reports and other information\u00a0about your setting.\u00a0For childminders and providers\u00a0operating\u00a0on domestic premises, this information is only published if you have consented to this either during registration or afterwards, because it relates to a home address.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once you are registered, you must tell Ofsted about certain changes, including\u00a0changes\u00a0to\u00a0your\u00a0setting or legal entity\u2019s\u00a0name. You can\u00a0tell us that your\u00a0name has changed by\u00a0emailing\u00a0us\u00a0on\u00a0enquiries@ofsted.gov.uk.\u00a0You\u00a0must have officially changed your name with\u00a0Companies House,\u00a0HMRC\u00a0or the\u00a0Charity Commission\u00a0before\u00a0notifying us.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If your organisation changes in a way that creates a new legal entity, such as receiving a new company or charity registration number, you must apply for a new Ofsted registration.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://earlyyears.blog.gov.uk/2026/02/17/what-to-know-before-applying-to-register-with-ofsted-choosing-names-for-your-childcare-setting-and-legal-entity/",
+        "blog": "Ofsted: early years",
+        "blog_link": "https://earlyyears.blog.gov.uk",
+        "description": "Selecting a name for your childcare business is an important\u00a0early decision. Getting this right from the outset\u00a0helps us process your application more quickly and limits the need for follow-up questions.\u00a0 In this blog, we explain what your legal entity name \u2026"
+    },
+    {
+        "title": "What to do if you think your child has measles and when to keep them off school",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2026-02-17T09:39:53",
+        "categories": [
+            "Further education",
+            "Higher Education",
+            "Schools",
+            "Universities"
+        ],
+        "content": [
+            {
+                "content": "There has been a resurgence of measles in England and around the world in recent years. Most of the cases in England have been in children under the age of 10 years with many outbreaks linked to nurseries and schools.",
+                "tag": "p"
+            },
+            {
+                "content": "There\u2019s no specific medical treatment for measles, so it\u2019s important to get vaccinated as it\u2019s the best protection against becoming seriously unwell.",
+                "tag": "p"
+            },
+            {
+                "content": "The measles, mumps and rubella (MMR) vaccine is one of the\u00a0routine childhood vaccinations, so most children are already vaccinated against measles. If your child has received both doses of the vaccine, they are very unlikely to become unwell with measles: over 99% of those who have 2 doses of the vaccine will be protected",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here, we explain everything you need to know about the rise in measles cases, from getting your child vaccinated to when to keep them off\u00a0school.",
+                "tag": "p"
+            },
+            {
+                "content": "Click for information for schools, nurseries and other education settings",
+                "tag": "p"
+            },
+            {
+                "content": "What are the symptoms of measles?",
+                "tag": "h3"
+            },
+            {
+                "content": "Measles usually starts with cold-like symptoms (cough, runny nose), a high temperature, and red, sore, watery eyes (conjunctivitis), followed by a rash a few days later. The rash looks brown or red on white skin. It may be harder to see on brown and black skin.",
+                "tag": "p"
+            },
+            {
+                "content": "The rash typically starts on the face and behind the ears before spreading to the rest of the body. Some people may also get small white spots (Koplik spots) in their mouth.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more on the\u00a0NHS website.",
+                "tag": "p"
+            },
+            {
+                "content": "What should you do if you think your child has measles?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "If a child has been vaccinated, it is highly unlikely they have measles.",
+                "tag": "p"
+            },
+            {
+                "content": "You should ask for an urgent GP appointment or get help from NHS 111 if you think you or your child may have measles.",
+                "tag": "p"
+            },
+            {
+                "content": "Don\u2019t go to the GP or any other healthcare setting without calling ahead first to prevent the further spread of measles.",
+                "tag": "p"
+            },
+            {
+                "content": "If your child has been diagnosed with measles by a doctor, they should stay off nursery or school for at least 4 full days from when the rash first appears.",
+                "tag": "p"
+            },
+            {
+                "content": "They should also avoid close contact with babies and anyone who is pregnant or has a weakened immune system.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the best way to protect against measles?",
+                "tag": "h3"
+            },
+            {
+                "content": "The best protection against measles for children and adults is to get both doses of the MMR vaccine.",
+                "tag": "p"
+            },
+            {
+                "content": "Two doses of the MMR vaccine provides excellent lifelong protection against measles.",
+                "tag": "p"
+            },
+            {
+                "content": "Children are offered a vaccine free on the NHS at 12-months-old and then a second dose when they turn 3-years-and-4-months-old.",
+                "tag": "p"
+            },
+            {
+                "content": "But you can catch up at any age \u2013 if you or your child haven\u2019t yet been vaccinated, you should contact your GP practice to book a free appointment.",
+                "tag": "p"
+            },
+            {
+                "content": "Two doses of the MMR vaccine offer lifelong protection against measles.",
+                "tag": "p"
+            },
+            {
+                "content": "In the UK, we have 2 MMR vaccines which work very well. One of them contains porcine gelatine and the other one doesn\u2019t. If anyone would prefer to have the vaccine that does not contain gelatine, they can talk to their practice nurse or GP.",
+                "tag": "p"
+            },
+            {
+                "content": "Cold-like symptoms can be an early sign of measles. Should you still send your child to school? ",
+                "tag": "h3"
+            },
+            {
+                "content": "If your child has been vaccinated, it\u2019s very unlikely that they have measles.",
+                "tag": "p"
+            },
+            {
+                "content": "School attendance\u00a0is vitally important to your child\u2019s learning and health.",
+                "tag": "p"
+            },
+            {
+                "content": "According to the NHS, it\u2019s fine to send your child to school with a minor cough or common cold, provided they don\u2019t have a temperature.",
+                "tag": "p"
+            },
+            {
+                "content": "When should you keep your child off school or nursery and how long for?",
+                "tag": "h3"
+            },
+            {
+                "content": "If your child has measles, they should stay off nursery or school for the entire infectious period (4 days before the rash first appears and for at least 4 full days from when the rash first appears where the date the rash appears is day 0). They should avoid close contact with babies and anyone who is pregnant or has a weakened immune system.",
+                "tag": "p"
+            },
+            {
+                "content": "Your child can go back to their education or childcare setting once they feel well and following the completion of the 4 day period after the rash first appears.",
+                "tag": "p"
+            },
+            {
+                "content": "If your child is unvaccinated against measles and is a close contact of a measles case (for instance a sibling), the health protection team may advise that your child should remain off school or nursery for a number of days to reduce the spread of meases. The number of days will vary on the circumstances.",
+                "tag": "p"
+            },
+            {
+                "content": "The best way to protect your child from measles and ensure they can continue to attend school is to ensure they have both doses of the MMR vaccine.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re not sure whether your child is due a vaccination or has missed a vaccination, you can check their Red Book or contact your GP practice.",
+                "tag": "p"
+            },
+            {
+                "content": "If your child has missed their first or second dose of MMR vaccine, you should contact your GP practice to book an appointment.",
+                "tag": "p"
+            },
+            {
+                "content": "Should you keep your child off school if another pupil has been diagnosed with measles?",
+                "tag": "h3"
+            },
+            {
+                "content": "Your child should continue to attend school if another pupil has been diagnosed with measles as long as they have no symptoms and have not been advised otherwise by the Health Protection Team or GP.",
+                "tag": "p"
+            },
+            {
+                "content": "Most children will be protected against measles \u00a0if they have had both their MMR vaccinations.",
+                "tag": "p"
+            },
+            {
+                "content": "The local Health Protection Team will work with the school or setting to advise on further action.",
+                "tag": "p"
+            },
+            {
+                "content": "I think my child might have measles \u2013 what should I do?",
+                "tag": "p"
+            },
+            {
+                "content": "If a child has been vaccinated, it is highly unlikely they have measles.",
+                "tag": "p"
+            },
+            {
+                "content": "Phone your GP for an urgent GP appointment or get help from NHS 111, let them know you suspect measles.",
+                "tag": "p"
+            },
+            {
+                "content": "Measles can spread to others easily. Call your GP surgery before you go in. They may need to make arrangements for you to visit the surgery at the end of the day so that you avoid contact with people who are more vulnerable to the infection, such as young children and pregnant women. They may suggest talking over the phone.",
+                "tag": "p"
+            },
+            {
+                "content": "You can also call 111 or\u00a0get help from 111 online.",
+                "tag": "p"
+            },
+            {
+                "content": "The child or staff member should not attend the education or childcare setting until they have received advice.",
+                "tag": "p"
+            },
+            {
+                "content": "If your child has measles, avoid work or school for at least four days from when you first developed the measles rash. Make arrangements to have any outstanding doses of the vaccine once you have recovered. This will protect you against the other two infections which the MMR vaccine protects against, mumps and rubella.",
+                "tag": "p"
+            },
+            {
+                "content": "Can I still get my child vaccinated even if they\u2019re older?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Yes. Anyone who has not had 2 doses of the MMR vaccine should ask their GP surgery for a vaccination appointment.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s best to have vaccines on time, but you can still catch up on most vaccines if you miss them. Two doses of the vaccine are needed to ensure full protection.",
+                "tag": "p"
+            },
+            {
+                "content": "I have heard the childhood immunisation schedule is changing \u2013 why does my child still have to wait for their second dose at 3 years and 4 months? ",
+                "tag": "p"
+            },
+            {
+                "content": "From 1 January 2026, children born on or after 1 July 2024 will be offered the second dose of MMR vaccine at a new 18 month vaccination appointment. Any children who miss this second dose of MMR can have it at their pre-school vaccination appointment at 3 year and 4 months, at the same time as their 4 in 1 booster.",
+                "tag": "p"
+            },
+            {
+                "content": "Children born before 1 July 2024 who are still due their second MMR dose will continue to have it at their pre-school appointment at 3 years and 4 months. The second MMR dose is clinically effective whether it is given at 18 months or at 3 years and 4 months. Both schedules provide excellent protection against these serious diseases.",
+                "tag": "p"
+            },
+            {
+                "content": "The second dose of the MMR vaccine is being brought forward for children born after 1 July 2024 in an attempt to improve uptake of the MMR vaccine and should help us achieve the World Health Organization 95% uptake target needed to prevent outbreaks in the community.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are unsure about which vaccines your child is due, please check their Red Book or speak to your GP practice or health visitor who can provide personalised advice about your child's immunisations.",
+                "tag": "p"
+            },
+            {
+                "content": "What can parents of under-1s do to reduce the chances of their child catching measles? ",
+                "tag": "p"
+            },
+            {
+                "content": "The first dose of the MMR vaccine is offered to children routinely on or shortly after their first birthday. Babies under the age of 1 are not offered the MMR vaccine routinely because at this age, many of them will not respond to the vaccine. They rely on the rest of us getting the vaccine to protect them.",
+                "tag": "p"
+            },
+            {
+                "content": "This means that to protect your young infant you need to make sure their siblings and family members coming into contact with them are fully vaccinated, with two doses of MMR. Two doses of the MMR vaccine provides excellent lifelong protection against measles.",
+                "tag": "p"
+            },
+            {
+                "content": "How can we protect those who are most vulnerable? ",
+                "tag": "p"
+            },
+            {
+                "content": "Getting vaccinated means you are also helping protect others who can\u2019t have the vaccine, including infants under 1 year and those with weakened immune systems, who are at greater risk of serious illness and complications from measles, and tragically sometimes death.",
+                "tag": "p"
+            },
+            {
+                "content": "Some individuals may have been fully vaccinated in the past but have since developed a medical condition and/or are receiving treatment, such as cancer therapy, that can wipe out their previous immunity, leaving them at much greater risk.",
+                "tag": "p"
+            },
+            {
+                "content": "We all have our part to play in helping protect those who are more vulnerable by ensuring all children and family members are fully vaccinated and helping stop the spread of the disease to those at greatest risk. They rely on the rest of us getting the vaccine to protect them.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For schools, nurseries and other education settings",
+                "tag": "h3"
+            },
+            {
+                "content": "What should education settings do if they have a likely or confirmed measles case?",
+                "tag": "h3"
+            },
+            {
+                "content": "If an education setting is told that a child or staff member has seen their doctor in person and been diagnosed with measles, the setting should contact the UKHSA Health Protection Team so that they can investigate and support as required. If measles is suspected by the GP or healthcare professional, they will also notify the UKHSA Health Protection Team, who may then reach out if there is a setting associated with the case.",
+                "tag": "p"
+            },
+            {
+                "content": "Education and childcare settings are not expected to diagnose cases, and parents or carers do not need to contact the health protection team. If parents, carers, or staff are concerned that they or a child have symptoms, they should contact their doctor or NHS111. They should alert the surgery or other healthcare setting of symptoms before attending any appointment to prevent the further spread of measles.",
+                "tag": "p"
+            },
+            {
+                "content": "How should schools code measles absences?",
+                "tag": "h3"
+            },
+            {
+                "content": "For confirmed cases, where a pupil is not well enough to attend school, schools should record the absence (using code I - unable to attend because of illness). Where a pupil is well enough to attend but attending would be against legislation or guidance from the",
+                "tag": "p"
+            },
+            {
+                "content": "Department for Health and Social Care (or equivalents in Scotland, Wales or Northern Ireland) to limit the spread of infection or disease, schools should record the absence using code Y6.",
+                "tag": "p"
+            },
+            {
+                "content": "Will the Department for Education and Ofsted take measles absences into account when reviewing the attendance statistics for schools?",
+                "tag": "h3"
+            },
+            {
+                "content": "Schools play a vital role in improving attendance, but not all factors influencing attendance are in their control.",
+                "tag": "p"
+            },
+            {
+                "content": "Ofsted will take these factors into account. Schools should demonstrate that they\u2019re doing all they can to achieve the highest possible attendance, even if their attendance numbers are lower than previously.",
+                "tag": "p"
+            },
+            {
+                "content": "What advice should special schools follow? Is there any additional advice for pupils who may be more vulnerable to exposure to measles?",
+                "tag": "h3"
+            },
+            {
+                "content": "Special schools and settings should also follow the\u00a0UKHSA guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "The Health Protection Team will carry out a risk assessment of the situation based on the information provided.",
+                "tag": "p"
+            },
+            {
+                "content": "They will ask the education setting to share information to help them understand the size and nature of the outbreak and the vaccination status of pupils, and advise on any recommended actions.",
+                "tag": "p"
+            },
+            {
+                "content": "The MMR vaccine is the safest and most effective way to protect yourself against measles, mumps, and rubella.",
+                "tag": "p"
+            },
+            {
+                "content": "What advice is there for staff who might be more vulnerable, for example if they\u2019re pregnant or unvaccinated?",
+                "tag": "h3"
+            },
+            {
+                "content": "Measles is a viral infection that spreads very easily and can cause severe illness, especially in certain groups including babies, small children, those who are pregnant and people with weak immunity.",
+                "tag": "p"
+            },
+            {
+                "content": "The best protection against measles for children and adults is to get both doses of the MMR vaccine.",
+                "tag": "p"
+            },
+            {
+                "content": "For adults, it is never too late to catch up on any missed MMR vaccinations. People should contact their GP practice to book an appointment.",
+                "tag": "p"
+            },
+            {
+                "content": "Anyone considering getting pregnant should make sure that they are protected by having two doses of the MMR vaccine before they become pregnant. \u00a0Unvaccinated pregnant people should make sure they are vaccinated soon after the baby is born, to protect them during future pregnancies. As a precaution, the MMR vaccine is not recommended for those who are pregnant. This is because it is a live vaccine.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re pregnant and you have been in close contact with someone who has measles, you should ask for an urgent GP appointment or get help from NHS 111.",
+                "tag": "p"
+            },
+            {
+                "content": "A staff member isn\u2019t sure if they\u2019ve had the MMR vaccine and their GP doesn\u2019t have their vaccine records. Can they have another dose? ",
+                "tag": "h3"
+            },
+            {
+                "content": "Anyone with an unknown vaccination history should ask their GP for a vaccine appointment. If your vaccine records are not available or do not exist it will not harm you to have the MMR vaccine again. Two doses of the MMR vaccine is the best protection against measles, mumps and rubella.",
+                "tag": "p"
+            },
+            {
+                "content": "Are babies who are too young to be vaccinated protected?",
+                "tag": "h3"
+            },
+            {
+                "content": "Babies who are too young to be vaccinated are not protected from measles. It is still safe for children and babies who are too young to be vaccinated to attend nursery and early years setting, unless they have been advised otherwise by a health protection team or GP.",
+                "tag": "p"
+            },
+            {
+                "content": "The best way to protect children under 1, who are more vulnerable, is by ensuring other children and members of the household are fully vaccinated with two doses of MMR. This significantly reduces the risk of them passing the virus onto the young child. Early education settings can help by promoting the importance of the MMR vaccine.",
+                "tag": "p"
+            },
+            {
+                "content": "Are staff who aren\u2019t vaccinated and have to stay off work on public health advice entitled to pay for this period?",
+                "tag": "h3"
+            },
+            {
+                "content": "Unvaccinated staff who have been in contact with measles cases may be asked to stay away from school or childcare settings for a number of days, based on a risk assessment by the Health Protection Team.",
+                "tag": "p"
+            },
+            {
+                "content": "The Department for Education has no remit over sick pay, which is at the discretion of the school.",
+                "tag": "p"
+            },
+            {
+                "content": "Some useful links to guidance and resources:",
+                "tag": "h3"
+            },
+            {
+                "content": "The Department for Education hosted a national webinar on the increase in measles cases, with speakers from UK Health Security Agency, the NHS, and school leaders with recent experience of dealing with a measles outbreak. The webinar covered information on measles, current epidemiology, the importance of the MMR vaccine and how to get it, and how to manage cases and outbreaks in educational settings. View this here.",
+                "tag": "p"
+            },
+            {
+                "content": "Measles - NHS (www.nhs.uk)",
+                "tag": "p"
+            },
+            {
+                "content": "MMR (measles, mumps and rubella) vaccine - NHS (www.nhs.uk)",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting immunisation programmes - GOV.UK (www.gov.uk)",
+                "tag": "p"
+            },
+            {
+                "content": "Managing outbreaks and incidents - GOV.UK (www.gov.uk)",
+                "tag": "p"
+            },
+            {
+                "content": "UKHSA resources for settings:",
+                "tag": "p"
+            },
+            {
+                "content": "Copies of printed publications and the full range of digital resources to support the immunisation programmes can be ordered through the\u202fhealth publications\u202fplatform.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2026/02/what-to-do-if-you-think-your-child-has-measles-and-when-to-keep-them-off-school/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "There has been a resurgence of measles in England and around the world in recent years. Most of the cases in England have been in children under the age of 10 years with many outbreaks linked to nurseries and schools. \u2026"
+    },
+    {
+        "title": "A Snapshot of Lunar New Year Celebrations in East & South East Asia",
+        "authors": [
+            "Aggie Michael"
+        ],
+        "posted_on": "2026-02-17T09:37:12",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Ministry of Housing, Communities and Local Government civil servant Aggie Michael shares the meaning of the Lunar New Year on 17 February, drawing parallels between the Chinese Zodiac and traditional Civil Service values.",
+                "tag": "h3"
+            },
+            {
+                "content": "This February, I\u2019ll be joining the largest human migration on Earth, travelling home to celebrate the Lunar New Year. In 2025, an estimated\u00a03 billion journeys were made globally for Chun Yun (Spring Travel).",
+                "tag": "p"
+            },
+            {
+                "content": "Lunar New Year is the biggest festival celebrated by people of East Asian heritage, though it goes by different names across different cultures. In Mongolia, it\u2019s\u00a0Tsagaan Sar, in Korea \u2013 Seollal, in Vietnam, T\u1ebft Nguy\u00ean \u0110\u00e1n. Thailand, Malaysia, Singapore, the Philippines and Indonesia refer to it as Chinese New Year, while Taiwan and China call it Spring Festival.",
+                "tag": "p"
+            },
+            {
+                "content": "The day shifts each year, usually falling on the second new moon after the winter solstice (Dong-Zhi), reflecting the lunar calendar traditionally used across Asia to guide agriculture and festivals.",
+                "tag": "p"
+            },
+            {
+                "content": "Renewal, family reunion, and welcoming prosperity",
+                "tag": "h3"
+            },
+            {
+                "content": "The festival centres on sweeping out the old and inviting good fortune, health, and happiness for the year ahead. Families gather for traditions like deep house cleaning, feasts, ancestor worship and vibrant decorations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m Chinese on both sides \u2013 born in Singapore to a Singaporean Father and Malaysian Mother. Both sets of grandparents left China and settled in Malaya in the early 1900s. Chinese New Year has always been a big deal in my household.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Festivities begin with Reunion Dinner on New Year\u2019s Eve, when everyone who lives or works away returns home. My Dad was a sailor, often away for months, so having him at the table always felt special.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019d present food at the ancestors\u2019 altar first, offering prayers of thanks. Then we\u2019d stay up late, turn up the radio, sing along to New Year tunes, throw crackers and watch fireworks on TV.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "According to Chinese legend, a beast called Nian emerged at midnight to wreak havoc, but was scared away by loud noises and the colour red \u2013 hence firecrackers, lion dances and red decorations. Celebrations end on the 15th day, Yuan-Xiao (the Lantern Festival), when riddles and poems are written on lanterns and displayed in public gardens for all to enjoy.",
+                "tag": "p"
+            },
+            {
+                "content": "Chinese Zodiac and Civil Service values",
+                "tag": "h3"
+            },
+            {
+                "content": "The Chinese zodiac\u2019s 12 animal signs embody distinct traits that resonate with qualities we value in the Civil Service. The Snake symbolises wisdom, the Ox represents perseverance and diligence, and the Dog stands for loyalty and reliability.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2026 is the Year of the Horse, associated with integrity and energy \u2013 qualities that mirror the Civil Service Code\u2019s core values of integrity, honesty, objectivity and impartiality. As we enter the New Year, it\u2019s a fitting moment to reflect on how these ancient traditions align with our commitment to public service with both purpose and principle.",
+                "tag": "p"
+            },
+            {
+                "content": "Xin Nian Kuai Le \u2013 Happy New Year \u2013 and Sh\u0113n T\u01d0 Ji\u00e0n K\u0101ng \u2013 Good Health to all!To join the East and South East Asian (ESEA) Working Group, or to learn more about ESEA Working Group\u2019s Lunar New Year events across the UK, email stuart.sanders@dhsc.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://civilservice.blog.gov.uk/2026/02/17/a-snapshot-of-lunar-new-year-celebrations-in-east-south-east-asia/",
+        "blog": "Civil Service",
+        "blog_link": "https://civilservice.blog.gov.uk",
+        "description": "Ministry of Housing, Communities and Local Government civil servant Aggie Michael shares the meaning of the Lunar New Year on 17 February, drawing parallels between the Chinese Zodiac and traditional Civil Service values. This February, I\u2019ll be joining the largest \u2026"
+    },
+    {
         "title": "DHSC/NHSBSA Request a Baby Loss Certificate\u00a0\u00a0Beta Reassessment",
         "authors": [
             "Man-Yee Lam"
