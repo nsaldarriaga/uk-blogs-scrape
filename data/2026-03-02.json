@@ -1,5 +1,850 @@
 [
     {
+        "title": "Announcing the 1.0 trust framework\u00a0",
+        "authors": [
+            "Ellery Shentall"
+        ],
+        "posted_on": "2026-03-03T15:30:00",
+        "categories": [
+            "Digital identity",
+            "Trust mark",
+            "UK digital identity and attributes trust framework"
+        ],
+        "content": [
+            {
+                "content": "Today, we have published the next iteration of the\u00a0trust framework,\u00a0supplementary codes\u00a0and\u00a0supporting documents\u00a0in pre-release.\u00a0Each\u00a0publication is marked as the 1.0 version, with the supporting documents version-controlled in this way for the first time.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0UK\u00a0digital\u00a0verification\u00a0services\u00a0(DVS)\u00a0trust framework\u00a0is the foundation for building\u00a0trust in the digital verification services ecosystem. The rules it sets\u00a0for\u00a0DVS\u00a0providers\u00a0help\u00a0build confidence that services certified against\u00a0it are reliable and secure.\u00a0The supporting documents\u00a0underpin the trust framework by\u00a0setting\u00a0out\u00a0guidance for\u00a0specific\u00a0elements\u00a0of the digital verification process,\u00a0and the supplementary codes\u00a0extend the trust framework with\u00a0additional\u00a0rules for\u00a0particular sectors\u00a0or use cases.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is the first\u00a0revision\u00a0of the trust framework\u00a0published\u00a0since\u00a0the relevant provisions\u00a0in\u00a0the Data (Use and Access) Act\u00a02025\u00a0(\u2018the Act\u2019)\u00a0came into force\u00a0in December\u00a02025.\u00a0To bring it in line with the legislation, we have renamed\u00a0it\u00a0the\u00a0\u2018UK digital verification services\u00a0(DVS)\u00a0trust framework\u2019\u00a0in place of its former name\u00a0\u2018UK digital identity and attributes trust framework\u2019.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "1.0\u00a0will\u00a0not\u00a0be\u00a0the last version of the trust framework. We are required under the Act to regularly review\u00a0it, and we will continue to\u00a0engage\u00a0with stakeholders and build the evidence base\u00a0for future releases.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is a pre-release?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019re\u00a0describing\u00a0this publication as a\u00a0\u2018pre-release\u2019\u00a0because\u00a0digital\u00a0verification services cannot be\u00a0certified against\u00a0it yet,\u00a0and\u00a0it does not\u00a0yet\u00a0have legal effect.\u00a0We still have\u00a0some work to\u00a0do\u00a0with\u00a0the UK Accreditation Service (UKAS) to accredit\u00a0Conformity Assessment Bodies\u00a0(CABs)\u00a0to certify services against\u00a0this version\u00a0before we\u00a0publish\u00a0the\u00a0final release.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, pre-releasing\u00a0helps\u00a0give\u00a0certainty about the forthcoming\u00a0rules\u00a0and allows providers time to prepare for the changes made since the previous version, known as the 0.4\u00a0\u2018gamma\u2019\u00a0publication.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once\u202fCABs are accredited and ready to begin certifying\u00a0later\u00a0this year, we will officially publish 1.0 using\u00a0the powers\u00a0under the\u00a0Act, clearly labelling it as the final publication.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0don\u2019t\u00a0expect to make changes to the requirements in the 1.0 publication between now\u00a0and its final release.\u00a0The final\u00a0release\u00a0will\u00a0confirm\u00a0the\u00a0dates\u00a0from which DVS providers can\u00a0start\u00a0certifying\u00a0against version 1.0 and the transition timetable from the\u00a0gamma\u00a0version.\u00a0It may also\u00a0include\u00a0some final tweaks to links and to document structure.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Changes since\u00a0the\u00a0previous\u00a0release\u00a0of the trust framework\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The\u00a01.0\u00a0version\u00a0of the trust\u00a0framework\u00a0is intended to iteratively build upon the high baseline\u00a0set in\u00a0the\u00a0gamma\u00a0version.\u00a0However,\u00a0it does introduce some significant new updates.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Enabling safe use of the \u2018UK\u00a0CertifID\u2019 trust mark\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "DVS providers certified\u00a0against\u00a0the\u00a01.0\u00a0version\u00a0of the trust\u00a0framework\u00a0will be able to use the new trust mark. With a basis in legislation, this will give certified DVS\u00a0providers a way of showing users and other businesses that their service meets the\u00a0rules\u00a0set by\u00a0the\u00a0government.\u00a0The 1.0 version sets out rules on\u00a0when and how the trust mark can be used.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An updated\u00a0data schema\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u00a0have\u00a0significantly updated the\u00a0trust framework\u2019s\u00a0data schema, which has been rewritten with the needs of business and government in mind.\u00a0The data schema defines\u00a0how\u00a0elements of identity, attribute and authentication data\u00a0should be organised, named, formatted, and exchanged\u00a0in\u00a0a consistent way to enable\u00a0this data to be understood across DVS providers and by those who would like to use\u00a0DVS.\u00a0It is designed from the ground\u00a0up to meet the revised guidance on checking identities\u00a0and\u00a0using\u00a0authenticators. Use of the data schema\u00a0remains\u00a0optional.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Data shared by orchestration and holder services\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "To reflect\u00a0the\u00a0increasingly\u00a0important role\u00a0we expect for\u00a0orchestration service providers\u00a0in supporting the adoption of DVS,\u00a0we\u2019ve\u00a0introduced our first rules specifically for them.\u00a0These rules\u00a0require that orchestration services\u00a0are\u00a0able to\u00a0tell their customers whether the\u00a0services they\u00a0orchestrate\u00a0are on the DVS register.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve\u00a0also introduced new\u00a0rules for holder service providers\u00a0to require that they be\u00a0able to share\u00a0metadata\u00a0about the identity and attribute information they hold.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Strengthening guidance on\u00a0vouching\u00a0and widening the applicability\u00a0of\u00a0inclusion rules\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We have rewritten the\u00a0guidance\u00a0on vouching\u00a0to make it more straightforward to create and share vouching evidence\u00a0when following\u00a0the guidance on checking identities.\u00a0This\u00a0is intended to\u00a0give\u00a0DVS providers and others confidence in\u00a0vouching\u00a0as a\u00a0way of\u00a0checking someone\u2019s identity\u00a0in lower risk use cases.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve\u00a0also made the\u00a0trust framework\u2019s\u00a0rules\u00a0on inclusion and accessibility, previously applicable only to a subset of providers, now apply to\u00a0all\u00a0certified DVS\u00a0providers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improving navigability and usability\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019ve\u00a0made it\u00a0easier to find your way around the\u00a0separate\u00a0supporting documents, including\u00a0through\u00a0introducing line numbering and version\u00a0control,\u00a0to mirror the\u00a0approach taken in\u00a0the trust framework itself.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The trust framework publication\u00a0contains\u00a0a full summary\u00a0of the changes\u00a0in\u00a0version\u00a01.0, covering changes in the trust framework document itself and the\u00a0separate\u00a0supporting documents.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "DVS providers cannot certify against the 1.0 trust framework or supplementary codes just yet.\u00a0We\u2019ll\u00a0confirm the dates\u00a0from which certifications against them\u00a0can begin once UKAS has completed its review and\u00a0we\u2019ve\u00a0published the\u00a0final\u00a0releases.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For providers currently certified under gamma,\u00a0we\u2019ll\u00a0set out a clear transition period.\u00a0We\u2019ll\u00a0also\u00a0provide\u00a0a\u00a0delta assessment\u00a0route. This means that most gamma\u2011certified providers will not need to be audited against the entire 1.0 framework from scratch. Instead, an auditor will only check that the provider has made the required step\u2011up from gamma to 1.0. In other words,\u00a0gamma-certified providers can choose\u00a0to\u00a0be assessed solely against the changes between the two versions.\u00a0Beta certifications will still expire on 31 March 2026, as previously communicated.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We believe the\u00a01.0\u00a0versions\u00a0of the trust framework,\u00a0supplementary codes and supporting documents\u00a0mark\u00a0a step forward for the sector, giving providers greater clarity, consistency\u00a0and confidence in\u00a0the delivery of digital verification services.",
+                "tag": "p"
+            },
+            {
+                "content": "Upon publication of the final 1.0 release, we will start engaging with stakeholders to\u00a0identify\u00a0and prioritise the areas we should focus on for updates in the next version of the trust framework.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/03/03/announcing-the-1-0-trust-framework/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "Today, we have published the next iteration of the\u00a0trust framework,\u00a0supplementary codes\u00a0and\u00a0supporting documents\u00a0in pre-release.\u00a0Each\u00a0publication is marked as the 1.0 version, with the supporting documents version-controlled in this way for the first time.\u00a0\u00a0 The\u00a0UK\u00a0digital\u00a0verification\u00a0services\u00a0(DVS)\u00a0trust framework\u00a0is the foundation for building\u00a0trust in the digital \u2026"
+    },
+    {
+        "title": "South West in-person consultation events- book now",
+        "authors": [
+            "FMP communications team"
+        ],
+        "posted_on": "2026-03-03T15:00:00",
+        "categories": [
+            "- Defra led FMPs",
+            "Public consultation"
+        ],
+        "content": [
+            {
+                "content": "On 10 February, we launched consultations on the final four Defra-led draft fisheries management plans (FMPs). The consultations are open until 11:59pm on 5 May 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re pleased to announce that in\u2011person consultation events for the Celtic Sea and Western Channel pelagic FMP and Celtic Sea and Western Channel demersal FMP are now confirmed.",
+                "tag": "h3"
+            },
+            {
+                "content": "These events follow our online sessions, where we introduced the proposals for both plans and answered early questions from stakeholders.",
+                "tag": "p"
+            },
+            {
+                "content": "The in\u2011person sessions will give local fishermen, industry organisations, environmental groups and coastal community representatives the opportunity to:",
+                "tag": "p"
+            },
+            {
+                "content": "Join us at an in-person event",
+                "tag": "h2"
+            },
+            {
+                "content": "Events will take place across the South and South West, making it easier for local stakeholders to attend and contribute.",
+                "tag": "p"
+            },
+            {
+                "content": "Full dates, times and venue details for the demersal and pelagic sessions are now available on our FMP Events page:",
+                "tag": "p"
+            },
+            {
+                "content": "\ud83d\udc49 View the event listings and book* your place",
+                "tag": "p"
+            },
+            {
+                "content": "We encourage anyone with an interest in the future management of these fisheries to join us. Your input is vital to help shape plans that reflect local knowledge, protect fish stocks, and support sustainable, thriving coastal communities.",
+                "tag": "p"
+            },
+            {
+                "content": "* We\u2019re asking people to sign up in advance so we can share important details beforehand, which will help attendees prepare. Look at more FAQs about the events here, including how to get support for making a booking.",
+                "tag": "p"
+            },
+            {
+                "content": "More in-person events coming soon",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ll be announcing dates and locations for the joint seabream FMP and wrasses complex FMP events soon. Subscribe\u00a0to the FMP blog to hear about these first.",
+                "tag": "p"
+            },
+            {
+                "content": "We look forward to seeing you at one of the events!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2026/03/03/south-west-in-person-consultation-events-book-now/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Join us to share your views on the proposals for the Celtic Sea and Western Channel demersal and pelagic FMPs."
+    },
+    {
+        "title": "Celebrating 20 years of the Business & IP Centre",
+        "authors": [
+            "Amy Miller"
+        ],
+        "posted_on": "2026-03-03T14:43:05",
+        "categories": [
+            "Business",
+            "Copyright",
+            "Design",
+            "IPO",
+            "Patents",
+            "Trade marks"
+        ],
+        "content": [
+            {
+                "content": "One of the IPO\u2019s priorities is to support small and medium-sized enterprises (SMEs) and start-ups by making access to IP guidance easier. The aim is to empower them to make informed IP decisions that boost their ability to manage their IP effectively for growth. The British Library's Business & IP Centre (BIPC) network is a significant partner in this work.",
+                "tag": "p"
+            },
+            {
+                "content": "This year, the BIPC at the British Library is celebrating twenty years of supporting small businesses to start and grow. Together with Amy Miller, Business & IP Centre National Network Co-ordinator, we take a look at the work of the BIPC and how the BIPC network has grown during this time and the ongoing partnership with the IPO.",
+                "tag": "p"
+            },
+            {
+                "content": "We asked Amy to start by telling us about the BIPC journey:",
+                "tag": "p"
+            },
+            {
+                "content": "Amy told us how expansion over the 20 years has led to a network of Business & IP Centres in more than 70 libraries across the UK. As a result, IP business support is now freely available in the places where small businesses thrive \u2013 our towns and cities.",
+                "tag": "p"
+            },
+            {
+                "content": "What sort of help is available at the British Library\u2019s Business & IP Centres, and how has the IPO been involved?",
+                "tag": "h3"
+            },
+            {
+                "content": "IPO support for the development of the centres has seen the provision of training and resources to ensure that entrepreneurs, businesses and innovators can access IP guidance locally, allowing them to make informed decisions in respect of their IP assets.",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you're just starting out, trying to protect your brand with a trade mark, find funding opportunities, or wanting to sharpen your business skills, the BIPC is there to help at every stage of your journey.",
+                "tag": "p"
+            },
+            {
+                "content": "Each year, the BIPC successfully supports more than 40,000 people, through workshops, webinars and one-to-one sessions with specialists. The results speak for themselves: over 90% of entrepreneurs supported by the BIPC are still trading after three years.",
+                "tag": "p"
+            },
+            {
+                "content": "Support covers everything from market research and intellectual property (IP) guidance to marketing, finance and networking. Whatever stage you're at, there's something for you.",
+                "tag": "p"
+            },
+            {
+                "content": "\n\nFree resources to get you started\nNot sure where to begin? BIPC's free Start-up Toolkit is a great place to start, it walks you through all the key aspects of running a business in plain, jargon-free language.\nIf you're based in London, you can also join the Kickstart your Business workshops, run through local libraries. And wherever you are in the UK, you can download free industry market intelligence resources, alongside guides explaining the types of IP (trade marks, patents, copyright and designs) and how they can be used to protect a business\u2019 brand and products.\nAll of these resources are available at the British Library's BIPC website.\n\n",
+                "tag": "p"
+            },
+            {
+                "content": "Visit the Reading Room in London",
+                "tag": "h3"
+            },
+            {
+                "content": "As well as accessing a range of resources and workshops, Amy tells us that those based in or near London can visit the BIPC Reading Room at the British Library in person. ",
+                "tag": "p"
+            },
+            {
+                "content": "Workshops and events throughout the year",
+                "tag": "h3"
+            },
+            {
+                "content": "If you're looking to learn more about trade marks, designs, copyright and patents, you're in luck - every month, the BIPC runs free workshops, as well as sessions on how to make the most of the market intelligence resources available through the British Library.",
+                "tag": "p"
+            },
+            {
+                "content": "There are special events throughout the year too, including Inspiring Entrepreneurs evenings with successful founders, the annual Start-up Day every November, and quarterly Start-up Stars panel discussions featuring entrepreneurs who've grown their businesses with BIPC support. All are free to attend - learn more on the events page. ",
+                "tag": "p"
+            },
+            {
+                "content": "Research services",
+                "tag": "h3"
+            },
+            {
+                "content": "The BIPC also offers a range of paid research services. These include:",
+                "tag": "p"
+            },
+            {
+                "content": "These services are charged at an hourly rate. To find out more or make an enquiry, email\u00a0bipc-research@bl.uk",
+                "tag": "p"
+            },
+            {
+                "content": "Join the celebrations, and find your local centre",
+                "tag": "h3"
+            },
+            {
+                "content": "As you can see from this blog, the BIPC deliver a range of fantastic services, events and resources - and they've been doing this for two decades. To mark 20 years of the BIPC, there are special events taking place across the country throughout March. You can find events at the British Library's What's On page for your local BIPC centre, and events at the British Library in London. It's a brilliant opportunity to discover what your local centre has to offer!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2026/03/03/celebrating-20-years-of-the-business-ip-centre/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "This year, the BIPC at the British Library is celebrating twenty years of supporting small businesses to start and grow. Together with Amy Miller, Business & IP Centre National Network Co-ordinator, we take a look at the work of the BIPC and how the BIPC network has grown during this time and the ongoing partnership \u2026"
+    },
+    {
+        "title": "Why your property's Council Tax band could increase",
+        "authors": [
+            "voadigitalpublishing"
+        ],
+        "posted_on": "2026-03-03T14:28:11",
+        "categories": [
+            "Council Tax"
+        ],
+        "content": [
+            {
+                "content": "The Valuation Office Agency (VOA) bands every home in England and Wales for Council Tax. Your property\u2019s band is used by your local council to determine how much Council Tax you pay.",
+                "tag": "p"
+            },
+            {
+                "content": "Your Council Tax band is based on the open market value of your property at a fixed point in time. In England, this is 1 April 1991 and in Wales, this is 1 April 2003.",
+                "tag": "p"
+            },
+            {
+                "content": "Council Tax bands cover a range of property values, so homes of different values may have the same Council Tax band. This means that an increase in your property\u2019s value won\u2019t necessarily mean that your band will go up.",
+                "tag": "p"
+            },
+            {
+                "content": "There are times when a property may be moved into a higher Council Tax band. In this blog, we\u2019ll look at the four main reasons it could happen.",
+                "tag": "p"
+            },
+            {
+                "content": "Council Tax band challenges",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the reasons a Council Tax band may go up is due to someone challenging their band.",
+                "tag": "p"
+            },
+            {
+                "content": "When you submit a challenge, we review all relevant evidence, such as sales data, property details and the bands of other similar properties.",
+                "tag": "p"
+            },
+            {
+                "content": "If the evidence shows that the value is higher than we originally thought due to the characteristics of the property and its location, your property may be moved into a higher band.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a consequence of a neighbour's challenge",
+                "tag": "h2"
+            },
+            {
+                "content": "If a Council Tax band changes as a result of a challenge, we may review the bands of nearby properties. By law it\u2019s our job to maintain an accurate Council Tax list, so we must do this to check other bands are correct. This means that if your neighbour\u2019s property has similar characteristics to yours and their band goes up, yours could to.",
+                "tag": "p"
+            },
+            {
+                "content": "After major renovation",
+                "tag": "h2"
+            },
+            {
+                "content": "A property may be deleted from the Council Tax list if it can\u2019t be lived in, typically due to it undergoing major renovation, or because is in disrepair or derelict. Read our deletions blog to find out more.",
+                "tag": "p"
+            },
+            {
+                "content": "Once the relevant works have been completed and the property can be lived in again, we will reassess the band. During our reassessment we will consider all the changes that have been made.",
+                "tag": "p"
+            },
+            {
+                "content": "If the property\u2019s value has increased because of the work, this can lead to the property\u2019s Council Tax band increasing too. It can also increase if the renovation or repairs mean your property is now similar to nearby properties in a higher band.",
+                "tag": "p"
+            },
+            {
+                "content": "Following improvements",
+                "tag": "h2"
+            },
+            {
+                "content": "The VOA follows strict laws around bandings for Council Tax.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, legally, we cannot change the Council Tax band of a property in the Council Tax list that has been improved until it is sold, or there is a general revaluation of all domestic properties. This helps to make sure homeowners are not penalised for improving or maintaining their home.",
+                "tag": "p"
+            },
+            {
+                "content": "Instead, we give the property what\u2019s known as an improvement indicator, this prompts us to review the band a property is in once it has been sold.",
+                "tag": "p"
+            },
+            {
+                "content": "This means that if you have recently bought an improved or renovated property, we may change the Council Tax band.",
+                "tag": "p"
+            },
+            {
+                "content": "When we review the band, we consider all of the changes that have been made. If we increase the band following our review, the new band will again apply from the date we notify your local council.",
+                "tag": "p"
+            },
+            {
+                "content": "Read our improvement indicators blog to learn more about the process.",
+                "tag": "p"
+            },
+            {
+                "content": "Backdated bills",
+                "tag": "h2"
+            },
+            {
+                "content": "Although there are some situations set out in legislation where we would backdate a change to the Council Tax list, this won\u2019t happen if we are increasing the band. ",
+                "tag": "p"
+            },
+            {
+                "content": "If we increase your band the change only takes effect when we notify your local council, so you won\u2019t receive a backdated bill",
+                "tag": "p"
+            }
+        ],
+        "link": "https://valuationoffice.blog.gov.uk/2026/03/03/why-your-propertys-council-tax-band-could-increase/",
+        "blog": "Valuation Office Agency",
+        "blog_link": "https://valuationoffice.blog.gov.uk",
+        "description": "There are times when a property may be moved into a higher Council Tax band. In this blog, we\u2019ll look at the four main reasons it could happen."
+    },
+    {
+        "title": "Content isn\u2019t static: what I learned about content ownership in the world of AI summaries",
+        "authors": [
+            "Tracey Wilson, Deputy Service Owner"
+        ],
+        "posted_on": "2026-03-03T11:33:48",
+        "categories": [
+            "Professions"
+        ],
+        "content": [
+            {
+                "content": "Tracey Wilson",
+                "tag": "h3"
+            },
+            {
+                "content": "In her recent blog on creating AI-ready content, Andrea explored why structuring content to meet user needs is essential for policy effectiveness as more users access information through search and AI summaries. Building on that foundation, this post looks at what happens when content ownership isn\u2019t clear, and why strong lifecycle governance is becoming just as important as good content design.",
+                "tag": "p"
+            },
+            {
+                "content": "People increasingly get government information without ever visiting a government website. Search engines and AI tools summarise and surface content in new ways.",
+                "tag": "p"
+            },
+            {
+                "content": "That shift makes it essential that the information presented is current, accurate and clearly owned.",
+                "tag": "p"
+            },
+            {
+                "content": "With this in mind, Department for Business and Trade (DBT) service owners set out to review a number of DBT\u2011tagged pages on GOV.UK that had been flagged for review. We needed to confirm ownership and decide the next action: update or retire. As we worked through it, we found that tagging does not always show clearly who is responsible, especially after Machinery of Government changes. We used the GOV.UK Content API to review ownership.",
+                "tag": "p"
+            },
+            {
+                "content": "What began as a lifecycle review highlighted broader questions about how we assign ownership and how consistently we apply our approaches in an environment where content is widely reused.",
+                "tag": "p"
+            },
+            {
+                "content": "Reviewing flagged content",
+                "tag": "h2"
+            },
+            {
+                "content": "To make the task manageable, I used the GOV.UK API to pull more metadata for each URL. Document types, taxonomy, publishing history and tagging helped build a clearer picture of the content and where ownership might sit.",
+                "tag": "p"
+            },
+            {
+                "content": "To establish if ownership needed to be updated, I reviewed subject matter, historic tags, summaries, and document types. Then I applied knowledge of how the department is structured now and how it was structured when the content was published. I also asked fellow Service Owners to review subsets of content from their portfolio perspective to help find likely owners.",
+                "tag": "p"
+            },
+            {
+                "content": "In some cases, responsibility sat elsewhere across government following Machinery of Government changes, while still being tagged to DBT. Preserving the historical publishing record matters, but operationally it should be much clearer who is responsible for maintaining content now. That\u2019s where the real work started, making ownership visible enough to take confident lifecycle decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "When ownership isn't visible",
+                "tag": "h2"
+            },
+            {
+                "content": "For many people I contacted, the content was not immediately identifiable as part of their remit, even when they recognised the subject area. There is usually more than one team in a department or across Whitehall working in a policy space. That often triggered some internal checking to establish context before any decisions could be made.",
+                "tag": "p"
+            },
+            {
+                "content": "Deciding to retire content was consistently the hardest part. Not because teams were unwilling, but because the original rationale and context were not always easy to access. People were understandably cautious about removing pages they had not created and could not trace back to a clear decision. The default was to keep it live.",
+                "tag": "p"
+            },
+            {
+                "content": "Strengthening lifecycle controls",
+                "tag": "h2"
+            },
+            {
+                "content": "We can apply retention and disposal principles more consistently across public-facing content. GDS guidance sets out when to withdraw or unpublish (retire) content, how to preserve the public record, and how to label older material (for example, history mode). It provides clear principles and processes. Departments still need to apply judgement about user need, currency and risk. Which is why clear ownership and simple lifecycle controls matter.",
+                "tag": "p"
+            },
+            {
+                "content": "This review reinforced why ongoing stewardship matters once content is live. Teams change, priorities shift, and responsibility can become distributed. We rightly invest time and energy in creating new content and in advocating for user\u2011centred design. Maintaining  content over time requires equal attention.",
+                "tag": "p"
+            },
+            {
+                "content": "When content is not reviewed regularly, its relevance can drift. That can create friction for users who rely on it to make decisions. For businesses, clarity and currency matter, particularly when they are trying to comply, operate, or grow. Strengthening ownership and review points helps to reduce that friction.",
+                "tag": "p"
+            },
+            {
+                "content": "Why distribution changes the picture",
+                "tag": "h2"
+            },
+            {
+                "content": "Content lifecycle has always mattered. What has changed is how information is accessed and reused. We may publish on GOV.UK, but content can now be summarised, quoted and surfaced across different platforms and tools. In that environment, publication is not the end of the work. ",
+                "tag": "p"
+            },
+            {
+                "content": "Clear review cycles, defined ownership, and timely decisions to update, withdraw, or unpublish content are essential. GDS already provides the mechanisms. Our focus is on applying them consistently through clearer ownership, visible review points, and structured decisions to update, retain or retire content.",
+                "tag": "p"
+            },
+            {
+                "content": "Ownership and accountability",
+                "tag": "h2"
+            },
+            {
+                "content": "Content needs clear ownership across its full lifecycle, with someone accountable for accuracy, relevance, and eventual retirement. This does not always mean a single named individual, but it does require a clearly accountable team or function.",
+                "tag": "p"
+            },
+            {
+                "content": "Content operations teams play a critical role in managing this at scale, but they cannot do it alone. Responsibility for decisions about updating or removing content must sit with the appropriate policy or subject matter owners. Accountability for making sure those policy decisions are tracked and acted on sits with content teams who manage lifecycle.",
+                "tag": "p"
+            },
+            {
+                "content": "When ownership is unclear, the default can become to keep everything, not through intent but through uncertainty. The cost is felt by users and it can weaken confidence in government information.",
+                "tag": "p"
+            },
+            {
+                "content": "Encouragingly, in DBT we are not starting from zero. Work is already underway across our content professions to strengthen how content is governed and maintained. This blog is a reflection that I hope will reinforce why it matters and where the pressure points show up in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "What needs to change",
+                "tag": "h2"
+            },
+            {
+                "content": "Good content is not just informative. It enables businesses to do what they need to do more easily and with fewer unnecessary barriers and helps policymakers to achieve their outcomes. When creating new content or reviewing existing content, AI\u2011readiness also matters. That said, new primary content must still be written for humans first, with structure and clarity that supports both user understanding and machine interpretation.",
+                "tag": "p"
+            },
+            {
+                "content": "The cost of inaction is gradual but real. It means more content is kept live by default, providing less reliable information when businesses need clarity to comply, operate and grow.",
+                "tag": "p"
+            },
+            {
+                "content": "For any colleagues facing similar work, let me give you some advice. Do not try to solve this alone. Agree ownership and lifecycle decisions across policy, delivery and Content Operations. This only works when it\u2019s genuinely shared.",
+                "tag": "p"
+            },
+            {
+                "content": "Closing reflection",
+                "tag": "h2"
+            },
+            {
+                "content": "Doing this work clarified the problems more than it changed my views. It moved me from thinking about local fixes to simple system controls we could apply. For example, lifecycle triggers that lead to a clear decision to update, withdraw or unpublish (retire) in line with GDS guidance. It can be a lightweight ownership pattern with a visible \u201clast reviewed / next review due\u201d cue where it helps users (as used in the NHS Service Manual). GDS already defines the mechanics; the job is to make them easy to apply across our content.",
+                "tag": "p"
+            },
+            {
+                "content": "It also reinforced an uncomfortable truth. Ongoing content stewardship can be undervalued. \u201cWe just need to put this on the internet\u201d can become the default mindset. The expertise needed to create, manage and maintain content and its role in helping to achieve real outcomes also needs investment. Content cannot be something we publish and forget. We must actively manage it across its lifecycle. When we do not, it can undermine confidence in government information.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/03/03/content-isnt-static-what-i-learned-about-content-ownership-in-the-world-of-ai-summaries/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "We reviewed a number of Department for Business and Trade (DBT) tagged pages flagged for review to confirm ownership and decide next action: update or retire. Without clear ownership and ongoing stewardship, content can drift while remaining live. AI systems and search tools can continue to surface older material without context, increasing the importance of \u2026"
+    },
+    {
+        "title": "Why user research panels matter - Part One",
+        "authors": [
+            "Sophie Werkshagen"
+        ],
+        "posted_on": "2026-03-03T09:22:03",
+        "categories": [
+            "Defra digital",
+            "User research"
+        ],
+        "content": [
+            {
+                "content": "Sophie Werkshagen shares her experiences of managing a participant panel for a government service, reflecting on why user research panels - and the people who maintain them - matter.",
+                "tag": "p"
+            },
+            {
+                "content": "In Defra we design and deliver services that support farming, food production, animal welfare, environmental protection and rural communities across the UK. It\u2019s where I work as a panel manager, supporting user research across these varied and often complex service areas.",
+                "tag": "p"
+            },
+            {
+                "content": "When people picture government user research, they often think of the visible parts - the interviews, focus groups and surveys where we hear directly from users. But behind every successful piece of research is the quieter work of research operations, making all this possible.",
+                "tag": "p"
+            },
+            {
+                "content": "A key part of that work is looking after external participant panels - sometimes called user panels. A participant panel is a group of people who have agreed to be contacted for user research. These panels give researchers a trusted way to reach the right people, support responsible and well\u2011governed research and ensure a fair balance of voices are included.",
+                "tag": "p"
+            },
+            {
+                "content": "More than just a name",
+                "tag": "h2"
+            },
+            {
+                "content": "A participant panel is far more than a list of names - it\u2019s a living ecosystem that, with the right care, can keep research thriving and help services grow in the right direction. When panels are nurtured, engagement stays strong and insights stay rich.",
+                "tag": "p"
+            },
+            {
+                "content": "Without that ongoing attention, recruitment naturally slows, insights become less reliable, data protection risks increase, and services risk being shaped without the full depth of user voices.",
+                "tag": "p"
+            },
+            {
+                "content": "A well\u2011run panel is the result of steady, thoughtful work. From recruitment and admin to data protection audits and stakeholder trust\u2011building, these quieter tasks keep the panel reliable and effective.",
+                "tag": "p"
+            },
+            {
+                "content": "The power of three",
+                "tag": "h2"
+            },
+            {
+                "content": "Three key areas align with our core research operations principles:",
+                "tag": "p"
+            },
+            {
+                "content": "Why panels matter",
+                "tag": "h2"
+            },
+            {
+                "content": "Panels play a quiet but powerful role in how government services are shaped. The services we explore in user research often touch directly on people\u2019s working lives, livelihoods and wellbeing. In a Defra context, this might include farming regulations, animal welfare licensing, waste management processes or the systems that support food and environmental standards.",
+                "tag": "p"
+            },
+            {
+                "content": "When a panel is well managed, the insights it provides help us understand how these services truly operate for the people and businesses who rely on them. That understanding supports both user needs and the legislative frameworks we must work within.",
+                "tag": "p"
+            },
+            {
+                "content": "Panels also help ensure we\u2019re hearing from a broad mix of voices. We can\u2019t simply hear from convenient or easy to reach groups. Panels need to reflect the real diversity of the public and industry - whether that\u2019s farmers with limited internet connectivity or busy waste exporters who only have a few minutes to spare. Steady, intentional growth keeps a panel inclusive and relevant.",
+                "tag": "p"
+            },
+            {
+                "content": "There\u2019s a wider impact too. Panels help us deliver on:",
+                "tag": "p"
+            },
+            {
+                "content": "And sometimes, research isn\u2019t just about shaping the future - it\u2019s about responding to what\u2019s happening right now. When a service goes live, panels give us a way to gather timely, informed feedback so teams can act quickly and confidently.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "p"
+            },
+            {
+                "content": "Sophie Werkshagen is a Research Operations Panel Manager in the Farming and Countryside Programme.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re interested in supporting our user research, please contact the team.",
+                "tag": "p"
+            },
+            {
+                "content": "Check out our LinkedIn page for all the latest news, stories and job openings. While you're there, why not give us a follow?",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2026/03/03/why-user-research-panels-matter-part-one/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "Sophie Werkshagen shares her experiences of managing a participant panel for a government service, reflecting on why user research panels - and the people who maintain them - matter. In Defra we design and deliver services that support farming, food \u2026"
+    },
+    {
+        "title": "DVSA\u2019s digital year in review: championing our colleagues \u00a0",
+        "authors": [
+            "Becky Thomas"
+        ],
+        "posted_on": "2026-03-03T09:09:48",
+        "categories": [
+            "Accessibility",
+            "Data",
+            "Digital engagement",
+            "Strategy",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "Behind every service improvement lies a team of dedicated individuals whose passion and\u202fexpertise\u202fmake progress possible. While the first part of this series explored the changes that enhance our services, this\u202fblog\u202fpost\u202faims to highlight some of the people,\u202fdevelopment opportunities\u202fand projects\u202fthat are behind the scenes at DVSA Digital and Data.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Investing\u202fin our people\u202f\u202f\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We're\u202fproud to be one of the first government departments to pioneer the\u202fTechTrack\u202fdigital apprenticeship programme.\u202fBy investing in our people and supporting career changers through intensive\u202ftraining,\u202fwe\u2019re\u202fequipping future software developers, DevOps engineers, and cyber specialists with\u202fcritical\u202fskills to transform\u202four\u202fservices.\u202f\u202f\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In 2025,\u202four\u202fTechTrack\u202fapprentices\u202fcompleted an intense training programme and are now successfully embedded in multi-disciplinary teams across the Digital and Data directorate, applying their\u202fnewly gained\u202fskills and knowledge to\u202fa multitude of projects.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The early adoption of this cross-government programme not only strengthens DVSA\u2019s digital capability but also\u202fdemonstrates\u202four commitment to innovation and continuous learning.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "TechTrack\u202fapprentice John Rothera,\u202foutlines\u202fhis\u202fexperience at\u202fDVSA so far:\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cMy first three months were spent in a fast-paced intensive bootcamp, which gave me a solid foundation in software engineering principles.\u202fIn the final weeks, I worked with other apprentices to build a full-stack application hosted online for anyone to access.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This application had a functioning website with a database, a user interface and backend code.\u00a0Presenting our work to DVSA colleagues was a proud moment for us all. It was an intense but rewarding experience that showed just how\u00a0far\u202fwe\u2019d\u202fcome in a short\u202ftime\u201d.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recognition on the global\u00a0stage\u202f\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "DVSA's digital excellence was recognised on the world stage when Tina Churcher, Chief Delivery Officer, was named among\u00a0the\u202fTop 100 Future CIOs\u202fglobally.\u00a0Her leadership has driven innovation, strategic transformation, and measurable impact across DVSA's digital services.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reflecting on\u202fher achievement, Tina said: \u201cMy Dad once said that\u202fyou\u2019re\u202fonly ever as good as your team will let you be.\u202fI\u2019m\u202fprivileged to work with an incredible team at DVSA whose purpose to keep Britain moving safely and sustainably, is as tangible across Digital and Data as it is to our frontline colleagues. Together,\u202fwe\u2019ll\u202fcontinue to set new standards in digital innovation\u201d.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This recognition places DVSA alongside global\u00a0giants\u202fin\u00a0the financial,\u202fretail\u00a0and\u202fentertainment\u00a0sectors,\u202fshowcasing\u202fthe\u00a0agency's growing influence in public sector technology.\u202fA\u00a0huge congratulations to Tina\u00a0for\u202fthis\u202fincredible\u202fachievement!\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u202fChampioning innovation\u202f\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Another exciting project\u202fwe\u2019re\u202fdeveloping is\u202fDVSA's Innovation Lab, a brand-new team within Digital and Data\u202faiming to explore\u202femerging\u202ftechnologies, solve\u202fservice challenges and driving continuous improvement across the agency.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cara Thresh, Programme Delivery Manager who has been leading the Innovation Lab\u202fexplains:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u202f\u201cThe Innovation Lab creates focused time and capacity for our teams to explore innovative ideas that can genuinely improve our services.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It's\u202falso\u202fabout making sure colleagues across DVSA understand emerging technologies and how they might\u202fbenefit\u202fus, while\u202fdelivering practical proof-of-concepts that\u202fdemonstrate\u202freal value.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're\u202fidentifying\u202fand testing ideas that unlock efficiencies and support our strategic goals \u2013\u202fessentially acting\u202fas a central hub where teams can experiment, learn together, and collaborate on\u202fnew approaches\u202fthat make a difference to how we work\u201d.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll\u202fbe\u202fsharing further updates on the work of our Innovation Lab on this channel over the coming months.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u202fShaping the future together\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The dedication and creativity of our staff have been the driving force behind every improvement\u202fwe\u2019ve\u202fdelivered. As we look ahead to the coming year,\u202fwe\u2019re\u202fexcited to build on this momentum, introducing new innovations and continuing to put people at the heart of everything we do.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together,\u202fwe\u2019re\u202fshaping a future\u202fthat\u2019s\u202fsmarter, more connected, and even more responsive to the needs of our customers.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Keep an eye on our channels\u202fas we\u202fcontinue to share our stories of development, innovation and the incredible talent\u202fthat\u2019s\u202fdriving our work forward.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To stay connected with everything happening in DVSA Digital and Data, you can\u00a0follow us on social media\u00a0and sign up for email alerts, where we share our latest news, insights and opportunities to join our team.\u202f\u202f\u202f\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dvsadigital.blog.gov.uk/2026/03/03/dvsas-digital-year-in-review-championing-our-colleagues/",
+        "blog": "DVSA digital",
+        "blog_link": "https://dvsadigital.blog.gov.uk",
+        "description": "In part 2 of our blog series, Becky Thomas, Chief Digital & Information Officer (CDIO), highlights some of the people, projects, and programmes that drive continuous improvement behind the scenes at DVSA Digital and Data."
+    },
+    {
+        "title": "Coastal Planners Corner",
+        "authors": [
+            "Kathleen Telford, Marine Planner"
+        ],
+        "posted_on": "2026-03-03T07:58:33",
+        "categories": [
+            "marine planning"
+        ],
+        "content": [
+            {
+                "content": "North East",
+                "tag": "p"
+            },
+            {
+                "content": "In recent months, Kathleen had been focusing on developing the employment and heritage assets policies for the East Marine Plan. This has been a collaborative process, as we refine policies based on stakeholder feedback and insights from an independent Sustainability Assessment. The aim is to ensure the plan supports economic opportunities, protects cultural identity, and promotes long-term environmental sustainability. Work on these policies will continue, and they will be shared with you to ensure the final plan is the best it can be.",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this, Kathleen has been responding to consultations from Northumberland, Gateshead, North Tyneside, and Whitby. In addition, several neighbourhood plans needed her input to support those in their endeavours to produce plans that are both wanted and needed, and reflect the priorities of their communities. This work helps to align local priorities with marine planning and the sustainable use of our marine area.",
+                "tag": "p"
+            },
+            {
+                "content": "East",
+                "tag": "p"
+            },
+            {
+                "content": "Mark has been continuing to develop policy, checking policy compatibility alongside responding to consultations and contributing to the development of the EastME conference, whilst attending regular BAU meetings.",
+                "tag": "p"
+            },
+            {
+                "content": "South East",
+                "tag": "p"
+            },
+            {
+                "content": "As part of East Marine Plan development, Marie has been specifically working on the Defence and Fisheries policies, including Sustainability Appraisal mitigation and integrating previous stakeholder comments into our new draft policies.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of her focus on fisheries policy, Marie joined the All Party Parliamentary Group (APPG) on Fisheries, Rebuilding Trust: Fisheries, Science, Management. Trust between industry, scientists, managers, and policymakers is key to effective fisheries management. This session brought together experts on this topic and best practice case studies to explore the issues and to set out recommendations in support of fostering, and rebuilding the bridges of trust needed for sustainable, resilient and prosperous UK fisheries.",
+                "tag": "p"
+            },
+            {
+                "content": "South",
+                "tag": "p"
+            },
+            {
+                "content": "Eva has been busy continuing work on the East Marine Plan. She has attended meetings related to Shoreline Management Plans and is also looking into how these plans interact and align with marine plans in the South and South-West.",
+                "tag": "p"
+            },
+            {
+                "content": "Eva attended a workshop with Sussex Bay where they are gathering information for their \u2018blueprint for seascape recovery\u2019. It was a very interesting workshop with voices from regulators, industry and NGOs. Having many voices from different perspectives is always an interesting and useful exercise which will hopefully support Sussex Bay in realising their vision.",
+                "tag": "p"
+            },
+            {
+                "content": "North West",
+                "tag": "p"
+            },
+            {
+                "content": "Over winter, the North West Coastal Forum and the Solway Firth Partnership hosted several online meetings with a range of stakeholders to understand how people's experiences of marine planning and the Local Nature Recovery Strategy processes could inform direction on the appropriate scale and governance for localised marine planning following the local approach to decision-making research project. This work was supported by Chloe in the North West.",
+                "tag": "p"
+            },
+            {
+                "content": "The next step is a cross-sector workshop to share and explore the findings from the online sessions",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2026/03/03/coastal-planners-corner-3/",
+        "blog": "Marine Development Blog",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "North East In recent months, Kathleen had been focusing on developing the employment and heritage assets policies for the East Marine Plan. This has been a collaborative process, as we refine policies based on stakeholder feedback and insights from an \u2026"
+    },
+    {
         "title": "Explainer: Everything you need to know about modernising polling stations\u00a0",
         "authors": [
             "mhclgpress"
