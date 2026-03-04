@@ -1,5 +1,824 @@
 [
     {
+        "title": "AI and collusion: frontiers, opportunities and challenges",
+        "authors": [
+            "Dr Karen Croxson"
+        ],
+        "posted_on": "2026-03-04T15:30:34",
+        "categories": [
+            "CMA Technology Horizon Scanning",
+            "Competition law compliance"
+        ],
+        "content": [
+            {
+                "content": "Algorithms and AI are increasingly shaping the world around us, influencing a wide range of decisions and market outcomes \u2013\u2060 from the prices we pay for goods and services, to the choices available in markets.",
+                "tag": "p"
+            },
+            {
+                "content": "The Competition and Markets Authority (CMA) is the UK\u2019s main competition and consumer protection authority. We have a whole-economy remit: we promote competition and protect consumers with a clear end goal to drive economic growth and improve household prosperity.",
+                "tag": "p"
+            },
+            {
+                "content": "We have examined algorithms and AI over many years, assessing their implications for competition and consumers. This includes\u00a0early work on pricing algorithms\u00a0and more recent work on\u00a0frontier foundation models, as well as ongoing work and thinking on agentic AI.1",
+                "tag": "p"
+            },
+            {
+                "content": "This technology can give rise to significant benefits but also important risks, including the potential for new forms of collusion. Businesses must take proactive steps to mitigate the risk of breaking consumer or competition law, making sure they understand the technology on which they rely to inform or shape commercial and operational decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "Competition agencies can also harness this powerful technology internally to drive a step change in the efficiency and effectiveness of their work, including in screening markets for potential issues. The CMA has invested heavily in our technical capabilities, including our ability to use AI and agentic systems to detect breaches of consumer and competition law at an unprecedented pace and scale.",
+                "tag": "p"
+            },
+            {
+                "content": "Rise of algorithmic pricing",
+                "tag": "h2"
+            },
+            {
+                "content": "Algorithmic pricing is not a new phenomenon. Algorithms have been used for decades in sectors such as airline pricing, hospitality, and retail. The CMA\u2019s early research in this area, including a\u00a0study of pricing algorithms\u00a0(2018) and\u00a0broader report\u00a0(2021), highlighted how integral algorithmic systems had already become to many businesses\u2019 operations.",
+                "tag": "p"
+            },
+            {
+                "content": "However, the prevalence and sophistication of algorithms have grown markedly in recent years, fuelled by increasingly granular, large-scale data, availability of computing power, and methodological developments. The emergence of large language models (LLM) has given businesses greater access to powerful, low-cost predictive technology that can inform or automate many important decisions, including price setting. Our more recent work has explored these developments and their potential implications.",
+                "tag": "p"
+            },
+            {
+                "content": "Benefits of algorithmic pricing",
+                "tag": "h2"
+            },
+            {
+                "content": "Efficiency, speed and lower costs",
+                "tag": "h3"
+            },
+            {
+                "content": "Algorithms can process complex datasets much faster than humans, allowing businesses to adjust their prices in real-time for optimised outcomes. By automating pricing decisions and reducing human error, businesses can lower their costs and barriers to entry, potentially leading to greater competition.",
+                "tag": "p"
+            },
+            {
+                "content": "Personalised pricing",
+                "tag": "h3"
+            },
+            {
+                "content": "Algorithms may allow businesses to tailor prices to individual customers or segments, increasing their profits while also expanding market access and affordability for some consumers.",
+                "tag": "p"
+            },
+            {
+                "content": "Increased market efficiency",
+                "tag": "h3"
+            },
+            {
+                "content": "By making prices more responsive to changes in demand and supply \u2013 including supply chain disruptions \u2013 algorithmic pricing may make markets more efficient.",
+                "tag": "p"
+            },
+            {
+                "content": "Risks and challenges of algorithmic pricing",
+                "tag": "h2"
+            },
+            {
+                "content": "Dynamic pricing",
+                "tag": "h3"
+            },
+            {
+                "content": "Algorithmic pricing can creates risks related to dynamic pricing, where prices move rapidly in response to changing market conditions. In such circumstances, there is potential for vulnerable consumers to lose out, for consumers to feel blindsided by sudden changes \u2013 particularly if they are under unfair pressure to make snap decisions \u2013 and ultimately for a loss of consumer trust and confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "The CMA has\u00a0discussed dynamic pricing recently\u00a0and set out\u00a0advice for businesses\u00a0to help them use innovative pricing models in a fair and transparent way.",
+                "tag": "p"
+            },
+            {
+                "content": "Algorithmic collusion",
+                "tag": "h3"
+            },
+            {
+                "content": "Algorithmic pricing could also lead to coordinated outcomes and higher prices \u2013 often referred to as \u2018algorithmic collusion\u2019. The emergence of more powerful AI models may compound this risk in new and subtle ways.",
+                "tag": "p"
+            },
+            {
+                "content": "Ezrachi and Stucke2\u00a0conceptualised a set of scenarios in which algorithmic collusion may arise:",
+                "tag": "p"
+            },
+            {
+                "content": "Implementation of \u2018classic\u2019 collusion",
+                "tag": "h4"
+            },
+            {
+                "content": "Rival businesses may explicitly agree to collude and then use algorithms to put into practice, monitor, and enforce the agreement.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, in a\u00a02016 CMA case, 2 online sellers of posters were found to have colluded by agreeing not to undercut each other on Amazon Marketplace and then giving effect to the agreement using pricing software.",
+                "tag": "p"
+            },
+            {
+                "content": "The use of a common algorithm can reduce the need for sellers to communicate on an ongoing basis, is more data driven and cost-effective for real-time coordination, and enables more sustainable collusion. As with more traditional forms of collusion, this conduct is unambiguously illegal.",
+                "tag": "p"
+            },
+            {
+                "content": "Hub-and-spoke collusion",
+                "tag": "h4"
+            },
+            {
+                "content": "Colluding businesses may use the same algorithm or data hub to exchange competitively sensitive information indirectly \u2013 which might in some cases also include delegating pricing decisions to the hub or receiving from it recommendations (based on co-mingled data).",
+                "tag": "p"
+            },
+            {
+                "content": "Exchanges of information can reduce strategic uncertainty and sustain collusive outcomes, even without an explicit agreement to coordinate. The hub may allow businesses to increase prices above competitive levels, maximising collective profits. UK law recognises that indirect information exchange through third parties, such as algorithm providers, can constitute illegal, anti-competitive conduct.",
+                "tag": "p"
+            },
+            {
+                "content": "Predictable agent",
+                "tag": "h4"
+            },
+            {
+                "content": "Businesses may use algorithms that react predictably to market events, potentially softening competition. Such algorithms may follow price leadership and punish deviations, achieving collusive outcomes without human communication or explicit agreement.",
+                "tag": "p"
+            },
+            {
+                "content": "In the UK, the Chapter I prohibition in the Competition Act 1998 is engaged to the extent the conduct amounts to an agreement or concerted practice between undertakings. However, the CMA may also be able to remedy competition issues caused by coordination through market investigations without having to establish whether the businesses involved have reached a common understanding or whether that understanding is tacit or explicit.",
+                "tag": "p"
+            },
+            {
+                "content": "Autonomous, complex AI systems",
+                "tag": "h4"
+            },
+            {
+                "content": "It is possible that advanced AI systems given the objective to maximise profits may learn to reach coordinated outcomes, even without human intent to collude.",
+                "tag": "p"
+            },
+            {
+                "content": "Evidence: theory, experiments and case studies",
+                "tag": "h2"
+            },
+            {
+                "content": "While research continues to develop in this area, with many open and interesting areas of debate, some studies have supported concern about algorithmic collusion, including:",
+                "tag": "p"
+            },
+            {
+                "content": "While early research focused on reinforcement learning algorithms (Calvano et al.[4]), recent advances have allowed businesses to harness\u00a0LLM\u00a0with human-language interfaces and advanced capabilities. Through market simulations, Fish et al.[8] demonstrate that\u00a0LLM-based agents used as pricing tools may be prone to colluding anonymously, with interesting sensitivity to \u2018prompts\u2019. Meanwhile, Keppo et al.12 find that a greater number and diversity of agents can reduce the risk of collusion.",
+                "tag": "p"
+            },
+            {
+                "content": "Clearly, these are early days in a vibrant and still emerging field, with no overall consensus (Deng13), and much innovation and research yet to come. In the meantime, real cases seen already in some jurisdictions show there is already some regulatory interest and action in this area, and underline the need for businesses to understand the risks and their responsibilities in relation to algorithmic pricing.",
+                "tag": "p"
+            },
+            {
+                "content": "How businesses can mitigate the risks",
+                "tag": "h2"
+            },
+            {
+                "content": "The risks described above do not imply that the use of algorithms or AI in pricing is inherently problematic, nor that all businesses face the same level of legal or competition risk. Much depends on market context, design choices, governance, and how technology is used in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "With that in mind, this guidance only highlights steps businesses may consider taking in order to avoid breaking competition law (which has potentially serious consequences), and to reduce the likelihood of outcomes that reduce competition or harm consumers.",
+                "tag": "p"
+            },
+            {
+                "content": "Understand the law",
+                "tag": "h3"
+            },
+            {
+                "content": "Make sure your business understands how competition law applies to algorithms, and provide staff with appropriate training. For example, the CMA has\u00a0guidance on horizontal agreements.",
+                "tag": "p"
+            },
+            {
+                "content": "Do not share competitively sensitive information with your competitors",
+                "tag": "h3"
+            },
+            {
+                "content": "Make sure you are not sharing confidential, competitively sensitive information with rivals, whether directly or indirectly (for example, through a pricing consultant or pricing software).",
+                "tag": "p"
+            },
+            {
+                "content": "Information is considered to be \u2018competitively sensitive\u2019 if it reduces competitive uncertainty in the market, and could influence the competitive strategy of other businesses.",
+                "tag": "p"
+            },
+            {
+                "content": "Do not let competitors\u2019 confidential information influence your pricing",
+                "tag": "h3"
+            },
+            {
+                "content": "Make sure that any pricing guidance or actions, generated by a pricing solution you use, are not influenced in any way by competitively sensitive information from rivals \u2013 even if you do not receive this information directly.",
+                "tag": "p"
+            },
+            {
+                "content": "Be careful when using the same algorithm as a competitor",
+                "tag": "h3"
+            },
+            {
+                "content": "If you can reasonably expect that a pricing recommendation could be drawing on confidential information from a competitor (even if you have not been told this directly), you may still be breaking the law. Take extreme care when discussing pricing algorithms with your rivals.",
+                "tag": "p"
+            },
+            {
+                "content": "Scrutinise data and algorithms where needed",
+                "tag": "h3"
+            },
+            {
+                "content": "In some cases, you may need to audit the input data and statistical approaches used, whether in-house or third-party. A traditional algorithmic audit might not be enough: consider linguistic stress testing prompts, and including explicit anti-collusion constraints (for example, if using pricing solutions that involve\u00a0LLM).",
+                "tag": "p"
+            },
+            {
+                "content": "Report any concerns",
+                "tag": "h3"
+            },
+            {
+                "content": "Report anti-competitive behaviour, including potentially illegal pricing algorithms, and consider\u00a0applying for leniency\u00a0where appropriate.",
+                "tag": "p"
+            },
+            {
+                "content": "Remember: there are serious consequences to being caught in anti-competitive behaviour. In the UK, businesses can be fined up to 10% of their annual turnover, and individuals can face fines, director disqualification, or even criminal conviction.",
+                "tag": "p"
+            },
+            {
+                "content": "Pricing consultants should also act responsibly. If you provide a pricing service, you could be held to account for breaking competition law, for example if you:",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach to detection and enforcement",
+                "tag": "h2"
+            },
+            {
+                "content": "In some circumstances, algorithmic collusion can harm consumers through higher prices, less choice, and weaker incentives to innovate.",
+                "tag": "p"
+            },
+            {
+                "content": "The CMA\u2019s approach to addressing the risks of algorithmic collusion is multifaceted and proportionate, reflecting both the potential harms and evolving evidence base.",
+                "tag": "p"
+            },
+            {
+                "content": "Raising awareness",
+                "tag": "h3"
+            },
+            {
+                "content": "We continue to provide guidance, research, and accessible content for competitors and algorithm providers.",
+                "tag": "p"
+            },
+            {
+                "content": "Reporting and detection",
+                "tag": "h3"
+            },
+            {
+                "content": "We have recently updated our\u00a0leniency policy, which now makes leniency available for conduct such as exchanging competitively sensitive information through a shared algorithm.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0offer a reward\u00a0of up to \u00a3250,000 to anyone who tells the CMA about illegal cartel activity, including algorithmic collusion.",
+                "tag": "p"
+            },
+            {
+                "content": "Screening and investigation",
+                "tag": "h3"
+            },
+            {
+                "content": "We have a strong range of covert and overt investigatory powers.",
+                "tag": "p"
+            },
+            {
+                "content": "Screening is also an important and growing focus. We have been developing our capabilities in this area, drawing on a range of techniques including machine learning, AI, and agentic systems, alongside more traditional tools. These capabilities support proactive screening and investigation, and are used as part of a wider evidential toolkit rather than as a substitute for legal and economic analysis. As part of this we are also actively screening for algorithmic collusion and have built technical expertise to investigate algorithmic systems, including their outcomes, user interactions, and competition implications.",
+                "tag": "p"
+            },
+            {
+                "content": "Our growing AI and technical capability",
+                "tag": "h2"
+            },
+            {
+                "content": "The CMA\u2019s work on algorithmic collusion and our wider cartel screening form part of a broader programme of technology horizon scanning and digital capability building. Areas like AI are complex and deeply technical, requiring regulators to stay on top of rapid developments. For example, recent research (Nikandrova and Parekh14) demonstrates that\u00a0LLM-based agents can autonomously learn to adopt harmful exclusionary strategies. This is a further example of the need for businesses to understand the technology and be alive to novel risks and for agencies actively to monitor this emerging space. In the CMA\u2019s case, ensuring that we think ahead on emergent risks also reflects our focus on identifying and addressing barriers to UK growth.",
+                "tag": "p"
+            },
+            {
+                "content": "A particularly thought-provoking area is agentic AI. Definitions vary but these include systems that can be instructed in natural language to achieve a goal, navigating some complexity in the environment, planning, and taking action as needed. The current reality may be modest, but interest has surged in recent years and this has become an area of active development and investment for businesses. There are many potential applications \u2013 for consumers and businesses \u2013 and potentially significant benefits as well as important considerations, including risks around pricing outcomes where businesses rely on AI agents to set prices fully autonomously for them. Agents could, in theory, learn to coordinate on outcomes akin to tacit coordination without explicit human instruction to do so. Experiments have shown\u00a0LLM\u2011based agents in simulated environments converging to supra\u2011competitive pricing in repeated\u2011interaction settings (Fish et al.[8]).",
+                "tag": "p"
+            },
+            {
+                "content": "Another possibility explored in recent theory and experimental research is that AI agents learn to coordinate by communicating through steganographic techniques \u2013 methods of concealing information within another message or physical object. For example, it has been demonstrated that AI agents instructed not to share sensitive information directly can learn to conceal this within a seemingly innocuous message about the weather (Motwani et al.15). Ghaemi16\u00a0surveys these and related possibilities. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The CMA\u2019s programme of technology horizon scanning is continuing to monitor and unpack developments in AI including agentic systems, and embedding this insight across the breadth of our work. Likewise, businesses exploring these new technologies and operating in the UK should ensure that they understand potential risks and remain compliant with UK consumer and competition law.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of our proactive work, we are also exploiting advanced technologies internally at the CMA to detect consumer and competition issues at unprecedented pace and scale. This work is iterative and complements, rather than replaces, established legal and economic analysis. It includes deploying new techniques in data analysis and AI to help detect bid rigging in public procurement \u2013 a significant area of risk and potentially substantial public savings. We are using agentic AI to identify potential infringements of consumer protection law across the economy to help us better understand consumers\u2019 experience and target our enforcement activity where it will have the greatest impact. We recently\u00a0opened investigations into 8 businesses, our first with new direct consumer enforcement powers, and sent advisory letters to 100 others. These actions will make a real difference for UK households and foster consumer trust and confidence, and thus contribute to economic growth.",
+                "tag": "p"
+            },
+            {
+                "content": "Since 2019, the CMA has made significant investments in building dedicated in-house capability. An interdisciplinary directorate \u2013 Data, Technology and Insight (DTI) \u2013 now brings together:",
+                "tag": "p"
+            },
+            {
+                "content": "Experts in strategic, business and financial analysis are now part of this mix too \u2013 it is essential to understand not only the technology but also how businesses operate in the real world and we have been deepening our capabilities for understanding businesses\u2019 strategies and business models, including in relation to AI. ",
+                "tag": "p"
+            },
+            {
+                "content": "DTI\u2019s integrated team of technical experts work alongside economists, lawyers, and other specialists, helping ensure that the CMA can meet the challenges of increasingly complex investigations.",
+                "tag": "p"
+            },
+            {
+                "content": "Agencies do not operate in a vacuum, and engaging with stakeholders \u2013 including consumers, businesses, investors, academics, and other regulators \u2013 is crucial to the quality of the CMA\u2019s work and impact. We proactively share insights and techniques, both:",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "The evolving digital economy presents both opportunities and challenges. Algorithmic pricing and AI can deliver significant benefits for businesses and consumers, but can also raise risks of collusion and harm.",
+                "tag": "p"
+            },
+            {
+                "content": "Businesses are advised to ensure they understand the law, and mitigate risks that may be posed by algorithmic pricing (including the newer and more subtle risks posed by\u00a0LLM\u00a0and agentic AI).",
+                "tag": "p"
+            },
+            {
+                "content": "For their part, agencies must:",
+                "tag": "p"
+            },
+            {
+                "content": "The CMA\u2019s own programme of work in this space is ongoing and geared to proactive technically-informed support and guidance for businesses, with robust enforcement where needed to protect consumers and competition and ensure markets remain fair, dynamic, and innovative.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2026/03/04/ai-and-collusion-frontiers-opportunities-and-challenges/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "How AI and pricing algorithms have the potential to facilitate collusion, and what businesses can do to mitigate risk."
+    },
+    {
+        "title": "How research led to policy change: Phytophthora pluvialis restrictions lifted",
+        "authors": [
+            "Joan Webber"
+        ],
+        "posted_on": "2026-03-04T12:00:00",
+        "categories": [
+            "Tree health"
+        ],
+        "content": [
+            {
+                "content": "After more than 4 years of intensive scientific investigation, the evidence is in and it's positive news for woodland owners and nurseries across England. The 6 demarcated areas for Phytophthora pluvialis \u2013 Cornwall and Devon, Cumbria, Herefordshire, Surrey, Gloucestershire and Shropshire \u2013 have now been officially revoked. This follows research that has deepened our understanding of this tree pathogen and has allowed us to change our assessment of the risk it poses.",
+                "tag": "p"
+            },
+            {
+                "content": "Since Phytophthora pluvialis was first discovered in the UK in 2021, extensive ground and aerial surveillance has been undertaken across the UK. In England, a staggering 1,312 sites have been visited, thousands of samples were collected and tested and 3,930 hectares were surveyed on the ground \u2013 roughly an area 16 times the size of the City of London. 22 helicopter flights have also taken place as part of aerial surveys across the south-west and south-east of England, and in Wales.",
+                "tag": "p"
+            },
+            {
+                "content": "The research journey: from unknown threat to understood risk",
+                "tag": "h2"
+            },
+            {
+                "content": "Phytophthora pluvialis is a fungus-like pathogen that affects various conifer species. When it was first identified in Great Britain in September 2021 on Douglas fir and western hemlock, our scientists faced significant knowledge gaps. The pathogen had never been found in Europe, nor on western hemlock.",
+                "tag": "p"
+            },
+            {
+                "content": "While it was known to affect foliage of Douglas fir and tanoak in the USA, and radiata pine and Douglas fir in New Zealand, in Britain it appeared to infect foliage and also cause stem cankers on hemlock and Douglas fir. This suggested it was behaving differently under our conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "This uncertainty prompted precautionary measures, including treating the pathogen as a quarantine pest and establishing demarcated areas around outbreak sites to reduce the risk of spread. Crucially, it also triggered an extensive programme of research led by Forest Research pathologists specialising in Phytophthora diseases.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of this work, rainwater and stream samples were tested to understand how P. pluvialis spreads in the natural environment, and researchers investigated what conditions trigger sporulation \u2013 the production of spores. Forest Research have tested over 4,000 samples from stems, branches, foliage (needles) and bark as part of a comprehensive diagnostic programme.",
+                "tag": "p"
+            },
+            {
+                "content": "What the evidence tells us",
+                "tag": "h2"
+            },
+            {
+                "content": "Timber impact: largely superficial damage",
+                "tag": "h3"
+            },
+            {
+                "content": "For those managing woodlands commercially, the research into timber impact was particularly important. In the early days following first detection, restrictions were placed on timber movement within demarcated areas to limit potential spread of the disease. Forest Research examined how deeply the pathogen might penetrate from bark cankers into the sapwood beneath and found that this penetration tends to be largely superficial.",
+                "tag": "p"
+            },
+            {
+                "content": "This is significant because superficial damage is typically removed during normal timber processing. In practical terms, even where trees are affected by P. pluvialis, the commercial value of the timber is unlikely to be severely compromised.",
+                "tag": "p"
+            },
+            {
+                "content": "When this research concluded, restrictions on timber movement were lifted in 2023 \u2013 an early example of evidence directly informing policy. Although, some questions remained requiring further research on certain species of plants for planting.",
+                "tag": "p"
+            },
+            {
+                "content": "Plant trade: not a primary pathway of spread",
+                "tag": "h3"
+            },
+            {
+                "content": "One of the key concerns was whether P. pluvialis would spread rapidly through the nursery trade. Demarcated areas were established around outbreak sites that limited trade movement without authorisation and inspection whilst research was ongoing.",
+                "tag": "p"
+            },
+            {
+                "content": "The evidence has since painted a more reassuring picture.\u00a0Animal and Plant Health Agency inspectors have been monitoring for P. pluvialis symptoms in nurseries since 2021. Additional targeted testing of both water and foliage was recently carried out at nursery sites located within demarcated area, focusing specifically on sites where host plants were present.",
+                "tag": "p"
+            },
+            {
+                "content": "Despite being within 10km of confirmed or previously confirmed infection sites, there were no positive findings. In fact, there has never been a positive finding of P. pluvialis on a nursery site.",
+                "tag": "p"
+            },
+            {
+                "content": "While spread via plant trade remains theoretically possible, the evidence strongly suggests it is not the primary pathway for the pathogen's movement across the country \u2013 a finding that was instrumental in downgrading the risk rating for this route of spread.",
+                "tag": "p"
+            },
+            {
+                "content": "Environmental impact: low risk of extensive spread to woodlands",
+                "tag": "h3"
+            },
+            {
+                "content": "Perhaps the most significant findings relate to the pathogen's behaviour in the natural environment. Forest Research pathologists discovered that P. pluvialis shows relatively low levels of sporulation across a range of host species when compared to other highly damaging Phytophthora species such as Phytophthora ramorum. This matters because sporulation is how Phytophthora species spread and infect new hosts.",
+                "tag": "p"
+            },
+            {
+                "content": "Researchers also examined rhododendron, a plant notorious for harbouring and spreading P. ramorum, and again found that sporulation levels of P. pluvialis were relatively low in comparison.",
+                "tag": "p"
+            },
+            {
+                "content": "Laboratory testing of infected western hemlock needles revealed another encouraging finding \u2013 the persistence of P. pluvialis in needle tissue is low. Field investigations supported this, with detection of the pathogen in naturally infected western hemlock needles proving sporadic and often low or non-existent over repeated testing. This suggests the pathogen may not survive as long in plant material as some related species, potentially limiting its ability to spread over time.",
+                "tag": "p"
+            },
+            {
+                "content": "Based on these findings, risk ratings for environmental and social impacts have been revised to low.",
+                "tag": "p"
+            },
+            {
+                "content": "Comparison with phytophthora ramorum: a less severe pathogen",
+                "tag": "h3"
+            },
+            {
+                "content": "We know that some Phytophthora species can be incredibly damaging to plants and trees, but we were unsure on how this particular species may impact other possible host plants.",
+                "tag": "p"
+            },
+            {
+                "content": "To understand how P. pluvialis compares to established threats, Forest Research, working with scientists at Fera Science Ltd and Science and Advice for Scottish Agriculture, conducted extensive environmental host testing across more than 30 different species, both productive and amenity.",
+                "tag": "p"
+            },
+            {
+                "content": "The results showed that P. pluvialis generally produces much less severe symptoms than P. ramorum. Encouragingly, trees of both western hemlock and Douglas fir have also showed signs of recovery following bark killing attacks by P. pluvialis, suggesting that for damage to progress, repeat infections may be needed.",
+                "tag": "p"
+            },
+            {
+                "content": "For woodland owners familiar with the significant damage caused by P. ramorum, particularly in larch, this comparison provides important context about the relative threat posed by the newer pathogen.",
+                "tag": "p"
+            },
+            {
+                "content": "Science informing policy",
+                "tag": "h2"
+            },
+            {
+                "content": "Following this comprehensive research programme, the UK Plant Health Risk Group assessed whether P. pluvialis meets the official criteria of a quarantine pest, and concluded that it does not. This led to a policy change, which means statutory action is no longer required, and the removal of all 6 demarcated areas in England.",
+                "tag": "p"
+            },
+            {
+                "content": "This story demonstrates something important about how plant health policies work in practice. When faced with an unknown threat, authorities took appropriate precautionary measures to protect our woodlands. Rather than leaving these restrictions in place indefinitely, they worked closely with the Forestry Commission and Forest Research to carry out investigations to fill those knowledge gaps.",
+                "tag": "p"
+            },
+            {
+                "content": "As evidence accumulated showing the pathogen posed a lower risk than initially feared, policies were adjusted accordingly \u2013 actions that were responsive, proportionate and firmly grounded in scientific evidence.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2026/03/04/how-research-led-to-policy-change-phytophthora-pluvialis-restrictions-lifted/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Joan Webber is the Forest Research Principal Pathologist and works on invasive pathogens, including Phytophthora pluvialis. Collaborating with Forest Research and Forestry Commission colleagues, her research helps us understand the threat from the agents and how it can be managed."
+    },
+    {
+        "title": "What you need to know about secondary school offer day",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2026-03-04T11:04:42",
+        "categories": [
+            "School places",
+            "Schools"
+        ],
+        "content": [
+            {
+                "content": "On March\u00a02, Year 6 pupils across the country found out which secondary school has offered them a place for September\u00a02026.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The vast majority of\u00a0pupils have been offered a place at one of their preferred schools \u2013 most their top choice.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will not publish\u00a0this year\u2019s\u00a0preference data until June but the data from last\u00a0year\u00a0showed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What happens once I receive an offer of a school place?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "In England, the offer letter or email will explain what you need to do next. You may need to accept the place by a given deadline \u2013 if you miss that, the offer could be withdrawn and the place be given to someone else.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Can I appeal a school placement decision?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Parents or carers who want to appeal a decision should first contact the school\u2019s admission authority, which\u00a0is responsible for\u00a0organising the appeal panel. Parents and carers can find their school\u2019s admission authority by visiting their local council website:\u202fFind your local council - GOV.UK\u00a0(www.gov.uk).\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel is independent and will look at the case presented by both the admission authority and the parent before\u00a0making a decision\u00a0on whether the school should admit the child.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The decision of the appeal panel is binding \u2013 if the appeal is upheld, the admission authority must offer the child a place at the school.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Admission authorities and appeal panels must\u00a0comply with\u00a0the statutory School Admission Appeals Code, which is available\u202fhere. Guidance for parents on the admission appeals process can also be found\u202fhere.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why has my child not been offered a place at one of their preferred schools?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Sometimes schools\u00a0will receive more applications than it has places available and unfortunately not every parent will be successful. Priority must be given to those who most closely meet the school\u2019s published admission arrangements.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If the local authority is unable to offer a place at one of the parents\u2019 preferred schools, it must offer a place at another school where it has a place available.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the unlikely event that a parent does not receive an offer of a place on March\u00a02, parents should contact their local authority for further advice.",
+                "tag": "p"
+            },
+            {
+                "content": "What can I expect from an admissions appeal?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Your appeal may take place in person, remotely by video call, or via a hybrid of the two.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whatever the format, admission authorities must make sure that all appeals are conducted in a fair and transparent way so that everyone can present their cases fully.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are you doing to make sure there are enough school places?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The department has\u00a0announced over \u00a32.5 billion to support LAs to create mainstream school places needed between May 2024 and September 2028, paid across 2023-24 to 2027-28.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2026/03/need-know-secondary-school-offer-day/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "On March\u00a02, Year 6 pupils across the country found out which secondary school has offered them a place for September\u00a02026. \u00a0 The vast majority of\u00a0pupils have been offered a place at one of their preferred schools \u2013 most their top \u2026"
+    },
+    {
+        "title": "Shaping the future of open data with Open Data Communities",
+        "authors": [
+            "Steve Peters, Principal Technical Architect, Analytical Data as a Service"
+        ],
+        "posted_on": "2026-03-04T10:08:00",
+        "categories": [
+            "Data"
+        ],
+        "content": [
+            {
+                "content": "Open data plays a vital role in supporting transparency,\u00a0accountability\u00a0and innovation across the public sector. By making data openly available, we inform better decision-making, help develop new services, and support analysts, researchers,\u00a0journalists\u00a0and others to better understand their areas.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s\u00a0why 12 years ago, we\u00a0established\u00a0Open Data Communities\u00a0(ODC) \u2013 the platform for the\u00a0Ministry of Housing, Communities and Local Government (MHCLG)\u00a0to routinely release its data outputs in fully open,\u00a0accessible\u00a0and reusable forms.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But today, ODC is changing.\u00a0This blog post talks about how\u00a0it\u2019s\u00a0evolving and why.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0exactly\u00a0is Open Data Communities?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "ODC is\u00a0comprised\u00a0of\u00a03\u00a0main features:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Open Data Communities is now evolving to reflect how users today access and use open data, and to prepare the ground for future opportunities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is changing?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Here\u2019s\u00a0what\u2019s\u00a0changing in ODC and why.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "New look\u00a0and a new URL\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "When work is complete,\u00a0https://opendatacommunities.org/\u00a0will redirect users to\u00a0https://open-data.communities.gov.uk/, a new purpose-built platform hosted on MHCLG-owned, robust and scalable cloud infrastructure.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "New datasets in machine-readable format\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We will begin by publishing one of our most popular datasets \u2013 the Indices of Multiple Deprivation \u2013 as CSV on the Web (CSVW). Publishing data in CSVW is part of our commitment to using open web standards, ensuring MHCLG data is consistent and linkable across government.\u00a0The\u00a0government\u00a0guidance on open standards\u00a0states that:",
+                "tag": "p"
+            },
+            {
+                "content": "New service: Get Energy Performance Data\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "EPC data \u2013\u00a0information that shows how\u00a0energy\u00a0efficient a building is \u2013\u00a0is another popular offering from the department. The EPC register team will  now take ownership of EPC open data and build a new service. The service will have an improved user experience alongside reliable, quality data. This change reflects the value and importance of EPC data across both the public, private and third sectors. The team is working to build,\u00a0test\u00a0and deploy the new service, and in the interim, we will continue to signpost users to the existing tool from our new homepage.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Linked Data Mart to be deprecated\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The Linked Data Mart (PublishMyData)\u00a0is being retired.\u00a0Linked Data Mart was a platform that focused on linked data and semantic querying, aimed  primarily at users comfortable with specialist data tooling.\u00a0After much research and evaluation, we\u00a0identified\u00a0that it was no longer providing the value for money and quality data required by our users. Interviews with users and analysis of usage statistics showed us that very few users used the specialist\u00a0linked\u00a0data tooling, preferring instead to download raw data to transform and analyse\u00a0elsewhere\u00a0such as\u00a0with\u00a0Power\u00a0BI.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why are we making these changes now?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Over the last 12 years, our users and their needs have changed significantly. Our user base now includes open data specialists, public sector analysts, private sector data consumers, academics, journalists and much more \u2013 all with\u00a0different levels\u00a0of technical\u00a0expertise\u00a0and methods for using data.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through our user research and an impact assessment, we found a clear preference for simple, accessible formats that can be used at scale without specialist tools. New tools, such as Power BI, allow users to transform and present data into compelling reports and dashboards.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "New initiatives, notably\u00a0MHCLG\u2019s\u00a0Digital Planning Programme, are  demonstrating\u00a0how standardised data will underpin more efficient and  effective services.\u00a0Arguably, the\u00a0rapid growth of AI will inevitably fuel demand and opportunities for data to be re-used in ways we cannot predict or imagine.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Prioritising providing simpler formats lets us make a stronger case for value for money. We want to focus resources on formats that are accessible for the widest possible range of users\u00a0and meet modern\u00a0open data standards. By building a sustainable foundation, we create an opening for the future development of new features, where\u00a0there\u2019s\u00a0a clear user need.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0don\u2019t\u00a0see this as an end, but a deliberate new beginning. We are taking a user-led approach to open data within the department, with a hope that Open Data Communities can evolve in response to real demand.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When are these changes happening?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Analytical Data as a Service team is hard at work ensuring a smooth transition, and we\u00a0anticipate\u00a0these changes being completed by the end of March 2026. Once the redirection and new datasets are live,\u00a0we\u2019ll\u00a0share another blog post walking through the changes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Let us know what you think\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019re\u00a0excited about the future of the department\u2019s open data offering. We would love to hear your feedback on these changes and any other features of Open Data Communities.\u00a0Contact us at:\u00a0odc@communities.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/03/04/shaping-the-future-of-open-data-with-open-data-communities/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Open Data Communities (ODC) is the platform for the Ministry of Housing, Communities and Local Government to routinely release its data outputs in fully open, accessible and reusable forms. This blog post talks about how it\u2019s evolving, why it\u2019s changing and how you can help shape the next steps."
+    },
+    {
+        "title": "What lies beneath: the data shaping the future of offshore wind energy",
+        "authors": [
+            "Alex Banks"
+        ],
+        "posted_on": "2026-03-04T10:06:26",
+        "categories": [
+            "Biodiversity",
+            "Development",
+            "Evidence",
+            "Growth",
+            "Marine environment",
+            "Natural England",
+            "Nature",
+            "Science and evidence",
+            "Seabirds",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Alex Banks, Principal Specialist, Ornithology.",
+                "tag": "p"
+            },
+            {
+                "content": "Offshore wind development is a vitally important part of the UK government approach to tackling the climate crisis and addressing energy security. At the same time, it is also vitally important that we protect and restore our marine biodiversity and enable nature recovery. Both of these things can and should go hand in hand, but in order to get this balance right, we need good information about what lives in our seas and where.",
+                "tag": "p"
+            },
+            {
+                "content": "That's where the POSEIDON project comes in.",
+                "tag": "p"
+            },
+            {
+                "content": "What is POSEIDON?",
+                "tag": "h4"
+            },
+            {
+                "content": "POSEIDON stands for Planning Offshore Wind Strategic Environmental Impact Decisions. It's a four-year project led by Natural England, as part of the\u00a0Offshore Wind Evidence and Change Programme\u00a0(OWEC), led by The Crown Estate in partnership with the Department for Energy Security and Net Zero (DESNZ) and the Department for Environment, Food and Rural Affairs (Defra), which aims to facilitate the sustainable and coordinated expansion of offshore wind to help meet the UK\u2019s commitments to low carbon energy transition whilst supporting clean, healthy, productive and biologically diverse seas.",
+                "tag": "p"
+            },
+            {
+                "content": "The goal of the project is to gather detailed information about UK seas to ensure that we are building offshore wind farms in the right places, allowing us to generate clean energy whilst avoiding or minimising risks to wildlife.",
+                "tag": "p"
+            },
+            {
+                "content": "Why is POSEIDON important?",
+                "tag": "h4"
+            },
+            {
+                "content": "Over the years, information about our marine wildlife and environment has been collected for many different purposes. However, this information is scattered across various different sources, making it difficult to identify gaps in knowledge and resulting in a lack of a comprehensive evidence base that is easy to access and interpret.",
+                "tag": "p"
+            },
+            {
+                "content": "POSEIDON was created to help fill these gaps. The team brought together existing information and collected new data to build detailed maps of:",
+                "tag": "p"
+            },
+            {
+                "content": "Having a comprehensive evidence base is important as it will help developers and decision\u2011makers plan more accurately, reduce uncertainty, and focus future surveys where they\u2019re needed most \u2013 while simultaneously protecting our marine wildlife.",
+                "tag": "p"
+            },
+            {
+                "content": "How did we collect the data?",
+                "tag": "h4"
+            },
+            {
+                "content": "Over two years, our aerial surveys covered three key regions: the Central North Sea, the South-West Celtic Sea, and the Northern Isles. The team captured images of over 54,000 seabirds and more than 5,000 marine mammals.",
+                "tag": "p"
+            },
+            {
+                "content": "Aircraft fitted with special cameras flew over parts of UK waters, taking high-resolution photographs \u2013 these Digital Aerial Surveys (DAS) were carried out by the contractor APEM Limited. Experts then analysed these images to identify different species, count them, and record where they were found.",
+                "tag": "p"
+            },
+            {
+                "content": "The work below the sea was led by project partner Cefas\u00a0 (Centre for Environment, Fisheries and Aquaculture Science), and covered five regions: the North Sea, Irish Sea, Celtic Sea, South-West, and English Channel. As part of the data collection, scientists collected samples from the seabed using a method called grab sampling, where equipment lowered from a boat scoops up material from the ocean floor. This helped them understand what habitats exist in different areas.",
+                "tag": "p"
+            },
+            {
+                "content": "These surveys, combined with the existing data we collated, gathered an enormous amount of information\u2014covering roughly 750,000 square kilometres for seabirds and marine mammals, and collecting more than 13,000 seabed samples. This is one of the largest efforts ever made to improve our understanding of UK seas for offshore wind planning.",
+                "tag": "p"
+            },
+            {
+                "content": "Where can you find this data?",
+                "tag": "p"
+            },
+            {
+                "content": "All the newly collected survey datasets, reports and imagery funded by POSEIDON are now publicly available to download via The Crown Estate's Marine Data Exchange (MDE), the world\u2019s largest collection of marine industry survey data, research, and evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "What next?",
+                "tag": "h4"
+            },
+            {
+                "content": "The team is now using all this information to build models and maps showing where species and habitats are most likely to be found, and how sensitive they might be to offshore wind development.",
+                "tag": "p"
+            },
+            {
+                "content": "A new online mapping tool will launch in Summer 2026, making it easy for developers, planners, and decision-makers to access this information in one place.",
+                "tag": "p"
+            },
+            {
+                "content": "By bringing all this evidence together, POSEIDON is helping the UK build the clean energy we need while protecting our beloved marine wildlife and seas.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/03/04/what-lies-beneath-the-data-shaping-the-future-of-offshore-wind-energy/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Alex Banks, Principal Specialist, Ornithology. Offshore wind development is a vitally important part of the UK government approach to tackling the climate crisis and addressing energy security. At the same time, it is also vitally important that we protect \u2026"
+    },
+    {
         "title": "Announcing the 1.0 trust framework\u00a0",
         "authors": [
             "Ellery Shentall"
