@@ -1,5 +1,1414 @@
 [
     {
+        "title": "DHSC Get Adult Social Care Data\u00a0Alpha Assessment",
+        "authors": [
+            "Man-Yee Lam"
+        ],
+        "posted_on": "2026-03-06T17:24:25",
+        "categories": [
+            "Alpha",
+            "Assurance",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From:\u00a0DHSCAssessment date:\u00a026/09/2024\u00a0Stage:\u00a0AlphaService provider:\u00a0DHSC",
+                "tag": "p"
+            },
+            {
+                "content": "Service description\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This service aims to solve the problem of\u2026\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Get Adult Social Care Data\u2019, developed by the Data Access Project (DAP), is a digital solution to address the data gaps and asymmetries in the ASC sector, enabling more evidence-based decision-making. The service will bring together data from multiple sources and combine them to answer questions for several user-groups including Local Authorities, Care Providers, DHSC, and Academic Researchers. It will remove barriers and improve transparency of information within social care, helping us track progress against the Health Mission for social care and performance against National Care Service Standards. This will contribute to a data-driven decision-making culture across social care organisations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This service is for\u2026\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Primary users\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Secondary users\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 2 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 3 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 6 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 7 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve frequently\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 9 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 10 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 12 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common components and patterns\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 13 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "14. Operate a reliable service\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2026/03/06/dhsc-get-adult-social-care-data-alpha-assessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "From:\u00a0DHSCAssessment date:\u00a026/09/2024\u00a0Stage:\u00a0AlphaService provider:\u00a0DHSC Service description\u00a0 This service aims to solve the problem of\u2026\u00a0 \u2018Get Adult Social Care Data\u2019, developed by the Data Access Project (DAP), is a digital solution to address the data gaps and asymmetries in the ASC sector, \u2026"
+    },
+    {
+        "title": "Advancing Space Sustainability through Updated BSI Standards\u00a0",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2026-03-06T15:24:29",
+        "categories": [
+            "Space sustainability"
+        ],
+        "content": [
+            {
+                "content": "The UK Space Agency is committed to ensuring that space remains safe, secure\u00a0and sustainable for future generations, for the benefit\u00a0and prosperity of all humanity. As global space activity continues to grow, clear, practical approaches to\u00a0the sustainable use of space\u00a0are essential to protect the orbital environment and ensure its long-term, safe use.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That is why the UK Space Agency\u00a0has\u00a0sponsored\u00a0the British Standards Institution (BSI)\u00a0to\u00a0develop\u00a0two Space Sustainability standards\u00a0in partnership\u00a0with industry.\u00a0BSI\u00a0Flex 1969 and\u00a0BSI\u00a0Flex 1971\u00a0have been updated to reflect feedback received through\u00a0a\u00a0public consultation process and extensive engagement with industry\u00a0and\u00a0regulator.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "BSI Flex 1969 \u2013 Space Sustainability: Overarching Principles provides a clear framework to help organisations\u00a0identify\u00a0and manage environmental impacts across the full lifecycle of space activities, from design and launch through to in-orbit operations and end-\u00a0of-\u00a0life disposal.\u00a0The updated version now being published\u00a0introduces a simplified set of ten principles, reflecting modern space operations and covering areas such as collision avoidance, space debris mitigation, rendezvous and proximity operations, and\u00a0objectives\u00a0for quiet and dark skies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this, BSI Flex 1971 \u2013 Space Sustainability: Launch has been strengthened into a more prescriptive code of\u00a0practice,\u00a0helping\u00a0launch providers and their supply chains\u00a0identify\u00a0and mitigate environmental impacts earlier in the process.\u00a0The updated structure improves clarity and usability, helping\u00a0organisations reduce planning and licensing risks while maintaining safety and regulatory compliance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these standards\u00a0reflect a formalisation of industry best practice\u00a0and offer a method to\u00a0build trust with investors and insurers, while providing\u00a0flexibility to innovate without stifling growth. Their publication marks an important milestone in the UK\u2019s continued leadership on space sustainability and our commitment to responsible, long-term access to space.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The two Standards are available for free download\u00a0from the BSI Website.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2026/03/06/advancing-space-sustainability-through-updated-bsi-standards/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "The UK Space Agency is committed to ensuring that space remains safe, secure\u00a0and sustainable for future generations, for the benefit\u00a0and prosperity of all humanity. As global space activity continues to grow, clear, practical approaches to\u00a0the sustainable use of space\u00a0are essential to protect the orbital environment and ensure its long-term, safe use.\u00a0"
+    },
+    {
+        "title": "Pre\u2011consultation workshops for Scottish\u2011led pelagic FMPs",
+        "authors": [
+            "FMP team, Scottish Government's Marine Directorate"
+        ],
+        "posted_on": "2026-03-06T14:30:00",
+        "categories": [
+            "- Scotland led FMPs",
+            "Development and drafting"
+        ],
+        "content": [
+            {
+                "content": "The Scottish Government is inviting stakeholders to take part in pre-consultation workshops for the Scottish-led pelagic fisheries management plans (FMPs) on 25 March 2026. ",
+                "tag": "p"
+            },
+            {
+                "content": "There are two workshops available: one for industry and one for environmental and communities\u2019 groups. See details below.",
+                "tag": "p"
+            },
+            {
+                "content": "These early discussions are an important opportunity to help shape the plans before a full public consultation later in the summer.",
+                "tag": "p"
+            },
+            {
+                "content": "The workshops aim to support meaningful engagement at an early stage of development, ensuring that those with an interest in these fisheries can contribute directly to the direction of the FMPs before drafting is finalised.",
+                "tag": "p"
+            },
+            {
+                "content": "The pelagic FMPs are:",
+                "tag": "p"
+            },
+            {
+                "content": "Find more information about Scotland-led FMPs on GOV.SCOT.",
+                "tag": "p"
+            },
+            {
+                "content": "How to register",
+                "tag": "h2"
+            },
+            {
+                "content": "If you would like to join the workshops, please sign up before 18 March:",
+                "tag": "p"
+            },
+            {
+                "content": "As with previous FMP engagement, draft materials may be shared with participants to support informed discussion. By expressing interest, you are confirming\u00a0that you are content to keep any drafts confidential, allowing for free and frank conversations during the pre-consultation process.",
+                "tag": "p"
+            },
+            {
+                "content": "Current FMP development timelines",
+                "tag": "h2"
+            },
+            {
+                "content": "The pelagic workshops form part of a wider programme of FMP work across the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "The current draft timelines for Scotland-led FMPs are:",
+                "tag": "p"
+            },
+            {
+                "content": "Please note that all timescales are draft and may be subject to change.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you",
+                "tag": "h2"
+            },
+            {
+                "content": "Thank you to all stakeholders who continue to support the development of fisheries management plans. Your input is vital in helping us shape sustainable, evidence-based management for UK fisheries.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2026/03/06/pre-consultation-workshops-for-the-scottish-led-pelagic-fmps/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Register by 18 March to join workshops to shape the Scottish\u2011led pelagic FMPs ahead of the public consultation later this summer."
+    },
+    {
+        "title": "How we retired a web application to make GOV.UK simpler to run",
+        "authors": [
+            "Andy Sellick, Senior Frontend Developer, GOV.UK"
+        ],
+        "posted_on": "2026-03-06T12:56:27",
+        "categories": [
+            "Product changes",
+            "What we're working on"
+        ],
+        "content": [
+            {
+                "content": "We\u2019ve just finished removing GOV.UK\u2019s dependence on Static, an application that was previously part of every page on the GOV.UK website.",
+                "tag": "p"
+            },
+            {
+                "content": "As the Blueprint for modern digital government makes clear, improving GOV.UK is a core part of our remit at the Government Digital Service (GDS). Retiring Static has made GOV.UK\u2019s tech stack simpler and more streamlined. It also saves time for developers, and means making changes to GOV.UK will be much easier than before.",
+                "tag": "p"
+            },
+            {
+                "content": "Read on to learn more about why we did this work, how we did it, and the benefits it brings.",
+                "tag": "p"
+            },
+            {
+                "content": "Why we\u2019ve retired Static",
+                "tag": "h2"
+            },
+            {
+                "content": "Every public GOV.UK web page is created by one of 8 applications. For example, the homepage is served by one application, the search pages by another. Static and a tool named Slimmer were created in 2011 to ensure that all of these pages had a common header and footer. Static (a Rails application) housed these elements: the application provided the page content, and Slimmer glued it all together.",
+                "tag": "p"
+            },
+            {
+                "content": "For many years, Static also housed other common elements, such as frontend code, styles and scripts, and served features such as emergency banners that could appear on every page of the site. This reduced code duplication.",
+                "tag": "p"
+            },
+            {
+                "content": "There were good reasons for building the GOV.UK website in this way, but as time passed it became clear that there was limited value in continuing to support Static and Slimmer. For instance, they did not work in the same way as the rest of our code, and were more complex for our developers to work with. Retiring Static and Slimmer would save time and effort and allow us to make improvements to GOV.UK more easily.",
+                "tag": "p"
+            },
+            {
+                "content": "A gradual change",
+                "tag": "h2"
+            },
+            {
+                "content": "In 2017, we created govuk_publishing_components (our components package or \u201cgem\u201d), designed specifically to house our frontend components \u2013 reusable parts of the GOV.UK website like buttons and form elements. This allowed us to set new standards for frontend development and to improve the developer experience. It also meant we were able to move things out of Static into other places. The header and footer themselves were turned into components and moved to our components gem.",
+                "tag": "p"
+            },
+            {
+                "content": "More recently, error pages were moved to Frontend, one of our largest applications. Banners were also moved into a custom package, and served directly from applications. The things that we needed Static for were gradually disappearing.",
+                "tag": "p"
+            },
+            {
+                "content": "Making the move",
+                "tag": "h2"
+            },
+            {
+                "content": "A reorganisation of our teams within GDS\u2019s GOV.UK directorate spurred us on to retire Static, as instead of teams being focussed on a particular task, they now have responsibility for a specific area of the website.",
+                "tag": "p"
+            },
+            {
+                "content": "We planned and tested our approach with one of our smallest applications that serves some of our least-visited web pages. Technically the work wasn\u2019t too complicated \u2013 the GOV.UK header and footer were already components that could be called directly from the applications themselves, and some assets normally provided by Static had to be called directly.",
+                "tag": "p"
+            },
+            {
+                "content": "We had to apply some fixes along the way. Our visual styles (CSS) had for many years been compiled in a certain way across Static and our applications, and we had to make adjustments to combine them together in one place for the first time.",
+                "tag": "p"
+            },
+            {
+                "content": "A lot of testing was required as we worked to apply this change to the remaining 7 applications. There are nearly 200 different page types on GOV.UK, each with many variations; we had to ensure that every one was still appearing as it had before, both on desktop and mobile, and on the various browsers we need to support.",
+                "tag": "p"
+            },
+            {
+                "content": "The final step",
+                "tag": "h2"
+            },
+            {
+                "content": "The last application to rely on Static was switched over at the start of December 2025. For visitors to the GOV.UK website, nothing has really changed \u2013 it should still look the same, work in the same way, and provide the same content.",
+                "tag": "p"
+            },
+            {
+                "content": "But a lot has changed for us. A large application no longer needs to be maintained and understood \u2013 new starters and existing developers don\u2019t have to learn how it works. We can make improvements much more easily, our developer experience has improved, and we can remove a lot of complexity.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re working with a similar piece of software, we hope this blog post has shown that even complex parts of a system can be improved or removed \u2013 with enough time and effort.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidegovuk.blog.gov.uk/2026/03/06/how-we-retired-a-web-application-to-make-gov-uk-simpler-to-run/",
+        "blog": "Inside GOV.UK",
+        "blog_link": "https://insidegovuk.blog.gov.uk",
+        "description": "We\u2019ve retired Static, an application that was part of every page on the GOV.UK website. Learn more about how this will save time, streamline our technology, and allow us to make improvements more easily."
+    },
+    {
+        "title": "International Women\u2019s Day:  Giving,\u00a0growing\u00a0and leading  in digital\u00a0",
+        "authors": [
+            "MHCLG Digital team"
+        ],
+        "posted_on": "2026-03-06T11:32:56",
+        "categories": [
+            "Careers",
+            "Women in tech"
+        ],
+        "content": [
+            {
+                "content": "To celebrate\u00a0International Women\u2019s Day (IWD) 2026\u00a0on Sunday, 8 March, 4 colleagues in\u00a0leadership roles spanning technology, artificial intelligence (AI) and data reflect on this year's theme: 'Give to gain'. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They\u00a0share\u00a0how generosity with time, resources and knowledge, including everyday actions,\u00a0have\u00a0helped them\u00a0advance\u00a0their careers\u00a0in\u00a0digital,\u00a0and how their\u00a0own\u00a0experiences\u00a0equip\u00a0them\u00a0(and can enable others!)\u00a0to\u00a0contribute meaningfully to gender diversity and inclusion in their teams\u00a0and the wider Digital and Data Profession.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Hattie Kennedy, Chief Data Officer\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "My professional journey is rooted in academia and community development. Before joining government, I ran a digital inclusion project for a housing association in Glasgow, where we built digital capacity and capability amongst residents, through mentoring programmes and initiatives like intergenerational skills swaps, pairing up young people with people in sheltered housing.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advocating for users on the ground, including empowering women and girls who lacked equal access to learning with digital skills, influenced my path into digital\u00a0government\u00a0and still shapes my approach to user needs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My 6-year journey at the Ministry of Housing, Communities and Local Government (MHCLG) has been profoundly shaped by supportive line  managers who have given me opportunities, challenged me, encouraged me to feel more confident, use my voice and feel comfortable at sharing my knowledge and experience. This support and mentoring have been one of the most valuable things\u00a0I've\u00a0received.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In my current role, being part of a senior leadership team, headed by our Chief Digital and Information Officer Gill Stewart, that\u00a0has got\u00a0such gender parity,\u00a0and to see the way in which this informs and shapes our discussions\u00a0and our work,\u00a0has been a positive experience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a woman in a traditionally male-dominated field, you cannot help but be aware of people\u2019s potential feelings and anxieties, like for example imposter syndrome. So, I try to keep an eye out for it, listen\u00a0attentively\u00a0and help people in my team in the same way that\u00a0I've\u00a0been helped. Our team is more diverse than some\u00a0I've\u00a0worked in in the past, but we can always do better and should do better to make our teams reflect the world around us.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I recently mentored students at a secondary school, discussing career options, aspirations and the non-traditional career pathways available. Fundamentally, everything begins with instilling confidence in young people that careers are open to them irrespective of their gender or background.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kat Sexton, Deputy Director for Local AI\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "I lead\u00a0Local AI \u2013 the new team supporting councils to adopt AI, on a secondment from Birmingham City Council. I feel hugely privileged to be in MHCLG \u2013 not least because my digital leadership journey has been shaped by people who generously gave their time, support and believed in me.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the eldest of 3 daughters in a military family, we were told \"girls can do anything\" and encouraged to pursue STEM.\u00a0At school, classmates often asked me for computer help, which built my confidence early on.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After university, I worked in a small local government IT team, surrounded by supportive colleagues, who were content for me to challenge the status quo and try new things. I was even promoted when pregnant with my daughter!\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From there, every role and team\u00a0I\u2019ve\u00a0been in have helped me grow. I'm  fortunate to have never felt held back because of my gender, and because of that, I feel a responsibility to give back.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I do this in very deliberate ways. I coach women in my teams, especially\u00a0when they underestimate their abilities (as many of us do). I work hard to build inclusive,\u00a0fun\u00a0and productive environments, where psychological safety isn't  a buzzword but a daily practice. I value empathy, openness and humility in leadership and try to be consistent and fair in my expectations around attitude,\u00a0behaviour\u00a0and ethic.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One persistent barrier I still see is outdated thinking about leadership: the idea that leaders must \u2018know everything\u2019 and have all the answers.\u00a0In reality, the\u00a0pace of change, especially in digital and AI, demands curiosity, not certainty.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My call to action this IWD is simple:\u00a0Ditch the ego. Ask better questions, listen, create safe spaces for challenge, and value diverse perspectives.  That\u2019s\u00a0where the real gains come from for women, for teams, and for public  service as a whole.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kat Stevens, Lead Developer, Homes for Ukraine\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "I lead software development for the\u00a0Homes for Ukraine\u00a0digital team which delivers and\u00a0maintains\u00a0the digital systems that support the Homes for Ukraine Sponsorship Scheme.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Having spent over 2 decades in software engineering, an industry still heavily male-dominated,\u00a0I've\u00a0developed both a healthy dose of cynicism and  awareness on how to foster a more diverse and inclusive workplace, including recognising the power of everyday actions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Joining government 9 years ago, first at the Government Digital Service   (GDS), then MHCLG in 2025, made a difference: Collaborating with supportive colleagues, whose genuine\u00a0expertise\u00a0was matched by empathetic communication skills (an ideal combination) accelerated my learning, in addition to active communities and volunteer-run networks. At GDS, I ran the Women\u2019s Network\u2019s mentoring scheme, and\u00a0I\u2019m\u00a0now a mentor on the cross-government mentoring scheme\u00a0Catapult,\u00a0which I find really rewarding.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our flexible working practices are brilliant but\u00a0it's\u00a0also the less tangible things that stand out, like the safety net in place around you if a challenge arises. In my experience, this structural support\u00a0wasn\u2019t\u00a0always a given in the private tech sector.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I was asked what changed when I moved from a junior to a leader role: the most noticeable change was\u00a0validation. Tech women must often work much harder to gain equivalent recognition, feeling like\u00a0you\u2019re\u00a0doing the job already when you get the promotion.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s\u00a0also changed is that\u00a0I\u2019m\u00a0highly attuned to the unspoken challenges women face in my field, and this awareness informs how I lead my team. It's  my responsibility to give feedback, look out for opportunities, support and mentor them. There are only so many hours in the day but\u00a0it\u2019s\u00a0worth it\u00a0in the long run. Investing in people, especially early in their careers, means we're  more likely to\u00a0retain\u00a0them. Given the smaller pool of women developers, we need to hang on to them!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Lou Welham, Head of Innovation, Digital Planning\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "During my career,\u00a0I\u2019ve\u00a0gained hugely from the support and advice of senior women. Mentorship has played a crucial role in my progression, especially as I navigated a career change from marketing into town planning consultancy, and then into government.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through various formal mentorship programmes, and with the support of generous mentors from Homes England and the development sector, I gained confidence during a period of uncertainty and reset for me professionally.  Their guidance, time and encouragement gave me the reassurance I needed to take the next step and shapeshift into new industries.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Although the programmes I took part in were\u00a0predominantly focused\u00a0on supporting women \u2013 and therefore largely run by female mentors \u2013 some of the most valuable advice I received came from a male mentor on a Women in Geospatial programme. He brought a genuinely fresh perspective and has become a true ally and champion in my career.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Even though the formal mentorship has ended, we\u00a0remain\u00a0in touch, and we've  even found opportunities to weave our day-to-day work together across government. That experience is a powerful reminder of the value we can add to others by offering new thinking and perspectives, even when we might be questioning whether our own experiences are directly relevant.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Now in my current role in MHCLG, I steer a\u00a0PropTech Innovation team, collaborating with local government, tech innovators and industry to pilot  cutting-edge\u00a0solutions which improve outcomes for communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h3"
+            },
+            {
+                "content": "Read more colleagues' stories from previous years' International Women's Days.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/03/06/international-womens-day-giving-growing-and-leading-in-digital/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "4 leaders share useful insights on this International Women\u2019s Day's theme, \u2018Give to gain\u2019: how generosity with time, resources and knowledge has helped them progress their careers and how their experiences equip them to contribute meaningfully to gender diversity and inclusion within their teams and beyond."
+    },
+    {
+        "title": "Raakhee\u2019s journey as an educator and advocate for inclusion",
+        "authors": [
+            "Raakhee Tailor"
+        ],
+        "posted_on": "2026-03-06T11:07:02",
+        "categories": [
+            "Inspiring teachers",
+            "Professional Development",
+            "Teacher wellbeing",
+            "Teaching profession"
+        ],
+        "content": [
+            {
+                "content": "Our education system is strongest when every teacher, leader and student can see themselves represented \u2014 and can thrive. This series shares the lived experiences of teachers and leaders from underrepresented groups across schools and further education. Their stories are motivating and deeply human: they celebrate successes, confront challenges, and offer practical insight drawn from real journeys through the profession.",
+                "tag": "p"
+            },
+            {
+                "content": "By amplifying these voices, we aim to inspire those already working in education, support the sharing of meaningful best practice, and encourage others to join a profession that needs \u2014 and values \u2014 them. The DfE is committed to building a diverse, representative workforce where everyone belongs. These case studies show what that can look like in action.",
+                "tag": "p"
+            },
+            {
+                "content": "My journey into teaching began after a gap year in Canada. That experience gave me time to reflect on what I wanted from my career, and I realized that education was where I could make the biggest impact. I started as a classroom teacher and worked in schools across Tower Hamlets, Brent, Enfield, and Harringay. Each move was a step into the unknown, but I embraced the risks because I believed in the power of learning and embraced my own growth.",
+                "tag": "p"
+            },
+            {
+                "content": "Over time, I progressed from teacher to head teacher \u2014 a journey that was far from straightforward. I had to be agile in my craft, constantly learning and adapting. Along the way, I faced moments of discomfort. I recall one progression opportunity where someone said, \u201cWe thought you could go for it because you\u2019re female, you\u2019re young, and you\u2019re brown \u2014 we need to tick the boxes for that.\u201d That comment made me hesitate and feel deeply uncomfortable.",
+                "tag": "p"
+            },
+            {
+                "content": "As I\u2019ve matured, I\u2019m no longer afraid to speak up and challenge inappropriate narratives or behaviours. I do so thoughtfully, not to create tension, but to ensure fairness and respect. Looking back, I wish someone had been there to call it out for me and say, \u201cThat\u2019s not okay.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding representation",
+                "tag": "h2"
+            },
+            {
+                "content": "As I advanced, I became more aware of how my identity influenced my career. Conversations with colleagues often touched on whether I was propelled forward because of how I looked. That awareness was both empowering and unsettling. It taught me the importance of authenticity \u2014 building real connections rather than being a symbol of diversity.",
+                "tag": "p"
+            },
+            {
+                "content": "There were times when I was the only person from a state school background or the only person of colour in a leadership team. That underrepresentation carried a psychological weight. It reminded me why advocating for diversity and inclusion matters, even when organizational action feels slow or limited.",
+                "tag": "p"
+            },
+            {
+                "content": "Creating inclusive cultures",
+                "tag": "h2"
+            },
+            {
+                "content": "Representation isn\u2019t just about leadership \u2014 it\u2019s about the entire school culture. For pupils, seeing a diverse workforce is transformative. It broadens their perspectives and fosters acceptance. I\u2019ve seen the impact when staff share their cultural practices and stories; pupils become curious, respectful, and open-minded.",
+                "tag": "p"
+            },
+            {
+                "content": "As a leader, I\u2019ve worked hard to make recruitment and retention inclusive. Simple steps \u2014 like sharing interview questions in advance, creating a welcoming environment, and discussing access arrangements \u2014 can remove barriers for candidates. Supporting staff wellbeing is equally important. I\u2019ve used education support programs, handled sensitive issues with compassion, and made reasonable adjustments for staff facing trauma or health challenges. Leadership means modelling the culture we want for pupils: one of care, fairness, and respect.",
+                "tag": "p"
+            },
+            {
+                "content": "Advice for aspiring teachers and leaders",
+                "tag": "h2"
+            },
+            {
+                "content": "If you\u2019re considering teaching or leadership, my advice is simple: find joy in the profession. Block out the negative narratives about headship being impossible. Yes, it\u2019s challenging, but the rewards \u2014 the daily interactions with pupils and staff \u2014 are worth it.",
+                "tag": "p"
+            },
+            {
+                "content": "Those that advocate for high performing schools celebrate the workforce we already have. Too often, discussions focus on recruitment crises, overlooking the incredible impact of existing staff. And seek mentorship. In my experience, there is a space for informal mentorship \u2014 those colleagues who quietly guide and support you, as well as formal programs that invest in growth.",
+                "tag": "p"
+            },
+            {
+                "content": "The ongoing challenge of access",
+                "tag": "h2"
+            },
+            {
+                "content": "A persistent challenge is the visibility and accessibility of diversity and inclusion initiatives. Opportunities do exist, but they are often confined to specific professional networks or organisations. We must work to democratise access, ensuring that career progression and inclusion initiatives are based on merit and visibility, not on who you know.",
+                "tag": "p"
+            },
+            {
+                "content": "My journey has been defined by navigating both opportunity and systemic challenges. I have learned that leadership is not just school management; it is fundamentally about intentionally creating spaces where every individual \u2014 pupil and staff member \u2014 feels they authentically belong. Diversity and inclusion are not optional initiatives; they are essential preconditions for the success of our students, our staff, and the wider community.",
+                "tag": "p"
+            },
+            {
+                "content": "Reflection",
+                "tag": "h2"
+            },
+            {
+                "content": "Diversity of thought is not an add\u2011on, a bonus, or something we consider only when convenient. It is the greatest leverage we have. It is essential to the success of our pupils, our colleagues, and our schools. When we welcome different perspectives \u2014 actively and intentionally \u2014 we create environments where ideas grow, people feel seen, and our profession can truly thrive and flourish.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "The Department for Education is committed to ensuring that every school and college models inclusive behaviours and fosters an environment where everyone is treated equally. ",
+                "tag": "p"
+            },
+            {
+                "content": "To support this, the Department has published a new resource to help leaders understand their responsibilities under the Equality Act 2010, pulling together the key information in one place and highlighting areas of practice to consider.",
+                "tag": "p"
+            },
+            {
+                "content": "------",
+                "tag": "p"
+            },
+            {
+                "content": "Read stories from further education educators navigating identity in leadership  \u2014 visit the dedicated\u00a0resource hub.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://teaching.blog.gov.uk/2026/03/06/raakhees-journey-as-an-educator-and-advocate-for-inclusion/",
+        "blog": "Teaching",
+        "blog_link": "https://teaching.blog.gov.uk",
+        "description": "A leader shares her honest reflection on navigating identity, representation, and inclusive leadership in education - and why diversity and inclusion are essential, not optional."
+    },
+    {
+        "title": "Creating space for change: Monique\u2019s mission for equity",
+        "authors": [
+            "Monique Berry"
+        ],
+        "posted_on": "2026-03-06T11:05:26",
+        "categories": [
+            "Inspiring teachers",
+            "Professional Development",
+            "Teacher wellbeing",
+            "Teaching profession"
+        ],
+        "content": [
+            {
+                "content": "Our education system is strongest when every teacher, leader and student can see themselves represented \u2014 and can thrive. This series shares the lived experiences of teachers and leaders from underrepresented groups across schools and further education. Their stories are motivating and deeply human: they celebrate successes, confront challenges, and offer practical insight drawn from real journeys through the profession.",
+                "tag": "p"
+            },
+            {
+                "content": "By amplifying these voices, we aim to inspire those already working in education, support the sharing of meaningful best practice, and encourage others to join a profession that needs \u2014 and values \u2014 them. The DfE is committed to building a diverse, representative workforce where everyone belongs. These case studies show what that can look like in action.",
+                "tag": "p"
+            },
+            {
+                "content": "Background and career path",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019ve always known I wanted to be a teacher. In 2005, I completed a PGCE in Citizenship and began teaching PSHE, RE, and Citizenship at KS3/4. Working with Year 10 and 11 students who struggled to access mainstream education led me to develop alternative curriculum pathways, including partnerships with the Prince\u2019s Trust.",
+                "tag": "p"
+            },
+            {
+                "content": "That experience ignited my commitment to supporting vulnerable and challenging pupils and eventually guided me to a Humanities teaching role at a Pupil Referral Unit (PRU) in West London. Working in a PRU changed my life. It taught me that leadership isn\u2019t about being in charge \u2014 it\u2019s about breaking barriers and building relationships. Relational leadership is essential.",
+                "tag": "p"
+            },
+            {
+                "content": "After my first maternity leave, I was promoted to Assistant Head, overseeing safeguarding, inclusion, and SEND. I expanded outreach into primary schools across Cambridgeshire, responding to a concerning rise in suspensions among younger children. I worked closely with primary headteachers and SENCOs, supporting them with strategies for children and meeting families to develop personalised plans.",
+                "tag": "p"
+            },
+            {
+                "content": "After the birth of my second child, I sought a role closer to home and became Deputy Head at a SEND primary school \u2014 a move I describe as transformative. It was phenomenal to witness the power of alternative and special education and the impact it can have on children\u2019s lives.",
+                "tag": "p"
+            },
+            {
+                "content": "During the COVID-19 pandemic, I transitioned to Deputy Head at a mainstream primary school, leading on behaviour, attendance, and SEND. My expertise from previous roles enriched the school\u2019s inclusive practices. In 2023, I stepped into headship at Springfield Primary in Kempston \u2014 a role I call the best thing I\u2019ve ever done, one that has perfectly aligned on my career journey.",
+                "tag": "p"
+            },
+            {
+                "content": "School culture and representation",
+                "tag": "h2"
+            },
+            {
+                "content": "As a Black woman in leadership, I\u2019m passionate about creating a school culture that celebrates diversity and fosters belonging. My presence as Headteacher is a powerful symbol for pupils and families. You can be Black, female, and a headteacher.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ll never forget a parent saying, \u201cIt\u2019s about time we had someone who looked like you.\u201d That moment reinforced the importance of representation in leadership. I believe in teaching resilience and empowering children to dream big. It\u2019s vital that pupils see a representative workforce - they need to know that whatever they aspire to be, they can achieve it.",
+                "tag": "p"
+            },
+            {
+                "content": "Balancing parenthood and leadership",
+                "tag": "h2"
+            },
+            {
+                "content": "My leadership journey has been shaped by my experience as a mother. After my second maternity leave, I embraced a Deputy Head role, modelling work-life balance and encouraging staff to prioritise family without compromising ambition. I learnt that having an approachable and understanding leadership team is so important. Therefore, in my role as Headteacher, my door is always open.",
+                "tag": "p"
+            },
+            {
+                "content": "Because my second maternity leave was more challenging, due to commuting and a lack of belonging in my new role, it led me to reassess my priorities. My family is everything and my role needs to fit around them. I try to ensure staff on maternity leave remain connected \u2014 not just professionally, but socially \u2014 and prioritise wellbeing through risk assessments and flexibility for appointments.",
+                "tag": "p"
+            },
+            {
+                "content": "Motivation and impact",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019m driven by the difference I make in children\u2019s lives. I see schools as community hubs and believe in celebrating small wins. By \u2018catching children being good\u2019 we remember the impact we can make. Not every day is brilliant \u2014 but every single day matters.",
+                "tag": "p"
+            },
+            {
+                "content": "My leadership is grounded in empathy, authenticity, and a deep understanding of the human experience.",
+                "tag": "p"
+            },
+            {
+                "content": "Early influences and challenges",
+                "tag": "h2"
+            },
+            {
+                "content": "My educational journey was shaped by my inspiring teachers like Mrs. McPherson at primary school and Mr. Barry at secondary school. But my secondary school experience was isolating \u2014 I was the only Black child in a school of 500+ and faced racism from both peers and some of the staff. I was very aware that I was Black \u2014 in a predominantly white community and school.",
+                "tag": "p"
+            },
+            {
+                "content": "These experiences inform my inclusive leadership today. I reject discriminatory policies, for example, including those around hair. A child\u2019s hair does not impact how they learn. My own personal experiences with bullying and exclusion have shaped how I lead \u2014 with compassion, fairness, and a commitment to equity.",
+                "tag": "p"
+            },
+            {
+                "content": "Networks and support",
+                "tag": "h2"
+            },
+            {
+                "content": "I champion the power of professional networks and encourage others to embrace opportunities. My advice would be to not be afraid to apply for jobs \u2014 regardless of your background. Put yourself out there. You never know what\u2019s going to happen.",
+                "tag": "p"
+            },
+            {
+                "content": "My journey reminds me that leadership is not just about titles \u2014 it\u2019s about impact, representation, and heart. I lead with authenticity, break barriers, and create spaces where every child can see themselves and believe in their potential.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "We lose too many female leaders, teachers and support staff from the profession and recognise women aged 30-39 are the largest group of leavers in terms of volume, from the teacher workforce.",
+                "tag": "p"
+            },
+            {
+                "content": "We are funding schools to improve maternity pay, doubling the period of full pay from the current offer of 4 weeks to 8 weeks for school teachers and leaders. This represents real progress, improving national maternity pay for teachers for the first time in more than 25 years.",
+                "tag": "p"
+            },
+            {
+                "content": "We will also provide funding for this for school support staff and remit the School Support Staff Negotiating Body (SSSNB) to negotiate equivalent improvements and provide commensurate funding to enable colleges to improve their maternity offer.",
+                "tag": "p"
+            },
+            {
+                "content": "------",
+                "tag": "p"
+            },
+            {
+                "content": "Read stories from further education educators navigating identity in leadership  \u2014 visit the dedicated\u00a0resource hub.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://teaching.blog.gov.uk/2026/03/06/creating-space-for-change-moniques-mission-for-equity/",
+        "blog": "Teaching",
+        "blog_link": "https://teaching.blog.gov.uk",
+        "description": "A headteacher reflects on a career built around inclusion, representation, and the belief that every child deserves to see themselves reflected in the adults who lead their school."
+    },
+    {
+        "title": "Amjad's journey: championing inclusion through flexible leadership",
+        "authors": [
+            "Amjad Ali"
+        ],
+        "posted_on": "2026-03-06T11:04:34",
+        "categories": [
+            "Inspiring teachers",
+            "Professional Development",
+            "Teacher wellbeing",
+            "Teaching profession"
+        ],
+        "content": [
+            {
+                "content": "Our education system is strongest when every teacher, leader and student can see themselves represented \u2014 and can thrive. This series shares the lived experiences of teachers and leaders from underrepresented groups across schools and further education. Their stories are motivating and deeply human: they celebrate successes, confront challenges, and offer practical insight drawn from real journeys through the profession.",
+                "tag": "p"
+            },
+            {
+                "content": "By amplifying these voices, we aim to inspire those already working in education, support the sharing of meaningful best practice, and encourage others to join a profession that needs \u2014 and values \u2014 them. The DfE is committed to building a diverse, representative workforce where everyone belongs. These case studies show what that can look like in action.",
+                "tag": "p"
+            },
+            {
+                "content": "I am the CPD and Inclusion Lead at Chiltern Learning Trust, where I work part-time. The rest of my week involves working for myself as a Keynote speaker, CPD lead and Trainer at TryThisTeaching.com. I also dedicate time to The BAMEed Network, a grassroots charity I co-founded in 2017.",
+                "tag": "p"
+            },
+            {
+                "content": "With over 19 years in education, I bring insight, passion, and innovation to everything I do, whether mentoring staff, shaping inclusive policies, or delivering impactful professional development across the sector.",
+                "tag": "p"
+            },
+            {
+                "content": "My path into teaching",
+                "tag": "h2"
+            },
+            {
+                "content": "After completing a law degree, I wanted meaningful work and found it in education. My early experiences as a playworker and teaching assistant in young offender institutions revealed a natural affinity for working with young people, especially in disadvantaged areas. Encouraged by a trusted mentor, the Head of Sixth Form at my old school, I pursued Qualified Teacher Status (QTS) and began my teaching career.",
+                "tag": "p"
+            },
+            {
+                "content": "Learning and growth",
+                "tag": "h2"
+            },
+            {
+                "content": "One of my most memorable experiences was being mentored by Sir Tim Brighouse. At first, I didn\u2019t know who he was \u2014 I just knew he was really important! Later, after spending time with him, I realised he was the most intelligent man I\u2019d ever met.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ve always asked questions, sought out mentors, and learned from others. That\u2019s not weakness \u2014 it\u2019s growth.",
+                "tag": "p"
+            },
+            {
+                "content": "Progression to leadership",
+                "tag": "h2"
+            },
+            {
+                "content": "My progression through the education system was swift and impactful. Within five years, I became an Advanced Skills Teacher, specialising in teaching and learning. Later, I took on assistant headships, including helping to launch a startup school in Oxfordshire. Despite systemic barriers and a lack of visible representation, I carved a pathway into leadership.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ve never worked for a headteacher who looked like me. The barriers weren\u2019t always overt \u2014 but they were there. This awareness led me to co-establish BAMEed, a grassroots charity that supports Black, Asian, and minority ethnic educators into leadership positions.",
+                "tag": "p"
+            },
+            {
+                "content": "Working flexibly",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019m a vocal advocate for flexible working in education. For over a decade, I\u2019ve balanced senior leadership roles with my independent work as a keynote speaker and my work at BAMEed. Currently, I work two days a week for my trust and three days for myself. I\u2019ve championed the idea that educators can successfully work part-time and thrive.",
+                "tag": "p"
+            },
+            {
+                "content": "My CEO once said, \u2018I\u2019d rather have some of a really exceptional person than none of a really exceptional person.\u2019 That mindset made all the difference.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ve faced challenges with part-time leadership, including misconceptions and throwaway comments. But I met them head-on: I\u2019ve got two jobs. I do a double week.\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "Why representation matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Throughout my career, I\u2019ve been a visible role model for students and colleagues. I recall students in Oxfordshire being surprised to see a senior leader who looked like them. They said, \u2018If you win, we win.\u2019 That stuck with me.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u00a0intentionally look to work in schools with low ethnic diversity, because I believe that representation is just as vital for white British pupils. They need to see diversity too\u2014perhaps even more so than others.",
+                "tag": "p"
+            },
+            {
+                "content": "Ethical leadership",
+                "tag": "h2"
+            },
+            {
+                "content": "My motivation stems from a deep moral compass. Whether delivering CPD for support staff or platforming others through the BAMEed speakers bank, my work is grounded in service. We do it because it needs to be done \u2014 not because we have to.",
+                "tag": "p"
+            },
+            {
+                "content": "I care deeply about speaking honestly about race and inclusion, especially special education needs - not presenting a polished or comfortable version of the truth. Phrases like \u201cI don\u2019t see colour\u201d or \u201cI treat everyone the same\u201d do not work when the systems we live and work in still treat people unfairly because of their race. Before society can truly be fair and equal, we need to challenge and fix the systems that create inequality in the first place.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "Well-designed flexible working including part-time working, compressed hours, and off-site PPA time, can help support female teachers, enabling them to remain in the workforce and to progress. To support schools to implement effective flexible working practices, we have published a flexible working toolkit\u00a0which includes practical resources to help school leaders implement flexible working and to support staff to request it. These resources have been produced by school leaders and other sector experts, together with the department.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Expanding and promoting flexible working opportunities in schools can help to recruit,\u00a0retain\u00a0and motivate teachers, improve staff wellbeing and promote equality of opportunity in the workforce. By helping to recruit and\u00a0retain\u00a0talented teachers, it can support the high-quality teaching needed to make the biggest difference in a child\u2019s education.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "------",
+                "tag": "p"
+            },
+            {
+                "content": "Read stories from further education educators navigating identity in leadership  \u2014 visit the dedicated\u00a0resource hub.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://teaching.blog.gov.uk/2026/03/06/amjads-journey-championing-inclusion-through-flexible-leadership/",
+        "blog": "Teaching",
+        "blog_link": "https://teaching.blog.gov.uk",
+        "description": "A senior educator and inclusion advocate reflects on a career shaped by a commitment to representation, flexible leadership, and the belief that meaningful change starts with honest conversation."
+    },
+    {
+        "title": "Get ready for the changes to the driving test booking rules: our webinar recap",
+        "authors": [
+            "Pauline Reeves"
+        ],
+        "posted_on": "2026-03-06T10:03:20",
+        "categories": [
+            "Driving instructors",
+            "Driving test",
+            "Feature",
+            "Learning to drive",
+            "Ready to Pass?"
+        ],
+        "content": [
+            {
+                "content": "On 26 February 2026, I was pleased to host a webinar for approved driving instructors (ADIs) to explain the upcoming changes to the driving test booking rules.",
+                "tag": "p"
+            },
+            {
+                "content": "In this session, my colleagues and I talked about what is changing, why we\u2019re making these changes and how we\u2019ll support you and your learners through the transition.",
+                "tag": "p"
+            },
+            {
+                "content": "I also wanted to take a moment to say a genuine, heartfelt thank you to everyone who joined. I know that giving up your evening isn't something any of us do lightly. You've already put in a full day's work and the fact that so many of you chose to spend that time with us means a great deal.",
+                "tag": "p"
+            },
+            {
+                "content": "What struck me most was not just how many of you turned up \u2013 it was the quality of the conversation. The questions you asked were thoughtful, considered and showed just how deeply you care about the people you teach and the work you do. That kind of engagement is exactly what we need right now and it's what makes these sessions so valuable.",
+                "tag": "p"
+            },
+            {
+                "content": "We've listened carefully to everything that was raised. Every question, every concern \u2013 none of it has been filed away and forgotten. We're committed to making sure we address these properly in our future communications and we'll be coming back to you with clear answers.",
+                "tag": "p"
+            },
+            {
+                "content": "This matters more than ever at the moment. We're working hard, and at pace, to bring in changes to protect learners and the wider industry from exploitation. But we can only do that well if we're doing it with you \u2013 not to you. Your insight and experience are genuinely helping to shape how we move forward.",
+                "tag": "p"
+            },
+            {
+                "content": "So thank you again. For your time, your questions and your commitment to getting this right. We're grateful to have you with us on this.",
+                "tag": "p"
+            },
+            {
+                "content": "Watch the webinar recording and get the slides",
+                "tag": "h3"
+            },
+            {
+                "content": "If you couldn\u2019t join us live, we\u2019ve now made the recording of the webinar available and you can watch it below.",
+                "tag": "p"
+            },
+            {
+                "content": "It includes an overview of why we\u2019re making changes, what is changing, what this means for you and your pupils and how we\u2019re communicating this. The recording also includes the question and answer session where we took your questions.",
+                "tag": "p"
+            },
+            {
+                "content": "Some of the questions we answered during the session were about:",
+                "tag": "p"
+            },
+            {
+                "content": "To make navigation easier, we've added timestamps in the video description. You can select a relevant timestamp to jump to a particular section, or to go to the question and answer session.",
+                "tag": "p"
+            },
+            {
+                "content": "Questions we could not get to during the webinar",
+                "tag": "h3"
+            },
+            {
+                "content": "We were not able to get to all of the questions within the session, so we\u2019d like to give a quick overview of some important areas where you asked questions.",
+                "tag": "p"
+            },
+            {
+                "content": "Will the 2\u2011change limit reset if DVSA changes or cancels a test?",
+                "tag": "p"
+            },
+            {
+                "content": "If we need to change a test, for example, due to bad weather, this would not count towards the 2-change limit. However, in almost all cases where we need to change a test, we contact the learner to make sure they can make the new test and so the limit will not be reset. If we cancel the test and the learner needs to rebook, the limit will be reset.",
+                "tag": "p"
+            },
+            {
+                "content": "If a learner has already made changes before the rules come into place, will they still have 2 changes?",
+                "tag": "p"
+            },
+            {
+                "content": "If the learner has already used all changes allowed under the current rules, they will be able to make 2 more changes from 31 March 2026 as all car driving test bookings will be reset to zero changes on 31 March.",
+                "tag": "p"
+            },
+            {
+                "content": "Will swapping require learners to share personal or licence details?",
+                "tag": "p"
+            },
+            {
+                "content": "Learners should not share any personal details including their provisional licence number with another learner. Learners will need to call customer services whilst with the other learner to request the swap.",
+                "tag": "p"
+            },
+            {
+                "content": "What action have you taken against resellers/bots who have misused the service?",
+                "tag": "p"
+            },
+            {
+                "content": "In January 2023, we changed the terms and conditions for using our booking service to help prevent anyone from selling tests at profit. Between 9 January 2023 and 5 January 2025, we issued 350 warnings, 792 suspensions and closed 813 business accounts for misuse of our booking service.",
+                "tag": "p"
+            },
+            {
+                "content": "On 6 January 2025, DVSA introduced new terms and conditions for use of the service driving instructors and trainers use to book and manage practical driving tests for their pupils. Since this change, we have issued 376 warnings, 516 suspensions and closed 1,044 business accounts.",
+                "tag": "p"
+            },
+            {
+                "content": "How will DVSA measure whether communications have been understood by learners?",
+                "tag": "p"
+            },
+            {
+                "content": "We have thought carefully about how to communicate the changes, taking into account our target audience. We will monitor queries from learners following the changes, including those made on social media and will send follow-up communications if necessary.",
+                "tag": "p"
+            },
+            {
+                "content": "Will ADIs be consulted again once changes are live?",
+                "tag": "p"
+            },
+            {
+                "content": "We are not planning a further consultation, but we will continue to engage with representatives from across the industry through our car driver training and testing forum. We will also evaluate how the measures are working in practice and feedback from customers and stakeholders will be part of that evaluation.",
+                "tag": "p"
+            },
+            {
+                "content": "Can I add the Ready to Pass campaign toolkit bar code to my website?",
+                "tag": "p"
+            },
+            {
+                "content": "All content on the Ready to Pass? campaign website can be used on external websites. This is covered under the Open Government Policy: Open Government Licence.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting your pupils through the changes",
+                "tag": "h3"
+            },
+            {
+                "content": "To support your pupils through these changes, you can:",
+                "tag": "p"
+            },
+            {
+                "content": "Working with the driver training industry",
+                "tag": "h3"
+            },
+            {
+                "content": "As we mentioned on the webinar, we are working with the industry to help shape our messages, guidance and support for ADIs and their pupils. At the end of January, we met with representatives from across the industry \u2013 including trade associations and driving schools \u2013 at our quarterly car driver training and testing forum in Bristol.",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more about the work of the forum, see the latest meeting report here.",
+                "tag": "p"
+            },
+            {
+                "content": "Stay updated",
+                "tag": "h3"
+            },
+            {
+                "content": "You can stay updated on the changes to the booking rules here.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you to everyone who joined the webinar, watched the recording or sent in questions. ",
+                "tag": "p"
+            },
+            {
+                "content": "Your feedback is important to us, so if you attended or watched the webinar, please take a few minutes to complete our short feedback survey to help us improve future events.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://despatch.blog.gov.uk/2026/03/06/get-ready-for-the-changes-to-the-driving-test-booking-rules-our-webinar-recap/",
+        "blog": "Despatch for driver and rider trainers",
+        "blog_link": "https://despatch.blog.gov.uk",
+        "description": "Watch DVSA\u2019s webinar recording on the upcoming changes to the driving test booking rules."
+    },
+    {
+        "title": "Opening up\u00a0the ocean: why diverse voices are vital for the future of marine science",
+        "authors": [
+            "nataliebarrett"
+        ],
+        "posted_on": "2026-03-06T10:00:00",
+        "categories": [
+            "Careers",
+            "Education",
+            "Ocean literacy",
+            "Science"
+        ],
+        "content": [
+            {
+                "content": "Marine science is one of the least ethnically diverse degree subjects in the UK according to a recent review of UCAS data (Ford\u00a0et al., 2023). This low uptake at university level is reflected in recruitment into the sector, with data revealing environmental careers to be among the least ethnically diverse in the UK. Reports from SOS-UK, a student-led sustainability charity,\u00a0show only 4.81% of individuals in UK environment professions identifying as Black,\u00a0Asian\u00a0or other ethnically minoritised group, falling below the 12.64% average across all professions. As individuals progress along the career pipeline, the problem only amplifies, with poor retention rates and low percentages of higher level and senior leadership roles filled by ethnically diverse individuals.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0perception\u00a0problem and a pipeline problem\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The reasons behind these figures are complex and\u00a0likely multifactorial, but research points to some consistent themes. Many young people from ethnically minoritised backgrounds simply\u00a0don't\u00a0see marine science as a career\u00a0that\u00a0is\u00a0for them. A survey of marine science course leaders in the UK found that 86% agreed there is a problem recruiting\u00a0ethnically minoritised\u00a0students, with the overwhelming majority believing this directly\u00a0impacts\u00a0diversity in marine science careers (Ford\u00a0et al., 2023). Course leaders pointed to a lack of role models, limited careers information in schools, perceived barriers around fieldwork and salaries and a lack of family or peer support for what\u00a0is perceived to be a\u00a0non-traditional career path. Children as young as ten begin to identify as \"non-STEM\" and without visible role models who reflect their own backgrounds, many never\u00a0even consider pursuing\u00a0a career at sea,\u00a0in a lab,\u00a0a policy team,\u00a0or a data science unit.\u00a0During a recent school visit, we asked students to draw a scientist before and after meeting the Cefas team. Before the visit, the drawings were\u00a0all very similar-\u00a0a familiar stereotype\u00a0appearing in most\u00a0cases.\u00a0By the end of the morning, the pictures looked\u00a0very different.\u00a0This small activity\u00a0speaks volumes about how quickly\u00a0perceptions\u00a0can\u00a0change\u00a0when young people are given the chance to see science differently.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last\u00a0summer, we had the opportunity to take this work further. The RV Cefas Endeavour sailed up the River Thames as part of Future Ocean 25, a conference bringing together leading voices in aquatic science. We invited over 50 students from four schools,\u00a0three in London and one in East Anglia,\u00a0on board for a tour, giving them a first-hand look at life on a research vessel and the science that happens at sea. Post-visit evaluation showed that 72% of students were considering or open to considering a career in aquatic science, and every single student reported learning something new about Cefas and the work we do.\u00a0For many, it was their first time stepping aboard a vessel like the\u00a0Endeavour,\u00a0an experience that may have reshaped how they saw their place within marine science.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing marine careers to life: our\u00a0new resources\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "To help\u00a0further\u00a0address this,\u00a0Cefas\u00a0has developed a suite of careers videos and resources designed to\u00a0showcase\u00a0the breadth and diversity of careers in aquatic science. The\u00a0careers pack: Exploring Careers in Aquatic Science,\u00a0features\u00a010\u00a0individuals working across a range of roles,\u00a0from benthic taxonomists and marine engineers to\u00a0fish health inspectors and computer scientists. Each individual shares their diverse pathways, success and challenges, offering advice to their younger selves and speaking passionately about what motivates them to follow careers that help protect our essential aquatic environments for generations to\u00a0come.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why representation changes everything\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Our rivers, seas and ocean face a challenging and uncertain future. To tackle the complex and multi-level issues facing our natural world, it is imperative that we open doors now to ensure\u00a0that\u00a0diverse teams\u00a0are working together to find effective and innovative solutions. Research consistently shows that diverse teams make better decisions and are more innovative. The same principle applies to tackling the scale of environmental challenges we face. When young people can see themselves reflected in the scientists, engineers and advisers shaping our relationship with the ocean, the\u00a0ramifications\u00a0reach far beyond any single career choice. As Ford\u00a0et al. (2023) note, increasing diversity in marine science is not just a matter of fairness,\u00a0it improves the science itself.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to use these resources\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The\u00a0careers pack and videos\u00a0are freely available\u00a0and have been designed with teachers and careers advisers in mind. Each role profile includes information about relevant qualifications, entry\u00a0routes\u00a0and day-to-day responsibilities, making it straightforward to use in PSHE lessons, careers sessions or form time. The resources are mapped to\u00a0national curriculum\u00a0objectives\u00a0and there is no single \"right\" pathway shown. Whether a student is considering A-levels, a T-level, an apprenticeship or a degree, there is a route into aquatic science for\u00a0everyone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "These resources are just one step in a longer journey. Alongside partners including\u00a0the\u00a0National Oceanography Centre, we are committed to building a more inclusive pipeline into marine science.\u00a0We would love to hear your thoughts. If you are a secondary school careers lead, teacher, or school staff member,\u00a0please share your\u00a0perceptions\u00a0in\u00a0this survey\u00a0to help us understand what schools and young people need from careers resources and activities.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinescience.blog.gov.uk/2026/03/06/why-diverse-voices-are-vital-for-the-future-of-marine-science/",
+        "blog": "Marine Science",
+        "blog_link": "https://marinescience.blog.gov.uk",
+        "description": "Marine science is one of the least ethnically diverse degree subjects in the UK according to a recent review of UCAS data (Ford\u00a0et al., 2023). This low uptake at university level is reflected in recruitment into the sector, with data \u2026"
+    },
+    {
         "title": "Dragons' Den IP Blog - Series 23 Episode 6",
         "authors": [
             "Amy Price"
