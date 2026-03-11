@@ -1,5 +1,1037 @@
 [
     {
+        "title": "New pilot to help councils identify and support residents at risk to vulnerability earlier",
+        "authors": [
+            "The Local Digital team"
+        ],
+        "posted_on": "2026-03-11T14:49:12",
+        "categories": [
+            "Local Digital"
+        ],
+        "content": [
+            {
+                "content": "Local Digital is pleased to share that the Scalable Approach to Vulnerability via Interoperability (SAVVI) and Open Referral UK (ORUK) data standards are taking an important step forward.",
+                "tag": "p"
+            },
+            {
+                "content": "The government is investing \u00a31.1 million to test the adoption of these 2 leading data standards in real service environments. The findings will help shape future scaling across England.",
+                "tag": "p"
+            },
+            {
+                "content": "Pilots with Greater Manchester Combined Authority (GMCA), and Bournemouth, Christchurch and Poole (BCP) Council will help both areas identify and support vulnerable people earlier, more effectively and more consistently.",
+                "tag": "p"
+            },
+            {
+                "content": "These pilots mark a major step toward a future where councils can work proactively, not reactively, using data to identify early signs of people at risk to vulnerability and connect them to the right support before issues become more serious.",
+                "tag": "p"
+            },
+            {
+                "content": "Why scaling the standards matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Councils have been clear for some time that their ability to prevent crises depends on:",
+                "tag": "p"
+            },
+            {
+                "content": "Local Digital has funded and co-developed the ORUK and SAVVI data standards with councils and sector partners over the last 7 years.",
+                "tag": "p"
+            },
+            {
+                "content": "ORUK helps frontline teams to connect people to the right services by  providing structured service data that works together across organisations.",
+                "tag": "p"
+            },
+            {
+                "content": "SAVVI, developed by iStandUK, helps councils identify vulnerability sooner by highlighting early indicators of risk, such as:",
+                "tag": "p"
+            },
+            {
+                "content": "As SAVVI and ORUK were designed to work together as part of the same data-sharing network, together, they create a foundation for public services  helping councils to:",
+                "tag": "p"
+            },
+            {
+                "content": "From April, both data standards will be managed by iStandUK. Bringing both interoperable standards together within iStandUK offers clear advantages: councils and suppliers will have a single point of expertise, aligned  governance and consistent guidance. It also means both standards evolve in a coordinated and complementary way, reducing duplication and simplifying adoption for councils.",
+                "tag": "p"
+            },
+            {
+                "content": "What the pilots will tell us",
+                "tag": "h2"
+            },
+            {
+                "content": "The pilots will look at the work councils need to do to adopt the ORUK and SAVVI standards, looking closely at the practical steps, time and resources involved in implementation. During the pilot period, we will build a clearer  understanding of how shared data standards can help councils, partners and services work together seamlessly across organisational and geographic boundaries.",
+                "tag": "p"
+            },
+            {
+                "content": "The pilots will also help us identify the technical, governance and cultural barriers that councils face when embedding new data standards. This will allow us to develop the right guidance and tools to support wider adoption.",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, the BCP Council pilot will combine structured ORUK data with artificial intelligence (AI) and digital solutions to provide more personalised support. It will show how emerging technologies can add value to local public services. These pilots will generate the learning needed to scale these approaches across England. They will inform delivery models, procurement pathways, timelines, staffing and value for money, so future adoption is achievable and sustainable.",
+                "tag": "p"
+            },
+            {
+                "content": "Why we\u2019re piloting with the GMCA and BCP Council",
+                "tag": "h2"
+            },
+            {
+                "content": "We are piloting in:",
+                "tag": "p"
+            },
+            {
+                "content": "GMCA",
+                "tag": "h3"
+            },
+            {
+                "content": "Greater Manchester has been named England\u2019s first prevention demonstrator, leading the way from reacting to problems to preventing them. This includes tackling issues such as ill health and economic inactivity.  Through this pilot, each Greater Manchester council will adopt ORUK data feeds and apply the SAVVI framework to real-world prevention challenges ranging from housing instability to pressures on social care and the NHS.",
+                "tag": "p"
+            },
+            {
+                "content": "Testing both standards across a large, multi-council region will help to explore one of the biggest advantages of shared standards \u2013 cross-boundary interoperability.",
+                "tag": "p"
+            },
+            {
+                "content": "The insights generated in Greater Manchester will help map barriers to adoption, create reusable implementation artefacts, and shape a roadmap for scaling SAVVI and ORUK across England.",
+                "tag": "p"
+            },
+            {
+                "content": "BCP Council",
+                "tag": "h3"
+            },
+            {
+                "content": "As one of the leading adopters of the ORUK standard, BCP Council working with its partner, Community Action Network, will use ORUK\u2019s structured service data to deliver a digital social prescribing tool. This will help frontline workers match residents with personalised support and has potential impact particularly in adult social care and homelessness services.",
+                "tag": "p"
+            },
+            {
+                "content": "The pilot will also produce technical guidance for other councils looking to integrate ORUK with AI and new technologies, demonstrating how open, structured data can lead to benefits beyond the original purpose.",
+                "tag": "p"
+            },
+            {
+                "content": "The opportunity ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "The wider opportunity for councils is significant. Adopting SAVVI could reduce crisis interventions, lower demand on acute services, and strengthen prevention work across local systems.",
+                "tag": "p"
+            },
+            {
+                "content": "By improving the consistency and quality of support available, they reduce duplication, enable cross-boundary referrals, and help deliver better outcomes for residents and more efficient services.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ll share updates, insights and learning with the wider local government community as implementation develops. This will include practical tools that councils can adopt straight away. To keep informed and be invited to future events about the pilots and data standards, please subscribe to the Local Digital newsletter.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/03/11/new-pilot-to-help-councils-identify-and-support-residents-at-risk-to-vulnerability-earlier/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Local Digital is pleased to share an update on the Scalable Approach to Vulnerability via Interoperability (SAVVI) and Open Referral UK (ORUK) data standards. New pilots with Greater Manchester Combined Authority and Bournemouth, Christchurch and Poole Council will test the adoption of these data standards, and identify vulnerability earlier, more consistently and more effectively."
+    },
+    {
+        "title": "FMP consultation webinar recordings to help you have your say",
+        "authors": [
+            "FMP communications team"
+        ],
+        "posted_on": "2026-03-11T13:00:00",
+        "categories": [
+            "- Defra led FMPs",
+            "Public consultation"
+        ],
+        "content": [
+            {
+                "content": "Last week, we ran webinars to explore two of the four draft fisheries management plans (FMPs) currently out for consultation.",
+                "tag": "p"
+            },
+            {
+                "content": "Find videos of the webinars\u00a0online:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25b6\ufe0f Celtic Sea and Western Channel demersal FMP",
+                "tag": "p"
+            },
+            {
+                "content": "\u25b6\ufe0f Celtic Sea and Western Channel pelagic FMP",
+                "tag": "p"
+            },
+            {
+                "content": "If you couldn\u2019t join the webinars, these videos are an easy way to access the information at a time that suits you.",
+                "tag": "p"
+            },
+            {
+                "content": "Each video explains:",
+                "tag": "p"
+            },
+            {
+                "content": "Getting ready for an in-person consultation event",
+                "tag": "h2"
+            },
+            {
+                "content": "If you are planning to attend one of our in-person consultation events, these videos will help you get ready.",
+                "tag": "p"
+            },
+            {
+                "content": "They give you the basics, so you can arrive ready to share your views and ask questions about the proposals.",
+                "tag": "p"
+            },
+            {
+                "content": "We are now taking bookings for in\u2011person events happening across the South West for these FMPs. Spaces are limited, so we encourage early registration.",
+                "tag": "p"
+            },
+            {
+                "content": "Find full details and reserve your place from our events page.",
+                "tag": "h3"
+            },
+            {
+                "content": "At these events, we want to hear from you. Your experience and views help us improve the plans.",
+                "tag": "p"
+            },
+            {
+                "content": "Want to know how the events will run- read our FAQ\u2019s here.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting your consultation response",
+                "tag": "h2"
+            },
+            {
+                "content": "The videos are also a helpful guide for finding your way around the consultation documents to prepare your own consultation response.",
+                "tag": "p"
+            },
+            {
+                "content": "Stay informed and get involved",
+                "tag": "h2"
+            },
+            {
+                "content": "We are committed to making the consultation process accessible and informative for everyone. We hope you find our resources useful.",
+                "tag": "p"
+            },
+            {
+                "content": "Take advantage of our resources:",
+                "tag": "p"
+            },
+            {
+                "content": "We look forward to hearing your views on the draft FMPs. Together, we can ensure that the FMPs reflect the needs and priorities of stakeholders. ",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you for your continued engagement and support.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2026/03/11/fmp-consultation-webinar-recordings-to-help-you-have-your-say/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Our new videos explain the draft FMPs in a clear, simple way. Watch before joining an in-person event or sending in your consultation response."
+    },
+    {
+        "title": "It started with a Quiz: Discovering a Different Kind of Strength",
+        "authors": [
+            "Eva Horvathova"
+        ],
+        "posted_on": "2026-03-11T12:55:10",
+        "categories": [
+            "a great place to work",
+            "International Women's Day"
+        ],
+        "content": [
+            {
+                "content": "For a long time, I worried that I didn\u2019t have a clear passion or a perfectly mapped out career plan. It felt like everyone else knew exactly where they were heading and I didn\u2019t.",
+                "tag": "p"
+            },
+            {
+                "content": "What I have learned over time is that uncertainty can be a strength.",
+                "tag": "p"
+            },
+            {
+                "content": "I was drawn to digital not by a job title or technical pathway, but by the chance to work in a people\u2011focused space where empathy and adaptability matter as much as technical skills. ",
+                "tag": "p"
+            },
+            {
+                "content": "I joined Justice Digital in late 2021, just before Christmas. At my first in- person team meeting, someone asked if anyone wanted to run something festive. Without overthinking it, I volunteered to run a quiz.",
+                "tag": "p"
+            },
+            {
+                "content": "It sounds small, but that moment stayed with me. I felt safe enough to be myself, even as someone new. It was the first time I thought, \" This place feels right.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Since then, it\u2019s been the quieter moments that have confirmed it, helping someone new get set up, being trusted to build something from scratch, and learning that it\u2019s okay if something isn\u2019t perfect the first time. Belonging for me isn\u2019t about being the loudest voice in the room; it\u2019s about feeling safe enough to contribute in your own way.",
+                "tag": "p"
+            },
+            {
+                "content": "Finding clarity in the complexity",
+                "tag": "p"
+            },
+            {
+                "content": "What I love most about my job is taking messy, complicated things and making them clearer.",
+                "tag": "p"
+            },
+            {
+                "content": "In my current role as a Capability Manager, I work on an exciting initiative called the Capability Hub. Essentially, it\u2019s a place where people can go to understand the different roles across our professions, the skills those roles require, and the development opportunities available to them. It\u2019s still evolving, shaped by feedback and iteration, and what I enjoy most is the learning along the way, testing new ideas, trying things out, improving them, and building something collaboratively that people genuinely find useful.",
+                "tag": "p"
+            },
+            {
+                "content": "I carried that same focus during my time in Recruitment Operations, thinking carefully about how people experience joining an organisation, whether they feel welcomed, supported, and that they belong. Helping to shape those early experiences reinforced why this kind of work matters to me.",
+                "tag": "p"
+            },
+            {
+                "content": "A lot of this work happens quietly, behind the scenes, but I see the impact it can have. When people understand where they fit, feel confident in their value, and can see how they might grow, it creates a stronger, more inclusive organisation. And for me, that is how we build better services by starting with people.",
+                "tag": "p"
+            },
+            {
+                "content": "The Strength in My Roots",
+                "tag": "p"
+            },
+            {
+                "content": "I moved to the UK from Slovakia as a child and didn\u2019t speak any English when I started school. My background is Slovakian Romani and for a long time, I felt pressure to blend in.",
+                "tag": "p"
+            },
+            {
+                "content": "Over time, I have realised that my background shaped me in ways I now value deeply. I come from a culture full of warmth, humour, and resilience. Growing up taught me to observe, adapt, and persevere (skills that still guide how I work today).",
+                "tag": "p"
+            },
+            {
+                "content": "In my career, being \u201cquiet\u201d was sometimes mistaken for a lack of confidence. I have learned that quiet isn\u2019t a weakness but just a different kind of strength.",
+                "tag": "p"
+            },
+            {
+                "content": "Give to Gain",
+                "tag": "p"
+            },
+            {
+                "content": "The theme of this year\u2019s International Women\u2019s Day is Give to Gain, which really resonates deeply with me.",
+                "tag": "p"
+            },
+            {
+                "content": "I have gained confidence by giving myself permission to try things that feel uncomfortable. I have gained clarity by helping others navigate uncertainty. I have gained belonging by sharing my story and making space for others to show up as themselves.",
+                "tag": "p"
+            },
+            {
+                "content": "To women starting out, you don\u2019t need to have it all figured out. You don\u2019t need one big passion or a perfect plan. Start with what feels natural to you. Here at Justice Digital, we fundamentally want to improve the experience for our people and our users, so if you care about that, there is a place for you here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2026/03/11/it-started-with-a-quiz-discovering-a-different-kind-of-strength/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "For a long time, I worried that I didn\u2019t have a clear passion or a perfectly mapped out career plan. It felt like everyone else knew exactly where they were heading and I didn\u2019t. What I have learned over time \u2026"
+    },
+    {
+        "title": "Power in partnerships to shut down waste criminals",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-03-11T12:22:15",
+        "categories": [
+            "Environment Agency",
+            "Our staff",
+            "Regulated industry",
+            "Waste"
+        ],
+        "content": [
+            {
+                "content": "When people ask me what I do for a living, I tell them that I help the Environment Agency fight waste crime.",
+                "tag": "p"
+            },
+            {
+                "content": "I work in a team of waste crime engagement specialists covering the whole of England and our role is to bring together partners, information and action that enables the Environment Agency to shut down waste criminals.",
+                "tag": "p"
+            },
+            {
+                "content": "My work changes day to day, often evolving around meetings with partners where we discuss waste crime issues and trends. As my title suggests, I engage with lots of partners to highlight, inform, and warn them about waste crime activity we are seeing in our region. We share information about what we know and discuss what we need to do collectively to progress investigations that we are working on.",
+                "tag": "p"
+            },
+            {
+                "content": "By doing this, we are better able to understand the local waste crime landscape and fill in any intelligence gaps that we have. I work with partnership forums such as rural crime networks (and many others) where we look at how to engage with landowners to share advice on what they can do to avoid being duped by unscrupulous individuals - waste criminals - looking to dump waste on their land.",
+                "tag": "p"
+            },
+            {
+                "content": "Tackling the criminals who are exploiting the waste industry",
+                "tag": "h4"
+            },
+            {
+                "content": "I\u2019m sure you\u2019ll have noticed several stories in the local and national press about large scale waste dumps; tonnes of illegally dumped waste. We\u2019ve always had illegal waste sites to investigate but these have traditionally been small outfits run by individuals who don\u2019t know or in some cases, don\u2019t care that they must follow rules when it comes to storing, handling, processing or disposing of waste.",
+                "tag": "p"
+            },
+            {
+                "content": "Now we are dealing with large-scale operations where organised crime groups, often involved in drugs, firearms and people trafficking, are moving into the waste industry.",
+                "tag": "p"
+            },
+            {
+                "content": "The offenders are dangerous individuals. The waste crimes they commit ruin lives, cause damage to places where people live, poison the environment, undercut the legitimate waste industry and cost the economy \u00a31billion every year. Insight from respondents to our National Waste Crime Survey last year, estimated that 35% of waste crime is committed by organised crime groups.",
+                "tag": "p"
+            },
+            {
+                "content": "We are in an age where criminals are exploring waste crime as an alternative way to make and launder (\u2018clean\u2019) money. If the criminals are adapting, then so must we.",
+                "tag": "p"
+            },
+            {
+                "content": "Traditionally, dealing with organised crime group\u2019s has been the role of the police. We are now finding that our knowledge and experience is being sought to assist the police in investigating individuals and groups that commit other types of crime but exploit the waste industry.",
+                "tag": "p"
+            },
+            {
+                "content": "The police are well versed in the tactics used by criminals in their illicit activities, however there is a shortage of waste industry knowledge and experience within many police forces, and this is where people like me come in.",
+                "tag": "p"
+            },
+            {
+                "content": "Joining forces with the police",
+                "tag": "h4"
+            },
+            {
+                "content": "Last year I delivered awareness training to Police Intelligence Teams about waste crime , key tactics used by waste criminals and where we might be able to support their investigations e.g. site visits, regulatory visits, intelligence gathering/sharing and joint working. These sessions highlighted how, with additional training, intelligence gathering could be improved by involving Neighbourhood Policing Teams, including those officers performing roadside checks.",
+                "tag": "p"
+            },
+            {
+                "content": "Neighbourhood Police Officers are the eyes and ears of a police force so equipping them with the knowledge of what to look out for and report back has been incredibly fruitful. These sessions have been so successful that I am now planning to work with Neighbourhood Policing Teams in the remaining police forces that operate in our region.",
+                "tag": "p"
+            },
+            {
+                "content": "Intelligence received from one of those neighbourhood teams led to me joining an enforcement officer on a day of intelligence gathering drive-by site visits recently. These visits were arranged to determine whether \u201cpersons of interest\u201d were carrying out waste activities and identify where the Environment Agency could enforce any environmental law and support police disruption of those activities. These drive-by\u2019s were useful and resulted in a multi-agency raid a few weeks later at a site suspected of processing waste illegally.",
+                "tag": "p"
+            },
+            {
+                "content": "Working with partners like the police and local authorities, provides a useful insight into how other organisations think and work. By sharing our thinking and pooling our resources, we can achieve much more than we could alone. Strengthening and building upon our existing relationships is something I will continue this year, starting with a waste aide memoir for police officers to refer to during roadside checks.",
+                "tag": "p"
+            },
+            {
+                "content": "Help us stop waste criminals",
+                "tag": "h4"
+            },
+            {
+                "content": "Remember you can help too.",
+                "tag": "p"
+            },
+            {
+                "content": "If you see of suspect an individual or business of illegally handling waste, report it to our 24 hour incident hotline 0800 80 70 60, or to Crimestoppers: 0800 555 111 https://crimestoppers-uk.org/give-information/forms/give-information-anonymously",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/03/11/power-in-partnerships-to-shut-down-waste-criminals/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "When people ask me what I do for a living, I tell them that I help the Environment Agency fight waste crime. I work in a team of waste crime engagement specialists covering the whole of England and our role \u2026"
+    },
+    {
+        "title": "UKHSA Knowledge\u00a0 and\u00a0 Library\u00a0 Service\u00a0 (KLS)\u00a0 Alpha assessment",
+        "authors": [
+            "Man-Yee Lam"
+        ],
+        "posted_on": "2026-03-11T11:43:17",
+        "categories": [
+            "Alpha",
+            "Assurance",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From: DHSCAssessment date:\u00a0 27/02/2025\u00a0Stage:\u00a0Alpha Assessment\u00a0\u00a0Result: Green\u00a0\u00a0Service provider:\u00a0UKHSA",
+                "tag": "p"
+            },
+            {
+                "content": "Service description",
+                "tag": "h2"
+            },
+            {
+                "content": "This service aims to solve the problem of\u00a0helping users easily find and access the resources and support they need, so that we improve accessibility, usability, and scalability for new services and emerging public health priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "Service users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\nThe service is owned by UKHSA but supports\u00a0a number of\u00a0primary users across the civil service, as the service began in 2018 by Public Health England:\u202f\u202f\u00a0\n\nUKHSA staff (UKHSA)\u00a0\nLocal Authority Public Health staff (LAPH)\u00a0\nOffice for Health Improvement and Disparities staff (OHID)\u00a0\nNHS England staff (NHSE)\u00a0\n\nSecondary users:\u00a0\u00a0\n\nThe website is administered by KLS staff. They will update content and handle queries\u00a0submitted\u00a0through the enquiries portal.\u00a0\u00a0\n\nTertiary users:\u00a0\u00a0\n\nUKHSA senior management represent tertiary users because whilst they\u00a0don't\u00a0use the service directly, they are the people responsible for its commissioning and for setting its scope, and therefore they have a\u00a0significant influence\u00a0over its function. Furthermore, they are tangentially affected by the service as it influences the quality and efficiency of some UKHSA staff output.\u00a0\u00a0\u00a0\u00a0\n\n\nUK Citizens (members of the public) may be viewed as tertiary users because they are affected by the quality of service provided by UKHSA, LAPH, OHID, and NHSE, and the quality of service is, in part, influenced by the KLS service offering.\u00a0\n\n",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents:",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 1 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was\u00a0rated\u00a0green\u00a0for\u00a0point 2 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "During the assessment, we\u00a0didn\u2019t\u00a0see evidence\u00a0of\u00a0the following, however,\u00a0were address offline:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 3 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 4 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 5 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 6 of the Standard\u00a0.",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 7 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve\u00a0frequently\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 8 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 9 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 10 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 11 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 12 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common\u00a0components\u00a0and patterns\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 13 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "14.\u00a0Operate\u00a0a reliable service\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision ",
+                "tag": "p"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 14 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2026/03/11/ukhsa-knowledge-and-library-service-kls-alpha-assessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "Read about the alpha assessment Knowledge and Library service from UKHSA."
+    },
+    {
+        "title": "Strengthening business support through user-centred, evidence-led collaboration",
+        "authors": [
+            "Andy Davies, Lead Service Designer"
+        ],
+        "posted_on": "2026-03-11T10:33:24",
+        "categories": [
+            "Professions"
+        ],
+        "content": [
+            {
+                "content": "Andy Davies",
+                "tag": "h3"
+            },
+            {
+                "content": "Rae Jones",
+                "tag": "h3"
+            },
+            {
+                "content": "Becky Pawley",
+                "tag": "h3"
+            },
+            {
+                "content": "The challenge: A fragmented support system",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK\u2019s business support landscape has long been fragmented and hard for businesses to navigate. Annual research consistently shows that many small businesses struggle to find the right help or trust what they find. Uptake has dropped sharply due to complexity and low awareness. Government programmes span short\u2011term initiatives delivered by different departments, limiting coordination. Structural boundaries including funding models, data systems and policy cycles deepen this fragmentation.",
+                "tag": "p"
+            },
+            {
+                "content": "The consequences are significant: missed opportunities for joined\u2011up working and the absence of a coherent national offer. Yet the potential is clear: SMEs that do receive structured support demonstrate productivity gains of 22% compared to similar businesses that receive none.",
+                "tag": "p"
+            },
+            {
+                "content": "To meet this challenge, the Department for Business and Trade (DBT) is designing the Business Growth Service. This is a single, trusted national entry point that helps businesses find the right support. Delivering this vision requires new ways of working that cut across organisational boundaries. We need approaches grounded in evidence and shaped around the needs of the businesses this system is meant to serve.",
+                "tag": "p"
+            },
+            {
+                "content": "In June 2025, DBT created a Co-Lab to support this work.",
+                "tag": "p"
+            },
+            {
+                "content": "What is a Co-Lab?",
+                "tag": "h3"
+            },
+            {
+                "content": "A Co\u2011Lab is a design\u2011led, multidisciplinary team that tackles complex problems in a user\u2011centred way. DBT\u2019s Co\u2011Lab is made up of a service designer, a policy designer and a user researcher. We have different skills but share a common ethos: pragmatism, adaptability, and a \u201cjust enough\u201d approach that keeps momentum while grounding decisions in evidence. The Co-Lab acts as a bridge across disciplines, testing ideas rapidly and modelling the iterative, cross-cutting practice required to turn a complex landscape into a coherent national offer.",
+                "tag": "p"
+            },
+            {
+                "content": "Co-Labs, sometimes known as Policy Labs, have been used across government for over a decade to make policy and services more user-centred, collaborative and effective.",
+                "tag": "p"
+            },
+            {
+                "content": "Working in this way helps us learn from each other and challenge assumptions. We draw on methods and tools commonly used in digital and creative environments, while working alongside policy colleagues who bring deep knowledge of the areas we are shaping.",
+                "tag": "p"
+            },
+            {
+                "content": "Ross Gower \u2013 Head of Design",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Setting up and leading DBT's first Co-Lab has been incredibly rewarding. Over my years in government, I\u2019ve seen the idea of policy co-labs take hold. It\u2019s a testament to how much the User Centred Design (UCD) profession has matured that we are now working directly with policy teams and the users of our services. It has also been heartening to see just how keenly our policy colleagues have embraced this culture and as a result we have all learned so much more together.\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "Applying the Co-Lab to a national challenge",
+                "tag": "h2"
+            },
+            {
+                "content": "For our first enquiry, we explored how local business support could be integrated effectively into the Business Growth Service. This is particularly complex at a time when many local authorities in England are navigating devolution and changes to funding.",
+                "tag": "p"
+            },
+            {
+                "content": "We set out to capture the current state of England\u2019s 41 Growth Hubs, which act as local access points for business support.",
+                "tag": "p"
+            },
+            {
+                "content": "To do this, we:",
+                "tag": "p"
+            },
+            {
+                "content": "This helped us build a clear picture of the strengths of local delivery, the barriers to consistency, and the opportunities to bring national and local support closer together.",
+                "tag": "p"
+            },
+            {
+                "content": "Turning insight into action",
+                "tag": "h2"
+            },
+            {
+                "content": "Using collaborative design methods, we worked with policy and local delivery colleagues to co\u2011develop actionable recommendations. Through focused facilitation and successive rounds of feedback, we shaped these insights into a coherent package. We then brought colleagues together for a full day to stress\u2011test the recommendations and map how they could translate into deliverable workstreams.",
+                "tag": "p"
+            },
+            {
+                "content": "Liam Askins \u2013 Head of Local Business Support",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018We need more creative-minded policy makers to challenge existing structures and ways of working. Too often we think in programme silos. I've really enjoyed how the Co-Lab has brought teams together and created space to reflect and make change collectively. They've helped us digest challenging questions in an empowering and exciting way. The Co-Lab's engagement with local partners has helped inform our approach to local delivery through Growth Hubs.\u2019 ",
+                "tag": "p"
+            },
+            {
+                "content": "Impact so far",
+                "tag": "h3"
+            },
+            {
+                "content": "Our recommendations have moved beyond lines in a document. They are now driving real, tangible change. They are influencing funding terms, data\u2011sharing agreements and delivery requirements for outsourced services. We are helping to bring clarity to the roles of several standalone services within a coherent national offer. Throughout, we\u2019ve taken a systems\u2011level perspective, recognising that for the Business Growth Service to work well, every part needs to work together.",
+                "tag": "p"
+            },
+            {
+                "content": "John Thompson \u2013 Deputy Director, SME Strategy and Business Growth Service",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Working with the Co-Lab has pushed my thinking and challenged my assumptions and really helped me understand what businesses actually experience. When policy, design, data and technology work side-by-side, we get better decisions and better outcomes for businesses.\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "Reflections on the Co-Lab model",
+                "tag": "h2"
+            },
+            {
+                "content": "In our first 6 months as a Co\u2011Lab, we\u2019ve learned a lot about what it takes to collaborate effectively in a complex, multi\u2011directorate environment.",
+                "tag": "p"
+            },
+            {
+                "content": "As a brand\u2011new team working in a new way for our department, we encountered growing pains. People weren\u2019t always sure what to expect from us or how we fit with their teams. Collaborating across directorates while trying to work in the open has meant keeping twice as many people informed as in a typical delivery project.",
+                "tag": "p"
+            },
+            {
+                "content": "Navigating this complexity while defining our identity as a team pushed us to sharpen our ways of working. We also seek candid advice about how to keep our work relevant to the department\u2019s goals.",
+                "tag": "p"
+            },
+            {
+                "content": "Despite the challenges, working as a Co\u2011Lab has been personally and professionally transformative for each of us. It has stretched us in ways that feel energising rather than overwhelming and given us space to think and operate more strategically. We\u2019ve embraced complexity, and it has pushed us to combine our strengths in new ways.",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps",
+                "tag": "h2"
+            },
+            {
+                "content": "Policy teams across the department have become increasingly familiar with working alongside us, and we\u2019re beginning to see real confidence in what the Co\u2011Lab can offer.",
+                "tag": "p"
+            },
+            {
+                "content": "Our focus now is to deepen those relationships, work as transparently as we can, and refine our ways of working. We will extend the impact of this approach as teams across DBT bring the Business Growth Service to life.",
+                "tag": "p"
+            },
+            {
+                "content": "Strengthening the Business Growth Service is a national priority. Clearer support helps businesses grow, boosts local economies, and ensures public money works harder for communities across the country.",
+                "tag": "p"
+            },
+            {
+                "content": "If this work resonates with you....",
+                "tag": "h2"
+            },
+            {
+                "content": "If you have experience in a Policy Lab, Co\u2011Lab or any collaborative, design\u2011led policy space, we\u2019d love to hear from you. This is a new way of working for our department, and your reflections can help shape how we grow this practice. ",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re hoping to join or build a community of practice across government, so we can learn from each other, share what works (and what doesn\u2019t), and strengthen this approach together. If this resonates with you, please get in touch in the comments.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/03/11/strengthening-business-support-through-user-centred-evidence-led-collaboration/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "How our Digital, Data and Technology team's first Co-Lab collaborated with policy and Local Business Support teams across DBT to make policy and services more user-centred and effective."
+    },
+    {
+        "title": "UK NSC consults on antenatal screening for hepatitis C virus",
+        "authors": [
+            "Carolina Martinelli"
+        ],
+        "posted_on": "2026-03-11T10:01:47",
+        "categories": [
+            "Antenatal screening"
+        ],
+        "content": [
+            {
+                "content": "The UK National Screening Committee (UK NSC) has opened a public consultation on evidence relating to antenatal screening for hepatitis C virus (HCV).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "HCV\u00a0is one of the\u00a0topics that the\u00a0committee reviews regularly for evidence relating to\u202fpopulation\u202fscreening.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Evidence maps\u202fare typically the first step in the UK NSC\u202fprocess of reviewing evidence.\u00a0We are asking individuals and organisations to provide feedback on the findings and conclusions of a 2025 evidence map on antenatal screening for HCV\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The evidence map was commissioned to review literature on the topic published since the last evidence review in 2018.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a02025 evidence map\u00a0concludes\u00a0that the volume and type of\u00a0new evidence related to antenatal screening for HCV is currently insufficient to justify more in-depth work in the form of an evidence summary. It recommends that the topic should be reconsidered in 3 years' time, but also recommends commissioning an evidence map to find out if\u00a0there is an identifiable group of pregnant women at higher risk of transmitting HCV to their\u00a0babies. If so, this could help inform ongoing discussion on research in this area.",
+                "tag": "p"
+            },
+            {
+                "content": "How to respond",
+                "tag": "h2"
+            },
+            {
+                "content": "To\u00a0take part in the consultation, download the consultation documents by clicking on the grey \u2018View documents\u2019 button on the UK NSC\u2019s\u00a0Hepatitis C (pregnancy)\u00a0recommendation page. Then submit your response by clicking on the green\u00a0\u2018Submit comments\u2019\u00a0button.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The deadline for responses is 11.59pm\u00a0BST on\u202fWednesday 3 June 2026.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "About hepatitis C",
+                "tag": "h2"
+            },
+            {
+                "content": "HCV is a blood-borne virus that primarily affects the liver.\u00a0Some people clear the infection without treatment,\u00a0but\u00a0most people develop long-term (chronic) infection and\u00a0may need\u00a0treatment. Chronic infection can lead to serious\u00a0complications including liver cirrhosis,\u00a0failure\u00a0and cancer.\u00a0In pregnancy,\u00a0HCV\u00a0can be passed from mother to baby,\u00a0which is the main\u00a0source of\u00a0HCV\u00a0infection in children in high-income countries.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The latest evidence",
+                "tag": "h2"
+            },
+            {
+                "content": "The 2025 evidence map\u00a0identified\u00a0the following\u00a0new\u00a0evidence published since 2018:",
+                "tag": "p"
+            },
+            {
+                "content": "While identified studies suggest DAAs may be effective in pregnant women and children, the evidence is limited by small sample sizes and non-comparative study designs. The UK NSC recognises that the evidence base is evolving in relation to the use of\u00a0DAAs\u00a0during pregnancy and early childhood; hence the plan to commission an evidence map.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u202fregister to receive updates\u202fdirect to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u202fuknsc@dhsc.gov.uk.\u202f\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2026/03/11/uk-nsc-consults-on-antenatal-screening-for-hepatitis-c-virus/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "The UK NSC has opened a consultation on evidence relating to antenatal screening for hepatitis C virus (HCV)."
+    },
+    {
+        "title": "How we consider complaints about schools",
+        "authors": [
+            "Lee Owston, National Director, Education"
+        ],
+        "posted_on": "2026-03-11T09:32:00",
+        "categories": [
+            "data and Insight",
+            "schools"
+        ],
+        "content": [
+            {
+                "content": "Leaders, local authorities,\u00a0parents\u00a0and carers\u00a0frequently\u00a0ask about\u00a0how we deal with complaints about a school.\u00a0When we receive a complaint, we never rush to inspect.\u00a0In\u00a0this blog,\u00a0I\u2019ll\u00a0explain the processes that we follow\u00a0when deciding whether to inspect\u00a0a school.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If\u00a0a parent\u00a0has a concern about their child\u2019s\u00a0school,\u00a0they should\u00a0first\u00a0go\u00a0through their\u00a0school\u2019s internal\u00a0processes.\u00a0This is\u00a0an important step, as we know that problems are better solved this way.\u00a0If\u00a0they\u00a0have\u00a0not found a resolution\u00a0there,\u00a0they may wish\u00a0to complain to Ofsted.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We take every complaint seriously, but\u00a0I\u2019d\u00a0like to reassure\u00a0you\u00a0that\u00a0we\u00a0take action\u00a0on a\u00a0relatively small\u00a0number of complaints,\u00a0and\u00a0that number\u00a0has not\u00a0really\u00a0increased.\u00a0We do, however,\u00a0recognise that there is a\u00a0perception\u00a0that\u00a0an\u00a0increase in complaints is prompting us to conduct more\u00a0urgent\u00a0inspections.\u00a0This\u00a0simply\u00a0isn\u2019t\u00a0the case.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What parents should do first\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Before\u00a0contacting us, a parent should:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We do, however, regularly see examples of parents not fully\u00a0following\u00a0the school\u2019s complaints process\u00a0or bypassing the school entirely\u00a0before approaching us. When a parent comes to us directly, we encourage them to approach the school first.\u00a0We will continue to stress to parents\u00a0that we\u00a0can\u2019t\u00a0resolve\u00a0differences\u00a0between\u00a0them\u00a0and a school or affect the results of a school\u2019s complaints process.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ofsted\u2019s powers to consider complaints\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The purpose of our legislative\u00a0powers to\u00a0investigate\u00a0complaints about schools\u00a0is to\u00a0help us\u00a0decide whether we need to inspect\u00a0a\u00a0school\u00a0sooner\u00a0than scheduled.\u00a0Where a complaint meets the criteria for us to consider\u00a0it\u00a0further,\u00a0we\u00a0assess\u00a0whether the wider concerns raised about the school are serious\u00a0enough\u00a0to\u00a0warrant\u00a0an inspection.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A qualifying complaint for Ofsted would\u00a0be\u00a0one\u00a0that\u00a0raises\u00a0a\u00a0serious\u00a0issue\u00a0that affects the whole school.\u00a0As\u00a0an inspectorate, we do not have the power to investigate\u00a0individual\u00a0circumstances\u00a0\u2013 instead, we consider the broad themes\u00a0that\u00a0arise.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For a complaint to qualify:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some complaints do not\u00a0qualify for investigation by Ofsted, for\u00a0example when\u00a0parents have not completed\u00a0formal complaint routes.\u00a0In these cases, we advise\u00a0parents\u00a0where\u00a0they can\u00a0find\u00a0support with their\u00a0complaint.\u00a0Around\u00a018,400 complaints have been\u00a0considered\u00a0this\u00a0financial\u00a0year,\u00a0of which around\u00a016,700 complaints did not\u00a0meet the criteria\u00a0above.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We do not have powers to investigate individual safeguarding matters, so we refer these\u00a0to the local authority or police.\u00a0Around\u00a070% of\u00a0all\u00a0complaints\u00a0considered\u00a0this year\u00a0contained\u00a0safeguarding concerns.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How we investigate complaints\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Qualifying complaints are usually\u00a0about\u00a0the leadership and management of a school,\u00a0or\u00a0pupils\u2019\u00a0wellbeing,\u00a0or both.\u00a0This year, we\u00a0considered\u00a0around 1,710 qualifying complaints.\u00a0Our process to\u00a0examine the complaint\u00a0to see whether it merits any action\u00a0is called an\u00a0investigation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Investigations\u00a0are a desk-based exercise to gather information and to make a recommendation to an Ofsted regional director\u00a0on whether there is a need to inspect.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Investigations typically include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A school is informed in writing about the outcome of a\u00a0qualifying\u00a0complaint.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If we think the complaint does merit action,\u00a0we can\u00a0bring forward an inspection of the school or\u00a0retain\u00a0the information for the school\u2019s next inspection.\u00a0This year, we have\u00a0retained\u00a0information from\u00a0around\u00a01,600\u00a0qualifying\u00a0complaints\u00a0to consider them at\u00a0the next scheduled school\u00a0inspection.\u00a0That\u2019s\u00a0around 93%\u00a0of the qualifying complaints that we\u00a0considered\u00a0this year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This\u00a0does not necessarily mean\u00a0there is a problem with a school. It\u00a0can, in some\u00a0cases,\u00a0demonstrate\u00a0positive actions that leaders\u00a0have taken in relation to complaints.\u00a0Retaining a complaint provides a lead inspector with information ahead of an inspection\u00a0so that the broader themes\u00a0the complaint\u00a0raised can be discussed with leaders.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We do not expect leaders to provide any evidence of investigation into the complaint. Instead, the lead inspector will be looking at the\u00a0themes raised in the\u00a0complaint\u00a0alongside the\u00a0school\u2019s\u00a0policies and procedures,\u00a0and other\u00a0evidence\u00a0gained\u00a0on\u00a0inspection.\u00a0Inspectors will\u00a0have\u00a0an\u00a0open mind\u00a0and will alert you during\u00a0your next\u00a0inspection if we have\u00a0retained\u00a0the information from a qualifying complaint.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are,\u00a0of course,\u00a0times when we decide that a complaint is serious enough to\u00a0necessitate\u00a0an\u00a0immediate\u00a0inspection or\u00a0to\u00a0bring\u00a0forward\u00a0a\u00a0scheduled inspection. This could be if we have concerns that pupils or staff\u00a0are\u00a0at risk, or if there\u2019s evidence to suggest a significant decline in standards or a breakdown\u00a0in leadership.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This year, we\u00a0carried\u00a0out 25 immediate\u00a0inspections following complaints, less than 1%\u00a0of\u00a0complaints\u00a0we\u00a0considered.\u00a0This compares\u00a0with 35 immediate inspections last year.\u00a0So\u00a0the rise in complaints\u00a0has not led to a rise in\u00a0urgent\u00a0inspections.\u00a0In addition, we\u00a0brought\u00a0forward\u00a031\u00a0already scheduled inspections\u00a0this year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is\u00a0important\u00a0that parents\u00a0can\u00a0come to\u00a0us\u00a0if they\u00a0have\u00a0come to the end of\u00a0a\u00a0school\u2019s own processes. But we want to be clear that we never rush to inspect without carefully considering whether this is the right and proportionate thing to do, in the interests of pupils.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can read\u00a0a\u00a0summary of complaints about schools for the 2024\u201325\u00a0financial year.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationinspection.blog.gov.uk/2026/03/11/how-we-consider-complaints-about-schools/",
+        "blog": "Ofsted: education",
+        "blog_link": "https://educationinspection.blog.gov.uk",
+        "description": "Leaders, local authorities,\u00a0parents\u00a0and carers\u00a0frequently\u00a0ask about\u00a0how we deal with complaints about a school.\u00a0When we receive a complaint, we never rush to inspect.\u00a0In\u00a0this blog,\u00a0I\u2019ll\u00a0explain the processes that we follow\u00a0when deciding whether to inspect\u00a0a school.\u00a0 If\u00a0a parent\u00a0has a concern about their child\u2019s\u00a0school,\u00a0they should\u00a0first\u00a0go\u00a0through \u2026"
+    },
+    {
         "title": "Discharge - what\u00a0works?",
         "authors": [
             "Sarah McClinton"
