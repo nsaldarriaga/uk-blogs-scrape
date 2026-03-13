@@ -1,5 +1,704 @@
 [
     {
+        "title": "Could 'fridge-free' vaccines transform global immunisation?",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-03-13T14:46:22",
+        "categories": [
+            "Global health",
+            "immunisations",
+            "Science"
+        ],
+        "content": [
+            {
+                "content": "The World Health Organization (WHO) estimates that half of all vaccines produced worldwide never reach the people who need them. The reason? They lose their effectiveness before they can be used.",
+                "tag": "p"
+            },
+            {
+                "content": "Most vaccines must be kept cold from the moment they're manufactured until they're administered: a continuous chain of refrigeration known as the 'cold chain'. When that chain is broken, vaccines can lose their effectiveness and may have to be discarded. In remote areas, during natural disasters, or in countries with unreliable electricity supplies, maintaining this cold chain can be extremely difficult.",
+                "tag": "p"
+            },
+            {
+                "content": "A vaccine that remains stable at room temperature could be transformative, and UKHSA scientists at our Porton Down laboratories are contributing to a clinical trial that aims to make this a reality.",
+                "tag": "p"
+            },
+            {
+                "content": "Testing a room-temperature vaccine",
+                "tag": "p"
+            },
+            {
+                "content": "Stablepharma, a UK pharmaceutical company, has developed a tetanus and diphtheria vaccine called SPVX02 that is designed to remain effective without refrigeration. Our Vaccine Development and Evaluation Centre (VDEC) provided specialist laboratory testing for the trial. The vaccine has recently completed first-in-human clinical trials, a critical milestone in the journey towards potential licensing.",
+                "tag": "p"
+            },
+            {
+                "content": "Scientists in our Clinical Evaluation Team analysed blood samples from trial participants to measure their antibody responses to the vaccine's key components. This work used testing protocols we have developed and validated at our Porton Down laboratory, and the data we generated will form part of the evidence submitted to the Medicines and Healthcare Products Regulatory Agency (MHRA) as the vaccine progresses towards potential approval.",
+                "tag": "p"
+            },
+            {
+                "content": "The trial assessed whether SPVX02 was safe, well-tolerated, and capable of generating immune responses comparable to existing refrigerated vaccines.",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters",
+                "tag": "p"
+            },
+            {
+                "content": "Tetanus and diphtheria are preventable diseases, yet they still cause suffering and death in parts of the world where vaccine access is limited. The WHO has identified cold chain failures as a major barrier to global immunisation goals.",
+                "tag": "p"
+            },
+            {
+                "content": "A stable, room-temperature vaccine could dramatically reduce wastage, simplify distribution, and make immunisation programmes more resilient, particularly in low- and middle-income countries, and in emergency response situations. This aligns directly with both WHO objectives and UKHSA's commitment to strengthening global health security.",
+                "tag": "p"
+            },
+            {
+                "content": "UK expertise supporting global health",
+                "tag": "p"
+            },
+            {
+                "content": "By partnering with innovative companies and providing world-class laboratory expertise, we're helping to develop tools that could protect people around the world from vaccine-preventable diseases.",
+                "tag": "p"
+            },
+            {
+                "content": "This is just one example of the broader work happening across our Vaccine Development and Evaluation Centre, where our teams evaluated 45 vaccine and therapeutic regimens over the past year alone.",
+                "tag": "p"
+            },
+            {
+                "content": "Read the full UKHSA Science Review 2025 on GOV.UK to learn more about our scientific work to protect health in the UK and globally.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/03/13/could-fridge-free-vaccines-transform-global-immunisation/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "The World Health Organization (WHO) estimates that half of all vaccines produced worldwide never reach the people who need them. The reason? They lose their effectiveness before they can be used. Most vaccines must be kept cold from the moment \u2026"
+    },
+    {
+        "title": "5 things we are doing to tackle child poverty",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2026-03-13T14:24:28",
+        "categories": [
+            "breakfast clubs",
+            "Families",
+            "Free School Meals"
+        ],
+        "content": [
+            {
+                "content": "Families across the country are feeling the pressure of rising costs. From making sure children have access to nutritious meals to helping with the cost of school essentials, here are five things that we are doing to pull over half a million children out of poverty.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Expanding free school meals to every family on Universal Credit\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "From the start of the 2026 school year, every pupil in state funded schools, school-based nurseries, sixth forms and further education institutions,\u00a0whose household is on Universal Credit will be entitled to free school meals. This will put \u00a3500 back into parents' pockets per child, every year, and means over half a million more children will benefit from a free nutritious meal every school day.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since 2018, children have only been eligible for free school meals if their household income is less than \u00a37,400 per year. This meant hundreds of thousands of children living in poverty couldn't access this support. The expansion will lift 100,000 children across England out of poverty.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Research shows that giving children access to a nutritious meal during the school day leads to higher attainment and improved behaviour.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are updating the Eligibility Checking System, making it quicker and easier for families to get their children signed up for free school meals. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rolling out free breakfast clubs in primary schools\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Half a million more children will benefit from free breakfast clubs from September 2026. Applications have opened for the next wave of 500 schools with 40% of pupils on free school meals to benefit from the programme.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The clubs save working parents up to \u00a3450 and give back up to 95 hours of time each year. Schools with the highest proportion of pupils on free school meals are being prioritised so support goes first to where it's most needed.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creating Best Start Family Hubs across the country\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Up to 1,000 Best Start Family Hubs will be created across every local authority in England by 2028, with over \u00a3500 million being invested in the programme. These hubs will be local centres where families can access a range of services all in one place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether it's free classes, events and activities, help with your children before they start school, or advice on finance and housing, the hubs will either provide these services directly or connect you to the right local support. Each hub will have a trained professional to support children with additional needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Many parents find it difficult to know where to go for help with their children, with services often feeling disconnected and hard to navigate \u2013 Best Start Family Hubs will be there to support you with this. A new digital service is also being created to give quick access to trusted advice on parenting and child development.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Scrapping the two child limit",
+                "tag": "h3"
+            },
+            {
+                "content": "From April 2026, the Government will remove of the two child limit, which prevents parents from claiming Universal Credit for third and subsequent children born after April 2017. Most families (6 in 10) affected by the two-child limit are in work.",
+                "tag": "p"
+            },
+            {
+                "content": "Half had all off their children before coming onto benefits, through a change in circumstances. This change will lift 450,000 children out of poverty by the end of the Parliament.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, we will support working families with three or more children by increasing the maximum amount of childcare costs they can claim in Universal credit by \u00a3736.06 for each additional child above the current maximum cap for two children.",
+                "tag": "p"
+            },
+            {
+                "content": "Capping the cost of school uniforms\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "School uniforms can be expensive, particularly when schools require multiple branded items that can only be bought from specific suppliers. \u00a0A recent survey by Parentkind found that half of parents feel concerned about the cost of uniforms.",
+                "tag": "p"
+            },
+            {
+                "content": "The Children's Wellbeing and Schools Bill will ban schools from requiring more than three branded items as part of the school uniform. They will also be allowed a tie as an additional item. This means no school in England will be able to require unnecessarily large numbers of branded items. Currently 24% of primary and 71% of secondary schools still require five or more branded items, with some parents saying they were asked to provide 10 or more. Parents will have more options to shop around for affordable uniform items on the high street or at supermarkets.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Schools should also help make second-hand uniforms available for parents to buy \u2013 including ahead of the new school year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have also published a child-friendly version of the Child Poverty Strategy.",
+                "tag": "p"
+            },
+            {
+                "content": "The new tool has been designed to give children a clear and age-appropriate explanation of what poverty means, why some families struggle, and the steps the government is taking to help.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2026/03/5-things-we-are-doing-to-tackle-child-poverty/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Families across the country are feeling the pressure of rising costs. From making sure children have access to nutritious meals to helping with the cost of school essentials, here are five things that we are doing to pull over half a million children out of poverty.\u00a0"
+    },
+    {
+        "title": "Reasonableness in licensing \u2013 updated approach\u00a0\u00a0",
+        "authors": [
+            "OFSI"
+        ],
+        "posted_on": "2026-03-13T12:00:58",
+        "categories": [
+            "OFSI Blog"
+        ],
+        "content": [
+            {
+                "content": "In June 2021, OFSI published a blogpost,\u00a0\u201cReasonableness in licensing\u201d, which set out\u00a0how we assess \u201creasonableness\u201d when considering licence applications under UK financial sanctions regimes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This blogpost,\u00a0\u201cReasonableness in licensing \u2013 updated approach\u201d,\u00a0updates that guidance and applies across all UK financial sanctions regimes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You should read this alongside our existing guidance, including the June 2021\u00a0Reasonableness in licensing\u00a0blogpost and OFSI\u2019s\u00a0general guidance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Legal services: Costs Draftsperson\u2019s Reports (CDPRs)\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "OFSI regularly receives applications under the legal fees licensing ground which relate to legal services provided on\u00a0ongoing and\u00a0complex matters. Some of these applications request permission for payment of fees in the millions of pounds. It is for the applicant to\u00a0demonstrate\u00a0to OFSI that the legal fees and expenses they are requesting payment for are reasonable.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To support OFSI\u2019s assessment of reasonableness in these cases, OFSI will now require an independent Costs Draftsperson\u2019s Report (CDPR) to be\u00a0submitted\u00a0as part of the licence application in certain circumstances.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applicants may also choose to provide a CDPR proactively even where the relevant threshold has not been met but there are other factors which increase the complexity of the application. This may\u00a0assist\u00a0OFSI\u2019s assessment of reasonableness.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When a CDPR is\u00a0required\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "OFSI will\u00a0require\u00a0an independent CDPR in the following cases:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Law firms\u202f\u2013 where\u00a0within any six-month period:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Counsel (instructed directly)\u202f\u2013 where\u00a0within any six-month period:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How the thresholds apply\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "These thresholds:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applications covering periods longer than six months\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Where a single licence application covers a period longer than six months, OFSI will apply the relevant threshold pro rata to reflect the length of the period covered.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, an application covering 18 months of legal services would have threshold caps of:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What to include in your application\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "When\u00a0submitting\u00a0an application, please\u00a0indicate\u00a0clearly whether the criteria above apply. For example, you may wish to include a statement such as: \u201cThe legal costs exceed \u00a32 million (including VAT) and a CDPR is attached.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Anticipated (future) costs\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "OFSI recognises that applicants may seek licences for work already done\u00a0and also\u00a0work\u00a0anticipated\u00a0in the future. Where legal work is\u202fanticipated\u00a0but not yet incurred, OFSI will accept a CDPR that assesses\u202fanticipated\u00a0costs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For\u202f long-running legal matters, where it is not\u00a0feasible\u00a0to obtain a CDPR covering\u00a0anticipated\u00a0costs, applicants are encouraged to consider applying for licences on a\u202fquarterly basis, with an enclosed CDPR covering\u202fcosts incurred during the relevant period.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OFSI will\u00a0seek\u00a0to\u00a0help\u00a0applicants\u00a0understand the licencing process, including by directing them to relevant guidance.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Disbursements\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Where the threshold requiring a CDPR has been met, OFSI may,\u00a0on a case-by-case basis and\u00a0in extenuating circumstances, agree to assess disbursements (excluding Counsel fees or other legal services) without the provision of a CDPR\u00a0separately in advance of the assessment of the wider legal fees\u00a0element of the application.\u00a0Examples include where a disbursement must be paid on a time\u2011critical basis to avoid prejudice to legal proceedings, and the applicant can provide\u00a0clear\u00a0evidence\u00a0for that disbursement even though the CDPR for the wider legal fees is not yet available.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is at OFSI\u2019s discretion, and applicants should provide clear supporting evidence for the disbursements in question.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Independence and qualification of the Costs Lawyer\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "CDPRs must be produced by\u00a0independent practising Costs Lawyers\u00a0who:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How OFSI uses the CDPR and assesses reasonableness\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "A CDPR is one part of the evidential package that OFSI will consider when assessing whether legal fees and expenses are reasonable. We will look at the CDPR alongside other material you provide.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, even where a CDPR concludes that costs are reasonable, OFSI may still\u00a0determine\u00a0that reasonableness has\u202fnot been fully\u00a0demonstrated; license a lower amount\u202fthan requested; or decline to license\u202fcertain costs altogether.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OFSI will\u00a0also\u00a0continue to assess legal fees in line with our existing guidance and policy, including but not limited to the\u00a0Reasonableness in Licensing\u00a0blog and the\u00a0Permitted travel expenses for sanctions licence applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Costs of obtaining a CDPR\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The costs of obtaining a CDPR may be licensed under the legal services licensing\u00a0ground, subject to the normal reasonableness test. These costs can be included within the main legal services application or\u00a0sought\u00a0via a separate licence application.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You may apply for CDPR costs before you\u00a0submit\u00a0the primary application, at the same time as an application, or as a separate application after the primary application has been considered. In all cases, OFSI will assess the CDPR costs in the same way as any other legal fees and reasonableness must be\u00a0demonstrated.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Legal services: Administrative and other\u00a0additional\u00a0fees\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "OFSI sometimes receives legal services licence applications that include an\u00a0additional\u00a0administration or similar fee applied as a percentage uplift to the total of fee earners\u2019 charges.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To assess the reasonableness of any such fee,\u00a0OFSI requires\u00a0applicants to provide:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where this information is not provided, OFSI will not be able to assess the fee as reasonable and may refuse to license it. Applicants should therefore provide this information at the outset, as it is likely to enable a quicker assessment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Maintenance of frozen funds and economic resources licensing ground: independent expert reports\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "For applications under the maintenance of frozen funds and economic resources licensing ground, applicants are encouraged to\u00a0submit\u00a0an independent expert report where the requested payments are high value, novel, or complex. For example, this could be payments related to a niche asset (such as a superyacht or racing car) for which expertise is required to determine the maintenance required; or for extraordinary payments which are not routinely required (for example,\u00a0significant construction works to prevent a building falling into disrepair).\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where an expert report is not provided, OFSI may on a\u00a0case-by-case\u00a0basis and at OFSI\u2019s\u00a0discretion, request\u00a0one where it is needed to support our assessment of the necessity and reasonableness of the proposed costs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Type and qualification of the independent expert\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The\u00a0independent expert should have demonstrable and relevant\u00a0expertise\u00a0in the area\u00a0to\u00a0which the\u00a0costs\u00a0relate.\u00a0This\u00a0expertise\u00a0may be\u00a0demonstrated\u00a0through relevant experience and/or\u00a0appropriate professional\u00a0accreditation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Examples include, but are not limited to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The expert should:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How OFSI uses the report and assesses reasonableness\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "As with CDPRs, OFSI will treat any independent expert report as part of the overall evidential package. Even if the report supports the proposed costs, OFSI may conclude that costs are not fully justified and license a reduced amount or decline certain costs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cost of obtaining independent expert reports\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "As with CDPR fees, the costs of obtaining an independent expert report may be licensed under the relevant licensing ground, subject to the normal reasonableness test. Applicants may include these costs within the main application or request them via a separate licence application.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OFSI will assess the reasonableness of independent expert fees case-by-case, taking account of the scope, complexity, location,\u00a0and urgency of the works.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To\u00a0assist\u00a0OFSI\u2019s assessment, applicants should provide (as applicable):\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Evidence to\u00a0demonstrate\u00a0reasonableness\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "OFSI will continue to assess reasonableness in line with our existing guidance and policy (see\u00a0Reasonableness in Licensing).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Evidence\u00a0submitted\u00a0to demonstrate reasonableness should be\u00a0recent\u00a0and\u00a0as a general rule, OFSI considers evidence dated within the\u00a0past 6 months\u00a0to be\u00a0appropriate\u00a0(in relation to the application).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where evidence is older than\u00a06\u00a0months, applicants must provide a clear explanation of:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Further information\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "These updates are intended to enhance transparency around OFSI\u2019s assessment of reasonableness, and to help applicants prepare complete and well evidenced applications. This should support more efficient processing of applications and clearer outcomes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For further information, you should consult:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you are unsure how these updates affect your application, you can contact OFSI using the details provided on GOV.UK.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofsi.blog.gov.uk/2026/03/13/reasonableness-in-licensing-updated-approach/",
+        "blog": "Office of Financial Sanctions Implementation",
+        "blog_link": "https://ofsi.blog.gov.uk",
+        "description": "In June 2021, OFSI published a blogpost,\u00a0\u201cReasonableness in licensing\u201d, which set out\u00a0how we assess \u201creasonableness\u201d when considering licence applications under UK financial sanctions regimes.\u00a0\u00a0 This blogpost,\u00a0\u201cReasonableness in licensing \u2013 updated approach\u201d,\u00a0updates that guidance and applies across all UK financial sanctions \u2026"
+    },
+    {
+        "title": "From nervous to knowledgeable: training teachers on AI",
+        "authors": [
+            "Georgia Aspinox"
+        ],
+        "posted_on": "2026-03-13T11:26:34",
+        "categories": [
+            "Artificial intelligence",
+            "Teacher wellbeing"
+        ],
+        "content": [
+            {
+                "content": "Georgia Aspinox, lecturer in primary mathematics education at the University of Reading\u2019s Institute of Education, shares how she\u2019s using DfE support materials in her work, to help schools and colleges use AI safely and effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "I became interested in AI and education because it seemed to be at the perfect crossing of two things I really care about in education: preparing children for the world and protecting them from harm; and supporting teachers with wellbeing and workload.",
+                "tag": "p"
+            },
+            {
+                "content": "I could see AI had the potential to be wonderful for teachers, but there were potentially huge risks, too.",
+                "tag": "p"
+            },
+            {
+                "content": "Training young people on using AI for the first time",
+                "tag": "h2"
+            },
+            {
+                "content": "Working across the primary programmes \u2013 the undergraduate degree, PGCE, and postgraduate teacher apprenticeship \u2013 I\u2019ve been surprised at how little our trainee teachers know about AI. We really overestimated how much students would be aware of and use it. So, we often train them how to use it for the very first time \u2013 how to find the products that are out there, how they work, how you interact with them.",
+                "tag": "p"
+            },
+            {
+                "content": "While teaching them how to use it safely, effectively, and critically as a teacher, we\u2019ve also had to teach them fundamental digital literacy and skills.",
+                "tag": "p"
+            },
+            {
+                "content": "Putting DfE guidance to work",
+                "tag": "h2"
+            },
+            {
+                "content": "I was waiting with bated breath for the DfE\u2019s training resources as I was already delivering AI in education sessions.\u00a0 I was keen to have the official guidance and was pleased they were so thorough. I spent a day watching videos, going through the materials and making notes.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m incorporating the materials into lectures. The videos explain the basics, so I don\u2019t need to reinvent the wheel. I can bring the principles together with practical activity.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m also leading an AI in education working group with the Thames Valley AI Network. Based on the DfE materials, we\u2019ve put together an AI and education position statement for our local school partners to give them some guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "Knowledge is power",
+                "tag": "h2"
+            },
+            {
+                "content": "I think there are a lot of schools that are still unsure about what they should be saying to their staff about AI when there\u2019s such a wide spectrum of knowledge within schools about it.",
+                "tag": "p"
+            },
+            {
+                "content": "Some teachers feel very anxious or would rather not engage with it \u2013 although I\u2019d always say that you can't hide away from AI, and knowledge is power.",
+                "tag": "p"
+            },
+            {
+                "content": "When I hear from my colleagues working in secondary schools that pupils are using AI constantly for homework, or even emotional support, it feels like it\u2019s time that schools and teachers really engage in the conversation, which includes staff training. The DfE materials have given us a framework to help make that happen.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "Access the Using AI in education settings support materials",
+                "tag": "p"
+            }
+        ],
+        "link": "https://teaching.blog.gov.uk/2026/03/13/training-teachers-on-ai-in-education/",
+        "blog": "Teaching",
+        "blog_link": "https://teaching.blog.gov.uk",
+        "description": "In our latest Teaching Blog post, read about how Georgia Aspinox is using DfE's AI in education materials to train student teachers and support schools across the Thames Valley."
+    },
+    {
+        "title": "How GDS and DWP worked together to improve GOV.UK One Login",
+        "authors": [
+            "Natalie Jones OBE, Director of Digital Identity, Government Digital Service"
+        ],
+        "posted_on": "2026-03-13T11:03:34",
+        "categories": [
+            "GOV.UK One Login",
+            "Ways of working"
+        ],
+        "content": [
+            {
+                "content": "GOV.UK One Login already gives over 16.6 million people one account to access over 220 government services. Last month, the Government Digital Service (GDS) and the Department for Work and Pensions (DWP) took an important step forward in partnership to make it easier for more people to access those services.",
+                "tag": "p"
+            },
+            {
+                "content": "The roadmap for modern digital government commits us to strengthening digital public infrastructure and joining up services across departments, and this is exactly what we are doing. This blog post shares a practical example of that commitment in action: how GDS and DWP have worked together to make proving your identity online, to access government services, easier for more people.",
+                "tag": "p"
+            },
+            {
+                "content": "Making it easier to prove who you are online",
+                "tag": "h2"
+            },
+            {
+                "content": "We are focussed on making GOV.UK One Login as inclusive as possible and that means meeting people where they are in their lives. You can already prove your identity via the GOV.UK One Login app, by answering security questions online, or by visiting a Post Office.",
+                "tag": "p"
+            },
+            {
+                "content": "However, we know these routes will not work for everyone and we are committed to continuing to broaden the ways you can prove your identity over time. For the past year or so we have been focussed on making better use of the data the government might already hold about people and using that information to help people prove who they are.",
+                "tag": "p"
+            },
+            {
+                "content": "This work has created additional security questions based on information DWP already holds. These are known as Knowledge Based Verification (KBV) questions, which are questions using information only the user should know.",
+                "tag": "p"
+            },
+            {
+                "content": "In mid-February 2026, we went live with those questions. If you are unable to use the GOV.UK One Login app route, perhaps because you do not have your photo ID available, you can now use these additional security questions instead.",
+                "tag": "p"
+            },
+            {
+                "content": "This is just the start. GDS and DWP are already working together to increase the variety of questions available, so that even more people can prove their identity online in a way that works for them.",
+                "tag": "p"
+            },
+            {
+                "content": "Joining up government to make things easier for the public",
+                "tag": "h2"
+            },
+            {
+                "content": "This is where our partnership becomes particularly powerful. Whether you are renewing your driving licence, accessing an HMRC service, or using any other government service that uses GOV.UK One Login, if DWP holds relevant information about you, you can use it to prove who you are.",
+                "tag": "p"
+            },
+            {
+                "content": "Early results are promising, with more people successfully completing the identity verification process online. This is an important step towards greater digital inclusion. This matters to both of our organisations: GOV.UK One Login should be a front door open to everyone, regardless of their circumstances. It supports the government\u2019s aim to ensure that no one is left behind as government services move online.",
+                "tag": "p"
+            },
+            {
+                "content": "By making it easier to prove your identity now, we are opening the door to even more convenient ways to access government services in the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Working together to keep improving",
+                "tag": "h2"
+            },
+            {
+                "content": "Our collaboration is a practical example of departments joining up to strengthen digital public infrastructure and deliver better services for the public. As anyone working in this space knows, joining up systems across different government departments is complex work.",
+                "tag": "p"
+            },
+            {
+                "content": "The teams encountered some challenges before the service went live. The strong relationship between our two teams meant those issues were worked through openly and constructively, as one team with a shared goal. This collaborative approach will continue as we refine the service.",
+                "tag": "p"
+            },
+            {
+                "content": "We will be monitoring how the service performs over the coming weeks and months, including how many people are successfully proving their identity using this new method. We will use what we learn to keep improving the experience.",
+                "tag": "p"
+            },
+            {
+                "content": "We are committed to expanding the service so that more people can access the government services they need, quickly and easily, from wherever they are. We will continue expanding the ways people can confirm their identity online without extra steps.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have other types of information held by DWP, you may soon be able to use that to prove your identity too. The work of making GOV.UK One Login accessible to everyone continues, and we are proud to be doing that work together. We look forward to sharing more progress with you soon.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2026/03/13/how-gds-and-dwp-worked-together-to-improve-gov-uk-one-login/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Natalie Jones OBE and Cheryl Stevens MBE explain how their teams are joining up to make proving your identity online simpler, giving you more ways to access government services."
+    },
+    {
+        "title": "The Education Estates Strategy: what it means for your school",
+        "authors": [
+            "Communications Team"
+        ],
+        "posted_on": "2026-03-13T10:40:44",
+        "categories": [
+            "Advice and support",
+            "Estates"
+        ],
+        "content": [
+            {
+                "content": "The government has published its Education Estates Strategy - a 10-year plan which aims to renew, modernise and future\u2011proof schools and colleges across England.",
+                "tag": "p"
+            },
+            {
+                "content": "Backed by \u00a338 billion in education capital investment between 2025-26 and 2029-30, the strategy sets out an ambitious vision for an estate that is inclusive, safe, suitable, sustainable and sufficiently sized. Here we look at what it means in practice for your school.",
+                "tag": "p"
+            },
+            {
+                "content": "A new approach to managing your estate",
+                "tag": "h3"
+            },
+            {
+                "content": "At the heart of the strategy is a shift towards more proactive, long-term estate management. A new digital service - Manage Your Education Estate - has launched, giving schools and colleges easy access to estate guidance, tools and data at school level. You'll be able to log in using your existing DfE Sign-in account.",
+                "tag": "p"
+            },
+            {
+                "content": "From autumn 2026, light-touch self-assessment returns on the Schools Estate Management Standards will be introduced, helping responsible bodies identify where they can improve their approach to estate management. Alongside this, the government is committing to greater certainty on future maintenance allocations \u2014 supported by investment of almost \u00a33 billion per year by 2034-35 - so schools can plan with more confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "Improving and renewing your buildings",
+                "tag": "h3"
+            },
+            {
+                "content": "If your school has buildings in need of significant work, there's meaningful support on the way. A new Renewal and Retrofit Programme, backed by over \u00a3700 million, will fund projects to improve building condition and increase climate resilience. The programme will pilot from April 2026 in the East Midlands, Yorkshire and the Humber, and the South East, before expanding nationally by 2029.",
+                "tag": "p"
+            },
+            {
+                "content": "The Condition Improvement Fund is also being replaced from autumn 2028 with a simpler programme that removes the need for responsible bodies to submit full bids - a significant reduction in administrative burden.",
+                "tag": "p"
+            },
+            {
+                "content": "For schools concerned about climate impact or longer-term sustainability, the government is also expanding its Sustainability Support Programme to all settings, helping schools develop climate action plans and embed sustainability leadership.",
+                "tag": "p"
+            },
+            {
+                "content": "Rebuilding where it's needed most",
+                "tag": "h3"
+            },
+            {
+                "content": "For schools where renewal simply isn't enough, the School Rebuilding Programme is being expanded. A further 250 schools and sixth-form colleges will be selected by spring 2027 to join more than 500 already in the programme, with almost \u00a320 billion invested through to 2034-35. The nomination process is currently open and closes on 23 April 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "New design specifications will also ensure rebuilt schools are healthier, more sustainable environments - with improved outdoor facilities, better indoor air quality and greater access to nature.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting SEND, early years and digital connectivity",
+                "tag": "h3"
+            },
+            {
+                "content": "The strategy goes beyond bricks and mortar. At least \u00a33.7 billion in high needs capital funding will be invested between 2025-26 and 2029-30 to create 60,000 specialist places. This will fund a transformative expansion of inclusion bases \u2013 a new term that will replace the current terms SEN unit, resourced provision and pupil support unit to make it easier for parents to understand the support available for their child.",
+                "tag": "p"
+            },
+            {
+                "content": "For schools looking to expand early years provision, \u00a3400 million is available from 2025-26 to 2029-30 to deliver thousands more school-based nursery places. And \u00a3325 million is earmarked for digital connectivity, including expanding Connect the Classroom and supporting hard-to-reach schools in accessing fast, gigabit-capable broadband.",
+                "tag": "p"
+            },
+            {
+                "content": "What you should do now",
+                "tag": "h3"
+            },
+            {
+                "content": "The scale of this strategy represents a genuine opportunity for schools to improve their buildings and plan for the future. Key near-term actions include:",
+                "tag": "p"
+            },
+            {
+                "content": "The government is clear that realising this vision depends on strong partnership with those who run and maintain schools. This strategy is the beginning of that journey - and your school is central to it.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019ve found this article useful and want to learn more about how we\u2019re supporting schools, click \u2018sign up and manage updates\u2019 at the top right of this page to subscribe to our blog and receive notifications when we next post.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2026/03/13/the-education-estates-strategy-what-it-means-for-your-school/",
+        "blog": "Buying for Schools",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "The government has published its Education Estates Strategy - a 10-year plan which aims to renew, modernise and future\u2011proof schools and colleges across England. Backed by \u00a338 billion in education capital investment between 2025-26 and 2029-30, the strategy sets out \u2026"
+    },
+    {
         "title": "Dragons' Den IP Blog - Series 23 Episode 7",
         "authors": [
             "Jenny Manders"
