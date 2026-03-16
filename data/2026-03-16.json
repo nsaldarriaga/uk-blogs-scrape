@@ -1,0 +1,985 @@
+[
+    {
+        "title": "New guidance to support long-term farm business tenancies",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-03-16T14:46:08",
+        "categories": [
+            "Tenant Farming Sector"
+        ],
+        "content": [
+            {
+                "content": "Farming is a long-term business. Decisions about\u00a0business planning, infrastructure, environmental\u00a0improvements\u00a0and farm systems often take many years to deliver results.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recognising the benefits that\u00a0longer\u00a0agreements can bring, the\u00a0Farm Tenancy Forum\u00a0has published\u00a0new guidance on\u00a0long-term Farm Business Tenancies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The guidance was developed by the Farm Tenancy Forum and is available through the websites of forum member organisations, including the National Farmers Union (NFU),\u00a0Tenant Farmers Association\u00a0and\u00a0Country Land and Business Association.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This new guidance\u00a0will\u00a0help landlords, tenants and their advisers think through the main considerations involved in agreeing a\u00a0long-term tenancy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Farming businesses,\u00a0estates\u00a0and landholdings all have different circumstances, and the guidance aims to support discussions that lead to agreements that are fair,\u00a0practical\u00a0and suited to the needs of both parties.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The guidance covers several areas that are often important when putting long-term\u00a0agreements in place, including:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As every agreement is different, landlords and tenants should\u00a0seek\u00a0independent, professional advice before entering or changing a tenancy agreement.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Benefits",
+                "tag": "h2"
+            },
+            {
+                "content": "Long-term\u00a0Farm Business Tenancies can help provide confidence to those who rent agricultural land or buildings to run a farm business and the landlords who own them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Taking time to discuss issues early can help avoid misunderstandings later and support a strong working relationship over the life of the tenancy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Adopting\u00a0long-term\u00a0agreements\u00a0can give\u00a0tenant\u00a0farmers the security to\u00a0plan ahead,\u00a0invest\u00a0and build resilience\u00a0in their businesses. They\u00a0allow landlords to\u00a0secure\u00a0long-term management and stewardship\u00a0outcomes for\u00a0their land.\u00a0The Forum\u2019s new guidance is intended to help more landlords and tenants consider how\u00a0long-term agreements could work for them.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more",
+                "tag": "h2"
+            },
+            {
+                "content": "The Farm Tenancy Forum brings together organisations\u00a0representing\u00a0both landlords and tenants, alongside professional\u00a0advisers\u00a0and government, to work on issues affecting the tenanted sector.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By bringing different perspectives together, the Forum helps encourage better understanding between landlords and tenants and supports stronger, more constructive working relationships.\u00a0You can learn more about\u00a0its\u00a0membership\u00a0and\u00a0ways of working\u00a0on GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alan Laidlaw was appointed in September 2025 as the first\u00a0Commissioner for the Tenant Farming Sector in England.\u00a0Acting as an independent champion for the sector, he works to strengthen relationships between landlords and tenants.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working with Defra and the Farm Tenancy Forum, he promotes the\u00a0Agricultural Landlord and Tenant Code of Practice\u00a0to improve fairness across the sector, investigate complaints and provide guidance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can sign up to The Farming Blog to receive updates from the Farm Tenancy Forum and from\u00a0Alan, who blogs for us.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/03/16/new-guidance-to-support-long-term-farm-business-tenancies/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "The Farm Tenancy Forum has published new guidance to support landlords and tenants considering long-term Farm Business Tenancies. The guidance helps both parties set clear expectations from the outset and will help build strong, productive landlord-tenant relationships."
+    },
+    {
+        "title": "UK CertifID: a mark of trust in digital verification services",
+        "authors": [
+            "Livia Ralph"
+        ],
+        "posted_on": "2026-03-16T14:37:39",
+        "categories": [
+            "Digital identity"
+        ],
+        "content": [
+            {
+                "content": "The Data (Use and Access) Act \u2013 among other things \u2013 provides a legal footing for what will become the face of the UK\u2019s trusted digital verification ecosystem: the UK CertifID trust mark. ",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog post, we\u2019ll share information about UK CertifID. We\u2019ll also explain who the trust mark is for, how it was developed, how digital verification services will be able to use it, and when it will become available.",
+                "tag": "p"
+            },
+            {
+                "content": "Why a trust mark",
+                "tag": "h2"
+            },
+            {
+                "content": "If you\u2019re a regular reader of our blog, you\u2019re likely to be \nfairly well steeped in the detail of our trust framework. You may have learned to tell your OSPs from your ASPs, and have a detailed understanding of our version numbering system.",
+                "tag": "p"
+            },
+            {
+                "content": "Most people aren\u2019t like that. People want digital verification services\u00a0they use to be secure, privacy-preserving and convenient, but they don\u2019t necessarily want or need to understand all the technical detail behind them.",
+                "tag": "p"
+            },
+            {
+                "content": "This is where the UK CertifID trust mark steps in. You\u2019ll be familiar with trust marks from lots of other places;\u00a0symbols like\u00a0the Red Tractor\u00a0for food,\u00a0Gas Safe\u00a0for gas engineers and\u00a0UKCA\u00a0for things like toys, lifts and phones.",
+                "tag": "p"
+            },
+            {
+                "content": "Our trust mark is like that, but for digital verification services. It will make it easier for people and businesses to instantly recognise digital verification services that meet the government\u2019s requirements and that are listed on the register of digital verification services.",
+                "tag": "p"
+            },
+            {
+                "content": "Our intention is that wherever the UK CertifID trust mark is displayed, people and businesses can have increased confidence that a service is safe, secure and is backed by government standards.",
+                "tag": "p"
+            },
+            {
+                "content": "Use of the trust mark by eligible digital verification service (DVS) providers will be optional \u2013 but we hope it will become widely adopted, as more and more people see the value of it.",
+                "tag": "p"
+            },
+            {
+                "content": "Building trust in the trust mark",
+                "tag": "h2"
+            },
+            {
+                "content": "Why we chose \u201cUK CertifID\u201d",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019ve spent a while working behind the scenes to develop the UK CertifID trust mark brand. Our success criteria were that the brand name and design should be clear, trustworthy and memorable. ",
+                "tag": "p"
+            },
+            {
+                "content": "The chosen name and branding were the ones that tested most successfully against those criteria with a nationally representative group of 151 people. ",
+                "tag": "p"
+            },
+            {
+                "content": "UK CertifID is a portmanteau of two important concepts for digital verification services:",
+                "tag": "p"
+            },
+            {
+                "content": "Who will be able to use it, and when",
+                "tag": "h3"
+            },
+            {
+                "content": "The trust mark will only be able to be used by registered digital verification service providers who are certified against the recently pre-published 1.0 (or later) publication of the trust framework. Providers will also need to agree to and sign the terms and conditions of use before they use the trust mark.",
+                "tag": "p"
+            },
+            {
+                "content": "You will be able to find official information on rules of use on GOV.UK shortly.",
+                "tag": "p"
+            },
+            {
+                "content": "Certification against 1.0 trust framework is not available yet and timings for this will be announced in due course.",
+                "tag": "p"
+            },
+            {
+                "content": "Providing ways to check its real",
+                "tag": "h3"
+            },
+            {
+                "content": "Whenever you see the UK CertifID trust mark within a service, it should consist of two parts:",
+                "tag": "p"
+            },
+            {
+                "content": "The unique number will provide one way for users to double-check its authenticity.",
+                "tag": "p"
+            },
+            {
+                "content": "Action against unauthorised use",
+                "tag": "h3"
+            },
+            {
+                "content": "OfDIA will also be taking an active approach to protecting the trust mark from unauthorised use.",
+                "tag": "p"
+            },
+            {
+                "content": "We have put in place a portfolio of protections, including intellectual property protections (the trust mark is a registered trademark), protections under the Data (Use and Access) Act 2025 and rules in the trust framework.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll publish more details on our enforcement approach in due course.",
+                "tag": "p"
+            },
+            {
+                "content": "Developing practical guidelines for use",
+                "tag": "h2"
+            },
+            {
+                "content": "You won\u2019t see the trust mark in the real world just yet. We\u2019re finishing the development of guidelines to ensure that when it is, it will be used clearly and consistently.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll publish more information on GOV.UK and on this blog when the trust mark is available.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/03/16/uk-certifid-a-mark-of-trust-in-digital-verification-services/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "The Data (Use and Access) Act \u2013 among other things \u2013 provides a legal footing for what will become the face of the UK\u2019s trusted digital verification ecosystem: the UK CertifID trust mark."
+    },
+    {
+        "title": "Using data\u00a0standards to support people at risk\u00a0",
+        "authors": [
+            "Firoze Salim"
+        ],
+        "posted_on": "2026-03-16T13:50:12",
+        "categories": [
+            "Data Standards",
+            "Data Strategy",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Identifying\u00a0and supporting people at risk of poor health, social, or economic outcomes is a complex task.\u00a0It requires coordination across\u00a0a range of public sector organisations. Better data standards are essential for identifying people at risk of\u00a0becoming\u00a0vulnerable\u00a0and ensuring they receive the right support, at the right time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The public sector is increasingly focused on delivering more preventative and personalised services, from\u00a0identifying\u00a0emerging needs earlier,\u00a0to targeting effective health and wellbeing interventions. Local authorities, healthcare providers, emergency\u00a0services\u00a0and central government departments must work together to understand risks and provide\u00a0timely\u00a0support. Better use of data is critical to improving outcomes, particularly for those most at risk.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why data standards matter\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Public services rely on data to\u00a0identify\u00a0risk,\u00a0allocate\u00a0resources, and enable early intervention. However, public sector data has historically been fragmented across organisations, making it difficult to build a complete picture of a person's needs. For vulnerable groups, this fragmentation can have\u00a0serious consequences: individuals may need to repeatedly provide their story, agencies may miss safeguarding risks, and support may be delayed or inconsistent.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Data standards address these issues by creating common definitions, so data means the same thing to everyone. A shared language enables systems to share information securely, supporting consistent governance and data protection practices, and helping teams make better decisions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Vulnerabilities Working Group\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To tackle these challenges,\u00a0the\u00a0Government Digital Service (GDS) has established\u202fa\u202fVulnerabilities Working Group\u00a0under the\u202fData Standards Authority\u202f(DSA),\u202fin conjunction with\u202fiStandUK, a Tameside Council programme that promotes data standards supporting efficiency and transformation of local public services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0group is developing common data standards that enable better coordination across public services, helping agencies\u00a0identify\u00a0risk earlier and respond more effectively. It brings together representatives from central government, local authorities, NHS England, devolved administrations, and external partners.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The group focuses on:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The SAVVI framework\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The DSA and SAVVI have\u00a0established\u00a0the\u00a0group\u00a0to review and refine concept models, logical data models, and standards ahead of formal endorsement. The group is also developing a taxonomy of risk factors to provide a shared language for\u00a0identifying\u00a0vulnerable people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0group\u00a0works closely with the DSA's Domain Expert Group for Core Attributes of a Person to develop definitions and standards for commonly recorded data, such as name and date of birth. The outputs of both groups will inform the development of standardised APIs, enabling systems across organisations to exchange data securely.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The SAVVI approach has already delivered real benefits for at\u2011risk people in Scotland. The\u00a0Improvement Service\u00a0used SAVVI to\u00a0identify\u00a0families at\u00a0high risk\u00a0of poverty and connected\u00a0them with financial support before they reached crisis point.\u00a0This\u00a0demonstrates\u202fhow better data sharing can help councils intervene earlier, preventing unnecessary hardship while using resources more efficiently.\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Balancing intervention with privacy and trust\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working with vulnerability data raises significant ethical and legal challenges.\u00a0The Data Protection Act 2018\u202fand\u202fUK GDPR\u202fensure all personal data held by government is handled lawfully,\u00a0fairly,\u00a0and safely.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Office of the Chief Digital Officer (OCDO)\u00a0in\u00a0Government Digital Service\u00a0has\u00a0published the\u202fPrinciples for Securing Personal Data in Government Services,\u00a0giving practical advice for teams working with large, potentially sensitive datasets. The principles focus on building privacy and security in from the start, and set clear standards for who can access data, how much should be collected, and how it can be shared safely, helping\u00a0maintain\u00a0public trust while allowing data to support vulnerable people effectively.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "GDS has also developed an information governance playbook, inspired by the SAVVI Information Governance Framework. This will be published shortly and tested through vulnerability use cases, ensuring better data sharing does not undermine privacy or trust.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Towards joined-up public services\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The government's work on vulnerability data standards reflects a shift towards preventative and person-centred services. Standardised data models and interoperable systems aim to enable earlier identification of risk, reduce duplication, improve coordination of interventions, and\u00a0provide\u00a0better insight into service effectiveness. As the SAVVI and DSA partnership matures, data standards are likely to become foundational infrastructure for safeguarding and supporting vulnerable citizens across the public sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more about SAVVI or contribute to the Vulnerabilities Working Group or Domain Expert Group, visit the SAVVI\u202fwebsite, sign up to the\u202fSAVVI mailing\u202flist\u00a0or contact the Data Standards Authority at\u00a0data-standards-authority@dsit.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dataingovernment.blog.gov.uk/2026/03/16/using-data-standards-to-support-people-at-risk/",
+        "blog": "Data in government",
+        "blog_link": "https://dataingovernment.blog.gov.uk",
+        "description": "Identifying\u00a0and supporting people at risk of poor health, social, or economic outcomes is a complex task.\u00a0It requires coordination across\u00a0a range of public sector organisations. Better data standards are essential for identifying people at risk of\u00a0becoming\u00a0vulnerable\u00a0and ensuring they receive the right \u2026"
+    },
+    {
+        "title": "5 things we learned testing GOV.UK Chat: an AI assistant for government",
+        "authors": [
+            "Sam Dub, Lead Product Manager, GOV.UK AI, GDS"
+        ],
+        "posted_on": "2026-03-16T13:34:23",
+        "categories": [
+            "Data",
+            "User insights",
+            "What we're working on"
+        ],
+        "content": [
+            {
+                "content": "Over the last 18 months, we\u2019ve run 2 public pilots of GOV.UK Chat, an AI assistant for GOV.UK built at the Government Digital Service (GDS). More than 10,000 users asked 26,000 questions about government services, from tax to benefits to visas. We measured accuracy, reliability, speed, safety and user trust.",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these pilots represent one of the largest user research exercises GDS has ever conducted, and the government\u2019s biggest public test of generative AI to date. Based on the findings, we feel confident to begin opening up access more widely, starting by making GOV.UK Chat available to all users of the GOV.UK app.",
+                "tag": "p"
+            },
+            {
+                "content": "5 headline findings from the pilots",
+                "tag": "h2"
+            },
+            {
+                "content": "1. GOV.UK Chat offers users a faster way to get answers",
+                "tag": "h3"
+            },
+            {
+                "content": "Users told us GOV.UK Chat saves them time. Participants said that GOV.UK Chat\u2019s answers helped them decide what to do next, providing clear, concise answers, relevant links, and step-by-step lists \u2013 for some, saving them a phone call to a department\u2019s call centre.",
+                "tag": "p"
+            },
+            {
+                "content": "In a follow-up survey of GOV.UK app users, 73% found GOV.UK Chat useful, and 64% were satisfied with GOV.UK Chat. We\u2019re pleased with these numbers, and think we can increase them further with improvements in areas like answer speed.",
+                "tag": "p"
+            },
+            {
+                "content": "2. We\u2019ve made strong progress on increasing accuracy and answer quality",
+                "tag": "h3"
+            },
+            {
+                "content": "Thanks to the work of our data scientists, and advances in the underlying AI models, we\u2019ve been able to increase answer accuracy scores from 76%, our earliest benchmark, to our latest figure of 90% accuracy across all topics.",
+                "tag": "p"
+            },
+            {
+                "content": "We assess answers using a combination of subject matter experts, and automated evaluation tools. Chat exclusively draws on guidance published on GOV.UK, and our assessors only rate an answer as \u2018accurate\u2019 if it meets all the standards of published content. In cases of \u2018inaccuracy\u2019, it\u2019s often that GOV.UK Chat is able to answer some but not all aspects of a user\u2019s question. Overall, these accuracy scores are in line with industry benchmarks, and for government-related questions GOV.UK Chat scores higher than widely-used consumer AI assistants.",
+                "tag": "p"
+            },
+            {
+                "content": "We want to be straightforward with users that, like all AI assistants, GOV.UK Chat can make mistakes. Users expect accuracy warnings, which are used across the industry, and the research showed they appreciated the features we\u2019ve built that make it easy to double-check answers at source.",
+                "tag": "p"
+            },
+            {
+                "content": "3. We have increased confidence in operating public-facing Large Language Models (LLMs) reliably at scale",
+                "tag": "h3"
+            },
+            {
+                "content": "During the two pilots, there were 508 attempts to \u2018jailbreak\u2019 GOV.UK Chat. These are attempts to trick an AI system to provide an inappropriate or harmful response. This is an ongoing risk we will need to manage, but the safety guardrails we\u2019ve put in place successfully prevented all these attempts. You can read more about our work to prevent jailbreaking in our previous blog post on the subject.",
+                "tag": "p"
+            },
+            {
+                "content": "At a technical level, the system coped comfortably with demand, which bodes well for our ability to scale it up. We are now using Amazon\u2019s Bedrock platform and Anthropic\u2019s Claude models to power the latest version of GOV.UK Chat. The system is built to allow us to upgrade to new models as they become available, and this will form part of the ongoing operation and iteration of the service.",
+                "tag": "p"
+            },
+            {
+                "content": "4. We\u2019re improving how we handle questions we can\u2019t answer",
+                "tag": "h3"
+            },
+            {
+                "content": "By design, GOV.UK Chat won\u2019t provide answers outside the scope of government guidance, and that means there will always be occasions when users\u2019 questions can\u2019t be answered. However, in the pilot on the website, we noticed instances where users phrased questions in a way that GOV.UK Chat couldn\u2019t answer with confidence, and so in some cases didn\u2019t receive an answer at all. To fix this, we introduced the ability for Chat to ask users clarifying questions where the original questions are ambiguous. Our answer rate for in-scope questions is now 88% with plans to improve further.",
+                "tag": "p"
+            },
+            {
+                "content": "We also found some people wanted to speak to an advisor with access to their personal information, which isn\u2019t something we currently support. Longer term, we\u2019re working on being able to hand users over to departmental customer support where needed, connecting users \u2013 within the same interface \u2013 to the right person to answer their question.",
+                "tag": "p"
+            },
+            {
+                "content": "5. Users want answers even faster",
+                "tag": "h3"
+            },
+            {
+                "content": "When designing systems like GOV.UK Chat with LLMs, there\u2019s a trade-off right now between speed and accuracy. This year, the latest versions of frontier models have been more powerful but slower than previous versions.",
+                "tag": "p"
+            },
+            {
+                "content": "For us, accuracy is the most important thing, and consequently GOV.UK Chat responses are slower than we\u2019d ideally like; an average 10.7 seconds for an answer. We found this to be within acceptable bounds for users of GOV.UK Chat, and still amounts to a time saving. However, in testing, satisfaction increased when we simulated faster answer speeds.",
+                "tag": "p"
+            },
+            {
+                "content": "As a team, we\u2019ll be looking at ways to increase answer speed in future versions without sacrificing answer quality. We\u2019re considering implementing answer streaming, where the first part of an answer appears to users before the answer is fully written. This tested well with users, but requires redesigning how some of our safety guardrails work, so will be a substantial bit of work for the team to implement.",
+                "tag": "p"
+            },
+            {
+                "content": "Our research methods",
+                "tag": "h2"
+            },
+            {
+                "content": "For the first pilot, we recruited 10,136 users who asked 23,838 questions of a web version of GOV.UK Chat. Most recently, in the GOV.UK app, we used the iOS TestFlight system to give 641 people access to a version of the GOV.UK app with GOV.UK Chat integrated into it; these users asked 2,670 questions in 4 weeks.",
+                "tag": "p"
+            },
+            {
+                "content": "To generate the insights above, and many more, the team applied a mix of qualitative and quantitative user research methods to understand how GOV.UK Chat was used.",
+                "tag": "p"
+            },
+            {
+                "content": "For our web pilot, we used 6 methods:",
+                "tag": "p"
+            },
+            {
+                "content": "In the app study, we focussed on areas where we\u2019d made significant changes between the pilots:",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next",
+                "tag": "h2"
+            },
+            {
+                "content": "Our aim is to provide a joined-up chat experience for government and make it available wherever users need it; you can read more about our vision for GOV.UK Chat in our December blog post. The evidence from our pilots is clear: GOV.UK Chat simplifies interaction with government, providing clear and helpful information to users, and saving them time. We\u2019re keen to make GOV.UK Chat publicly available as soon as possible, and continue to improve it based on feedback.",
+                "tag": "p"
+            },
+            {
+                "content": "GOV.UK Chat will be released first to users of the GOV.UK app, and later in 2026, we\u2019ll start testing the best way to make it available across the GOV.UK website. Alongside this work, we\u2019re continuing to experiment with agentic AI, going beyond answers to use AI to help get things done on the user\u2019s behalf. All this work will be tracked via the new Roadmap for modern digital government.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidegovuk.blog.gov.uk/2026/03/16/5-things-we-learned-testing-gov-uk-chat-an-ai-assistant-for-government/",
+        "blog": "Inside GOV.UK",
+        "blog_link": "https://insidegovuk.blog.gov.uk",
+        "description": "Learn about the key findings from our pilots of GOV.UK Chat, and how we\u2019ve evaluated its performance ahead of the next phase."
+    },
+    {
+        "title": "Countdown to the 2026 King\u2019s Awards for Enterprise: Celebrating the Best of UK Business",
+        "authors": [
+            "The King's Awards for Enterprise"
+        ],
+        "posted_on": "2026-03-16T11:44:23",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "The countdown is officially on. In just a few weeks, we will proudly announce the next cohort of King\u2019s Awards for Enterprise recipients \u2014 outstanding UK organisations recognised for exceptional achievements in Innovation, International Trade, Sustainability, and Promoting Opportunity.",
+                "tag": "p"
+            },
+            {
+                "content": "As anticipation builds across the business community, we look back at what makes the Awards so significant, what applicants can expect next, and how the programme continues to shine a global spotlight on the very best of British enterprise.",
+                "tag": "p"
+            },
+            {
+                "content": "Why The King\u2019s Awards Matter",
+                "tag": "h2"
+            },
+            {
+                "content": "For over half a century, the Awards have celebrated organisations whose work strengthens the UK economy, creates opportunity, and drives innovation. Today, the King\u2019s Awards remain one of the most prestigious business honours in the world.",
+                "tag": "p"
+            },
+            {
+                "content": "Recipients gain:",
+                "tag": "p"
+            },
+            {
+                "content": "Last year\u2019s recipients told us how the Award helped them unlock new markets, attract world\u2011class talent, and accelerate growth. Many described the Royal accolade as a turning point in their business journey.",
+                "tag": "p"
+            },
+            {
+                "content": "What Happens Next?",
+                "tag": "h2"
+            },
+            {
+                "content": "Over recent months, independent experts, industry leaders, and senior officials have assessed thousands of pages of entries. Each application undergoes rigorous evaluation to ensure that recipients truly represent the highest standards of excellence.",
+                "tag": "p"
+            },
+            {
+                "content": "We are now in the final stages of approvals.The official announcement of the 2026 recipients will take place on 6th May, with businesses across the UK preparing for a moment that could transform their visibility at home and overseas.",
+                "tag": "p"
+            },
+            {
+                "content": "What Recipients Can Look Forward To",
+                "tag": "h2"
+            },
+            {
+                "content": "Successful organisations will receive:",
+                "tag": "p"
+            },
+            {
+                "content": "Over the coming months, we\u2019ll be sharing recipient stories, sector insights, and tips for future applicants.",
+                "tag": "p"
+            },
+            {
+                "content": "How You Can Stay Up to Date",
+                "tag": "h2"
+            },
+            {
+                "content": "In the lead-up to the announcement, we\u2019ll publish behind\u2011the\u2011scenes updates, regional highlights, and reflections from past recipients.",
+                "tag": "p"
+            },
+            {
+                "content": "Follow us on LinkedIn, X, and GOV.UK for up-to-the-minute news, key dates, and resources.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more: The King's Awards for Enterprise: Apply - GOV.UK",
+                "tag": "p"
+            }
+        ],
+        "link": "https://kingsawards.blog.gov.uk/2026/03/16/countdown-to-the-2026-kings-awards-for-enterprise-celebrating-the-best-of-uk-business/",
+        "blog": "The King\u2019s Awards for Enterprise",
+        "blog_link": "https://kingsawards.blog.gov.uk",
+        "description": "The countdown is officially on. In just a few weeks, we will proudly announce the next cohort of King\u2019s Awards for Enterprise recipients \u2014 outstanding UK organisations recognised for exceptional achievements in Innovation, International Trade, Sustainability, and Promoting Opportunity. As \u2026"
+    },
+    {
+        "title": "Introducing Local AI",
+        "authors": [
+            "Kat Sexton, Deputy Director for Local AI"
+        ],
+        "posted_on": "2026-03-16T11:36:30",
+        "categories": [
+            "Artificial Intelligence",
+            "Local AI"
+        ],
+        "content": [
+            {
+                "content": "Local AI is a new team in the Ministry of Housing, Communities and Local Government (MHCLG), working with councils to support the responsible use of artificial intelligence (AI) across local government. We focus on the real pressures councils face and work in partnership with the sector to tackle shared problems.",
+                "tag": "p"
+            },
+            {
+                "content": "Our goal is to accelerate and enable the responsible use of AI across local government to drive efficiency, reduce costs and improve services. Our mission is to amplify the brilliant innovation already happening, reduce duplication, and create reusable tools in collaboration with councils.",
+                "tag": "p"
+            },
+            {
+                "content": "This work supports the Blueprint for Modern Digital Government, particularly the principle of building digital tools once and reusing them across the public sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Minister Dixon, Parliamentary Under-Secretary of State at MHCLG who has responsibility for AI in Local Government said:",
+                "tag": "p"
+            },
+            {
+                "content": "Why we're doing this",
+                "tag": "h2"
+            },
+            {
+                "content": "Councils are under increasing pressure. Many frontline staff spend large amounts of time managing information across multiple systems, re-entering data, or writing up notes. In services like social care and housing, this can reduce the time available to support people directly.",
+                "tag": "p"
+            },
+            {
+                "content": "Some councils are already making progress with AI, while others are still building the data foundations, confidence and capacity they need to begin. The AI market can feel complex and fast moving, and it is not always clear which tools are safe, appropriate, and offer value for money. Local AI exists to help councils navigate this space with clarity and confidence, so AI adoption is easier, safer and more impactful.",
+                "tag": "p"
+            },
+            {
+                "content": "What we're focused on",
+                "tag": "h2"
+            },
+            {
+                "content": "Local AI has two connected areas of focus:",
+                "tag": "p"
+            },
+            {
+                "content": "1. Building and scaling solutions",
+                "tag": "p"
+            },
+            {
+                "content": "2. Strengthening foundations",
+                "tag": "p"
+            },
+            {
+                "content": "What we've been doing",
+                "tag": "h2"
+            },
+            {
+                "content": "Over the past year, we\u2019ve focused on understanding where AI can add the most value in local government. This has included:",
+                "tag": "p"
+            },
+            {
+                "content": "This work has shown that well targeted AI can reduce administrative burden, free up frontline time and support earlier, more consistent interventions.",
+                "tag": "p"
+            },
+            {
+                "content": "What we're doing now",
+                "tag": "h2"
+            },
+            {
+                "content": "We are moving into delivery and expanding our work in areas where AI can make a practical difference. This includes:",
+                "tag": "p"
+            },
+            {
+                "content": "This helps ensure we are solving the right problems and that councils help shape our roadmap from the start.",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved",
+                "tag": "h2"
+            },
+            {
+                "content": "Local AI only works if it works for councils \u2013 so we want to work with councils and others across the local government sector to help shape our work.",
+                "tag": "p"
+            },
+            {
+                "content": "You can:",
+                "tag": "p"
+            },
+            {
+                "content": "Get in touch by emailing LocalAI@communities.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/03/16/introducing-local-ai/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Local AI is a new MHCLG team working with councils to support the responsible use of artificial intelligence across local government. We focus on the real pressures councils face, and work in partnership with the sector to tackle shared problems. Find out more about Local AI and how you can get involved."
+    },
+    {
+        "title": "How I\u2019m using AI training across a multi-academy trust",
+        "authors": [
+            "Alan Stupple"
+        ],
+        "posted_on": "2026-03-16T09:44:43",
+        "categories": [
+            "Artificial intelligence",
+            "Teacher wellbeing"
+        ],
+        "content": [
+            {
+                "content": "Alan Stupple, director of Maths at Bedfordshire Schools Trust, shares how he\u2019s using the DfE support materials on AI across the trust.",
+                "tag": "p"
+            },
+            {
+                "content": "My role takes me everywhere from supporting an intervention in year two to taking full year 13 classes. It's the best job out there because I'm not based in one place or one classroom \u2013 it varies day to day.",
+                "tag": "p"
+            },
+            {
+                "content": "How I got into AI",
+                "tag": "h2"
+            },
+            {
+                "content": "I first got into AI through the Mr Barton\u2019s Maths podcasts a few months ago. There were three episodes on using AI in the classroom, and one mentioned the DfE modules right around the time they were released. That got me thinking about how we could use this across the trust.",
+                "tag": "p"
+            },
+            {
+                "content": "Building staff confidence",
+                "tag": "h2"
+            },
+            {
+                "content": "What we found was, before we could even talk about large language models or specific tools, some of our staff didn't have the knowledge of what AI was and what it wasn't.",
+                "tag": "p"
+            },
+            {
+                "content": "There are probably three different camps: teachers who are petrified and don't quite know what it is, those who are jumping into it and may need to be reined back a bit, and those somewhere in between.",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering CPD",
+                "tag": "h2"
+            },
+            {
+                "content": "We've now delivered whole school CPD to three schools. I took slides from the DfE modules \u2013 particularly the ones about what makes a good \u2018prompt\u2019. They explain the output, what role the AI should take on, and how to write specifically.",
+                "tag": "p"
+            },
+            {
+                "content": "We showed the difference between a good prompt and a not-good prompt, using examples such as creating science questions on light for year three.",
+                "tag": "p"
+            },
+            {
+                "content": "Then we got staff to actually do it. We gave them scenarios about their own classes and helped them build good prompts. We took work from their shared drives and rewrote it together in the sessions.",
+                "tag": "p"
+            },
+            {
+                "content": "Safety first",
+                "tag": "h2"
+            },
+            {
+                "content": "The most common questions we get are about safety: what can and can't we put in? Are we allowed to use it on school servers? Staff just wanted to know they weren't breaking any rules.",
+                "tag": "p"
+            },
+            {
+                "content": "We worked with our trust safeguarding and SEND lead to make sure the reminders in his staff presentations were clear \u2013 this is what you can and can\u2019t do in terms of pupil data and intellectual property.",
+                "tag": "p"
+            },
+            {
+                "content": "Time well spent",
+                "tag": "h2"
+            },
+            {
+                "content": "The biggest challenge is finding the time to sit down and actually do it at the start. You've got to dedicate an hour or two to play around with AI tools and accept that you're not going to get a perfect answer straight away. That iteration and refinement is key \u2013 we want staff to leave knowing the first thing they put in isn't going to be the best answer they get.",
+                "tag": "p"
+            },
+            {
+                "content": "With curriculum reform coming and AI being laced throughout, I think everyone needs a baseline understanding. We're planning to roll this training out to all our schools that haven't had it yet, and I'm already using it in my feedback sessions with teachers, looking at how we incorporate teaching techniques such as atomisation into lessons.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "Access the Using AI in education settings support materials",
+                "tag": "p"
+            }
+        ],
+        "link": "https://teaching.blog.gov.uk/2026/03/16/how-im-using-ai-training-across-a-multi-academy-trust/",
+        "blog": "Teaching",
+        "blog_link": "https://teaching.blog.gov.uk",
+        "description": "Alan Stupple shares how he used the DfE's AI in education support materials to build staff confidence and deliver trust-wide CPD."
+    },
+    {
+        "title": "Valuing skills: how the government estimates the returns to education",
+        "authors": [
+            "Allan Little, RPC committee member"
+        ],
+        "posted_on": "2026-03-16T09:41:20",
+        "categories": [
+            "Education sector"
+        ],
+        "content": [
+            {
+                "content": "The Regulatory Policy Committee (RPC) exists to ensure that regulation promotes growth, is properly evidence-based, and does not harm investment or international competitiveness. ",
+                "tag": "p"
+            },
+            {
+                "content": "A regulatory environment that supports investment in human capital - people's education and skills - is just as important as one that supports physical capital. As the Education Secretary put it, skills are \"the cornerstone of our plans to get growth moving in every community.\"",
+                "tag": "p"
+            },
+            {
+                "content": "But the economic returns to education unfold slowly, vary enormously and can be harder to pin down than for bricks-and-mortar investments.",
+                "tag": "p"
+            },
+            {
+                "content": "This is the third blog in our series on how the government values important societal outcomes, following earlier pieces on health and carbon. ",
+                "tag": "p"
+            },
+            {
+                "content": "The UK can claim to be genuinely world-leading in education economics, and the stakes in this analysis are high for effective policy analysis.",
+                "tag": "p"
+            },
+            {
+                "content": "Breakthroughs using \u201cbig data\u201d",
+                "tag": "h2"
+            },
+            {
+                "content": "Until a few years ago, most estimates of education's value relied on sample surveys. Then came LEO - the Longitudinal Education Outcomes dataset. Developed by the Department for Education (DfE), it links education and employment records for 38 million people in England.",
+                "tag": "p"
+            },
+            {
+                "content": "LEO has been transformational in exploring the pathways within and after education, and how it shapes our life chances. It offers granular detail to explore different aspects of how lifetime earnings are associated with subjects studied, schools and colleges attended, grades attained and location.",
+                "tag": "p"
+            },
+            {
+                "content": "From pre-school to pay packets",
+                "tag": "h3"
+            },
+            {
+                "content": "Using LEO, the government has invested in economic research across the entire education system. Some highlights:",
+                "tag": "p"
+            },
+            {
+                "content": "University",
+                "tag": "h4"
+            },
+            {
+                "content": "The Institute for Fiscal Studies (IFS) reported a \u00a3110,000 lifetime return for undergraduate degrees, varying significantly by subject, institution and student background (IFS, 2020).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Secondary school",
+                "tag": "h4"
+            },
+            {
+                "content": "A one-grade improvement in GCSEs was associated with an increase in lifetime earnings of \u00a38,500, again varying by subject with the highest returns to Maths, \u00a314,500 (DfE, 2021).",
+                "tag": "p"
+            },
+            {
+                "content": "Primary school",
+                "tag": "h4"
+            },
+            {
+                "content": "An improvement of one standard deviation - a statistical measure of the spread of pupils' results around the average - in total Key Stage 2 English and maths attainment is associated with an increase in lifetime earnings of \u00a363,700 (DfE, 2025a).",
+                "tag": "p"
+            },
+            {
+                "content": "Attendance",
+                "tag": "h4"
+            },
+            {
+                "content": "On average, missing one day of secondary school is associated with \u00a3750 in lower lifetime earnings (DfE, 2025b). The Secretary of State for Education used this research when stating that recent improvements in school attendance could unlock over \u00a32 billion in future productivity (DfE, 2025c).",
+                "tag": "p"
+            },
+            {
+                "content": "DfE has also developed valuation approaches for further education and early years provision.",
+                "tag": "p"
+            },
+            {
+                "content": "What wages miss",
+                "tag": "h2"
+            },
+            {
+                "content": "Wage slips clearly don't tell the whole story when it comes to the value of education.",
+                "tag": "p"
+            },
+            {
+                "content": "For individuals, education is linked to better health, civic engagement, and life satisfaction. At a national level, it determines long-term GDP growth and future economic prospects (Hanushek and Woessmann, 2020). For society, education reduces crime and strengthens social cohesion (IFS, 2013).",
+                "tag": "p"
+            },
+            {
+                "content": "So, microeconomic estimates of lifetime earnings are considered to be the most reliable way to monetise the value of education for policy analysis, but the societal value of education stretches far beyond wages.",
+                "tag": "p"
+            },
+            {
+                "content": "Using yesterday's data for tomorrow's policy",
+                "tag": "h2"
+            },
+            {
+                "content": "There is one final note of caution.",
+                "tag": "p"
+            },
+            {
+                "content": "These valuations are based on historic data. But today's students will be working in the 2030s, 2040s and beyond - in labour markets reshaped by AI and other technological and cultural shifts that we cannot predict. The skills that commanded a premium in the past may not be the ones we need in the future.",
+                "tag": "p"
+            },
+            {
+                "content": "The best that any economist or policy maker can do is use evidence as a guide to the value of education, with appropriate humility about what we don\u2019t know.",
+                "tag": "p"
+            },
+            {
+                "content": "The evidence exists, let\u2019s use it well",
+                "tag": "h2"
+            },
+            {
+                "content": "To grow the economy, the regulatory environment needs to support investments in human capital, just as much as it does physical capital. The UK government has built genuinely world-leading data and research on the economic returns to education and skills.",
+                "tag": "p"
+            },
+            {
+                "content": "The RPC's recommendation is simple: departments should draw on this as well as all the other available evidence, wherever their policies affect educational outcomes. The toolkit exists. The more it's used, the better our regulatory decisions will be.",
+                "tag": "p"
+            },
+            {
+                "content": "The RPC would like to thank officials in the Department for Education for their input in developing this blog post.",
+                "tag": "p"
+            },
+            {
+                "content": "Leave us a comment below and\u00a0subscribe to the RPC\u2019s blog\u00a0to be notified when we post new articles.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://rpc.blog.gov.uk/2026/03/16/valuing-skills-how-the-government-estimates-the-returns-to-education/",
+        "blog": "Regulatory Policy Committee",
+        "blog_link": "https://rpc.blog.gov.uk",
+        "description": "A regulatory environment that supports investment in human capital - people's education and skills - is just as important as one that supports physical capital."
+    },
+    {
+        "title": "Welcoming Social Work Week 2026",
+        "authors": [
+            "Tricia Pereira"
+        ],
+        "posted_on": "2026-03-16T09:14:00",
+        "categories": [
+            "Care and support",
+            "Communities",
+            "Events",
+            "Our profession",
+            "Recognition",
+            "Viewpoint"
+        ],
+        "content": [
+            {
+                "content": "Harambee \u00a0\u201call pull together\u201d \u00a0feels like a homecoming theme for social work, the belief that people thrive when they are connected, when communities have the power to shape their own futures, and when support is built on trust, relationships and shared purpose, speaks to something deep in our professional history.\u00a0As we celebrate Social Work Week this week and mark World Social Work Day tomorrow, we think it\u2019s worth remembering that social work is often at its best when it is rooted in neighbourhoods and grounded in everyday life.",
+                "tag": "p"
+            },
+            {
+                "content": "Long before \u201cintegrated neighbourhood models\u201d became vogue social workers were walking estates, that was our experience, knocking on doors, spending time in community centres and faith spaces, and building the kinds of relationships that help people feel seen. Historically community social work in the 1970s, 80s and early 90's understood that belonging can be preventative and protective, that people draw strength from each other, and that local networks often have the solutions long before services do. Those traditions still matter now.\u00a0In fact, they are essential for neighbourhood health and wellbeing models.",
+                "tag": "p"
+            },
+            {
+                "content": "Neighbourhoods can and should be places of trust, where people make sense of their lives, their identity and their culture. However, this is also where inequalities show up most sharply. When we design neighbourhood models primarily through a clinical lens, we risk missing the people who are not already in the room.\u00a0Health can quietly erode for people who are isolated, living in poverty, juggling caring responsibilities, facing discrimination or are homeless.\u00a0A neighbourhood health and wellbeing model starts with prevention, connection and the social conditions that enable people to flourish and thrive. That means investing in the infrastructure that holds communities together and creates safe spaces, local groups, peer support, green spaces, and the relationships that help people feel they belong and can contribute.",
+                "tag": "p"
+            },
+            {
+                "content": "This is where social work and social care has a vital role. Our practice is relational by design, we listen, we connect, we notice what sits beneath the surface. Strengths-based practice is how we can honour people\u2019s stories, build on what is strong, and recognise interdependence as a source of resilience. In neighbourhood models, this becomes the glue that holds people together. Social workers can help bridge the gap between services and communities, ensuring that people\u2019s voices shape decisions and that support is co-produced.",
+                "tag": "p"
+            },
+            {
+                "content": "There are many examples of seeing this in action across the country. For example, Camden East is showing what becomes possible when health, social care, housing, the voluntary sector and local residents come together around a shared purpose. The model is grounded in local identity and built on the belief that people know their neighbourhood best. Social workers are part of multidisciplinary teams who understand the rhythms of the area, the pressures people face, and the assets that already exist. This approach is helping older people stay connected and independent, supporting disabled adults to navigate services more easily, and ensuring unpaid carers are recognised and not left to cope alone. It is also helping to spot inequalities earlier and respond in ways that are culturally informed and community led.",
+                "tag": "p"
+            },
+            {
+                "content": "Neighbourhood health and wellbeing is not just about services, it is about healing divisions. In a time of polarisation, social work has a unique role in bringing people together, creating spaces where differences can be shared safely, and building the trust that public services depend on. Harambee reminds us that unity is a practice that needs shared power and a commitment to working alongside communities rather than on their behalf.",
+                "tag": "p"
+            },
+            {
+                "content": "As we celebrate World Social Work Day tomorrow, Harambee invites us to return to our social work values and roots and for us to pull together, to build on the knowledge held in communities, and to shape neighbourhood health and wellbeing models that are relational, inclusive and grounded in belonging because social work has always known that people thrive when they are connected.",
+                "tag": "p"
+            },
+            {
+                "content": "To celebrate Social Work Week and World Social Work Day we will be publishing a blog per day this week. With a big thank you to all of our guest bloggers for their thoughtful pieces, here is the full list of blogs to come:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialworkwithadults.blog.gov.uk/2026/03/16/welcoming-social-work-week-2026/",
+        "blog": "Social work with adults",
+        "blog_link": "https://socialworkwithadults.blog.gov.uk",
+        "description": "Harambee \u00a0\u201call pull together\u201d \u00a0feels like a homecoming theme for social work, the belief that people thrive when they are connected, when communities have the power to shape their own futures, and when support is built on trust, relationships and \u2026"
+    },
+    {
+        "title": "Video: how to give better feedback on FMP consultations",
+        "authors": [
+            "FMP communications team"
+        ],
+        "posted_on": "2026-03-16T09:00:00",
+        "categories": [
+            "Public consultation"
+        ],
+        "content": [
+            {
+                "content": "As fisheries management plans (FMPs) are developed, we gather evidence, engage those with an interest and then run public consultations.",
+                "tag": "p"
+            },
+            {
+                "content": "The Regional Fisheries Groups (RFG) team at the Marine Management Organisation (MMO) has created a short video to help explain the consultation process.",
+                "tag": "p"
+            },
+            {
+                "content": "If you ever looked at a consultation and thought \u201cWhere do I start?\u201d- this video is for you.",
+                "tag": "p"
+            },
+            {
+                "content": "Well-informed consultation responses make a real difference and help us understand what will work in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "How to write an effective consultation response",
+                "tag": "h2"
+            },
+            {
+                "content": "For FMP consultations, many people read only the consultation document. This document is a summary and does not include all the information needed to respond fully.",
+                "tag": "p"
+            },
+            {
+                "content": "The detailed information - including the evidence, reasoning, options and impacts - is set out in the draft FMP and the Environmental Report.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting documents with further background can be found alongside it - including engagement reports and impact assessments.",
+                "tag": "p"
+            },
+            {
+                "content": "If you do not read the full documents, it is difficult to give meaningful feedback that can influence the final plan.",
+                "tag": "p"
+            },
+            {
+                "content": "This video shows:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25b6\ufe0f Watch: How to write an effective consultation response",
+                "tag": "p"
+            },
+            {
+                "content": "Stay connected",
+                "tag": "h2"
+            },
+            {
+                "content": "To receive FMP updates, subscribe to this blog.",
+                "tag": "p"
+            },
+            {
+                "content": "If you fish commercially or recreationally within the 12-nautical mile limit, you can subscribe to email updates from your local Regional Fisheries Group:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2026/03/16/video-how-to-give-better-feedback-on-fmp-consultations/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Start with the summary, but key detail is in the full FMP and papers. This MMO video shows how to write consultation responses that make a difference."
+    }
+]
