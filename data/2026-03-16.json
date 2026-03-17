@@ -1,5 +1,903 @@
 [
     {
+        "title": "Doing content-first design at Defra \u2013 part one",
+        "authors": [
+            "Laura Parker"
+        ],
+        "posted_on": "2026-03-17T12:24:53",
+        "categories": [
+            "Defra content design",
+            "Defra digital",
+            "Defra Forms",
+            "Digital transformation",
+            "Interaction design",
+            "User centred design"
+        ],
+        "content": [
+            {
+                "content": "In the first of a two-part post, content designer Laura Parker and senior interaction designer Daniel Da Silveira explain how and why they took a content-first approach to creating a form building tool.",
+                "tag": "p"
+            },
+            {
+                "content": "The Defra Forms team created the Defra Form Designer (DFD), a no-code form building tool that allows Defra staff to build and publish forms on GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "As we\u2019re a busy team, we were looking for ways to speed up the prototyping process for new features and minimise the number of iterations in development.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspired by a blog post on content-first design, we decided to give it a go.",
+                "tag": "p"
+            },
+            {
+                "content": "Defining content-first design",
+                "tag": "h2"
+            },
+            {
+                "content": "Emma Aldington, staff content designer at eBay said it best:",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0When content comes first, content designers can:",
+                "tag": "p"
+            },
+            {
+                "content": "Why we put words in boxes",
+                "tag": "h2"
+            },
+            {
+                "content": "It\u2019s tempting to start with a visual layout of an interface with placeholder text before knowing what the message is.",
+                "tag": "p"
+            },
+            {
+                "content": "You can spin up a wireframe easily without content using software like Mural and Figma. Even design systems, although we love them, dictate what the content will be sometimes.",
+                "tag": "p"
+            },
+            {
+                "content": "A wireframe is an acceptable design format but can provide the illusion of a finished product. No matter how carefully you explain to stakeholders that a wireframe is a prototyping tool people get attached to the thing you show them.",
+                "tag": "p"
+            },
+            {
+                "content": "Showing only content (like on a Word document) can be confusing or unexpected. People expect to see something that looks like a screen.",
+                "tag": "p"
+            },
+            {
+                "content": "And sometimes you need a visual design to get the ball rolling or conversation started.",
+                "tag": "p"
+            },
+            {
+                "content": "With prototyping tools at your disposal, it may feel like a waste of time focusing on content as a first step. But using only words helped our team to understand the purpose of each interaction.",
+                "tag": "p"
+            },
+            {
+                "content": "What changes when we do content-first design?",
+                "tag": "h2"
+            },
+            {
+                "content": "The content drives the user experience",
+                "tag": "h3"
+            },
+            {
+                "content": "We stop talking about \u2018what words go here\u2019 and talk about the purpose of content instead. When content leads, you design for understanding first by testing the message with users before designing the interface.",
+                "tag": "p"
+            },
+            {
+                "content": "Content designers get more strategic",
+                "tag": "h3"
+            },
+            {
+                "content": "We can make changes on a larger scale instead of jumping into a wireframe or prototype and searching for a specific component to edit. Information architecture, content audits and style guides get easier to manage if content is in one place like a Word document.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The old ways of working change",
+                "tag": "h3"
+            },
+            {
+                "content": "It opens the door to work differently. Instead of asking a content designer to update screens in Figma, the whole team can work on the content together agnostic of a design tool. People get to see the inner workings of the content design process. How we think, draft and edit our work.",
+                "tag": "p"
+            },
+            {
+                "content": "Sharing text with stakeholders outside the team is easier too (no login and permission restrictions).",
+                "tag": "p"
+            },
+            {
+                "content": "Choosing when to do content-first design",
+                "tag": "h2"
+            },
+            {
+                "content": "Make content-first design a priority if you are starting from scratch. See how far you can get without Figma or the prototype kit. You can create a prototype using MS Word alone.",
+                "tag": "p"
+            },
+            {
+                "content": "Show smaller bits of copy like emails, text messages or in-app messages to users in a Word document (outside of boxes), if you\u2019re not sure it will work for you.",
+                "tag": "p"
+            },
+            {
+                "content": "It might feel like it\u2019s too late to start doing content-first design if you\u2019re working on a mature service, but there will be opportunities to try it.For example, the page hierarchy and design for the Defra Form Designer was well established before we trialled a content-first design approach. But we made it work within these boundaries.",
+                "tag": "p"
+            },
+            {
+                "content": "Designing the content first helps interaction design",
+                "tag": "h2"
+            },
+            {
+                "content": "Content-first design does not replace interaction design. It\u2019s a way for teams to design work together and speed up the process.",
+                "tag": "p"
+            },
+            {
+                "content": "Content-first design helps interaction designers by:",
+                "tag": "p"
+            },
+            {
+                "content": "A process for doing content-first design",
+                "tag": "h2"
+            },
+            {
+                "content": "There are a few ways to do content-first design but here\u2019s a good start.",
+                "tag": "p"
+            },
+            {
+                "content": "Step 1: Start with a clear goal or problem you want to solve.",
+                "tag": "p"
+            },
+            {
+                "content": "Step 2: Prioritise content (consider using a priority guide or the step, goal, content method).",
+                "tag": "p"
+            },
+            {
+                "content": "Step 3: Organise a crit or co-design session. Agree the priority order before doing anything else.",
+                "tag": "p"
+            },
+            {
+                "content": "Step 4: Write the content as if you were speaking to someone about it (like a narrative or story). Try not to think about existing design or design system components at this stage. Each page should aim to answer 2 questions:",
+                "tag": "p"
+            },
+            {
+                "content": "Step 5: Organise a content crit and get feedback on the words only.",
+                "tag": "p"
+            },
+            {
+                "content": "Step 6: Do a first round of user research. It is possible to show Word documents to users.",
+                "tag": "p"
+            },
+            {
+                "content": "Step 7: Build the UI around the content. No more guessing about what components to use or how much space to leave.",
+                "tag": "p"
+            },
+            {
+                "content": "Step 8: Do a second round of user research with a more established design \u2013 see how it flows now it looks more like an online journey.",
+                "tag": "p"
+            },
+            {
+                "content": "In part two, Laura and Daniel will show how they implemented this approach for specific features in the form designer.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "Like what you\u2019ve read? Why not leave Laura and Daniel a comment sharing your thoughts on the Defra Form Designer.",
+                "tag": "p"
+            },
+            {
+                "content": "Check out our\u00a0LinkedIn page for all the latest news, stories and job openings. While you're there, why not give us a follow?",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2026/03/17/doing-content-first-design-at-defra-part-one/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "In the first of a two-part post, content designer Laura Parker and senior interaction designer Daniel da Silveira explain how and why they took a content-first approach to creating a form building tool."
+    },
+    {
+        "title": "Protecting homes,\u00a0businesses\u00a0and communities: our commitment to flood resilience\u00a0\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-03-17T12:17:35",
+        "categories": [
+            "Flood"
+        ],
+        "content": [
+            {
+                "content": "by Caroline Douglass, Exec Director of Flood and Coastal Risk Management\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Flooding is one of the most devastating experiences a community can face. The loss of a home, a business, or simply the sense of safety and security in the place you live leaves a mark that lasts long after the water has receded. We know that for many families and communities across England, that experience is not a distant memory \u2014 it is a very real and recurring fear.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That is why the work we do at the Environment Agency to protect communities from flooding matters so deeply.\u00a0\u00a0It is why we are proud to be delivering what is now the largest flood improvement programme on record.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Investing at a scale that makes a real difference\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This week,\u00a0we\u00a0have\u00a0confirmed\u00a0more than 600 flood schemes\u00a0will\u00a0receive\u00a0a share of\u00a0\u00a3830m in funding\u00a0to help better protect tens of thousands of homes and businesses this year.\u00a0This is part of a \u00a31.4 billion investment in flood defences in 2026/27.\u00a0This year's investment sits within an even bigger picture:\u00a0over\u00a0\u00a310.5 billion\u00a0is\u00a0being invested between 2024 and 2036\u00a0as part of the\u00a0long-term commitment to building a more resilient, climate-ready England. In addition to the \u00a3830\u00a0million\u00a0investment, more\u00a0than \u00a3260 million\u00a0will be\u00a0made available for managing,\u00a0maintaining\u00a0and repairing assets including\u00a0those\u00a0damaged\u00a0following Storms Goretti and\u202fChandra\u00a0because\u00a0we understand the\u00a0ongoing\u00a0benefit of\u00a0keeping existing defences in good\u00a0condition, so that they work reliably when they\u00a0are needed.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The scale of that investment reflects the scale of the challenge. The frequency of extreme weather events is increasing, driven by climate change, and the consequences for communities and the wider economy are severe.\u00a0\u00a0The National Flood Risk Assessment has\u00a0identified\u00a0over 6\u00a0million properties at risk, increasing to 8\u00a0million by 2100.\u00a0Flooding already costs the UK economy billions each year,\u00a0but for every \u00a31 invested in flood schemes, at least \u00a38\u00a0worth\u00a0of economic damage is avoided. This is not just about protection; it is about giving communities,\u00a0businesses\u00a0and local economies\u00a0the stable foundations they need to grow and thrive.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering where it matters most\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The 2026/27 allocation builds on work already well under way, with\u00a0projects\u00a0being funded this year spanning\u00a0the full breadth of what flood risk management looks like in practice; from major flood barriers and beach management projects to natural flood management schemes that work with the landscape to slow and absorb water.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Projects\u00a0are delivered\u00a0by\u00a0Environment Agency\u00a0and other Risk Management Authorities, reflecting the strength of the partnerships that sit at the heart of this work. By working alongside Regional Flood and Coastal Committees, local authorities, Internal Drainage Boards, Rivers Trusts, farmers and landowners, we are making sure investment reaches the communities that need it most.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today's announcement coincides with\u00a0yesterday\u2019s\u00a0Flood Resilience Taskforce meeting in Manchester, where recent winter storms,\u00a0including the significant flooding experienced across the\u00a0South West\u00a0was\u00a0discussed, along with what more can be done to protect homes and businesses across the country.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Being honest about the challenge ahead\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We want to be\u00a0clear\u00a0with\u00a0communities, because\u00a0they deserve nothing less. Today's announcement\u00a0is positive but there is always the expectation that we\u00a0will\u00a0do more. For many places, it provides the certainty needed to complete schemes that communities have long planned and prepared for. But for others, funding gaps\u00a0remain, and schemes that local people have been hoping to see progress will not move forward this year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The demand for flood investment consistently outstrips the funding available. The decisions about which projects receive funding are made through a rigorous process, overseen by Regional Flood and Coastal Committees and the Environment Agency Board.\u00a0\u00a0The flood funding policy announced in October was\u00a0designed to prioritise schemes already under construction and those closest to completion.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To the communities not seeing their scheme progress this year: we have not forgotten you. Our teams across England are committed to working with local partners to keep plans moving forward, to explore every available funding route, and to be open and honest about timescales and next steps.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A programme built for the long term\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The government's \u00a310.5 billion commitment provides the foundation to plan, build and deliver flood resilience at a scale that genuinely changes the picture for communities across England. The Environment Agency will continue to use every tool available from investment to natural flood management to community engagement to reduce flood risk and help people feel safer in their homes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are proud of what our teams and partners achieve every day. The 2026/27 programme is the latest chapter in that story, and we look forward to sharing the milestones and achievements it will deliver in the months ahead.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/03/17/protecting-homes-businesses-and-communities-our-commitment-to-flood-resilience/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Flooding is one of the most devastating experiences a community can face. The loss of a home, a business, or simply the sense of safety and security in the place you live leaves a mark that lasts long after the water has receded."
+    },
+    {
+        "title": "World Social Work Week 2026",
+        "authors": [
+            "Isabelle Trowler"
+        ],
+        "posted_on": "2026-03-17T11:00:37",
+        "categories": [
+            "Leadership",
+            "Social Work",
+            "Working in children's social care"
+        ],
+        "content": [
+            {
+                "content": "It continues to be a really exciting time to work in children\u2019s social care (CSC). The last twelve months have seen us make huge strides in delivering the vision set out in the Keeping children safe, helping families thrive paper. We\u2019ve secured a significant amount of new investment to reform children\u2019s social care; our bill is moving through parliament, and subject to Royal Assent, will enshrine reforms in legislation.",
+                "tag": "p"
+            },
+            {
+                "content": "Revised CSC National Framework and Working Together to Safeguard Children",
+                "tag": "h2"
+            },
+            {
+                "content": "This spring, the government will publish a revised CSC National Framework and a targeted update of Working Together to Safeguard Children. These two documents are the cornerstone of the work we do every day with children and families, so it was important to bring them closer to our current vision for practice.",
+                "tag": "p"
+            },
+            {
+                "content": "The revised CSC National Framework continues to encourage everyone involved in children\u2019s social care to hold high aspirations for children, and to focus on improving outcomes for children, young people, and families. We\u2019ve brought together all the expectations on listening to the voices of children, young people, and families to reflect the importance of practice being child-centred, and we\u2019ve also updated the purpose of children\u2019s social care to reflect the reforms we are making to shift the system towards earlier intervention, focusing on the right support at the right time. \u00a0If you\u2019d like to learn more about the revised CSC National Framework, do sign up to the webinars which the Department for Education will host on Monday 20 April and Thursday 30 April. Aimed at senior leaders and practice supervisors \u2013 but open to all practitioners \u2013 the sessions will provide an opportunity to deepen your understanding of the updates and ask questions. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The 2026 update to Working Together to Safeguard Children will aim to strengthen how we protect all children. This includes learning from serious safeguarding cases, tackling discrimination in safeguarding practices, improving responses to child sexual abuse and domestic abuse, and supporting children who are looked after.",
+                "tag": "p"
+            },
+            {
+                "content": "Both documents will be published soon. Please do take the time to read them and reflect on how you can continue to use them to shape practice in your local authority.",
+                "tag": "p"
+            },
+            {
+                "content": "Ofsted reforms to children's services inspection",
+                "tag": "h2"
+            },
+            {
+                "content": "Soon, we will also see changes from Ofsted on how they inspect local authority children\u2019s services in recognition that inspection must keep pace with plans for reform. Ofsted is taking a two-phase approach to reforming the ILACS framework, with initial changes in 2026 to ensure inspection is aligned with the National Framework, the Families First Partnership guide, and Working Together to Safeguard Children statutory guidance, alongside removing the single overall effectiveness judgement. This change will be key in bringing the values of the sector together, ensuring we are all working towards the same goals and setting national direction for practice.",
+                "tag": "p"
+            },
+            {
+                "content": "New post-qualification and early career standards for social workers",
+                "tag": "h2"
+            },
+            {
+                "content": "We are also making important changes to the standards we should all be working towards a profession. Last month, the government published its response to the consultation on post-qualification standards, and alongside it, the new early career standards for child and family social works. These are not just document, they represent a shared vision for the future of social work.",
+                "tag": "p"
+            },
+            {
+                "content": "These changes are about building a system that gives every social worker the confidence, skills, and support to do what matters most - helping children grow up safe, loved, and thriving. This should be at the heart of everything we do. I urge you to read the response and the new standards before they come into place next year. Understand what they mean for your organisation and for the future of early career development.",
+                "tag": "p"
+            },
+            {
+                "content": "Building a national professional development offer for the social work workforce",
+                "tag": "h2"
+            },
+            {
+                "content": "These standards form part of ongoing work the department is doing to support and develop our workforce. They will be the foundation of a wider career development system, known as the social worker national professional development offer. \u00a0This includes a new training programme and standards for Lead Child Protection Practitioners, and a new leadership development offer.",
+                "tag": "p"
+            },
+            {
+                "content": "There\u2019s a lot of important work happening at a local and national level, and there is a lot of momentum for us to seize. I am excited to keep working with you, and thank you as always for the work you do every day to support children and families.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://childrenssocialcare.blog.gov.uk/2026/03/17/childrens-social-care-world-social-work-week-2026/",
+        "blog": "Children\u2019s social care",
+        "blog_link": "https://childrenssocialcare.blog.gov.uk",
+        "description": "This World Social Work Week, we reflect on a year of significant progress in reforming children's social care \u2014 and look ahead to the changes still to come for practitioners, leaders, and the families we serve."
+    },
+    {
+        "title": "FETF 2026: apply now for equipment and technology grants",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-03-17T10:31:48",
+        "categories": [
+            "Payments for equipment, technology and infrastructure"
+        ],
+        "content": [
+            {
+                "content": "You can now apply for a Farming Equipment and Technology Fund (FETF) 2026 grant to help invest in equipment and technology for your business.",
+                "tag": "p"
+            },
+            {
+                "content": "The fund supports farmers, growers, foresters and contractors to buy equipment and technology that improves productivity, animal health and welfare, and slurry management.",
+                "tag": "p"
+            },
+            {
+                "content": "This year, \u00a350 million is available across 3 themes:",
+                "tag": "p"
+            },
+            {
+                "content": "You can apply for grants between \u00a31,000 and \u00a325,000 per theme, with a maximum of \u00a375,000 available if you apply across all 3 themes.",
+                "tag": "p"
+            },
+            {
+                "content": "The application window is open for 6 weeks and will close at midday on 28 April 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re planning to invest in equipment or technology for your business this year, now is the time to apply.",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0FETF 2026 guidance is available on GOV.UK. It includes details on eligibility, how to apply, and links to the lists of items under each theme. ",
+                "tag": "p"
+            },
+            {
+                "content": "This will be the final standalone round of FETF in its current form. From 2027, we plan to build on what has worked well across our grant schemes by bringing the strongest elements together, simplifying the application process and making it easier for farmers to access funding.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more",
+                "tag": "h2"
+            },
+            {
+                "content": "We recently hosted a webinar for prospective applicants to learn more about FETF.",
+                "tag": "p"
+            },
+            {
+                "content": "The Rural Payments Agency (RPA) also produced a series of videos on how to apply.",
+                "tag": "p"
+            },
+            {
+                "content": "Making a difference: farm stories",
+                "tag": "h2"
+            },
+            {
+                "content": "Reducing reliance on artificial fertiliser",
+                "tag": "h3"
+            },
+            {
+                "content": "Devon-based dairy farm Aplins Farm Ltd successfully applied for 2 pieces of equipment:",
+                "tag": "p"
+            },
+            {
+                "content": "These investments have significantly improved the farm\u2019s slurry management. The chopper pump ensures slurry is ready to apply and helps prevent blockages, making application easier while maximising its value as a nutrient source and reducing reliance on artificial fertiliser.",
+                "tag": "p"
+            },
+            {
+                "content": "The equipment also helps protect soil structure by eliminating the need for heavy tankers to travel across fields. In addition, it saves time by removing the need for repeated trips to refill a tanker.",
+                "tag": "p"
+            },
+            {
+                "content": "Boosting crop yields",
+                "tag": "h3"
+            },
+            {
+                "content": "North Yorkshire cereals farm E C & S J Alton secured FETF funding to invest in two pieces of equipment designed to improve how they manage irrigation.",
+                "tag": "p"
+            },
+            {
+                "content": "They installed an irrigation sensor to monitor soil moisture levels, helping them see exactly when crops need watering. They also bought an irrigation controller for their rain guns, which automates watering schedules and ensures the right amount of water is applied at the correct pressure and time.",
+                "tag": "p"
+            },
+            {
+                "content": "Together, this equipment helps the farm make more informed decisions about when and how much to irrigate. ",
+                "tag": "p"
+            },
+            {
+                "content": "By targeting water use more precisely, the system reduces unnecessary watering while supporting crop growth, helping the farm use water more efficiently and manage costs.",
+                "tag": "p"
+            },
+            {
+                "content": "Improving flock health",
+                "tag": "h3"
+            },
+            {
+                "content": "Shropshire-based livestock farm N L Pugh and Co secured funding last year to improve their sheep management and animal welfare.",
+                "tag": "p"
+            },
+            {
+                "content": "With FETF funding, the farm bought 3 pieces of equipment:",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these investments have improved both flock management and farm efficiency.",
+                "tag": "p"
+            },
+            {
+                "content": "By ensuring each sheep receives the correct dose of treatment based on its actual weight, the system reduces medicine waste while helping make sure animals receive the right level of treatment.",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the Farming Blog",
+                "tag": "h2"
+            },
+            {
+                "content": "If you want to stay in the loop on future schemes and support, subscribe to the Farming Blog. You'll receive an email notification as soon as we publish a new post.",
+                "tag": "p"
+            },
+            {
+                "content": " If you\u2019ve received an FETF grant before, we\u2019d love to hear how it\u2019s helped you. Just drop a comment below.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/03/17/fetf-2026-apply-now-for-equipment-and-technology-grants/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Applications are open for FETF 2026, with \u00a350 million available to help farmers, growers and contractors invest in equipment that improves productivity, animal health and welfare, and slurry management."
+    },
+    {
+        "title": "How data analysis supports better decision-making in the public sector",
+        "authors": [
+            "Olviya Silvary, Fast Stream Data Analyst"
+        ],
+        "posted_on": "2026-03-17T10:15:48",
+        "categories": [
+            "Professions"
+        ],
+        "content": [
+            {
+                "content": "Olviya Silvary",
+                "tag": "h3"
+            },
+            {
+                "content": "What do data analysis teams do?",
+                "tag": "h2"
+            },
+            {
+                "content": "The data analysis team is part of the Digital, Data and Technology profession within the Department for Business and Trade (DBT). As a data enabling team we serve the whole department, and our objectives are to:",
+                "tag": "p"
+            },
+            {
+                "content": "The team objectives align with the role of a data analyst.",
+                "tag": "p"
+            },
+            {
+                "content": "My insights into data analysis in government",
+                "tag": "h2"
+            },
+            {
+                "content": "I recently joined the team as a fast streamer, and the last 5 months have revealed just how much work data analysts do across the department. I have worked on a wide range of tasks, from engaging with support tickets to updating a dashboard for our service. I\u2019ve even had opportunities outside of our usual work, such as analysing research for an automated method of sentiment analysis.",
+                "tag": "p"
+            },
+            {
+                "content": "I have noticed that when people don\u2019t fully understand what data analysis teams do, they don\u2019t make full use of their data. The challenge for us is to spread the word about data analysts' work and the benefit it brings to teams, so we can help teams to work at their best.",
+                "tag": "p"
+            },
+            {
+                "content": "Impacts of data analysis",
+                "tag": "h2"
+            },
+            {
+                "content": "Data analysts are involved in a wide range of work. The core of our profession is supporting organisational objectives by manipulating and communicating data. Below are 3 recent or ongoing examples of data analysis impact across DBT.",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside our regular work and projects, we run a support system for users working with Data Workspace. This service enables safe data sharing, collaboration and storage.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting major departmental change",
+                "tag": "h3"
+            },
+            {
+                "content": "Data analysis played a central role in DBT\u2019s Windows 11 rollout. Data about thousands of staff devices was stored in different places, recorded manually and often inconsistent. The project team needed reliable information to plan and deliver a smooth national laptop replacement programme.",
+                "tag": "p"
+            },
+            {
+                "content": "Data analysts cleaned and verified the data, matched every user to their nearest office, and built dashboards to track weekly progress. They also analysed device performance to identify which laptops genuinely needed replacing. This work turned an unwieldy dataset into actionable insight, making it possible to schedule replacements accurately and spot risks early.",
+                "tag": "p"
+            },
+            {
+                "content": "To deliver personalised guidance to thousands of staff without exposing irrelevant data, the team created a dashboard that filtered data for each user. This work supported a smooth transition from Windows 10 to 11 across DBT by This removed the burden of manual effort from the project team in communicating information to people in the department.",
+                "tag": "p"
+            },
+            {
+                "content": "Upskilling across the department",
+                "tag": "h3"
+            },
+            {
+                "content": "As an enabling team, we also help others to do data analysis tasks independently. We provide training resources and run live bootcamps on SQL and dashboarding tools. As a result, people across DBT now solve their own data challenges, create dashboards, and make faster, more confident decisions. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improving decision making with automated monitoring",
+                "tag": "h3"
+            },
+            {
+                "content": "The Economic Shocks team monitors events that have negative impacts on industries, local economies and supply chains. Their existing monitoring process required piecing together data manually, which made it hard to get a quick, accurate view of where vulnerabilities were emerging.",
+                "tag": "p"
+            },
+            {
+                "content": "Our analysts created a dashboard to improve monitoring business and sector vulnerabilities, creating a score for the economic shocks team to better assess priorities. Data and evidence were pulled together into one central source, which could be deployed in times of cross-sectoral shocks. With this work, we enabled the team to better analyse any vulnerabilities and improved their ability to respond to economic shocks.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting more value from your data",
+                "tag": "h2"
+            },
+            {
+                "content": "Hopefully, this has prompted you to think about your data. Perhaps you have data scattered across 6 different sheets rather than in one secure location. You may have all the data in front of you but find there\u2019s little value because you\u2019re unsure what you\u2019re looking at. Even if you have visualised the data, it may not tell you the right story.",
+                "tag": "p"
+            },
+            {
+                "content": "Good data analysis begins with understanding your data. That\u2019s where a data analyst can come in. They can support you if you know what you need to get from your data but you\u2019re not sure how to do it. Even if you know you need something from your data, but not what it is, data analysts can help you figure that out.",
+                "tag": "p"
+            },
+            {
+                "content": "A data analysis team can help you consider the ways you currently handle data and how you can:",
+                "tag": "p"
+            },
+            {
+                "content": "How teams can work with data analysts",
+                "tag": "h2"
+            },
+            {
+                "content": "As a DBT enabling team, we work with a lot of product and policy teams on developing a system for their data, whether that\u2019s storing, analysing or communicating it. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sometimes a team might need a more technical solution. For example, their data isn\u2019t internal or doesn\u2019t have a simple structure. Data engineers within Digital, Data and Technology, can set up the right data infrastructure if a no-code platform does not meet a policy team requirement. Data analysts will then step in to carry out the analytics work.",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "If you are thinking about using your data more after reading this blog, your data analysis team is going to be your most valuable resource.",
+                "tag": "p"
+            },
+            {
+                "content": "We don\u2019t just do the analysis. We examine the data from its source and connect you to the right teams for each part of your data journey.",
+                "tag": "p"
+            },
+            {
+                "content": "We are also keen to learn from others. If you\u2019re a data analyst or someone in government who has seen the impact of good data analysis, we\u2019d love to hear your experiences in the comments. Your insights can influence future practice and inspire more teams to use their data with confidence.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/03/17/how-data-analysis-supports-better-decision-making-in-the-public-sector/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "Read how data analysts can help your team store, understand and share your data."
+    },
+    {
+        "title": "Healthy Outdoors: Strengthening the Evidence for Nature\u00a0Based Health Interventions\u00a0",
+        "authors": [
+            "Dave Bell"
+        ],
+        "posted_on": "2026-03-17T10:03:00",
+        "categories": [
+            "Connecting People with Nature",
+            "Environmental Improvement Plan",
+            "Mental health and wellbeing",
+            "Natural England",
+            "Nature",
+            "Parks, trails and nature reserves",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Dave Bell,\u00a0Principal Officer: Health & the Environment, Natural England\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As studies continue to show the profound benefits of nature and outdoor activity for public health, the\u00a0Healthy Outdoors\u00a0guide has been created to address a critical evidence gap: the need for consistent, comparable evaluation of outdoor interventions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In recent years, the UK\u2019s major health and environmental strategies have increasingly recognised something communities have long understood\u00a0-\u00a0access to nature is essential for good health. From local parks and woodlands to rivers, canals and coastlines, the evidence is growing that regular contact with green and blue spaces supports both physical and mental wellbeing.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is a\u00a0major\u00a0theme of\u00a0Natural England\u2019s new strategy,\u00a0Recovering Nature for Growth, Health and Security. It\u00a0prioritises\u00a0improving health and wellbeing as a core outcome and commits to building nature into everyday life so people can access and benefit from it wherever they live.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This shift reflects not only mounting research on the health benefits of nature, but also a broader understanding of the wider determinants of health\u00a0-\u00a0factors such as environment,\u00a0housing,\u00a0education\u00a0and social connection that shape long-term\u00a0health\u00a0outcomes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Government\u2019s 10 Year Health Plan for England: Fit for the Future emphasises the critical role that prevention and community based approaches need to have to address the root causes of ill health. Nature-based approaches and outdoor activities provide low cost, high impact opportunities to improve population health, build resilience and reduce pressure on the NHS.",
+                "tag": "p"
+            },
+            {
+                "content": "Despite\u00a0this widespread recognition\u00a0of the\u00a0health benefits\u00a0of\u00a0outdoor interventions, the evidence base\u00a0is\u00a0limited by inconsistent\u00a0measurement of health outcomes.\u00a0Different programmes measure outcomes in\u00a0different ways, making it difficult to\u00a0determine\u00a0which approaches are most effective, for whom and under what circumstances.\u00a0The presence and complexity of multiple metrics for health also make effective evaluation challenging for many community groups and those not embedded in health evaluation practices. ",
+                "tag": "p"
+            },
+            {
+                "content": "This slows progress and limits the ability of policymakers, funders and practitioners to invest confidently in interventions that could significantly improve community health and reduce health inequalities.",
+                "tag": "p"
+            },
+            {
+                "content": "To address this challenge, the 2025 Environmental Improvement Plan includes a landmark commitment to develop a Standard Evaluation Framework for assessing the health impacts of outdoor interventions. Today, we\u2019re delighted to publish Healthy Outdoors: A guide for measuring health outcomes when evaluating outdoor interventions.",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0Healthy Outdoors\u00a0guide\u00a0is a practical tool designed for a range of organisations including government, the voluntary and community sector, the NHS, academia, evaluators, funders, and the private sector. It helps organisations to identify\u00a0appropriate measures\u00a0and principles that can help ensure evaluations are consistent, robust, and focused on health outcomes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether supporting a Green social prescribing project, managing a community greenspace, designing Active Travel\u00a0interventions\u00a0or delivering physical activity programmes, users of the guide will be able to apply a shared approach to measuring health outcomes that strengthens evidence and reflects UK health priorities.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To\u00a0develop\u00a0this\u00a0resource,\u00a0Natural England has\u00a0worked in partnership with cross\u00a0government\u00a0partners from the Office for Health Improvement and Disparities, the Department for Environment, Food and Rural Affairs, Sport England, Active Travel England and the Department for Culture,\u00a0Media\u00a0and Sport. A wider stakeholder advisory group has also contributed valuable insight from the public health, environmental, voluntary and community sectors.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Join our launch\u00a0webinar\u00a0on 15 April 2026, 10:00-11:00. Register here:\u00a0Healthy Outdoors Webinar \u2013 15 April, 10-11am\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will be hosting a free\u00a0webinar\u00a0to introduce the Healthy Outdoors guide and walk through how organisations can use it to strengthen the way they measure health and wellbeing outcomes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Read the full report here:\u00a0Healthy Outdoors: A guide for measuring health outcomes when evaluating outdoor interventions - NECR725\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any questions, please email our team at\u00a0Evaluation@naturalengland.org.uk\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/03/17/healthy-outdoors-strengthening-the-evidence-for-nature-based-health-interventions/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Dave Bell,\u00a0Principal Officer: Health & the Environment, Natural England\u00a0 As studies continue to show the profound benefits of nature and outdoor activity for public health, the\u00a0Healthy Outdoors\u00a0guide has been created to address a critical evidence gap: the need for \u2026"
+    },
+    {
+        "title": "Transforming local land charges migrations\u00a0with AI",
+        "authors": [
+            "Ibad Kureshi, Lead Data Scientist"
+        ],
+        "posted_on": "2026-03-17T09:06:22",
+        "categories": [
+            "Data",
+            "Local Land Charges"
+        ],
+        "content": [
+            {
+                "content": "The development of an AI (artificial intelligence) tool by HM Land Registry's Local Land Charges Programme is dramatically accelerating and enhancing the migration of local authority local land charges records.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge",
+                "tag": "h2"
+            },
+            {
+                "content": "Local authorities across England and Wales hold millions of local land charges records in electronic, paper and other formats. Before this information can be migrated to the central Local Land Charges (LLC) Register, every line of data must be reviewed, checked for accuracy and digitised. It\u2019s time-consuming work that requires large teams and months of effort. But the development of an innovative AI tool promises to change that.",
+                "tag": "p"
+            },
+            {
+                "content": "How AI is helping",
+                "tag": "h2"
+            },
+            {
+                "content": "Developed by HM Land Registry\u2019s Data Science team, our cutting-edge AI tool is transforming how the LLC Programme processes millions of pages of historical local authority data. The AI tool can identify, extract, and structure LLC information faster and more accurately than manual efforts. Using this tool will significantly speed up future LA migrations to our national LLC Register.",
+                "tag": "p"
+            },
+            {
+                "content": "The London Borough of Newham was the first local authority to have its textual LLC information processed by AI and pass all data quality checks.",
+                "tag": "p"
+            },
+            {
+                "content": "Initially, the LLC Programme estimated it would take 20 Data Transformation Team colleagues three months to capture Newham\u2019s data. AI completed the task in four weeks with just four people.",
+                "tag": "p"
+            },
+            {
+                "content": "Proven results",
+                "tag": "h2"
+            },
+            {
+                "content": "Quality fails requiring data re-capture are the most expensive and time-consuming tasks within data transformation, adding weeks to a schedule. Our new AI tool has proven it can eliminate these errors. Every batch of Newham\u2019s data successfully passed the data quality assessments first time. Maintaining these rigorous quality standards is critical to ensure customers get the accurate information they expect.",
+                "tag": "p"
+            },
+            {
+                "content": "The journey",
+                "tag": "h2"
+            },
+            {
+                "content": "The development of the new AI tool has taken more than five years of agile working to reach this point. Early AI iterations required a bespoke code for each local authority, running on physical workstations, built to suit each local authority\u2019s requirements. Now the Data Science team has created a more robust, reusable system that operates within HM Land Registry\u2019s secure cloud infrastructure.",
+                "tag": "p"
+            },
+            {
+                "content": "The AI tool\u2019s reliable extraction of data means typographical errors such as the letter O becoming zero, or the letter I becoming one are a thing of the past. The sophisticated system combines an enhanced Optical Character Recognition engine, a large language model and several bespoke models to enhance accuracy. Strict controls prevent the generation of false information or rogue data like menus becoming part of the dataset, helping to safeguard the integrity of the LLC Register.",
+                "tag": "p"
+            },
+            {
+                "content": "Only one team member is needed to process the data, before it\u2019s cross-checked by the LLC Data Quality and Assurance team. To date there have been no quality or data completeness failures.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "h2"
+            },
+            {
+                "content": "Following Newham\u2019s success, we have also used our new AI tool with Dacorum Borough Council and Cotswold District Council. The Data Science team has identified other local authorities with similar datasets so they can rerun the tool and continue to enhance its capability such as looking at solutions for handwritten documents and poorly scanned records which can be challenging to digitise.",
+                "tag": "p"
+            },
+            {
+                "content": "The future of AI within HM Land Registry",
+                "tag": "h2"
+            },
+            {
+                "content": "We welcome your comments about this blog in the comments below. Please note that we are unable to discuss individual cases through the comments section and would request that all such queries be directed to our\u00a0Contact Us web form\u00a0where you will receive a response as soon as possible.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://hmlandregistry.blog.gov.uk/2026/03/17/transforming-local-land-charges-migrations-with-ai/",
+        "blog": "HM Land Registry",
+        "blog_link": "https://hmlandregistry.blog.gov.uk",
+        "description": "The development of an AI (artificial intelligence) tool by HM Land Registry's Local Land Charges Programme is dramatically accelerating and enhancing the migration of local authority local land charges records."
+    },
+    {
+        "title": "Co-building hope and harmony: a Harambee call to unite a divided society",
+        "authors": [
+            "Colleen Simon"
+        ],
+        "posted_on": "2026-03-17T08:17:05",
+        "categories": [
+            "Care and support",
+            "Events",
+            "Our profession",
+            "Recognition",
+            "Viewpoint"
+        ],
+        "content": [
+            {
+                "content": "The theme for World Social\u00a0Work Day\u00a02026 is\u00a0Co-building hope and harmony: a\u00a0Harambee call to unite a divided society.\u00a0In\u00a0this blog,\u00a0the\u00a0Adults Principal Social Worker Network\u202fChair team share their reflections on\u00a0this theme.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Lucy Rush",
+                "tag": "h2"
+            },
+            {
+                "content": "The 2026 World Social Work Day theme, \u2018Co\u2011building hope and harmony: a Harambee call to unite a divided society\u2019, beautifully captures for me what lies at the heart of our profession. Harambee or \u2018pulling together\u2019 is more than a philosophy; it is an active commitment to collective strength, solidarity, and shared purpose. As social workers, we understand that in a world shaped by polarisation, inequality, and growing fragmentation, our greatest tool is our ability to bring people together.",
+                "tag": "p"
+            },
+            {
+                "content": "For me, Harambee speaks directly to the values that guide my practice and leadership. Throughout my career, I have seen that meaningful change happens when we create safe and inclusive spaces for people to feel they are valued and belong. Where colleagues feel supported, where individuals and carers feel seen and heard, and where communities are empowered and included to shape their own futures and lives.",
+                "tag": "p"
+            },
+            {
+                "content": "Great practice and leadership in social work is never about standing apart; it is about standing alongside, instilling hope by modelling humanity, professional curiosity, humility, and courage.",
+                "tag": "p"
+            },
+            {
+                "content": "In a world that can feel increasingly divided, I hold on to my belief that belonging, love and hope are the things we build together, through professional curiosity, compassion, and a commitment to dignity, fairness and justice. Harambee reminds us that none of us can do this alone. But together, we are unbreakable.",
+                "tag": "p"
+            },
+            {
+                "content": "Colleen Simon",
+                "tag": "h2"
+            },
+            {
+                "content": "Harambee aligns deeply with social work's core values of dignity, justice, and anti\u2011discriminatory practice. It reminds us that when collective strength grows across all communities and systems, then every voice can be heard and honoured, especially those pushed to the margins. Belonging means being seen and accepted without condition. Connection means recognising our shared humanity even when perspectives differ. Love becomes a practice of showing up for one another and community is the space where these values take root and becomes the lived experience for everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "In today\u2019s climate of polarisation, inequality, and social fragmentation. In hostile times, choosing connection over division becomes an act of resistance. Instilling hope starts with small, consistent acts of listening without judgement, dismantling discriminatory systemic narratives, and creating spaces where people feel safe to be themselves. When we pull together, we model the world we\u2019re trying to build - one where everyone has a place, and no one is left behind.",
+                "tag": "p"
+            },
+            {
+                "content": "Seanna Lassetter",
+                "tag": "h2"
+            },
+            {
+                "content": "Social work is, at its heart, about people pulling together. It is about belonging \u2013 knowing that you matter, that your voice is heard, and that you are not alone.",
+                "tag": "p"
+            },
+            {
+                "content": "Every day, social workers stand alongside individuals, families and communities, recognising that none of us thrives in isolation. We are interdependent, shaped and strengthened by our relationships with one another.",
+                "tag": "p"
+            },
+            {
+                "content": "In a world that can feel fractured and uncertain, social work is an act of love. Love shown through advocacy, persistence, compassion and belief in human potential, even in the most challenging circumstances. It is love that builds trust, restores dignity and creates space for hope to grow.",
+                "tag": "p"
+            },
+            {
+                "content": "This World Social Work Day and throughout Social Work Week, let us pause to recognise our collective strength and commit to reaching out, supporting one another, and continuing to lead social work practice that is hopeful and connects communities together.",
+                "tag": "p"
+            },
+            {
+                "content": "Fran Marshall",
+                "tag": "h2"
+            },
+            {
+                "content": "World Social Day and Social Work Week is a brilliant moment to stop, breathe, and recognise the incredible work happening across adult social care. So much of what we do isn\u2019t loud or visible, but it changes lives every day and that is something to celebrate.",
+                "tag": "p"
+            },
+            {
+                "content": "A big part of our practice has always been about social justice and advocating for people and communities. Every day, we stand alongside people who face barriers, discrimination, or disadvantage, and we work to make sure their voices are heard and their rights respected. Whether we\u2019re challenging unfair systems, advocating for better opportunities, or helping someone navigate a moment of crisis, we\u2019re pushing for a fairer and more inclusive society.",
+                "tag": "p"
+            },
+            {
+                "content": "Vanna Changlee",
+                "tag": "h2"
+            },
+            {
+                "content": "The theme for World Social Work Day 2026 speaks powerfully to the connections within the PSW Network. As a diverse and rich group reaching across the country, we hold a shared identity that connects us, strengthens us, and enables us - individually and collectively - to voice and lead on issues that shape our practice and impact on the communities we work with and within. PSWs transcend boundaries, forging relationships that support reflection, collaboration, and action across systems.",
+                "tag": "p"
+            },
+            {
+                "content": "We need to continue to be a dynamic network of skilled, talented and dedicated people able to focus on what matters and be a driving force for change. With the current Chairs of the national network ending their two-year term in July 2026, this is the time to come forward to sustain our influence, and safekeep a network that respects and values difference, as the responsibility for change is on all of us.",
+                "tag": "p"
+            },
+            {
+                "content": "From the whole Chair team, thank you for the compassion, honesty, and energy you bring to this work, not just this week but every day and the positive impact you have in our communities",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialworkwithadults.blog.gov.uk/2026/03/17/co-building-hope-and-harmony-a-harambee-call-to-unite-a-divided-society/",
+        "blog": "Social work with adults",
+        "blog_link": "https://socialworkwithadults.blog.gov.uk",
+        "description": "The theme for World Social\u00a0Work Day\u00a02026 is\u00a0Co-building hope and harmony: a\u00a0Harambee call to unite a divided society.\u00a0In\u00a0this blog,\u00a0the\u00a0Adults Principal Social Worker Network\u202fChair team share their reflections on\u00a0this theme.\u00a0\u00a0 Lucy Rush The 2026 World Social Work Day theme, \u2018Co\u2011building hope and \u2026"
+    },
+    {
         "title": "New guidance to support long-term farm business tenancies",
         "authors": [
             "The Team"
