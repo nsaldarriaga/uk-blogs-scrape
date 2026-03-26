@@ -1,5 +1,1380 @@
 [
     {
+        "title": "Misleading reporting of Spectrum Building resident payouts",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-03-26T16:30:59",
+        "categories": [
+            "Building safety"
+        ],
+        "content": [
+            {
+                "content": "There has been inaccurate media reporting suggesting former residents of Spectrum Building in Dagenham are being made to pay for the building\u2019s fire safety works. This is not true.",
+                "tag": "p"
+            },
+            {
+                "content": "Since the fire in August 2024, the building\u2019s freeholder has gone into administration. The administrators at Spectrum are now in control of the money, including insurance proceeds. It is the administrator's responsibility to pay these funds out to former residents to cover for losses and damages caused by the fire. We have been clear with the administrator that this must be done urgently.",
+                "tag": "p"
+            },
+            {
+                "content": "Through our Building Safety Fund, we granted \u00a35.9m for remediation at the Spectrum building, which was still taking place at the time of the fire in August 2024. The full funding was approved in July 2023, and works started on site in December 2023.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of the legal process in formally closing the Building Safety Fund project, and in line with our duty to manage public money, the Greater London Authority has informed the administrators of our interest as a potential creditor in the administration. This is a technical, procedural step which is standard practice in insolvency law.",
+                "tag": "p"
+            },
+            {
+                "content": "Our position as a creditor will have no impact on the money that residents are owed. The only situation in which the government would be due any funds would be if there is money left over after residents have been fully compensated.",
+                "tag": "p"
+            },
+            {
+                "content": "Our continued priority remains making sure the residents of the Spectrum Building are fully compensated, so they can start to rebuild their lives.",
+                "tag": "p"
+            },
+            {
+                "content": "An MHCLG spokesperson said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cFormer residents of Spectrum building must be fairly and urgently compensated for their losses, and it is for the administrator to make sure that they get any money they are rightfully owed.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cOur interest is getting back taxpayers\u2019 money that was not used for its intended purpose \u2013 and this does not supersede the interests of the residents. We will make sure that any money we may be entitled to does not limit what the residents receive.\"",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/03/26/misleading-reporting-of-spectrum-building-resident-payouts/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There has been inaccurate media reporting suggesting former residents of Spectrum Building in Dagenham are being made to pay for the building\u2019s fire safety works. This is not true. Since the fire in August 2024, the building\u2019s freeholder has gone \u2026"
+    },
+    {
+        "title": "Exploring a common architecture platform for local government\u00a0\u00a0",
+        "authors": [
+            "Phil Rumens, Principal Technologist, GDS,"
+        ],
+        "posted_on": "2026-03-26T15:55:38",
+        "categories": [
+            "Technology",
+            "Tools"
+        ],
+        "content": [
+            {
+                "content": "GDS Local\u2019s\u00a0sourcing the stack\u00a0initiative is part of our commitment to co-create a vision for local government technology.\u00a0We\u2019ve\u00a0been looking closely at how councils describe their technology to gain a better\u00a0understanding of technical architecture across local government, and one of our findings was that there is no common model used by councils.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There could be huge benefits to councils and their service users from adopting a common technical architecture model, and to help co-create and deliver this\u00a0we\u2019re\u00a0exploring the idea of providing a platform for councils to map their technical architecture.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Between 20 February and\u00a06 March\u00a0we published an expression of interest (EoI) for councils to tell us whether they thought this is\u00a0a good idea.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What councils told us\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across the responses, councils consistently described the value of a technical architecture platform to\u00a0assist\u00a0decision making to enable a coherent technical estate.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "54% of councils said they are already documenting their technical architecture, but the vast majority of those are using spreadsheets and many councils highlighted this an inefficient and limiting way to do this.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Respondents thought a shared technical architecture platform could be hugely beneficial for councils going through Local Government Reorganisation (LGR)\u00a0during this parliament.\u00a0In the case of district councils that will need to aggregate multiple technology estates into one new organisation, whilst counties may need to disaggregate data and technology into multiple new local authorities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Other key potential benefits for all councils included:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These benefits were often framed as prerequisites for transformation so having a platform to\u00a0assist\u00a0with this would be hugely beneficial.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0we\u2019re\u00a0doing next\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From the expressions of interest,\u00a0it seems there\u00a0is a clear demand for offering a common platform for councils to document their technical architecture, and there are two next steps for GDS Local to take with interested councils.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Firstly, we will investigate which platform might be\u00a0appropriate to\u00a0use with a request for information to the market. There are many commercial products and other tools to use but we would need to get something in place that meets the needs of councils and fits around the timetable of LGR.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Secondly, we will scope out how we measure the benefits of this approach, which we need in place\u00a0before\u00a0we move forward with this.\u00a0It seems that there\u00a0are many potential benefits, but for this approach to be sustainable it needs to\u00a0evidence\u00a0its\u00a0value.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you responded to the expression of interest, we will be in touch with you about this soon.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2026/03/26/exploring-a-common-architecture-platform-for-local-government/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "GDS Local\u2019s\u00a0sourcing the stack\u00a0initiative is part of our commitment to co-create a vision for local government technology.\u00a0We\u2019ve\u00a0been looking closely at how councils describe their technology to gain a better\u00a0understanding of technical architecture across local government, and one of our findings \u2026"
+    },
+    {
+        "title": "Coverage of Government response to Rycroft Review",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-03-26T15:11:18",
+        "categories": [
+            "Elections"
+        ],
+        "content": [
+            {
+                "content": "This week we published our response to the independent Rycroft Review, commissioned to look into foreign financial influence and interference in UK democracy.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re bringing in the recommendations to cap political donations of overseas electors at \u00a3100,000 a year and banning all cryptocurrency donations - landmark changes to protect UK democracy from the scourge of foreign actors and financial influence.",
+                "tag": "p"
+            },
+            {
+                "content": "Cryptocurrency\u00a0will\u00a0be\u00a0banned\u00a0for use in political donations until sufficient regulation in place to prevent untraceable funds being funnelled into UK politics.",
+                "tag": "p"
+            },
+            {
+                "content": "There was significant coverage across the media on the announcement.",
+                "tag": "p"
+            },
+            {
+                "content": "The BBC article led with the cryptocurrency ban, highlighting that it was launched following a series of high-profile cases of foreign interference in British politics.",
+                "tag": "p"
+            },
+            {
+                "content": "Sky\u2019s coverage included a supportive comment from Jess Garland, the Director of the Electoral Reform Society, saying \"Trust in politics is at a record low. To rebuild it, the rules around money in politics need to ensure that politicians are always focused on the needs of voters, not donors.\"",
+                "tag": "p"
+            },
+            {
+                "content": "The Guardian\u00a0includes commentary from transparency campaigner Dr Susan Hawley of Spotlight on Corruption, calling the review \"a line in the sand for UK politics,\" while Duncan Hames of Transparency International UK said it was \"clear-eyed about the scale of the threat.\"",
+                "tag": "p"
+            },
+            {
+                "content": "The Times\u00a0focuses more on political donations from Britons living abroad being capped. The paper notes that Rycroft made 17 recommendations in total, including for new investigative powers for the Electoral Commission and the lowering of the criminal threshold for electoral offences, and the government is taking forward two.",
+                "tag": "p"
+            },
+            {
+                "content": "The Financial Times\u00a0reports that Rycroft recommended a cap of between \u00a3100,000 and \u00a3300,000, with the government opting for \u00a3100,000. The FT highlights a further recommendation that corporate donations be capped at two years' post-tax profits, which Rycroft said would \"severely diminish the risk that foreign interests make large donations into British politics via the company route.\"",
+                "tag": "p"
+            },
+            {
+                "content": "The Daily Mail\u00a0covers the story, noting the Secretary of State highlighted the \"specific risks posed by cryptocurrency,\" such as \"rapid, multiple, small donations\".",
+                "tag": "p"
+            },
+            {
+                "content": "The Daily Mirror\u00a0leads on the Prime Minister\u2019s PMQs pledge to \"act decisively to protect our democracy\" and Secretary of State\u2019s warning that \"foreign interference and dirty money are menacing the integrity of our elections.\" The journalist contextualises the review by noting it was ordered after Nathan Gill, Reform's former Wales leader, was jailed for taking bribes from Moscow.",
+                "tag": "p"
+            },
+            {
+                "content": "The Secretary of State also conducted various interviews following the announcement, talking to BBC News, Sky News, The Times, GB News, ITV Peston, and the News Agents podcast.",
+                "tag": "p"
+            },
+            {
+                "content": "Steve Reed, Secretary of State for Housing, Communities and Local Government, said:\u202f\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis Government will do whatever is necessary to protect our democracy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cForeign interference and dirty money are menacing the integrity of our elections.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cA ban on cryptocurrency donations is vital. The UK will now be a world-leader in stamping out this growing threat to freedom, and we will stop hostile foreign states and others who want to weaken and exploit the UK by stoking division and hatred.\u00a0 It is our patriotic duty to safeguard the British people\u2019s right to freely choose their own government.\u201d",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/03/26/coverage-of-government-response-to-rycroft-review/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "This week we published our response to the independent Rycroft Review, commissioned to look into foreign financial influence and interference in UK democracy. We\u2019re bringing in the recommendations to cap political donations of overseas electors at \u00a3100,000 a year and \u2026"
+    },
+    {
+        "title": "What is\u00a0Shigella?\u00a0How do you catch it and how can it be\u00a0avoided?",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-03-26T15:06:11",
+        "categories": [
+            "Health Protection"
+        ],
+        "content": [
+            {
+                "content": "Shigella is a bacterial infection that can cause severe diarrhoea and stomach cramps. It's more common than many people realise and understanding how it spreads is key to protecting yourself and others. Here, we answer some of the most frequently asked questions relating to it.",
+                "tag": "p"
+            },
+            {
+                "content": "What is Shigella?",
+                "tag": "h2"
+            },
+            {
+                "content": "Shigella is a group of bacteria that cause shigellosis (also known as bacillary dysentery) which is an infection of the intestines. There are 4 species of Shigella bacteria:",
+                "tag": "p"
+            },
+            {
+                "content": "The ones most commonly found in the UK are S. sonnei and S. flexneri.",
+                "tag": "p"
+            },
+            {
+                "content": "What are the symptoms?",
+                "tag": "h2"
+            },
+            {
+                "content": "The most common symptoms are diarrhoea (which can be bloody), stomach cramps, fever, nausea and vomiting. Some people also experience headaches and loss of appetite. Symptoms typically begin 1 to 3 days after exposure, though it can take up to a week to feel unwell. ",
+                "tag": "p"
+            },
+            {
+                "content": "Most people recover within 4 to 5 days, but illness can last up to 2 weeks. In some cases, particularly with certain species of Shigella, symptoms can be more severe and may require hospital treatment.",
+                "tag": "p"
+            },
+            {
+                "content": "Some people can carry and pass on the bacteria without feeling ill themselves.",
+                "tag": "p"
+            },
+            {
+                "content": "Is Shigella a sexually transmitted infection?",
+                "tag": "h2"
+            },
+            {
+                "content": "Shigella is spread from person to person, often by eating food that has been prepared by an infected person or by touching surfaces contaminated by infected faeces (poo).",
+                "tag": "p"
+            },
+            {
+                "content": "Shigella can also be a sexually transmitted infection (STI), particularly among gay, bisexual, and other men who have sex with men (MSM). One of the most important things to understand about Shigella is that the infectious dose is very low, meaning that ingesting just a tiny amount of contaminated material can be enough to cause illness. This makes it relatively easy to transmit from person to person.",
+                "tag": "p"
+            },
+            {
+                "content": "Transmission can happen in the following ways:",
+                "tag": "p"
+            },
+            {
+                "content": "Who is most at risk?",
+                "tag": "h2"
+            },
+            {
+                "content": "Anyone can get Shigella. Globally, the majority of cases occur in children under 5. Travellers to countries with limited access to clean water and sanitation are also at higher risk. In the UK, however, rates among adults who have not travelled have been rising over the past decade. ",
+                "tag": "p"
+            },
+            {
+                "content": "There is also a well-established risk of transmission through sexual contact, particularly among men who have sex with men. Outbreaks linked to sexual transmission have been reported in England.",
+                "tag": "p"
+            },
+            {
+                "content": "How long is someone infectious?",
+                "tag": "h2"
+            },
+            {
+                "content": "A person with Shigella can remain infectious \u2013 and capable of passing the infection on to others \u2013 for up to a month, even after they start to feel better. This is why it is important to follow hygiene precautions throughout recovery \u2013 including before and after intimate contact with other people. Do not return to work while you are unwell.",
+                "tag": "p"
+            },
+            {
+                "content": "How is Shigella treated?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mild cases are often self-limiting, meaning healthy people will recover on their own without medication. Staying well hydrated is important. However, antibiotics are recommended where symptoms are more severe, particularly if there is bloody diarrhoea, or if there are complications. Antibiotic treatment can shorten the duration of illness, reduce the risk of complications and speed up the clearance of bacteria from the body.",
+                "tag": "p"
+            },
+            {
+                "content": "If you think you may have Shigella, contact your GP or, if sexual transmission is a possibility, visit a sexual health clinic. Ask for an urgent GP appointment or get help from NHS 111 if you or your child have bloody diarrhoea.",
+                "tag": "p"
+            },
+            {
+                "content": "You should stay away from work \u2013 and children should be kept off nursery or school \u2013 until you\u2019ve been symptom-free for at least 48 hours. The timeframe applies for preparing food for others and sexual contact.",
+                "tag": "p"
+            },
+            {
+                "content": "How can I protect myself?",
+                "tag": "h2"
+            },
+            {
+                "content": "The most effective way to reduce your risk and the risk to others is thorough and regular handwashing \u2013 especially after using the toilet, before preparing food and before eating. When travelling to areas with poor sanitation, take care with food and drinking water.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are sexually active, there are steps you can take to reduce the risk of transmission during sex: ",
+                "tag": "p"
+            },
+            {
+                "content": "Is Shigella a serious public health concern?",
+                "tag": "h2"
+            },
+            {
+                "content": "Yes. Shigella remains a significant public health issue both in the UK and globally. It is one of the leading causes of bloody diarrhoea worldwide, and drug-resistant strains are an increasing concern. UKHSA monitors cases and outbreaks closely to identify trends and support the public health response.",
+                "tag": "p"
+            },
+            {
+                "content": "What is UKHSA\u2019s role in this area?",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK Health Security Agency (UKHSA) is responsible for protecting the nation from both STIs and gastrointestinal infections, by conducting surveillance, monitoring outbreaks, and analysing data from clinics to inform prevention strategies. We work with partners to reduce infection rates, and support local authorities with guidance. You will find our latest guidance, data and analysis of Shigella on GOV.UK.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/03/26/what-is-shigella-how-do-you-catch-it-and-how-can-it-be-avoided/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Shigella is a bacterial infection that\u00a0can\u00a0cause severe diarrhoea and stomach cramps.\u00a0It's\u00a0more common than many people realise and understanding how it spreads is key to protecting yourself and others. Here, we answer some of the most\u00a0frequently\u00a0asked questions\u00a0relating to it.\u00a0"
+    },
+    {
+        "title": "Why we are taking action on \u2018less healthy\u2019 food and drink",
+        "authors": [
+            "DHSC Media Team"
+        ],
+        "posted_on": "2026-03-26T14:23:20",
+        "categories": [
+            "Public Health"
+        ],
+        "content": [
+            {
+                "content": "What is already in place",
+                "tag": "h3"
+            },
+            {
+                "content": "What we are proposing",
+                "tag": "h3"
+            },
+            {
+                "content": "The evidence",
+                "tag": "h3"
+            }
+        ],
+        "link": "https://healthmedia.blog.gov.uk/2026/03/26/why-we-are-taking-action-on-less-healthy-food-and-drink/",
+        "blog": "Department of Health and Social Care Media Centre",
+        "blog_link": "https://healthmedia.blog.gov.uk",
+        "description": "What is already in place What we are proposing The evidence"
+    },
+    {
+        "title": "A survey for the milk sector\u00a0",
+        "authors": [
+            "Richard Thompson"
+        ],
+        "posted_on": "2026-03-26T13:41:09",
+        "categories": [
+            "Guest post",
+            "Supply chain"
+        ],
+        "content": [
+            {
+                "content": "Over recent months, the UK milk sector has experienced significant pressure from global milk supplies and commodity markets, leading to a sudden and sharp fall in milk prices.",
+                "tag": "p"
+            },
+            {
+                "content": "As the Agricultural Supply Chain Adjudicator (ASCA), my role is to promote fairness, transparency and good practice across agricultural supply chains, including the milk sector.",
+                "tag": "p"
+            },
+            {
+                "content": "The Fair Dealing Obligations (Milk) Regulations 2024 (FDOM24) do not set milk prices. These will continue to be determined by global and local supply and demand. However, the regulations do require milk purchasers to apply price changes fairly, transparently and in line with their contracts.",
+                "tag": "p"
+            },
+            {
+                "content": "I am the impartial point of contact for anyone in the sector who has concerns about unreasonable behaviour or non-compliance under FDOM24.",
+                "tag": "p"
+            },
+            {
+                "content": "To build on our existing understanding of how the UK milk sector is responding, we are inviting those across the sector to share their views in a short survey.",
+                "tag": "p"
+            },
+            {
+                "content": "The survey asks about the regulations, the role of the ASCA, and how relationships between producers and purchasers have worked during this challenging period.",
+                "tag": "p"
+            },
+            {
+                "content": "Your feedback will help us understand what is working well and where the regulations may need further support or attention.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether\u00a0you\u2019re\u00a0a dairy farmer, processor, or part of a representative organisation,\u00a0we\u2019d\u00a0like to hear from you.\u00a0The survey takes around 10 minutes to complete.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is now open. It will close on Monday 20 April.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Milk Sector Survey 2026: share your views",
+                "tag": "p"
+            },
+            {
+                "content": "I look forward to reviewing the results and using the insights to help support fair and transparent relationships across the milk supply chain.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get in touch\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "My team and I are continuing our work to raise awareness of the Agricultural Supply Chain Adjudicator (ASCA).\u00a0This includes recently featuring on the Farming Podcast.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Additionally,\u00a0we\u2019re\u00a0exploring how we can expand support available to the sector. ",
+                "tag": "p"
+            },
+            {
+                "content": "While anyone in the sector can contact the adjudicator about concerns under FDOM24, we have also introduced an \u2018in confidence\u2019\u00a0option\u00a0for those who wish to raise issues confidentially.",
+                "tag": "p"
+            },
+            {
+                "content": "While we\u00a0can\u2019t\u00a0open a formal investigation under the regulations without a formal complaint, the information you provide can help inform the adjudicator\u2019s work and highlight potential issues in the sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Over time, this can help encourage fairer business practices.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can contact my office in confidence by email:ASCA-in-confidence@defra.gov.uk",
+                "tag": "p"
+            },
+            {
+                "content": "For general enquiries or to make a formal complaint, email:asca@defra.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/03/26/a-survey-for-the-milk-sector/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "The Agricultural Supply Chain Adjudicator is inviting people across the milk sector to complete a short survey on milk pricing and supply chain relationships. This will help to understand how the regulations are working and how the sector is responding to current conditions."
+    },
+    {
+        "title": "NHS Pay\u00a0Awards\u00a0for 2026\u00a0and\u00a0resident doctor strikes: everything you need to know \u00a0",
+        "authors": [
+            "DHSC Media Team"
+        ],
+        "posted_on": "2026-03-26T12:55:08",
+        "categories": [
+            "Pay awards",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "The Health and Social Care Secretary has accepted the recommendations of\u00a0The Review Body on Doctors' and Dentists' Remuneration\u00a0(DDRB)\u00a0to confirm pay awards for\u00a02026-27\u00a0for doctors\u00a0and\u00a0dentists. Recommendations were accepted in February for nurses,\u00a0midwives\u00a0and other NHS staff\u00a0on the Agenda for Change contract.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here,\u00a0we confirm\u00a0what these groups will be paid for the next\u00a0financial year\u00a0\u2013 every group is receiving an above forecast inflation pay rise for the third year in a row\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0deal\u00a0to reform\u00a0resident doctor pay, career progression\u00a0working conditions has also been\u00a0rejected by the\u00a0British Medical Association\u00a0Resident Doctors Committee\u00a0(BMA\u00a0RDC),\u00a0without giving their members a chance to\u00a0have their say.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here, we also explain more about what was in the\u00a0deal.",
+                "tag": "p"
+            },
+            {
+                "content": "How much are the pay awards?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Doctors\u00a0and most dentists will receive a headline-pay increase of 3.5 per cent for doctors and certain dentist groups.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If the\u00a0BMAs RDC had given their members a chance to vote to accept the deal put to them by the government,\u00a0resident doctors\u00a0on average\u00a0would have\u00a0seen a\u00a0basic\u00a0pay uplift of 4.9% for 2026/27.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Salaried dentists working in Community Dental Services will receive a headline-pay increase of 3.75 per cent.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Nurses and other NHS staff including midwives and paramedics have already received their pay award for 2026-2027 \u2013 3.3%. This pay boost will be in pay packets from April for the first time in six years.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When will NHS staff receive their pay rise?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Staff on the Agenda for Change contract will see their pay award in pay packets from April for the first time in six years.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Secondary care\u00a0doctors, such as\u00a0consultants,\u00a0psychiatrists\u00a0and\u00a0surgeons\u00a0will receive their pay increase\u00a0from\u00a0June, which is 2 months earlier\u00a0than last year.\u00a0We are working closely\u00a0with\u00a0payroll systems\u00a0to ensure\u00a0pay\u00a0uplifts for\u00a0secondary care staff\u00a0will be effective\u00a0from\u00a0June,\u00a0which is 2\u00a0months earlier than last year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Pay uplifts will be backdated to 1 April\u00a02026\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0was\u00a0in the\u00a0deal\u00a0to resident doctors?",
+                "tag": "h3"
+            },
+            {
+                "content": "Since the start of the year, the government has been engaged in intensive,\u00a0good-faith\u00a0talks with the BMA Resident Doctors Committee.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We listened carefully to the concerns of resident doctors, on pay,\u00a0conditions\u00a0and career progression, and we acted on them.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Resident doctors have already received a\u00a028.9% pay rise over the last three years \u2014 the most significant uplift anywhere in the\u00a0NHS\u00a0and public sector.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have also fast-tracked legislation to prioritise\u00a0UK medical graduates and doctors with significant NHS experience\u00a0for jobs, halving competition ratios for training places.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On top of this,\u00a0we\u00a0pulled\u00a0every available lever to put forward a generous package that would have genuinely transformed resident doctors working lives and career prospects.",
+                "tag": "p"
+            },
+            {
+                "content": "This included:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This offer was designed with the BMA leadership, so it\u2019s deeply disappointing that members didn\u2019t get the chance to vote on it.",
+                "tag": "p"
+            },
+            {
+                "content": "Are\u00a0resident doctors going to strike again?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The BMA has announced another round of strike action from 7am on 7th April to 6.59am on 13th April.",
+                "tag": "p"
+            },
+            {
+                "content": "Our attention has now turned to protecting the NHS and minimising\u00a0the impact of disruption to patients.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The NHS has tried and tested ways to minimise disruption. Due to the dedication of NHS staff, the NHS delivered almost 95% of planned activity during the five days of strike action in December-\u00a0similar to\u00a0the levels of activity during the November strikes and surpassing levels in July.\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why are doctors being given higher pay rises than nurses again? \u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Each independent Pay Review Body (PRB) makes recommendations based on evidence from government,\u00a0employers\u00a0and unions.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Different conclusions between PRBs reflect the specific circumstances of each workforce.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This year\u2019s pay award for nurses is expected to increase average annual pay to over \u00a339,000.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For 1.4 million NHS staff on the Agenda for Change contract, we are working with the NHS Staff Council to reform the pay structure and to prioritise increasing pay for graduates and the lowest paid members of staff.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://healthmedia.blog.gov.uk/2026/03/26/nhs-pay-awards-for-2026-and-resident-doctor-strikes-everything-you-need-to-know/",
+        "blog": "Department of Health and Social Care Media Centre",
+        "blog_link": "https://healthmedia.blog.gov.uk",
+        "description": "The Health and Social Care Secretary has accepted the recommendations of\u00a0The Review Body on Doctors' and Dentists' Remuneration\u00a0(DDRB)\u00a0to confirm pay awards for\u00a02026-27\u00a0for doctors\u00a0and\u00a0dentists. Recommendations were accepted in February for nurses,\u00a0midwives\u00a0and other NHS staff\u00a0on the Agenda for Change contract.\u00a0\u00a0\u00a0 Here,\u00a0we confirm\u00a0what \u2026"
+    },
+    {
+        "title": "Top\u00a0ten\u00a0tips for\u00a0the launch of the IPO patent service\u00a0",
+        "authors": [
+            "Simeon Bowen"
+        ],
+        "posted_on": "2026-03-26T12:00:00",
+        "categories": [
+            "Patents",
+            "Transformation"
+        ],
+        "content": [
+            {
+                "content": "With the\u00a0new\u00a0IPO\u00a0digital\u00a0patents\u00a0service\u00a0due to launch soon,\u00a0we want to make sure that your transition to the new live service goes as smoothly as possible. Here are our top ten tips\u00a0for using the service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "1. Don't panic!",
+                "tag": "h3"
+            },
+            {
+                "content": "When the new service launches,\u00a0nothing will change for people already using\u00a0it.\u00a0If you\u00a0don\u2019t\u00a0have any account yet,\u00a0we\u2019ll\u00a0be inviting more organisation to set-up accounts in the coming weeks.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our\u00a0Web Filing Service\u00a0and the\u00a0forms@ipo.gov.uk\u00a0email address will still be around for a while longer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Familiarise yourself with\u00a0the new service\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "If you\u00a0haven\u2019t\u00a0started using the\u00a0new service, now is the time to do so. To help you,\u00a0we\u2019ve\u00a0published\u00a0demo videos,\u00a0blogs,\u00a0an\u00a0FAQ\u00a0and\u00a0a\u00a0roadmap\u00a0of upcoming service\u00a0improvements.\u00a0If you need any further support,\u00a0please\u00a0get in touch\u00a0with\u00a0our team at\u00a0\u00a0oneiposupport@ipo.gov.uk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Set your central email address\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "If\u00a0you\u2019re\u00a0an administrator for your firm, you can set a central email address for correspondence to be sent to in \u2018Profile and\u00a0settings\u2019.\u00a0It\u2019s\u00a0really important\u00a0that you do this to ensure that correspondence is\u00a0forwarded\u00a0to the correct place in your firm. You can also add you name and contact number which will make it easier for us to contact you if you have a query.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Don\u2019t\u00a0forget to add a representative!\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "When\u00a0you\u2019re\u00a0applying for a patent, there is\u00a0an option\u00a0to \u2018assign representative\u2019.\u00a0It\u2019s\u00a0really important\u00a0that you do this if you are an attorney\u00a0representing\u00a0a client. If you forget to do this, the patent\u00a0won\u2019t\u00a0appear in your organisation\u2019s account.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you see multiple results or no results when you search for your organisation, please contact\u00a0oneiposupport@ipo.gov.uk.\u00a0You should see one search result.\u00a0Don\u2019t\u00a0create a new entry. That will result in your application not appearing in your account.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Shortly after the service launches, we will be introducing an update that will make your organisation the representative by default. This is listed on\u00a0our\u00a0roadmap of planned service improvements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. What to do with marked-up documents?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "When you respond to an examination report,\u00a0it\u2019s\u00a0very helpful\u00a0if you provide mark-up or tracked changes to help us see what changes have been made.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the moment, they should be uploaded as one\u00a0consolidated\u00a0document as part of your response to examiner feedback.\u00a0You can see a full explanation of this in our demo of the \u2018response to examination\u2019\u00a0transaction.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will be adding the\u00a0option\u00a0to add\u00a0additional\u00a0documents, which is listed on\u00a0our\u00a0roadmap of planned service improvements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Search by application number or your reference\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "When\u00a0you\u2019re\u00a0searching for patents in your account,\u00a0don\u2019t\u00a0search by publication number. Search by application number or your reference number.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will be adding an update to allow you to search by publication number shortly after launch. This is listed on\u00a0our\u00a0roadmap of planned service improvements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Understand the changes to filing receipts\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "When you\u00a0submit\u00a0your patent application we will need to do a national security check. This process can take up to two working days, but in practice is usually within 24 hours.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While\u00a0you\u2019re\u00a0waiting for your application to be security checked, you will only be able to see limited information about your application in your account \u2013 the filing date, your\u00a0reference\u00a0and the application number. You\u00a0won\u2019t\u00a0be able to see your full filing receipt until the security check is complete.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have some updates planned to help with this that are detailed on\u00a0our\u00a0roadmap of planned service improvements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Use the drafts feature\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Drafts are available on\u00a0the longer, more complicated transactions in the new service, like\u00a0applying for a patent or responding to an examination report, drafts are available.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As you update our application or response, the draft will automatically save\u00a0your\u00a0updates. Colleagues within your organisation can access drafts to either edit them or\u00a0submit\u00a0them. We advise that only one person should edit a draft at a time to avoid changes being lost.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can view\u00a0all of\u00a0the drafts for your organisation\u00a0in the \u2018Drafts\u2019 tab on the home screen of your account.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Make the most of self service\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "There are lots of things you\u00a0will be able to\u00a0change quickly\u00a0yourself\u00a0in the new service, instead of waiting for the IPO to do them for you.\u00a0These will include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Previously, you would have to\u00a0submit\u00a0a form and wait up to ten days for the IPO to make these changes. In\u00a0the new service, most of these changes are now made automatically within 24 hours. The only\u00a0won\u2019t\u00a0happen if we need to check evidence before we can allow the change to\u00a0proceed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Keep track of when your patent is published\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The way that we publish patents is changing. With the new service, we are no longer constrained to a\u00a0five week\u00a0publication cycle.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a result, you will no longer be notified of the specific date when patents are going to be published. Your patent will be published shortly after 18 months from when your application is filed. Patents will still be published on Wednesdays, so your patent will be published on the first Wednesday after your you receive notification of publication.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To prevent publication, you must withdraw your application no later than the day before the 18-month anniversary of the earliest dat",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2026/03/26/top-ten-tips-for-the-launch-of-the-ipo-patent-service/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "With the new IPO digital patents service due to launch soon,\u00a0we want to make sure that your transition to the new live service goes as smoothly as possible. Here are our top ten tips\u00a0for using the service.\u00a0"
+    },
+    {
+        "title": "Bringing justice stakeholders together to improve services for court users",
+        "authors": [
+            "Miriam Davidson - Head of User Inclusion and Engagement, HMCTS"
+        ],
+        "posted_on": "2026-03-26T11:07:36",
+        "categories": [
+            "Court and tribunal reform",
+            "General",
+            "User experience and research"
+        ],
+        "content": [
+            {
+                "content": "\n[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Last week we brought together over 75 stakeholders from our Public Engagement Groups for a day of collaboration and to share updates and improvement about our services.",
+                "tag": "p"
+            },
+            {
+                "content": "Our groups are made up of organisations that support, advocate for, and guide court users. Their feedback is invaluable, as we continue to improve our services across all jurisdictions. Members include advice and support organisations like Support through Court, Law Centres Networks, academics and advocacy charities like JUSTICE.",
+                "tag": "p"
+            },
+            {
+                "content": "The conference included face-to-face presentations from our teams across HMCTS, which led to some useful challenge and feedback about how we provide our services. Market Stalls were also hosted by HMCTS teams and stakeholders showcasing their work, such as AdviceNow, showing how their guidance supports litigants in person.",
+                "tag": "p"
+            },
+            {
+                "content": "How bringing stakeholders together improves services for court users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "At the heart of our work is a clear mission to support people to access justice when they need it. But, to do this well depends on understanding the experiences of people using our services. To help this process we collect protected characteristic information which is helping us identify barriers that were previously invisible, especially for people who face additional challenges when they need to access the justice system. Working with organisations like Citizens Advice, Revolving Doors and Centre of Justice Innovation further bring those challenges to life. Their insight challenges us to think differently as we develop our current services and plan new ones.",
+                "tag": "p"
+            },
+            {
+                "content": "Those groups have already shaped the future of the Digital Support Service which we have developed to meet the needs of people who may not have access to digital systems. It has helped us prioritise how we improve victim and witness experiences and how we think about accessibility, both in our buildings and across our services.",
+                "tag": "p"
+            },
+            {
+                "content": "Their input can also shape what may seem like small details, such as how we send out court documents, but that can make the difference between whether a person feels supported or not at one of the most difficult moments in their life.",
+                "tag": "p"
+            },
+            {
+                "content": "What we discussed on the day\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The conference was designed to encourage conversation, peer connections, and provide a space to exchange ideas. We shared our planned improvements to the financial remedy service for unrepresented users, gathered feedback on our plans to make guidance more accessible for civil litigants in person and demonstrated how we\u2019re supporting victims of crime, by improving their access to information.",
+                "tag": "p"
+            },
+            {
+                "content": "Listening to our stakeholders is central to how we design and improve our services. Events like this are only one part of a broader, ongoing conversation which continue through the public engagement group meetings throughout the year.",
+                "tag": "p"
+            },
+            {
+                "content": "You can find out more about HMCTS Public Engagement Groups on GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "You can also visit our YouTube channel to watch interviews from the day.",
+                "tag": "p"
+            },
+            {
+                "content": "\n[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Yr wythnos ddiwethaf, gwnaethom wahodd dros 75 o rhanddeiliaid o'n Grwpiau Ymgysylltu \u00e2'r Cyhoedd ar gyfer diwrnod o gydweithio a rhannu diweddariadau a gwelliannau am ein gwasanaethau.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae ein grwpiau yn cynnwys sefydliadau sy'n cefnogi, eirioli ac arwain defnyddwyr llys. Mae eu hadborth yn amhrisiadwy, wrth i ni barhau i wella ein gwasanaethau ar draws pob awdurdodaeth. Mae aelodau yn cynnwys sefydliadau cyngor a chefnogaeth fel Support through Court, Rhwydweithiau Canolfannau'r Gyfraith, academyddion ac elusennau eiriolaeth fel JUSTICE.",
+                "tag": "p"
+            },
+            {
+                "content": "Roedd y gynhadledd yn cynnwys cyflwyniadau wyneb yn wyneb gan ein timau ar draws GLlTEF, a arweiniodd at her ac adborth defnyddiol am sut rydym yn darparu ein gwasanaethau. Cynhaliwyd Market Stalls hefyd gan dimau a rhanddeiliaid GLlTEF yn arddangos eu gwaith, megis AdviceNow, gan ddangos sut mae eu canllawiau yn cefnogi ymgyfreithwyr drostynt eu hunain.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae dod \u00e2 rhanddeiliaid at ei gilydd yn gwella gwasanaethau i ddefnyddwyr llys",
+                "tag": "h2"
+            },
+            {
+                "content": "Yn ganolog i'n gwaith mae bwriad clir i gefnogi pobl i gael mynediad i gyfiawnder pan maent ei angen. Ond i wneud hyn yn dda, mae'n dibynnu ar ddeall profiadau pobl sy'n defnyddio ein gwasanaethau. I helpu'r broses hon, rydym yn casglu gwybodaeth nodweddion gwarchodedig sy'n ein helpu i nodi rhwystrau oedd gynt yn anweladwy, yn arbennig i bobl sy'n wynebu heriau ychwanegol pan maent angen mynediad i'r system gyfiawnder. Mae gweithio gyda sefydliadau fel Cyngor ar Bopeth, Revolving Doors a Chanolfan Arloesi Cyfiawnder yn dod \u00e2'r heriau hynny'n fyw ymhellach. Mae eu mewnwelediad yn ein herio i feddwl yn wahanol wrth i ni ddatblygu ein gwasanaethau presennol a chynllunio rhai newydd.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae'r grwpiau hynny eisoes wedi llunio dyfodol y Gwasanaeth Cymorth Digidol yr ydym wedi'i ddatblygu i ddiwallu anghenion pobl nad oes ganddynt fynediad at systemau digidol. Mae wedi ein helpu i flaenoriaethu sut rydym yn gwella profiadau dioddefwyr a thystion a sut rydym yn meddwl am hygyrchedd, yn ein hadeiladau ac ar draws ein gwasanaethau.",
+                "tag": "p"
+            },
+            {
+                "content": "Gall eu mewnbwn hefyd ddatblygu'r hyn sy'n gallu ymddangos fel manylion bach, fel sut rydym yn anfon dogfennau'r llys allan, ond gallant fod y gwahaniaeth rhwng pa un a yw unigolyn yn teimlo ei fod yn cael cymorth ai peidio ar yr adegau mwyaf anodd yn eu bywyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Yr hyn wnaethom ei drafod ar y diwrnod",
+                "tag": "h2"
+            },
+            {
+                "content": "Trefnwyd y gynhadledd i annog sgwrs, creu cysylltiadau gyda chyfoedion, a darparu lle i gyfnewid syniadau.\u00a0 Gwnaethom rannu'r gwelliannau a fwriadwyd i'r gwasanaeth rhwymedi ariannol ar gyfer defnyddwyr a dangynrychiolir, casglu adborth ar ein cynlluniau i wneud canllawiau yn fwy hygyrch i ymgyfreithwyr drostynt eu hunain yn y llys sifil a dangos sut rydym yn cefnogi dioddefwyr trosedd, drwy wella eu mynediad i wybodaeth.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae gwrando ar ein rhanddeiliaid yn ganolog i sut rydym yn dylunio ac yn gwella ein gwasanaethau. Mae digwyddiadau fel yr un yma yn un rhan o sgwrs ehangach, barhaus sy'n parhau drwy'r cyfarfodydd gr\u0175p ymgysylltu \u00e2'r cyhoedd drwy'r flwyddyn.",
+                "tag": "p"
+            },
+            {
+                "content": "Gallwch gael rhagor o wybodaeth am Grwpiau Ymgysylltu \u00e2'r Cyhoedd GLlTEF ar GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Gallwch hefyd ymweld \u00e2'n sianel YouTube i wylio cyfweliadau o'r diwrnod.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2026/03/26/bringing-justice-stakeholders-together-to-improve-services-for-court-users/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "Over 75 stakeholders from our Public Engagement Groups recently came together for a day of collaboration and presentations, sharing invaluable feedback to help us improve services and ensure court users can access justice when they need it."
+    },
+    {
+        "title": "The first meeting of the Farming and Food Partnership Board",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-03-26T10:25:03",
+        "categories": [
+            "Farming and Countryside Team"
+        ],
+        "content": [
+            {
+                "content": "The Farming and Food Partnership Board met for the first time yesterday, bringing together leaders from farming,\u00a0food\u00a0and retail.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The board is chaired by \u00a0Environment Secretary Emma Reynolds, with\u00a0Farming Minister Dame Angela Eagle\u00a0as Deputy Chair.  ",
+                "tag": "p"
+            },
+            {
+                "content": "It brings government and industry together to improve farm productivity and profitability, strengthen food system resilience and support national security.",
+                "tag": "p"
+            },
+            {
+                "content": "This post sets out what was discussed, what was agreed and what will happen next, including work on growth plans for the horticulture and poultry sectors.",
+                "tag": "p"
+            },
+            {
+                "content": "Purpose of the board\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The\u00a0Farming and Food\u00a0Partnership Board\u00a0exists to increase farmers' and growers\u2019\u00a0profitability\u00a0and\u00a0productivity,\u00a0stimulate growth\u00a0in the sector\u00a0and strengthen food security. It will provide oversight and a forum to address issues.",
+                "tag": "p"
+            },
+            {
+                "content": "Farmers and growers continue to face significant pressures, including rising input costs and disruption from international events such as conflict, extreme weather and supply chain pressures.",
+                "tag": "p"
+            },
+            {
+                "content": "In this context, members agreed that strengthening domestic production is essential to national food security and economic stability. Closer partnership across the supply chain, from farm to fork, will support this.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The board builds on the work of Baroness Minette Batters\u2019 Farming Profitability Review, which highlighted the need for a stronger focus on farm profitability and closer collaboration between government and industry.",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0board works alongside the\u00a0Food Strategy Advisory Board (FSAB), which considers the UK\u2019s wider food system\u00a0and the outcomes sought by the government\u2019s\u00a0food strategy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Partnership Board will not duplicate work covered by the Environmental Improvement Plan\u00a0and other boards. Instead, it will focus on how sustainable farming can support investment and growth, including opportunities to attract private finance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0board\u00a0will look across the whole supply chain, with a clear focus on improving farm profitability, while recognising that good land management supports long-term resilience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this, existing government support will continue to help farmers deliver environmental outcomes and build resilient businesses, including through\u00a0environmental\u00a0land\u00a0management (ELM) schemes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Attendees\u00a0and future membership\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The first meeting brought together a small group from across the supply chain to help shape future membership and how the\u00a0board\u00a0will work. It included:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During\u00a0the meeting,\u00a0members\u00a0put forward names to fill the remaining places, which the Secretary of State will now consider.\u00a0The board is expected to have up to 15 members.",
+                "tag": "p"
+            },
+            {
+                "content": "Full\u00a0membership and how\u00a0the board\u00a0will\u00a0operate\u00a0will be agreed and published on GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Topics of discussion\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "At the first meeting, members brought together experience from across the supply chain to build a shared understanding of the main challenges and opportunities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They will use smaller groups and experts from the sector to take forward more detailed work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Members also set some early priorities. These included completing the work to\u00a0establish\u00a0membership, preparing\u00a0terms\u00a0of\u00a0reference, and agreeing the outcomes the board will work towards in the short and long term.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A GOV.UK page for the Farming and Food Partnership Board will be published in the summer. It will bring together information,\u00a0updates\u00a0and documents in one place.",
+                "tag": "p"
+            },
+            {
+                "content": "Sector Growth Plans\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Sector Growth Plans will be\u00a0a\u00a0central part of the\u00a0board\u2019s\u00a0work.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where possible,\u00a0Sector Growth Plans will be developed\u00a0with existing industry groups, using their experience, rather than creating new structures.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The first Sector Growth Plan\u00a0will be\u00a0for\u00a0horticulture, with\u00a0poultry\u00a0to follow.\u00a0Both sectors have shown potential to increase domestic production quickly.",
+                "tag": "p"
+            },
+            {
+                "content": "The Horticulture Expert Growers Group,\u00a0working with\u00a0others including the UK Fruit and Vegetable Coalition, and the Environmental Horticulture Group,\u00a0has\u00a0been\u00a0invited by the board to start work\u00a0immediately\u00a0on the first Sector Growth Plan for the horticultural sector.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each plan will:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sector Growth Plans will\u00a0reflect the wider\u00a0context\u00a0in which farmers and growers\u00a0operate,\u00a0considering\u00a0both market signals and the direction of government policy.",
+                "tag": "p"
+            },
+            {
+                "content": " For example,\u00a0policy\u00a0steers\u00a0from\u00a0the Farming Roadmap\u00a0(once published) and\u00a0the\u00a0Land Use Framework,\u00a0as well as\u00a0ongoing environmental commitments and legal duties.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps",
+                "tag": "h2"
+            },
+            {
+                "content": "The board will meet again at the start of summer, and updates will be shared on the Farming Blog as work progresses.",
+                "tag": "p"
+            },
+            {
+                "content": "We will also share opportunities to get involved through consultations, surveys and events.",
+                "tag": "p"
+            },
+            {
+                "content": "A new GOV.UK page for the board will be published in due course. By subscribing to the Farming Blog, you can stay up to date and be notified when new posts are published.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/03/26/the-first-meeting-of-the-farming-and-food-partnership-board/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "The Farming and Food Partnership Board met for the first time yesterday, bringing together leaders from farming,\u00a0food\u00a0and retail.\u00a0"
+    },
+    {
+        "title": "The new ILAP TDP: De-risking development by bringing early insights, predictability and improved coordination for developers",
+        "authors": [
+            "Matt Heath"
+        ],
+        "posted_on": "2026-03-26T09:58:38",
+        "categories": [
+            "ILAP",
+            "TDP"
+        ],
+        "content": [
+            {
+                "content": "The refreshed Innovative Licensing and Access Pathway (ILAP) is setting a new global benchmark for accelerating patient access to transformative medicines in the UK. More than just a regulatory pathway, the ILAP is the first end-to-end access pathway that brings together medicine developers with UK regulators and the National Health Service (NHS) though a genuinely collaborative and joined-up approach.",
+                "tag": "p"
+            },
+            {
+                "content": "By enabling earlier and better coordinated engagement with ILAP partners, the pathway helps developers to de-risk their programmes, plan evidence generation more effectively and smooth the route to adoption across the health system. At the heart of the ILAP is the Target Development Profile (TDP) which establishes a collaborative platform for the ILAP partners to work with Innovation Passport (IP) holders to review a product\u2019s development.",
+                "tag": "p"
+            },
+            {
+                "content": "A more focused Target Development Profile (TDP)",
+                "tag": "h2"
+            },
+            {
+                "content": "The renewed TDP aims to streamline, align and coordinate evidence generation and evaluation, while identifying key implementation and service delivery issues. The ILAP partners work with IP holders to outline critical regulatory and developmental requirements, identifying both potential challenges and opportunities to optimise progression. The result is an evolving document that maps the product\u2019s critical path and advises on the optimal timing and sequence for engaging with ILAP\u2019s related services. The TDP is updated as milestones are reached and new evidence emerges, with ongoing support and engagement maintained through a dedicated ILAP contact. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new TDP places stronger emphasis on areas that often create challenges in development including:",
+                "tag": "p"
+            },
+            {
+                "content": "The goal is clear, to deliver insights that help developers refine their development strategy, identify risks earlier, improve predictability, and accelerate progress towards patient access.",
+                "tag": "p"
+            },
+            {
+                "content": "Industry welcomes the enhancements",
+                "tag": "h2"
+            },
+            {
+                "content": "Early feedback is encouraging and positive: a global pharmaceutical company recently using the redesigned TDP told us about the significant benefits and flexibility offered through the process:",
+                "tag": "p"
+            },
+            {
+                "content": "They also highlighted the value of multi-partner coordination:",
+                "tag": "p"
+            },
+            {
+                "content": "And they outlined the value to them as a medicines developer:",
+                "tag": "p"
+            },
+            {
+                "content": "This strong endorsement from industry reflects the new direction of ILAP; easier to use, more responsive and delivering better value for the pharmaceutical sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Apply to ILAP now",
+                "tag": "h2"
+            },
+            {
+                "content": "The ILAP is open to commercial and non-commercial developers of potentially transformative medicines and drug-device combination products that have:",
+                "tag": "p"
+            },
+            {
+                "content": "Applications are accepted continuously, with quarterly selection rounds.",
+                "tag": "p"
+            },
+            {
+                "content": "Eligible products that best meet the selection criteria will be awarded an Innovation Passport, unlocking priority access to the ILAP services, including the new, more focused TDP, and a dedicated point of contact.",
+                "tag": "p"
+            },
+            {
+                "content": "Be part of the future of medicines access",
+                "tag": "h2"
+            },
+            {
+                "content": "The ILAP continues to evolve in partnership with industry, patients and clinical leaders, offering a coordinated way to address development and access challenges early on. Discover more about how it works and what to expect: Innovative Licensing and Access Pathway (ILAP) - GOV.UK.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://medregs.blog.gov.uk/2026/03/26/the-new-ilap-tdp-de-risking-development-by-bringing-early-insights-predictability-and-improved-coordination-for-developers/",
+        "blog": "MedRegs",
+        "blog_link": "https://medregs.blog.gov.uk",
+        "description": "The refreshed Innovative Licensing and Access Pathway (ILAP) is setting a new global benchmark for accelerating patient access to transformative medicines in the UK. More than just a regulatory pathway, the ILAP is the first end-to-end access pathway that brings \u2026"
+    },
+    {
+        "title": "Our biggest digital sustainability moment yet",
+        "authors": [
+            "Lydia Tabbron"
+        ],
+        "posted_on": "2026-03-26T09:57:21",
+        "categories": [
+            "GDSA",
+            "Sustainable ICT",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Lydia Tabbron reflects on a recent event which marked a key milestone in our digital sustainability journey.",
+                "tag": "p"
+            },
+            {
+                "content": "I wrote recently about our plans to bring together digital and sustainability leaders from across government, industry and academia for the second Government Digital Sustainability Alliance (GDSA) Summit.",
+                "tag": "p"
+            },
+            {
+                "content": "The day itself, which was hosted at One Great George Street in London and organised by Defra\u2019s digital sustainability team in collaboration with Think Digital Partners, was a day of bold announcements, inspiring ideas and well-deserved recognition.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The impact of ICT",
+                "tag": "h2"
+            },
+            {
+                "content": "Information and Communications Technology (ICT) now produces around 4% of global greenhouse gas emissions, equivalent to aviation, and that figure keeps rising. Closer to home, the digital sector contributes almost 5% of greenhouse gases (GHG) to the UK\u2019s total GHG emissions and in 2023/24 government produced nearly 1500 tonnes of e-waste.",
+                "tag": "p"
+            },
+            {
+                "content": "Every device we use and every service we build has a real environmental impact. The choices we make about technology, procurement and suppliers directly shape those numbers.",
+                "tag": "p"
+            },
+            {
+                "content": "A new Taskforce and bold commitments",
+                "tag": "h2"
+            },
+            {
+                "content": "Our first keynote speech at the Summit came from Minister for Nature and Circular Economy Mary Creagh, who announced the formation of the Taskforce for Environmental Resilience and Efficiency (TERE). ",
+                "tag": "p"
+            },
+            {
+                "content": "This new cross-government hub, co-led by Defra, will bring together specialists from the largest operational departments to help government act earlier, respond faster, and move from reactive fixes to proactive planning on environmental risks within government.",
+                "tag": "p"
+            },
+            {
+                "content": "Minister Creagh also confirmed that Government Buying Standards are being updated to include industry-leading sustainability criteria for ICT, and that Defra has become the first government department to adopt refurbished devices as default, delivering longer device lifespans, lower energy use and better value for money.",
+                "tag": "p"
+            },
+            {
+                "content": "In Defra we will also lead on the upcoming Government Digital Sustainability Strategy, setting a shared direction on sustainability, efficient and circular digital services across government. ",
+                "tag": "p"
+            },
+            {
+                "content": "The Summit\u2019s panel discussions reflected the strategy\u2019s core themes directly, demonstrating that the ambition behind it is already being put into practice.",
+                "tag": "p"
+            },
+            {
+                "content": "A new era of leadership",
+                "tag": "h2"
+            },
+            {
+                "content": "The Summit also marked a significant moment in Defra's digital leadership, with Edd Parry confirmed as the new lead for digital sustainability in government. ",
+                "tag": "p"
+            },
+            {
+                "content": "Edd, who replaces Chris Howes, has been central to Defra's pioneering work on circular procurement and is well placed to drive this agenda forward. Indeed, he wrote about this very topic just a few months back.",
+                "tag": "p"
+            },
+            {
+                "content": "A call to honesty and action",
+                "tag": "h2"
+            },
+            {
+                "content": "We were also hugely privileged to be joined by Mike Berners-Lee, one of the world's leading voices on sustainability and climate change, and author of\u00a0titles such as How Bad are Bananas.",
+                "tag": "p"
+            },
+            {
+                "content": "Mike's challenge to the room was also direct. He pointed to the Jevons Paradox, the well-evidenced tendency for efficiency gains in technology to lead to rising overall consumption rather than reducing it. ",
+                "tag": "p"
+            },
+            {
+                "content": "The answer, he argued, is not simply to do digital more efficiently, but to ask harder questions about what we are doing digital\u00a0for, and whether its use is genuinely good for people and the planet.",
+                "tag": "p"
+            },
+            {
+                "content": "He set out three values for the room: respect the environment, respect the truth, and respect all people. He called for supply chain transparency and invited every organisation present to ask honestly whether their supply chains truly share their values.",
+                "tag": "p"
+            },
+            {
+                "content": "A day of practical insights and discussion",
+                "tag": "h2"
+            },
+            {
+                "content": "Across eight panel discussions, over 40 speakers explored the full breadth of digital sustainability, from net zero and scope 3 emissions to circular economy, water use in data centres, artificial intelligence (AI), social value, digital inclusion, and climate resilience.",
+                "tag": "p"
+            },
+            {
+                "content": "A few themes from the day:",
+                "tag": "p"
+            },
+            {
+                "content": "Celebrating excellence",
+                "tag": "h2"
+            },
+            {
+                "content": "The day concluded with the first GDSA Awards ceremony, where we recognised and celebrated outstanding contributions to digital sustainability. The trophies themselves were aptly made out of e-waste \u2013 recycled computer chip board and upcycled wooden pallets \u2013 kindly provided by GDSA members Tier 1.",
+                "tag": "p"
+            },
+            {
+                "content": "We are delighted to congratulate all the winners.",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps",
+                "tag": "h2"
+            },
+            {
+                "content": "We are already building on momentum from the day with plans to launch new working groups reflecting the priority areas of the upcoming Government Digital Sustainability Strategy. More on this soon, so do watch this space.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "Lydia Tabbron is the Digital Sustainability Lead for Defra and co-ordinates the\u00a0GDSA\u00a0on behalf of government. She has organised the summit with the support of Think Digital Partners.",
+                "tag": "p"
+            },
+            {
+                "content": "The GDSA brings together UK government, ICT and digital supply chain, academics and third sector organisations to drive progress on the sustainability of the UK government\u2019s ICT and digital estate.",
+                "tag": "p"
+            },
+            {
+                "content": "If you're interested in finding out more about what we do or would like to know more about becoming a member of the alliance, please get in touch.",
+                "tag": "p"
+            },
+            {
+                "content": "Check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow?",
+                "tag": "p"
+            },
+            {
+                "content": "Like what you read? Subscribe to the blog for all the latest updates.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://sustainableict.blog.gov.uk/2026/03/26/our-biggest-digital-sustainability-moment-yet/",
+        "blog": "UK Government Sustainable ICT",
+        "blog_link": "https://sustainableict.blog.gov.uk",
+        "description": "Lydia Tabbron reflects on a recent event which marked a key milestone in our digital sustainability journey."
+    },
+    {
+        "title": "A Rare Fungi Discovery at Kingley Vale National Nature Reserve: The First UK Sighting of the Blue-Based Earthtongue",
+        "authors": [
+            "Liz Frost"
+        ],
+        "posted_on": "2026-03-26T09:30:09",
+        "categories": [
+            "Biodiversity",
+            "Fungi",
+            "National Nature Reserve",
+            "Nature",
+            "Nature Recovery",
+            "Science and evidence",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Liz Frost, frequent visitor and fungi specialist, with Rachel Guy, Kingley Vale NNR Reserve Manager",
+                "tag": "p"
+            },
+            {
+                "content": "In mid-December 2025, amateur fungi enthusiast Liz Frost made an extraordinary discovery at Kingley Vale National Nature Reserve in West Sussex \u2014 spotting a tiny, tongue-shaped fungus that turned out to be the first ever UK sighting of\u00a0Microglossum cyanobasis, the Blue-Based Earthtongue, and only the second recorded in Europe. ",
+                "tag": "p"
+            },
+            {
+                "content": "In this post, Liz shares the story of how she found it, how scientists confirmed the identification through DNA sequencing, and what the discovery tells us about the remarkable ecological value of ancient woodland sites like Kingley Vale. Reserve Manager Rachel Guy also reflects on why National Nature Reserves matter \u2014 and why there may still be wonders out there waiting to be found.",
+                "tag": "p"
+            },
+            {
+                "content": "I still can't quite believe it. In mid-December 2025, while exploring for fungi in the ancient yew woodland at Kingley Vale National Nature Reserve (NNR) in West Sussex, I stumbled upon something extraordinary \u2013 a tiny, tongue-shaped fungus poking up through the moss and leaf litter. Little did I know, I had just made the first ever UK sighting of Microglossum cyanobasis, and only the second recorded in Europe.",
+                "tag": "p"
+            },
+            {
+                "content": "What exactly did I find?Microglossum cyanobasis belongs to a fascinating group of fungi commonly called Earthtongues. These little organisms look just like their name suggests \u2013 small tongues emerging from the earth. Mine were ochre to pale ochre in colour, measuring between 45-55mm tall with delicate, fragile stems. Here's the really special bit: the base of the stem has a distinctive cyan-bluish tinge. That's actually where its name comes from \u2013 'cyanobasis' meaning blue base. It's this feature that sets it apart from other Earthtongues.",
+                "tag": "p"
+            },
+            {
+                "content": "On my first visit, I found six individuals growing closely together amongst yews, oaks and mossy soil. Excitement got the better of me and I returned the very next day, discovering another twelve nearby. They're incredibly easy to miss \u2013 small and well camouflaged amongst the woodland floor \u2013 which might explain why they've gone unnoticed until now.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting confirmation",
+                "tag": "p"
+            },
+            {
+                "content": "Finding something unusual is one thing, but confirming what it actually is? That's another matter entirely! I reached out to the British Mycological Society group on Facebook, asking for help. The fungi enthusiast who originally discovered and named this species in Northern Spain back in 2009 suggested it could be Microglossum cyanobasis.",
+                "tag": "p"
+            },
+            {
+                "content": "With help from fellow Earthtongue enthusiasts, specimens were analysed under a microscope. The spores and other features matched the findings from Spain perfectly. To be absolutely certain, DNA sequencing was arranged, which confirmed a 99% match. It was official \u2013 this was the first UK record!",
+                "tag": "p"
+            },
+            {
+                "content": "The joy of looking closer",
+                "tag": "p"
+            },
+            {
+                "content": "Earthtongue fungi can act as indicators of high-quality habitats. They're associated with undisturbed, nutrient-poor grasslands and long-established woodland soils \u2013 environments that are becoming increasingly rare due to fertilisation, drainage, ploughing and land-use change. Finding them tells us that a site has real ecological value.",
+                "tag": "p"
+            },
+            {
+                "content": "I've always loved nature photography, partly for my own mental health and the benefits it brings. Over the past five years, my passion for fungi has grown enormously. There's a euphoric feeling in finding species you've never encountered before \u2013 seeing the incredible variety that so often goes unnoticed beneath our feet. They truly are all beautiful in their own way.",
+                "tag": "p"
+            },
+            {
+                "content": "I'm still learning. I have books piled at home and spend hours researching online. I certainly can't remember all those Latin names! But that's part of the joy \u2013 there's always more to discover, and I get out into the forest whenever I can.",
+                "tag": "p"
+            },
+            {
+                "content": "Rachel Guy on Kingley Vale and National Nature Reserves",
+                "tag": "p"
+            },
+            {
+                "content": "As the Reserve Manager for Kingley Vale National Nature Reserve (NNR), it was a great day when I heard from Liz about her discovery. As an indicator of high-quality habitats, this find highlights the value of NNRs and the hard work by everyone to look after these special places for nature.",
+                "tag": "p"
+            },
+            {
+                "content": "Kingley Vale NNR sits within the South Downs National Park and covers 150 hectares of remarkable landscape. It's home to one of the finest ancient yew forests in Europe \u2013 trees that are at least 500 years old and possibly much older. Legend has it they may have been planted to commemorate Viking warriors, or to provide wood for medieval longbows.",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond the ancient yews, you'll find chalk grassland, several species of orchid, butterflies like the chalkhill blue, and breeding turtle doves. NNRs like Kingley Vale offer a first-hand experience of England's special wildlife, safeguarding nationally important species and habitats so they can be enjoyed and studied now and in the future.",
+                "tag": "p"
+            },
+            {
+                "content": "We'd like to thank Liz for her enthusiasm and interest in Kingley Vale. We're very excited about this new discovery.",
+                "tag": "p"
+            },
+            {
+                "content": "Nature is for everyone, and if you\u2019re interested in volunteering for nature with Natural England, you can find out more in this volunteering on National Nature Reserves video.",
+                "tag": "p"
+            },
+            {
+                "content": "Get out and explore",
+                "tag": "p"
+            },
+            {
+                "content": "Evidence shows that contact with nature improves health and wellbeing. Whether it's tackling stress, supporting mental health or simply getting fresh air, spending time outdoors does us good.",
+                "tag": "p"
+            },
+            {
+                "content": "I hope my discovery inspires you to look a little closer at the natural world around you. Fungi are everywhere \u2013 in woodlands, grasslands, even your local park. You don't need to be an expert to appreciate them.",
+                "tag": "p"
+            },
+            {
+                "content": "Visit a National Nature Reserve near you. Take a walk through ancient woodland. Who knows? You might just find something nobody has seen before.",
+                "tag": "p"
+            },
+            {
+                "content": "Notes: With thanks to Iona Fraser, Placido Iglesias and Malcolm Greaves for their invaluable expertise in confirming this remarkable discovery.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/03/26/a-rare-fungi-discovery-at-kingley-vale-national-nature-reserve-the-first-uk-sighting-of-the-blue-based-earthtongue/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Liz Frost, frequent visitor and fungi specialist, with Rachel Guy, Kingley Vale NNR Reserve Manager In mid-December 2025, amateur fungi enthusiast Liz Frost made an extraordinary discovery at Kingley Vale National Nature Reserve in West Sussex \u2014 spotting a \u2026"
+    },
+    {
         "title": "Unlocking hidden value: how one school turns its spaces  into \u00a3110,000 a year",
         "authors": [
             "Communications Team"
