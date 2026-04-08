@@ -1,5 +1,879 @@
 [
     {
+        "title": "How digital verification service providers should describe their certification for specific use cases",
+        "authors": [
+            "Paul Donati"
+        ],
+        "posted_on": "2026-04-08T16:28:46",
+        "categories": [
+            "Certification",
+            "Digital identity",
+            "UK digital identity and attributes trust framework"
+        ],
+        "content": [
+            {
+                "content": "As adoption of digital verification services (DVS) grows, it\u2019s important that certified DVS providers share clear, consistent and accurate information about what their certification means.",
+                "tag": "p"
+            },
+            {
+                "content": "Some terminology can cause confusion - for example, where providers describe their service as being \u201ccertified for anti-money laundering checks\u201d or certified to operate in other regulatory contexts for which no certifiable rules have been set in a supplementary code.",
+                "tag": "p"
+            },
+            {
+                "content": "This blog post sets out how certified DVS providers can describe their certification and provides examples of misleading language. The aim is to help providers present their certification status clearly and avoid confusion for users, relying parties and Certification Assessment Bodies (CABs).",
+                "tag": "p"
+            },
+            {
+                "content": "Certification is against the DVS trust framework and supplementary codes",
+                "tag": "h2"
+            },
+            {
+                "content": "A DVS can only be certified against the DVS trust framework and supplementary codes published under the Data (Use and Access) Act 2025. A DVS cannot be certified against, for instance, a piece of legislation such as the Money Laundering Regulations, or a specific compliance regime, such as the anti-money laundering regime.",
+                "tag": "p"
+            },
+            {
+                "content": "This means statements such as \u201ccertified for anti-money laundering (AML)\u201d, \u201ccertified for checks under the Money Laundering Regulations (MLRs)\u201d or \u201ccertified to do Know Your Customer and Due Diligence Checks\u201d are not accurate and must not be used.",
+                "tag": "p"
+            },
+            {
+                "content": "Supplementary codes contain rules which build on the trust framework rules to show how DVS can meet additional needs in specific use cases. Regulations, by contrast, are legislation that sets out the broader statutory framework. For example, the MLRs provide that certified DVS can be used for identity checks but do not prescribe specific technical requirements of certified DVS. These technical requirements fall within the scope of the DVS trust framework and supplementary codes, forming the basis for the certification.",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Clarity, consistency and accuracy in the description of certified DVS are essential to maintaining trust in the DVS ecosystem. The use of unsuitable terminology by certified DVS providers could:",
+                "tag": "p"
+            },
+            {
+                "content": "As such, we\u2019ve set specific trust framework rules in this regard, meaning that inaccurate or misleading claims about your service will put your certification at risk.",
+                "tag": "p"
+            },
+            {
+                "content": "What you can say",
+                "tag": "h2"
+            },
+            {
+                "content": "There are two key areas certified DVS providers should focus on when describing their certified service:",
+                "tag": "p"
+            },
+            {
+                "content": "1. The supplementary codes your service/s are certified against:",
+                "tag": "h3"
+            },
+            {
+                "content": "Your supplementary code certification may be relevant to those you work with. Where you\u2019d like to tell them about it, you must clearly state which supplementary codes your service has been certified against. For example:",
+                "tag": "p"
+            },
+            {
+                "content": "2. The sectors or use cases your service supports:",
+                "tag": "h3"
+            },
+            {
+                "content": "You can describe what use case or sector your service has been designed for, or is commonly used in, provided this does not contain any inaccurate or misleading statements, e.g. one implying that you\u2019ve been assessed against a specific regulation for which a supplementary code does not exist. For example:",
+                "tag": "p"
+            },
+            {
+                "content": "You may also describe your product in general terms as supporting organisations operating in regulated sectors, so long as this statement is accurate (i.e. you do actually have a customer base in that sector). For example:",
+                "tag": "p"
+            },
+            {
+                "content": "What you must not say",
+                "tag": "h2"
+            },
+            {
+                "content": "You must not:",
+                "tag": "p"
+            },
+            {
+                "content": "Putting this guidance into practice",
+                "tag": "h2"
+            },
+            {
+                "content": "A clear and compliant service description might look like:",
+                "tag": "p"
+            },
+            {
+                "content": "This approach:",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting a trusted DVS ecosystem",
+                "tag": "h2"
+            },
+            {
+                "content": "If you are unsure how to describe your certification, please seek guidance from us at correspondence@dsit.gov.uk before publishing materials about your certified service(s). ",
+                "tag": "p"
+            },
+            {
+                "content": "OfDIA is also working on service provider application guidance for applying to a CAB to become certified, which will cover what a good service description should look like. We expect to publish this shortly, following this blog post.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/04/08/how-digital-verification-service-providers-should-describe-their-certification-for-specific-use-cases/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "As adoption of digital verification services (DVS) grows, it\u2019s important that certified DVS providers share clear, consistent and accurate information about what their certification means. Some terminology can cause confusion - for example, where providers describe their service as being \u2026"
+    },
+    {
+        "title": "Apply for a Lowland Peat Water Discovery Grant",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-04-08T14:34:03",
+        "categories": [
+            "Grants",
+            "Ways to get involved",
+            "Webinars"
+        ],
+        "content": [
+            {
+                "content": "You can now apply\u00a0for\u00a0a\u00a0Lowland\u00a0Peat Water Discovery Grant.\u00a0Up\u00a0to \u00a34.5 million is available to help farmers and local partners explore more sustainable ways of managing water in lowland peat areas.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Background\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Peatlands hold over half of England\u2019s land-based carbon. When\u00a0they\u2019re\u00a0healthy and wet, they lock in carbon and support wildlife, cleaner\u00a0water\u00a0and natural flood protection.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But most of our lowland peatlands have been drained over the past few centuries to make them suitable for farming.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the peat dries, it breaks down,\u00a0the soil is lost,\u00a0the land sinks and carbon\u00a0is\u00a0released into the atmosphere. Today, only a small fraction of lowland peat\u00a0remains\u00a0in a near-natural state.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These soils are home to some of our most productive farmland, but without changes to how water is managed, we risk losing them. In some areas, there may only be enough peat left to\u00a0enable us to\u00a0farm in the same way for another 20 to 50 years.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The grant",
+                "tag": "h2"
+            },
+            {
+                "content": "Delivered\u00a0by\u00a0the\u00a0Environment Agency,\u00a0the grant will encourage\u00a0and\u00a0enable groups of local stakeholders\u00a0to work\u00a0with\u00a0farmers\u00a0or\u00a0landowners.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together, they will explore\u00a0what changes to water management\u00a0could\u00a0mean for\u00a0farmland\u00a0on\u00a0lowland peat.\u00a0Projects can receive between \u00a350,000 and \u00a3300,000 in funding.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each project will produce a practical plan to show how water tables\u00a0could be raised safely and sustainably. This will consider\u00a0land used for conventional farming, wetter farming and\u00a0paludicuture, or peatland restoration.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It will also look at the wider environmental benefits and risks.\u00a0For example,\u00a0cutting\u00a0emissions and\u00a0supporting\u00a0wildlife, as well as\u00a0improving\u00a0flood and drought resilience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This plan will set out the systems and infrastructure needed to manage higher water tables in the project area.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When projects finish in 2028, they will be well placed to apply for a Water Implementation Grant. This funding can help pay for installing the infrastructure set out in their plan.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applying",
+                "tag": "h2"
+            },
+            {
+                "content": "We are looking for applications from lowland peat areas where the lead applicant is part of, or has brought together, a local group.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To be eligible to apply, the lead applicant\u00a0must be a:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Grants will be awarded competitively,\u00a0to\u00a0the highest scoring applicants.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside other criteria, higher scores will be given to applications from suitable groups of local interested parties that include a farmer or landowner.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0project\u00a0could,\u00a0for\u00a0example,\u00a0bring\u00a0together\u00a0neighbouring farmers or land managers,\u00a0internal drainage boards, wildlife\u00a0trusts\u00a0or\u00a0peatland\u00a0partnerships.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you manage lowland peat and are interested in joining or leading a group application, you can register your details in this\u00a0consortium-building database. This is hosted by\u00a0Defra\u2019s\u00a0delivery partner,\u00a0Niab.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Further details, including a link to a dedicated SharePoint site hosting the grant handbook and application form can be found on the\u00a0Find a Grant\u00a0site.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The deadline to apply is\u00a026 June 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Join the Environment Agency Webinar",
+                "tag": "h2"
+            },
+            {
+                "content": "The Environment Agency Peatland Team will host\u00a0a\u00a0webinar\u00a0on\u00a012 May at 11am\u00a0to help\u00a0potential applicants prepare\u00a0their applications.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0webinar\u00a0will provide an overview of the grant, how to apply, and offer an opportunity for\u00a0applicants\u00a0to put questions to the team.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To sign up\u00a0for the\u00a0webinar, please email\u00a0peatwatergrants@environment-agency.gov.uk.\u00a0If you\u00a0can\u2019t\u00a0make the\u00a0webinar,\u00a0or\u00a0you have questions\u00a0not answered by the guidance,\u00a0you can\u00a0contact\u00a0the team using this\u00a0email\u00a0address.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To\u00a0hear about future grant opportunities and lowland peat news,\u00a0join the Defra Lowland Peat contacts list\u00a0by\u00a0emailing\u00a0lowlandpeat@defra.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/04/08/apply-for-a-lowland-peat-water-discovery-grant/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "You can now apply for a Lowland Peat Water Discovery Grant. Up to \u00a34.5 million is available to help farmers and local partners explore more sustainable ways of managing water in lowland peat areas."
+    },
+    {
+        "title": "Improving England\u2019s lowland peat: applications open for the Water Discovery Grant",
+        "authors": [
+            "Anika Dowling"
+        ],
+        "posted_on": "2026-04-08T14:00:32",
+        "categories": [
+            "Nature",
+            "Peat"
+        ],
+        "content": [
+            {
+                "content": "Today\u00a0we\u2019re\u00a0launching the Lowland Peat Water Discovery Grant. The\u00a0Discovery\u00a0Grant\u00a0will run until 2028, providing up to \u00a34.5\u00a0million\u00a0in funding to support local, collaborative approaches to more sustainable forms of water management within lowland peatland catchments.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0Grant\u00a0is part of Defra\u2019s investment in improving lowland peat and reducing greenhouse gas emissions. It\u00a0is\u00a0delivered by the Environment Agency.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m\u00a0Anika Dowling, Policy\u00a0Advisor in Defra\u2019s Lowland Peat team and in this blog post\u00a0I\u2019m\u00a0going to tell you about this grant,\u00a0and the difference funding can make.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our lowland peat landscapes: why they matter\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "England\u2019s lowland peatlands include some of our most productive and culturally significant landscapes, including the Cambridgeshire Fens, Somerset Levels and Moors, and Lancashire Mosses.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For centuries, these\u00a0naturally wet\u00a0areas have been drained to create drier soils for farming. But this drainage now jeopardises their future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Drainage\u00a0causes the peat to oxidise, releasing carbon and leading to the loss of these valuable soils,\u00a0ultimately resulting\u00a0in land subsidence.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It also increases\u00a0vulnerability to drought, flooding, and other climate-related pressures, making it harder to\u00a0maintain\u00a0business-as-usual practices on drained peat.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By managing water\u00a0tables\u00a0more sustainably, we can slow the degradation of these soils,\u00a0reducing\u00a0emissions and\u00a0supporting\u00a0sustainable food production.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reducing our greenhouse gas emissions\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Around 80% of\u00a0England\u2019s peatlands\u00a0are degraded. They produce about 2% of England\u2019s total greenhouse gas emissions -\u00a0roughly equivalent\u00a0to emissions from 3.5 million homes. Drained lowland peat accounts for 88% of these peatland emissions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last month, we published the\u00a0Land Use Framework,\u00a0announcing up to \u00a350\u00a0million\u00a0of lowland peat grants over the next four years. This funding will support water infrastructure, local\u00a0collaboration\u00a0and trials of farming with a higher water table. ",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these grants will help farmers and land managers to improve and, where\u00a0appropriate, restore lowland peat soils, helping to reduce carbon emissions,\u00a0retain\u00a0the soil and reduce subsidence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Discovery Grants:\u00a0preparing for implementation\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The grant will fund\u00a0groups to\u00a0investigate\u00a0infrastructure\u00a0and\u00a0water needs, and the\u00a0environmental opportunities and risks of changing water management in lowland peat soils.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Successful projects will help to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each Discovery Grant\u00a0project\u00a0will produce an implementation plan,\u00a0setting out\u00a0how water tables can be raised for\u00a0conventional farming,\u00a0wetter farming\u00a0and\u00a0paludiculture, or peatland restoration. Plans\u00a0will\u00a0identify\u00a0the systems and infrastructure\u00a0required\u00a0to deliver and manage raised water tables within the project area.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Upon completion in 2028, projects will be well\u00a0placed to apply for\u00a0a\u00a0Water Implementation Grant, which will fund installation of the infrastructure\u00a0identified\u00a0in the plan.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improving lowland peat:\u00a0project success\u00a0so far\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To date, Defra has funded the\u00a0Water Discovery Pilot,\u00a0Small Infrastructure Pilot, and the\u00a0Paludiculture Exploration Fund.\u00a0These pilots supported data gathering, local partnerships\u00a0and market development, and small-scale water management infrastructure.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the precursor to the Discovery Grant, the\u00a0Lowland Peat\u00a0Water\u00a0Discovery Pilot funded 13\u202fprojects and showed that strong local collaboration is central to driving changes in water management.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For\u00a0example,\u00a0Farming\u00a0and\u00a0Wildlife\u00a0Advisory\u00a0Group\u00a0(SW)\u2019s\u00a0project,\u00a0\u201cSomerset Moor Futures\u201d, brought farmers across two lowland moors into a shared approach to water and land management, overcoming long-standing challenges around fragmentation. By building trust and agreeing changes, the project has developed plans for coordinated action for carbon, biodiversity, and flood resilience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Yorkshire & Humber Drainage Boards\u00a0also delivered the\u00a0River Hertford project, which\u00a0brought together the Vale of Pickering Internal Drainage Board (IDB), Yorkshire Wildlife Trust, and local landowners to explore how farming can work alongside conservation of peat soils. Their project gathered evidence on how the IDB\u202fcould\u202fhelp\u202ffacilitate\u202fthe\u202frewetting\u202fof\u202fpeat\u202fsoils\u202fwhile continuing to meet its\u202fcore\u202fland-drainage\u202fand\u202fflood risk management\u202froles. A new hydraulic model is now helping the\u202fIDB\u202fand partners\u202ftrial more responsive\u202fwater management\u202facross the catchment.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cBroads Water Level Management\u201d\u00a0in the Broads National Park,\u00a0saw\u00a0the Broads Authority, Norfolk Farming and\u00a0Wildlife\u00a0Advisory\u00a0Group, Cranfield University\u00a0and Norfolk Environment Food & Farming develop water feasibility studies alongside machine-learning\u00a0approaches\u00a0to create a set of effective water management rules. The project united farmers, land\u00a0managers\u00a0and communities,\u00a0and developed strategic mapping that\u00a0identified\u00a0water requirements alongside practical solutions for carbon reduction.\u00a0You can hear more on\u00a0their\u00a0Broadly Speaking Podcast.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s\u00a0coming\u00a0next\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have a series of future lowland peat grant opportunities,\u00a0including:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get in touch\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The application window is open from\u00a08 April\u00a0to\u00a026 June 2026.\u00a0\u00a0If you are interested in applying for a Discovery Grant, see details of how to apply at GOV.UK. From here you can request access to a dedicated SharePoint site hosting the grant handbook and application form.",
+                "tag": "p"
+            },
+            {
+                "content": "To support applicants, the EA Peatland Team will host an\u00a0Application Webinar\u00a0on\u00a012\u00a0May\u00a02026\u00a0at 11am,\u00a0after\u00a0the local elections.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To sign up\u00a0for the\u00a0webinar, please\u00a0email\u00a0peatwatergrants@environment-agency.gov.uk.\u00a0Any questions which are not answered by the guidance\u00a0or\u00a0during\u00a0the\u00a0webinar\u00a0can also be emailed to this address.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you are\u202finterested in\u202fbuilding\u202for joining\u00a0a consortium\u202fahead of a\u00a0group\u00a0application,\u202fyou can log your details in this\u00a0consortium-building database, hosted by Defra\u2019s delivery partner, Niab.",
+                "tag": "p"
+            },
+            {
+                "content": "To join the Defra Lowland Peat contacts list,\u00a0please email lowlandpeat@defra.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/04/08/improving-englands-lowland-peat-applications-open-for-the-water-discovery-grant/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "Today\u00a0we\u2019re\u00a0launching the\u00a0Lowland Peat Water Discovery Grant. The Discovery Grant\u00a0will run until 2028, providing up to \u00a34.5\u00a0million\u00a0in funding to support local, collaborative approaches to more sustainable forms of water management within lowland peatland catchments.\u00a0 Read this post to find out more."
+    },
+    {
+        "title": "Why screening is not the answer to inconsistently applied clinical guidance",
+        "authors": [
+            "Phil Gardner"
+        ],
+        "posted_on": "2026-04-08T13:33:41",
+        "categories": [
+            "UK National Screening Committee"
+        ],
+        "content": [
+            {
+                "content": "The National Institute for Health and Care Excellence (NICE) and Health Improvement Scotland (HIS) issue evidence\u2011based recommendations to guide the clinical management of many health conditions. They label recommendations \u2018strong\u2019 if evidence suggests most practitioners, commissioners and service users would choose the recommended intervention. This is typically if the benefits of the recommendation clearly outweigh the harms and it is likely to be cost effective.",
+                "tag": "p"
+            },
+            {
+                "content": "However, in some cases, strong NICE and HIS recommendations may not be applied consistently. If this happens, the UK National Screening Committee (UK NSC) sometimes receives proposals to introduce a screening programme in order to improve adherence to the guidance. Yet a screening programme is not designed \u2013 or intended \u2013 to fix problems arising from inconsistent implementation of clinical guidance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "UK NSC\u2011recommended screening programmes are built around structured systems: defined pathways, IT systems, call/recall mechanisms, quality assurance, and national oversight. These features help make sure asymptomatic people who did not ask for the test receive safe, effective, and evidence\u2011based care minimising harm. Clinical guidance, by contrast, rarely comes with this infrastructure. But the solution to that gap is to strengthen clinical systems \u2013 not to introduce screening where it is inappropriate.",
+                "tag": "p"
+            },
+            {
+                "content": "Important differences between screening and clinical management",
+                "tag": "h2"
+            },
+            {
+                "content": "Screening is specifically for people without symptoms or a diagnosis of the condition they are being offered screening for. The process must therefore minimise harms, such as unnecessary treatment or anxiety resulting from false positive test results. This level of caution is less relevant for people who have a diagnosed condition or are in clinical care. They have already sought clinical care or advice for a problem. They are in direct contact with a clinician so they can discuss the merits or otherwise of tests and treatments, rather than simply being provided with generic information to read. They have symptoms or a reason to worry. This means their test is much more likely to represent a true positive result, unlike in screening when people have a greater chance of receiving a false positive result.",
+                "tag": "p"
+            },
+            {
+                "content": "People in clinical care expect follow-up and face a smaller risk of harm from predictive tests. The ethical position, the ability of an individual to discuss issues with a clinician, and the likelihood of having a condition, all therefore differ significantly between clinical management and screening.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Care for long-term conditions accounts for the majority of NHS activity. Creating screening programmes for each of these long-term conditions would not be a feasible or sensible use of limited public resources. Screening requires substantial infrastructure and workforce capacity. Expanding it beyond suitable conditions would overburden services. Efforts should instead focus on improving adherence to clinical guidance so resources can be directed where they will have the greatest impact.",
+                "tag": "p"
+            },
+            {
+                "content": "Principles that can be applied to both",
+                "tag": "h2"
+            },
+            {
+                "content": "Certain principles from screening can be applied within clinical services to support better implementation of clinical guidance without turning that guidance into a screening programme.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, the screening pathway section of the UK NSC's Screening in Healthcare: Principles of screening manual explains what needs to be in place to support safety and effectiveness. Transferable strategies include:",
+                "tag": "p"
+            },
+            {
+                "content": "These strategies allow clinical management to gain some of the organisational benefits of screening, while reflecting the evidence base, staying appropriate to patients\u2019 needs and staying aligned with clinical pathways.",
+                "tag": "p"
+            },
+            {
+                "content": "See Cross-partner working on targeted screening: UK NSC, NICE and HIS for more information on how the work of the UK NSC interacts with the bodies responsible for clinical guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u202fregister to receive updates\u202fdirect to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u202fuknsc@dhsc.gov.uk.\u202f\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2026/04/08/why-screening-is-not-the-answer-to-inconsistently-applied-clinical-guidance/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "Certain screening principles can help support better implementation of clinical guidance without turning that guidance into a screening programme."
+    },
+    {
+        "title": "The importance of military training",
+        "authors": [
+            "Brigadier Gavin Hatcher CBE"
+        ],
+        "posted_on": "2026-04-08T12:17:59",
+        "categories": [
+            "Defence Training Estate (DTE)",
+            "Public Access",
+            "Training Estate Public Safety"
+        ],
+        "content": [
+            {
+                "content": "Every day of the year, across the entire UK Defence training estate, our service personnel undertake rigorous, complex and demanding training designed to prepare them for the demands of modern operations. This training is essential to maintaining the readiness of our Armed Forces. And today, readiness has never been more important.",
+                "tag": "p"
+            },
+            {
+                "content": "From instability and heightened tension across parts of the Middle East to the ongoing war in Ukraine, the international environment remains turbulent and unpredictable. Our forces must be prepared to respond at a moment\u2019s notice\u2014whether to deter aggression, support allies, or protect the UK\u2019s interests. That preparation begins here at home, long before deployment, on the training areas that thousands of our personnel rely on every year.",
+                "tag": "p"
+            },
+            {
+                "content": "Why Uninterrupted Training is Vital",
+                "tag": "h2"
+            },
+            {
+                "content": "While some areas of the UK training estate offer permitted access to the public, it is not simply open countryside. It is a live, working military environment designed expressly for one purpose: to prepare our people for the realities of operational service. Much of this activity is planned many months in advance. It requires precise coordination, specialist equipment, and the safe movement of both personnel and military vehicles including heavy armour. In areas such as Salisbury Plain Training Area, the intensity of training has increased significantly in the last year alone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When members of the public inadvertently stray into restricted or active training areas, the consequences can be serious. Not only are they placing themselves in danger, but they risk forcing an immediate halt to training -disrupting critical exercises and delaying vital preparation for those individuals who may, before long, find themselves deployed overseas.",
+                "tag": "p"
+            },
+            {
+                "content": "Members of the public sometimes tell us they believed it was safe to leave designated access routes because no activity was visible or audible. It is vital to be clear: just because you cannot see or hear training activity does not mean it is not taking place, or about to take place. Use of pyrotechnics, high\u2011speed vehicle manoeuvres and complex tactical activity can take place without warning, often just beyond the next rise or tree line.",
+                "tag": "p"
+            },
+            {
+                "content": "We rely on the public to use military land responsibly. By remaining on permitted routes and adhering to safety guidance, you can help ensure that essential training - training critical to the UK\u2019s operational readiness - can continue without disruption.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidedio.blog.gov.uk/2026/04/08/the-importance-of-military-training/",
+        "blog": "Inside DIO",
+        "blog_link": "https://insidedio.blog.gov.uk",
+        "description": "Every day of the year, across the entire UK Defence training estate, our service personnel undertake rigorous, complex and demanding training designed to prepare them for the demands of modern operations. This training is essential to maintaining the readiness of \u2026"
+    },
+    {
+        "title": "Improving EU\u00a0trade: what you need to know",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-04-08T10:57:30",
+        "categories": [
+            "Farming across the UK"
+        ],
+        "content": [
+            {
+                "content": "The UK government is working on a new food trade agreement with the European Union (EU) to make it easier for farmers and food producers to trade.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This agreement is called the Sanitary and Phytosanitary (SPS) agreement. It aims to simplify the checks\u00a0required\u00a0for agri\u2011food products moving between the UK and the EU. This includes goods traded with Northern Ireland.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The aim is to cut unnecessary paperwork, reduce costs for exporters, and help businesses keep supplying the high\u2011quality food the UK is known for.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This post explains the background to the SPS agreement, what it is meant to do, and how you can keep up with progress.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The SPS agreement",
+                "tag": "h2"
+            },
+            {
+                "content": "UK exports of food and agricultural goods to the EU have fallen by 22%\u00a0since 2018. This\u00a0represents\u00a0almost \u00a34 billion in lost trade.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new SPS agreement is intended to\u00a0boost this trade,\u00a0by cutting paperwork, removing unnecessary\u00a0checks\u00a0and helping fresh produce move more quickly across borders.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The agreement\u00a0should\u00a0come into force in mid\u20112027, so we want every business in the farming sector to start preparing now.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All UK businesses will need to follow the relevant EU rules covered by the agreement, whether they trade with the EU or\u00a0operate\u00a0only within the UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a result, farming businesses may need to make changes to how they work to ensure they meet these requirements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Respond to the\u00a0call for\u00a0information",
+                "tag": "h2"
+            },
+            {
+                "content": "We want to understand how the agreement will affect businesses and what support they will need to get ready for these changes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have\u00a0launched\u00a0a\u00a0call for\u00a0information to gather views\u00a0from the farming and agri\u2011food sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Farmers can use this to explain what support they need and what challenges they currently face when trading with the EU.\u00a0We\u00a0will use these responses to design guidance and\u00a0assistance\u00a0ahead of the deal coming into force.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The call for information closes on 23 April, so please share your feedback before then.",
+                "tag": "p"
+            },
+            {
+                "content": "Benefits",
+                "tag": "h2"
+            },
+            {
+                "content": "Reducing costs for businesses\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The agreement is expected to lower costs for businesses. Companies trading with the EU may spend less on complex border paperwork if current requirements are simplified. Export Health Certificates (which can cost up to \u00a3200 per consignment) would no longer be required under the proposed approach.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Routine border checks by Port Health Authorities on products such as dairy, fish, eggs and red meat would also be removed. This could reduce fees, cut delays, and lower the risk of goods spoiling.",
+                "tag": "p"
+            },
+            {
+                "content": "Improving speed of trade",
+                "tag": "h3"
+            },
+            {
+                "content": "The agreement is expected to speed up trade, helping fresh produce move through supply chains more efficiently. This could strengthen supply\u2011chain resilience and support food security in both the UK and Europe.",
+                "tag": "p"
+            },
+            {
+                "content": "Creating access to new markets",
+                "tag": "h3"
+            },
+            {
+                "content": "The agreement is expected to\u00a0open up\u00a0new market opportunities. It would allow trade in products such as fresh sausages,\u00a0burgers\u00a0and seed potatoes to resume, enabling these goods to re\u2011enter EU markets. This could boost production for UK businesses and increase product choice for consumers on both sides of the Channel.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting small businesses",
+                "tag": "h3"
+            },
+            {
+                "content": "Small and medium\u2011sized enterprises are among the businesses most affected by current paperwork and certification requirements. Some have stepped back from EU trade because the administrative burden outweighed the commercial benefit.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The proposed changes may also help businesses that import food products for processing or distribution. By reducing these barriers, the agreement aims to make it easier for firms to restart or expand their trade with the EU.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stay\u00a0up-to-date",
+                "tag": "h2"
+            },
+            {
+                "content": "Bookmark our new hub page on GOV.UK",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019ve\u00a0published a new page on GOV.UK that brings together guidance on the agreement, a newsletter you can sign up to for updates, and the latest news.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "UK-EU SPS Agreement - Information for Businesses - GOV.UK",
+                "tag": "p"
+            },
+            {
+                "content": "Get updates direct from Defra",
+                "tag": "h3"
+            },
+            {
+                "content": "When negotiations finish,\u00a0we\u2019ll\u00a0share the results and provide guidance and support for businesses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can\u00a0sign up for e-alerts from Defra\u00a0or you can\u00a0subscribe to the Farming Blog\u00a0for a notification whenever we publish a new post.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/04/08/improving-eu-trade-what-you-need-to-know/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "The government is working on a new food trade agreement with the European Union (EU) to make it easier for farmers and food producers to trade. This post explains the background to the agreement, what it is meant to do, and how you can keep up with progress."
+    },
+    {
+        "title": "Unearthing the net zero solution beneath our feet",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-04-08T08:38:32",
+        "categories": [
+            "Climate change"
+        ],
+        "content": [
+            {
+                "content": "When you think about net zero, what comes to mind? Sunlight reflecting off solar panels? Turbines spinning in strong coastal winds?",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re used to looking up and out to imagine a low-carbon future. But one of the most powerful tools for reaching net zero isn\u2019t in the sky or the sea \u2013 it\u2019s beneath our feet.",
+                "tag": "p"
+            },
+            {
+                "content": "The subsurface is vast, secure, and uniquely suited to underpin the technologies that will define a low-carbon economy. Deep underground reservoirs can permanently store carbon captured from industry and the atmosphere. Salt caverns and depleted gas fields can safely hold clean energy like hydrogen until it\u2019s needed. Heat from the Earth itself can be tapped for low-carbon geothermal energy. Even natural rock formations can act as giant thermal batteries, storing heat in summer to warm buildings in winter.",
+                "tag": "p"
+            },
+            {
+                "content": "But not all of the subsurface is accessible, and some parts are much better suited to hosting net zero technologies than others. This raises an important question: is there enough usable subsurface space for different net zero technologies, and what happens if it starts to get crowded?",
+                "tag": "p"
+            },
+            {
+                "content": "Leaving no stone unturned",
+                "tag": "h2"
+            },
+            {
+                "content": "At the Environment Agency, we have a responsibility to protect and improve the environment and regulate activities that impact it. Research helps us understand what different net zero pathways mean for the environment, the sectors we regulate, and the communities in which we work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cFor the net zero transition to be sustainable and just, it has to work for people, nature, and the economy. Finding that balance while acting with the urgency needed to address climate change is one of today\u2019s greatest technical challenges,\u201d said Environment Agency Chief Scientist, Dr Robert Bradburne. \u201cWorking together across sectors means we can approach this challenge from all sides, which unlocks efficiencies and opportunities for industry, government, and the people we serve.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To this end, the Environment Agency and British Geological Survey (BGS) teamed up to explore the impacts of net zero on the subsurface. We wanted to know whether technologies that use the subsurface could be located within the same, or neighbouring, underground spaces. And if they were located close together, what effect could this have on the environment and people?",
+                "tag": "p"
+            },
+            {
+                "content": "Geology: the underground enabler of net zero",
+                "tag": "h2"
+            },
+            {
+                "content": "For this study, we looked at different net zero technologies that use the subsurface: carbon capture and storage, geological energy storage (hydrogen and compressed air), wind energy, and geothermal energy.",
+                "tag": "p"
+            },
+            {
+                "content": "We started by considering the subsurface features that these technologies need to work, such as depth, temperatures, and rock characteristics. From there, we identified the types of geological settings that could be used for more than one technology.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe United Kingdom\u2019s remarkably diverse geology offers a foundation for net zero \u2013 porous sandstones that can securely store carbon, salt formations ideal for hydrogen storage, and hot, fractured granites that unlock geothermal heat,\u201d said Dr Michelle Bentham, Chief Scientist for Decarbonisation and Resource Management at BGS. \u201cWe have the ideal subsurface environment\u00a0to power a cleaner future.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Salt caverns, which are created by dissolving naturally occurring salt in rock, are one example of a setting with several uses. Salt caverns could potentially host hydrogen or compressed air. Another example is deep rocks that contain lots of small, connected spaces that are filled with salty water, which could be used for deep geothermal energy or storing carbon dioxide.",
+                "tag": "p"
+            },
+            {
+                "content": "How, and where, will the subsurface be used?",
+                "tag": "h2"
+            },
+            {
+                "content": "BGS previously mapped the potential of the subsurface to host these low-carbon technologies based on geological setting. They combined these maps with one another to see which parts of the UK could host multiple net zero technologies (see darker areas in the map below).",
+                "tag": "p"
+            },
+            {
+                "content": "In England, this includes the east, north east, Cheshire Basin, and Wessex Basin \u2013 places close to where planned net zero industrial clusters are located.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cIt\u2019s no coincidence that areas with the greatest geological potential for the energy transition sit alongside major industrial clusters. Industry originally grew where the right rocks and resources were found,\u201d said geologist Dr Jim White, project lead at BGS. \u201cToday, those same sedimentary basins and salt formations that once powered industrial development can store carbon, hydrogen, and heat, allowing us to repurpose both the geology and the infrastructure to support net zero and clean growth.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "How could underground crowding affect the environment?",
+                "tag": "h2"
+            },
+            {
+                "content": "We hosted a workshop to hear from industry, government, and universities. From these conversations, it was clear that environmental issues might arise where infrastructure from different technologies accidentally connect. For example, boreholes are often drilled into the ground to transfer fluids to and from the subsurface. If they collide with other infrastructure, this can create holes that become pathways for pollution to reach groundwater.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThese environmental impacts might be small when considering a single technology but can add up when combined with effects from other technologies,\u201d said Dr Sian Loveless, geoscientist and project lead at the Environment Agency. \u201cHowever, using neighbouring space in the subsurface can open up opportunities for industries to work together and reduce their impact on the environment.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Better planning can help industries to complement, rather than compete, with one another for space and resources. Doing so can help minimise disruption from construction and operations at the surface, while reducing the number of boreholes that need to be drilled into the ground.",
+                "tag": "p"
+            },
+            {
+                "content": "And what about people?",
+                "tag": "h2"
+            },
+            {
+                "content": "It is also important to consider how the use of the subsurface by net zero technologies might affect society, since this will influence how and where these technologies can be used.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cSocial scientific evidence is an integral part of our research,\u201d said Dr Katie Dow, who led the Environment Agency\u2019s exploration of social and behavioural science on this project. \u201cUnderstanding what the public thinks, feels, values, and fears makes us better equipped to achieve a net zero transition that aligns with their priorities.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "We found that the public want to know that net zero technologies are safe and effective. Other factors that shape public opinion include past experiences with industrial installations, views on climate change, and trust in operators. One lesson from the literature and workshop was clear: it is always important to engage early and transparently.",
+                "tag": "p"
+            },
+            {
+                "content": "Making space for a low-carbon future",
+                "tag": "h2"
+            },
+            {
+                "content": "A particular challenge we found was joining up the different timescales at play \u2013 technological, climate, environmental, and geological \u2013 that reflect changes happening today through to 10,000 years in the future. When would technologies be ready to break ground? How long would they be in operation? When could environmental and social affects be felt? Future work would benefit from \u201cgrounding\u201d these issues within places to pin down the details.",
+                "tag": "p"
+            },
+            {
+                "content": "By supporting a range of technologies that reduce greenhouse gas emissions, the subsurface is part of the nation\u2019s solution to reaching net zero and combatting climate change. This work has helped us understand and anticipate how this might look in terms of timing, space, and combinations of different technologies. By considering a range of net zero options upfront, we can plan the subsurface in ways that work better for the climate, for nature, and for people.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/04/08/unearthing-the-net-zero-solution-beneath-our-feet/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "When you think about net zero, what comes to mind? Sunlight reflecting off solar panels? Turbines spinning in strong coastal winds?"
+    },
+    {
+        "title": "Live More \u2013 supporting people living with dementia to stay active, connected and well\u00a0through Shared Lives",
+        "authors": [
+            "Sarah McClinton"
+        ],
+        "posted_on": "2026-04-08T08:28:37",
+        "categories": [
+            "Ageing",
+            "Care and support",
+            "Communities",
+            "Our profession"
+        ],
+        "content": [
+            {
+                "content": "Introduction by Sarah McClinton\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I was so impressed when I heard about the Live More initiative in Greater Manchester and would like to thank Neil Crowther for this blog, which I am delighted to introduce.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is particularly timely, as I am pleased to be one of the co-chairs for the Frailty and Dementia Modern Service Framework (MSF) and privileged to work with my fellow co-chairs\u00a0Jugdeep\u00a0Dhesi, President of the British Geriatrics Society, and Jeremy Isaacs, NHS England\u2019s National Clinical Director for Dementia. The introduction of MSFs was heralded in the Government\u2019s\u00a010 year\u00a0health plan and the MSF for Frailty and Dementia embraces both health and social care services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is\u00a0a great opportunity\u00a0to be ambitious about what is most important to people and how services should best support people living with\u00a0dementia\u00a0and/or\u00a0frailty, and\u00a0their\u00a0carers, to live fulfilling lives. We have now held the first task and finish group with a wide range of partners. The Frailty and Dementia MSF\u00a0is\u00a0due to be published by the end of this year and I will update on this site as the work progresses.",
+                "tag": "p"
+            },
+            {
+                "content": "The Live More programme is designed to help people living with dementia by helping them stay active, connected and well through Shared Lives arrangements. Neil\u2019s blog highlights some of the challenges faced by people with dementia and their families, emphasising the need for early and creative support to\u00a0maintain\u00a0wellbeing and reduce pressures on health and social care systems.\u00a0It is a model that\u00a0operates\u00a0on a human scale with relationships and reciprocity at its heart.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Live More \u2013 supporting people living with dementia to stay active, connected and well\u00a0through Shared Lives by\u00a0Neil Crowther\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "What matters?",
+                "tag": "p"
+            },
+            {
+                "content": "In 2024\u00a0Think Local Act Personal\u00a0asked people with dementia and their families\u00a0what mattered to maintaining their wellbeing. People emphasised having a life beyond dementia, feeling recognised and having opportunities to be helpful, staying connected and not feeling alone, while family carers point specifically to the importance of time out of regular, meaningful time out.\u00a0Yet across much of the country there is an absence of\u00a0good\u00a0support for people to do so, with too many people and families living with dementia struggling alone.\u00a0The cost to them is disconnection, isolation and fast declining health and wellbeing, often only appearing on the radar of the NHS and adult social care when they reach crisis-point.",
+                "tag": "p"
+            },
+            {
+                "content": "The cost of delay in reaching people is significant avoidable system pressures. For example:",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s\u00a0clear\u00a0then, given the scale of this challenge, that the ambitions of the NHS Ten Year Plan and those related to adult social care will only be realised through concerted action to reach people and families living with dementia earlier, with targeted,\u00a0flexible\u00a0and creative support.\u00a0Yet, as\u202fthe Nuffield Trust\u202fobserved\u202fin 2024 \u2018there has been only patchy development of new or innovative services to meet changing needs, preferences and individual circumstances (of people living with dementia).\u2019\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Act early, live more",
+                "tag": "p"
+            },
+            {
+                "content": "A unique partnership across Greater Manchester (GM) is hoping to buck this trend, pioneering a new way of harnessing\u00a0Shared\u00a0Lives support to help people with dementia and their families to be or stay connected to their communities and do things they\u00a0value.\u00a0As part of Greater Manchester\u2019s commitment to supporting people to live well with dementia,\u00a0the support\u00a0is designed to reach people earlier than\u00a0typically reached by adult social care at present, with the hope that this redirection of resources to support early action will reduce pressure on the health and care system later on.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While\u00a0Shared\u00a0Lives is a\u00a0well-established and leading approach to care and support,\u00a0it is not\u00a0yet\u00a0widely offered to people with dementia and their families.\u00a0In the Live More pilot, local\u00a0Shared Lives schemes across GM are carefully matching and bringing together people with dementia with approved \u2018shared lives carers\u2019 to spend time together each week, being and doing the things that matter to them.\u00a0Already in GM this includes everything from\u00a0going to watch Oldham\u2019s football and having a post-match pint, to\u00a0visiting the Transport Museum, doing some gardening, or buying ingredients to make a family-favourite meal together and treat their spouse again.\u00a0It\u2019s\u00a0connections like these which are helping people\u00a0maintain\u00a0their identity and sense of belonging, at a time when life and relationships go through a disorientating transition, and which simultaneously offer families some time out.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Measuring impact",
+                "tag": "p"
+            },
+            {
+                "content": "In partnership with GM Association of Directors of Adult Social Services, Shared Lives Plus are facilitating and guiding the ten GM schemes to deliver this test and conducting a robust evaluation.\u00a0We are\u00a0using Treasury-compliant social return on investment\u00a0methodology\u00a0to\u00a0identify\u00a0economic value and cost-avoidance\u00a0alongside\u00a0participatory methods to capture people\u2019s own account of\u00a0the\u00a0impact of the support for their health and wellbeing. We will share the findings\u00a0this\u00a0summer.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A number of\u00a0other areas are mounting their own local Live More experiments, including Liverpool, Stoke-on-Trent and Hartlepool\u00a0and we hope these sites will continue to grow in number.\u00a0Ultimately,\u00a0we\u00a0believe\u00a0Shared Lives\u00a0will\u00a0work\u00a0best\u00a0when\u00a0it\u2019s\u00a0connected to\u00a0and helps stitch together\u00a0wider local neighbourhood ecosystems\u00a0of support and connection\u00a0at every stage of\u00a0people\u2019s\u00a0experience of dementia.\u00a0We are in the\u00a0early stages\u00a0of Planning phase 2\u00a0of Live More,\u00a0with a view to securing sites to pilot such an \u2018ecosystem\u2019 approach,\u00a0so if you if\u00a0you are interested,\u00a0please\u00a0get in touch.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Life, and living life with dementia,\u00a0gets\u00a0better when\u00a0it\u2019s\u00a0shared.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more info\u00a0about\u00a0Live More\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialworkwithadults.blog.gov.uk/2026/04/08/live-more-supporting-people-living-with-dementia-to-stay-active-connected-and-well-through-shared-lives/",
+        "blog": "Social work with adults",
+        "blog_link": "https://socialworkwithadults.blog.gov.uk",
+        "description": "Introduction by Sarah McClinton\u00a0 I was so impressed when I heard about the Live More initiative in Greater Manchester and would like to thank Neil Crowther for this blog, which I am delighted to introduce.\u00a0 It is particularly timely, as \u2026"
+    },
+    {
         "title": "Reducing requisitions:\u00a0 Trowers\u00a0&\u00a0Hamlins\u2019\u00a0quality-led approach\u00a0\u00a0",
         "authors": [
             "Michelle Crouch, Customer Engagement and Development, Customer and Strategy Group"
