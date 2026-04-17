@@ -1,5 +1,495 @@
 [
     {
+        "title": "We\u2019re piloting NDX:Try, a new platform to help local councils test digital services before they buy",
+        "authors": [
+            "Chris Nesbitt-Smith"
+        ],
+        "posted_on": "2026-04-17T14:10:15",
+        "categories": [
+            "Chat",
+            "Cloud",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "We recently launched a pilot for NDX:Try to help local councils try new and innovative digital and AI services for free before deciding whether to buy them.",
+                "tag": "p"
+            },
+            {
+                "content": "You can access the service here: ndx.digital.cabinet-office.gov.uk ",
+                "tag": "p"
+            },
+            {
+                "content": "The platform will provide secure, time-limited access to cutting-edge tools in a non-production environment, with no upfront effort or cost.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s designed to help tackle challenges with buying technology that we see across the public sector: organisations with tightly controlled budgets are limited in their ability to use technology for free at the point of use.",
+                "tag": "p"
+            },
+            {
+                "content": "The pilot of NDX:Try includes a range of scenarios for councils to experiment and build with, such as:",
+                "tag": "p"
+            },
+            {
+                "content": "There are currently 8 scenarios on the platform with accompanying guided walk throughs in addition to access to hundreds of underlying services available from Amazon Web Services, an early supporter and collaborator of NDX:Try.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re already in conversations with technology companies of all shapes and sizes to add more, along with broadening out to include a wider range of public sector organisations and use cases. If you have a solution you\u2019d like to be available on NDX:Try, you can get in touch with the team on this email address: Ndx@dsit.gov.uk",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, this is a pilot, and therefore everything is experimental, so we welcome your comments and feedback.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2026/04/17/were-piloting-ndxtry-a-new-platform-to-help-local-councils-test-digital-services-before-they-buy/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "We recently launched a pilot for NDX:Try to help local councils try new and innovative digital and AI services for free before deciding whether to buy them. You can access the service here: ndx.digital.cabinet-office.gov.uk The platform will provide secure, time-limited \u2026"
+    },
+    {
+        "title": "Meningitis\u00a0cases in Dorset: what you need to know\u00a0",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-04-17T13:35:07",
+        "categories": [
+            "Meningitis"
+        ],
+        "content": [
+            {
+                "content": "This blog post concerns an ongoing incident and will be updated as\u00a0new information\u00a0becomes available.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Three\u00a0young\u00a0people\u00a0in Weymouth,\u00a0Dorset\u00a0have been confirmed to have meningitis B, known as\u00a0MenB.\u00a0All-three individuals have received treatment and are recovering well.\u00a0These cases are not linked to the recent outbreak in\u00a0Kent\u00a0and this outbreak\u00a0is not showing the same speed of transmission or severity of illness.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we know so far\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The first\u00a02\u00a0cases are linked through a shared social network and\u00a0are\u00a0confirmed as having the same\u00a0MenB\u00a0strain.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A third case was initially not known to be connected to the first\u00a02. However, laboratory testing has now confirmed that this case is caused by the same strain.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This does not necessarily mean that the individuals had direct contact with each other, but it does suggest that this strain may be circulating among young people in the Weymouth area.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is this outbreak linked to the Kent outbreak?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "All-three cases are a different strain\u00a0of\u00a0MenB\u00a0to\u00a0the\u00a0one\u00a0identified\u00a0in the recent Kent\u00a0outbreak,\u00a0and\u00a0are not linked to that incident.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What UKHSA is doing\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Working alongside the NHS and Dorset Council, UKHSA is\u00a0offering\u00a0preventative\u00a0antibiotic treatment and vaccination\u00a0to\u00a0a number of\u00a0young people\u00a0who live or study in the area.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our\u00a0health protection teams\u00a0are\u00a0interviewing cases and their families to\u00a0identify\u00a0close contacts and\u00a0to help\u00a0limit further spread. Advice has been issued to staff,\u00a0parents\u00a0and carers at all educational settings in the area.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There is no need for schools to change their routines, and\u00a0children\u00a0should continue to attend as normal.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who should come forward for antibiotics?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As a precautionary measure, UKHSA is\u00a0advising the following groups to\u00a0collect preventative antibiotics:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "or",
+                "tag": "p"
+            },
+            {
+                "content": "Antibiotics\u00a0will be offered in stages.\u00a0Pupils from\u00a0Budmouth\u00a0Academy\u00a0and Wey Valley schools will be invited to come forward to collect them over this weekend (18 and 19 April).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Pupils who attend other schools and other eligible children in Weymouth who do not attend school will be invited after the weekend. Details of where this will take place are being finalised and will be confirmed shortly.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0All young people being offered antibiotics will also be offered a\u00a0MenB\u00a0vaccination, however\u00a0antibiotics provide the most effective short-term protection.\u00a0More information on the vaccination schedule will be provided\u00a0in due course.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How have we decided who is eligible for antibiotics?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Meningococcal disease can sometimes spread through social networks, and while all-three cases are resident in Weymouth, we\u00a0haven't\u00a0been able to\u00a0identify\u00a0a specific setting or grouping that connects them all. This suggests the strain may be circulating more widely among young people in the area.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Because we know young people interact and move around in\u00a0many different ways, it is important to take a broad approach rather than target a single school or venue. We are therefore offering antibiotics to all secondary school age children who either live in or attend school in the Weymouth area. We believe this gives us the best chance of reaching the social networks involved and preventing further cases.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Am I still at risk if I have had the\u00a0MenACWY\u00a0vaccine?\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Although the\u00a0MenACWY\u00a0vaccine offers good protection against several strains of meningococcal disease and is routinely offered to teenagers in school Years 9 and 10, it does not protect against all strains. Other strains, such as\u00a0MenB, can circulate among young adults and the\u00a0MenACWY\u00a0vaccine does not protect against\u00a0MenB.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Know the symptoms\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Meningococcal disease can progress rapidly. Everyone should be aware of the signs, regardless of vaccination status. Symptoms can include fever, headache, vomiting, drowsiness, rapid breathing, shivering, and cold hands and feet. Septicaemia can also cause a rash that does not fade when a glass is rolled over it\u00a0-\u00a0but a rash does not always appear.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What to do if you are concerned\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "If you or someone you know develops symptoms of meningitis or septicaemia, do not wait\u00a0-\u00a0go to your nearest A&E or call 999\u00a0immediately. Trust your instincts and do not wait for all symptoms to appear.\u00a0Early treatment\u00a0can be lifesaving. If you are unsure whether symptoms are serious, contact NHS 111 online or call 111.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/04/17/meningitis-cases-in-dorset-what-you-need-to-know/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Three\u00a0young\u00a0people\u00a0in Weymouth,\u00a0Dorset\u00a0have been confirmed to have meningitis B, known as\u00a0MenB.\u00a0All-three individuals have received treatment and are recovering well.\u00a0These cases are not linked to the recent outbreak in\u00a0Kent\u00a0and this outbreak\u00a0is not showing the same speed of transmission or severity of illness.\u00a0"
+    },
+    {
+        "title": "Direct consumer enforcement: one year on",
+        "authors": [
+            "Emma Cochrane"
+        ],
+        "posted_on": "2026-04-17T11:00:13",
+        "categories": [
+            "Consumer protection"
+        ],
+        "content": [
+            {
+                "content": "A year ago, the Competition and Markets Authority (CMA) launched its new direct enforcement regime under the Digital Markets, Competition and Consumers Act 2024 (DMCC Act).",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s been a busy 12 months, so now feels like a good moment to reflect on what we\u2019ve delivered against the commitments set out in our approach document, and to look ahead at what\u2019s coming next.",
+                "tag": "p"
+            },
+            {
+                "content": "What the numbers tell us",
+                "tag": "h2"
+            },
+            {
+                "content": "Numbers give an insight into the scale of work happening behind the scenes \u2013 a helpful starting point for understanding progress so far.",
+                "tag": "p"
+            },
+            {
+                "content": "From April 2025 to April 2026, we have:",
+                "tag": "p"
+            },
+            {
+                "content": "Before the new rules came into force, we published guidance on how we\u2019ll use the regime, how to comply with the law on consumer reviews, and unfair commercial practices. We\u2019ve since published and updated 10 other pieces of guidance to help businesses comply \u2013 including new guidance on price transparency and draft revised guidance on unfair terms in consumer contracts.",
+                "tag": "p"
+            },
+            {
+                "content": "But ultimately, what matters most is the difference we make:",
+                "tag": "p"
+            },
+            {
+                "content": "Our purpose and approach",
+                "tag": "h2"
+            },
+            {
+                "content": "The CMA\u2019s purpose is to promote competition, protect consumers and support growth and household prosperity. This is no small task \u2013 particularly at a time when people are feeling cost of living pressures, with price rises caused by the conflict in the Middle East starting to bite.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s why we\u2019ve focused on using our enforcement powers strategically \u2013 making sure that businesses\u2019 behaviour genuinely complies with consumer protection rules.",
+                "tag": "p"
+            },
+            {
+                "content": "From the outset, our approach has been twofold:",
+                "tag": "p"
+            },
+            {
+                "content": "A year on, this approach is well established.",
+                "tag": "p"
+            },
+            {
+                "content": "Focusing our efforts",
+                "tag": "h2"
+            },
+            {
+                "content": "Our public enforcement action has targeted 3 areas, as set out in our approach document: drip pricing, fake reviews, and online choice architecture (OCA).",
+                "tag": "p"
+            },
+            {
+                "content": "With each, we deliberately cast a wide net \u2013 and the results speak for themselves.",
+                "tag": "p"
+            },
+            {
+                "content": "Drip pricing",
+                "tag": "h3"
+            },
+            {
+                "content": "This week we announced that the AA Driving School and BSM Driving School, who are both owned by the Automobile Association Developments Limited (the AA), admitted liability for drip pricing and agreed to refund over \u00a3760,000 to affected learner drivers. The AA was also fined \u00a34.2 million. ",
+                "tag": "p"
+            },
+            {
+                "content": "This settlement is a major milestone in our work to enforce against illegal and harmful drip pricing practices.",
+                "tag": "p"
+            },
+            {
+                "content": "Fake reviews",
+                "tag": "h3"
+            },
+            {
+                "content": "We carried out a sweep of review publishers and issued advisory letters to 54 firms to improve their compliance with the law. 90% of the businesses we contacted then took action to improve their policies and in March we opened investigations into 5 companies to establish whether consumer laws on misleading reviews have been broken.",
+                "tag": "p"
+            },
+            {
+                "content": "By looking into key stages in the online reviews ecosystem \u2013 such as how reviews are obtained, moderated and displayed, through to the star ratings presented \u2013 we\u2019re investigating multiple practices that can shape what people see when they search, shop or book online.",
+                "tag": "p"
+            },
+            {
+                "content": "Online choice architecture",
+                "tag": "h3"
+            },
+            {
+                "content": "Many of the businesses we wrote to in November moved swiftly to stop adding extra products or services by default. We\u2019re continuing to investigate default optional charges and false \u2018time limited\u2019 offers. And we\u2019re talking to the wider community of regulators \u2013 through the Digital Regulation Cooperation Forum and International Consumer Protection and Enforcement Network, for example \u2013 about how AI could affect online choice architecture in future.",
+                "tag": "p"
+            },
+            {
+                "content": "Tackling other harmful behaviour",
+                "tag": "h2"
+            },
+            {
+                "content": "Beyond those areas, we\u2019re considering standalone cases that address the conduct of a specific business, where we have intelligence of potential infringement.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, our investigation into Adobe will examine whether its early cancellation fees are unfair and misleading. Expect more of these standalone cases in the next year.",
+                "tag": "p"
+            },
+            {
+                "content": "Responding to wider changes",
+                "tag": "h2"
+            },
+            {
+                "content": "Our strategy matters, but so does remaining agile. It was crucial to respond quickly to the concerns we heard from consumers about heating oil. We\u2019ve welcomed some businesses publicly confirming that they would honour agreed prices, even as wholesale prices increased. This gave consumers the immediate comfort that they could rely on the contract terms they agreed and wouldn\u2019t be left to bear the risk alone.",
+                "tag": "p"
+            },
+            {
+                "content": "Combining our markets and consumer enforcement roles, our heating oil market study will examine whether consumers need to be better protected against possible future shocks.",
+                "tag": "p"
+            },
+            {
+                "content": "Engaging with businesses across the UK",
+                "tag": "h2"
+            },
+            {
+                "content": "Supporting businesses has been central to our strategy, with over 2000 attendees at our events and seminars over the first year. We\u2019ve engaged directly with businesses at the FSB Coventry Business Bootcamp, started a programme of events with regional law firms to share compliance advice, and promoted our Clear Pricing campaign \u2013 featuring Alexander Armstrong \u2013 which gives businesses a simple, 3-step checklist for transparent pricing.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re looking forward to building on this momentum at the FSB Manchester Business Bootcamp on 15 May and through more local law firm events.",
+                "tag": "p"
+            },
+            {
+                "content": "What to expect in year 2",
+                "tag": "h2"
+            },
+            {
+                "content": "In our second year, we\u2019ll continue to focus on areas of essential spend where consumers feel the pinch most, as well as practices that are widespread and cause significant harm.",
+                "tag": "p"
+            },
+            {
+                "content": "My message to businesses is to prioritise compliance in the following areas:",
+                "tag": "p"
+            },
+            {
+                "content": "And if you see other businesses breaking the rules? Report it to us.",
+                "tag": "p"
+            },
+            {
+                "content": "Summing up",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019m proud of what we\u2019ve achieved so far, and excited about what\u2019s ahead. Helping businesses comply while showing the real consequences for those who don\u2019t \u2013 that twin approach is already delivering better outcomes for consumers. And we\u2019re just getting started.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2026/04/17/direct-consumer-enforcement-one-year-on/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "How we\u2019ve used our new powers to protect consumers in the first year, and what to expect next."
+    },
+    {
+        "title": "Shaping the future of healthcare",
+        "authors": [
+            "Professor Henrietta Hughes"
+        ],
+        "posted_on": "2026-04-17T10:34:41",
+        "categories": [
+            "AI Commission"
+        ],
+        "content": [
+            {
+                "content": "A new era for healthcare",
+                "tag": "h2"
+            },
+            {
+                "content": "Artificial intelligence (AI) is ushering in a new era, with the potential to reshape the world as we know it. In healthcare, it\u2019s already starting to have an impact.",
+                "tag": "p"
+            },
+            {
+                "content": "AI can support earlier diagnosis and reduce the administrative burden on clinicians, giving them more time to focus on patient care.",
+                "tag": "p"
+            },
+            {
+                "content": "For patients, this could mean faster answers, more personalised treatment, and a healthcare system that responds better to their needs.",
+                "tag": "p"
+            },
+            {
+                "content": "As Patient Safety Commissioner, my role is to ensure patient voices are heard and acted on, particularly as new technologies like AI are introduced. Through the National Commission into the Regulation of AI in Healthcare, we are working with partners across the system to explore both the opportunities and the challenges this brings.",
+                "tag": "p"
+            },
+            {
+                "content": "Leading voices",
+                "tag": "h2"
+            },
+            {
+                "content": "The National Commission brings together leading voices from healthcare, academia, industry and government to advise on a clear and trusted approach to regulating AI in healthcare. Regulation is essential: it protects patients while allowing innovation to grow.",
+                "tag": "p"
+            },
+            {
+                "content": "The Commission meets regularly to discuss key issues and create space for open, cross\u2011sector conversations. At its core is a simple idea: the future of healthcare, and the role of AI within it, should be shaped by a wide range of voices. Bringing those voices together helps build shared understanding, ownership and confidence across the system.",
+                "tag": "p"
+            },
+            {
+                "content": "Hearing the voices of patients",
+                "tag": "h2"
+            },
+            {
+                "content": "This work needs all of us. It must be shaped not only by government, experts and industry, but with patients and the public at the centre of how AI is introduced into healthcare.",
+                "tag": "p"
+            },
+            {
+                "content": "That commitment has guided the Commission\u2019s work from the outset. An open Call for Evidence received over 770 responses before closing in February, with a third coming from patients and the public. This level of engagement shows how strongly patients and the public want to be included as partners in the regulation of AI in healthcare.",
+                "tag": "p"
+            },
+            {
+                "content": "In the Call for Evidence, we heard from patients, patient groups and charities, alongside healthcare professionals, researchers and industry. Together, these perspectives painted a detailed picture of both the potential benefits of AI and the risks that must be addressed.",
+                "tag": "p"
+            },
+            {
+                "content": "What we heard",
+                "tag": "h2"
+            },
+            {
+                "content": "A clear message emerged: trust is central. This means trust in the technologies themselves, in how they are used, and in the systems that govern them.",
+                "tag": "p"
+            },
+            {
+                "content": "There is strong support for reform of the current regulatory approach. People want meaningful change, but not a complete overhaul. This reflects confidence in parts of the existing system, alongside a need to strengthen and adapt it as technologies evolve.",
+                "tag": "p"
+            },
+            {
+                "content": "Concerns were raised about how AI medical devices are monitored once they are in use. Safety does not stop at approval. Ongoing monitoring, transparency and the ability to respond quickly when risks emerge are essential.",
+                "tag": "p"
+            },
+            {
+                "content": "There is also uncertainty about liability, this means who is responsible if something goes wrong as AI becomes more involved in clinical decision\u2011making. Addressing this will be vital for protecting patients, supporting clinicians and building trust, and will require collaboration across the system.",
+                "tag": "p"
+            },
+            {
+                "content": "Across all of this, there is strong support for innovation that is matched with strong safeguards, clear accountability and transparency. These are the foundations for building trust and confidence in how AI is developed, regulated and used in practice, including for the ultimate users - patients and the public. Getting this right is essential to ensuring these technologies can be introduced safely and effectively to deliver meaningful improvements in patient care.[1][2]",
+                "tag": "p"
+            },
+            {
+                "content": "Deepening engagement",
+                "tag": "h2"
+            },
+            {
+                "content": "Alongside the Call for Evidence, a wider programme of engagement is underway to ensure a broad range of voices shape the Commission\u2019s work.",
+                "tag": "p"
+            },
+            {
+                "content": "The MHRA has worked closely with patients and communities, including those often left out of these conversations, such as people with learning disabilities, carers and young people, in partnership with National Voices. It has also supported in\u2011depth public discussion sessions delivered by The Health Foundation with Ipsos MORI, and consultations with its Patient and Public Community.",
+                "tag": "p"
+            },
+            {
+                "content": "These discussions show that people are more comfortable with AI supporting clinicians, for example by reducing administrative burden, than making high\u2011stakes decisions independently. There is strong emphasis on human oversight, transparency, and evidence that these technologies work safely for everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "Across all engagement, a consistent picture emerges trust is central to whether the benefits of AI in healthcare can be realised.",
+                "tag": "p"
+            },
+            {
+                "content": "Working together across the system",
+                "tag": "h2"
+            },
+            {
+                "content": "The Commission\u2019s work is supported by four working groups bringing together expertise across health systems, technology, devolved nations and government.",
+                "tag": "p"
+            },
+            {
+                "content": "As Chair of the Health Systems Working Group, my focus has been on ensuring AI is used in ways that include the patient\u2019s perspective. This means taking a patient\u2011centred view of how technologies are designed, implemented and overseen in everyday healthcare settings.",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this, the MHRA has led sector roundtables involving over 30 organisations and 117 clinicians and representatives from across the healthcare system. These sessions bring together those developing, using and supporting AI, ensuring the Commission\u2019s recommendations are grounded in real\u2011world experience and focused on what matters most to patients.",
+                "tag": "p"
+            },
+            {
+                "content": "Continuing the conversation",
+                "tag": "h2"
+            },
+            {
+                "content": "These voices are shaping the future of AI regulation and deployment in healthcare, but the conversation must remain open. That is why I will be hosting an Ask Me Anything session on Wednesday 20 May. This will be an open public webinar where patients and the public can hear directly from the Commission\u2019s leadership.",
+                "tag": "p"
+            },
+            {
+                "content": "I will be joined by the Chair of the National AI Commission and the Chief Executive of the MHRA. Together, we will share more about our work and respond to the issues that matter most to patients and the public. We want to hear from you so please register and submit your questions in advance.",
+                "tag": "p"
+            },
+            {
+                "content": "The National Commission\u2019s recommendations are on track to be published this summer. They will be shaped by the collective insight of many voices, because the future of AI regulation in healthcare will not be shaped by one voice, but by many.",
+                "tag": "p"
+            },
+            {
+                "content": "[1] The Health Foundation, AI in health care must earn the public\u2019s confidence, finds that the public prioritises safety, strong evidence, human oversight and clear safeguards over speed or economic opportunity, highlighting the importance of building trust and confidence in how AI is used in healthcare.",
+                "tag": "p"
+            },
+            {
+                "content": "[2] Tony Blair Institute for Global Change, What the UK Thinks About AI, highlights the role of public trust in shaping how AI is received.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://medregs.blog.gov.uk/2026/04/17/shaping-the-future-of-healthcare/",
+        "blog": "MedRegs",
+        "blog_link": "https://medregs.blog.gov.uk",
+        "description": "A new era for healthcare Artificial intelligence (AI) is ushering in a new era, with the potential to reshape the world as we know it. In healthcare, it\u2019s already starting to have an impact. AI can support earlier diagnosis and \u2026"
+    },
+    {
         "title": "Do no harm \u2013 how to keep colleagues safe in research",
         "authors": [
             "Josh Dresner"
