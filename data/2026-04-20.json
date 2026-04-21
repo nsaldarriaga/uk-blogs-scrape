@@ -1,5 +1,260 @@
 [
     {
+        "title": "Making digital services more sustainable: introducing a 15th service standard point",
+        "authors": [
+            "Ned Gartside"
+        ],
+        "posted_on": "2026-04-21T16:07:41",
+        "categories": [
+            "Defra digital",
+            "Digital Sustainability",
+            "ICT sustainability"
+        ],
+        "content": [
+            {
+                "content": "Service Assessment Manager Mary McMahon and Sustainable Design Lead Ned Gartside explain how, from this month, Defra service assessments will include a new requirement with sustainability at its core.",
+                "tag": "p"
+            },
+            {
+                "content": "Digital services are a core part of how we deliver outcomes for citizens, businesses and the environment. As our services grow, so does the responsibility to understand\u2014and reduce\u2014the negative environmental and social impacts connected to the technology we build and run.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s why, from this month, all projects going through the Defra service assessment process will need to meet an additional requirement alongside the existing 14 points in the Government Digital Service (GDS) service standard.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll be asking service teams to show how their service will be designed, developed and operated to be as sustainable as possible, and capture their approach in a sustainability statement.",
+                "tag": "p"
+            },
+            {
+                "content": "Less abstract, more practical",
+                "tag": "h2"
+            },
+            {
+                "content": "Our approach is also intended to make something that can feel abstract much more practical. The sustainability statement gives teams a structured, consistent way to show how they are meeting existing sustainability expectations in the Technology Code of Practice and the Service Manual without having to start from a blank page.",
+                "tag": "p"
+            },
+            {
+                "content": "And we won\u2019t be leaving service teams to figure out which sustainability actions are most relevant and meaningful for their project, by themselves. When projects are at the end of the Discovery phase, they are asked to complete a Risk Assessment, which helps them identify the main sustainability risks connected to the service and point to the proportionate actions they can take to address these.",
+                "tag": "p"
+            },
+            {
+                "content": "In this way, we have worked to design a consistent and joined up process for sustainability that supports teams right through from the early stages of the lifecycle through to being assessed at Service Assessments.",
+                "tag": "p"
+            },
+            {
+                "content": "Depending on what they are building and the context of the service, sustainability risks could include:",
+                "tag": "p"
+            },
+            {
+                "content": "What should go in the sustainability statement?",
+                "tag": "h2"
+            },
+            {
+                "content": "The GDS Service Standard comprises 14 points designed to help teams create and run high quality, user-focused public digital services. It ensures services are consistent, accessible, secure, and built using agile methods. Adherence to these standards is verified through mandatory assessment stages \u2013 alpha, beta, and live.",
+                "tag": "p"
+            },
+            {
+                "content": "With our new standard, there isn\u2019t a one-size-fits-all template, but assessors will be looking for a clear, service-specific narrative that shows the delivery team has considered sustainability risks and taken action",
+                "tag": "p"
+            },
+            {
+                "content": "A strong statement typically covers:",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters",
+                "tag": "h2"
+            },
+            {
+                "content": "By implementing this change, we believe we will deliver more than traditional sustainability outcomes. This is because there are often co-benefits between sustainability and other priorities, such as cost, performance, usability and accessibility, and applying a \u2018sustainability lens\u2019 serves to highlight and bring focus on these win-wins. This approach supports more resilient and efficient digital services, and creates opportunities to contribute to wider government goals, such as circularity and growth, by building services that are better designed, better operated, and better aligned to policy intent.",
+                "tag": "p"
+            },
+            {
+                "content": "This milestone also supports the Defra group digital sustainability strategy and reflects the continued leadership Defra group is showing, leading as it does on strategy and co-ordination for this topic for UK government as a whole.",
+                "tag": "p"
+            },
+            {
+                "content": "Our work to date has been shaped by collaboration across the Defra group of organisations, including our own Digital Technology Standards and Assurance team, designers, architects, software developers and delivery and project management professions, Commercial colleagues, and a wide range of collaborators from across the wider UK public sector, and the suppliers, tech companies, universities and third sector organisations in the Government Digital Sustainability Alliance.",
+                "tag": "p"
+            },
+            {
+                "content": "How we are supporting colleagues to make this change",
+                "tag": "h2"
+            },
+            {
+                "content": "We understand that some colleagues may be unsure how to get started in including this new standard in the design and development of digital services.",
+                "tag": "p"
+            },
+            {
+                "content": "So, we\u2019ve created some resources, guidance and supporting materials for exactly this reason. The Defra Digital Service Manual contains guidance on the approaching the sustainable design and development of services, including the 15th Standard point itself and on the process that service should follow.",
+                "tag": "p"
+            },
+            {
+                "content": "The Greener Service Principles also act as a library of the actions that services can take on sustainability, with a first version available on GitHub. A much iterated and evolved Version 2.0 will soon be available on a Defra webpage, and for now a spreadsheet of this version is available for teams in the Department.",
+                "tag": "p"
+            },
+            {
+                "content": "It should be noted that assessment against a 15th Service Standard point focused on sustainability only applies currently to projects going through Defra service assessments and not to those going through full GDS service assessments. However, we are working closely with GDS and the work that Defra is leading on will inform updates to the GDS Service Manual and Service Standard in due course, as well rollout of this through all government departments.",
+                "tag": "p"
+            },
+            {
+                "content": "Our key message to colleagues as they plan their next delivery phase - make sustainability part of their definition of \u201cdone\u201d. And if they already have a service assessment coming up, that now is the right time to draft their sustainability statement, test it with colleagues, and bring it to assessment as confident, decision-ready evidence \u2014 not an afterthought.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "Mary McMahon is a Service Assessment Manager in Defra Digital Data Technology and Security, and Ned Gartside is a Sustainable Design Lead.",
+                "tag": "p"
+            },
+            {
+                "content": "You can contact Ned and Mary if you would like to share your own experiences of working in this space, or if you have a question for them.",
+                "tag": "p"
+            },
+            {
+                "content": "If you're interested in finding out more about what we do in Defra Digital Data Technology and Security Check out our\u202fLinkedIn page\u202ffor all the latest news, stories and job openings. While you're there, why not give us a follow?",
+                "tag": "p"
+            },
+            {
+                "content": "Like what you read?\u202fSubscribe to the blog\u202ffor all the latest updates.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2026/04/21/making-digital-services-more-sustainable-introducing-a-15th-service-standard-point/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "Service Assessment Manager Mary McMahon and Sustainable Design Lead Ned Gartside explain how, from this month, Defra service assessments will include a new requirement with sustainability at its core. Digital services are a core part of how we deliver outcomes \u2026"
+    },
+    {
+        "title": "Farming podcast:\u00a0building resilience through soil and water management",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-04-21T09:14:13",
+        "categories": [
+            "Conversations we're having",
+            "Defra Farming Podcast"
+        ],
+        "content": [
+            {
+                "content": "In this episode,\u00a0Catchment Sensitive Farming (CSF)\u00a0adviser Hannah Barrett speaks to two arable farmers. Charlie Ennals farms in Norfolk and Thomas Gent farms in Cambridgeshire.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They discuss how natural processes, like soil and water management, can help farms\u00a0reduce costs and be more resilient to extreme weather.",
+                "tag": "p"
+            },
+            {
+                "content": "Farming in a changing climate",
+                "tag": "h2"
+            },
+            {
+                "content": "Both farmers\u00a0say\u00a0conditions\u00a0are becoming harder to predict.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For Thomas, who farms heavy land below sea level, managing excess winter rainfall and drainage is a major challenge.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For Charlie, working on lighter soils, the issue is\u00a0retaining\u00a0moisture through increasingly dry springs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Despite these differences, both say healthy soils can help manage both very wet and very dry conditions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Hannah and CSF also echo this,\u00a0and support farmers across England to restore and\u00a0maintain\u00a0healthy soil, especially in high-priority flood catchments.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Charlie explains how introducing cover crops,\u00a0increasing\u00a0diversity of  the cover-crop\u00a0mix,\u00a0and more recently grazing livestock, have improved soil structure and water\u00a0infiltration on her farm.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In one example, infiltration tests on\u00a0nearby\u00a0fields showed a clear difference. The field managed with soil-improving practices absorbed water quickly. The other\u00a0struggled to drain.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thomas has practiced no-till farming since 2008\u00a0and\u00a0emphasises that soil improvement takes time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Both say there\u00a0is\u00a0no one solution.\u00a0It\u2019s\u00a0about making\u00a0small changes\u00a0and adapting as you go, field by field.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thomas and his family set up\u00a0Gentle Farming,\u00a0where you can learn more about their approach.",
+                "tag": "p"
+            },
+            {
+                "content": "A new approach\u00a0to farm finances",
+                "tag": "h2"
+            },
+            {
+                "content": "A main theme in the episode is how environmental practices affect farm finances.",
+                "tag": "p"
+            },
+            {
+                "content": "Thomas says\u00a0getting the highest yield at all costs just\u00a0doesn\u2019t\u00a0stack up like it used to. His production costs are now around 20\u201330% lower than before. This is\u00a0mainly because he\u00a0doesn\u2019t\u00a0use machinery as much.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Charlie highlights the importance of understanding costs, using variable rate applications,\u00a0soil\u00a0and plant testing,\u00a0and\u00a0avoiding\u00a0spending too much.\u00a0She wants to see how far she can go to reduce inputs, while still producing\u00a0good quality, decent yielding crops, alongside diversification.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These approaches help farmers use inputs more efficiently, protect margins and reduce environmental impact.",
+                "tag": "p"
+            },
+            {
+                "content": "Collaboration and new opportunities",
+                "tag": "h2"
+            },
+            {
+                "content": "Both farmers say working with others, such as sharing machinery and exploring new markets, can make a real difference.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thomas says cutting machinery costs has made the biggest difference to his farm.\u00a0He\u00a0thinks more farmers may need to share equipment in future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Charlie also talks about trying different crops and markets, such as premium crops, to reduce risk and support changes on the farm.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Further support",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ve\u00a0worked with farmers and advisers in the east of England to create\u00a0case studies and guidance.\u00a0These show how farmers are improving soil management, using cover crops and buffer strips to increase yields and reduce inputs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can also contact your local CSF\u00a0adviser for free, impartial advice. They support farmers and land managers in England\u00a0to produce food, while still protecting\u00a0water,\u00a0soil\u00a0and air.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This can include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To\u00a0contact CSF,\u00a0complete the\u00a0advice request form\u202fand send\u00a0it\u00a0to your local\u202fteam.\u202f",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/04/21/farming-podcast-building-resilience-through-soil-and-water-management/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "In this episode, a Catchment Sensitive Farming adviser speaks to two arable farmers. One farms in Norfolk and the other in Cambridgeshire. They discuss how natural processes, like soil and water management, can help farms reduce costs."
+    },
+    {
         "title": "Flexibilities for childminders and childcare on domestic premises providers",
         "authors": [
             "Jayne Coward, Deputy Director for Early Years Regulatory Policy and Practice"
