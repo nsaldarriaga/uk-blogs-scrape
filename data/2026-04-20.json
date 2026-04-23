@@ -1,5 +1,539 @@
 [
     {
+        "title": "How we built the new Defra service manual with AI and community collaboration",
+        "authors": [
+            "Chris Leo"
+        ],
+        "posted_on": "2026-04-23T16:06:36",
+        "categories": [
+            "AI",
+            "Defra digital",
+            "User centred design"
+        ],
+        "content": [
+            {
+                "content": "Hi, I'm Chris Leo, the AI user-centred design lead in the AI capability and enablement team.",
+                "tag": "p"
+            },
+            {
+                "content": "Before taking on this project, I kept seeing the same issue across Defra. Digital practitioners and our suppliers were struggling to find the information they needed to do their jobs.",
+                "tag": "p"
+            },
+            {
+                "content": "Guidance for delivering services was scattered across multiple SharePoint sites, intranets and disconnected documents. Everyone knew the information existed somewhere but tracking it down was a frustrating experience.",
+                "tag": "p"
+            },
+            {
+                "content": "We needed a single, reliable source of truth. A place where rules, standards and best practices were clearly defined. That is why we created the new Defra service manual.",
+                "tag": "p"
+            },
+            {
+                "content": "A resource for all digital practitioners",
+                "tag": "h2"
+            },
+            {
+                "content": "The service manual is for anyone building digital services at Defra. We kept new colleagues and suppliers at the forefront of our minds when we designed it.",
+                "tag": "p"
+            },
+            {
+                "content": "We wanted to make sure everyone has the right information from day one. To achieve this, the manual is laid out simply. It is written in plain English, making it easy to understand regardless of your background or experience level. Our goal is to reduce cognitive load, so teams can focus entirely on solving problems for users.",
+                "tag": "p"
+            },
+            {
+                "content": "Experimenting with agentic design and engineering",
+                "tag": "h2"
+            },
+            {
+                "content": "To build the manual quickly, we tried a novel approach. I paired with AI developers Richard Stockley and Calum Gunn to use 'agentic design and engineering'. This helped us bring the project to life much faster than a traditional software build.",
+                "tag": "p"
+            },
+            {
+                "content": "We moved beyond using AI as a simple chatbot. Instead, the AI acted as an autonomous software agent. It took high-level user needs, determined the best technical approaches, and iteratively refined the code alongside me.",
+                "tag": "p"
+            },
+            {
+                "content": "It felt like a true collaboration. The AI automated the heavy lifting. It scaffolded the application, set up the routing and applied the GOV.UK styling system. This gave us a working, functional prototype almost immediately.",
+                "tag": "p"
+            },
+            {
+                "content": "From there, we ran incredibly tight feedback loops. I provided the design direction based on user needs, and the AI executed the complex codebase changes in real time. We could try out new ideas, see how they looked in the browser and adjust them on the fly. The AI provided the execution speed, but human insight always provided the direction.",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping user-centred design in the loop",
+                "tag": "h2"
+            },
+            {
+                "content": "While we used AI to drastically accelerate the build speed, keeping a human in the loop for user-centred design was crucial. The technology is just a tool; it can never replace empathy.",
+                "tag": "p"
+            },
+            {
+                "content": "To make sure the manual actually worked for our users, we relied on our in-house experts. Content designers Anita Shargall and Melissa Massey gave a thorough, expert critique of the manual. They worked closely with stakeholders to make sure the language was accurate, useful and met strict GOV.UK content standards.",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile, user researcher Sophie Werkshagen led our usability testing. Sophie took the service out to real users to observe exactly how they interacted with it. She found out what worked well and what needed to be improved.",
+                "tag": "p"
+            },
+            {
+                "content": "This empirical research meant we could validate our decisions with evidence. It serves as a great example of how human empathy and machine execution can work together to produce better outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "A massive community effort",
+                "tag": "h2"
+            },
+            {
+                "content": "The technical build might have been fast, but creating the actual content is the result of a massive, sustained community effort. This manual would not exist without the active involvement of our digital communities.",
+                "tag": "p"
+            },
+            {
+                "content": "We spoke to subject matter experts from all corners of the department. Our heads of profession and leads in design, user research, content, accessibility and more all shared their expertise to ensure their disciplines were represented accurately.",
+                "tag": "p"
+            },
+            {
+                "content": "Every section of this manual has been shaped, regularly reviewed and refined by the people who know it best. The manual truly belongs to all of us, and it reflects the collective excellence of Defra digital.",
+                "tag": "p"
+            },
+            {
+                "content": "What's next?",
+                "tag": "h2"
+            },
+            {
+                "content": "After months of iterating, we officially launched the new Defra service manual at the end of March.",
+                "tag": "p"
+            },
+            {
+                "content": "This launch is just the beginning. The service manual is a living resource. We are incredibly excited to share this version, to start getting feedback, and to watch it evolve over the coming months. We want to know exactly what our users think and how we can make it even better for their daily work.",
+                "tag": "p"
+            },
+            {
+                "content": "We are also exploring more of these agentic design ideas within the reimagined AI capability and enablement team to see where else we can safely accelerate delivery. Watch out for more initiatives from us soon.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have ideas for new content, spot something missing or want to chat about our unique AI-assisted process, please get in touch with us or leave a comment below!",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "If you're interested in finding out more about what we do in Defra Digital Data Technology and Security, check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow?",
+                "tag": "p"
+            },
+            {
+                "content": "Like what you read?\u00a0Subscribe to the blog\u00a0for all the latest updates.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2026/04/23/how-we-built-the-new-defra-service-manual-with-ai-and-community-collaboration/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "How the AI capability and enablement team used agentic design to build a community-driven resource to help digital practitioners find the standards they need."
+    },
+    {
+        "title": "A year of progress for public design",
+        "authors": [
+            "Andrew Knight"
+        ],
+        "posted_on": "2026-04-23T12:00:00",
+        "categories": [
+            "PublicPolicyDesign"
+        ],
+        "content": [
+            {
+                "content": "At the end of each planning year, I always find myself asking the same question: what has actually changed?",
+                "tag": "p"
+            },
+            {
+                "content": "Have we simply been busy? Or have we made real progress?",
+                "tag": "p"
+            },
+            {
+                "content": "Looking back on 2025-26, I think we can say that this has been a year of real progress for the Policy Design Community.",
+                "tag": "p"
+            },
+            {
+                "content": "A few years ago, policy design was still a relatively niche idea in government. There were talented people doing good work, but they were often isolated. Many had no obvious peer group, no formal training and no clear career path.",
+                "tag": "p"
+            },
+            {
+                "content": "That picture is starting to change.",
+                "tag": "p"
+            },
+            {
+                "content": "Our community now has more than 1,070 members working across over 165 UK government organisations. That means more people are now using design to improve policy, services and operational delivery. It means more people are working across professional boundaries. And it means there are more opportunities for officials to learn from each other and build their skills.",
+                "tag": "p"
+            },
+            {
+                "content": "Why the core offer matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Throughout the year, we continued to bring people together through monthly meetups, public speakers, newsletters and blog posts.",
+                "tag": "p"
+            },
+            {
+                "content": "On the surface, these things can sometimes look small. A meetup is just an hour in someone\u2019s diary. A blog post is just a few pages of text.",
+                "tag": "p"
+            },
+            {
+                "content": "But in practice they matter. They give people permission to try new methods. They help people realise that others are facing the same challenges they are. And they help spread good ideas across organisational boundaries.",
+                "tag": "p"
+            },
+            {
+                "content": "This year, our meetups covered everything from systems design and serious games, to futures, neurodiversity and policy design. Our speaker series brought together leading voices on topics like sustainability, AI, democracy and inclusive design. We also published 18 blog posts covering issues from violence against women and girls, to co-design with pupils, to patterns in policing and welfare.",
+                "tag": "p"
+            },
+            {
+                "content": "Taken together, these activities are helping create a stronger design culture across government.",
+                "tag": "p"
+            },
+            {
+                "content": "That matters because good public services do not happen by accident. People want policies and services that make sense in the context of their lives. They want things to be easy to understand, easy to use and designed around the reality of how they live and work. Design helps us do that.",
+                "tag": "p"
+            },
+            {
+                "content": "Moving public design into the mainstream",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the most important moments this year was the publication of the Public Design Evidence Review, launched by the Minister for Government Reform, Georgia Gould. The review brought together evidence on what design can achieve in government and why it matters. For many, it felt like an important step in moving public design from the margins towards the mainstream.",
+                "tag": "p"
+            },
+            {
+                "content": "Building the Government School of Design",
+                "tag": "h2"
+            },
+            {
+                "content": "The biggest area of progress this year was our work to establish the new Government School of Design.",
+                "tag": "p"
+            },
+            {
+                "content": "For a long time, members of our community have told us the same thing. They want better training. They want clearer development routes. And they want design to become a recognised and rewarded capability in government. This year, we moved much closer to making that happen.",
+                "tag": "p"
+            },
+            {
+                "content": "More than 60 people contributed to the school\u2019s development. Together they created a learning and assessment model, produced teaching plans, developed around 100 hours of content and outlined a leadership programme for Senior Civil Servants. We also expanded our existing Policy to Delivery Course, with 100 civil servants graduating this year.",
+                "tag": "p"
+            },
+            {
+                "content": "Behind the scenes, teams have also been creating the school\u2019s identity, website, prospectus and teaching materials. Others have been filming interviews with design leaders across government so that we can build a stronger library of stories, examples and practical advice.",
+                "tag": "p"
+            },
+            {
+                "content": "Taking public design to a wider audience",
+                "tag": "h2"
+            },
+            {
+                "content": "We also spent this year taking public design to a wider audience.",
+                "tag": "p"
+            },
+            {
+                "content": "At the London Design Biennale, Civil Service designers created the Civil Service\u2019s first ever pavilion. At the World Design Congress, we organised the first Public Design Conference and brought together 48 government design teams from around the world.",
+                "tag": "p"
+            },
+            {
+                "content": "These events mattered because they showed that public design is not just something happening inside a few teams or departments. Around the world, governments are increasingly recognising that old ways of working are not always enough for today\u2019s challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "Whether the issue is climate change, economic insecurity, health inequalities or trust in institutions, people expect government to understand their lives and respond in ways that work in practice. That is why design matters.",
+                "tag": "p"
+            },
+            {
+                "content": "From building foundations to building permanence",
+                "tag": "h2"
+            },
+            {
+                "content": "As we move into 2026-27, our focus is shifting from building foundations to building permanence.",
+                "tag": "p"
+            },
+            {
+                "content": "We will continue our core offer of meetups, newsletters, speaker events and blog posts. We will continue to create opportunities for people to learn from each other and build their skills.",
+                "tag": "p"
+            },
+            {
+                "content": "But our biggest priority will be establishing the Government School of Design.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the next year, we implement the school\u2019s constitution, grow the number of students and alumni, and make sure that the school can become financially sustainable over time.",
+                "tag": "p"
+            },
+            {
+                "content": "We also want to strengthen our partnerships with other design institutions so that the school can become a long-term research and practice platform for public design.",
+                "tag": "p"
+            },
+            {
+                "content": "There is still a great deal to do. But when I look back over the last year, I do not just see activity. I see a stronger community, a clearer identity and a more confident case for design in government. Most importantly, I see more people across government using design to make public policies, services and spaces work better for citizens.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://publicpolicydesign.blog.gov.uk/2026/04/23/a-year-of-progress-for-public-design/",
+        "blog": "Public Policy Design",
+        "blog_link": "https://publicpolicydesign.blog.gov.uk",
+        "description": "Design community leader, Andrew Knight, looks back on a busy year and reveals future plans."
+    },
+    {
+        "title": "Consultations on Defra's final four FMPs close on 5 May",
+        "authors": [
+            "FMP communications team"
+        ],
+        "posted_on": "2026-04-23T09:02:06",
+        "categories": [
+            "- Defra led FMPs",
+            "Public consultation"
+        ],
+        "content": [
+            {
+                "content": "Our final events for the four fisheries management plans (FMP) being consulted on have now taken place.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you to everyone who attended and shared their views. Your experience and knowledge are important, and your comments are helping to shape the final plans.",
+                "tag": "p"
+            },
+            {
+                "content": "There is still time to respond",
+                "tag": "h2"
+            },
+            {
+                "content": "You can still take part in the consultations until 11:59pm on 5 May.",
+                "tag": "p"
+            },
+            {
+                "content": "You can tell us whether you agree with the proposals, or where you think changes are needed. Responses can be submitted online, by email, or by post.",
+                "tag": "p"
+            },
+            {
+                "content": "Why your response matters",
+                "tag": "h2"
+            },
+            {
+                "content": "These consultations are an opportunity for you to help shape and influence future fisheries management. Every response is read and considered before the FMPs are finalised for publication, which will be at the end of this year.",
+                "tag": "p"
+            },
+            {
+                "content": "Your feedback helps us develop plans that work in practice to support sustainable fisheries.",
+                "tag": "p"
+            },
+            {
+                "content": "Clear, evidence-based comments are especially helpful. They tell us what matters most to you and help make sure the plans are practical and workable at sea.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more and get support",
+                "tag": "h2"
+            },
+            {
+                "content": "If you need help preparing your response:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2026/04/23/consultations-on-defras-final-four-fmps-close-on-5-may/",
+        "blog": "Fisheries Management Plans",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Our consultation events are over but there\u2019s still time to have your say on the draft proposals. Help to make the plans work for fisheries now and in the future."
+    },
+    {
+        "title": "Digital sustainability in government: an in-depth look at the GDSA Summit",
+        "authors": [
+            "Ned Gartside"
+        ],
+        "posted_on": "2026-04-23T08:30:00",
+        "categories": [
+            "GDSA",
+            "Sustainable ICT",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Ned Gartside, Sustainable Design Lead for Defra, reflects on the second Government Digital Sustainability Alliance (GDSA) summit, which took place in London in February, bringing together nearly 300 digital sustainability experts to celebrate progress and focus minds on the challenges ahead.",
+                "tag": "p"
+            },
+            {
+                "content": "My colleague Lydia Tabbron\u2019s recent article, \u2018Our biggest digital sustainability moment yet\u2019, touched on the main themes from the eight panel discussions on the day. I\u2019m going to expand on those themes a little and share some key takeaways.",
+                "tag": "p"
+            },
+            {
+                "content": "Procurement is a powerful lever for change... and it's being pulled",
+                "tag": "h2"
+            },
+            {
+                "content": "As Minister for Nature, Mary Creagh reminded us in her keynote that the government is the largest purchaser of goods and services in the UK, spending \u00a314 billion on Information and Communications Technology (ICT) every year. That gives it a role as market maker: what the government demands shapes what industry supplies.",
+                "tag": "p"
+            },
+            {
+                "content": "A strong example of this in action is Defra\u2019s new contract to provide colleagues with refurbished laptops by default, reducing costs, carbon and demand for raw materials. Crucially, as Edd Parry from Defra explained, the department was \u2018uncompromising on the user experience\u2026 as no one likes a hand-me-down\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "These laptops are refurbished to an aesthetic and performance standard at least equal to new ones, creating genuine pride among colleagues rather than reluctance.",
+                "tag": "p"
+            },
+            {
+                "content": "This approach offers a scalable model for other departments, many of which are already looking to follow. The upcoming updated Government Buying Standards will support this further, providing a consistent set of minimum sustainability requirements for purchasing hardware, software, cloud hosting and artificial intelligence (AI).",
+                "tag": "p"
+            },
+            {
+                "content": "AI brings significant sustainability implications alongside its efficiency gains",
+                "tag": "h2"
+            },
+            {
+                "content": "Another significant theme addressed at the summit was the potential and pitfalls of digital technology. Technology can bring real benefits to the public sector: saving time, reducing costs and carbon, and unlocking insight at scale previously thought impossible.",
+                "tag": "p"
+            },
+            {
+                "content": "Jeremy Davis from HM Revenue and Customs (HMRC) gave a compelling example of how AI is being used to summarise the 37 million phone calls the department receives each year, freeing up colleagues for other valuable tasks and reducing operational costs.",
+                "tag": "p"
+            },
+            {
+                "content": "However, while it might seem that digital technologies, including AI, write their own business case, they are not neutral when it comes to environmental impact. As Claire Robinson from Transform highlighted, the raw computational demands of many AI models mean we need to assess their net environmental impact carefully.",
+                "tag": "p"
+            },
+            {
+                "content": "She described a proof-of-concept project in Defra, developed with John Steward, in which an AI tool helped farmers identify funding opportunities relevant to their land, business plans and sustainability goals. A net impact assessment showed that scaling the tool to 20,000 farmers would deliver significant environmental and economic benefits.",
+                "tag": "p"
+            },
+            {
+                "content": "We need to look beyond carbon",
+                "tag": "h2"
+            },
+            {
+                "content": "Decarbonisation has long dominated the environmental agenda, and reducing greenhouse gases towards net zero by 2050 is a legal commitment in the UK through the Climate Change Act.",
+                "tag": "p"
+            },
+            {
+                "content": "For digital hardware, Professor Deborah Andrews highlighted that carbon from the full product lifecycle represents roughly 50% of environmental impact. The other 50% comes from materials, pollution, water use, resource consumption and land use change involved in mining, processing, manufacturing and distribution. Measuring carbon alone misses half the picture.",
+                "tag": "p"
+            },
+            {
+                "content": "For me, the biggest opportunities for circularity are \u2018upstream\u2019. Designing hardware so parts can be upgraded or critical minerals can be recovered more easily would reduce a wide range of environmental impacts. It would also support the UK\u2019s Critical Minerals Strategy by reducing demand for valuable materials, and contribute to the Industrial Strategy and the upcoming Circular Economy Growth Plan.",
+                "tag": "p"
+            },
+            {
+                "content": "Social sustainability: global supply chains and digital inclusion at home",
+                "tag": "h2"
+            },
+            {
+                "content": "The social side of sustainability spans global and domestic issues. Shelley Cotterill from DXC Technology highlighted emerging risks in the AI supply chain from offshoring, including poor working conditions for those involved in labelling data used to train AI models and forced labour in the mining of rare-earth metals used to manufacture computer processors.",
+                "tag": "p"
+            },
+            {
+                "content": "Closer to home, Christine Liang from the Department for Science, Innovation and Technology (DSIT) spoke about digital exclusion in the UK. Around 1.6 million people in the UK are completely offline, for reasons ranging from cost to lack of confidence. Recent work in DSIT has explored donating refurbished laptops to digitally excluded people at scale.",
+                "tag": "p"
+            },
+            {
+                "content": "We must plan for resilient digital services",
+                "tag": "h2"
+            },
+            {
+                "content": "Ben Tongue, from NHS England, reminded us that future extreme weather events, made more likely by climate change, could threaten the stability of public services and the digital infrastructure they depend on. As Mike Berners-Lee put it, the greatest risk to health from climate events is not direct injury, but disruption or even breakdown of wider health services themselves when heat or flood events strike.",
+                "tag": "p"
+            },
+            {
+                "content": "I recognise that building resilience comes with its own sustainability cost. Creating multiple backups and putting significant redundancy in place increases carbon and resource consumption. As Mark Butcher put it, we need to understand these trade-offs and make sure resilience measures are proportionate, targeted and properly resourced.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "Ned Gartside is the Sustainable Design Lead for Defra and created the Greener Service Principles, a practical framework built to embed sustainability into everyday digital decision-making.",
+                "tag": "p"
+            },
+            {
+                "content": "The GDSA brings together UK government, ICT and digital supply chain, academics and third sector organisations to drive progress on the sustainability of the UK government\u2019s ICT and digital estate.",
+                "tag": "p"
+            },
+            {
+                "content": "If you're interested in finding out more about what we do or would like to know more about becoming a member of the alliance, please get in touch.",
+                "tag": "p"
+            },
+            {
+                "content": "Check out our LinkedIn page for all the latest news, stories and job openings. While you're there, why not give us a follow?",
+                "tag": "p"
+            }
+        ],
+        "link": "https://sustainableict.blog.gov.uk/2026/04/23/digital-sustainability-in-government-an-in-depth-look-at-the-gdsa-summit/",
+        "blog": "UK Government Sustainable ICT",
+        "blog_link": "https://sustainableict.blog.gov.uk",
+        "description": "Ned Gartside, Sustainable Design Lead for Defra, reflects on the second Government Digital Sustainability Alliance (GDSA) summit, which took place in London in February, bringing together nearly 300 digital sustainability experts to celebrate progress and focus minds on the challenges \u2026"
+    },
+    {
+        "title": "The benefits system risks discouraging apprenticeships",
+        "authors": [
+            "Tom Clark"
+        ],
+        "posted_on": "2026-04-23T07:48:31",
+        "categories": [
+            "Apprentices",
+            "Apprenticeships",
+            "Child Benefit",
+            "Children",
+            "Department for Education",
+            "DWP",
+            "HMRC",
+            "social security",
+            "SSAC Occasional Papers",
+            "Universal Credit"
+        ],
+        "content": [
+            {
+                "content": "The benefits system risks discouraging apprenticeships",
+                "tag": "p"
+            },
+            {
+                "content": "Different things in life evolve at different rates. That much is inevitable, but it\u2019s still a source of trouble. Just think of all those newspaper stories about people splashing out on flash new EV cars only to get caught short in some corner of the country where there aren\u2019t enough chargepoints.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s just over a decade now since a major evolution of the education and training regime in England, with the raising of the required participation age to 18. The central 16+ choice is between full-time study, a full-time apprenticeship or a blend of study and work. But while the education system changed, the benefit system did not. A new report from the Social Security Advisory Committee exposes the unintended consequences that flow from this mismatch, some of which could distort the career paths of young people\u2014particularly those from poorer homes.",
+                "tag": "p"
+            },
+            {
+                "content": "The means-tested benefits system obviously has to take account of both a family\u2019s needs and its earnings. The more complex question with 16 and 17-year olds and their parents, however, is exactly who counts as a \u201cfamily\u201d. In the past, it was common for people to work like adults from 16: they could even get married. These days, most public policy draws a sharp line between adults and children at 18. But the social security system still puts 16 and 17 year-olds in a grey area. If they are in full-time education they remain children for benefit purposes; once they have left it, they effectively count as independent.",
+                "tag": "p"
+            },
+            {
+                "content": "When a 16-year old plumps for staying on at school or full-time college, all the family\u2019s benefits continue as before. But if they leave to become an apprentice, they drop out of consideration on their parents\u2019 benefit claim, and are implicitly assumed to rely on the apprenticeship wage they earn. Last financial year that would typically have been 35 hours at a \u00a37.55 rate, or about \u00a3260 each week.",
+                "tag": "p"
+            },
+            {
+                "content": "In parallel, their parent(s) receive less benefits than before. Their lost entitlements might include: Child Benefit, the child element of Universal Credit, plus in some circumstances the premium for a disabled child and/or the so-called \u201cwork allowance\u201d\u2014i.e. a chunk of their own earnings that some people are allowed to keep without it affecting their benefit calculation. Looking in detail at seven families in different circumstances, the report found that the hit total hit to entitlement varies hugely, ranging from \u00a317.25 to an extraordinary \u00a3339.92 every week.",
+                "tag": "p"
+            },
+            {
+                "content": "In general, the losses are larger where families have additional challenges, especially child disability. But even where no disability is involved, a working lone parent with one child in a private rental can lose out on entitlements (including child maintenance) to the tune of \u00a3225.49 a week when their 16 year-old starts an apprenticeship. In other words, she or he would need to get their hands on over 85 percent of the youngsters\u2019 wage in order to retain their income. In a similar case where the child is entitled to a disability premium, the losses shoot above \u00a3300, and far exceed the total apprenticeship wage. So the household as a whole is then unambiguously worse off.",
+                "tag": "p"
+            },
+            {
+                "content": "Such outcomes seem incompatible with the official stance of the government, which is that full-time education and apprenticeships are two equally valid pathways. There is a danger that parents who understand the consequences for their benefits could discourage their children from doing apprenticeships, and that families who don\u2019t understand the consequences could be in for a shock. The risk is not just theoretical: the Committee heard directly from families, young people and professionals advising them who confirmed that the benefit system was sometimes warping the participation choice.",
+                "tag": "p"
+            },
+            {
+                "content": "The root problem here concerns the unintentional misalignment that has grown up between two big systems, and as such it is not amenable to any quick single fix, however ingenious. But at a time when the high number of young people not in education, training or employment is a pressing concern, there is every reason to take this problem seriously. The report details the way in which other countries have avoided similar problems, and comes up with 13 practical recommendations for addressing them.",
+                "tag": "p"
+            },
+            {
+                "content": "Some are small changes which the committee believes could be implemented very rapidly\u2014such as closing a brief gap in payments that can affect families in the early weeks of a young person\u2019s apprenticeship between the family\u2019s benefits being recalculated (typically in late August) and the youngsters\u2019 first wage being received (typically in later September). This is a crunch time for budgeting as they might be required to buy work clothes and other materials. Other recommendations would be likely to require more scoping work and resources, and so rank as medium-term ambitions. For example, aligning the treatment of earnings between apprentices and full-time students, who\u2014unlike apprentices\u2014can currently earn in part-time jobs without benefit calculations being affected. In the longer term, a more thoroughgoing review of all benefit rules and their interactions with education and training for 16-18 year olds will be needed to steer us towards a more comprehensive resolution.",
+                "tag": "p"
+            },
+            {
+                "content": "This is complex terrain. But unless we want to see young people\u2019s futures being determined, not by their ambitions and aptitudes, but instead by snares in the benefit system, it is terrain that cannot be ignored.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ssac.blog.gov.uk/2026/04/23/the-benefits-system-risks-discouraging-apprenticeships/",
+        "blog": "Social Security Advisory Committee",
+        "blog_link": "https://ssac.blog.gov.uk",
+        "description": "The benefits system risks discouraging apprenticeships Different things in life evolve at different rates. That much is inevitable, but it\u2019s still a source of trouble. Just think of all those newspaper stories about people splashing out on flash new EV \u2026"
+    },
+    {
         "title": "Data standards: Laying the groundwork for an open, faster, data-driven planning system\u00a0",
         "authors": [
             "The Digital Planning team"
