@@ -1,5 +1,926 @@
 [
     {
+        "title": "Our Chief Executive's speech to the International Heads of Food Agencies Forum (23 April 2026)",
+        "authors": [
+            "Katie Pettifer, Chief Executive"
+        ],
+        "posted_on": "2026-04-28T16:09:49",
+        "categories": [
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Good afternoon colleagues, it's a real privilege to be with you again at this very important forum.",
+                "tag": "p"
+            },
+            {
+                "content": "As you know I'm the Chief Executive for the Food Standards Agency (FSA) which is the UK government\u2019s food safety regulator in England, Wales and Northern Ireland.",
+                "tag": "p"
+            },
+            {
+                "content": "In this presentation I would like to share some of our research and experiences on a subject that\u2019s so relevant to regulators in every country: public trust.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re living in the most information-rich period in human history. And yet, it\u2019s never been harder for the people we serve to know what to believe or who to trust. This paradox, and how we respond to it, is one of the biggest challenges facing regulators today.",
+                "tag": "p"
+            },
+            {
+                "content": "A world of uncertainty",
+                "tag": "h2"
+            },
+            {
+                "content": "As Ashley Bloomfield said this morning, if there\u2019s a framework for describing the world we're operating in, it\u2019s encapsulated in the acronym VUCA - it stands for Volatile, Uncertain, Complex and Ambiguous. It was originally developed in military strategic thinking, but it maps well onto the food system today.",
+                "tag": "p"
+            },
+            {
+                "content": "Volatile",
+                "tag": "h3"
+            },
+            {
+                "content": "Volatility, in the shape of global events, climate change, and supply chain disruption have all driven up food prices in recent years. This volatility isn't just an economic problem. ",
+                "tag": "p"
+            },
+            {
+                "content": "When families are struggling to afford food, they sometimes make choices that carry real safety risks: buying from unregulated sources, extending the shelf life of food beyond recommended limits, or purchasing counterfeit products.",
+                "tag": "p"
+            },
+            {
+                "content": "Uncertain",
+                "tag": "h3"
+            },
+            {
+                "content": "People often experience uncertainty because they find it hard to trust what they don't recognise. We\u2019re seeing the rapid growth of new food technology and novel foods: cell-cultivated proteins, precision fermentation products, new food additives. ",
+                "tag": "p"
+            },
+            {
+                "content": "These are areas where the science is evolving very quickly, where public understanding is limited, and where the communications challenge is significant.",
+                "tag": "p"
+            },
+            {
+                "content": "Complex",
+                "tag": "h3"
+            },
+            {
+                "content": "The global food supply network is vast and interconnected. Most consumers don\u2019t know where their food comes from, how many businesses it\u2019s passed through, or how many regulatory jurisdictions it has crossed, as regulators we don\u2019t know that either. ",
+                "tag": "p"
+            },
+            {
+                "content": "The expansion of new businesses models selling food online adds another a layer of complexity to the picture.",
+                "tag": "p"
+            },
+            {
+                "content": "Ambiguous",
+                "tag": "h3"
+            },
+            {
+                "content": "Ambiguity is part of the communications landscape we operate in. Misinformation, disinformation, viral food scares and conspiracy theories threaten to erode trust in the food system. When accurate and inaccurate information travel at the same speed, it becomes even more difficult for consumers to make the right decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "Against this backdrop, it is becoming increasingly challenging for regulators to manage and communicate risk.",
+                "tag": "p"
+            },
+            {
+                "content": "Our role as regulators",
+                "tag": "h2"
+            },
+            {
+                "content": "So, what is our role in all of this?",
+                "tag": "p"
+            },
+            {
+                "content": "At the FSA, our core mission is \u2018food you can trust\u2019, it encapsulates both a regulatory commitment and a communications aspiration. It's not just about the food itself. It's about the confidence that consumers can place in the system that produces, checks, and protects that food.",
+                "tag": "p"
+            },
+            {
+                "content": "Our job is to reduce risk for consumers. That means protecting them from unsafe food, but also operating in a way that is transparent, accountable, and credible. ",
+                "tag": "p"
+            },
+            {
+                "content": "Our ability to keep people safe depends, in part, on whether they believe what we tell them. And that makes trust a core operational requirement. We hold all our Board meetings in public.",
+                "tag": "p"
+            },
+            {
+                "content": "Why trust matters",
+                "tag": "h2"
+            },
+            {
+                "content": "At the moment we\u2019re enjoying high levels of trust in UK food. We regard that as something very precious. We know that when trust breaks down, the consequences are significant, because the FSA was created in the wake of some deeply damaging food scandals in the 1980s and 90s, these shattered public trust in the UK food industry and the institutions that were meant to be protecting the public.",
+                "tag": "p"
+            },
+            {
+                "content": "Incidents like the BSE crisis cost the UK food industry dearly, not just financially, but also in terms of the trust of consumers and international trading partners. ",
+                "tag": "p"
+            },
+            {
+                "content": "BSE not only cost lives but also cost the UK beef industry \u00a3900m \u2013 around \u00a32.2bn in today\u2019s prices. The UK only resumed beef exports to the US in 2020 - more than two decades later.",
+                "tag": "p"
+            },
+            {
+                "content": "More recently, the horse meat scandal that erupted in Europe in 2013, when undeclared horse meat was found in meat products throughout the food chain, wiped nearly \u00a3300m off the value of UK supermarket chain Tesco over three months, and once again shook consumer confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "With trust gone, misinformation can flourish and consumers are more likely to ignore official guidance. Certain groups like the vulnerable, the food insecure, those with dietary health needs are put disproportionately at risk.",
+                "tag": "p"
+            },
+            {
+                "content": "For regulators, trust isn't optional. It's the foundation on which everything else rests.",
+                "tag": "p"
+            },
+            {
+                "content": "How we measure trust",
+                "tag": "h2"
+            },
+            {
+                "content": "At the FSA, trust is something we track carefully.",
+                "tag": "p"
+            },
+            {
+                "content": "We do this mainly through our Food and You 2 survey, which gives us a consistent, comparable picture of consumer trust over time. ",
+                "tag": "p"
+            },
+            {
+                "content": "We  use our Consumer Insights Tracker for more frequent data points. We also commission broader strategic research to understand the drivers of trust and what affects them.",
+                "tag": "p"
+            },
+            {
+                "content": "What does the data tell us? Overall confidence in the safety of food remains high, with 89% of consumers in the most recent wave confident in the safety of food they purchased. ",
+                "tag": "p"
+            },
+            {
+                "content": "But it also tells us that trust in the food supply chain, and trust in institutions including the FSA itself, is more fragile than that headline figure might suggest.",
+                "tag": "p"
+            },
+            {
+                "content": "There was a notable decline in trust between 2022 and 2023, which coincided with a period of significant political turbulence in the UK, and declining trust in government more widely. ",
+                "tag": "p"
+            },
+            {
+                "content": "That tells us something important: our reputation is partly in our own hands, but sometimes dependent on factors that are beyond our control. Trust in the FSA is influenced not just by what we do, but by the context in which we operate.",
+                "tag": "p"
+            },
+            {
+                "content": "The data also shows us that trust is uneven. We\u2019ve seen larger declines in trust in people with food hypersensitivities, those with lower food security, and younger consumers. That matters because these are often the people who most need reliable, authoritative information to make safe decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "What drives trust in the FSA",
+                "tag": "h2"
+            },
+            {
+                "content": "Understanding what drives trust is just as important as measuring it, and here research we commissioned from Ipsos gives us a good picture. Three factors underpin consumer trust in organisations like ours: competence, honesty, and benevolence.",
+                "tag": "p"
+            },
+            {
+                "content": "Competence means giving consumers confidence in our scientific expertise and regulatory authority - and trusting us to make sound judgements about food safety.",
+                "tag": "p"
+            },
+            {
+                "content": "Honesty means being transparent, even when the information is complicated or inconvenient. It means acknowledging uncertainty rather than hiding it and being consistent in what we say.",
+                "tag": "p"
+            },
+            {
+                "content": "And benevolence means being perceived to be acting in the interests of consumers, not of industry, government, or the organisation itself. Consumers need to believe that we are genuinely on their side.",
+                "tag": "p"
+            },
+            {
+                "content": "These three drivers interact and reinforce each other and have significant implications for our communications. It means that how we communicate - the tone, the transparency, the consistency - is as important as what we\u2019re saying. It also means that the moments when trust is most tested, during crises and major incidents, are when our communications matter most.",
+                "tag": "p"
+            },
+            {
+                "content": "Building trust",
+                "tag": "h2"
+            },
+            {
+                "content": "So, what does this mean in practice? Our Ipsos research identified a number of factors that actively build or erode trust in a regulator.",
+                "tag": "p"
+            },
+            {
+                "content": "Handling crises well is obviously vital. The FSA deals with around 2000 food incidents every year and has 25 years of crisis communications experience. We know all too well that the media plays a significant role in shaping how consumers perceive food risks. Negative coverage can spread quickly and do lasting damage, but if the crisis is handled well, especially in the media spotlight, it can reinforce trust. ",
+                "tag": "p"
+            },
+            {
+                "content": "If a regulator is seen to act decisively, communicate clearly, and demonstrate concern for consumers, it can emerge from a crisis with its credibility intact or even enhanced.",
+                "tag": "p"
+            },
+            {
+                "content": "Endorsement builds trust. Consumers are more likely to trust information when it comes from someone they already trust, a healthcare professional, a teacher, a community leader. This is why the people who amplify our messages matter so much.",
+                "tag": "p"
+            },
+            {
+                "content": "A sense of personal control is also significant. Communications that give people clear, actionable information - \"here's what to look for, here's what to do\" - are more likely to build trust than communications that simply instruct or warn. The FSA\u2019s food hygiene rating scheme is a great example of this. It allows the public to see the hygiene rating of a food business to help them make informed decisions about where they want to eat.",
+                "tag": "p"
+            },
+            {
+                "content": "Consistency is essential. Trust is eroded when messages are contradictory, or when official communications are at odds with what people hear from other sources. Consistent information, delivered across multiple channels, reinforces credibility.",
+                "tag": "p"
+            },
+            {
+                "content": "Familiarity matters too. People trust what they know and that means being a visible, regular presence, not just appearing when there's a problem. The fact that they see our logo on FHRS ratings frequently when they shop and eat must help here. We need the public to know who we are and what we stand for, so that when we do need to communicate urgently, we're not starting from square one.",
+                "tag": "p"
+            },
+            {
+                "content": "Let me bring this to life with a recent example.",
+                "tag": "p"
+            },
+            {
+                "content": "Infant formula incident",
+                "tag": "h2"
+            },
+            {
+                "content": "Earlier this year we responded to a serious food incident involving the potential contamination of batches of infant formula with cereulide, a naturally occurring toxin that can cause vomiting and stomach cramps. I know that many of you here will have been involved in this incident.",
+                "tag": "p"
+            },
+            {
+                "content": "Any incident involving risks to babies or children is always especially emotive. For some families, baby formula is the only source of nutrition for their baby. Fear and misinformation can spread rapidly on social media, and parents will, quite rightly, seek information from multiple sources simultaneously.",
+                "tag": "p"
+            },
+            {
+                "content": "It's the type of situation you most dread as the head of a food safety authority - having to tell parents they may have fed their young child a contaminated product.",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach in this incident has been guided by exactly the principles I've described. We moved quickly to provide reassurance, working with our UK Health Security Agency to give the advice parents needed.",
+                "tag": "p"
+            },
+            {
+                "content": "We ensured affected batches were recalled and worked with the retailers and manufacturers so we could give a simple message: check cupboards for recalled products and what's on the shelves is safe to buy.",
+                "tag": "p"
+            },
+            {
+                "content": "We communicated transparently about the nature of the risk and worked intensively with industry to ensure that parents could continue to access infant milks. A shortage in the course of managing a safety recall would have created its own serious risks.",
+                "tag": "p"
+            },
+            {
+                "content": "The lesson here is that trust is built in advance, through consistent, honest, benevolent communication over time, and it\u2019s tested in the moment. Our ability to respond effectively depended on the credibility we had already established.",
+                "tag": "p"
+            },
+            {
+                "content": "Three lessons for regulators",
+                "tag": "h2"
+            },
+            {
+                "content": "So let me draw this together into three practical takeaways that I hope are useful for all of us, whatever our context:",
+                "tag": "p"
+            },
+            {
+                "content": "Firstly, know your audience. Trust is not uniform. Different groups of consumers have different relationships with the food system, different sources of information, and different vulnerabilities. Effective trust-building means understanding who you're talking to and tailoring your approach accordingly.",
+                "tag": "p"
+            },
+            {
+                "content": "Secondly, be clear, continuous, and consistent. Trust is built over time, through repeated, coherent engagement. Not just in crises, when there's something to announce. Consistency is what turns messages into an institutional character that people can rely on.",
+                "tag": "p"
+            },
+            {
+                "content": "Thirdly, you can\u2019t do this alone. We operate within a much wider ecosystem - of healthcare professionals, retailers, schools, community organisations, industry partners, and fellow regulators. Building the partnerships that allow us to extend our reach and maintaining the credibility that makes others willing to endorse and amplify our messages is critical to our communications.",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "The uncertainty we face as regulators is real. We can\u2019t control global events, the spread of misinformation, or the political context in which our institutions operate. But we can control how we communicate.",
+                "tag": "p"
+            },
+            {
+                "content": "We can choose to be honest even when the picture is complicated; consistent even when it's difficult; and visible and engaged - not just when we have bad news to share. We can work to be a consistent and trustworthy presence in the lives of the people we serve.",
+                "tag": "p"
+            },
+            {
+                "content": "Trust in the food system is not something we can take for granted, but something we can earn through the quality of our science, the transparency of our communication, and the care we show for the consumers who depend on us.",
+                "tag": "p"
+            },
+            {
+                "content": "In an uncertain world, that is the most important thing we can offer.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2026/04/28/our-chief-executives-speech-to-the-international-heads-of-food-agencies-forum-23-april-2026/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Chief Executive Katie Petiffer joined food regulators from around the world at the International Heads of Food Agencies Forum in New Zealand, and spoke about building trust with consumers in an uncertain world."
+    },
+    {
+        "title": "Digital\u00a0waste\u00a0tracking: What is it and why it matters\u00a0",
+        "authors": [
+            "Environment blog team"
+        ],
+        "posted_on": "2026-04-28T14:25:48",
+        "categories": [
+            "Recycling",
+            "Resources and waste",
+            "Sustainability"
+        ],
+        "content": [
+            {
+                "content": "Waste crime is not new, but in recent years it has escalated into\u00a0a more sophisticated,\u00a0costly\u00a0and damaging\u00a0criminal enterprise. It costs the economy an estimated \u00a31 billion every year, blights\u00a0our\u00a0communities, and causes serious harm to the environment. From\u00a0vast\u00a0illegal dumps\u00a0to fraudulent disposal records, criminal operators have long exploited gaps in the system\u00a0and undermined legitimate businesses.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Defra recently\u00a0published its\u00a0Waste Crime\u00a0Action Plan\u00a0for England, setting out\u00a0how we will\u00a0tackle these offences through\u00a0tougher regulation,\u00a0enhanced enforcement\u00a0capabilities\u00a0and a\u00a0commitment\u00a0to\u00a0accelerating the clean-up\u00a0of the most harmful illegal waste sites.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Prevention means strengthening the regulatory regime to make it harder for waste crime to take place in the first place. We will tighten the rules around waste carriers, brokers and dealers to close the loopholes which criminals exploit.\u00a0\u00a0A key part of this effort to prevent waste crime is\u00a0digital\u00a0waste\u00a0tracking.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is digital waste tracking?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The introduction of\u00a0digital\u00a0waste\u00a0tracking\u00a0is an\u00a0important tool\u00a0in the fight against waste crime. By creating a clear,\u00a0near real-time record\u00a0of where waste goes at every stage of its journey, the\u00a0service\u00a0makes it significantly harder for criminal operators to dispose of waste illegally. Where there were once gaps that could be exploited, there will\u00a0now\u00a0be a\u00a0complete,\u00a0auditable trail.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By\u00a0generating\u00a0consistent\u00a0and\u00a0high-quality data across the entire waste chain, digital waste tracking will enable a more intelligence-led approach to regulation. This insight will allow\u00a0the Environment Agency and enforcement bodies\u00a0to\u00a0make more effective,\u00a0better-informed\u00a0decisions when tackling waste crime.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Digital waste tracking is becoming a reality\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The launch of the public beta\u00a0for\u00a0the\u00a0\u2018Report\u00a0Receipt of\u00a0Waste\u2019\u00a0service\u00a0marks a major\u00a0step forward.\u00a0This\u00a0service allows waste receivers to\u00a0submit\u00a0data on the waste they handle.\u00a0It moves us closer to a fully accountable waste system where every movement of waste can be tracked, verified, and audited.",
+                "tag": "p"
+            },
+            {
+                "content": "Digital waste tracking\u00a0is\u00a0a\u00a0shift away from\u00a0the current\u00a0largely\u00a0paper-based,\u00a0outdated\u00a0and overly\u00a0bureaucratic\u00a0system. For legitimate businesses, this\u00a0will speed up admin work\u00a0and cut red tape, bringing clarity and confidence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A more transparent and accountable waste system is not just about regulation; it is about protecting businesses,\u00a0people\u00a0and places.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting businesses with a phased roll-out\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Digital waste tracking is being rolled out in a phased approach to give businesses the chance to adapt their processes. The first phase begins with the launch of the public beta this month which then becomes mandatory to use from October 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "This applies to all licensed or permitted operators of waste receiving sites, like recycling centres, landfills and treatment facilities. Phase 1 will apply to around 12,000 permitted waste receiving sites.",
+                "tag": "p"
+            },
+            {
+                "content": "The expansion of the service for other operators will follow, with\u00a0more than 100,000\u00a0operators set to be in scope.",
+                "tag": "p"
+            },
+            {
+                "content": "What digital waste tracking means for you\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Digital waste tracking is just one of the measures in our Waste Crime Action plan which will help to close the gaps that criminals exploit, bring more offenders to justice and restore pride in our communities.",
+                "tag": "p"
+            },
+            {
+                "content": "If you work\u00a0in\u00a0the waste sector,\u00a0read\u00a0the latest\u00a0guidance\u00a0on\u00a0digital waste tracking\u00a0and\u00a0find out more about how this new\u00a0service\u00a0will work for your business.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For\u00a0permitted\u00a0waste receiving sites,\u00a0be sure to\u00a0sign-up\u00a0to\u00a0use\u00a0the\u00a0public beta. If you are someone who develops or\u00a0provide\u00a0software for the waste sector,\u00a0get in touch with\u00a0our team\u00a0about integration with the service\u00a0by emailing\u00a0WasteTracking_Developers@defra.gov.uk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is an opportunity to have your say and shape\u00a0digital waste tracking, helping us to develop a reliable and effective service.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/04/28/digital-waste-tracking-what-is-it-and-why-it-matters/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "Waste crime is not new, but in recent years it has escalated into\u00a0a more sophisticated,\u00a0costly\u00a0and damaging\u00a0criminal enterprise. It costs the economy an estimated \u00a31 billion every year, blights\u00a0our\u00a0communities, and causes serious harm to the environment. From\u00a0vast\u00a0illegal dumps\u00a0to fraudulent disposal records, \u2026"
+    },
+    {
+        "title": "How PropTech is transforming leasehold property management",
+        "authors": [
+            "Robert Elliot | CEO of Block Manager Technology"
+        ],
+        "posted_on": "2026-04-28T13:00:23",
+        "categories": [
+            "Buying and selling property",
+            "Data",
+            "Digital services"
+        ],
+        "content": [
+            {
+                "content": "Block Manager Technology joined the\u00a0Geovation Accelerator Programme\u00a0in 2025. The programme, backed by HM Land Registry and Ordnance Survey, provides geospatial and PropTech start-ups with grant funding and 12 months\u2019 support, encouraging the innovative use of our data to benefit the property market, society and the economy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I'm Robert Elliott, founder and CEO of Block Manager Technology. Throughout my adult life living in flats and helping on resident committees, I've dealt with poor workmanship, financial mismanagement, and complex legal systems when trying to get things under control, including through enfranchisement. All these experiences inspired Block Manager because, for Britain's more than 4.8 million leaseholders, there has to be a different way!",
+                "tag": "p"
+            },
+            {
+                "content": "I knew I wanted to build a product for the people who actually pay the bills \u2013 the leaseholders \u2013 by harnessing the rapidly evolving benefits of AI and automation.",
+                "tag": "p"
+            },
+            {
+                "content": "Block Manager systematises and where possible automates everything related to residential building management. This allows property managers to focus on providing the leaseholders with a better service and lower service charges.",
+                "tag": "p"
+            },
+            {
+                "content": "The excitement of a start-up",
+                "tag": "h2"
+            },
+            {
+                "content": "In March 2025 I applied to the Geovation Accelerator Programme and was thrilled to be accepted. Early on, one of the mentors gave me some tough love: \"You need to build a business, not a product, and you have no customers. Prove they'll pay or this could all be for nothing. Don't give up your day job, Robert!\"",
+                "tag": "p"
+            },
+            {
+                "content": "I hit the phones immediately and got my first paid client who agreed to let me audit their building and its systems. That was the beginning of a major learning curve. After pulling apart every facet of their building\u2019s management processes and systems, I put all the data back together through an accessible ten-systems framework, from health and safety to compliance to financial management and more.",
+                "tag": "p"
+            },
+            {
+                "content": "Then I designed features for everyone living in or involved in managing leasehold flats, including:",
+                "tag": "p"
+            },
+            {
+                "content": "The hurdles",
+                "tag": "h2"
+            },
+            {
+                "content": "Running a start-up is both daunting and full of surprises. Property management sits at the confluence of different legal systems \u2013 property law, company law, health and safety acts, consumer law as well as data protection. Finding a law firm that covers everything? Really hard but essential. Finding staff who want to work for a startup? Really hard too. But slowly, we're getting there, we\u2019ve found our law firm and are building a team who believe in resident empowerment.",
+                "tag": "p"
+            },
+            {
+                "content": "The next frontier",
+                "tag": "h2"
+            },
+            {
+                "content": "We've just closed our first fundraising round of \u00a3500,000 at a \u00a35 million valuation and have signed up our first 117 units. We've got real customers and real backing. So here we go!",
+                "tag": "p"
+            },
+            {
+                "content": "The dream will be watching volunteer directors at Resident Management Companies, Right to Manage companies and freeholders go from drowning in paperwork to confidently running their buildings with human support when they need it. That's why we've built Block Manager.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://hmlandregistry.blog.gov.uk/2026/04/28/how-proptech-is-transforming-leasehold-property-management/",
+        "blog": "HM Land Registry",
+        "blog_link": "https://hmlandregistry.blog.gov.uk",
+        "description": "Block Manager Technology is part of the\u00a0Geovation Accelerator Programme - encouraging the innovative use of data to benefit the property market, society and the economy."
+    },
+    {
+        "title": "GOV.UK One Login for HMRC: how we made it happen and what comes next",
+        "authors": [
+            "Lucy Leonard, HMRC Onboarding Team Lead, GDS"
+        ],
+        "posted_on": "2026-04-28T12:52:59",
+        "categories": [
+            "GOV.UK One Login"
+        ],
+        "content": [
+            {
+                "content": "After 3 years of close collaboration between the Government Digital Service (GDS) and HM Revenue and Customs (HMRC), GOV.UK One Login is now being rolled out to new HMRC users. This implementation represents a significant milestone for the cross-government project.",
+                "tag": "p"
+            },
+            {
+                "content": "Since February, a proportion of users who access HMRC services online for the first time have been directed to sign in or create sign in details through GOV.UK One Login. This is another significant step towards a simpler, more consistent experience for people accessing government services online.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the coming months, we will be rolling this out to more new HMRC users until GOV.UK One Login becomes the standard route for everyone accessing HMRC services for the first time.",
+                "tag": "p"
+            },
+            {
+                "content": "My role as the GDS team lead for the HMRC engagement is to ensure the GOV.UK One Login platform enables users\u2019 smooth access to HMRC\u2019s services. That means working closely with our HMRC colleagues to understand what they need, turning those needs into practical work our teams can deliver, and making sure the platform works well for everyone who uses it.",
+                "tag": "p"
+            },
+            {
+                "content": "How we got here: building a shared solution",
+                "tag": "h2"
+            },
+            {
+                "content": "Delivering a cross-government service of this scale required deep, collaborative work including:",
+                "tag": "p"
+            },
+            {
+                "content": "Go live: the moment the button was pressed",
+                "tag": "h2"
+            },
+            {
+                "content": "The go live day for this milestone (9 February 2026) was worth celebrating. A small group of the core GDS team travelled to HMRC offices to be there in person when we switched the service on.",
+                "tag": "p"
+            },
+            {
+                "content": "The joint GDS-HMRC team is spread right across the UK, making this in-person gathering a momentous occasion. Crucially, the launch went smoothly, and we celebrated the first successful users accessing HMRC services via GOV.UK One Login, complete with celebratory cake.",
+                "tag": "p"
+            },
+            {
+                "content": "The next phase: monitoring and iterating",
+                "tag": "h2"
+            },
+            {
+                "content": "Going live was just the beginning. We have established joint reporting measures and are now actively monitoring metrics to ensure the service continues to run smoothly and provides a positive user experience. We are tracking the:",
+                "tag": "p"
+            },
+            {
+                "content": "We will use this data to ensure we continue to meet user needs and that people can complete their required interactions with HMRC easily and effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next",
+                "tag": "h2"
+            },
+            {
+                "content": "Reaching this point has taken a huge amount of work from both teams. However, there is more to come. Our next priority is bringing existing HMRC users onto GOV.UK One Login. These are users who already have and actively use Government Gateway to access HMRC services.",
+                "tag": "p"
+            },
+            {
+                "content": "We are continuing to work closely with our HMRC colleagues to take forward this essential next phase of work. Ultimately, the goal is the same as it has always been: making it simpler and easier for people to access the government services they need online.",
+                "tag": "p"
+            },
+            {
+                "content": "P.S. The cake was delicious \u2013\u00a0I could have had a second slice, and I am very particular about cake.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2026/04/28/gov-uk-one-login-for-hmrc-how-we-made-it-happen-and-what-comes-next/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Find out how GDS and HMRC joined forces to bring GOV.UK One Login to millions and what comes next for simpler access to government services."
+    },
+    {
+        "title": "Let\u2019s talk about conflicts of interest in charities",
+        "authors": [
+            "Charity Commission"
+        ],
+        "posted_on": "2026-04-28T11:11:54",
+        "categories": [
+            "Guidance",
+            "Trustees"
+        ],
+        "content": [
+            {
+                "content": "We sat down with one of our case managers, John, to talk about conflicts of interest \u2013 what they are, why they matter, and what charity trustees often get wrong.",
+                "tag": "p"
+            },
+            {
+                "content": "Let's start with the basics. What actually is a conflict of interest?",
+                "tag": "p"
+            },
+            {
+                "content": "At its simplest, a conflict of interest is any situation where a trustee's personal interests \u2013 or their loyalty to someone or something outside the charity \u2013 could influence a decision they're making on behalf of the charity.",
+                "tag": "p"
+            },
+            {
+                "content": "A conflict of interest might be financial, like a trustee's family member being paid for work by the charity. Or it might be about loyalty, like a trustee who sits on the board of another organisation that the charity is entering into an agreement with.",
+                "tag": "p"
+            },
+            {
+                "content": "Conflicts of interest should be avoided as far as possible, but where a conflict should arise this isn\u2019t always necessarily a problem in itself. Trustees bring their networks, relationships and experience with them \u2013 that's often a good thing. The issue arises when a conflict isn't recognised and handled properly.",
+                "tag": "p"
+            },
+            {
+                "content": "How common are they?",
+                "tag": "p"
+            },
+            {
+                "content": "Very. Conflicts of interest come up in charities of every size and type \u2013 from a small community group with a handful of volunteers to large national organisations. In fact, conflict of interest cases have shown a steady upward trend over recent years. And in our casework, they are a factor in many of the most serious cases we deal with.",
+                "tag": "p"
+            },
+            {
+                "content": "So, what goes wrong most often?",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s the first step \u2013 just recognising that a conflict exists. That's consistently the part trustees struggle with most, and our annual research backs that up.",
+                "tag": "p"
+            },
+            {
+                "content": "People tend to assume that a conflict only matters if something dis-honest is going on. But that's not how it works. A conflict can exist even when the arrangement is perfectly sensible, and the charity is getting a good deal.",
+                "tag": "p"
+            },
+            {
+                "content": "A classic example: imagine a trustee's husband is a decorator, and he offers to paint the village hall for half the usual price. The trustees think, great, we're saving money, there's no problem here. But there is a conflict \u2013 because one trustee has a personal connection to the person being paid by the charity and has a conflict between the charity\u2019s best interests and their own interest in their husband being paid. That needs to be declared and managed, even if the arrangement ends up going ahead and even if it genuinely is the right decision for the charity.",
+                "tag": "p"
+            },
+            {
+                "content": "What should trustees do when they spot one?",
+                "tag": "p"
+            },
+            {
+                "content": "Always check your governing document and follow any rules on managing conflicts of interests. If it doesn't say anything, we recommend a step-by-step approach: identify, declare, remove, manage, record. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once a potential conflict has been identified, declare it \u2013 early, before discussions start. Tell the other trustees. Don't just quietly step back from a vote at the last minute; the conflict needs to be on the record.",
+                "tag": "p"
+            },
+            {
+                "content": "Then the trustees collectively need to decide how to handle it, and suitably manage it, if they can. Usually that means the conflicted trustee stepping out of the relevant discussion and decision entirely and not being counted in the quorum (the minimum number of members required to make a decision). If there is a payment involved, the trustees must make sure they have a power or authority to make the payment. And critically, you need to write it all down \u2013 what the conflict was, who it affected, when it was declared, and what you did about it. If trustees do all of that, it can help demonstrate that they have acted in line with their legal duties, even though the conflict existed. That's the whole point of managing it properly.",
+                "tag": "p"
+            },
+            {
+                "content": "And if they don't manage the conflict?",
+                "tag": "p"
+            },
+            {
+                "content": "That's where it gets serious. A decision that's been tainted by an unmanaged conflict can be challenged and may not be valid. If the charity loses money as a result, trustees can be personally liable \u2013 meaning they might have to cover the loss from their own pockets. That's rare, but it happens.",
+                "tag": "p"
+            },
+            {
+                "content": "There's also the reputational damage to consider. Even the appearance of a conflict \u2013 even where nothing improper has actually happened \u2013 can damage your charity's standing with donors and funders. And it affects wider public trust in charities generally, which is something we all have a stake in protecting.",
+                "tag": "p"
+            },
+            {
+                "content": "In the most serious cases, it can amount to misconduct and mismanagement, and we may need to take regulatory action. The Captain Tom Foundation inquiry is a well-known recent example \u2013 repeated failures to identify and manage conflicts of interest led to personal benefit for those involved, and the trustees responsible were disqualified.",
+                "tag": "p"
+            },
+            {
+                "content": "Any final advice for trustees reading this?",
+                "tag": "p"
+            },
+            {
+                "content": "Adopt a conflict of interest policy and make it a standing item at every board meeting. Don't wait until something feels wrong \u2013 ask the question every time. Keep a register of interests and keep it up to date. And if you're ever unsure whether something counts as a conflict, talk to your fellow trustees and take advice if you need it. It's always better to raise it and decide no action is needed than to say nothing and face the consequences later.",
+                "tag": "p"
+            },
+            {
+                "content": "Our guidance is there to help. It's not complicated once you know what to look for \u2013 and getting it right is one of the most important things you can do for your charity.",
+                "tag": "p"
+            },
+            {
+                "content": "For more information:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://charitycommission.blog.gov.uk/2026/04/28/lets-talk-about-conflicts-of-interest-in-charities/",
+        "blog": "Charity Commission",
+        "blog_link": "https://charitycommission.blog.gov.uk",
+        "description": "We sat down with one of our case managers, John, to talk about conflicts of interest \u2013 what they are, why they matter, and what charity trustees often get wrong."
+    },
+    {
+        "title": "Connecting\u00a0our\u00a0seafarers\u00a0 to support\u00a0on\u00a0World Day for Safety and Health at Work",
+        "authors": [
+            "Ben Craig"
+        ],
+        "posted_on": "2026-04-28T10:02:05",
+        "categories": [
+            "Seafarer welfare"
+        ],
+        "content": [
+            {
+                "content": "Maritime and Coastguard Agency\u00a0gives\u00a0backing\u00a0to\u00a0Merchant Navy Welfare Board\u00a0assistance\u00a0project.",
+                "tag": "p"
+            },
+            {
+                "content": "A career at sea brings adventure, freedom, and experiences that simply\u00a0can\u2019t\u00a0be found in a job on land.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It offers the chance to travel, work with\u00a0cutting\u2011edge\u00a0technology, and be part of a global industry that keeps nations moving.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Maritime work can bring its own\u00a0distinctive\u00a0challenges\u00a0too.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Life at sea\u00a0can\u00a0involve extended periods away from home, family and loved ones, which can present emotional and practical challenges.\u00a0Seafarers may\u00a0encounter\u00a0issues such as fatigue, stress, health concerns, or the need for financial and legal advice while working within a demanding and\u00a0fast\u2011paced\u00a0global environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In response,\u00a0there\u00a0has\u00a0grown\u00a0a\u00a0network\u00a0of\u00a0organisations,\u00a0resources\u00a0and support\u00a0dedicated to\u00a0seafarers, fishers, retired seafarers,\u00a0cadets\u00a0and their families, regardless of background and nationality,\u00a0across the United Kingdom.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But\u00a0not\u00a0everyone\u00a0is aware\u00a0this\u00a0help is at hand.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0knowledge gap is hindering some people getting the\u00a0assistance\u00a0that could make\u00a0a\u00a0big\u00a0difference.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To\u00a0help\u00a0close\u00a0the\u00a0gap, the Merchant Navy Welfare Board (MNWB) provides a comprehensive online Seafarer Support directory\u00a0\u2013 which has been given renewed backing by the Maritime and Coastguard Agency (MCA).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Visitors to the Seafarer Support website are directed to resources tailored to sailors working in the\u00a0UK\u2019s\u00a0Merchant Navy, fishing fleet or Royal Navy and\u00a0Royal Marines.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A new section is\u00a0also\u00a0being added specifically to support families with advice and enabling\u00a0community\u00a0support\u00a0and solidarity.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This valuable project has now been given renewed backing by the Maritime and Coastguard Agency (MCA) whose mission is to ensure the safety of those at sea.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Seafarer Support has been highlighted:",
+                "tag": "p"
+            },
+            {
+                "content": "Project lead Adrian Kawaguchi, Human Element Specialist at the MCA, said: \u201cThe maritime community is tightknit and supportive. But\u00a0it\u2019s\u00a0not always clear where seafarers and their families can access the\u00a0expert\u00a0help that\u00a0is out there.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe\u2019re\u00a0backing\u00a0the MNWB and its excellent\u00a0Seafarer Support\u00a0website\u00a0as the go-to hub for\u00a0assistance\u00a0and advice.\u00a0As well as expert help, it\u00a0can\u00a0now help to unlock links between seafarers and families, strengthening the maritime community\u00a0further.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe MCA will always look out for the safety of crew and passengers. With this\u00a0awareness\u00a0push, we hope to\u00a0also\u00a0close the gap between seafarers and the help and support they need.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sharon Coveney, Deputy Chief Executive at the Merchant Navy Welfare Board, said: \u201cWe know there is good support available for seafarers and their families, but it is not always easy to know where to start or how to access it. Seafarer Support brings that information together in one clear, accessible place, making it easier to find the right help quickly.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe support from the MCA helps us reach more people and raise awareness of what is available, including for families who can sometimes feel cut off from the wider maritime community. By working together, we can ensure practical advice and support is easier to find and is used more widely.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The knowledge gap was highlighted by a report published in September 2025 by the Maritime Charities Group:\u00a0Seafarers 2040: Understanding UK Demographics and Welfare Needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It found that although many seafarers are aware of support, they often do not know how to access them. It also said families would\u00a0benefit\u00a0from stronger social connections and welfare networks.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The MCA is encouraging employers, training\u00a0providers\u00a0and ship managers to actively signpost Seafarer Support to their crews and families as part of routine welfare and safety communications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Visit\u00a0UK Maritime Charities Welfare Guide\u00a0or call freephone\u00a00800 121 4765\u00a0(8.30am to 4.30pm).\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidemca.blog.gov.uk/2026/04/28/connecting-our-seafarers-to-support-on-world-day-for-safety-and-health-at-work/",
+        "blog": "Inside MCA",
+        "blog_link": "https://insidemca.blog.gov.uk",
+        "description": "The Merchant Navy Welfare Board provides a comprehensive online Seafarer Support directory\u00a0\u2013 which has been given renewed backing by the Maritime and Coastguard Agency."
+    },
+    {
+        "title": "Global Supply Chains Intelligence Programme: an AI-enabled big data analytical platform for government",
+        "authors": [
+            "Hannah Male, Programme Manager in Global Supply Chains Intelligence Programme"
+        ],
+        "posted_on": "2026-04-28T10:00:49",
+        "categories": [
+            "AI"
+        ],
+        "content": [
+            {
+                "content": "Hannah Male",
+                "tag": "h3"
+            },
+            {
+                "content": "Rob Turner",
+                "tag": "h3"
+            },
+            {
+                "content": "What is the Global Supply Chains Intelligence Programme?",
+                "tag": "h2"
+            },
+            {
+                "content": "Government departments increasingly need a clear, evidence-based understanding of global supply chains, whether to inform policy decisions, manage economic risk, or support operational delivery. The Global Supply Chains Intelligence Programme (GSCIP) was created to meet this need. It integrates very large-scale commercial and government datasets and applies advanced data science and AI techniques to provide unprecedented insights into supply chains at a speed not possible in the past. This combination of scale and speed in supply chains, intelligence-gathering and analysis places GSCIP at the cutting-edge of government AI applications.",
+                "tag": "p"
+            },
+            {
+                "content": "In 2025, the GSCIP team was recognised with the Analysis in Government Impact Award. It celebrated the programme\u2019s role in informing major policy decisions, improving operational outcomes and driving innovation. It also delivered significant value for money for the taxpayer. This is a striking example of how government departments can collaborate to create integrated solutions, reducing duplication and inefficiency created by fragmented approaches.",
+                "tag": "p"
+            },
+            {
+                "content": "This blog shares the GSCIP journey, from an ambitious idea to an award-winning analytical platform. It highlights what was achieved, the challenges along the way, and what other teams across government might learn from the experience.",
+                "tag": "p"
+            },
+            {
+                "content": "Why a centralised approach was needed",
+                "tag": "h2"
+            },
+            {
+                "content": "Supply chains inform almost every area of government activity, from economic security and international trade to procurement and crisis response. Yet historically, departments have often had to build their understanding in isolation, procuring similar datasets, developing bespoke tools, and duplicating analytical effort. Compared to a centralised capability like GSCIP, this duplication can result in poor value for money.",
+                "tag": "p"
+            },
+            {
+                "content": "This fragmented approach also made it difficult to develop a consistent, timely picture of supply chain risks and opportunities across government. It also created barriers to collaboration, with analysts and policymakers working from different evidence bases and using different methods.",
+                "tag": "p"
+            },
+            {
+                "content": "Addressing these challenges required more than a new dataset or dashboard. It needed coordination and close collaboration between analysts and digital specialists across departments. A shared commitment to building something that could be trusted was also needed, delivering intelligence at pace and scaled up. These all needed to stay within the constraints of government data, security, and commercial frameworks.",
+                "tag": "p"
+            },
+            {
+                "content": "Building a shared capability",
+                "tag": "h2"
+            },
+            {
+                "content": "GSCIP started with a simple idea. Could government departments work together to build a shared analytical capability for understanding global supply chains, rather than each department attempting to solve the same problem independently?",
+                "tag": "p"
+            },
+            {
+                "content": "From the outset, the programme brought together analysts, data scientists, commercial specialists and Digital, Data and Technology (DDaT) professionals. DDaT led the design and delivery of the secure platform, including data engineering and pipelines, cloud infrastructure, service and user-centred design. They also established the governance and security needed to operate it safely. Early collaboration helped shape both the analytical questions and the technical design, ensuring the platform would be genuinely useful.",
+                "tag": "p"
+            },
+            {
+                "content": "Rather than aiming for a perfect solution upfront, GSCIP focused on building a minimum viable platform, testing it with real users, and iterating based on feedback. This agile approach allowed the team to learn quickly, demonstrate value early, and build momentum across departments.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge of scaling",
+                "tag": "h2"
+            },
+            {
+                "content": "Scaling GSCIP from a small, experimental capability into a cross-government platform was not straightforward. One of the biggest challenges was moving from a successful beta configuration to something adaptable enough to support multiple departments with differing needs and priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "Coordinating across government also requires time and trust. Departments operate under different pressures, funding models and governance structures. This makes alignment more complex than in a single organisation. Securing buy-in and financial contributions meant clearly demonstrating value, being transparent about limitations, and showing how GSCIP complemented expertise.",
+                "tag": "p"
+            },
+            {
+                "content": "There were also practical challenges around data access, security and commercial arrangements. All of these had to be addressed carefully to ensure the platform could be used safely and responsibly. A key challenge has been securing access for every department to the same data as DBT and aligning experience across our users. Working cross-profession with our suppliers and partners, GSCIP found new ways of sharing crucial microdata beyond just DBT.",
+                "tag": "p"
+            },
+            {
+                "content": "Overcoming these hurdles required persistence, strong relationships and a shared belief in the collaboration's long-term benefits. Hiren Bhimjiyani, GSCIP\u2019s Programme Director reflected:",
+                "tag": "p"
+            },
+            {
+                "content": "GSCIP in action",
+                "tag": "h2"
+            },
+            {
+                "content": "GSCIP has transformed how government understands and uses supply chain intelligence. By bringing together multiple datasets and advanced analytical techniques on a single, secure platform, it has enabled analysts and policymakers to explore supply chains in ways that were previously difficult or impossible.",
+                "tag": "p"
+            },
+            {
+                "content": "The platform has supported a wide range of high\u2011impact work, including informing major policy decisions. It has identified vulnerabilities in critical supply chains and improved the evidence base for operational and commercial decisions. By providing a shared view across departments, GSCIP has also helped align conversations and reduce duplication of effort.",
+                "tag": "p"
+            },
+            {
+                "content": "Crucially, the programme has demonstrated the value of combining analytical expertise with strong DDaT support. DDaT specialists work alongside the GSCIP team to enable the use of advanced analytics and AI techniques within GSCIP. They help to apply these methods safely and effectively so that complex insights can be made accessible to non-analysts.",
+                "tag": "p"
+            },
+            {
+                "content": "This impact was recognised through the Analysis in Government Impact Award. The judges highlighted the programme\u2019s ability to deliver meaningful outcomes at scale while driving innovation and efficiency. For the team, the award was not just a celebration of technical achievement, but of collaboration across professions and departments to solve a genuinely cross-cutting problem.",
+                "tag": "p"
+            },
+            {
+                "content": "Lessons in collaboration and iteration",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the clearest lessons from GSCIP is the importance of early and sustained collaboration. Bringing digital specialists from across professions together with analysts and policy experts from the start helped ensure the platform addressed real problems and could be delivered in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "Another key lesson was the value of starting small and iterating. Building an initial beta capability, maximising user learning, and being willing to learn and adapt proved far more effective than attempting to design a fully\u2011formed solution upfront.",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, investing time in relationships and trust was critical. Cross-government programmes rely as much on people as on technology. Clear communication, transparency about constraints, and a shared focus on outcomes helped maintain momentum even when progress was challenging. As Leigh Perryman, GSCIP\u2019s Senior Data Engineer reflected:",
+                "tag": "p"
+            },
+            {
+                "content": "These lessons are not unique to supply chain intelligence. They apply to any initiative seeking to deliver shared digital and analytical capability across government.",
+                "tag": "p"
+            },
+            {
+                "content": "Setting an example for future collaboration",
+                "tag": "h2"
+            },
+            {
+                "content": "GSCIP\u2019s journey from an uncertain and ambitious idea to an award\u2011winning platform shows what is possible when government works across boundaries to tackle shared challenges. By combining data, analytics and digital expertise, the programme has delivered real impact while making better use of public resources.",
+                "tag": "p"
+            },
+            {
+                "content": "Perhaps most importantly, GSCIP demonstrates that collaboration across departments and professions is not just desirable, but essential for addressing complex, systemwide issues. The lessons learned along the way provide a valuable blueprint for others looking to turn ambitious ideas into meaningful outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "If your work involves understanding supply chains or other cross-cutting issues, consider whether GSCIP could support your analysis instead of building something from scratch. Reusing and contributing to shared platforms helps government move faster, work smarter and deliver better outcomes for the taxpayer. ",
+                "tag": "p"
+            },
+            {
+                "content": "If you're a public body interested in using GSCIP, please reach out to GlobalSupplyChainsIntelligenceProgramme@businessandtrade.gov.uk and let us know.",
+                "tag": "p"
+            },
+            {
+                "content": "If you see a similar cross-government need in your area, GSCIP's story shows that with collaboration and persistence, it's possible to turn a bold idea into real impact.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/04/28/global-supply-chains-intelligence-programme-an-ai-enabled-big-data-analytical-platform-for-government/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "The Global Supply Chains Intelligence Programme (GSCIP) team has won the Analysis in Government Impact Award for informing major policy decisions, improving operational outcomes and driving analytical and AI innovation while saving government millions."
+    },
+    {
         "title": "Bringing Science and Policy Together: GSE Day at the Royal Society Pairing Scheme\u00a0",
         "authors": [
             "gseprofession"
