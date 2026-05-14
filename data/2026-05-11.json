@@ -1,5 +1,1742 @@
 [
     {
+        "title": "Answers in seconds, 24/7: GOV.UK Chat launches in the GOV.UK app",
+        "authors": [
+            "Shelina Hargrove, Deputy Director for GOV.UK AI, GDS"
+        ],
+        "posted_on": "2026-05-14T22:30:00",
+        "categories": [
+            "AI",
+            "GOV.UK",
+            "Transformation"
+        ],
+        "content": [
+            {
+                "content": "People\u2019s expectations of digital services are changing - including their expectations of government. Research consistently shows that more people are becoming familiar with AI-powered tools in their everyday lives. Recent figures\u00a0published by Ofcom\u00a0suggest that just over\u00a0half\u00a0of adults (54%) say they use AI tools, compared to 3 in 10 (31%) the year before, and that three-quarters of online adults (75%) read AI-generated search summaries at least sometimes. This growing familiarity means many users now expect services to meet them in a more conversational, responsive way.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today,\u00a0we\u2019re\u00a0officially\u00a0launching\u00a0GOV.UK Chat in the GOV.UK app to do just that. This is a new way for people to get answers from government using everyday language, through the convenience of their phones, at whatever time suits them.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is the biggest change to how people can interact with\u00a0government\u00a0content since the\u00a0GOV.UK\u00a0site was launched in 2012. Instead of navigating or searching 80,000 pages of guidance, users can now\u00a0use the app to\u00a0ask a question and get a conversational response, grounded in official government information\u00a0and\u00a0remaining\u00a0firmly\u00a0rooted in the principles\u00a0of\u00a0clarity,\u00a0accuracy\u00a0and trust.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This supports the vision set out in the\u00a0roadmap for a modern digital government\u00a0- we are creating a new generation of personalised, joined-up public services, which make it easier for people to find what they need, when they need it.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why\u00a0we\u2019re\u00a0launching GOV.UK Chat now\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019re\u00a0releasing GOV.UK Chat\u00a0in the GOV.UK app\u00a0following a period of careful testing that has given us confidence to make it more widely available. We used the Scan > Pilot > Scale approach set out in the\u00a0AI Opportunities Plan, a way of working that included one of the largest user research studies GDS has\u00a0ever\u00a0undertaken.\u00a0We\u2019ve\u00a0previously written about the\u00a0key things we\u2019ve learned\u00a0during our research and testing over the last couple of years, and how these insights have informed our delivery approach.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since the soft launch\u00a0on 26 March 2026, GOV.UK Chat has been available to\u00a0GOV.UK app\u00a0users without any proactive communications. This allowed us to\u00a0observe\u00a0how people used the service in real conditions, ensure our safety measures are working as planned, learn where Chat is working best and\u00a0identify\u00a0potential improvement areas. In the weeks that have followed the soft launch:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What people are using GOV.UK Chat for\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "During our testing, GOV.UK Chat has proved particularly helpful for people navigating common but complex life moments, such as:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since the soft release\u00a0demand has been strongest for answers relating to tax, driving and transport, and benefits.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In user research sessions, people told us they valued:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The insights we are gaining are shaping how we continue to develop the service, so that we can expand the features and functionality of GOV.UK Chat in the ways that will help people most.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Built with safety,\u00a0trust\u00a0and transparency at its core\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We know trust matters, especially when introducing\u00a0new technology\u00a0into public services.\u00a0That\u2019s\u00a0why GOV.UK Chat has been designed with strong safeguards:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before releasing GOV.UK Chat, we worked with security experts, including the AI Security Institute (AISI), to carry out thorough safety checks and test the system's strength against potential risks. We also made privacy a key priority throughout development - GOV.UK Chat lets people know they should not share personal information, as well as ensuring the system filters out any personal information that may be provided.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s\u00a0next\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This launch marks the start of a\u00a0change in how people\u00a0can choose to\u00a0interact with government. Right now, GOV.UK Chat helps users find and understand trusted information. In the future, we plan to build on this foundation and add further features\u00a0to help give people their time back.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll\u00a0continue to learn from how people use GOV.UK Chat in the app, improve the quality of responses, and explore how it can better support onward journeys when people need to contact departments or services directly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Most importantly,\u00a0we\u2019ll\u00a0keep listening to users - and using what we learn to make\u00a0public services\u00a0work better for everyone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To access\u00a0GOV.UK\u00a0Chat, download the\u00a0GOV.UK\u00a0app. More information on how to do this is on\u00a0GOV.UK\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2026/05/14/gov-uk-chat-launches/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Find the information you need, quickly and easily, through the AI-powered chat system for GOV.UK."
+    },
+    {
+        "title": "Watch: lessons from farmers growing herbal leys in the Derbyshire White Peak",
+        "authors": [
+            "Graham Higgins"
+        ],
+        "posted_on": "2026-05-14T17:46:33",
+        "categories": [
+            "Farming across the UK"
+        ],
+        "content": [
+            {
+                "content": "Last summer, we visited a group of farmers in the Derbyshire White Peak. They shared what they\u2019ve learned from growing herbal leys in improved grassland systems.",
+                "tag": "p"
+            },
+            {
+                "content": "Working with\u00a0Natural England\u2019s\u00a0 Catchment Sensitive Farming  adviser Ben Rodgers, who coordinates the project, farmers in the area have been trialling herbal leys over several years.",
+                "tag": "p"
+            },
+            {
+                "content": "Together, they are exploring how multi-species swards can be successfully integrated into grassland systems.",
+                "tag": "p"
+            },
+            {
+                "content": "In this post,\u00a0we share the first films from that work:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The videos we're sharing today are part of a wider series. Over the coming months,\u00a0we\u2019ll\u00a0publish more video case studies from farms across the White Peak.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our series",
+                "tag": "h2"
+            },
+            {
+                "content": "Across the project, farmers have been exploring how herbal leys can:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As Ben explains:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The series will explore what has worked in practice and the lessons farmers learned along the way.",
+                "tag": "p"
+            },
+            {
+                "content": "Overview: lessons from the White Peak\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In this short film, Ben introduces the work and\u00a0summarises\u00a0some of the main insights from the farms involved.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve\u00a0also produced a full-length version of around 20 minutes if\u00a0you\u2019d\u00a0prefer to go into more detail. It includes a wider range of farms and systems.",
+                "tag": "p"
+            },
+            {
+                "content": "Case study: Rusty Mycock\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Rusty farms 320 dairy cows in the White Peak. He began introducing herbal leys as a way of reducing nitrogen use and improving the resilience of his grazing system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since then, herbal leys have become a significant part of the farm:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rusty explains how direct drilling helps\u00a0establish\u00a0new leys while protecting soil structure:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "He also highlights the potential to reduce nitrogen inputs:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve also produced a full-length 20-minute case study, which takes a closer look at Rusty\u2019s approach to managing herbal leys on his farm.",
+                "tag": "p"
+            },
+            {
+                "content": "Coming up",
+                "tag": "h2"
+            },
+            {
+                "content": "In upcoming films, farmers and advisers will share practical insights on:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The focus throughout is on real-world experience:\u00a0what works, what\u00a0doesn\u2019t, and what farmers would do differently.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As Ben puts it:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more",
+                "tag": "h2"
+            },
+            {
+                "content": "Join a tour",
+                "tag": "h3"
+            },
+            {
+                "content": "You can join CSF and host farmers for a one-day\u00a0self-drive tour taking in 2 farms participating in the White Peak Trials. Several dates are available.",
+                "tag": "p"
+            },
+            {
+                "content": "The day focuses on herbal leys and the wider\u00a0herbal ley farming system\u00a0as an alternative to inorganic nitrogen fertiliser within intensive forage-based systems.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more about the tours and register your place. ",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more about Catchment Sensitive Farming",
+                "tag": "h3"
+            },
+            {
+                "content": "Catchment Sensitive Farming is led by Natural England in partnership with Defra, the Environment\u00a0Agency\u00a0and the Forestry Commission.",
+                "tag": "p"
+            },
+            {
+                "content": "It supports farmers\u00a0to produce food in a way that protects their local water, air and soil\u00a0and deliver more environmentally sustainable farm\u00a0businesses",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the Farming Blog",
+                "tag": "h3"
+            },
+            {
+                "content": "For the latest videos, podcasts and updates from the Farming and Countryside Team, subscribe to the Farming Blog. By subscribing, you'll receive an email whenever we publish a new post.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/05/14/watch-lessons-from-farmers-growing-herbal-leys-in-the-derbyshire-white-peak/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Last summer, we visited farmers in the Derbyshire White Peak to hear what they\u2019ve learned from growing herbal leys in improved grassland systems. Working with Catchment Sensitive Farming adviser Ben Rodgers, they have been exploring how multi-species swards can be integrated into grassland farming. In this post, we\u2019re sharing the first films from that work."
+    },
+    {
+        "title": "Food Fact Check:\u00a0What is \u2018lab-grown meat\u2019?",
+        "authors": [
+            "Joshua Ravenill, Head of Cell-Cultivated Sandbox Programme"
+        ],
+        "posted_on": "2026-05-14T16:02:29",
+        "categories": [
+            "Food Fact Check",
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "Cell-cultivated products \u2013 sometimes known as \u2018lab-grown meat\u2019 \u2013 are foods made by growing\u00a0plant or\u00a0animal cells in controlled laboratory conditions. A chicken or beef burger can be made from real animal cells that are grown in laboratories.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These foods are very new and use cutting edge technology and attract a lot of questions about their safety, environmental and nutritional benefits.",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Food Fact Check\u2019 is The Food Standards Agency\u2019s (FSA) new service to give clear, in-depth answers to the questions you\u2019ve been asking to help you check the facts behind claims you\u2019ve seen online.",
+                "tag": "p"
+            },
+            {
+                "content": "Here are some of the questions being asked about cell-cultivated products:",
+                "tag": "p"
+            },
+            {
+                "content": "How are cell-cultivated products made?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Cell-cultivated products use real cells, usually from\u00a0plants and\u00a0animals \u2013 the same cells that make up traditional\u00a0foods. The difference is they grow in a controlled, sterile environment rather than inside an animal\u00a0or plant.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Only\u00a0approved ingredients\u00a0are used\u00a0and\u00a0businesses producing these foods must\u00a0follow strict food safety regulations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here's\u00a0how\u00a0the production process usually works:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are these products available in the UK?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "No. Cell-cultivated food products are not currently available to buy in the UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before any product can be sold, it must go through the FSA\u2019s safety assessment process. No cell-cultivated product has been approved yet.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The FSA will assess safety and ensure you have the information to make informed choices \u2013 whether you want to try these products or avoid them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When will these products be available in the UK?",
+                "tag": "h2"
+            },
+            {
+                "content": "As\u00a0these products are so new, it can take several years to complete the checks\u00a0that are needed to ensure they are safe.\u00a0The FSA have received applications for cell-cultivated products and expect more in the coming years.",
+                "tag": "p"
+            },
+            {
+                "content": "We need to fully understand the technology and assess all risks before making any decisions. Safety cannot be rushed. ",
+                "tag": "p"
+            },
+            {
+                "content": "Products will only be authorised for sale once\u00a0we've\u00a0completed our full assessment and are\u00a0satisfied\u00a0that they are safe.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who checks that these products are safe for people to eat?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The FSA, together with Food Standards Scotland, is responsible for\u00a0protecting public health by making sure food is safe and what it says it is.\u00a0That includes traditional foods, but also new, novel foods like cell-cultivated products.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It's\u00a0important\u00a0to understand the technology that goes into producing\u00a0cell-cultivated products, to assess any risks and ensure those risks are mitigated\u00a0and\u00a0make sure the final product is safe for consumers to eat, and is what it says it is.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are the benefits of these products?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Cell-cultivated products, such as lab-grown meat, are attracting increased commercial interest as companies explore alternative approaches to food production.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some producers are investigating whether cell cultivation\u00a0could be used to produce\u00a0meat and dairy using fewer natural resources than traditional farming methods.\u00a0They see cell-cultivation\u00a0as a way to\u00a0produce meat products without raising and slaughtering animals, and potentially reducing greenhouse gas emissions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As cell cultivation occurs in controlled laboratory or factory environments,\u00a0it could offer\u00a0more predictable production schedules independent of weather events, or disease outbreaks that can affect traditional farming.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Additionally, as global population grows, various industries are exploring diverse methods to meet future food demand.\u00a0As the regulator responsible for food in the UK, the FSA need to understand\u00a0new technologies\u00a0as they develop to ensure safe food.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are these products available in other countries?",
+                "tag": "h2"
+            },
+            {
+                "content": "Yes. The cell-cultivated food industry is growing fast, and some products have been approved in other countries, including Singapore and Australia.\u00a0The FSA is\u00a0in contact with regulators in other countries where these products have been approved to learn from their safety assessment processes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But aren't these products \"unnatural\"?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Let's\u00a0put this in perspective with some familiar examples.\u00a0Many foods we eat every day are produced using processes that would have seemed revolutionary in the past.",
+                "tag": "p"
+            },
+            {
+                "content": "Yoghurt:\u00a0While\u00a0yoghurt has ancient origins in other cultures, its introduction to mainstream Western markets in the mid-20th century was innovative. The concept of eating fermented milk, especially fruit-flavoured varieties, was unfamiliar to many British consumers. Today, yoghurt\u00a0is a supermarket staple\u00a0with countless varieties.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Margarine:\u00a0Created in 19th-century France as a butter substitute, margarine was initially an innovative response to butter shortages and cost. It faced significant opposition from dairy farmers but became widely accepted, particularly during wartime rationing. Today\u00a0it's\u00a0an established alternative to butter.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "UHT milk:\u00a0Ultra-heat-treated milk, which can be stored at room temperature for months, was once considered a radical departure from fresh milk. Initially met with scepticism about taste,\u00a0it's\u00a0now commonly used, particularly useful for camping, travel, or as a backup when fresh milk runs out.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is lab-grown meat suitable for vegetarians or vegans?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This isn\u2019t something the regulators will decide \u2013 the FSA doesn\u2019t designate any food suitable for vegetarians or vegans. It\u2019ll be up to you if you want to eat a cell-cultivated product based on your own needs and preferences.",
+                "tag": "p"
+            },
+            {
+                "content": "How will I know if\u00a0I\u2019m\u00a0eating cell-cultivated foods? Will it be labelled?",
+                "tag": "h2"
+            },
+            {
+                "content": "The FSA will make recommendations to ministers about labelling requirements as part of our process. Food labelling for any product, including cell-cultivated products, must be\u00a0accurate,\u00a0clear\u00a0and not misleading so that you can make informed choices.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is the nutritional value of cell-cultivated foods the same as reared foods?",
+                "tag": "h2"
+            },
+            {
+                "content": "Businesses applying for authorisation of these products must provide information on the nutritional profile of their product, so the FSA and Food Standards Scotland can assess this as part of the regulatory approval process. ",
+                "tag": "p"
+            },
+            {
+                "content": "The more applications the FSA receive, the more they will learn about the nutritional value of cell-cultivated products.",
+                "tag": "p"
+            },
+            {
+                "content": "Is the production of cell-cultivated foods energy intensive?",
+                "tag": "h2"
+            },
+            {
+                "content": "Cell-cultivated products production can be an energy-intensive process. However, total energy requirements depend on media ingredients and bioreactor design. ",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s a complex system and too early to conclude from the current scale of production and limited research.",
+                "tag": "p"
+            },
+            {
+                "content": "What if I\u00a0don't\u00a0want to eat these products?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "That's\u00a0completely your choice.\u00a0Cell-cultivated products go through the same rigorous safety process as any\u00a0other\u00a0new foods. ",
+                "tag": "p"
+            },
+            {
+                "content": "The FSA and Food Standards Scotland are working to understand the technology, assess the risks, and ensure those risks are mitigated. ",
+                "tag": "p"
+            },
+            {
+                "content": "These products\u00a0aren't\u00a0available in the UK\u00a0yet and\u00a0won't\u00a0be until\u00a0regulators are completely\u00a0satisfied\u00a0that\u00a0they're\u00a0safe.\u00a0If\u00a0they do become available,\u00a0you'll\u00a0have clear information to decide whether\u00a0they're\u00a0right for you.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bwydydd sy\u2019n cael eu gwneud trwy dyfu celloedd planhigion neu anifeiliaid dan amodau labordy rheoledig yw cynhyrchion a wneir drwy feithrin celloedd. Enw arall ar y math hwn o gynnyrch yw \u2018cig a dyfir mewn labordy\u2019. Gall byrgyr cyw i\u00e2r neu gig eidion gael ei wneud o gelloedd anifeiliaid go iawn sy\u2019n cael eu tyfu mewn labordai.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r bwydydd hyn yn newydd iawn ac yn defnyddio technoleg arloesol, ac maen nhw\u2019n denu llawer o gwestiynau am eu diogelwch, yn ogystal \u00e2\u2019r manteision amgylcheddol a maethol maen nhw\u2019n eu cynnig.",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Y Gwir am Fwyd\u2019 yw gwasanaeth newydd yr Asiantaeth Safonau Bwyd (ASB) i roi atebion clir a manwl i\u2019r cwestiynau rydych chi wedi bod yn eu gofyn i\u2019ch helpu i wirio\u2019r ffeithiau y tu \u00f4l i honiadau rydych chi wedi\u2019u gweld ar-lein.",
+                "tag": "p"
+            },
+            {
+                "content": "Dyma rai o\u2019r cwestiynau sy\u2019n cael eu gofyn am gynhyrchion a wneir drwy feithrin celloedd:",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae cynhyrchion a wneir drwy feithrin celloedd yn cael eu gwneud?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae cynhyrchion a wneir drwy feithrin celloedd yn defnyddio celloedd go iawn, fel arfer o blanhigion ac anifeiliaid \u2013 yr un celloedd sy\u2019n ffurfio bwydydd traddodiadol. Y gwahaniaeth yw eu bod nhw\u2019n tyfu mewn amgylchedd rheoledig, di-haint yn hytrach nag y tu mewn i anifail neu blanhigyn.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dim ond cynhwysion cymeradwy sy\u2019n cael eu defnyddio a rhaid i fusnesau sy\u2019n cynhyrchu\u2019r bwydydd hyn ddilyn rheoliadau diogelwch bwyd llym.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dyma sut mae\u2019r broses gynhyrchu fel arfer yn gweithio:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ydy\u2019r cynhyrchion hyn ar gael yn y DU?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Nac ydyn. Nid yw cynhyrchion bwyd a wneir drwy feithrin celloedd ar gael i\u2019w prynu yn y DU ar hyn o bryd.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cyn y gellir gwerthu unrhyw gynnyrch, rhaid iddo fynd trwy broses asesu diogelwch yr ASB. Nid oes unrhyw gynnyrch a wneir drwy feithrin celloedd wedi\u2019i gymeradwyo eto.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bydd yr ASB yn asesu diogelwch ac yn sicrhau bod gennych chi\u2019r wybodaeth i wneud dewisiadau gwybodus \u2013 p\u2019un a ydych chi am roi cynnig ar y cynhyrchion hyn neu eu hosgoi.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Pryd fydd y cynhyrchion hyn ar gael yn y DU?",
+                "tag": "h2"
+            },
+            {
+                "content": "Gan fod y cynhyrchion hyn mor newydd, gall gymryd sawl blwyddyn i gwblhau\u2019r gwiriadau sydd eu hangen i sicrhau eu bod yn ddiogel.\u00a0Mae\u2019r ASB wedi cael ceisiadau ar gyfer cynhyrchion a wneir drwy feithrin celloedd, ac rydym yn disgwyl mwy yn y blynyddoedd i ddod.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae angen i ni ddeall y dechnoleg yn llwyr ac asesu\u2019r holl risgiau cyn gwneud unrhyw benderfyniadau. Ni ellir rhuthro diogelwch. ",
+                "tag": "p"
+            },
+            {
+                "content": "Dim ond ar \u00f4l i ni gwblhau ein hasesiad llawn a sicrhau ein bod ni\u2019n fodlon eu bod yn ddiogel y bydd cynhyrchion yn cael eu hawdurdodi i\u2019w gwerthu.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Pwy sy\u2019n gwirio bod y cynhyrchion hyn yn ddiogel i bobl eu bwyta?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae\u2019r ASB, ar y cyd \u00e2 Safonau Bwyd yr Alban, yn gyfrifol am ddiogelu iechyd y cyhoedd drwy wneud yn si\u0175r bod bwyd yn ddiogel ac yn cyd-fynd \u00e2\u2019r hyn sydd ar y label.\u00a0Mae hynny\u2019n cynnwys bwydydd traddodiadol, ond hefyd fwydydd newydd, arloesol fel cynhyrchion a wneir drwy feithrin celloedd.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019n bwysig deall y dechnoleg sy\u2019n gysylltiedig \u00e2 chynhyrchu cynhyrchion a wneir drwy feithrin celloedd er mwyn asesu unrhyw risgiau a sicrhau bod y risgiau hynny\u2019n cael eu lliniaru, a gwneud yn si\u0175r bod y cynnyrch terfynol yn ddiogel i ddefnyddwyr ei fwyta a\u2019i fod yn cyd-fynd \u00e2\u2019r hyn sydd ar y label.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth yw manteision y cynhyrchion hyn?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae cynhyrchion a wneir drwy feithrin celloedd, fel cig a dyfir mewn labordy, yn denu mwy o ddiddordeb masnachol wrth i gwmn\u00efau archwilio dulliau amgen o gynhyrchu bwyd.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae rhai cynhyrchwyr yn ystyried a fyddai modd defnyddio dulliau meithrin celloedd i gynhyrchu cig a chynhyrchion llaeth gan ddefnyddio llai o adnoddau naturiol na dulliau ffermio traddodiadol.\u00a0Maen nhw\u2019n meddwl y gallai meithrin celloedd fod yn ffordd o wneud cynhyrchion cig heb fagu a lladd anifeiliaid, ac o bosib leihau allyriadau nwyon t\u0177 gwydr.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Gan fod y gwaith o feithrin celloedd yn digwydd mewn amgylchedd rheoledig, fel labordy neu ffatri, gallai gynnig amserlenni cynhyrchu mwy rhagweladwy yn annibynnol ar ddigwyddiadau tywydd, neu frigiadau o achosion o glefydau a all effeithio ar ffermio traddodiadol.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Yn ogystal, wrth i boblogaeth y byd dyfu, mae amrywiol ddiwydiannau\u2019n archwilio dulliau amrywiol o ateb y galw am fwyd yn y dyfodol.\u00a0Fel y rheoleiddiwr sy\u2019n gyfrifol am fwyd yn y DU, mae angen i\u2019r ASB ddeall technolegau newydd wrth iddynt ddatblygu er mwyn sicrhau bwyd diogel.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ydy\u2019r cynhyrchion hyn ar gael mewn gwledydd eraill?",
+                "tag": "h2"
+            },
+            {
+                "content": "Ydyn. Mae\u2019r diwydiant bwyd a wneir drwy feithrin celloedd yn tyfu\u2019n gyflym, ac mae rhai cynhyrchion wedi cael eu cymeradwyo mewn gwledydd eraill, gan gynnwys Singap\u00f4r ac Awstralia.\u00a0Mae\u2019r ASB mewn cysylltiad \u00e2 rheoleiddwyr mewn gwledydd eraill lle mae\u2019r cynhyrchion hyn wedi\u2019u cymeradwyo i ddysgu o\u2019u prosesau asesu diogelwch.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ond onid yw\u2019r cynhyrchion hyn yn \u201cannaturiol\u201d?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Gadewch i ni roi hyn mewn persbectif gyda rhai enghreifftiau cyfarwydd.\u00a0Mae llawer o fwydydd rydyn ni\u2019n eu bwyta bob dydd yn cael eu cynhyrchu gyda phrosesau a fyddai wedi\u2019u hystyried yn chwyldroadol yn y gorffennol.",
+                "tag": "p"
+            },
+            {
+                "content": "Iogwrt:\u00a0Er bod gan iogwrt wreiddiau hynafol mewn diwylliannau eraill, roedd y broses o\u2019i gyflwyno i farchnadoedd prif ffrwd y Gorllewin yng nghanol yr 20fed ganrif yn arloesol. Roedd y cysyniad o fwyta llaeth wedi\u2019i eplesu, yn enwedig mathau \u00e2 blas ffrwyth, yn anghyfarwydd i lawer o ddefnyddwyr ym Mhrydain. Heddiw, iogwrt yw un o\u2019r prif gynhyrchion mewn archfarchnadoedd gydag amrywiaethau di-rif.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Marjar\u00een:\u00a0Yn ei ddyddiau cynnar, roedd marjar\u00een, a oedd wedi\u2019i greu yn Ffrainc yn y 19eg ganrif fel amnewidyn menyn, yn ymateb arloesol i brinder a chost menyn. Wynebodd wrthwynebiad sylweddol gan ffermwyr llaeth ond dros amser cafodd ei dderbyn yn helaeth, yn enwedig wrth ddogni yn ystod amser y rhyfel. Heddiw, mae\u2019n hen sefydledig fel dewis arall yn lle menyn.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Llaeth UHT:\u00a0Ar un adeg, ystyriwyd bod llaeth wedi\u2019i drin ar dymheredd uchel iawn, y gellir ei storio ar dymheredd ystafell am fisoedd, yn newid radicalaidd o laeth ffres. Roedd pobl yn amheus am ei flas i ddechrau, ond erbyn hyn mae\u2019n cael ei ddefnyddio\u2019n gyffredin. Mae\u2019n arbennig o ddefnyddiol ar gyfer gwersylla, teithio, neu fel opsiwn wrth gefn pan fydd y cyflenwad llaeth ffres yn dod i ben.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ydy cig a dyfir mewn labordy yn addas ar gyfer llysieuwyr neu figaniaid?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Nid mater i\u2019r rheoleiddwyr benderfynu arno yw hyn \u2013 nid yw\u2019r ASB yn dynodi pa fwyd sy\u2019n addas i lysieuwyr na figaniaid. Eich dewis chi fydd hi a ydych chi am fwyta cynnyrch a wneir drwy feithrin celloedd, a hynny\u2019n seiliedig ar eich anghenion a\u2019ch dewisiadau eich hun.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut bydda\u2019 i\u2019n gwybod a ydw i\u2019n bwyta bwydydd a wneir drwy feithrin celloedd? A fyddan nhw\u2019n cael eu labelu?",
+                "tag": "h2"
+            },
+            {
+                "content": "Bydd yr ASB yn gwneud argymhellion i weinidogion ynghylch y gofynion labelu fel rhan o\u2019n proses. Rhaid i labelu bwyd ar gyfer unrhyw gynnyrch, gan gynnwys cynhyrchion a wneir drwy feithrin celloedd, fod yn gywir, yn glir a heb fod yn gamarweiniol er mwyn i chi allu gwneud dewisiadau gwybodus.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ydy gwerth maethol bwydydd a wneir dwy feithrin celloedd yr un fath \u00e2 bwydydd a gaiff eu magu?",
+                "tag": "h2"
+            },
+            {
+                "content": "Rhaid i fusnesau sy\u2019n gwneud cais am awdurdodiad ar gyfer y cynhyrchion hyn roi gwybodaeth am broffil maethol eu cynnyrch, fel bod modd i\u2019r ASB a Safonau Bwyd yr Alban asesu hyn fel rhan o\u2019r broses gymeradwyo reoleiddiol. ",
+                "tag": "p"
+            },
+            {
+                "content": "Po fwyaf o geisiadau a gaiff yr ASB, y mwyaf y bydd hi\u2019n dysgu am werth maethol cynhyrchion a wneir drwy feithrin celloedd.",
+                "tag": "p"
+            },
+            {
+                "content": "Ydy\u2019r broses o gynhyrchu bwydydd a wneir drwy feithrin celloedd yn ddwys o ran ynni?",
+                "tag": "h2"
+            },
+            {
+                "content": "Gall y broses o gynhyrchu cynhyrchion a wneir drwy feithrin celloedd fod yn ddwys o ran ynni. Fodd bynnag, mae cyfanswm yr ynni sydd ei angen ar y broses yn dibynnu ar gynhwysion y cyfryngau a dyluniad y bio-adweithydd. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019n system gymhleth, ac mae\u2019n rhy gynnar i ddod i gasgliadau amdani o ystyried y raddfa gynhyrchu bresennol a\u2019r ymchwil gyfyngedig.",
+                "tag": "p"
+            },
+            {
+                "content": "Beth os nad ydw i am fwyta\u2019r cynhyrchion hyn?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Eich dewis chi, a chi yn unig, yw hynny.\u00a0Mae cynhyrchion a wneir drwy feithrin celloedd yn mynd trwy\u2019r un broses ddiogelwch drylwyr ag unrhyw fwydydd newydd eraill. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r ASB a Safonau Bwyd yr Alban yn gweithio i ddeall y dechnoleg, asesu\u2019r risgiau, a sicrhau bod y risgiau hynny\u2019n cael eu lliniaru. ",
+                "tag": "p"
+            },
+            {
+                "content": "Nid yw\u2019r cynhyrchion hyn ar gael yn y DU eto, a fyddan nhw ddim tan i reoleiddwyr fod yn gwbl fodlon eu bod nhw\u2019n ddiogel.\u00a0Os byddan nhw\u2019n dod ar gael, bydd gwybodaeth glir ar gael i chi benderfynu a ydyn nhw\u2019n iawn i chi.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2026/05/14/food-fact-check-what-is-lab-grown-meat/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Food Fact Check: Joshua Ravenill, Head of Cell-Cultivated Product Sandbox answers questions about cell-cultivated products (CCPs)"
+    },
+    {
+        "title": "Nutrient Mitigation Scheme - clarification of Natural England's role",
+        "authors": [
+            "Natural England"
+        ],
+        "posted_on": "2026-05-14T15:33:14",
+        "categories": [
+            "Development",
+            "Environmental Delivery Plan",
+            "Growth",
+            "Nutrient Neutrality"
+        ],
+        "content": [
+            {
+                "content": "There has been recent reporting in the media and on social media around Natural England\u2019s role in delivering the Nutrient Mitigation Scheme.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England has a statutory duty to support sustainable development. We work with developers and planning authorities to support the building of new homes and help them\u00a0comply with\u00a0environmental law.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How the Nutrient Mitigation Scheme works:",
+                "tag": "h4"
+            },
+            {
+                "content": "Nutrient pollution is an urgent problem for freshwater habitats and estuaries which provide a vital home to many species including wetland birds, fish, and insects. Increased levels of nutrients such as nitrogen and phosphorus can disrupt natural processes and harm wildlife.",
+                "tag": "p"
+            },
+            {
+                "content": "Since the implementation of nutrient neutrality in 2019 the private market has been developing to meet the new market need. In 2022 this market was not developing quickly enough to enable new homes, so the government directed Natural England to establish the Nutrient Mitigation Scheme.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England\u2019s Nutrient Mitigation Scheme helps developers secure planning permission for homes in areas affected by high levels of nutrient pollution. It does this by enabling developers to buy \u201cnutrient credits\u201d. These credits can come from land use change or projects that create new wetlands or woodlands, which help soak up and reduce nutrient pollution. This means new homes can be built without increasing pollution in protected rivers and lakes.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England also has a statutory duty to advise local planning authorities on how nutrient pollution can be reduced. However, local planning authorities make the final decisions on planning applications.",
+                "tag": "p"
+            },
+            {
+                "content": "This scheme operates to the same set of standards expected in the private market. Despite some growth in the private market remain clear gaps remain when it comes to tackling nutrient impacts in some parts of the country. When the Planning and Infrastructure Act passed into law in 2025, the government reinforced the need for public sector intervention, tasking Natural England with the development of Environmental Delivery Plans to address nutrient pollution starting from 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Claim: Natural England\u2019s Nutrient Mitigation Scheme creates conflict of interest.",
+                "tag": "h4"
+            },
+            {
+                "content": "Response: We reject this. As with any public body, decisions are taken objectively and in line with our statutory purpose and direction from government.",
+                "tag": "p"
+            },
+            {
+                "content": "In accordance with the Direction from the Secretary of State of 28 July 2022, Natural England only intervenes to establish nutrient mitigation schemes itself where there is market failure, prioritising those catchments where interventions will have the most impact in addressing development pressures.",
+                "tag": "p"
+            },
+            {
+                "content": "Claim: Natural England is \u201cmaking money\u201d from Nutrient Neutrality.",
+                "tag": "h4"
+            },
+            {
+                "content": "Response: In accordance with the Direction from the Secretary of State of 28 July 2022, Natural England only intervenes to establish nutrient mitigation schemes itself where there is market failure, prioritising those catchments where interventions will have the most impact in addressing development pressures. We do this on a cost recovery basis and, as per the rules that apply to public bodies, do not derive a profit.",
+                "tag": "p"
+            },
+            {
+                "content": "Claim: Natural England\u2019s dual role as regulator and administrator creates an uneven playing field.",
+                "tag": "h4"
+            },
+            {
+                "content": "Response: We recognise the risks flagged by Office for Environmental Protection and the need to separate regulatory functions from commercial markets. We are committed to ensuring that Natural England\u2019s advisory and regulatory functions are objective and delivered with high degree of integrity and robust internal governance within decision making.One example of where we have managed this effectively is for District level Licencing, where private operators have been clear that in some places the private market is not commercially viable and alternative delivery models are needed. In this instance we have worked in an entirely complementary way with the private market.",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h4"
+            },
+            {
+                "content": "Our ambition is to support nature whilst enabling the building of houses the country needs whilst finding swifter and cost-effective ways for developers to meet their environmental obligations.\u00a0We are focused on finding the solutions which work for people and nature to enable development to go ahead, and this is a core part of our latest corporate strategy.",
+                "tag": "p"
+            },
+            {
+                "content": "Nature recovery and sustainable development must go hand in hand.\u00a0Thriving nature is essential for our nation\u2019s growth,\u00a0health\u00a0and security. Through the\u00a0Nature Restoration Fund, we can deliver new homes and make it easier for developers to meet their obligations to protect sites and species by investing at scale in nature\u2019s recovery and restoring the natural systems that underpin our prosperity and protect our wellbeing.\u00a0To read more: Building Britain\u2019s Future: Why Nature and Growth Go Hand in Hand \u2013 Natural England",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/05/14/nutrient-mitigation-scheme-clarification-of-natural-englands-role/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "There has been recent reporting in the media and on social media around Natural England\u2019s role in delivering the Nutrient Mitigation Scheme. Natural England has a statutory duty to support sustainable development. We work with developers and planning authorities to \u2026"
+    },
+    {
+        "title": "Mental Health Awareness Week 2026: From Awareness to Action",
+        "authors": [
+            "Robert Lewis"
+        ],
+        "posted_on": "2026-05-14T15:18:11",
+        "categories": [
+            "Care and support",
+            "Communities",
+            "Events",
+            "Information and access",
+            "Mental health",
+            "Our profession",
+            "Recognition",
+            "Safeguarding",
+            "Society",
+            "Viewpoint"
+        ],
+        "content": [
+            {
+                "content": "Introduction from Sarah McClinton",
+                "tag": "h2"
+            },
+            {
+                "content": "This blog marks Mental Health Awareness Week 2026 with a thoughtful reflection on what it means to move beyond awareness and towards meaningful action. It explores how mental health social work can help rebalance power, place and experience by centring lived, strengthening co-production, and reconnecting support with the communities where people live their lives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Written by our\u00a0Mental Health Social Work Lead in the Department of Health and Social Care, Robert Lewis, whose personal perspective brings both professional insight and a strong commitment to more relational, rights-based\u00a0and person-centred practice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rebalancing Power, Place and Experience\u00a0- a personal reflection by Robert Lewis",
+                "tag": "h2"
+            },
+            {
+                "content": "Having had the privilege of working across all types of mental health service\u00a0for the last 30 years,\u00a0I\u2019ve\u00a0always been troubled by the notion of\u00a0the primacy of\u00a0professional\u00a0expertise\u00a0and experience.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For my own conceptualisation if nothing else,\u00a0I have long\u00a0believed\u00a0that\u00a0as professionals we do not\u00a0own\u00a0\u2018mental health\u2019.\u00a0Mental health does\u00a0not belong to\u00a0us.\u00a0Rather, of course, it\u00a0belongs to the people who experience\u00a0such challenges in their lives. For those whose lives are\u00a0impacted\u00a0so heavily, they can find themselves forced to accommodate our\u00a0expertise\u00a0and experience \u2013 our institutions, our models and approaches, our anxieties, and career prospects.\u00a0It\u00a0has always\u00a0seemed\u00a0unbalanced.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As professionals we are adept at exploiting that\u00a0living\u00a0experience and mining it for our own sense of professional value, legitimacy, and in\u00a0the\u00a0justification of the choices we make\u00a0about others.\u00a0It\u00a0has always\u00a0seemed\u00a0dishonest, even if we do not realise this is what we are doing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we do\u00a0own\u00a0as professionals, I believe, is our response\u00a0to\u00a0the\u00a0lives we are presented with. With\u00a0the positions afforded us by our registrations\u00a0and\u00a0approvals, we have\u00a0resources and systems at our\u00a0disposal. We can make choices about how they are deployed,\u00a0denied, and importantly how they are constructed.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mental Health Awareness Week 2026 calls on all of us to move beyond awareness and into\u00a0more\u00a0meaningful\u00a0action.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For mental health social work, this is both a\u00a0challenge and an opportunity. It asks us not simply to reflect on what we do, but to fundamentally reconsider\u00a0who\u00a0we are here for\u00a0and\u00a0how and with whom we\u00a0can\u00a0design and deliver\u00a0our\u00a0support.\u00a0If we accept the proposition that professionals do not\u00a0exclusively\u00a0own mental health\u00a0expertise\u00a0and experience, we need to be working much more meaningfully with\u00a0those\u00a0who do.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For too long, our systems have been configured around services rather than people\u00a0-\u00a0around clinics, wards,\u00a0thresholds\u00a0and pathways,\u00a0rather than communities, relationships and lived realities. Social work has always held a different lens: one that situates mental health within the social context of people\u2019s lives. This week provides a moment to reassert that perspective and to push it further.\u00a0In the current policy environment, that door has a sign that says \u201copen\u201d \u2013 we need to test out the reality of this.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Re-centring lived and living experience\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "At the heart of this shift must be a clear commitment: lived and living experience is not an adjunct to service design\u00a0-\u00a0it is foundational to it.\u00a0It is not easy \u2013\u00a0especially when\u00a0working in systems that have yet to gear themselves up to accept the challenge\u00a0and make our stated commitments meaningful.\u00a0And yes, in saying these things I am stealing\u00a0from those with lived experience.\u00a0I do so in the hope of proving the point.\u00a0We need to draw legitimacy from each other. We need a more honest dialogue.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Co-production offers a framework for this transformation. It moves us from doing things\u00a0to\u00a0or\u00a0for\u00a0people, to working\u00a0with\u00a0as equal partners, recognising that those most affected by\u00a0the\u00a0services\u00a0are best placed to shape them. When this is done meaningfully, it challenges traditional hierarchies of\u00a0expertise, redistributes influence, and creates more responsive,\u00a0equitable\u00a0systems.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But co-production is only as strong as our willingness to share power. There is a continued risk of tokenism\u00a0-\u00a0where involvement is visible but not influential. For social workers, particularly those working within statutory frameworks such as the Mental Health Act, this presents a profound professional question:\u00a0how do we exercise our legal responsibilities while actively creating space for the voices of those whose liberty and care we are\u00a0determining?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The answer lies not in abandoning professional knowledge, but in integrating it with experiential knowledge\u00a0-\u00a0treating both as essential, complementary forms of\u00a0expertise.\u00a0It can start with a conversation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It always surprises\u00a0me how mental health professionals seem able to talk to people when they are\u00a0unwell yet\u00a0struggle when they are\u00a0in good health\u00a0and ready to contribute to our learning.\u00a0Maybe we\u00a0are talking\u00a0to, and not\u00a0with.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Shifting from institutions to neighbourhoods\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Alongside rebalancing power, we must also\u00a0rethink our\u00a0workspaces. National policy is\u00a0encouraging us: the future of health and care lies in neighbourhood-based models that bring support closer to where people\u00a0live.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The focus on\u00a0neighbourhood mental health centres,\u00a0is\u00a0one such\u00a0vision\u00a0-\u00a0open access, continuity of relationships, and integrated teams working alongside community partners and peer support workers.\u00a0\u201cAn ordinary house on an ordinary street\u201d;\u00a0principle-led, not a formulaic and rigid.\u00a0These models promote\u00a0accessibility, early\u00a0intervention\u00a0and holistic care, reducing reliance on crisis pathways and inpatient settings.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For mental health social work, these approaches can\u00a0align directly with our values: understanding people within their family, community and cultural contexts, and recognising the social determinants that shape mental health. It also creates space to build on existing community assets\u00a0that are too often overlooked.",
+                "tag": "p"
+            },
+            {
+                "content": "Maximising choice and least restrictive practice\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Co-produced models\u00a0sit neatly with long-standing social work principles. Our professional responsibility is to ensure anything we are part of developing is rights-promoting, citizenship-building, inclusive, accepting, safe, reflective, and genuinely interested in the people who turn up at our door\u00a0- or whose doors we turn up at.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Too often, the absence of accessible, community-based alternatives leads to more restrictive interventions. When support is fragmented or distant, detention becomes more likely\u00a0-\u00a0not because it is always clinically necessary, but because other options are not realistically available.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By contrast, integrated, local provision\u00a0-\u00a0with flexible, personalised responses\u00a0-\u00a0enables earlier help, sustained\u00a0relationships\u00a0and a broader range of options. This is not only better for individuals; it is also fundamental to reducing inequalities in access,\u00a0experience\u00a0and outcomes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Of course, there is a place for the clinic, the hospital, the specialist environment, but it should not be at the expense of starting where mental health need starts or the people who experience the very real challenges it can have to maintaining and achieving an ordinary life. And of course, professionals have\u00a0expertise\u00a0and experience, but what good is it if it does not connect.",
+                "tag": "p"
+            },
+            {
+                "content": "A call to the profession\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mental Health Awareness Week 2026 asks us to act. For social workers, that action is both practical and cultural.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I think that\u00a0is what action\u00a0can\u00a0look like.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialworkwithadults.blog.gov.uk/2026/05/14/mental-health-awareness-week-2026-from-awareness-to-action-rebalancing-power-place-and-experience-a-personal-reflection/",
+        "blog": "Social work with adults",
+        "blog_link": "https://socialworkwithadults.blog.gov.uk",
+        "description": "Introduction from Sarah McClinton This blog marks Mental Health Awareness Week 2026 with a thoughtful reflection on what it means to move beyond awareness and towards meaningful action. It explores how mental health social work can help rebalance power, place \u2026"
+    },
+    {
+        "title": "Building a kinship care offer that works: a principal social worker's perspective",
+        "authors": [
+            "Louise Spragg"
+        ],
+        "posted_on": "2026-05-14T14:46:58",
+        "categories": [
+            "Kinship care",
+            "Social Work",
+            "Working in children's social care"
+        ],
+        "content": [
+            {
+                "content": "My role is Principal Social Worker/Head of Service for Practice at Telford & Wrekin Council Children's Service. I am also National Chair of the Children's Principal Social Workers Network and Chair of the Regional West Midlands Children's PSW Network.",
+                "tag": "p"
+            },
+            {
+                "content": "Leading from the heart",
+                "tag": "h2"
+            },
+            {
+                "content": "I provide strategic leadership grounded in, love, care and connection, promoting a culture that understands how traumatic experiences can shape the way people relate to support, using relational authority to make decisions that place children at the centre, honouring people, biological and chosen, who matter to them. Leading from the heart I hold high expectations and aspirations for children and families.",
+                "tag": "p"
+            },
+            {
+                "content": "Co\u2011production is essential to influencing individual, strategic and systemic change. I viewed the statutory kinship care guidance as an opportunity to take a reflective, system wide view of how we support kinship connections.",
+                "tag": "p"
+            },
+            {
+                "content": "Building a local offer rooted in families' experiences",
+                "tag": "h2"
+            },
+            {
+                "content": "At Telford & Wrekin, we developed a kinship care local offer designed to be effective, responsive, and available at the earliest point possible for children and families. This was tested and shaped by the families it serves rather than imposed upon them. Our aim was to strengthen family networks so children remain safely connected to the people who matter most to them.",
+                "tag": "p"
+            },
+            {
+                "content": "Putting voices at the centre",
+                "tag": "h2"
+            },
+            {
+                "content": "Meaningful co-production has been central. Kinship carers and young people sat on our operational board as equal decision-makers, with accountability and genuine influence over the offer's development. Alongside this we created spaces with no agenda where carers and children could share their journeys safely. This choice enabled deeper listening, trust\u2011building and a more honest understanding of what support needs to feel like in everyday practice.",
+                "tag": "p"
+            },
+            {
+                "content": "Equally important has been our commitment to culturally responsive practice. We recognise that kinship care is experienced differently across families and communities, shaped by culture, identity and family structure. Through co\u2011production, we have continued to listen carefully to carers and young people from diverse backgrounds, using their lived experience to inform how support is designed and delivered. This has helped us challenge assumptions, strengthen trust and ensure the local offer is accessible, relevant and responsive to the families it serves.",
+                "tag": "p"
+            },
+            {
+                "content": "The local offer now includes dedicated therapeutic support, peer advocacy, and clearer pathways to help. These are all designed around what families told us they actually needed, rather than what we assumed.",
+                "tag": "p"
+            },
+            {
+                "content": "What we are seeing and what we hope for",
+                "tag": "h2"
+            },
+            {
+                "content": "The impact is already visible, more kinship carers are accessing support, with strong feedback on the difference the therapeutic offer has made to family stability and wellbeing. Forums led by young people with lived experience have strengthened peer connection and voice. A consistent theme from practice is that when families feel trusted, listened to and supported early, outcomes for children improve.",
+                "tag": "p"
+            },
+            {
+                "content": "This local learning sits firmly within the wider children\u2019s social care reform direction, increasingly reflecting what we know makes the greatest difference: early, relational and responsive support grounded in families lived experiences. The Children\u2019s Wellbeing and Schools Act represents a welcome shift in emphasis; recognising that family networks should complement professional support and, where it is safe to do so should be preserved and placed at the centre of decision\u2011making. Strengthening duties in relation to family group decision making and Kinship support can aid greater consistency and confidence for local delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "My hope for the future is that families continue to feel a real difference in the help they receive, with lived experiences shaping a system where all voices are heard, respected and valued, to co\u2011create change. Above all, I hope children remain safely connected to people important to them, sustaining relationships that support identity, love and belonging throughout their lives.",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0Children\u2019s\u00a0Wellbeing and Schools Act 2026 is part of the biggest overhaul to children\u2019s social care in a generation - to ensure opportunity for all children, and help shift the focus to earlier support for\u00a0children and families. Kinship carers play a key part in making sure children who can\u2019t stay at home are in a safe, loving and familiar environment.\u00a0 The Act includes a duty on local authorities to publish a kinship local offer, to ensure that kinship families are aware of and can access the support they need.\u202f",
+                "tag": "p"
+            }
+        ],
+        "link": "https://childrenssocialcare.blog.gov.uk/2026/05/14/building-a-kinship-care-offer-that-works-a-principal-social-workers-perspective/",
+        "blog": "Children\u2019s social care",
+        "blog_link": "https://childrenssocialcare.blog.gov.uk",
+        "description": "What does a kinship care offer look like when it's shaped by the families it serves? Louise Spragg shares lessons from the ground up."
+    },
+    {
+        "title": "From stakeholder to Committee member: my early reflections on SSAC from the 'other' side",
+        "authors": [
+            "Fran Bennett"
+        ],
+        "posted_on": "2026-05-14T14:45:52",
+        "categories": [
+            "About the Committee",
+            "Legislation",
+            "social security",
+            "SSAC Independent Work Programme",
+            "SSAC Occasional Papers",
+            "Stakeholders"
+        ],
+        "content": [
+            {
+                "content": "It is just a year now since I was interviewed to be a member of the Social Security Advisory Committee (SSAC). This means that I have now been working as a committee member for some six months or so - taking part in meetings to scrutinise draft social security regulations and participating in discussions relating to SSAC\u2019s strategy, including our independent work programme and ways of working.",
+                "tag": "p"
+            },
+            {
+                "content": "This was not by any means my first interaction with SSAC. Because of my background - both as deputy director and then director of the Child Poverty Action Group over a decade, and since then as a part-time academic and part-time freelance researcher and policy analyst - I had often attended stakeholder meetings convened by SSAC and always been aware of its key role and positive influence.",
+                "tag": "p"
+            },
+            {
+                "content": "It is crucial to ensure, whatever one\u2019s view of a particular policy under consideration by the government, that this consideration is careful and thorough, and undertaken with a full understanding and awareness of the issues at stake, particularly for marginalised and disadvantaged groups. This is what SSAC endeavours to ensure. I wonder whether other parts of government are served as well as the Department for Work and Pensions is by having SSAC perform this key role.",
+                "tag": "p"
+            },
+            {
+                "content": "Working with Committee members who have such a wide range of experience and expertise is a real pleasure and I have also found the induction of new members exemplary. I am endeavouring to become accustomed to having more of an \u2018insider\u2019 role, having for much of my working life been \u2018outside\u2019. But SSAC is adamant that retaining its independence from government, Parliament and other stakeholders, whilst still working closely and constructively with government and others, is essential. Committee members bring much rich and diverse knowledge and insight from their external roles; but it is important to keep the two roles separate, taking care to be very clear when we are acting in a SSAC capacity and when we are not. My practice with regard to avoiding any conflicts of interest is to be as transparent as possible about my activities outside my SSAC membership and to ask advice about this when appropriate. And so far I have found that this works!",
+                "tag": "p"
+            },
+            {
+                "content": "It is an interesting time to have been appointed to SSAC. We are living in an ageing society and there are other pressures on the social security budget following the pandemic as well. Developments in the labour market and the family may result in a benefits system that is not always well adjusted to the flexible nature of work and the more fluid families of today. One focus of SSAC\u2019s recent work which I have found particularly rewarding as a new member is its detailed attention to the quality of equality impact assessments carried out in relation to the scrutiny of draft regulations.",
+                "tag": "p"
+            },
+            {
+                "content": "Some of my previous experience has included working closely with a community advice centre for some two decades, as well as being involved on a long-term basis with organisations which see lived experience of poverty and/or benefits as being at the centre of their work. I look forward very much to continuing to work with my committed colleagues by contributing to evidence-based and impartial advice informed by a wide range of perspectives - including those of the people who deliver, or who are directly affected by, the social security system - to Ministers.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ssac.blog.gov.uk/2026/05/14/from-stakeholder-to-committee-member-my-early-reflections-on-ssac-from-the-other-side/",
+        "blog": "Social Security Advisory Committee",
+        "blog_link": "https://ssac.blog.gov.uk",
+        "description": "It is just a year now since I was interviewed to be a member of the Social Security Advisory Committee (SSAC). This means that I have now been working as a committee member for some six months or so - \u2026"
+    },
+    {
+        "title": "Foster Care Fortnight: The village that raised me",
+        "authors": [
+            "Amy Burns"
+        ],
+        "posted_on": "2026-05-14T13:54:28",
+        "categories": [
+            "Care leavers",
+            "Foster care",
+            "Working in children's social care"
+        ],
+        "content": [
+            {
+                "content": "My village",
+                "tag": "h2"
+            },
+            {
+                "content": "There\u2019s something about it taking a village to raise a child. This is a concept that we see work in people's lives all the time. No matter their situation, it\u2019s something that ticks along backstage. When you look around, it\u2019s easy to see it working every day in doctors, in grandparents, in lollipop people. But at the core of all of this, is love.",
+                "tag": "p"
+            },
+            {
+                "content": "The village is the only way I have made it this far. As a young carer in my childhood, we relied on parents from the school playground, my dance family, and our neighbours. When I was fostered, we relied on people in the area, school, and social workers. There were two years between Mum dying and being fostered. I couldn\u2019t see a village. There was a breakdown. There was chaos. There was danger. And then there was a new home, a new start and a new village. My village now looks like my besties, their families, my colleagues, my therapist, my gym bros\u2026 A notable mention to the lovely guy at Tesco who always smiles, asks about my day and wishes me a good shop. He does this to every customer and it never fails to put a smile on their face, no matter how their day is.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The teachers who made the difference",
+                "tag": "h2"
+            },
+            {
+                "content": "My village is constantly changing because of age, location, family - you get my gist. But one group that has saved me every time has been teachers. Those of you familiar with Messy Fostering will already know this but here\u2019s a quick overview:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mum died, two years of hell, got fostered, I refused respite, teacher became respite carer, summers with them and now stuck with me forever.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The teacher who took me home was Jo. Jo was the designated teacher for looked after children. A loving and slightly mad turn of events meant that she became my respite carer. I spent four summers with her family, showing them how to bust a move on Just Dance. Eleven years on and they are still very much in my village.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The year before I was fostered, I had a PE teacher who, at the end of the day, would often see me at the school gates and check in to make sure I was okay before going home. She didn\u2019t know what was going on but she always showed warmth and kindness before the toughest part of my day.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I moved schools for A Levels, which was one of the hardest parts of my fostering journey. I left the school I had been in for years and at the time, I was very much struggling with trauma from my life before. I was greeted by three teachers who would change my life - DG, Mrs K and Mrs C. Looking back, mentally I was more scrambled than ever. Each of them showed me love and compassion in different ways. Whether that be staying with me until a flashback passed or just telling me to get it together when spiralling before an exam (I\u2019m a tough love kind of gal). They saved my life as much as my foster family, as much as my social workers, as much as anyone who came before.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What a village looks like for care-experienced people",
+                "tag": "h2"
+            },
+            {
+                "content": "My point is, we all have a village, no matter how big or small. But a village for someone who is care-experienced might look different. It might not look like a mum, dad, and people they have been friends with since birth. It might look like teachers, staff in the local supermarket, people from past foster placements. You don\u2019t have to be a full-time foster carer to make a difference. You could be a caring colleague, a neighbour, or someone who smiles when seeing the same person during your weekly shop.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For people struggling to find their village, as they say in Love Actually (the second-best film to Shrek 2): \u201cif you look for it, I've got a sneaky feeling you'll find that love actually is all around\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "Fostering is all about giving children a safe, stable place to call home. Foster carers play a vital role in offering love, consistency, and support, helping children build relationships, recover from difficult experiences, and achieve their full potential. Through the government\u2019s ongoing reforms to strengthen fostering, we are working to recruit and retain more foster carers, improve the support they receive, and ensure every child in care grows up with the stability and sense of belonging they deserve.",
+                "tag": "p"
+            },
+            {
+                "content": "The 2026 fostering reforms\u00a0contain\u00a0significant measures aimed directly at strengthening local authority recruitment and retention, including:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://childrenssocialcare.blog.gov.uk/2026/05/14/foster-care-fortnight-the-village-that-raised-me/",
+        "blog": "Children\u2019s social care",
+        "blog_link": "https://childrenssocialcare.blog.gov.uk",
+        "description": "No matter your background, everyone has a village. But for someone who is care-experienced, it can look very different. Amy Burns reflects on the people who made all the difference , and what that means for fostering today."
+    },
+    {
+        "title": "Using single sign-on and MCP to safely connect AI to live government data",
+        "authors": [
+            "Doug Mills, Data Engineer"
+        ],
+        "posted_on": "2026-05-14T11:49:58",
+        "categories": [
+            "AI"
+        ],
+        "content": [
+            {
+                "content": "Doug Mills",
+                "tag": "h3"
+            },
+            {
+                "content": "Saisakul Chernbumroong",
+                "tag": "h3"
+            },
+            {
+                "content": "As we increasingly explore how AI can support work across the department, we face a challenge likely shared by many government teams. How do we safely and securely grant AI access to live, sensitive data?",
+                "tag": "p"
+            },
+            {
+                "content": "Solving this challenge has pushed us to the forefront of AI innovation in government. This blog post describes our breakthrough in using a Model Context Protocol (MCP) server and existing Single Sign-On (SSO) to connect our AI toolset to our Customer Relationship Management (CRM) system. This has greatly enhanced our investment advisors\u2019 capacity to support businesses whilst protecting the data.",
+                "tag": "p"
+            },
+            {
+                "content": "Our work supports a key focus of DBT\u2019s Data strategy: use our data in innovative and impactful ways. In unlocking AI access to live government data safely, we have also created a reusable foundation for new AI capabilities built on the same solution.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge: making sensitive data accessible to our AI",
+                "tag": "h2"
+            },
+            {
+                "content": "When the Office for Investment (OFI) asked us in the DBT Assist Team to enable our AI tool, DBT Assist, to seamlessly query DBT\u2019s data on company interactions, we welcomed the challenge.",
+                "tag": "p"
+            },
+            {
+                "content": "DBT\u2019s data lives on our CRM system, Data Hub. Without direct access to Data Hub, investment advisors faced a time-consuming manual process of finding and extracting information from Data Hub to paste into DBT Assist alongside other sources.",
+                "tag": "p"
+            },
+            {
+                "content": "Due to  the scale and sensitivity of data within Data Hub, we could not simply plug it directly into an AI tool. OfI\u2019s vision was for an AI powered solution to combine Data Hub records with external sources, freeing up time for strategic thinking and analysis. ",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach to securing AI access",
+                "tag": "h3"
+            },
+            {
+                "content": "The real challenge lay in the scale of the available data and the importance of maintaining security. We also needed a solution that was integrated into our existing access controls, to avoid slowing adoption and limiting reuse.",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately, we chose to build an MCP server. MCP is an open standard that acts as a communication bridge between AI applications and external systems.",
+                "tag": "p"
+            },
+            {
+                "content": "We have implemented several layered protective measures to maintain data security. The MCP server uses the same Single Sign-On (SSO) authentication already used by DBT Assist and operates within a Virtual Private Cloud with no external access points.",
+                "tag": "p"
+            },
+            {
+                "content": "A significant advantage is the MCP\u2019s reusability. Now that we have built the server, it can be used by other AI applications across the organisation as well as DBT Assist.",
+                "tag": "p"
+            },
+            {
+                "content": "What this means for our colleagues",
+                "tag": "h2"
+            },
+            {
+                "content": "Integrating Data Hub with DBT Assist has led to:",
+                "tag": "p"
+            },
+            {
+                "content": "Thanks to our breakthrough, Investment advisors can now simply ask natural language questions like \"What previous interactions has DBT had with Company X?\" and receive real-time answers. These are enriched with comprehensive insights, all with citations linking back to original Data Hub records. This integration transforms Data Hub from a separate system requiring manual consultation into an intelligent, conversational intelligence source that seamlessly supports OFI's workflow.",
+                "tag": "p"
+            },
+            {
+                "content": "Investment advisors can now use DBT Assist to:",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately this prepares them to facilitate smooth and successful discussions that effectively support businesses throughout their investment journey.",
+                "tag": "p"
+            },
+            {
+                "content": "Wider impact",
+                "tag": "h2"
+            },
+            {
+                "content": "Beyond the immediate benefits to OFI colleagues, this MCP implementation delivers significant reusability and scalability advantages across DBT. The Data Hub MCP server, once built, can be reused by other AI applications to access live data.",
+                "tag": "p"
+            },
+            {
+                "content": "The work has established a proven approach for connecting AI tools to other sensitive data sources across the organisation. This positions DBT to rapidly expand AI capabilities while maintaining appropriate security controls and avoiding duplication of effort.",
+                "tag": "p"
+            },
+            {
+                "content": "What we learned",
+                "tag": "h2"
+            },
+            {
+                "content": "Using an MCP server in this context was new for us, both technically and in how we applied best practice. We had to think carefully about how we balance security, usability and user needs.",
+                "tag": "p"
+            },
+            {
+                "content": "Build on existing infrastructure",
+                "tag": "h3"
+            },
+            {
+                "content": "One of the biggest lessons was the value of building on security measures that were already in place. By using existing Single Sign-On (SSO), we were able to protect sensitive data without adding extra steps for users. This made the tool easier to adopt and allowed us to move more quickly, as we did not need to design new security processes from scratch. Having GovUK SSO already in use also made integration more straightforward, and support from the DBT platform team helped us resolve issues as they arose.",
+                "tag": "p"
+            },
+            {
+                "content": "Engage users early",
+                "tag": "h3"
+            },
+            {
+                "content": "An important lesson was involving real users from the very beginning. Working closely with OFI colleagues and investment advisors helped us to focus on the questions they needed to ask, rather than theoretical use cases. This has highlighted for us that building AI capabilities is fundamentally about understanding how people actually work and what information they need to do their jobs effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "Make space to grow and improve",
+                "tag": "h3"
+            },
+            {
+                "content": "Launching the MCP integration was not a finish line, but the starting point for continuous improvement. Real world data is messy, and as users work with the system, they discover new valuable use cases and identify gaps where more functionality is needed.",
+                "tag": "p"
+            },
+            {
+                "content": "What's next",
+                "tag": "h2"
+            },
+            {
+                "content": "Improvements to the existing service",
+                "tag": "h3"
+            },
+            {
+                "content": "DBT Assist and the MCP server are both under active development. We are focusing on tweaking and building tools to handle more complex information requests efficiently and improving access controls to include more detailed permissions.",
+                "tag": "p"
+            },
+            {
+                "content": "How this breakthrough has transformed our approach to AI  development",
+                "tag": "h3"
+            },
+            {
+                "content": "Crucially, this work will make it easier to build new AI tools in the future. We now have a single, reusable way to connect AI services to live data, and a blueprint for building future integrations more quickly. Future AI tools, whether chatbots, analytical tools, or services we haven\u2019t even imagined yet, can be built much more quickly as a result.",
+                "tag": "p"
+            },
+            {
+                "content": "Shifting to standardised, reusable MCP servers fundamentally transforms how quickly we can deploy AI capabilities across the department. It turns what was traditionally a significant technical barrier into a scalable, repeatable process that accelerates digital transformation.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re working on AI tools in government and facing similar challenges around secure data access, get in touch in the comments. We are happy to discuss our approach or explore how the pattern could work in your organisation.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/05/14/using-single-sign-on-and-mcp-to-safely-connect-ai-to-live-government-data/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "The DBT Assist team shares how they safely connected DBT\u2019s AI tools to live customer relationship management data, overcoming a common challenge faced across government. By leveraging existing single sign-on and building an MCP server, the team has created a secure, reusable pattern that unlocks new AI capabilities and helps us use our data in \u2026"
+    },
+    {
+        "title": "Criminal courts: building on progress, rising to the challenge",
+        "authors": [
+            "Craig Robb"
+        ],
+        "posted_on": "2026-05-14T11:28:03",
+        "categories": [
+            "Crime",
+            "General",
+            "Working at HMCTS"
+        ],
+        "content": [
+            {
+                "content": "\n[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "The criminal courts are at the heart of the justice system. In 2024-25, our Crown and magistrates\u2019 courts handled over 1.3 million cases. Behind each one of those cases is a person \u2013 a victim, a witness, a defendant \u2013 often going through one of the most difficult periods of their life. That drives everything we do.",
+                "tag": "p"
+            },
+            {
+                "content": "Craig Robb, Deputy Director and Crime Live Service Owner at HMCTS, reflects on the past year in the criminal courts \u2013 what\u2019s been achieved, what needs to change and why he remains confident in the direction of travel.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking back, what stands out most from the past year?",
+                "tag": "h2"
+            },
+            {
+                "content": "For me,\u00a0it\u2019s\u00a0the commitment and dedication of our people and\u00a0how\u00a0we work\u00a0with partners across the system.\u00a0We\u2019ve\u00a0delivered a sustained increase in the number of days sat in the Crown Court,\u00a0growing from\u00a0just under\u00a082,000 in 2019-20 to a record\u00a0110,647\u00a0days sat in 2025-26 \u2013 a\u00a035% increase over six years.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s a remarkable achievement and reflects the commitment of our court staff, judges, legal professionals and criminal justice partners working together under real pressure.",
+                "tag": "p"
+            },
+            {
+                "content": "But it\u2019s not just about providing sitting days \u2013 it\u2019s about working with the police and CPS, with Serco, GeoAmey, with Probation, Prisons \u2013 and, of course, judges to make it all work.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve seen some really creative examples of partnership working over the last year. Fully remote sentencing courts are operating in Sheffield, Isleworth and parts of Wales, while expedited trial schemes and drug case blitzes in cities including Liverpool, Manchester and Sheffield are also helping to move cases forward more quickly. Initiatives like this are only possible with the cooperation and collaboration of our justice system partners.",
+                "tag": "p"
+            },
+            {
+                "content": "Sir Brian Leveson's Independent Review of the Criminal Courts also represents a genuine milestone. The package of policy changes it sets out gives us a clear opportunity to reduce backlogs and improve access to justice for everyone. For us it calls out the need for the entire system to step up and deliver, rather than just looking at HMCTS as needing to solve the court backlogs on its own. That\u2019s a really powerful message. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What has improved most for people using our services?",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019d say bringing court and tribunal support together through our service centres. It provides more consistent, efficient and professionalised support for victims, witnesses and defendants. That means clearer communication and faster responses.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve also invested in our courtrooms, for example, updating audio-visual equipment in Crown courtrooms, which has improved the experience for everyone in court, from judges to witnesses giving evidence. And our investment in video technology allows people to participate in hearings remotely, where appropriate.",
+                "tag": "p"
+            },
+            {
+                "content": "Digital change has also transformed how professional users engage with us. Common Platform has changed the way police, prosecutors, legal professionals and court staff work together. It provides a single, secure view of each case, reducing duplication and delay and providing access to up-to-date materials. That journey is still evolving, but it\u2019s already improving efficiency and shared accountability across the system \u2013 benefits that ultimately support better outcomes for the public.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead, what are you most excited about for the next 12 months?",
+                "tag": "h2"
+            },
+            {
+                "content": "There is real cause for optimism across the criminal courts \u2013 and wider criminal justice system \u2013 now. We\u2019re expanding capacity, have more funding to invest in our buildings and technology as well as the prospect of system-wide reforms to stem the pressures that have been so prevalent to date.",
+                "tag": "p"
+            },
+            {
+                "content": "The Leveson Review recommendations, once implemented, offer a real opportunity to rebalance the system, expanding the role of magistrates' courts, adding new capacity and making the system more efficient overall.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m also genuinely excited about the new National Listing Framework we are developing with the senior judiciary, which we hope to have in place soon. This will introduce a more consistent, approach to how cases are prioritised and scheduled in the Crown Court \u2013 something that will benefit all court users.",
+                "tag": "p"
+            },
+            {
+                "content": "And there\u2019s more to come from technology. My colleagues are harnessing the potential out there, developing and deploying digital and AI tools to drive up effectiveness and productivity.",
+                "tag": "p"
+            },
+            {
+                "content": "What specific pressures do you face, and how will you address them?",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019ve said I approach the coming years with optimism, and I do. But there undoubtedly remain challenges. The open caseload across Crown and magistrates\u2019 courts continues to rise, with disposals outstripped by receipts and the complexity of receipts increasing.",
+                "tag": "p"
+            },
+            {
+                "content": "Cases are therefore taking longer to resolve \u2013 the median time from charge to completion in the Crown Court was 181 days between October to December 2025, 5% higher than the previous year.",
+                "tag": "p"
+            },
+            {
+                "content": "But we\u2019re working hard to address these issues. We\u2019ve increased sitting days to record levels for the year ahead. The government has doubled magistrates' sentencing powers to help divert cases from the Crown Court. We\u2019re investing in new and refurbished court buildings and recruiting more magistrates and legal advisers to build longer-term capacity. And system-wide reforms are coming.",
+                "tag": "p"
+            },
+            {
+                "content": "We are also being honest with the public and our partners about what we are doing and why. When the system faces difficulty, we communicate openly. That transparency is essential to maintaining public trust.",
+                "tag": "p"
+            },
+            {
+                "content": "How do you sustain the momentum to make sure improvements don\u2019t stall?",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the most important lessons from the Reform Programme is that digital transformation is not just about technology \u2013 it\u2019s about people. Getting the systems right matters but getting the people right matters more. That means listening carefully to feedback, not just gathering it. It means understanding what users actually need and then being prepared to change course when required.",
+                "tag": "p"
+            },
+            {
+                "content": "Stakeholder engagement with legal professionals, court users and our justice system partner agencies is essential to sustaining momentum. As we implement the next wave of changes, we\u2019re committed to engaging with our many partners in a timely, sincere and transparent way \u2013 making sure changes work in practice, not just on paper.",
+                "tag": "p"
+            },
+            {
+                "content": "And most importantly, we have maintained something that I think is fundamental to what HMCTS does: the understanding that behind every case there are people. It is part of our DNA, and I am determined it will stay that way.",
+                "tag": "p"
+            },
+            {
+                "content": "What aspect of modernisation are you most proud of?",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019m most proud of the way HMCTS - embodied through its people, steps up time and time again to face problems and get through challenges. This is not an easy environment to succeed in. Without solutions, justice risks being delayed or even denied.",
+                "tag": "p"
+            },
+            {
+                "content": "There have been many difficult moments, and we\u2019ve asked a great deal of our partners along the way. But I believe we are working together to genuinely serve the system \u2013 and there is still much more to be done.",
+                "tag": "p"
+            },
+            {
+                "content": "So yes, I am most proud of our people. Without them, we achieve nothing.",
+                "tag": "p"
+            },
+            {
+                "content": "\n[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Mae'r llysoedd troseddol wrth wraidd y system gyfiawnder. Yn 2024-25, ymdriniodd ein Llysoedd y Goron a'n Llysoedd Ynadon \u00e2 dros 1.3 miliwn o achosion. Y tu \u00f4l i bob un o'r achosion hynny mae yna unigolyn \u2013 dioddefwr, tyst, diffynnydd \u2013 yn aml yn mynd trwy un o gyfnodau anoddaf eu bywyd. Mae hynny'n llywio popeth rydyn ni'n ei wneud.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae Craig Robb, Dirprwy Gyfarwyddwr a Pherchennog Gwasanaeth Trosedd Gweithredol yn GLlTEF, yn myfyrio ar y flwyddyn ddiwethaf yn y llysoedd troseddol \u2013 beth sydd wedi'i gyflawni, beth sydd angen ei newid a pham ei fod yn parhau i fod yn hyderus yn y cyfeiriad y mae'n mynd.",
+                "tag": "p"
+            },
+            {
+                "content": "Wrth edrych yn \u00f4l, beth sy'n sefyll allan fwyaf o'r flwyddyn ddiwethaf?",
+                "tag": "h2"
+            },
+            {
+                "content": "Imi,\u00a0ymrwymiad\u00a0ac\u00a0ymroddiad\u00a0ein\u00a0pobl\u00a0a\u00a0sut\u00a0rydyn\u00a0ni'n\u00a0gweithio\u00a0gyda\u00a0phartneriaid\u00a0ar\u00a0draws y system. Rydym\u00a0wedi\u00a0cyflawni\u00a0cynnydd\u00a0parhaus\u00a0yn\u00a0nifer\u00a0y\u00a0diwrnodau\u00a0eistedd\u00a0yn\u00a0Llys\u00a0y Goron,\u00a0gan\u00a0dyfu\u00a0o 82,000 o\u00a0ddiwrnodau\u00a0eistedd\u00a0yn\u00a02019-20\u00a0i\u00a0110,647\u00a0o\u00a0ddiwrnodau\u00a0eistedd\u00a0yn\u00a02025-26 \u2013\u00a0cynnydd\u00a0o\u00a035%\u00a0dros\u00a0chwe\u00a0blynedd.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae hynny'n gyflawniad rhyfeddol ac yn adlewyrchu ymrwymiad ein staff llys, barnwyr, gweithwyr proffesiynol cyfreithiol a phartneriaid cyfiawnder troseddol sy'n gweithio gyda'i gilydd o dan bwysau gwirioneddol.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ond nid yw'n ymwneud \u00e2 darparu diwrnodau eistedd yn unig - mae'n ymwneud \u00e2 gweithio gyda'r heddlu a Gwasanaeth Erlyn y Goron (CPS), gyda Serco, GeoAmey, y Gwasanaeth Prawf, y Carchardai - ac, wrth gwrs, barnwyr i wneud i'r cyfan weithio.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydyn ni wedi gweld rhai enghreifftiau creadigol iawn o weithio mewn partneriaeth y flwyddyn ddiwethaf.\u00a0 Mae llysoedd dedfrydu cwbl o bell yn gweithredu yn Sheffield, Isleworth a rhannau o Gymru, tra bod cynlluniau treialu cyflym a blitzes achosion cyffuriau mewn dinasoedd gan gynnwys Lerpwl, Manceinion a Sheffield hefyd yn helpu i symud achosion ymlaen yn gyflymach.\u00a0 Dim ond gyda chydweithrediad ein partneriaid system gyfiawnder y mae mentrau fel hyn yn bosibl.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae Adolygiad Annibynnol Syr Brian Leveson o'r Llysoedd Troseddol hefyd yn garreg filltir wirioneddol.\u00a0 Mae'r pecyn o newidiadau polisi y mae'n eu nodi yn rhoi cyfle clir i ni leihau \u00f4l-groniadau a gwella mynediad at gyfiawnder i bawb.\u00a0 I ni mae'n galw allan yr angen i'r system gyfan gamu i fyny a chyflawni, yn hytrach na dim ond edrych ar GLlTEF fel angen datrys yr \u00f4l-groniadau llys ar ei ben ei hun.\u00a0 Mae hynny'n neges wirioneddol bwerus.\u00a0\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth sydd wedi gwella fwyaf i bobl sy'n defnyddio ein gwasanaethau?",
+                "tag": "h2"
+            },
+            {
+                "content": "Byddwn i'n dweud dod \u00e2 chymorth llys a thribiwnlys at ei gilydd trwy ein canolfannau gwasanaeth.\u00a0 Mae'n darparu cefnogaeth fwy cyson, effeithlon a phroffesiynol i ddioddefwyr, tystion a diffynyddion.\u00a0 Mae hynny'n golygu cyfathrebu cliriach ac ymatebion cyflymach.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym hefyd wedi buddsoddi yn ein hystafelloedd llys, er enghraifft, diweddaru offer clyweledol yn ystafelloedd Llys y Goron, sydd wedi gwella'r profiad i bawb yn y llys, o farnwyr i dystion sy'n rhoi tystiolaeth.\u00a0 Ac mae ein buddsoddiad mewn technoleg fideo yn caniat\u00e1u i bobl gymryd rhan mewn gwrandawiadau o bell, lle bo hynny'n briodol.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae newid digidol hefyd wedi trawsnewid sut mae defnyddwyr proffesiynol yn ymgysylltu \u00e2 ni.\u00a0 Mae'r Platfform Cyffredin wedi newid y ffordd y mae'r heddlu, erlynwyr, gweithwyr proffesiynol cyfreithiol a staff y llys yn gweithio gyda'i gilydd.\u00a0 Mae'n darparu golwg unigol, ddiogel o bob achos, gan leihau dyblygu ac oedi a sicrhau mynediad at ddeunyddiau cyfredol.\u00a0 Mae'r daith honno yn dal i esblygu, ond mae eisoes yn gwella effeithlonrwydd ac atebolrwydd a rennir ar draws y system - manteision sy'n cefnogi canlyniadau gwell i'r cyhoedd yn y pen draw.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wrth edrych ymlaen, beth ydych chi'n fwyaf cyffrous amdano am y 12 mis nesaf?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae yna reswm gwirioneddol am optimistiaeth ar draws y llysoedd troseddol \u2013 a'r system cyfiawnder troseddol ehangach \u2013 nawr.\u00a0 Rydym yn ehangu capasiti, mae gennym fwy o arian i fuddsoddi yn ein hadeiladau a'n technoleg yn ogystal \u00e2'r posibilrwydd o ddiwygiadau system gyfan i atal y pwysau sydd wedi bod mor gyffredin hyd yn hyn.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae Argymhellion yr Adolygiad Leveson, ar \u00f4l eu gweithredu, yn cynnig cyfle gwirioneddol i ail-gydbwyso'r system, gan ehangu r\u00f4l llysoedd ynadon, ychwanegu capasiti newydd a gwneud y system yn fwy effeithlon yn gyffredinol.",
+                "tag": "p"
+            },
+            {
+                "content": "Rwyf hefyd yn wirioneddol gyffrous am y Fframwaith Rhestru Cenedlaethol newydd yr ydym yn ei ddatblygu gyda'r uwch farnwriaeth, yr ydym yn gobeithio ei gael ar waith yn fuan.\u00a0 Bydd hyn yn cyflwyno dull mwy cyson ar gyfer sut mae achosion yn cael eu blaenoriaethu a'u trefnu yn Llys y Goron \u2013 rhywbeth a fydd yn fuddiol i holl ddefnyddwyr y llys.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ac mae mwy i ddod o dechnoleg.\u00a0 Mae fy nghydweithwyr yn harneisio'r potensial sydd yna i fanteisio arno, gan ddatblygu a defnyddio offer digidol ac AI i lywio effeithiolrwydd a chynhyrchiant.",
+                "tag": "p"
+            },
+            {
+                "content": "Pa bwysau penodol ydych chi'n eu hwynebu, a sut y byddwch chi'n mynd i'r afael \u00e2 nhw?",
+                "tag": "h2"
+            },
+            {
+                "content": "Rydw i wedi dweud fy mod i'n edrych ymlaen at y blynyddoedd nesaf gydag optimistiaeth, ac rwy'n gwneud hynny. Ond heb os, mae heriau o hyd.\u00a0 Mae'r llwyth achosion agored ar draws Llysoedd y Goron ac Ynadon yn parhau i godi, gyda datrysiadau yn rhagori ar dderbynebau a chymhlethdod derbynebau yn cynyddu.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Felly, mae achosion yn cymryd mwy o amser i'w datrys \u2013 yr amser canolrifol o'r adeg cyhuddo i'r cam cwblhau yn Llys y Goron oedd 181 diwrnod rhwng Hydref a Rhagfyr 2025, 5% yn uwch na'r flwyddyn flaenorol.",
+                "tag": "p"
+            },
+            {
+                "content": "Ond rydyn ni'n gweithio'n galed i fynd i'r afael \u00e2'r materion hyn.\u00a0 Rydym wedi cynyddu diwrnodau eistedd i'r lefelau uchaf erioed ar gyfer y flwyddyn i ddod.\u00a0 Mae'r Llywodraeth wedi dyblu pwerau dedfrydu ynadon i helpu i ddargyfeirio achosion o Lys y Goron.\u00a0 Rydym yn buddsoddi mewn adeiladau llys newydd ac wedi'u hadnewyddu ac yn recriwtio mwy o ynadon a chynghorwyr cyfreithiol i adeiladu capasiti tymor hwy.\u00a0 Ac mae diwygiadau system gyfan ar ddod",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym hefyd yn onest gyda'r cyhoedd a'n partneriaid yngl\u0177n \u00e2'r hyn rydyn ni'n ei wneud a pham.\u00a0 Pan fydd y system yn wynebu anawsterau, rydym yn cyfathrebu'n agored.\u00a0 Mae'r tryloywder hwnnw'n hanfodol i gynnal ymddiriedaeth y cyhoedd.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut ydych chi'n cynnal y momentwm i wneud yn si\u0175r nad yw gwelliannau yn stopio?",
+                "tag": "h2"
+            },
+            {
+                "content": "Un o'r gwersi pwysicaf o'r Rhaglen Ddiwygio yw nad yw trawsnewid digidol yn ymwneud \u00e2 thechnoleg yn unig - mae'n ymwneud \u00e2 phobl.\u00a0 Mae cael y systemau yn iawn yn bwysig, ond mae cael y bobl iawn yn fwy pwysig. Mae hynny'n golygu gwrando'n ofalus ar adborth, nid dim ond ei gasglu.\u00a0 Mae'n golygu deall beth sydd ei angen ar ddefnyddwyr mewn gwirionedd ac yna bod yn barod i newid cwrs pan fo angen.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae ymgysylltu \u00e2 rhanddeiliaid \u00e2 gweithwyr proffesiynol cyfreithiol, defnyddwyr llys a'n hasiantaethau partner yn y system gyfiawnder yn hanfodol i gynnal momentwm.\u00a0 Wrth i ni weithredu'r don nesaf o newidiadau, rydym wedi ymrwymo i ymgysylltu \u00e2'n partneriaid niferus mewn ffordd amserol, ddiffuant a thryloyw \u2013 gan sicrhau bod newidiadau'n gweithio yn ymarferol, nid ar bapur yn unig.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ac yn bwysicaf oll, rydym wedi cynnal rhywbeth yn fy marn i sy'n sylfaenol i'r hyn y mae GLlTEF yn ei wneud: y ddealltwriaeth bod pobl y tu \u00f4l i bob achos.\u00a0 Mae'n rhan o'n DNA, ac rwy'n benderfynol y bydd yn aros felly.",
+                "tag": "p"
+            },
+            {
+                "content": "Pa agwedd ar foderneiddio ydych chi'n fwyaf balch ohoni?",
+                "tag": "h2"
+            },
+            {
+                "content": "Rwy'n fwyaf balch o'r ffordd y mae GLlTEF - wedi'i ymgorffori trwy ei phobl, yn camu i fyny dro ar \u00f4l tro i wynebu problemau a mynd trwy heriau. Nid yw hwn yn amgylchedd hawdd i lwyddo ynddo. Heb atebion, mae cyfiawnder mewn perygl o gael ei ohirio neu hyd yn oed ei wrthod.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bu llawer o adegau anodd, ac rydym wedi gofyn am lawer o'n partneriaid ar hyd y ffordd.\u00a0 Ond rwy'n credu ein bod ni'n gweithio gyda'n gilydd i wasanaethu'r system yn wirioneddol \u2013 ac mae llawer mwy i'w wneud o hyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Felly ie, rwy'n fwyaf balch o'n pobl.\u00a0 Hebddyn nhw, nid ydym yn cyflawni dim.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae Craig Robb yn Ddirprwy Gyfarwyddwr a Pherchennog Gwasanaeth Trosedd Gweithredol yng Ngwasanaeth Llysoedd a Thribiwnlysoedd EF.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2026/05/14/criminal-courts-building-on-progress-rising-to-the-challenge/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "Craig Robb, Deputy Director and Crime Live Service Owner at HMCTS, reflects on the past year in the criminal courts \u2013 what\u2019s been achieved, what needs to change and why he remains confident in the direction of travel."
+    },
+    {
+        "title": "Shape the future of voting: Join our Elections Digital team",
+        "authors": [
+            "Liz Owen, Deputy Director, Elections Digital"
+        ],
+        "posted_on": "2026-05-14T11:25:57",
+        "categories": [
+            "Careers",
+            "Elections"
+        ],
+        "content": [
+            {
+                "content": "Hi, we are Jen Oliver and Liz Owen, job-sharing Deputy Director of the Elections Digital team at the Ministry of Housing, Communities and Local Government (MHCLG).",
+                "tag": "p"
+            },
+            {
+                "content": "Now is a great time to build your career with us. We are developing and improving our existing portfolio of services and products, which are used 365 days a year to enable people to participate in the UK\u2019s democracy. We are passionate about designing and delivering excellent digital services which support citizens to exercise their right to vote. Our focus is on delivering the government\u2019s priorities for elections, particularly on extending the vote to 16 and 17-year-olds, and increasing the number of people who are correctly registered to vote.",
+                "tag": "p"
+            },
+            {
+                "content": "We are hiring",
+                "tag": "h2"
+            },
+            {
+                "content": "We have new delivery, product and user-centred design roles available in our growing digital team, with more due to be advertised over the coming days and weeks. In addition, recruitment for our first tranche of development roles is due to launch in the coming months.",
+                "tag": "p"
+            },
+            {
+                "content": "Visit our job portal for details about each of the vacancies and keep an eye out for additional roles opening in the coming days and weeks.",
+                "tag": "p"
+            },
+            {
+                "content": "What our Elections Digital team does",
+                "tag": "h2"
+            },
+            {
+                "content": "Millions of people use our elections products and services each year and they are critical to the successful running of elections in the UK. We have a portfolio of 8 products and services, including the flagship Register to vote service. Over the last 5 years, we\u2019ve rapidly expanded our portfolio, and electors can now apply online for postal votes, proxy votes and photo identification to use in polling stations. We also have a product we have built for electoral teams in local authorities to support electoral administration.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside our portfolio, our team has also grown to enable us to deliver more of our work to improve and develop services in house \u2013 better for the taxpayer and better for our users. We are looking to build on this and continue to develop our team this year. We want to ensure our services are simpler, clearer and faster for everyone, whilst building on the excellent standards we\u2019ve already achieved. If you are thinking of joining us, it\u2019s an exciting time for Elections Digital services.",
+                "tag": "p"
+            },
+            {
+                "content": "How we work\u202f\u202f",
+                "tag": "h2"
+            },
+            {
+                "content": "Our multidisciplinary in-house digital team is the driving force behind the development and delivery of excellent elections services for users, as well as the day-to-day operational running of those services. And this year, we are also aiming to bring some more technical roles in house, working alongside our existing external partners.",
+                "tag": "p"
+            },
+            {
+                "content": "We are part of the Elections Directorate, which has overall responsibility for all things related to elections in central government. Within the directorate, we have sister divisions responsible for policy, strategy and project management, and work closely with these colleagues. One of the things we love about our role is the fact that we\u2019re part of a single team with policy and programme colleagues and have the opportunity to directly influence thinking on policy and legislation based on our users\u2019 needs.",
+                "tag": "p"
+            },
+            {
+                "content": "We are flexible in delivery approaches, using Agile methodology for digital delivery and waterfall project management for the wider programme activities.",
+                "tag": "p"
+            },
+            {
+                "content": "Our team of enthusiastic and highly-skilled digital specialists is geographically dispersed across the UK.\u202fHybrid working gives us the flexibility to meet in the office or collaborate online wherever we are in the country. Many of us have flexible working patterns to achieve a healthy work/life balance and accommodate commitments outside of work.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "We value each opinion and understand that we need a diverse range of skills and viewpoints to ensure that we represent the communities we serve. It's really important to us that this is a team where everyone feels that their ideas and constructive challenge are valued and welcomed. Good ideas can come from anywhere and are more likely to come from those closest to the problems and to our users. Our teams have a high degree of trust to deliver what\u2019s needed, and we ensure that we offer individuals a challenge and the opportunity to develop themselves and their skills. \u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Our work matters because democracy matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Elections is a brilliant area to work in \u2013 our work matters because democracy matters. We need to make sure that our current and future services are trusted, secure and meet the need of all our users both in and outside the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any questions on the roles we are recruiting, please contact digitaldatajobs@communities.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about the work of Elections Digital team on the MHCLG Digital blog.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn how you can progress your career in digital and data in MHCLG.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/05/14/shape-the-future-of-voting-join-our-elections-digital-team/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "The Elections Digital team in MHCLG is growing and looking for a range of digital professionals to join them in providing excellent digital services which support citizens to exercise their right to vote. Find out about what the team is working on, why it matters, and the exciting opportunities on offer."
+    },
+    {
+        "title": "Erasmus+: What you need to know\u00a0",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2026-05-14T10:57:30",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "The UK has officially signed the legal agreement to join the Erasmus+ programme, with placements set to begin in the 2027/28 academic year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here's\u00a0everything you need to know about what the programme offers and how to get involved.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is Erasmus+?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Erasmus+ is the European Union's programme for education, training,\u00a0youth\u00a0and sport\u00a0for people of all ages and backgrounds.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprentices can gain work experience at leading European companies,\u00a0school groups can take part in an international exchange with a partner school,\u00a0and university students can study abroad at a host institution.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Erasmus+ placements\u00a0can be\u00a0short or long \u2013 some\u00a0are\u00a0as little as\u00a0two\u00a0days.\u00a0Higher education students can\u00a0take part in a blended mobility, which means you can combine a placement abroad with online learning.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who\u00a0is it for?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Erasmus+ is open to a wide range of people across the UK, not just university students.\u00a0This includes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How do I apply?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "You will need to apply\u00a0through your school, college,\u00a0university\u00a0or employer, which will be able\u00a0to bid for funding from\u00a0November 2026. The British Council,\u00a0set to become\u00a0the UK's National Agency for the programme, will\u00a0process\u00a0applications\u00a0and provide support and training\u00a0for\u00a0institutions,\u00a0so that you\u00a0can\u00a0make the most of what is on offer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Erasmus+ funding\u00a0can support with\u00a0costs such\u00a0as\u00a0travel,\u00a0accommodation and\u00a0living\u00a0expenses\u00a0while\u00a0you\u2019re\u00a0abroad.\u00a0Students who are from\u00a0disadvantaged\u00a0backgrounds\u00a0can\u00a0receive\u00a0extra funding to\u00a0help\u00a0cover these costs,\u00a0meaning these opportunities are available to\u00a0everyone.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why do\u00a0an Erasmus+ placement?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Schemes like Erasmus+ can make a real difference to your career.\u00a0It enhances your CV, boosts employability, provides access to different teaching styles, and\u00a0improves confidence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Previous\u00a0Erasmus+ placements show just how wide-ranging the benefits can be. A group of computing students\u00a0from\u00a0a\u00a0college\u00a0travelled to Tenerife\u00a0in\u00a0early 2022, where they spent two weeks learning industry skills, working alongside professionals in a real workplace setting. As well as building technical knowledge, students reported improvements in teamwork, communication,\u00a0confidence\u00a0and independence.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2026/05/erasmus-what-you-need-to-know/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "The UK has officially signed the legal agreement to join the Erasmus+ programme, with placements set to begin in the 2027/28 academic year.\u00a0\u00a0 Here's\u00a0everything you need to know about what the programme offers and how to get involved.\u00a0 What is \u2026"
+    },
+    {
+        "title": "Making technology work for justice, one relationship at a time\u00a0",
+        "authors": [
+            "George Armstrong"
+        ],
+        "posted_on": "2026-05-14T09:47:37",
+        "categories": [
+            "Business Relationship Management",
+            "strategic partnerships",
+            "Technology Services"
+        ],
+        "content": [
+            {
+                "content": "On the busy train heading home from Birmingham, I find myself reflecting on the past few days and the many conversations\u00a0I\u2019ve\u00a0managed to pack into my time there. Between bursts of mobile signal, the journey offers a rare moment to pause, step back from meetings and reflect on the work we do, and why it matters.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working with public bodies on\u00a0real challenges\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During this visit, I spent time with key stakeholders in the Legal Aid Agency,\u00a0building\u00a0on our collaborative ways of working. This included supporting them to make better use of simple\u00a0tools often\u00a0referred to as low-code or no-code solutions and helping prioritise the technology work that underpins the services they provide to the public. I also joined a Senior Business Relationship Manager from my team to meet colleagues in the Office of the Public Guardian, where we worked together to reduce risks across several key systems and move towards more strategic, sustainable ways of working that better reflect how the organisation operates day to day.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While these conversations differed in focus, they shared a common theme: the importance of strong, tailored relationships between Justice Digital, Data and Science and the public bodies sponsored by the Ministry of Justice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "No two organisations are the same\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Legal Aid Agency and the Office of the Public Guardian are two of the Ministry of Justice\u2019s 36 sponsored public bodies. These include Executive Agencies and a wide range of\u00a0other\u00a0Arm\u2019s Length Bodies\u00a0-\u00a0organisations that deliver vital public services on behalf of government, but which vary significantly in size,\u00a0function\u00a0and independence. Within Technology Services, the Demand and Business Relationship Management team supports these organisations by understanding their needs and helping them access the right digital and technology services, in the right way, at the right time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our team is aligned with the\u00a0Government Digital and Data Business Relationship Management profession.\u00a0Our role is to understand organisational\u00a0objectives, explain how digital and technology services can help achieve them, and build strong, trusted relationships. We focus on clear communication, strategic\u00a0alignment\u00a0and effective prioritisation. Alongside this, we also\u00a0operate\u00a0a Demand Management function, supporting organisations with requests that fall outside standard, off-the-shelf IT services and helping them navigate more complex or bespoke needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Digital functions and effective sponsorship\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Justice Digital, Data and Science also\u00a0plays\u00a0an important role\u00a0in how the Ministry of Justice supports and sponsors its\u00a0public bodies.\u00a0Government guidance\u00a0makes it clear that departments should provide the right level of support,\u00a0oversight\u00a0and\u00a0assurance, while allowing these organisations to remain operationally independent. At the same time, there are\u00a0clear expectations\u00a0for how digital and technology should be managed safely and effectively across government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Demand and Business Relationship Management team brings these responsibilities together. By acting as a trusted link between public bodies and Justice Digital, Data and Science, we help organisations understand how digital and technology can support their services, while ensuring risks are managed and standards are met. In practice, this means helping\u00a0public bodies\u00a0access the right\u00a0expertise\u00a0at the right time, and enabling\u00a0the\u00a0digital\u00a0function\u00a0to be a practical, proportionate enabler of good sponsorship and governance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Showing up where it counts\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a team, we tailor our approach to reflect the diversity of the public bodies we support. This includes\u00a0very small\u00a0Arm\u2019s Length Bodies, such as the Independent Public Advocate, which provides support to victims and their families following major incidents and may need more hands\u2011on support given its size and specialist role. We work with organisations like the Judicial Appointments Commission, which recruits judges,\u00a0has its own digital capability, and is actively seeking efficiencies across its platforms, technical\u00a0architecture\u00a0and software licensing. We also support organisations such as the Legal Ombudsman\u2019s Office, which investigates complaints between consumers and legal service providers and\u00a0is responsible forits own IT services, where our role is to provide guidance and advice as and when needed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the course of several visits and discussions with the Office of the Public Guardian team in Birmingham, our conversations quickly moved beyond individual systems and onto the very\u00a0real business\u00a0risks the organisation was carrying. Critical processes were being held together by complex spreadsheets that regularly failed,\u00a0creating operational fragility and a genuine risk to the continuity of services that support some of the most vulnerable people in society. Left unaddressed, this kind of workaround can become a single point of failure, placing unnecessary pressure on staff and increasing the risk of disruption to frontline services.\u00a0By taking the time to understand how teams work day-to-day, and the constraints they were\u00a0operating\u00a0under,\u00a0we were able to work alongside them to support a different approach. Working proactively with colleagues from across Technology Services, we helped introduce a\u00a0low-code\u00a0solution to replace those\u00a0spreadsheet-based\u00a0processes with something far more robust. Alongside this, we supported the upskilling of staff, helping to build confidence and move teams away from firefighting and towards more sustainable,\u00a0long-term\u00a0solutions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This kind of outcome does not come from technology alone. It relies on trusted relationships, early engagement and a supportive approach that helps organisations navigate change at their own pace. By sharing lessons learned from elsewhere\u00a0across the Ministry of Justice, and staying closely engaged as the solution was developed, we were able to help the Office of the Public Guardian strengthen its resilience, operate more efficiently and remain focused on delivering the services that people depend on.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We aim to build strong strategic partnerships with all the\u00a0public bodies\u00a0we support. Given the number and diversity of organisations involved, this is not without its\u00a0challenges,\u00a0but\u00a0we approach it positively and proactively. We look for opportunities to share lessons learned across the Ministry of Justice, encourage collaboration between public bodies, and work closely with colleagues across Justice Digital, Data and Science to ensure the service provided is seamless and of a consistently high quality. Nothing quite replaces face-to-face engagement, and spending time in Birmingham was a valuable opportunity to continue strengthening those partnerships.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the train\u00a0pulls\u00a0into the final stop, I\u00a0am\u00a0already thinking about what comes next: the follow-up conversations, the work to progress, the\u00a0public bodies we should revisit.\u00a0Across 36 public bodies, there is no shortage of challenges to work through. But there is also a real opportunity to make a difference, helping organisations deliver better, more reliable services to the people who depend on them. That is what keeps this work worthwhile.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2026/05/14/making-technology-work-for-justice-one-relationship-at-a-time/",
+        "blog": "Justice Digital, Data and Science ",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "On the busy train heading home from Birmingham, I find myself reflecting on the past few days and the many conversations\u00a0I\u2019ve\u00a0managed to pack into my time there. Between bursts of mobile signal, the journey offers a rare moment to pause, \u2026"
+    },
+    {
         "title": "Schools\u00a0white paper:\u00a0What\u00a0parents\u00a0need to\u00a0know\u00a0about changes to the SEND system\u00a0",
         "authors": [
             "mediaofficer"
