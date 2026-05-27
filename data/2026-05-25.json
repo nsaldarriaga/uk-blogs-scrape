@@ -1,5 +1,903 @@
 [
     {
+        "title": "Resident doctor strikes: everything you need to know\u00a0",
+        "authors": [
+            "DHSC Media Team"
+        ],
+        "posted_on": "2026-05-27T18:21:08",
+        "categories": [
+            "NHS",
+            "Workforce"
+        ],
+        "content": [
+            {
+                "content": "The British\u00a0Medical\u00a0Association (BMA)\u00a0has announced another round of strike action\u00a0by resident doctors.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here, we tell you everything you need to know about\u202fthe BMA\u202fresident doctor strikes, including what patients need to know about their care.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are resident doctors going on strike?\u202f\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The BMA Resident Doctors\u00a0Committee has announced another strike\u00a0from 15-19 June 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0BMA\u00a0Resident Doctors Committee took three rounds of five-day strike action in 2025\u202f(25-30 July,\u202f14-19\u202fOctober\u202fand\u202f17-22 December 2025).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They\u00a0also\u00a0went\u00a0on strike\u00a0for\u00a0six days\u00a0from\u00a07-13\u00a0April 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How much do resident doctors earn?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Basic pay for a new full-time first year doctor will be \u00a340,190 this year. After allowing for the impact of\u00a0additional\u00a0earnings, such as for working\u00a0additional\u00a0or unsocial hours, we might expect this to increase average earnings to over \u00a350,000.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That is\u00a0substantially more, in a resident doctor\u2019s first year, than the average full-time worker in this country earns.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For the most experienced full-time resident doctors, basic pay will be \u00a376,582. After allowing for the impact of\u00a0additional\u00a0earnings, such as for working\u00a0additional\u00a0or unsocial hours, we might expect this to increase average earnings to over \u00a3100,000\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What pay rises have they had in recent years?\u202f\u202f\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Resident doctors have had a\u202f33.4% pay rise over the last four years \u2013 the highest anywhere across the public sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next and what are you doing to stop strikes?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "In March, the Government offered a\u00a0deal\u00a0which was rejected by the BMA. It included:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Secretary of State has been clear he will honour the existing deal on the table for resident doctors\u00a0if they call off strikes.\u00a0It\u2019s\u00a0not too late for the BMA to come back to the table and work with us to improve working conditions for their members.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If the BMA RDC accepts the offer and calls off strikes, the commitment to 4,500 posts will remain. However, it is no longer possible to accelerate posts because of the financial and operational impact of strike action during the application window.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is it true that\u202fthere\u2019s\u202fa doctor employment crisis, and what are you doing to tackle this?\u202f\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "There are record numbers of doctors working in our NHS this year, but we recognise the legitimate concerns resident doctors have raised about access to specialty training places.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We invest over \u00a34 billion each year in training the medical workforce, yet homegrown talent\u202fhas\u202ffaced worsening bottlenecks for\u202fspecialty training\u202fplaces since 2020.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0have\u00a0responded to resident doctors' concerns by introducing The Medical Training (Prioritisation) Act this year, to prioritise UK medical graduates and others with significant NHS experience for speciality training.\u00a0This is expected to halve competition ratios.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As\u00a0part of the offer\u00a0put to the BMA\u00a0Resident\u00a0Doctors\u00a0Committee\u00a0on\u00a022 March,\u00a0the government committed to introduce up to 4,500 specialty training places over three years, with 1,000 of these brought forward in a recruitment round this April for an August 2026 start date.\u00a0The offer is\u00a0on the table with these 4,500 posts,\u00a0but\u00a0we have timed out of bringing these\u00a0posts forward\u00a0for this year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is it true that most resident doctors\u00a0didn\u2019t\u00a0vote to strike?\u202f\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Yes.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Of the 81,000 resident doctors working in our NHS, only around a third\u202factually voted\u202ffor strike action in the BMA\u2019s ballot on pay.\u202f\u00a0\u202f\u202f\u00a0\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Under 50% of BMA members voted in favour of strike action. Because of the turnout (52.5%), under half of resident doctors in the BMA\u202factually voted\u202fin favour of strike action (49%).\u202f\u00a0\u202f\u202f\u202f\u00a0\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How are you keeping patients safe during strikes?\u202f\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Our priority is to keep patients safe, and we will do everything we can to mitigate the impact of the strikes on patients and the disruption that will follow.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thanks to the incredible efforts of NHS staff, during the latest round of industrial action from 7th to 13th April 2026, the NHS\u00a0maintained\u00a094.1% of elective activity, compared\u00a0with\u00a0the same period\u00a0last\u00a0year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Will my appointment be cancelled during strikes?\u202f\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Patients with appointments booked on strike days will be contacted if their appointment needs to be rescheduled due to industrial action.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If they have not been contacted, they should attend their appointment as planned.\u202f\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Any appointments that need to be rescheduled will be done so as a priority.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What if I need urgent medical attention?\u202f\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "It\u2019s\u00a0important that you do not put off seeking urgent care, and you should turn up for planned appointments unless you have been told otherwise. \u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Anyone who needs urgent care should use NHS 111 online or use the NHS App to be assessed and directed to the right care for them.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As usual, patients should only use 999 if it is a serious or life-threatening emergency.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more information on\u202fwhen to call 999\u202fand\u202fwhen to go to A&E, you can visit the NHS UK website.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Should I be worried about falling ill during strikes?\u202f\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The NHS has tried and tested ways to keep patients safe during strikes.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This includes derogations which are exemptions or special arrangements that allow certain essential services to continue\u00a0operating\u00a0during industrial action, even when healthcare workers are on strike.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When NHS staff take strike action, they work with hospital management to\u00a0identify\u00a0critical services that must be\u00a0maintained\u00a0to ensure patient safety and prevent serious harm.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This ensures that whilst industrial action can\u00a0proceed\u00a0to highlight disputes over pay, working conditions, or other issues, patient safety\u00a0remains\u00a0the primary concern.\u202f\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://healthmedia.blog.gov.uk/2026/05/27/resident-doctor-strikes-everything-you-need-to-know/",
+        "blog": "Department of Health and Social Care Media Centre",
+        "blog_link": "https://healthmedia.blog.gov.uk",
+        "description": "The British\u00a0Medical\u00a0Association (BMA)\u00a0has announced another round of strike action\u00a0by resident doctors.\u00a0 Here, we tell you everything you need to know about\u202fthe BMA\u202fresident doctor strikes, including what patients need to know about their care.\u202f\u00a0 Are resident doctors going on strike?\u202f\u00a0 The \u2026"
+    },
+    {
+        "title": "How AI can assist in hydrographic workflows",
+        "authors": [
+            "stephaniecase"
+        ],
+        "posted_on": "2026-05-27T15:33:30",
+        "categories": [
+            "Artificial intelligence"
+        ],
+        "content": [
+            {
+                "content": "For several years, the UKHO has been actively investing in modern data technologies, including artificial intelligence (AI) and machine learning (ML), to transform how it processes, structures, and delivers critical maritime information. Recognising that large quantities of hydrographic data often come in varied formats, the UKHO is embracing AI as a means of streamlining workflows, unlocking new insights, and ultimately getting accurate and up-to-date insights to mariners faster.",
+                "tag": "p"
+            },
+            {
+                "content": "Central to this work has been the UKHO's data science and AI team\u00a0\u2013 a group championing innovation from within the organisation. One standout member of that team is Hannah Brown, Senior Data Scientist, whose contributions have recently earned her external recognition as a finalist in the AI Champion category at the everywoman in Technology Awards. We sat down with Hannah to hear about her journey, her work at the UKHO, and her advice to others interested in a career in data science.",
+                "tag": "p"
+            },
+            {
+                "content": "Can you give an overview of your background and your role at the UKHO?",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ve always been drawn to numbers and data, which led me to study Maths at the University of Exeter. From there, I joined the Met Office on a graduate scheme and spent time across a variety of roles, exploring the application of ML and AI within the context of weather forecasting. This really allowed me to see how powerful AI technologies can be when applied to specialist science sectors and got me thinking about the next step in my career.",
+                "tag": "p"
+            },
+            {
+                "content": "In August 2024, I joined the UKHO as a Senior Data Scientist, and, since then, my focus has been on harnessing AI across the organisation. Working with teams across the UKHO, I determine where AI and ML can make processes more efficient, and where we can build in smarter, automated approaches to difficult or time-consuming activities.",
+                "tag": "p"
+            },
+            {
+                "content": "Could you outline the work you have been doing on AI at the UKHO that has led to you being nominated for this award?",
+                "tag": "p"
+            },
+            {
+                "content": "A major focus of mine has been on large language models (LLMs). At the UKHO, we receive data from hydrographic offices around the world, and quite a large amount of that data is text-based. Notices to Mariners, for example, often arrive as PDF documents from different hydrographic offices, each describing changes in the maritime environments they're responsible for. These documents may contain tables, descriptive passages, and references to coordinates in many different formats, and processing and standardising them can be quite time-consuming.",
+                "tag": "p"
+            },
+            {
+                "content": "My work has been focused on harnessing the power of LLMs to extract the key, meaningful information from those documents in a structured and reliable way. If you can make this data consistently formatted and machine-readable, you unlock a whole new range of possibilities downstream in terms of how you process the data, how you can visualise it, and how quickly you can act on updates.",
+                "tag": "p"
+            },
+            {
+                "content": "What kinds of impacts are being seen from this AI work at the UKHO?",
+                "tag": "p"
+            },
+            {
+                "content": "The ADMIRALTY Sailing Directions teams are responsible for keeping maritime navigation publications up to date with global coverage. Having Notices to Mariners in a more structured form means it will be much easier to compare documents across regions, spot discrepancies, and keep publications up to date.",
+                "tag": "p"
+            },
+            {
+                "content": "Another impact is the geospatial comparisons of datasets \u2013 if you know the coordinates referenced in a document, you can cross-reference them against other relevant publications covering the same area. That kind of automated cross-checking would have been very time-consuming to do manually, but once structured data has been extracted, it is a quick and easy geospatial analysis to automate.",
+                "tag": "p"
+            },
+            {
+                "content": "Do you have any predictions for future directions or applications of AI in hydrography?",
+                "tag": "p"
+            },
+            {
+                "content": "Something I find quite exciting is the possibility of using AI to create bespoke navigational directions. At the moment, ADMIRALTY Sailing Directions are produced for commercial shipping routes. While they are comprehensive, they are generic.\u00a0 What if you could take an Electronic Navigational Chart (ENC), plot a specific route, and then have an AI system generate tailored sailing directions for that exact passage? This would mean that LLMs, grounded in authoritative hydrographic data, could produce something genuinely personalised to the mariner's needs. We have begun to explore this already, and its feasibility has been demonstrated in an initial proof of concept in collaboration with data scientists from the French Hydrographic and Oceanographic Service (Shom).",
+                "tag": "p"
+            },
+            {
+                "content": "As the award is specifically for women in technology, how important is diversity, particularly the representation of women, in fields like technology and hydrography?",
+                "tag": "p"
+            },
+            {
+                "content": "I really feel that it\u2019s super important. In AI and ML specifically, it\u2019s well known that developers can unintentionally encode bias into models and their outputs. The more diverse a team is in terms of gender, background, and perspective, the more representative the solutions are likely to be.",
+                "tag": "p"
+            },
+            {
+                "content": "I'm proud to say that the data science team at the UKHO has really positive gender representation, which I think contributes to the quality of our work. But in terms of the sector as a whole, girls are still disproportionately falling out of STEM subjects at an early age. If we don\u2019t address that, we're narrowing our future talent pool significantly.",
+                "tag": "p"
+            },
+            {
+                "content": "Initiatives like the everywoman in Technology Awards are valuable not just for celebrating individual achievement, but for showing younger generations what\u2019s possible. I also really appreciate that the awards include a category for people still at school or in study. That kind of recognition at an early stage really matters.",
+                "tag": "p"
+            },
+            {
+                "content": "What advice would you give to people looking to build a career in data science?",
+                "tag": "p"
+            },
+            {
+                "content": "My main advice is not to be put off by the specificity of a field. Data science can be applied to a huge range of domains, and that's now led me to hydrography. I followed my interest in data, and it led me here. I would advise young people not to be afraid to dip their toes into something unfamiliar because the people who will surround you will be an incredible resource, and collaboration is where the real value gets unlocked.",
+                "tag": "p"
+            },
+            {
+                "content": "Our technology teams make up one-third of the staff at the UKHO, spanning software and test engineering, enterprise and solutions architecture, data science and engineering, and analysis and support.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about the UKHO's technology roles.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhodigital.blog.gov.uk/2026/05/27/how-ai-can-assist-in-hydrographic-workflows/",
+        "blog": "UK Hydrographic Office",
+        "blog_link": "https://ukhodigital.blog.gov.uk",
+        "description": "For several years, the UKHO has been actively investing in modern data technologies, including artificial intelligence (AI) and machine learning (ML), to transform how it processes, structures, and delivers critical maritime information. Recognising that large quantities of hydrographic data often \u2026"
+    },
+    {
+        "title": "UK Space Agency completes term leading global space debris effort",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2026-05-27T14:30:28",
+        "categories": [
+            "Space surveillance and tracking",
+            "Space sustainability"
+        ],
+        "content": [
+            {
+                "content": "The UK Space Agency has concluded its year as chair of the Inter-Agency Space Debris Coordination Committee (IADC), marking the end of a term that saw the UK strengthen international cooperation on space safety and sustainability.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0The IADC brings together 13 national space agencies and three associate members to coordinate technical research on space debris \u2014 the defunct satellites, rocket stages and fragments that orbit Earth and pose a growing risk to active missions. ",
+                "tag": "p"
+            },
+            {
+                "content": "The committee's work shapes how spacecraft are designed, how they\u00a0operate\u00a0in orbit and how space is regulated around the world.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The UK last chaired the IADC in 2015 to 2016. Taking on the role again gave the UK a significant opportunity to\u00a0demonstrate\u00a0leadership on the international stage at a time when space safety has never been more important.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Andrew Ratcliffe, Chief Engineer at the UK Space Agency, led the UK's\u00a0chairship\u00a0from 2025 to 2026. As well as coordinating the committee's research programme, Andrew worked to broaden engagement with the wider space community and improve how the committee works together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A highlight of the term was the IADC Plenary Day, which opened the Annual Meeting at Harwell Campus in late April and attracted around 185 participants from government, industry,\u00a0operators\u00a0and academia.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rebecca Evernden, Director at the UK Space Agency, opened the event by setting out why space safety and sustainability are central to UK government priorities. She was followed by a keynote from Aarti Holla-Maini, Director of the United Nations Office for Outer Space Affairs, who underlined how strong technical evidence underpins effective and inclusive international space governance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Plenary Day\u00a0provided\u00a0an opportunity for the IADC to\u00a0showcase\u00a0its current research portfolio, ranging from studies on spacecraft vulnerability to\u00a0measuring the\u00a0amount\u00a0of\u00a0debris at different orbital altitudes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing together IADC experts and those from the wider community,\u00a0two panel sessions explored managing risk from complementary perspectives. ",
+                "tag": "p"
+            },
+            {
+                "content": "The first examined how spacecraft can be designed, operated, and licensed to actively reduce debris generation, while the second focused on potential \u2018game-changers\u2019\u00a0-\u00a0missions, capabilities\u00a0and trends\u00a0that could\u00a0influence how we consider\u00a0space safety and sustainability over the coming decade. ",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing together experts from national space agencies, industry, satellite operators, and policy institutes, the panels offered a mix of technical, operational, and regulatory insights.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In addition,\u00a0the day also saw\u00a0a series of highlight presentations covered topics such as constellation operations, advances in space situational awareness, atmospheric ablation modelling, and rendezvous and proximity operations.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The remainder of the week brought together over 100 delegates for closed Steering Group and Working Group meetings, where detailed technical\u00a0discussions were held\u00a0on\u00a0a range of topics, from\u00a0approaches to\u00a0measuring\u00a0and\u00a0modelling\u00a0the space environment,\u00a0to\u00a0new techniques to\u00a0protect\u00a0spacecraft\u00a0from debris\u00a0and\u00a0guidelines to help spacecraft designs and operators\u00a0mitigate\u00a0the release of\u00a0space debris\u00a0from their missions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Two areas which saw particularly\u00a0in-depth\u00a0discussion was the sustainability of the space environment\u00a0and approaches to debris mitigation around the Moon. To help inform policy makers and operators on the status of the\u00a0space debris environment, the IADC releases an Annual Report which can be found\u00a0here.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This report\u00a0provides\u00a0key insights into the compliance with the space debris mitigation and insights into how the number of objects on orbit are forecast to grow.\u00a0The Committee is\u00a0in the process of developing\u00a0key indicators and metrics to help define the sustainability\u00a0of the space environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In recognition\u00a0of\u00a0the growth in the number of missions from Space Agencies and Commercial companies\u00a0in sending missions to the Moon, the IADC is also in the process of developing guidelines for Lunar Debris\u00a0Mitigation\u00a0and the meeting provided an opportunity to share key results from this work.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The meeting concluded with the formal handover of the IADC Chair to the China National Space Administration (CNSA). The UK Space Agency looks forward to continuing close collaboration with international partners and building on the strong momentum generated during IADC 44.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2026/05/27/uk-space-agency-completes-term-leading-global-space-debris-effort/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "The UK Space Agency has concluded its year as chair of the Inter-Agency Space Debris Coordination Committee (IADC)."
+    },
+    {
+        "title": "Adopting\u00a0open-source\u00a0in local government\u00a0",
+        "authors": [
+            "Phil Rumens, Principal Technologist, GDS,"
+        ],
+        "posted_on": "2026-05-27T14:17:24",
+        "categories": [
+            "Chat"
+        ],
+        "content": [
+            {
+                "content": "GDS Local\u2019s\u00a0Sourcing the Stack\u00a0initiative forms part of GDS\u2019s commitment to cocreating a shared vision for local government technology.\u00a0An important step\u00a0in\u00a0this work is publishing a clear \u201cto-be\u201d technical architecture model, alongside a view of the products and components that could make up a common local government technology stack.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Part of this initiative will focus on\u00a0identifying\u00a0strong candidate products through different buy, borrow, build approaches,\u00a0including evaluating\u00a0open-source\u00a0options\u00a0for capabilities and other elements of the recently published\u00a0Local Government Architecture Model.\u00a0\u00a0\u00a0Our aim is to directly improve the experience of public services\u00a0users\u00a0by facilitating the introduction of technology that will enable more consistent, joined-up local public services across organisations, so people don\u2019t have to repeat the same information or navigate different systems for related needs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By sharing common, components and standards, services can work together more seamlessly behind the scenes, even when they are delivered by different departments or levels of government.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This means simpler journeys for citizens, fewer hand\u2011offs and delays, and services that feel coherent and connected around people\u2019s real\u2011world needs, rather than organisational boundaries.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A new source for the stack\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Organisations such as Open UK have been considering a more joined up approach open source, and their recent publication\u00a0Making the UK the Home Of Open Source\u00a0included across the public sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When\u00a0open-source\u00a0is discussed in the public sector, it is usually framed around transparency and reuse.\u00a0The\u00a0code behind products and tools built with public money\u00a0is made\u00a0open\u00a0so\u00a0that\u00a0others can develop, adapt, and reuse it, and\u00a0GDS recently published new guidance on this.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is far less often considered is the reverse direction, where the public sector adopts and builds on open-source software developed by others.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "LocalGov Drupal\u00a0is an\u00a0example of what this can look like in practice. It began with two councils collaborating on a local authority implementation of the open-source content management system Drupal. Today, it is used by around 60 councils and 23 vendors.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Two factors are likely to have contributed to its success. First, Drupal itself is a mature product, originally released in 2001 and now on its\u00a0eleventh major version, released in 2024, with older versions still supported. Second, it\u00a0benefits\u00a0from a large and active global community, with over a million members contributing to,\u00a0maintaining, and supporting the platform.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Figures compiled by Open Digital Cooperative\u00a0show by using this\u00a0open-source\u00a0product:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Which raises an important question:\u00a0where\u00a0will the\u00a0next\u00a0LocalGov\u00a0Drupal\u00a0emerge\u00a0from, and who will source and scale it?",
+                "tag": "p"
+            },
+            {
+                "content": "Providing product assurance",
+                "tag": "h2"
+            },
+            {
+                "content": "At present, there is no formal or standardised process across government for evaluating, recommending, or providing confidence in open-source products or components for use in the public sector.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For local government to adopt open-source products\u00a0built outside the sector\u00a0this would need to be in place, and\u00a0it\u2019s\u00a0something GDS Local is starting to explore.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Elements of the\u00a0Software Security Code of Practice\u00a0and the\u00a0Technology Code of Practice\u00a0go some way towards this, but aspects of an assurance process might mean a product has to\u00a0demonstrate:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Help us make open source safe and scalable\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "From the example of\u00a0LocalGov\u00a0Drupal, greater adoption of open\u2011source products in the\u00a0local government\u00a0could\u00a0save time and money, especially as artificial intelligence has now democratised their development, dramatically lowering the barrier to building and extending them, with both the risks and opportunities that brings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We would welcome your thoughts on how proportionate and continuous\u00a0assurance\u00a0could help ensure these products are safe, supported, and\u00a0continuously improved, and how an assurance process itself could be designed to scale, should it be successful\u00a0if\u00a0adopted by\u00a0local government, by\u00a0completing this form.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2026/05/27/adopting-open-source-in-local-government/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "Scaling open source in local government isn\u2019t a technology problem, it\u2019s a confidence one. Work with us to start to tackle it."
+    },
+    {
+        "title": "10 things we learned running rapid AI experiments",
+        "authors": [
+            "Anthony Love, Chief Data Architect"
+        ],
+        "posted_on": "2026-05-27T09:56:42",
+        "categories": [
+            "AI",
+            "People"
+        ],
+        "content": [
+            {
+                "content": "Anthony Love",
+                "tag": "h3"
+            },
+            {
+                "content": "Last year, we launched our approach to rapidly delivering artificial intelligence solutions at the Department for Business and Trade (DBT). Since then, our teams have explored ideas from across the department. These have ranged from conducting rapid evidence assessments for emerging policy areas to giving our staff on-demand answers to their HR policy questions.",
+                "tag": "p"
+            },
+            {
+                "content": "After completing more than a dozen experiments, we\u2019ve learned a lot about the approaches that work best, the inputs needed, and some of the pitfalls. We are sharing these lessons to help other teams in government, and other large and complex organisations, to use our learning in their own AI experimentation.",
+                "tag": "p"
+            },
+            {
+                "content": "These experiments put into practice innovation principles such as the importance of clear hypotheses, effective governance and giving ourselves space to fail.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s been an exciting journey so far. Here are some of the key lessons we\u2019ve learned:",
+                "tag": "p"
+            },
+            {
+                "content": "  1. Get broad permission to experiment",
+                "tag": "h2"
+            },
+            {
+                "content": "Working in government, it can be difficult to experiment with new technology while also making sure that you have clear, fully documented approaches for keeping data and systems secure. If you find yourself going through complex security and assurance approaches each time you try something new, you simply won\u2019t be able to experiment at pace.",
+                "tag": "p"
+            },
+            {
+                "content": "We invested time and effort up front to make sure we had the right teams on board and were using a repeatable approach. This included setting up \u2018sandbox\u2019-style spaces for experimentation, new templates for recording how we process and protect data and tightly controlling how long we run our prototypes.",
+                "tag": "p"
+            },
+            {
+                "content": " 2. Build in ethics and governance",
+                "tag": "h2"
+            },
+            {
+                "content": "AI tools promise huge efficiency and quality-of-life benefits for our staff and customers. However, that opportunity also comes with well-documented risks of bias, unethical use of data or other unforeseen outcomes. ",
+                "tag": "p"
+            },
+            {
+                "content": "At DBT, we\u2019re lucky to have teams in place that give us ready access to experts in data and AI ethics and governance. They help us to navigate tricky topics and ensure we comply with our recording and reporting obligations on AI use in government. Having this expertise in place, and involved throughout, ensures that the experiments we conduct are ethical and controlled.",
+                "tag": "p"
+            },
+            {
+                "content": "  3. Somebody else is probably already   working on this",
+                "tag": "h2"
+            },
+            {
+                "content": "Very few of the use cases we\u2019ve explored are truly unique. All have at least some aspects in common with other experiments that we or others have conducted. We\u2019ve learned the value of asking \u201cwhat makes this use case different?\u201d and \u201cdo we already have a tool that can do most of this?\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "As a government department, we\u2019ve been able to borrow ideas, code, technology and approaches from others, and we\u2019d recommend others do the same. \u2018DBT Assist\u2019, our internal AI tool for all DBT staff, is a great example of this.",
+                "tag": "p"
+            },
+            {
+                "content": " 4. Identify a clear, measurable hypothesis ",
+                "tag": "h2"
+            },
+            {
+                "content": "Our experiments have covered a wide range of subjects, each with a variety of problems and opportunities. Our aim has been to complete experiments rapidly, in just a few weeks each time. Some of our earlier experiments took longer than expected because we didn\u2019t have clear measures to indicate when to stop.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve since developed an experiment template that identifies the smallest meaningful test we can perform, sets clear success measures and gives a clear threshold for continuing. We use a simple sentence format to define experiments in simple terms. \u2018Given\u2019 particular data sources or inputs, \u2018can we\u2019 produce a specific, measurable output or result, \u2018so that\u2019 a clear outcome is achieved.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, this is the hypothesis we identified for a recent experiment for a staff-facing HR policy search tool:",
+                "tag": "p"
+            },
+            {
+                "content": " 5. Not everything needs generative AI",
+                "tag": "h2"
+            },
+            {
+                "content": "With all the excitement, it\u2019s easy to fall into the trap of thinking that AI, and particularly generative AI, is the only option. Teams we spoke to were sometimes more excited about having \u2018an AI tool\u2019 than about solving any particular problem. Often, however, the complexity and costs (financial and environmental) of an AI-based approach just don\u2019t stack up.",
+                "tag": "p"
+            },
+            {
+                "content": "While we have still used generative AI for many of our experiments, we learned quickly to identify those that could be better delivered through more traditional data science, digital and technology approaches. We did this by identifying which other teams we could work with, and by seeking input from relevant subject matter experts across our digital, data and technology teams.",
+                "tag": "p"
+            },
+            {
+                "content": " 6. Use a mix of tools and approaches",
+                "tag": "h2"
+            },
+            {
+                "content": "At DBT, many of our digital services are custom-built and open-source. For AI experiments, though, we\u2019ve recognised that a custom-built approach isn\u2019t always the best way to test new and emerging capabilities. Over the past few years, we\u2019ve seen new tools \u2013 both commercial and open-source \u2013 appearing almost daily, and we want to explore a wide range.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s also important to consider the potential route to production for AI tools and services, and the users, systems and data you need to connect with. Over the past few months, we\u2019ve used a mix of direct development on AWS Bedrock, Microsoft Copilot agents and building new custom \u2018tools\u2019 on DBT Assist, our internal AI tool.",
+                "tag": "p"
+            },
+            {
+                "content": " 7. Keep content current and realistic",
+                "tag": "h2"
+            },
+            {
+                "content": "Early on, a lot of our experiments struggled. This was because we couldn\u2019t easily distinguish between outdated content or gaps in source material and AI model hallucinations or omissions.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve found that it is essential to use realistic, up-to-date content and data during testing. For us, this has meant working out how we can securely use real source data in our experiments. We\u2019ve also spent time tidying up and improving source content whenever we can. This allows us to ask realistic questions and get realistic answers to put in front of subject matter experts for review.",
+                "tag": "p"
+            },
+            {
+                "content": "8. Be careful with your prototypes",
+                "tag": "h2"
+            },
+            {
+                "content": "For many of our experiments, we\u2019ve been keen to develop simple user interfaces. These prototypes can be essential for giving the development team and subject matter experts the ability to test and rate the performance of AI outputs.",
+                "tag": "p"
+            },
+            {
+                "content": "However, sometimes these prototypes have raised expectations about how quickly we can build the real thing. We\u2019ve learned to restrict access to our prototypes just to those who need them for testing, and to spend time explaining their limitations to stakeholders.",
+                "tag": "p"
+            },
+            {
+                "content": " 9. Always keep an eye on your credits",
+                "tag": "h2"
+            },
+            {
+                "content": "It can be easy to overspend using generative AI tools. For one of our experiments, we used an AI search tool to find and summarise relevant news articles about specific UK companies. Each individual search only cost a few pence but, when one of our users ran a bulk search, they inadvertently triggered thousands of searches! Fortunately, we had set a strict spend limit on the tool, so the user got an error message instead of a hefty bill.",
+                "tag": "p"
+            },
+            {
+                "content": "Nonetheless, we learned the importance of closely monitoring spend, setting up email alerts and making active use of spend and rate limits available in commercial tools.",
+                "tag": "p"
+            },
+            {
+                "content": " 10. Technology alone cannot do it all",
+                "tag": "h2"
+            },
+            {
+                "content": "So, you\u2019ve got an amazing idea for an AI tool that can make life easier for hundreds of people across your organisation, and a successful experiment to prove that it works. However, this isn\u2019t enough. We\u2019ve learned that, even with all the excitement about AI, making changes happen in large and complex organisations still requires traditional business and process transformation.",
+                "tag": "p"
+            },
+            {
+                "content": "For us, this means we focus on getting clear senior sponsorship before we start any AI experiment. We also ask subject matter experts and key decision-makers to commit their time throughout. This means that we can understand the problem, test the solution and make a realistic plan for implementation. AI can help get people\u2019s attention, but it needs to be followed by meaningful time commitment.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ve taken these lessons on board and recently made some changes to how our AI teams work together. We\u2019ll continue to run rapid experiments, while also developing and running AI tools in production. We\u2019re also investing in how we enable other teams at the Department for Business and Trade to implement AI in their own services.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019d love to hear from teams that have been experimenting with or building AI tools for themselves \u2013 in government or otherwise. Have you learned any of the same things? Are there other solutions or approaches that you think we should try? Any important lessons that you think we\u2019ve missed? Get in touch with our AI team on ai.lab@businessandtrade.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/05/27/10-things-we-learned-running-rapid-ai-experiements/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "Read about what DBT's AI teams learned as they ran rapid AI experiments to improve ways of working across the department."
+    },
+    {
+        "title": "How we are helping kids stay active at school",
+        "authors": [
+            "phoebetodd"
+        ],
+        "posted_on": "2026-05-27T09:16:57",
+        "categories": [
+            "Physical Education",
+            "School sport",
+            "Schools"
+        ],
+        "content": [
+            {
+                "content": "Physical\u00a0education\u00a0(PE)\u00a0and\u00a0school\u00a0sport\u00a0play a huge role in\u00a0supporting the healthy development of children and young people \u2013 improving their physical and mental health, supporting confidence and resilience, and building social skills.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But evidence shows\u00a0less than half\u00a0of young people get the 60 minutes of activity a day they need \u2013 with girls, those with SEND and those from disadvantaged backgrounds\u00a0affected\u00a0the most. By the time children reach the end of primary school, 1 in 5 are living with obesity.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re\u00a0focused on\u00a0turning this around and creating the healthiest generation of children and young people,\u00a0working across government and with sporting bodies including\u00a0the Lawn Tennis Association\u00a0and\u00a0the Rugby Football Union\u00a0to offer\u00a0even more opportunities for PE, sport and activity both in and outside of the classroom.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How often do pupils have PE lessons each week?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We expect schools to teach two hours of PE per week as part of the curriculum.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re\u00a0updating and\u00a0reforming the PE curriculum following the recommendations of the\u00a0Curriculum and Assessment Review\u00a0so\u00a0pupils\u00a0benefit\u00a0from\u00a0improved access to sport, both in and out of the classroom, as well as considering how\u00a0activities\u00a0like swimming, dance,\u00a0and outdoor and adventurous activity could be included.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How will you ensure all pupils have access to high-quality PE and sport regardless of where they go to school?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Access to opportunities for sport and physical activity is often\u00a0determined\u00a0by where a child lives or goes to school.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our new PE and School Sport Partnerships programme will end this postcode lottery and break down the barriers to a healthy childhood which many children face.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Partnership\u00a0Network\u00a0will be up and\u00a0running from\u00a0January\u00a02027. It\u00a0will provide schools with a mixture of\u00a0universal support, such\u00a0as online\u00a0training\u00a0and on demand\u00a0resources, as well as\u00a0targeted support based on need.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This could look like\u00a0specialist coaches, development opportunities for teachers, extra-curricular activities for children,\u00a0or\u00a0support to\u00a0deliver\u00a0swimming\u00a0and water safety.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0programme\u00a0will be backed by\u00a0a\u00a0significant investment of almost \u00a31 billion including\u00a0\u00a3580\u00a0million\u00a0of funding\u00a0for the Partnerships Network, as well as \u00a3200 million to go\u00a0towards improving school sporting facilities, and\u00a0a\u00a0\u00a3100 million payment to support\u00a0primary schools to transition to the\u00a0new approach.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What opportunities are available to my child outside of the classroom?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0know\u00a0most schools offer some extra curricula activities, but the quality\u00a0of\u00a0and access to\u00a0a broad range of\u00a0activities can be patchy\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s\u00a0why we have set out\u00a0a new core enrichment entitlement, so that every child \u2013 wherever they go to school \u2013 has access to sport, the arts and more.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new PE and School Sport Partnerships\u00a0Network\u00a0will\u00a0also\u00a0help to offer strong extra-curricular opportunities by connecting schools with grassroots sport clubs and national governing bodies (NGBs)\u00a0like the Football Association\u00a0and\u00a0Swim England\u00a0so that\u00a0pupils\u00a0can\u00a0benefit from specialist additional support, both in and out of the classroom.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, a school with a strong interest in cricket could link up with the England and Wales Cricket Board and organisations such as Chance to Shine, to access\u00a0expertise, equipment, teacher and coach support, and opportunities for pupils to play cricket.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Importantly, this helps to create a clear pathway beyond the school day, so pupils who enjoy a sport or activity know how they can continue playing in community clubs and local settings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What age of children will\u00a0benefit\u00a0from the new PE and Sport Partnership Programme?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new partnerships model\u00a0will\u00a0 see\u00a0dedicated PE support extend to secondary school pupils \u2013 a key age group which has seen a marked drop in physical activity levels.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This will make sure that every pupil from Year 1 through to the end of Year 11 will\u00a0benefit\u00a0from the incredible mental wellbeing, physical, and developmental benefits that come from accessing high quality PE and school sport.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are you doing to ensure schools have access to high quality sporting facilities?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know that high quality facilities are an important part of delivering a great sport experience for pupils.\u00a0That\u2019s\u00a0why\u00a0we are investing\u00a0almost \u00a3200M\u00a0to\u00a0improve\u00a0school sporting facilities.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This means that funding can now be used to help\u00a0maintain\u00a0and improve the condition of school buildings and grounds,\u00a0opening up\u00a0access to better opportunities PE and Sports for every child.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0are people saying\u00a0about this\u00a0announcement?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Simon Hayes, the\u00a0chief executive of Sport England, welcomed the\u00a0announcement, saying\u00a0\u201cthis investment will help more children and young people experience the many benefits that sport and physical activity can bring\u2026Sport England is looking forward to working closely with schools and partners to help ensure this funding creates more opportunities for children and young people to get active, enjoy sport and build confidence through being active\u201d.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile, Robert Sullivan, the CEO of Football Foundation\u00a0said\u00a0\u201cToday's additional funding will support delivering more game changing facilities for young people, ensuring the power of sport can continue to transform communities across the country\u201d.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2026/05/how-we-are-helping-kids-stay-active-at-school/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Physical\u00a0education\u00a0(PE)\u00a0and\u00a0school\u00a0sport\u00a0play a huge role in\u00a0supporting the healthy development of children and young people \u2013 improving their physical and mental health, supporting confidence and resilience, and building social skills.\u00a0\u00a0\u00a0 But evidence shows\u00a0less than half\u00a0of young people get the 60 minutes of \u2026"
+    },
+    {
+        "title": "A\u00a0badger\u00a0named Miriam,\u00a0and the\u00a050 years of science\u00a0that\u00a0followed",
+        "authors": [
+            "Si\u00e2n Powell"
+        ],
+        "posted_on": "2026-05-27T09:00:00",
+        "categories": [
+            "Bovine Tuberculosis",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "Last year, we shared a blog called\u00a0If You Go Down to the Woods Today, celebrating a\u00a0wonderfully\u00a0unique study site at\u00a0Woodchester\u00a0Park, nestled on the western edge of the Cotswolds Area of Outstanding Natural Beauty. For half a century now (yes,\u00a0half a century!), researchers have continuously\u00a0monitored\u00a0the local badger population, uncovering\u00a0cutting\u2011edge\u00a0social,\u00a0epidemiological\u00a0and ecological insights into\u00a0two ancient species:\u00a0the European badger and\u00a0Mycobacterium\u00a0bovis.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But what we\u00a0did\u00a0not\u00a0talk about was the other side of the science,\u00a0the bit we\u00a0are\u00a0not really meant to mention too loudly in case someone thinks we\u00a0have\u00a0gone soft. The badgers we know. The badgers we recognise. The badgers who, despite our best attempts at scientific detachment, have wriggled, snorted and\u00a0peanut\u2011munched\u00a0their way into our working lives and, occasionally, our hearts.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Consider this my confession.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Back to\u00a0where\u00a0it\u00a0all\u00a0began\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Fifty years ago, the very first badger was caught and released at\u00a0Woodchester\u00a0Park, marking the beginning of what we believe to be the longest continuously running study of a wildlife population and an infectious disease anywhere in the world.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These days, of course, every badger we catch is given a unique identifying tattoo: a letter for the year, and a sequential number. A\u00a0kind of highly\u00a0organised,\u00a0wildlife\u2011friendly\u00a0Dewey Decimal system. But in those early days of the project, before we developed our current protocols, badgers were simply given names.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And so,\u00a0the study began with a young female called\u00a0Miriam.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "She lived in Beech Sett,\u00a0just down the track from our office today\u00a0(a sett being the underground network of tunnels and chambers designed,\u00a0engineered\u00a0and\u00a0apparently constantly\u00a0redecorated by badger civil engineers). Miriam shared her home with a male called Reg, caught a week later, and another female, Rapi. Rapi was lactating when checked in July, so we can safely assume the sett was a lively underground nursery at the time.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I like to imagine those early researchers listening to the rustles and thumps underfoot, wondering where this new adventure would lead. I doubt any of them thought\u00a0that\u00a0fifty years\u00a0later we would still be here\u00a0monitoring\u00a0the descendants of those they first caught!",
+                "tag": "p"
+            },
+            {
+                "content": "Rustic\u00a0beginnings and\u00a0wobbly\u00a0badgers",
+                "tag": "h2"
+            },
+            {
+                "content": "Diagnostic testing in the early days was\u2026 let\u00a0us\u00a0say \u201cmore rustic\u201d than today. Miriam herself was anaesthetised out in the field, where she had three swabs taken for\u00a0M.\u00a0bovis\u00a0culture (all negative). According to the notes, she \u201ccame around pretty quickly\u201d and then\u00a0wobbled\u00a0off back down her sett.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u00a0have\u00a0ever seen a mildly disgruntled, slightly woozy badger wobble home after a veterinary procedure, you will understand why that sentence has\u00a0remained\u00a0legendary in the archives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today, the process looks\u00a0very different. As our knowledge has grown, so too has our commitment to ensuring the welfare and comfort of the badgers while they\u00a0are\u00a0with us. We carry out two nights of surveillance for each part of the population, every season. Badgers stay overnight in our bespoke holding\u00a0facility\u00a0so they are\u00a0not\u00a0recaptured on the second night. On day two, once the vet or trained anaesthetist is satisfied that they\u00a0are\u00a0fully fit, they\u00a0are\u00a0released,\u00a0usually with a parting glance that says, \u201cThank you, but I\u00a0will\u00a0be telling the others about this.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When\u00a0twelve\u00a0badgers\u00a0became\u00a0one\u00a0 hundred and\u00a0forty-six\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "While Beech Sett was the first to be surveyed, things escalated quickly. In the first year, twelve badgers were caught. The next year,\u00a0sixty\u2011two. The year after that, one hundred and\u00a0forty\u2011six. Badger enthusiasm for peanuts has always been consistent.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Naming the badgers did\u00a0not\u00a0last long,\u00a0though honourable mentions must go to Bernhard,\u00a0Noears, Ripper, Scarface, Lumpy, Clubfoot and Baz. (Baz, for the record, had\u00a0absolutely enormous\u00a0feet. Or\u00a0possibly a\u00a0small body. The debate continues.)\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But even with the switch to tattoo IDs, we\u00a0have\u00a0all had our favourites.",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0ones\u00a0who\u00a0stay\u00a0with\u00a0you",
+                "tag": "h2"
+            },
+            {
+                "content": "My first favourite was\u00a042A, an elderly female when I joined the team. She had a strong preference for home comforts\u00a0(she did\u00a0not\u00a0roam far)\u00a0and\u00a0had\u00a0an even stronger preference for peanuts. A sensible woman, really. She lived to ten years old and\u00a0likely passed\u00a0away last year, as it was the first year we did\u00a0not\u00a0see her. As our genetic testing efforts ramp up, I\u00a0am\u00a0looking forward to tracing her family tree. I suspect she\u00a0will\u00a0have a sizeable dynasty.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My new favourite, though, is\u00a06Q, born in 2024. The vet describes him as \u201ca bit stroppy\u201d,\u00a0which I think is entirely unfair\u2026\u00a0he simply knows what he wants, and that thing is: \u201cpeanuts, immediately, please.\u201d We\u00a0have\u00a0spotted him at\u00a0nearly every\u00a0opportunity\u00a0he\u2019s\u00a0had to visit the traps. I like to think of him as our keenest volunteer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0are\u00a0already looking forward to seeing him again in May, when the study resumes after the close season\u00a0which is\u00a0a quiet, respectful pause while dependent cubs are being born safely underground\u00a0and finding their confidence out in the woods.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0fifty\u00a0years\u00a0really\u00a0means\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Celebrating fifty years of this project feels monumental. What began as a\u00a0short\u2011term\u00a0experiment undertaken by a handful of pioneering ecologists has grown into one of the world\u2019s most remarkable\u00a0long\u2011running\u00a0studies of natural disease dynamics.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Because of this study, we have:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Five decades later, the science is sharper, the questions are bigger, and the badgers are,\u00a0remarkably,\u00a0still turning up, still\u00a0participating, and still helping us understand this ancient\u00a0host\u2011pathogen\u00a0relationship.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0moment to\u00a0celebrate\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "On the 9th of February, the current\u00a0Woodchester\u00a0team\u00a0gathered\u00a0to mark this milestone before the larger celebrations later in the year.\u00a0As we raised\u00a0a cup of tea,\u00a0we\u00a0celebrated\u00a0Miriam, the very first badger; the hundreds of researchers who have contributed their\u00a0expertise; and the many thousands of badgers who have, quite literally, put their paws up for science.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s\u00a0to the next fifty years. And to Miriam, who started it all.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You might be interested in ...",
+                "tag": "h2"
+            },
+            {
+                "content": "You might also be interested in the\u00a0Wind in the Willows sculpture trail\u00a0at\u00a0Tinkley\u00a0Gate,\u00a0Woodchester\u00a0Park, running from 22 May to 28 June. Presented by Wild in Art in collaboration with the Animal & Plant Health Agency (APHA), the trail celebrates the 50th anniversary of the National Wildlife Management Centre this year.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2026/05/27/a-badger-named-miriam/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "Fifty years ago, one badger named Miriam changed everything. Today, her legacy lives on in the world\u2019s longest continuous wildlife disease study."
+    },
+    {
         "title": "The\u00a0Wildlife-Rich Habitat\u00a0Fund:\u00a0Bringing\u00a0even\u00a0more buzz to\u00a0Protected Landscapes\u00a0",
         "authors": [
             "Mary-Ann Ochota"
