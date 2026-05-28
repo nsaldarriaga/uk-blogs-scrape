@@ -1,5 +1,1288 @@
 [
     {
+        "title": "Digital waste tracking: where we've been, what we've built, and why the market is our primary user",
+        "authors": [
+            "Naveed Parvez"
+        ],
+        "posted_on": "2026-05-28T16:18:54",
+        "categories": [
+            "Defra digital",
+            "Defra service design"
+        ],
+        "content": [
+            {
+                "content": "Naveed Parvez reflects on the reaching of a significant milestone in digital waste tracking.",
+                "tag": "p"
+            },
+            {
+                "content": "The moment",
+                "tag": "h2"
+            },
+            {
+                "content": "Last month we launched the public beta for digital waste tracking. Anyone who operates a permitted waste receiving site in the UK can now register and start submitting data digitally. That's a significant milestone for the project, and this work sits at the heart of one of Defra\u2019s core commitments: to minimise waste, tackle waste crime and maximise the use of resources, with digital infrastructure playing a key role in delivering that.",
+                "tag": "p"
+            },
+            {
+                "content": "I wanted to take a moment to explain what we've built, why we built it the way we did and how I've been thinking about it as a product manager.",
+                "tag": "p"
+            },
+            {
+                "content": "Where we started",
+                "tag": "h2"
+            },
+            {
+                "content": "Waste tracking in the UK currently runs mostly on paper. Waste transfer notes, hazardous waste consignment notes, quarterly returns \u2013 all paper, all manual, all fragmented across 4 regulatory regimes. The Environment Agency estimates waste crime costs around \u00a31billion a year. A lot of that is possible because there's no real-time picture of where waste is going. The policy intent behind digital waste tracking is straightforward: make compliance easier and make illegal activity visible.",
+                "tag": "p"
+            },
+            {
+                "content": "But there's a bigger picture too. The UK's circular economy ambition depends on understanding material flows. Where does waste go? What gets recovered? What gets lost? Right now, we don't have reliable answers to those questions at scale. Digital waste tracking is part of the foundation that makes better answers possible.",
+                "tag": "p"
+            },
+            {
+                "content": "What we faced",
+                "tag": "h2"
+            },
+            {
+                "content": "We're designing for around 12,000 permitted waste receiving sites that will need to use the digital waste tracking service in October 2026. Those sites range from large integrated waste companies running enterprise software, to small specialist operators using spreadsheets. We're working across 4 regulatory bodies covering England, Scotland, Wales and Northern Ireland, each with their own data needs, compliance approaches and legislative timelines. And we're building a service that needs to be mandatory and genuinely accessible at the same time, which creates design pressures at every turn.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting to public beta has involved a lot of iteration on things that sounded simple and weren't. Data validation rules that work across 4 nations. An application programming interface (API) specification that vendors with very different technical setups can actually implement. An onboarding journey that works for a site manager who hasn't used a government digital service before. None of that is glamorous work, but it's the foundation everything else sits on.",
+                "tag": "p"
+            },
+            {
+                "content": "The API-first decision",
+                "tag": "h2"
+            },
+            {
+                "content": "Early on, we made a decision to go API-first. Large sites are already recording waste movements in software. Asking them to log into a separate government service on top of everything else would add burden rather than reduce it.",
+                "tag": "p"
+            },
+            {
+                "content": "The primary route to compliance for most operators would be through their existing waste management software, connected to our API. This means we\u2019re meeting operators where they are, which is the right approach.",
+                "tag": "p"
+            },
+            {
+                "content": "We've also built a spreadsheet submission route, but that's a bridge, not a destination. It exists to help operators get compliant while the software market catches up, and it won't be there permanently.",
+                "tag": "p"
+            },
+            {
+                "content": "But going API-first has a consequence that took some time to fully think through.",
+                "tag": "p"
+            },
+            {
+                "content": "Why the market is our primary user",
+                "tag": "h2"
+            },
+            {
+                "content": "If most operators are going to comply through their existing software, then their experience of digital waste tracking is entirely mediated by the software vendors they already use. An operator doesn't interact with our service directly. They interact with a product that connects to our API in the background.",
+                "tag": "p"
+            },
+            {
+                "content": "This means if a vendor\u2019s software can\u2019t integrate with our service, their customers can't comply through that route. If the commercial case doesn't stack up for a vendor serving a niche market segment, they may not integrate at all. If a vendor has integrated but the implementation is poor, their customers will have a bad experience of a service they've never directly seen.",
+                "tag": "p"
+            },
+            {
+                "content": "So when I think about who I'm designing for, I have to think about the waste software market as a whole, not just the individual operator at the end of the chain. What's the integration burden for a small vendor with a two-person development team? Does our testing and approval process work for vendors who aren't building full-time? What does a vendor need from us to be able to explain digital waste tracking to their customers?",
+                "tag": "p"
+            },
+            {
+                "content": "That's a different kind of product thinking. It's less about individual user journeys and more about the conditions under which a market activates.",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Mandatory launch is the start, not the finish. The data this service generates, at scale and over time, is what makes the circular economy ambition real. Reliable data on material flows through the waste market means better policy, better regulation and a clearer picture of where the UK economy is and isn't closing the loop on materials.",
+                "tag": "p"
+            },
+            {
+                "content": "A well-run, transparent waste market is also better for operators. Businesses doing things properly are currently competing in a market where that effort is largely invisible. Digital tracking changes what's visible. That shift benefits the legitimate market and is the foundation for reducing the waste crime that costs the economy an estimated \u00a31billion a year.",
+                "tag": "p"
+            },
+            {
+                "content": "None of that happens if adoption is shallow. Which is why the next few months\u2019 work, getting vendors integrated and operators registered ahead of October, matters as much as everything we've built to get here.",
+                "tag": "p"
+            },
+            {
+                "content": "What's next",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0We'll be tracking vendor integration progress closely over the coming months, with a production-ready vendor list we're aiming to publish in June.",
+                "tag": "p"
+            },
+            {
+                "content": "There's still a lot to do ahead of the mandatory launch in October. Regulator readiness, the service charge, digitally excluded provision for operators who genuinely can't access the service digitally. But we're in public beta, the API is live and vendors are integrating. That's the foundation everything else depends on.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "Naveed Parvez is a lead product manager in the digital waste tracking team.",
+                "tag": "p"
+            },
+            {
+                "content": "If you're interested in finding out more about what we do in Defra Digital Data Technology and Security check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow?",
+                "tag": "p"
+            },
+            {
+                "content": "Like what you read?\u00a0Subscribe to the blog\u00a0for all the latest updates.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2026/05/28/digital-waste-tracking-where-weve-been-what-weve-built-and-why-the-market-is-our-primary-user/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "Naveed Parvez reflects on the reaching of a significant milestone in digital waste tracking."
+    },
+    {
+        "title": "Nature and Growth\u00a0- Reflections from\u00a0UKREiiF",
+        "authors": [
+            "Marian Spain"
+        ],
+        "posted_on": "2026-05-28T15:30:00",
+        "categories": [
+            "Development",
+            "Environmental Delivery Plan",
+            "Natural England",
+            "Nature",
+            "Nature Restoration Fund",
+            "Planning",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Marian Spain, CEO of Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog, our Chief Executive Marian Spain reflects on her recent attendance at the UK Real Estate Investment and Infrastructure Forum and discusses the major role that nature plays in growth and development.",
+                "tag": "p"
+            },
+            {
+                "content": "Last week I had the pleasure of speaking at UKREiiF \u2014 the UK Real Estate Investment and Infrastructure Forum \u2014 one of the largest gatherings of its kind in the country, bringing together more than 16,000 delegates from across the public and private sectors. Investors, developers, local authorities, and government bodies, united by a shared ambition to shape the built environment of the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England was proud to have a strong presence at the conference this year, alongside partners such as Nature North, and government departments and Arm's Length Bodies.",
+                "tag": "p"
+            },
+            {
+                "content": "Nature can no longer be a footnote in discussions about development and growth. This year, from flood risk, climate resilience to health impacts, it was woven through the fabric of the event \u2014 the vital foundation upon which economic prosperity depends. Speaking on a Panel discussion about \u2018Keeping the UK at the Forefront of Nature-Friendly Development\u2019, alongside RSPB, West Yorkshire Combined Authority, and Highways Agency, we discussed the strategic approaches to development that can help us to deliver both economies of scale for developers and nature led development.",
+                "tag": "p"
+            },
+            {
+                "content": "Nature is essential infrastructure\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "For too long, nature and economic growth have been cast as opposing forces \u2014 a trade-off to be managed rather than an opportunity to be seized. That narrative is changing, and UKREiiF reflected that shift.",
+                "tag": "p"
+            },
+            {
+                "content": "Healthy ecosystems are not a luxury. They underpin our food and water supplies, manage the climate impacts that threaten our communities \u2014 flooding, extreme heat, drought \u2014 and deliver the wellbeing and health outcomes that make places worth living in. Nature is essential national infrastructure, as fundamental to our future as transport, energy, and digital connectivity. We heard time and again how much people enjoy living in nature rich spaces, and how that can be turned to a competitive advantage.",
+                "tag": "p"
+            },
+            {
+                "content": "The question is no longer whether we can afford to invest in nature. The question is whether we can afford not to.",
+                "tag": "p"
+            },
+            {
+                "content": "Planning\u00a0system\u00a0that works\u00a0for everyone\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "The current planning and regulatory system is not working effectively \u2014 neither for development nor for nature. The impacts of development on nature \u2014 water pollution, air pollution, habitat fragmentation, recreational disturbance are difficult to address site by site. But there is a real win-win available to us if we think at scale.",
+                "tag": "p"
+            },
+            {
+                "content": "The Planning and Infrastructure Act represents a real opportunity to move in the right direction. The Nature Restoration Fund and Environmental Delivery Plans (EDPs) will enable us to move away from site-by-site mitigation towards landscape-scale nature restoration \u2014 targeting resources to the issues, locations and methods that deliver the greatest environmental benefit.",
+                "tag": "p"
+            },
+            {
+                "content": "The opportunity ahead\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Local leaders and Combined Authorities played a key role throughout the conference with bold ambition to drive investment into their regions. Nature can support these growth ambitions and create healthier, more resilient and investable places.",
+                "tag": "p"
+            },
+            {
+                "content": "Spatial Development Strategies were a continued theme across the conference, which present a new opportunity to embed nature recovery and climate resilience into strategic planning from the very beginning. If we fully integrate Local Nature Recovery Strategies and Green Infrastructure Standards into every SDS, we can create a planning system that drives nature recovery alongside housing delivery and economic growth. Nature and green spaces can also be incorporated into master plans for major developments such as New Towns, making it clear to developers what will be expected, and to the those who will live there what they will gain.",
+                "tag": "p"
+            },
+            {
+                "content": "The government's ambition to build 1.5 million new homes this Parliament is bold and right. Natural England is committed to helping deliver it \u2014 not as a barrier to be navigated, but as an active partner in making it happen. We \u2013planners, developers and regulators and consultees like Natural England - need to work together and be innovative and bold to make it easier, cheaper and quicker to make planning decisions, by focusing on the outcome we all want: nature rich communities that are good places to live and work. This includes trusting each other to do the best for growth and nature.",
+                "tag": "p"
+            },
+            {
+                "content": "A genuine win-win\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Leaving UKREiiF last week, I felt optimistic. Across the conference, conversations we had were characterised by a shared recognition: that nature-positive development is not a concession to environmental concern. It is a smarter, stronger, more resilient way to build.",
+                "tag": "p"
+            },
+            {
+                "content": "Nature is the backbone of healthy, prosperous, beautiful places. It delivers clean air and water, climate resilience, improved health and wellbeing \u2014 and increasingly, a competitive advantage for those willing to embrace it.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England's role is to be the partner that helps unlock that potential.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/05/28/nature-and-growth-reflections-from-ukreiif/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Marian Spain, CEO of Natural England In this blog, our Chief Executive Marian Spain reflects on her recent attendance at the UK Real Estate Investment and Infrastructure Forum and discusses the major role that nature plays in growth and \u2026"
+    },
+    {
+        "title": "Putting customers first:\u202f DVLA and\u202f CustomerFirst \u202fpartnering to improve Drivers Medical service",
+        "authors": [
+            "Daniela Wegrostek, Senior Engagement Manager, GDS"
+        ],
+        "posted_on": "2026-05-28T13:44:16",
+        "categories": [
+            "Digital, Data and Technology"
+        ],
+        "content": [
+            {
+                "content": "When CustomerFirst launched in January, we announced that DVLA was our first partner. Since then, we have been working closely with the DVLA team to understand the Drivers Medical service, its customers and how it makes licensing decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "Last month we shared our NewCo approach to transforming services. Building on that, CustomerFirst and DVLA have now formed a NewCo team that are working on improving the Drivers Medical service.",
+                "tag": "p"
+            },
+            {
+                "content": "Our team brings together people from both organisations to look at every element of Drivers Medical across policy, operations, technology, and customer experience. Our NewCo approach helps us move faster, test ideas, and scale what works while maintaining continuity for customers.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0is\u00a0Drivers Medical and why it matters\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Drivers Medical matters most at moments that can feel uncertain or stressful for people. When someone has a medical condition that could affect their ability to drive, they are legally required to notify the DVLA. For many drivers, this raises questions about what happens next, whether they can drive in the meantime and what it means for their independence, livelihood or daily life.",
+                "tag": "p"
+            },
+            {
+                "content": "The Drivers Medical service exists to support people through this process and to make fair, evidence-based licensing decisions. It considers medical information provided by customers and, where needed, by healthcare professionals, alongside clear legal and medical standards that support the safety of all road users.",
+                "tag": "p"
+            },
+            {
+                "content": "The number of people with driving licences is increasing. People are also living longer and driving later in life. This means the annual number of medical notifications DVLA receives is rising \u2013 they expect to receive about 900,000 in this financial year. These decisions can have far-reaching effects on people\u2019s lives and often come at a vulnerable time. It is vital that the service can meet growing demand and make timely, safe, and fair decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "Why DVLA and\u00a0CustomerFirst\u00a0are working together\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Drivers Medical plays a critical role in keeping people safe on the road, but the service is under increasing pressure. Growing demand has led to a high number of cases being in progress at any one time and the average waiting time for customers to receive a licensing decision consistently exceeds the target of 50 days. For people who rely on driving for work or everyday life, wait times even within that target can be difficult.",
+                "tag": "p"
+            },
+            {
+                "content": "Drivers Medical is complex. The hundreds of thousands of medical licensing decisions it makes range from straightforward to multi\u2011condition assessments. Up until recently, most conditions were only notifiable to the DVLA through paper-based forms. Customers often call DVLA to ask for updates on their application instead of being kept up to date. Many decisions also depend on information from third parties, including GPs and other medical professionals, which can delay decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "DVLA has already introduced new improvements to the service, making it more accessible for customers and simpler for staff making licensing decisions. Our NewCo team is now working to make sure the ongoing transformation delivers the best possible experience for Drivers Medical customers.",
+                "tag": "p"
+            },
+            {
+                "content": "A joined-up approach to improvement",
+                "tag": "h2"
+            },
+            {
+                "content": "DVLA\u2019s wider transformation ambition is to move away from fragmented services towards more seamless, end\u2011to\u2011end journeys that make sense from a customer\u2019s perspective. Any changes to the service must keep all road users safe. The service must be easy to use and trusted. Medical licensing decisions can be complex, and people use the service in different ways.",
+                "tag": "p"
+            },
+            {
+                "content": "Our priority is to make the Drivers Medical experience as smooth and joined-up as possible for customers and staff making licensing decisions. We will look at:",
+                "tag": "p"
+            },
+            {
+                "content": "We will take a test\u2011and\u2011learn approach, starting small to build a shared understanding of user needs and service complexity. We will then test improvements carefully before making any decisions about wider change.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Now that we have established a NewCo team, we are working quickly to improve the Drivers Medical experience, with a clear focus on improving outcomes for customers, colleagues, and road safety.",
+                "tag": "p"
+            },
+            {
+                "content": "We will do this by:",
+                "tag": "p"
+            },
+            {
+                "content": "When tests are successful, we will scale these changes.",
+                "tag": "p"
+            },
+            {
+                "content": "We will share our progress openly. You can follow our work on\u202fthe GDS blog\u202fand on\u202four campaign page.",
+                "tag": "p"
+            },
+            {
+                "content": "If you want to get in touch, email us at\u202fcustomer.first@dsit.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2026/05/28/putting-customers-first-dvla-and-customerfirst-partnering-to-improve-drivers-medical-service/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "CustomerFirst, a new unit in the Government Digital Service, is working with the Driver and Vehicle Licensing Agency (DVLA) to explore improvements to the end-to-end customer journey for the Drivers Medical service, while continuing to\u202fprioritise\u202froad safety and accessibility for everyone who needs them.\u202f"
+    },
+    {
+        "title": "Minutes published of UK NSC March 2026 meeting",
+        "authors": [
+            "Mike Harris"
+        ],
+        "posted_on": "2026-05-28T13:03:49",
+        "categories": [
+            "Adult screening",
+            "UK National Screening Committee"
+        ],
+        "content": [
+            {
+                "content": "The UK National Screening Committee (UK NSC) has published the minutes of its March 2026 meeting.",
+                "tag": "p"
+            },
+            {
+                "content": "At the meeting, committee members agreed to recommend the introduction of the UK\u2019s first prostate cancer screening programme, targeted at one specific cohort, after considering modelling evidence and the results of a 12-week public consultation.",
+                "tag": "p"
+            },
+            {
+                "content": "The updated modelling study, commissioned by the UK NSC, predicts the potential impact of various prostate cancer screening strategies, including:",
+                "tag": "p"
+            },
+            {
+                "content": "Based on the updated evidence, the UK NSC agreed a draft recommendation at its November 2025 meeting, which it then put out to public consultation. Committee members reviewed and considered nearly 1,000 responses received during the 12-week consultation. Responses came from stakeholder organisations, health professionals, academics and nearly 900 members of the public.",
+                "tag": "p"
+            },
+            {
+                "content": "Subsequently, at its March 2026 meeting, the UK NSC confirmed its updated prostate cancer screening recommendation to be:",
+                "tag": "p"
+            },
+            {
+                "content": "The committee concluded that screening is more likely to cause more harm than good in the whole population and in men with a family member who has had breast, ovarian or prostate cancer but who are without a BRCA2 variant. For Black men, there is ongoing uncertainty as to whether prostate cancer screening would cause more good than harm. The main harms of screening include incontinence and erectile dysfunction (impotence) following unnecessary biopsy or treatment.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK NSC hopes new evidence, new tests and a better understanding of prostate cancer will support recommendations on wider prostate cancer screening in future. The prostate cancer screening modelling study will remain \u2018open\u2019 so that significant new high-quality, peer-reviewed evidence can be considered for future inclusion.",
+                "tag": "p"
+            },
+            {
+                "content": "The positive recommendation for screening men with a BRCA2 gene variant is slightly more restrictive that the draft recommendation, which also included screening men with a BRCA1 variant. The change was made after discussions with geneticists using published evidence and risk which concluded that those with a BRCA1 variant are not at a sufficiently elevated risk to suggest that benefits of screening would outweigh the harms. ",
+                "tag": "p"
+            },
+            {
+                "content": "Other topics considered by the UK NSC at its March meeting included:",
+                "tag": "p"
+            },
+            {
+                "content": "1 The TRANSFORM trial is co-funded by Prostate Cancer UK and DHSC (through its research arm the NIHR). It will assess the benefits and harms of various screening strategies and evaluate whether they differ from the assumptions used in the current UK NSC model (in the whole population and in Black men specifically).",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can register to receive updates direct to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email uknsc@dhsc.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2026/05/28/minutes-published-of-uk-nsc-march-2026-meeting/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "The UK NSC has published the minutes of its March 2026 meeting, including an updated prostate cancer screening recommendation."
+    },
+    {
+        "title": "Keeping your standard industrial classification (SIC) code\u00a0accurate",
+        "authors": [
+            "Compliance and Enforcement Service"
+        ],
+        "posted_on": "2026-05-28T11:46:23",
+        "categories": [
+            "Changes to UK company law",
+            "Running a company"
+        ],
+        "content": [
+            {
+                "content": "When you register a company, one of the first things you tell\u00a0Companies House\u00a0is what your business does. You do this by selecting a standard industrial classification (SIC) code \u2013 a 5-digit code that describes your company's economic activity.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "SIC codes might seem like a minor administrative detail, but they matter more than you might think.\u00a0Under\u00a0new legislation, keeping them\u00a0accurate\u00a0is now more important than ever.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Even if your company is dormant (99999) or non-trading (74990), you still need to supply a SIC code. But if you\u2019re actively trading, it's essential that your code reflects this. Using a dormant or non-trading code for an active company is one of the most common discrepancies we see, and one that's likely to attract scrutiny under our new powers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why accurate SIC codes matter",
+                "tag": "h2"
+            },
+            {
+                "content": "Your SIC code\u00a0is a\u00a0part of how your company presents itself to the world. When a potential investor searches for your company, or a lender reviews your application, your SIC code helps them understand what you do and if\u00a0you're\u00a0the right fit for what\u00a0they're\u00a0offering.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If your code\u00a0does not\u00a0match your actual activity, for example\u00a0you're\u00a0actively trading but still showing as dormant (99999) or non-trading (74990), it can create confusion, raise questions, and in some cases actively work against you. Lenders and funding bodies use SIC codes to assess eligibility, and a mismatch can be enough to cause delays or complications in an application.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Getting it right means your company is accurately represented, and that the right opportunities can find you.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond your individual business, SIC codes feed into data used by government bodies including Companies House, HMRC and the Office for National Statistics. This data helps track industry trends, informs policy, and provides\u00a0an indication\u00a0of the strength of the UK economy.\u00a0When SIC codes are\u00a0accurate\u00a0across the register, that picture becomes more reliable, and sectors are better supported as a result.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "New powers under the Economic Crime and Corporate Transparency Act",
+                "tag": "h2"
+            },
+            {
+                "content": "The Economic Crime and Corporate Transparency Act\u00a0has introduced stronger requirements for all information\u00a0on the Companies House register to be\u00a0accurate. This applies to SIC codes just as it does to any other information you file with us.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Under these new powers,\u00a0Companies House\u00a0can challenge,\u00a0reject\u00a0or remove information that appears incorrect,\u00a0inconsistent\u00a0or misleading. If your SIC code\u00a0does not\u00a0reflect your company's actual activity, you may experience filing rejections or delays while discrepancies are investigated.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This means\u00a0it's\u00a0no longer enough to set a SIC code when you incorporate and leave it unchanged. You must make sure it continues to reflect what your company\u00a0actually does.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Choosing the right SIC code",
+                "tag": "h2"
+            },
+            {
+                "content": "There are\u00a0more\u00a0than\u00a0600\u00a0SIC codes to choose from, divided into 21 main industry categories. You can\u00a0find the right code for your company using our condensed list of SIC codes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You must provide at least one code, and you can select up to\u00a04\u00a0if your company carries out a range of different activities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If\u00a0you're\u00a0not sure which code applies to you, it can help to search the\u00a0Find and update company information service\u00a0for companies offering similar services. For example, a coffee shop that also sells records might find it useful to look up how similar businesses have described their activities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Three questions to ask yourself now\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "It's\u00a0worth taking a moment to consider:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can check your\u00a0current SIC code on the Find and update company information service.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to update your SIC code\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "If you need to\u00a0update your SIC code, file a confirmation statement.\u00a0You\u00a0only pay the annual fee\u00a0for a confirmation statement\u00a0once within any 12-month payment period.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping your SIC code\u00a0up to date\u00a0is part of your wider responsibility as a company director to\u00a0maintain\u00a0accurate\u00a0information on the register.\u00a0Our directors' toolkit\u00a0has useful links and tools to help you understand your legal responsibilities.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://companieshouse.blog.gov.uk/2026/05/28/keeping-your-standard-industrial-classification-sic-code-accurate/",
+        "blog": "Companies House",
+        "blog_link": "https://companieshouse.blog.gov.uk",
+        "description": "Your standard industrial classification (SIC) code must accurately reflect your business activity. Find out why it matters and how to check and update your company\u2019s SIC code."
+    },
+    {
+        "title": "Capital Grants 2026: guidance now available",
+        "authors": [
+            "Sarah Blatchford"
+        ],
+        "posted_on": "2026-05-28T11:36:30",
+        "categories": [
+            "Grants"
+        ],
+        "content": [
+            {
+                "content": "Guidance for the\u00a02026 Capital Grants offer is now available\u00a0on\u00a0GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Capital Grants 2026 manual consists of:",
+                "tag": "p"
+            },
+            {
+                "content": "A total of \u00a3225 million will be invested through Capital Grants\u00a0this year\u00a0to help farmers\u00a0and\u00a0land\u00a0managers carry\u00a0out environmental improvements across England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applications open in July, with funding available for a variety of\u00a0capital items\u00a0to support\u00a0hedgerow and tree planting,\u00a0restore\u00a0boundaries, improve\u00a0natural flood management, and\u00a0support better\u00a0air and\u00a0water quality.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The available items will continue to be organised into the same 6 groups as last year\u2019s offer:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Funding limits will continue to apply to 4 of these groups:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applications can include items from these groups up to the relevant funding limit, alongside items from the assessments\u00a0and\u00a0improvements groups.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the same way as last year\u2019s offer, you can\u00a0submit\u00a0one\u00a0eligible\u00a0application for each Single Business Identifier (SBI) you manage.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Demand for last year\u2019s offer was\u00a0very high, and we expect strong interest again this year.",
+                "tag": "p"
+            },
+            {
+                "content": "Capital Grants have already delivered important benefits for the environment, nature\u00a0recovery\u00a0and farming\u00a0practices\u00a0across England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last year\u2019s offer committed funding for more than 1,200km of new hedgerows, creating valuable habitats for birds and pollinators.",
+                "tag": "p"
+            },
+            {
+                "content": "It also supported the renewal of more than 800 concrete yards, helping improve slurry and effluent management and reduce pollution entering watercourses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Changes\u00a0to some items\u00a0for 2026\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This year, the agroforestry items and the woodland condition assessment will not be available through Capital Grants. They will instead be available later this year through the Higher Tier Capital Grants offer. ",
+                "tag": "p"
+            },
+            {
+                "content": "You can find a list of the items included in this year\u2019s Capital Grants offer in section 5.2 of the applicant\u2019s guidance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One item has been withdrawn: TE6: Tree guard (tube and mesh). For 2026, this has been replaced by\u00a0a new item, TE19: Tree guard (narrow weld mesh).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve\u00a0also updated the names and specifications for tree guard items TE7 and TE8.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In my last post,\u00a0I set out how farmers and land managers can start preparing for the 2026 Capital Grants offer.",
+                "tag": "p"
+            },
+            {
+                "content": "I explained why we are asking for more supporting evidence at the start of the application process this year.",
+                "tag": "p"
+            },
+            {
+                "content": "In 2025, many applications were incomplete, which caused delays and meant some applications were rejected. We therefore ask applicants to provide their supporting evidence together with their application.",
+                "tag": "p"
+            },
+            {
+                "content": "I also explained what applicants can do now to prepare. This includes completing previous claims, checking business and land details, making sure maps are accurate, and preparing financial evidence if applying for more than \u00a350,000.",
+                "tag": "p"
+            },
+            {
+                "content": "The post also covered the support available through\u00a0Catchment Sensitive Farming\u00a0ahead of the 2026 round, requirements for tenant farmers, and the\u00a0additional\u00a0evidence needed for some items, such as consents for historic or archaeological features.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Do please give it a read.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ll\u00a0blog again\u00a0in July\u00a0when\u00a0it\u2019s\u00a0time to apply, so make sure to\u00a0subscribe to the Farming Blog.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once the offer opens,\u00a0we\u2019ll\u00a0also\u00a0provide updates on the blog when 25%, 50% and 75% of the available funding has been\u00a0allocated.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By\u00a0subscribing,\u00a0you\u2019ll\u00a0receive a notification as soon as we publish a new post.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/05/28/capital-grants-2026-guidance-now-available/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Guidance for the 2026 Capital Grants offer is now available on GOV.UK. Capital Grants help farmers and land managers pay for environmental improvements that support food production, improve water and air quality, support nature, and help farms become more resilient."
+    },
+    {
+        "title": "UK\u2013Norway collaboration enables vital offshore energy operations",
+        "authors": [
+            "Jonathan Beal"
+        ],
+        "posted_on": "2026-05-28T10:24:52",
+        "categories": [
+            "UK Technical Maritime Services"
+        ],
+        "content": [
+            {
+                "content": "Working alongside international partners, the Maritime and Coastguard Agency (MCA) has enabled the operation of an Unmanned Surface Vessel (USV) carrying out critical offshore inspection work in UK waters.",
+                "tag": "p"
+            },
+            {
+                "content": "The Maritime and Coastguard Agency (MCA) recently worked closely with counterparts in the Norwegian Maritime Authority (NMA) to identify a regulatory pathway for the operation of a Norwegian Unmanned Surface Vessel (USV) in UK waters.",
+                "tag": "p"
+            },
+            {
+                "content": "24-metre vessel Unmanned Surface Vessel Reach Remote 1 has been certified by Norway\u2019s NMA and is taking part in vital inspection work; inspecting offshore gas infrastructure between the UK and Norway.\u00a0 Operated by Norwegian company Reach Subsea AS, the fully autonomous vessel highlights the increased use of Maritime Autonomous Surface Ships (MASS) in offshore operations.",
+                "tag": "p"
+            },
+            {
+                "content": "Certified using internationally recognised principles as set out under the International Maritime Organization\u2019s MSC.1/Circ. 1455, which was closely aligned to MCA guidance under Marine Guidance Note (MGN) 664. This avoided unnecessary duplication of checks and streamlined the approval process, while maintaining confidence in both safety and compliance.",
+                "tag": "p"
+            },
+            {
+                "content": "Independent verification was carried out by Det Norske Veritas (DNV), which conducted surveys and provided assurance against established standards. The MCA was then able to promptly accept certification and be assured of safe operation in UK waters.",
+                "tag": "p"
+            },
+            {
+                "content": "MCA Assistant Director of Technical Operations Prasad Panicker said: ",
+                "tag": "p"
+            },
+            {
+                "content": "Reach Remote Vice President Bj\u00f8rg D\u00f8ving said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Managing Director\u00a0of Reach\u00a0Subsea UK Alastair McKee said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The use of uncrewed and autonomous vessels presents a rapidly emerging technological space and developing regulatory landscape, but with effective communication and early identification, maritime agencies and regulators like the MCA can provide swift support and certification.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidemca.blog.gov.uk/2026/05/28/uk-norway-collaboration-enables-vital-offshore-energy-operations/",
+        "blog": "Inside MCA",
+        "blog_link": "https://insidemca.blog.gov.uk",
+        "description": "Working alongside international partners, the Maritime and Coastguard Agency (MCA) has enabled the operation of an Unmanned Surface Vessel (USV) carrying out critical offshore inspection work in UK waters. The Maritime and Coastguard Agency (MCA) recently worked closely with counterparts \u2026"
+    },
+    {
+        "title": "Working together to tackle fakes: how Vinted and government are strengthening trust online",
+        "authors": [
+            "Kelsey Jones"
+        ],
+        "posted_on": "2026-05-28T10:00:00",
+        "categories": [
+            "Business",
+            "Enforcement"
+        ],
+        "content": [
+            {
+                "content": "Online shopping has more than doubled its share of UK retail over the past 10 years, and unsurprisingly criminals have taken full advantage of this by selling counterfeit products digitally.",
+                "tag": "p"
+            },
+            {
+                "content": "Between government, law enforcement, regulators and businesses, we need to work together to share evidence and best practices, address both supply and demand, and ensure the right provisions are in place to protect consumers from criminals.",
+                "tag": "p"
+            },
+            {
+                "content": "Collaboration is key to fighting IP Crime and infringement. And\u00a0our\u00a0work\u00a0alongside online platforms\u00a0is\u00a0central to this preventative approach. We have\u00a0continued to develop\u00a0our\u00a0relationship with partners\u00a0like\u00a0Vinted,\u00a0along with\u00a0other\u00a0e-commerce platforms,\u00a0who we\u00a0work with to\u00a0share best practise on\u00a0effective\u00a0tools\u00a0and\u00a0processes to detect and prevent\u00a0the\u00a0online\u00a0sale of\u00a0counterfeit\u00a0goods\u00a0and\u00a0thereby protecting\u00a0consumers and UK businesses\u00a0from harm.",
+                "tag": "p"
+            },
+            {
+                "content": "This month, the Intellectual Property Office (IPO) has launched \u2018Second Hand, Not Second Best\u2019 a campaign highlighting the benefits of shopping second hand, and why choosing pre-loved goods offers an affordable and sustainable alternative to buying fakes. As shoppers look to save money, it\u2019s even more important to highlight second-hand marketplaces as a practical solution, offering consumers access to genuine,\u00a0high quality\u00a0products at lower cost.",
+                "tag": "p"
+            },
+            {
+                "content": "In recent years, the second-hand market has grown significantly, with clear benefits:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Second-hand\u00a0is no longer niche \u2013\u00a0platforms such as Vinted, Depop, Gumtree, Preloved\u00a0reach tens of millions of UK consumers.\u00a0However, consumer confidence depends on trust in the quality and authenticity of items, and in the protections offered by marketplaces.",
+                "tag": "p"
+            },
+            {
+                "content": "That is why we are partnering with Vinted to help strengthen trust in second-hand shopping.",
+                "tag": "p"
+            },
+            {
+                "content": "Our partnership with Vinted to support second-hand shopping\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Vinted is one of Europe\u2019s leading marketplaces, enabling people to buy and sell fashion and all kinds of household items, with millions of members across the UK. Our work together is an example of how government and e-commerce platforms can collaborate to tackle counterfeiting at scale.",
+                "tag": "p"
+            },
+            {
+                "content": "As a community-driven marketplace, Vinted places trust at the centre of how people buy and sell. This is essential in enabling confident trading between its members.\u00a0That\u2019s\u00a0why we work closely together\u00a0- combining\u00a0platform expertise with government insight\u00a0\u2013 to\u00a0help prevent counterfeit listings, improve the quality of product information, and make it easier for\u00a0users to buy and sell legitimately.",
+                "tag": "p"
+            },
+            {
+                "content": "This partnership has led to\u00a0IPO and Vinted to creating\u00a0clear, public- facing guidance for both buyers and sellers, alongside ongoing policy engagement to ensure anti-counterfeiting measures continue to evolve in line with emerging threats",
+                "tag": "p"
+            },
+            {
+                "content": "We understand why, with budgets being stretched, consumers are looking for\u00a0the\u00a0best\u00a0bargains.\u00a0Second-hand shopping offers a cost-effective option for buying legitimate, rather than buying counterfeits. The quality is better; the money is passing through legitimate businesses who are paying taxes and the items are sustainable and hold their value.",
+                "tag": "p"
+            },
+            {
+                "content": "This latest guidance sits alongside our ongoing policy work with Vinted to share insight on emerging risks, exchange best practice, and support the design of systems that make it harder for criminals to\u00a0operate\u00a0and easier for people to shop with confidence. This supports trust in what people see online and makes it easier to choose legitimate second-hand alternatives over counterfeit goods",
+                "tag": "p"
+            },
+            {
+                "content": "Working together\u00a0remains\u00a0essential",
+                "tag": "h3"
+            },
+            {
+                "content": "Behind the scenes, our policy teams work closely with\u00a0e-commerce\u00a0platforms\u00a0as well as IP rights holders to\u00a0better understand the challenges around enforcement against IP rights infringements on online marketplaces,\u00a0strengthen\u00a0platform tools and processes to detect and prevent\u00a0the\u00a0sale of counterfeit goods, and\u00a0identify and promote industry best practice\u00a0in the UK\u00a0and internationally.\u00a0Through regular engagement, we\u00a0aim to\u00a0make it harder for criminals to\u00a0operate,\u00a0and easier for consumers to shop with confidence\u00a0on online marketplaces.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside our efforts, we aim for\u00a0this\u00a0new\u00a0guidance\u00a0to build trust in recommerce platforms like Vinted, which combat counterfeiting, and promote second-hand shopping as a top choice for budget-conscious consumers",
+                "tag": "p"
+            },
+            {
+                "content": "We encourage e\u2011commerce platforms, rights holders and enforcement partners to continue engaging with the IPO to share insight, strengthen safeguards and build consistent, effective approaches to tackling counterfeiting online. By collaborating early and openly, we can make it harder for criminals to\u00a0operate\u00a0and easier for consumers to shop with confidence.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2026/05/28/working-together-to-tackle-fakes-how-vinted-and-government-are-strengthening-trust-online/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "This month, the Intellectual Property Office (IPO) has launched \u2018Second Hand, Not Second Best\u2019 a campaign highlighting the benefits of shopping second hand, and why choosing pre-loved goods offers an affordable and sustainable alternative to buying fakes."
+    },
+    {
+        "title": "Food Fact Check: Feed\u00a0additives\u00a0and our health",
+        "authors": [
+            "Kate Shield, Head of Animal Feed Policy"
+        ],
+        "posted_on": "2026-05-28T09:57:39",
+        "categories": [
+            "Food Fact Check",
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "The additives that are fed to\u00a0animals which\u00a0later become our food,\u00a0like\u00a0meat,\u00a0milk\u00a0and eggs\u00a0aren\u2019t\u00a0as high profile as food\u00a0additives. But they\u00a0play an\u00a0important part of\u00a0the food\u00a0we eat.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Feed additives are ingredients added to animal feed to improve its quality, support animal health, and enhance the safety or nutritional quality of animal-derived foods - like milk,\u00a0meat\u00a0and eggs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Food Standards Agency (FSA)\u00a0see lots of questions about\u00a0whether feed additives are\u00a0safe if they are\u00a0present in the food we eat,\u00a0and\u00a0whether they\u00a0are\u00a0safe for animals and\u00a0for those working with animals.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Food Fact Check\u2019\u00a0is\u00a0the\u00a0FSA\u2019s\u00a0new service to give clear in-depth answers to the questions\u00a0you\u2019ve\u00a0been asking to help you check the facts behind claims\u00a0you\u2019ve\u00a0seen online.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u00a0we\u00a0answer\u00a0some of the questions being asked about\u00a0feed\u00a0additives\u00a0and how they relate to\u00a0our food.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are feed additives and why are they\u00a0fed\u00a0to animals?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Feed additives\u00a0include vitamins, minerals, enzymes,\u00a0essential oils,\u00a0microorganisms\u00a0and other compounds. They\u00a0can\u00a0help animals digest food, absorb\u00a0nutrients\u00a0and stay healthy. ",
+                "tag": "p"
+            },
+            {
+                "content": "Some additives\u00a0can\u00a0also make farming more sustainable by reducing waste or greenhouse gas emissions. Others improve the quality of the feed itself, ensuring animals receive better nutrition.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are meat, eggs\u00a0and dairy from animals\u00a0that have consumed\u00a0feed additives safe\u00a0to eat?\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Yes.\u00a0Meat,\u00a0eggs\u00a0and dairy products from animals fed\u00a0authorised\u00a0feed additives are safe to eat.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In Great Britain, the\u202fFSA, together with independent experts\u00a0on the\u00a0Advisory Committee on Animal Feedingstuffs, reviews\u202fscientific evidence and only authorises\u00a0additives that meet strict safety criteria.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You\u202fcan find out\u00a0which\u00a0feed additives are authorised for use in animal feed by visiting our GB Register of Authorised Feed Additives.\u202fFor\u00a0Northern Ireland, for can find a list\u00a0of approved additives\u00a0on the\u00a0EU\u2019s website.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are feed additives fed to animals still present in the food we eat?\u202f\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Most feed additives - including vitamins, minerals, enzymes,\u00a0probiotics\u00a0and methane-reducing compounds - are designed to act only within the animal\u2019s digestive\u00a0and metabolic\u00a0system. They are metabolised or broken down before slaughter or milking and\u00a0don\u2019t\u202fremain\u202fin meat,\u00a0eggs\u00a0or milk by the time we eat it.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In some cases, traces of additives can remain in food but are only\u00a0permitted\u00a0in\u00a0very small\u00a0amounts\u00a0where they have been proven to be safe to consume. These limits (Maximum\u202fResidue Limits) are set under UK food safety laws.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What tests are done to ensure feed additives are safe?\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Before any feed additive is authorised,\u00a0the FSA conducts\u00a0a rigorous safety assessment\u00a0to ensure it is\u00a0safe for humans, animals, handlers (such as farmers) and\u00a0that it\u00a0does not damage the environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The assessment goes\u00a0far beyond surface-level tests.\u00a0In some cases, the additive\u00a0is analysed\u00a0all the way down to its DNA\u00a0through a process called genome sequencing, which is\u00a0one of the\u00a0most precise ways\u00a0to confirm its safety.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Companies wanting to bring a new feed additive to market must arrange for independent laboratories to conduct multiple tests\u00a0to understand\u00a0levels of\u00a0toxicity, carcinogenicity\u00a0-\u00a0whether it could cause cancer\u00a0-\u00a0and\u00a0effects on reproductive systems\u00a0in the short and long term.\u00a0These tests are sometimes conducted at twice the recommend dose of an additive\u00a0to make sure it is\u00a0absolutely safe.\u00a0An additive will not be authorised\u00a0if\u00a0it fails any of these tests.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How are animal feeds\u00a0monitored\u00a0to ensure they are safe\u00a0in the food we eat?\u00a0What happens if\u202fthere\u2019s\u202fa safety concern?\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Once\u00a0an animal feed\u00a0additive\u00a0is\u00a0authorised,\u00a0it\u00a0is\u00a0carefully\u202fmonitored\u202fand controlled.\u202fIf any feed\u00a0is\u00a0identified as unsafe,\u00a0it is removed from\u00a0use,\u00a0and\u00a0the FSA investigates what\u00a0impact\u00a0it\u00a0has\u00a0had\u00a0on food safety. ",
+                "tag": "p"
+            },
+            {
+                "content": "If\u00a0there are any concerns,\u00a0the\u00a0affected\u00a0products\u00a0will be\u00a0taken off the market\u00a0and, if\u00a0required, an\u00a0alert will be issued by the FSA to\u00a0inform\u00a0the public.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Businesses\u00a0must\u00a0keep\u00a0detailed records\u00a0of distribution so\u00a0affected\u00a0batches can be traced\u00a0across the\u00a0feed and\u00a0food chain.\u00a0Food\u00a0or feed\u00a0safety breaches can lead to fines or prosecution.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are growth hormones used in feed?\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The use of\u00a0growth\u00a0hormones\u00a0in animal feed in the UK\u00a0has\u00a0been banned since 1988,\u202fand imports of hormone-treated meat are also prohibited.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Some countries do allow\u00a0the\u00a0use of growth hormones,\u00a0like the USA. All meat coming into the UK from abroad requires\u00a0certification and\u00a0is\u00a0subject to checks at the border\u00a0to ensure\u00a0all meat available to\u00a0buy in\u00a0the UK meets our\u00a0standards.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are antibiotics used in feed?\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Antibiotics\u00a0in feed\u202fhave been\u202fbanned since\u00a02006.\u202fAntibiotics are\u00a0only allowed\u00a0in feed\u00a0to treat sick animals\u00a0under veterinary prescription\u00a0to\u00a0address medical concerns.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Antibiotic use in\u00a0UK\u00a0livestock has fallen\u202fnearly 60% since 2014\u00a0thanks to concerted efforts\u00a0to tackle antimicrobial resistance (AMR) which can occur when antibiotics are overused.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Do feed additives harm animal welfare?\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "No.\u00a0A feed additive will only be authorised by the FSA if it\u00a0is\u00a0safe for animals to eat. These additives must provide a clear benefit such as\u00a0to\u00a0support better digestion or nutrient absorption.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Feed additives can\u00a0help improve\u00a0the\u00a0nutrition\u00a0of livestock, reduce disease\u00a0risk\u00a0and promote overall well-being.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Does the widespread use of\u00a0feed additives\u00a0harm the natural\u00a0environment?\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Manufacturers\u00a0of feed additives\u00a0must\u00a0demonstrate\u00a0that there\u00a0is\u00a0minimal\u00a0impact\u00a0to the environment.\u00a0The\u00a0includes\u00a0showing\u00a0how long the additive\u00a0takes\u00a0to break\u00a0down\u00a0in the natural environment\u00a0and whether it could affect soil,\u00a0water\u00a0or wildlife.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There is potential for\u00a0some feed additives to\u00a0make\u00a0food\u00a0more sustainable.\u00a0They\u00a0can\u00a0improve animal digestion and nutrient absorption,\u00a0reducing\u00a0waste and\u00a0feed run-off which can\u00a0pollute\u00a0soil and waterways. Some\u00a0new\u00a0additives also help reduce greenhouse gas emissions.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are feed additives shown on food labels?\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "No.\u00a0Feed additives are not\u00a0required by law to be\u00a0shown on food\u00a0labels,\u00a0but some businesses\u00a0may choose to.",
+                "tag": "p"
+            },
+            {
+                "content": "Labelling is not\u00a0required\u00a0because\u00a0feed additives\u00a0do not leave\u00a0significant traces\u00a0in meat,\u202fmilk\u202for eggs, and\u00a0this\u00a0is checked as part of the authorisation process\u00a0before additives are allowed on the market.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "You\u202fcan find out\u00a0which\u00a0feed additives are authorised for use in animal feed by visiting our\u202fGB Register of Authorised Feed Additives\u202for the\u00a0EU list\u00a0for Northern Ireland.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Does organic\u00a0labelling mean no feed additives were used?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "No.\u00a0Seeing \u2018organic\u2019 on a food label does not mean\u202fno\u202ffeed additives were used.",
+                "tag": "p"
+            },
+            {
+                "content": "Organic standards\u00a0allow certain natural or specifically authorised additives to support animal health and nutrition, but synthetic or chemically processed additives are banned.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How do\u00a0our\u00a0rules compare internationally?\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Feed additive rules\u00a0in\u00a0the UK\u00a0are among the strictest\u00a0in the world. They are closely aligned with EU regulations and\u00a0designed to protect animal welfare, the environment and consumer safety.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Imported food and feed\u00a0products into the UK must meet\u00a0the\u00a0FSA\u2019s requirements.",
+                "tag": "p"
+            },
+            {
+                "content": "O\u2019u cymharu ag ychwanegion bwyd i bobl, nid oes cymaint o sylw i\u2019r ychwanegion sy\u2019n cael eu bwydo i\u2019r anifeiliaid sydd wedyn yn dod yn fwyd i ni \u2013 fel cig, llaeth ac wyau. Ond mae ychwanegion bwyd anifeiliaid yn chwarae rhan bwysig yn y bwyd rydyn ni\u2019n ei fwyta.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae ychwanegion bwyd anifeiliaid yn gynhwysion sy\u2019n cael eu hychwanegu at fwyd anifeiliaid i wella ei ansawdd, i gefnogi iechyd anifeiliaid, ac i wella diogelwch neu nodwedd faethol bwydydd sy\u2019n deillio o anifeiliaid \u2013 fel cig, llaeth ac wyau.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r Asiantaeth Safonau Bwyd (ASB) yn gweld llawer o gwestiynau ynghylch a yw ychwanegion bwyd anifeiliaid yn ddiogel os ydyn nhw\u2019n bresennol yn y bwyd rydyn ni\u2019n ei fwyta, ac a ydyn nhw\u2019n ddiogel i anifeiliaid ac i\u2019r rhai sy\u2019n gweithio gydag anifeiliaid.",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Y Gwir am Fwyd\u2019 yw gwasanaeth newydd yr ASB i roi atebion clir a manwl i\u2019r cwestiynau rydych chi wedi bod yn eu gofyn i\u2019ch helpu i wirio\u2019r ffeithiau y tu \u00f4l i honiadau rydych chi wedi\u2019u gweld ar-lein.",
+                "tag": "p"
+            },
+            {
+                "content": "Yma mae\u2019r ASB yn ateb rhai o\u2019r cwestiynau sy\u2019n cael eu gofyn ynghylch ychwanegion bwyd anifeiliaid a sut maen nhw\u2019n berthnasol i\u2019n bwyd ni.",
+                "tag": "p"
+            },
+            {
+                "content": "Beth yw ychwanegion bwyd anifeiliaid a pham maen nhw\u2019n cael eu bwydo i anifeiliaid?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae ychwanegion bwyd anifeiliaid yn cynnwys fitaminau, mwynau, ensymau, olewau hanfodol, micro-organebau a chyfansoddion eraill. Gallan nhw helpu anifeiliaid i dreulio bwyd, i amsugno maethynnau ac i aros yn iach. ",
+                "tag": "p"
+            },
+            {
+                "content": "Gall rhai ychwanegion hefyd wneud ffermio\u2019n fwy cynaliadwy drwy leihau gwastraff neu allyriadau nwyon t\u0177 gwydr. Mae eraill yn gwella ansawdd y bwyd anifeiliaid ei hun, gan sicrhau bod anifeiliaid yn derbyn maethiad gwell.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw cig, wyau a chynnyrch llaeth o anifeiliaid sydd wedi bwyta ychwanegion bwyd anifeiliaid yn ddiogel i\u2019w bwyta?",
+                "tag": "h2"
+            },
+            {
+                "content": "Ydyn. Mae cig, wyau a chynhyrchion llaeth o anifeiliaid sy\u2019n cael eu bwydo ag ychwanegion bwyd awdurdodedig yn ddiogel i\u2019w bwyta. ",
+                "tag": "p"
+            },
+            {
+                "content": "Ym Mhrydain Fawr, mae\u2019r ASB, ynghyd ag arbenigwyr annibynnol ar y Pwyllgor Cynghori ar Fwyd Anifeiliaid, yn adolygu tystiolaeth wyddonol ac yn awdurdodi dim ond yr ychwanegion hynny sy\u2019n bodloni meini prawf diogelwch llym.",
+                "tag": "p"
+            },
+            {
+                "content": "Gallwch chi ddysgu pa ychwanegion bwyd anifeiliaid sydd wedi\u2019u hawdurdodi i\u2019w defnyddio mewn bwyd anifeiliaid drwy edrych ar Gofrestr Ychwanegion Bwyd Anifeiliaid Awdurdodedig Prydain Fawr yr Asiantaeth Safonau Bwyd. Ar gyfer Gogledd Iwerddon, gallwch chi ddod o hyd i restr o ychwanegion cymeradwy ar wefan yr UE.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw ychwanegion bwyd anifeiliaid sy\u2019n cael eu bwydo i anifeiliaid yn dal i fod yn bresennol yn y bwyd rydyn ni\u2019n ei fwyta?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae\u2019r rhan fwyaf o ychwanegion bwyd anifeiliaid \u2013 gan gynnwys fitaminau, mwynau, ensymau, profiotigau a chyfansoddion sy\u2019n lleihau methan \u2013 wedi\u2019u cynllunio i weithredu o fewn system dreulio a metabolaidd yr anifail yn unig. Maen nhw\u2019n cael eu metaboleiddio neu eu torri i lawr cyn godro neu ladd yr anifail, ac nid ydyn nhw\u2019n aros mewn cig, wyau na llaeth erbyn i ni fwyta\u2019r rhain.",
+                "tag": "p"
+            },
+            {
+                "content": "Mewn rhai achosion, caiff y mymryn lleiaf o ychwanegion aros mewn bwyd, ond dim ond os profwyd eu bod yn ddiogel i bobl eu bwyta. Mae\u2019r terfynau hyn (Terfynau Gweddillion Uchaf) wedi\u2019u gosod o dan gyfreithiau diogelwch bwyd y DU.",
+                "tag": "p"
+            },
+            {
+                "content": "Pa brofion sy\u2019n cael eu cynnal i sicrhau bod ychwanegion bwyd anifeiliaid yn ddiogel?",
+                "tag": "h2"
+            },
+            {
+                "content": "Cyn awdurdodi unrhyw ychwanegyn bwyd anifeiliaid, mae\u2019r ASB yn cynnal asesiad diogelwch trylwyr i sicrhau ei fod yn ddiogel i bobl, anifeiliaid a\u2019r sawl sy\u2019n eu trin (fel ffermwyr), ac nad yw\u2019n achosi niwed i\u2019r amgylchedd. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r asesiad yn mynd ymhell y tu hwnt i brofion arwynebol. Mewn rhai achosion, caiff yr ychwanegyn ei ddadansoddi hyd at ei DNA trwy broses o\u2019r enw dilyniannu genom, sef un o\u2019r ffyrdd mwyaf manwl gywir o gadarnhau ei ddiogelwch.",
+                "tag": "p"
+            },
+            {
+                "content": "Rhaid i gwmn\u00efau sydd am ddod ag ychwanegyn bwyd anifeiliaid newydd i\u2019r farchnad drefnu i labordai annibynnol gynnal nifer o brofion i ddeall lefelau gwenwyndra, carsinogenigrwydd \u2013 hynny yw, p\u2019un a allai achosi canser ai peidio \u2013 ac effeithiau ar systemau atgenhedlu yn y tymor byr a\u2019r tymor hir. Weithiau mae ychwanegyn yn cael ei brofi gan ddefnyddio dwywaith y ddos a argymhellir, i wneud yn si\u0175r ei fod yn gwbl ddiogel. Ni fydd ychwanegyn yn cael ei awdurdodi os bydd yn methu unrhyw un o\u2019r profion hyn.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae ychwanegion bwyd anifeiliaid yn cael eu monitro i sicrhau eu bod yn ddiogel yn y bwyd rydyn ni\u2019n ei fwyta? Beth sy\u2019n digwydd os oes pryder diogelwch?",
+                "tag": "h2"
+            },
+            {
+                "content": "Unwaith y bydd ychwanegyn bwyd anifeiliaid wedi\u2019i awdurdodi, caiff ei fonitro a\u2019i reoli\u2019n ofalus. Os caiff unrhyw fwyd anifeiliaid ei nodi\u2019n anniogel, caiff ei dynnu\u2019n \u00f4l, a bydd yr ASB yn ymchwilio i\u2019r effaith y mae wedi\u2019i chael ar ddiogelwch bwyd i bobl. ",
+                "tag": "p"
+            },
+            {
+                "content": "Os oes unrhyw bryderon, bydd y cynhyrchion dan sylw\u2019n cael eu tynnu oddi ar y farchnad ac, os oes angen, bydd yr ASB yn cyhoeddi rhybudd i roi gwybod i\u2019r cyhoedd.",
+                "tag": "p"
+            },
+            {
+                "content": "Rhaid i fusnesau gadw cofnodion dosbarthu manwl, fel bod y sypiau yr effeithir arnyn nhw\u2019n gallu cael eu holrhain ar draws y gadwyn bwyd a bwyd anifeiliaid. Gall torri rheolau diogelwch bwyd neu fwyd anifeiliaid arwain at ddirwyon neu erlyniad.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw hormonau twf yn cael eu defnyddio mewn bwyd anifeiliaid?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae defnyddio hormonau twf mewn bwyd anifeiliaid yn y DU wedi\u2019i wahardd ers 1988, ac mae mewnforio cig sydd wedi\u2019i drin \u00e2 hormonau hefyd wedi\u2019i wahardd. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae rhai gwledydd yn caniat\u00e1u defnyddio hormonau twf, fel Unol Daleithiau America. Mae angen ardystio\u2019r holl gig sy\u2019n dod i\u2019r DU o dramor, ac mae\u2019n destun gwiriadau wrth y ffin i sicrhau bod unrhyw gig sydd ar gael i\u2019w brynu yn y DU yn bodloni ein safonau.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw gwrthfiotigau\u2019n cael eu defnyddio mewn bwyd anifeiliaid?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae gwrthfiotigau mewn bwyd anifeiliaid wedi\u2019u gwahardd ers 2006. Yr unig adeg mae gwrthfiotigau\u2019n gallu cael eu cynnwys mewn bwyd anifeiliaid yw er mwyn trin anifeiliaid s\u00e2l a mynd i\u2019r afael \u00e2 phryderon meddygol, a hynny drwy bresgripsiwn milfeddygol. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r defnydd o wrthfiotigau mewn da byw yn y DU wedi gostwng bron i 60% ers 2014, diolch i ymdrechion ar y cyd i fynd i\u2019r afael ag ymwrthedd gwrthficrobaidd a all ddigwydd pan gaiff gwrthfiotigau eu gorddefnyddio.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw ychwanegion bwyd anifeiliaid yn niweidio lles anifeiliaid?",
+                "tag": "h2"
+            },
+            {
+                "content": "Nac ydyn. Ni fydd yr ASB yn awdurdodi ychwanegion bwyd anifeiliaid oni bai eu bod yn ddiogel i anifeiliaid eu bwyta. Rhaid i\u2019r ychwanegion hyn roi budd clir, fel gwella prosesau treulio neu amsugno maethynnau. ",
+                "tag": "p"
+            },
+            {
+                "content": "Gall ychwanegion bwyd anifeiliaid helpu i wella maethiad da byw, lleihau\u2019r risg o glefydau, a hyrwyddo lles cyffredinol.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw\u2019r defnydd eang o ychwanegion bwyd anifeiliaid yn niweidio\u2019r amgylchedd naturiol?",
+                "tag": "h2"
+            },
+            {
+                "content": "Rhaid i weithgynhyrchwyr ychwanegion bwyd anifeiliaid ddangos bod yr effaith amgylcheddol yn fach iawn iawn. Mae hyn yn cynnwys egluro faint o amser y mae\u2019n ei gymryd i\u2019r ychwanegyn dorri i lawr yn yr amgylchedd naturiol, a dangos a allai\u2019r ychwanegyn effeithio ar bridd, d\u0175r neu fywyd gwyllt.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019n bosib y gallai rhai ychwanegion bwyd anifeiliaid wneud bwyd yn fwy cynaliadwy. Gallan nhw wella system dreulio\u2019r anifail a\u2019r broses o amsugno maethynnau, gan leihau gwastraff a d\u0175r ffo (\u2018run-off\u2019) bwyd anifeiliaid a all lygru pridd a dyfrffyrdd. Mae rhai ychwanegion newydd hefyd yn helpu i leihau allyriadau nwyon t\u0177 gwydr.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw ychwanegion bwyd anifeiliaid yn cael eu nodi ar labeli bwyd? ",
+                "tag": "h2"
+            },
+            {
+                "content": "Nac ydyn. Nid yw\u2019n ofynnol yn \u00f4l y gyfraith i ychwanegion bwyd anifeiliaid gael eu nodi ar labeli bwyd, ond efallai bydd rhai busnesau\u2019n dewis gwneud hynny. ",
+                "tag": "p"
+            },
+            {
+                "content": "Nid oes angen labelu ychwanegion bwyd anifeiliaid gan nad ydyn nhw\u2019n gadael olion sylweddol mewn cig, llaeth nac wyau. Caiff hyn ei wirio fel rhan o\u2019r broses awdurdodi ychwanegion cyn eu rhoi ar y farchnad. ",
+                "tag": "p"
+            },
+            {
+                "content": "Gallwch chi ddysgu pa ychwanegion bwyd anifeiliaid sydd wedi\u2019u hawdurdodi i\u2019w defnyddio mewn bwyd anifeiliaid drwy edrych ar Gofrestr Ychwanegion Bwyd Anifeiliaid Awdurdodedig Prydain Fawr yr Asiantaeth Safonau Bwyd neu restr yr UE ar gyfer Gogledd Iwerddon.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw labelu organig yn golygu na chafodd unrhyw ychwanegion bwyd anifeiliaid eu defnyddio?",
+                "tag": "h2"
+            },
+            {
+                "content": "Nac ydy. Nid yw gweld \u2018organig\u2019 ar label bwyd yn golygu na chafodd unrhyw ychwanegion bwyd anifeiliaid eu defnyddio yn y cynnyrch. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae safonau organig yn caniat\u00e1u rhai ychwanegion naturiol neu ychwanegion awdurdodedig penodol i gefnogi iechyd a maethiad anifeiliaid, ond mae ychwanegion synthetig neu ychwanegion wedi\u2019u prosesu\u2019n gemegol wedi\u2019u gwahardd.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae ein rheolau ni\u2019n cymharu\u2019n rhyngwladol? ",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae rheolau\u2019r DU o ran ychwanegion bwyd anifeiliaid ymhlith y rhai mwyaf llym yn y byd. Maen nhw wedi\u2019u halinio\u2019n agos \u00e2 rheoliadau\u2019r UE ac maen nhw wedi\u2019u cynllunio i ddiogelu lles anifeiliaid, yr amgylchedd a diogelwch defnyddwyr. ",
+                "tag": "p"
+            },
+            {
+                "content": "Rhaid i gynhyrchion bwyd a bwyd anifeiliaid sy\u2019n cael eu mewnforio i\u2019r DU fodloni gofynion yr ASB.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2026/05/28/food-fact-check-feed-additives-and-our-health/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Food Fact Check: Kate Shield, Head of Animal Feed Policy answers questions about feed additives."
+    },
+    {
+        "title": "Unlocking England's nature markets: a further step forward for investment in the environment",
+        "authors": [
+            "Will Lockhart OBE"
+        ],
+        "posted_on": "2026-05-28T09:32:27",
+        "categories": [
+            "Green finance",
+            "Nature"
+        ],
+        "content": [
+            {
+                "content": "I'm\u00a0Will Lockhart, Deputy Director for Nature\u00a0Markets\u00a0and Investment at Defra. In March, I\u00a0wrote about\u00a0how\u00a0we're\u00a0encouraging more private investment in nature recovery in England \u2013 including making it easier for businesses to pay for the benefits nature provides, and launching\u00a0new, world-leading nature investment standards. Today, we mark another\u00a0important step\u00a0for nature: helping large professional investors put money into nature recovery projects here in England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We often hear that large investors want to support UK nature recovery, but there\u00a0aren't\u00a0enough suitable opportunities for them to do so. The main barriers are a shortage of projects big enough to invest in, and uncertainty about whether those investments will generate a reasonable financial return.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To help address this, Defra has helped create, and committed funding to, a new investment fund for nature:\u00a0the Big Nature Impact Fund. The Fund acts as a gateway for investors, so rather than spending time and money searching for individual nature projects, they can invest more quickly and efficiently through the Fund. Defra's \u00a330 million investment takes on more of the financial risk, meaning private investors get their returns first \u2013 making it less risky for them to get involved.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Defra competitively selected Finance Earth \u2013 a mission-driven, regulated fund manager \u2013 to design and manage the Fund. Their job is to raise \u00a32 of private investment for every \u00a31 of public investment, and to find suitable nature projects for the Fund to support. Investee projects must contribute to the government's\u00a0Environmental Improvement Plan\u00a0goals and deliver a financial return. Initially, this means the Fund will invest in habitat creation schemes, woodland planting projects, and peatland restoration.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Fund has now reached its first major milestone, securing just under \u00a335 million in private investment from insurance companies,\u00a0foundations\u00a0and high-net-worth individuals. This means over \u00a317\u00a0million\u00a0of Defra's investment is ready to be put to work. Finance Earth is aiming to grow the Fund to between \u00a390 million and \u00a3120 million over the next 18 months. More information is available in the Fund's press release and website.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Defra has also put in place reporting requirements so others can learn from how the Fund performs. We want investing in nature to become normal practice, and we hope the Fund will give other investors the confidence to follow suit.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is another important step, and I look forward to the Fund making its first investments and following its journey; because as Minister for Nature, Mary Creagh has said:\u00a0\" Nature is the foundation of our economy, and we now have a real opportunity to protect and restore it for future generations. We need a whole-economy approach to nature recovery, and the Big Nature Impact Fund shows that smart use of public money can unlock major private investment to restore our natural environment, strengthen the green economy, and support communities across the country.\"\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/05/28/unlocking-englands-nature-markets-a-further-step-forward-for-investment-in-the-environment/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "I'm\u00a0Will Lockhart, Deputy Director for Nature\u00a0Markets\u00a0and Investment at Defra. In March, I\u00a0wrote about\u00a0how\u00a0we're\u00a0encouraging more private investment in nature recovery in England \u2013 including making it easier for businesses to pay for the benefits nature provides, and launching\u00a0new, world-leading nature investment \u2026"
+    },
+    {
+        "title": "Shaping the future Fast Stream: digital and cyber security schemes",
+        "authors": [
+            "Rasheda Khan, Digital Capability Strategy Manager"
+        ],
+        "posted_on": "2026-05-28T09:30:00",
+        "categories": [
+            "Cyber security",
+            "DDaT community",
+            "Government Digital and Data",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "The Civil Service Fast Stream is the UK government\u2019s flagship graduate programme, designed to develop the next generation of leaders across the Civil Service, and offers a structured, fast-track route into a wide range of careers, combining hands-on experience with formal training and support.",
+                "tag": "p"
+            },
+            {
+                "content": "With a variety of specialist schemes available, the Fast Stream provides opportunities for graduates and civil servants to contribute to meaningful work that shapes public services and policy. Two of these are the Digital and Cyber Security Fast Stream schemes.",
+                "tag": "p"
+            },
+            {
+                "content": "The Digital and Cyber Security Fast Stream schemes",
+                "tag": "h2"
+            },
+            {
+                "content": "The Digital and the Cyber Security Fast Stream programmes are two separate specialist schemes. Each serve as a comprehensive leadership development pathway for the next generation of innovators in the digital and cyber security professions.",
+                "tag": "p"
+            },
+            {
+                "content": "The Fast Streamers are at the forefront of crucial work on high-impact projects, from improving how people access government services, to improving the UK's cyber resilience. Their work plays an important role in modernising public services and protecting the UK\u2019s digital infrastructure.",
+                "tag": "p"
+            },
+            {
+                "content": "Both the Digital and Cyber Security Fast Stream run for three years and follow a common structure used across the wider Fast Stream. Over the course of the programme, participants typically rotate through different roles and departments. They gain insight into how government works, while building the skills needed to take on senior positions.",
+                "tag": "p"
+            },
+            {
+                "content": "Where they differ is in focus, skills and the types of roles participants undertake. Digital Fast Stream participants work in digital roles across government to improve how public services are designed, delivered and experienced by users. This stream has six roles. Four technical roles that include product manager, delivery manager, business analyst and user researcher. From 2025, we have also introduced two non-technical roles, that of the software developer and data scientist.",
+                "tag": "p"
+            },
+            {
+                "content": "Cyber Security Fast Stream participants work in various government areas, covering both technical and non-technical roles, depending on the chosen pathway. On the Cyber Security Fast Stream programme, participants learn the practice of protecting systems, networks, programmes, the data on them, and the services they provide, from unauthorised access, digital attacks, harm or misuse.",
+                "tag": "p"
+            },
+            {
+                "content": "Life at Government Digital Service (GDS)",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the most exciting places a Fast Streamer might work is at GDS. As part of the team, they could work on areas such as:",
+                "tag": "p"
+            },
+            {
+                "content": "Who can apply to the Fast Stream?",
+                "tag": "h2"
+            },
+            {
+                "content": "People with analytical minds and problem solvers from all walks of life can apply to the Fast Stream. Whether this is someone just finishing university, or already working in government, the door is open.",
+                "tag": "p"
+            },
+            {
+                "content": "Why choose the Digital or Cyber Security Fast Stream?",
+                "tag": "h2"
+            },
+            {
+                "content": "The digital and cyber landscape is evolving at an unprecedented pace, and the Civil Service is keeping stride. By joining either of these streams, you can actively participate in the conversations and decisions that shape the future of the UK\u2019s digital landscape.",
+                "tag": "p"
+            },
+            {
+                "content": "Here, your voice and expertise will help bring about meaningful change, placing you at the heart of innovation and improvement in public service.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep an eye out! Over the coming weeks, we\u2019ll be publishing a series of case studies featuring our current digital and cyber security Fast Streamers. They\u2019ll be sharing their experience and insights, the challenges they've tackled, and what a typical day looks like on the Fast Stream programme.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cddo.blog.gov.uk/2026/05/28/shaping-the-future-fast-stream-digital-and-cyber-security-schemes/",
+        "blog": "Government Digital and Data",
+        "blog_link": "https://cddo.blog.gov.uk",
+        "description": "Find out about Fast Stream opportunities for graduates wanting to start a career in digital or cyber security across government. By joining one of these programmes, you can help improve digital public services and protect the UK's digital infrastructure."
+    },
+    {
         "title": "Resident doctor strikes: everything you need to know\u00a0",
         "authors": [
             "DHSC Media Team"
