@@ -1,5 +1,990 @@
 [
     {
+        "title": "Food Fact Check: Animal welfare in abattoirs and slaughterhouses",
+        "authors": [
+            "Animal Welfare Team, Food Standards Agency"
+        ],
+        "posted_on": "2026-06-03T12:48:13",
+        "categories": [
+            "Food Fact Check",
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "Animal welfare is\u00a0a\u00a0really\u00a0important issue.\u00a0It\u2019s\u00a0something that comes up\u00a0a lot\u00a0in the Food Standards Agency\u2019s (FSA) consumer surveys, in the media and conversations online.\u00a0We understand why. Animals in our food\u00a0system\u00a0should not be\u00a0exposed to avoidable suffering.",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Food Fact Check\u2019 is the FSA\u2019s new service to give clear in-depth answers to the questions you\u2019ve been asking to help you check the facts behind claims you\u2019ve seen online.",
+                "tag": "p"
+            },
+            {
+                "content": "Here we answer some of the questions being asked about animal welfare in abattoirs and slaughterhouses (the facilities where livestock is slaughtered and processed for food).",
+                "tag": "p"
+            },
+            {
+                "content": "How many animals are processed in abattoirs every year?",
+                "tag": "h2"
+            },
+            {
+                "content": "More than one billion animals are processed in FSA-approved abattoirs, and our teams are there to check their welfare.",
+                "tag": "p"
+            },
+            {
+                "content": "Who is responsible for protecting animals in the abattoir?",
+                "tag": "h2"
+            },
+            {
+                "content": "Food business operators are responsible for animal welfare in abattoirs.",
+                "tag": "p"
+            },
+            {
+                "content": "Defra and the Welsh Government hold policy responsibility for animal welfare laws in England and Wales, covering farms, transport and abattoirs.",
+                "tag": "p"
+            },
+            {
+                "content": "Abattoir operators are responsible for complying with all animal welfare laws, policies and associated requirements within their facilities.",
+                "tag": "p"
+            },
+            {
+                "content": "The FSA enforces animal welfare in abattoirs on behalf of Defra and the Welsh Government, through Official Veterinarians (OVs) operating on-site. In Northern Ireland, the Department of Agriculture, Environment and Rural Affairs (DAERA) oversees policy and enforcement. Food Standards Scotland\u00a0is responsible for\u00a0monitoring and enforcing animal welfare standards in approved Scottish abattoirs.",
+                "tag": "p"
+            },
+            {
+                "content": "The law sets specific standards which are monitored and enforced by\u00a0OVs (Official Veterinarians) stationed in abattoirs when they are processing.\u00a0OVs are independent of the abattoir and are appointed by the FSA (or DAERA in Northern Ireland). They perform daily in-person checks at every stage of slaughter, including the animal\u2019s arrival, handling and slaughter.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In England and Wales, the FSA also conducts regular audits and inspections\u00a0of abattoirs, which include animal welfare checks. In addition, the FSA carries out unannounced animal welfare assurance inspections.",
+                "tag": "p"
+            },
+            {
+                "content": "How long does an animal stay in the abattoir?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Animals\u00a0are assessed\u00a0shortly after arrival by an OV and must\u00a0be slaughtered without unnecessary delay.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "Before slaughter, abattoir operators must ensure animals are kept comfortable, clean, safe from injury and harmful interactions, have timely access to feed and water, and are not subjected to avoidable fear, pain, or distress.",
+                "tag": "p"
+            },
+            {
+                "content": "Do abattoirs and their operatives need a license?",
+                "tag": "h2"
+            },
+            {
+                "content": "Yes. Abattoirs must be approved by the FSA before they can operate. The approval includes a check to ensure the correct equipment is in place to handle and humanely slaughter animals.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "Operatives involved in the handling and slaughter process need a Certificate of Competence (CoC). These are often known as a \u2018slaughter certificate\u2019 or \u2018slaughter licence.\u2019 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "CoC\u2019s can be suspended or revoked by the FSA (DAERA in Northern Ireland) where breaches of animal welfare regulations occur that are related to the CoC holder.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is CCTV mandatory in abattoirs?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Yes. CCTV is mandatory in all abattoirs in England and Wales where there are live animals. ",
+                "tag": "p"
+            },
+            {
+                "content": "OVs have access to footage for inspection and enforcement purposes.\u00a0 In Northern Ireland, DAERA have consulted on the mandatory use of CCTV in all abattoirs and will bring forward changes to legislation as required.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens when animal welfare standards are breached?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "A serious\u00a0breach, such as ineffective stunning of an animal, or\u00a0repeated welfare breaches\u00a0may lead to suspension or revocation of a slaughter certificate. ",
+                "tag": "p"
+            },
+            {
+                "content": "An investigation would be held which could subsequently result in a prosecution in the courts, and removal of the abattoir\u2019s approval to operate. ",
+                "tag": "p"
+            },
+            {
+                "content": "Less serious breaches, such as failure to follow written procedures, can trigger\u00a0informal action such as written warnings or suspension of slaughter certificates until retraining is complete.",
+                "tag": "p"
+            },
+            {
+                "content": "Breaches of animal welfare requirements\u00a0at abattoirs\u00a0are investigated by the FSA in England and Wales, and by DAERA in Northern Ireland. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How often are animal welfare standards breached?",
+                "tag": "h2"
+            },
+            {
+                "content": "Overall, compliance is very high, but breaches do occur. In 2025/26 there were 542 animal welfare breaches in abattoirs in England and Wales affecting 33,679 animals. More than one billion animals were processed, meaning only 0.0032% of animals were affected.",
+                "tag": "p"
+            },
+            {
+                "content": "Do animals need to be stunned before slaughter in the UK?\u00a0 \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Animals must be stunned before slaughter unless being slaughtered for consumption by specific religious groups. This is required by law, which includes permitted exemptions from pre-stunning for specific religions.",
+                "tag": "p"
+            },
+            {
+                "content": "Most animals in England and Wales - 97%\u00a0of\u00a0poultry and 85%\u00a0of\u00a0red meat animals\u00a0- are stunned before slaughter. ",
+                "tag": "p"
+            },
+            {
+                "content": "Is stunning\u00a0an\u00a0animal effective at preventing suffering?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Yes. Stunning is widely recognised as an effective method to prevent pain and distress during slaughter\u00a0by rendering animals\u2019 unconscious\u00a0and unable to feel pain.",
+                "tag": "p"
+            },
+            {
+                "content": "What stunning methods are used?",
+                "tag": "h2"
+            },
+            {
+                "content": "The permitted methods of stunning are set out in legislation, and the biennial Slaughter Sector Surveys explain which are most commonly used.",
+                "tag": "p"
+            },
+            {
+                "content": "For all stunning methods, the stun must be effective. The law also requires checks to be made that animals do not present any signs of consciousness and sensibility between stunning and death. If animals are not properly stunned, appropriate measures such as a back-up stun must be taken.",
+                "tag": "p"
+            },
+            {
+                "content": "What forms of religious slaughter methods\u00a0use non-stun slaughter?",
+                "tag": "h2"
+            },
+            {
+                "content": "Muslim (Halal) and Jewish (Shechita) methods are the only permitted methods of non-stun slaughter, and they must take place in an abattoir.",
+                "tag": "p"
+            },
+            {
+                "content": "Slaughter by the Halal method can include stunning. Halal slaughter is performed by a Muslim who holds a certificate for that purpose.\u00a0Most\u00a0Halal meat comes from animals that are stunned before slaughter. The 2024 Slaughter Sector Survey showed, for example, that 88% of Halal meat chickens in England and Wales were stunned prior to slaughter.",
+                "tag": "p"
+            },
+            {
+                "content": "Slaughter by the Shechita method is performed by\u00a0a Jew who is licensed by the Rabbinical Commission and holds a certificate for that purpose.\u00a0All kosher meat is from animals slaughtered without stunning.",
+                "tag": "p"
+            },
+            {
+                "content": "The slaughter process for meat animals does not differ between religious and non-religious trade. All animals are restrained for slaughter and killed by an incision to the neck to achieve blood loss. The point of difference is whether the animal is stunned unconscious prior to the neck incision.",
+                "tag": "p"
+            },
+            {
+                "content": "What differences are there at halal or kosher abattoirs?",
+                "tag": "h2"
+            },
+            {
+                "content": "There is no specific approval for a halal or kosher abattoirs \u2013 this is a myth. ",
+                "tag": "p"
+            },
+            {
+                "content": "An approved abattoir can operate both stun and non-stun methods of slaughter depending on the requirements of customers, market for the final product, and the slaughter operatives working there. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They must be competent to deliver whatever slaughter method they use, and they must meet the legal requirements for stun or non-stun - this is audited and assured by the FSA.",
+                "tag": "p"
+            },
+            {
+                "content": "Has\u00a0there\u00a0been an\u00a0increase in\u00a0non-stun\u00a0slaughter?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "There has been\u00a0a recent increase of non-stun slaughter for some meats. Between 2022 and 2024 non-stun slaughter rates increased from 11% to 15% for all red meat and from 23% to 29% for sheep slaughter.",
+                "tag": "p"
+            },
+            {
+                "content": "Non-stun rates for cattle remained relatively stable with a slight increase from 1% to 2%, whereas poultry saw a decrease in non-stun slaughter from 5% to 3%. The FSA\u2019s 2024 Slaughter Sector Survey\u00a0sets out\u00a0information\u00a0for each species.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Muslim and Jewish faiths do not permit consumption of pork, so pigs are not slaughtered without stunning.",
+                "tag": "p"
+            },
+            {
+                "content": "How can\u00a0I buy meat based on welfare standards? Is it\u00a0labelled\u00a0on the packaging?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "There is no legal requirement for meat to be labelled based on the method of slaughter. Where any information of this nature is provided it must be accurate and must not be misleading to the consumer.",
+                "tag": "p"
+            },
+            {
+                "content": "Some businesses choose to display welfare standards on their packaging. You can keep an eye out for food assurance scheme labels like Red Tractor and RSPCA who have certain requirements such as all meat must be from stunned animals. You could also enquire with the retail outlet you are intending to purchase meat from.",
+                "tag": "p"
+            },
+            {
+                "content": "How do I report an animal welfare issue?",
+                "tag": "h2"
+            },
+            {
+                "content": "If you are concerned about the laws governing animal welfare at slaughter and in transport in England, follow Defra's contact page. In Wales, contact animalwelfarewales@gov.wales.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are concerned about animal welfare on farms, contact the Animal and Plant Health Agency, or the Local Authority. In Northern Ireland, follow the instructions on DAERA's animal welfare page.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae lles anifeiliaid yn bwnc pwysig iawn.\u00a0Mae\u2019n rhywbeth sy\u2019n codi\u2019n aml yn arolygon defnyddwyr yr Asiantaeth Safonau Bwyd (ASB), yn y cyfryngau ac mewn sgyrsiau ar-lein.\u00a0Rydyn ni\u2019n deall pam.\u00a0Ni ddylai anifeiliaid yn ein system fwyd brofi dioddefaint y gellir ei osgoi.",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Y Gwir am Fwyd\u2019 yw gwasanaeth newydd yr ASB i roi atebion clir a manwl i\u2019r cwestiynau rydych chi wedi bod yn eu gofyn i\u2019ch helpu i wirio\u2019r ffeithiau y tu \u00f4l i honiadau rydych chi wedi\u2019u gweld ar-lein.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn y blog hwn, rydym yn ateb rhai o\u2019r cwestiynau cyffredin am les anifeiliaid mewn lladd-dai (y cyfleusterau ble mae da byw yn cael eu lladd a\u2019u prosesu ar gyfer bwyd).",
+                "tag": "p"
+            },
+            {
+                "content": "Sawl anifail sy\u2019n cael ei brosesu mewn lladd-dai bob blwyddyn?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae mwy na biliwn o anifeiliaid yn cael eu prosesu mewn lladd-dai sydd wedi\u2019u cymeradwyo gan yr ASB, ac mae ein timau yno i wirio eu lles.",
+                "tag": "p"
+            },
+            {
+                "content": "Pwy sy\u2019n gyfrifol am ddiogelu anifeiliaid yn y lladd-dy? ",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae gweithredwyr busnesau bwyd yn gyfrifol am les anifeiliaid mewn lladd-dai.",
+                "tag": "p"
+            },
+            {
+                "content": "Llywodraeth Cymru a Defra sy\u2019n gyfrifol am bolisi cyfreithiau lles anifeiliaid yng Nghymru a Lloegr, gan gwmpasu ffermydd, cludo a lladd-dai.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae gweithredwyr lladd-dai yn gyfrifol am gydymffurfio \u00e2\u2019r holl gyfreithiau, polis\u00efau a gofynion cysylltiedig o ran lles anifeiliaid yn eu cyfleusterau.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r ASB yn gorfodi lles anifeiliaid mewn lladd-dai ar ran Llywodraeth Cymru a Defra, a hynny drwy filfeddygon swyddogol (OVs) sy\u2019n gweithio ar y safle. Yng Ngogledd Iwerddon, yr Adran Amaethyddiaeth, yr Amgylchedd a Materion Gwledig (DAERA) sy\u2019n goruchwylio\u2019r gwaith polisi a gorfodi. Safonau Bwyd yr Alban sy\u2019n gyfrifol am fonitro a gorfodi safonau lles anifeiliaid mewn lladd-dai yn yr Alban sydd wedi\u2019u cymeradwyo.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r gyfraith yn gosod safonau penodol sy\u2019n cael eu monitro a\u2019u gorfodi gan OVs sydd wedi\u2019u lleoli mewn lladd-dai pan fyddant yn prosesu anifeiliaid.\u00a0Mae OVs yn annibynnol ar y lladd-dy ac yn cael eu penodi gan yr ASB (neu DAERA yng Ngogledd Iwerddon). Maent yn cynnal gwiriadau personol dyddiol ar bob cam o\u2019r lladd, gan gynnwys wrth i\u2019r anifail gyrraedd, gael ei drin, a\u2019i ladd.",
+                "tag": "p"
+            },
+            {
+                "content": "Yng Nghymru a Lloegr, mae\u2019r ASB hefyd yn cynnal archwiliadau ac arolygiadau rheolaidd o ladd-dai, sy\u2019n cynnwys gwirio lles anifeiliaid. Yn ogystal, mae\u2019r ASB yn cynnal arolygiadau dirybudd er mwyn sicrhau lles anifeiliaid.",
+                "tag": "p"
+            },
+            {
+                "content": "Am faint mae anifail yn aros yn y lladd-dy?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Caiff anifeiliaid eu hasesu yn fuan ar \u00f4l iddynt gyrraedd gan OV a rhaid eu lladd heb oedi diangen.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cyn iddynt gael eu lladd, rhaid i weithredwyr lladd-dai sicrhau bod yr anifeiliaid yn cael eu cadw\u2019n gyfforddus, yn l\u00e2n, ac yn ddiogel rhag anaf a phrofiadau niweidiol. Rhaid iddynt hefyd sicrhau bod gan anifeiliaid fynediad amserol at fwyd a d\u0175r, ac nad ydynt yn destun ofn, poen na gofid y gellir eu hosgoi.",
+                "tag": "p"
+            },
+            {
+                "content": "Oes angen trwydded ar ladd-dai a\u2019u gweithredwyr?",
+                "tag": "h2"
+            },
+            {
+                "content": "Oes. Rhaid i ladd-dai gael eu cymeradwyo gan yr ASB cyn iddynt allu gweithredu. Mae\u2019r gymeradwyaeth yn cynnwys gwiriad i sicrhau bod yr offer cywir ar waith i drin a lladd anifeiliaid yn drugarog. Mae angen Tystysgrif Cymhwysedd (CoC) ar weithredwyr sy\u2019n ymwneud \u00e2\u2019r broses drin a lladd. Yn aml, cyfeirir at y rhain fel \u2018tystysgrif lladd\u2019 neu \u2018drwydded ladd\u2019. ",
+                "tag": "p"
+            },
+            {
+                "content": "Gall yr ASB (neu DAERA yng Ngogledd Iwerddon) atal neu ddirymu\u2019r tystysgrifau hyn pan fydd achosion o dorri rheoliadau lles anifeiliaid sy\u2019n gysylltiedig \u00e2 deiliad y dystysgrif.",
+                "tag": "p"
+            },
+            {
+                "content": "Ydy teledu cylch cyfyng yn orfodol mewn lladd-dai?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Ydy. Mae teledu cylch cyfyng yn orfodol ym mhob lladd-dy yng Nghymru a Lloegr lle mae anifeiliaid byw yn bresennol. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae gan OVs fynediad at y delweddau at ddibenion arolygu a gorfodi.\u00a0Yng Ngogledd Iwerddon, mae DAERA wedi ymgynghori ar y defnydd gorfodol o deledu cylch cyfyng ym mhob lladd-dy, a bydd yn cyflwyno newidiadau i ddeddfwriaeth yn \u00f4l yr angen.",
+                "tag": "p"
+            },
+            {
+                "content": "Beth sy\u2019n digwydd pan fydd safonau lles anifeiliaid yn cael eu torri?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Gall toriad difrifol, fel stynio anifail yn aneffeithiol, neu doriadau parhaus o reolau lles, arwain at atal neu ddirymu tystysgrif lladd. ",
+                "tag": "p"
+            },
+            {
+                "content": "Byddai ymchwiliad yn cael ei gynnal a allai arwain wedyn at erlyniad yn y llysoedd, a thynnu cymeradwyaeth y lladd-dy i weithredu yn \u00f4l. ",
+                "tag": "p"
+            },
+            {
+                "content": "Gall toriadau llai difrifol, fel methu \u00e2 dilyn gweithdrefnau ysgrifenedig, sbarduno camau anffurfiol fel rhybuddion ysgrifenedig neu arwain at dystysgrifau lladd yn cael eu hatal nes bod unrhyw ailhyfforddi wedi\u2019i gwblhau.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r ASB yng Nghymru a Lloegr, a DAERA yng Ngogledd Iwerddon, yn ymchwilio i doriadau mewn perthynas \u00e2 gofynion lles anifeiliaid mewn lladd-dai.",
+                "tag": "p"
+            },
+            {
+                "content": "Pa mor aml mae safonau lles anifeiliaid yn cael eu torri?",
+                "tag": "h2"
+            },
+            {
+                "content": "Ar y cyfan, mae cydymffurfiaeth yn uchel iawn, ond mae achosion o dorri rheolau\u2019n digwydd. Yn 2025\u201326, roedd 542 o achosion difrifol a sylweddol o dorri rheolau lles anifeiliaid mewn lladd-dai yng Nghymru a Lloegr a effeithiodd ar 33,679 o anifeiliaid. Fodd bynnag, proseswyd mwy na biliwn o anifeiliaid, sy\u2019n golygu mai dim ond 0.0032% o anifeiliaid oedd yn destun y tor-rheolau.",
+                "tag": "p"
+            },
+            {
+                "content": "Oes angen stynio anifeiliaid cyn eu lladd yn y DU?",
+                "tag": "h2"
+            },
+            {
+                "content": "Rhaid stynio anifeiliaid cyn eu lladd, oni bai eu bod yn cael eu lladd i\u2019w bwyta gan grwpiau crefyddol penodol. Mae hyn yn ofynnol yn \u00f4l y gyfraith, sy\u2019n cynnwys eithriadau sy\u2019n caniat\u00e1u i grefyddau penodol beidio \u00e2 stynio ymlaen llaw.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r rhan fwyaf o anifeiliaid yng Nghymru a Lloegr \u2013 97% o ddofednod ac 85% o anifeiliaid cig coch \u2013 yn cael eu stynio cyn eu lladd.",
+                "tag": "p"
+            },
+            {
+                "content": "Ydy stynio anifail yn effeithiol wrth atal dioddefaint?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Ydy. Mae stynio yn cael ei gydnabod yn eang fel dull effeithiol o atal poen a gofid yn ystod y broses ladd trwy wneud anifeiliaid yn anymwybodol a sicrhau na allant deimlo poen.",
+                "tag": "p"
+            },
+            {
+                "content": "Pa ddulliau stynio sy\u2019n cael eu defnyddio?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae\u2019r dulliau stynio a ganiateir wedi\u2019u nodi mewn deddfwriaeth, ac mae Arolygon y Sector Lladd-dai, a gynhelir bob dwy flynedd, yn egluro pa rai a ddefnyddir amlaf.",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer pob dull stynio, rhaid i\u2019r stynio fod yn effeithiol. Mae\u2019r gyfraith hefyd yn mynnu bod yn rhaid cynnal gwiriadau i gadarnhau nad yw anifeiliaid yn dangos unrhyw arwyddion o ymwybyddiaeth a sensitifrwydd rhwng eu stynio a\u2019u lladd. Os na chaiff anifeiliaid eu stynio\u2019n iawn, rhaid cymryd mesurau priodol fel defnyddio dull stynio wrth gefn.",
+                "tag": "p"
+            },
+            {
+                "content": "Pa fathau o ddulliau lladd crefyddol sy\u2019n defnyddio lladd heb stynio? ",
+                "tag": "h2"
+            },
+            {
+                "content": "Dulliau Mwslimaidd (halal) ac Iddewig (shechita) yw\u2019r unig ddulliau o ladd heb stynio a ganiateir, a rhaid iddynt ddigwydd mewn lladd-dy.",
+                "tag": "p"
+            },
+            {
+                "content": "Gall lladd gan ddefnyddio\u2019r dull halal gynnwys stynio. Mae lladd halal yn cael ei gyflawni gan Fwslim sydd \u00e2 thystysgrif at y diben hwnnw.\u00a0Daw\u2019r rhan fwyaf o gig halal o anifeiliaid sy\u2019n cael eu stynio cyn eu lladd. Er enghraifft, dangosodd Arolwg y Sector Lladd-dai ar gyfer 2024 fod 88% o ieir cig halal yng Nghymru a Lloegr wedi cael eu stynio cyn eu lladd.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae lladd yn unol \u00e2\u2019r dull Shechita yn cael ei berfformio gan Iddew sydd wedi\u2019i drwyddedu gan y Comisiwn Rabinaidd ac sydd \u00e2 thystysgrif at y diben hwnnw.\u00a0Daw pob cig kosher o anifeiliaid a laddwyd heb eu stynio.",
+                "tag": "p"
+            },
+            {
+                "content": "Nid yw\u2019r broses ladd ar gyfer anifeiliaid cig yn wahanol rhwng masnach grefyddol a masnach anghrefyddol. Mae pob anifail yn cael ei atal cyn ei ladd, a chyflawnir y lladd drwy wneud toriad yn y gwddf i sicrhau colli gwaed. Y prif ffactor gwahaniaethol yw a yw\u2019r anifail wedi\u2019i stynio hyd at anymwybyddiaeth cyn gwneud y toriad yn y gwddf.",
+                "tag": "p"
+            },
+            {
+                "content": "Pa wahaniaethau sydd mewn lladd-dai halal neu kosher? ",
+                "tag": "h2"
+            },
+            {
+                "content": "Nid oes cymeradwyaeth benodol ar gyfer lladd-dai halal na kosher \u2013 chwedl yw hyn. ",
+                "tag": "p"
+            },
+            {
+                "content": "Gall lladd-dy cymeradwy weithredu dulliau lladd trwy stynio a heb stynio yn dibynnu ar ofynion cwsmeriaid, y farchnad ar gyfer y cynnyrch terfynol, a\u2019r gweithredwyr lladd sy\u2019n gweithio yno. ",
+                "tag": "p"
+            },
+            {
+                "content": "Rhaid iddyn nhw fod yn gymwys i gyflawni pa bynnag ddull lladd maen nhw\u2019n ei ddefnyddio, a rhaid iddyn nhw fodloni\u2019r gofynion cyfreithiol ar gyfer stynio neu beidio \u00e2 stynio \u2013 mae hyn yn cael ei archwilio a\u2019i sicrhau gan yr ASB.",
+                "tag": "p"
+            },
+            {
+                "content": "A fu cynnydd mewn lladd heb stynio?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Bu cynnydd diweddar mewn lladd heb stynio ar gyfer rhai cigoedd. Rhwng 2022 a 2024, cynyddodd y cyfraddau lladd heb stynio o 11% i 15% ar gyfer pob cig coch ac o 23% i 29% ar gyfer defaid.",
+                "tag": "p"
+            },
+            {
+                "content": "Arhosodd y cyfraddau lladd heb stynio ar gyfer gwartheg yn gymharol sefydlog, gyda chynnydd bach o 1% i 2%. O ran dofednod, bu gostyngiad yn y cyfraddau lladd heb stynio, o 5% i 3%. Mae Arolwg y Sector Lladd-dai ar gyfer 2024, a gynhaliwyd gan yr ASB, yn nodi gwybodaeth ar gyfer pob rhywogaeth. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Nid yw\u2019r ffydd Fwslimaidd na\u2019r ffydd Iddewig yn caniat\u00e1u bwyta porc, felly nid yw moch yn cael eu lladd heb eu stynio.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut galla\u2019 i brynu cig ar sail safonau lles? A yw wedi\u2019i labelu ar y deunydd pecynnu?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Does dim gofyniad cyfreithiol i labelu cig ar sail y dull lladd. Pan roddir unrhyw wybodaeth o\u2019r natur hon, rhaid iddi fod yn gywir a rhaid iddi beidio \u00e2 chamarwain y defnyddiwr.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae rhai busnesau\u2019n dewis arddangos safonau lles ar eu deunydd pecynnu. Gallwch gadw llygad am labeli cynlluniau sicrwydd bwyd fel y Tractor Coch a\u2019r RSPCA sydd \u00e2 gofynion penodol fel bod rhaid i\u2019r holl gig ddod o anifeiliaid sydd wedi\u2019u stynio. Gallech hefyd holi\u2019r siop rydych chi\u2019n bwriadu prynu cig ganddi.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae rhoi gwybod am broblem lles anifeiliaid?",
+                "tag": "h2"
+            },
+            {
+                "content": "Os ydych chi\u2019n poeni am y cyfreithiau sy\u2019n llywodraethu lles anifeiliaid wrth ladd a chludo anifeiliaid yng Nghymru, cysylltwch \u00e2 llesanifeiliaidcymru@llyw.cymru. Yn Lloegr, dilynwch y dudalen gyswllt hon.",
+                "tag": "p"
+            },
+            {
+                "content": "Os ydych chi\u2019n poeni am les anifeiliaid ar ffermydd, cysylltwch \u00e2\u2019r Asiantaeth Iechyd Anifeiliaid a Phlanhigion drwy eu tudalen gyswllt, neu\u2019r awdurdod lleol drwy\u2019r dudalen ganlynol. Gellir dod o hyd i wybodaeth gan DAERA yma.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2026/06/03/food-fact-check-animal-welfare-in-abattoirs-and-slaughterhouses/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Food Fact Check: The Food Standards Agency Animal Welfare Team answers questions about animal welfare."
+    },
+    {
+        "title": "Farming Innovation Investor Partnerships\u00a0Competition: deadline\u00a0reminder",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-06-03T11:32:45",
+        "categories": [
+            "Farming and Countryside Team"
+        ],
+        "content": [
+            {
+                "content": "If you\u2019re working on an innovation that could improve farming in England, there\u2019s still time to apply for funding through the Farming Innovation Investor Partnerships competition.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The deadline to apply is 17 June at 11am.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The competition is part of the\u00a0Farming Innovation Programme,\u00a0which is run by Defra in partnership with Innovate UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It combines government funding with private investment to help agri-tech businesses grow and bring farm-focused innovations closer to market. It aims to reduce the risks linked to late-stage development, attract investment to promising ideas and help\u00a0practical solutions reach farms sooner.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Private investment is\u00a0led by\u00a0Innovate UK\u2019s Investor Partner Pool.\u00a0Up\u00a0to \u00a35 million in government\u00a0funding is available across the competition.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to apply\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "You can read the guidance and apply through the\u00a0Innovation Funding Service\u00a0on GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applicants must be:\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Projects must:\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Grant funding will cover:\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applications will be assessed by independent experts from business and academia.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Application support\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "On 18 May, we ran a briefing session\u00a0which covered the application process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Watch the recording\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Download the presentation slides\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the Farming Blog\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u00a0regularly share updates on funding opportunities, competitions and grants through the Farming Blog. If you\u2019d like to stay informed when\u00a0new information\u00a0becomes available, you can\u00a0subscribe to receive\u00a0an email update\u00a0whenever we publish a new post.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/06/03/farming-innovation-investor-partnerships-competition-deadline-reminder/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "There is still time to apply for funding through the Farming Innovation Investor Partnerships competition. If you are developing a near-market innovation that could benefit farmers or the wider agricultural sector, the application window remains open until 17 June."
+    },
+    {
+        "title": "Unlocking Ukraine opportunities with a public dashboard",
+        "authors": [
+            "Ed Watts, Senior Data Analyst"
+        ],
+        "posted_on": "2026-06-03T10:42:22",
+        "categories": [
+            "Products"
+        ],
+        "content": [
+            {
+                "content": "Ed Watts",
+                "tag": "h3"
+            },
+            {
+                "content": "Why investment opportunities in Ukraine were hard to find and trust",
+                "tag": "h2"
+            },
+            {
+                "content": "When conflict broke out in Ukraine, reconstruction quickly became a global priority. Alongside humanitarian support, international organisations such as the United Nations and World Bank began publishing information about recovery projects and investment opportunities.",
+                "tag": "p"
+            },
+            {
+                "content": "For UK businesses, this presented both opportunity and difficulty.",
+                "tag": "p"
+            },
+            {
+                "content": "The information existed, but it was fragmented. Data was spread across multiple platforms, formats and standards, making it hard to find, interpret and trust. Many businesses wanted to engage, but lacked a clear, reliable way to navigate what was available and identify where they could contribute.",
+                "tag": "p"
+            },
+            {
+                "content": "As a Digital and Data lead, I set out to address a simple but important problem: how can we use data and technology to reduce these barriers and enable UK businesses to access international opportunities more confidently?",
+                "tag": "p"
+            },
+            {
+                "content": "What we wanted to improve",
+                "tag": "h2"
+            },
+            {
+                "content": "Our goal was to make it easier for UK businesses to identify relevant reconstruction and investment opportunities in Ukraine.",
+                "tag": "p"
+            },
+            {
+                "content": "To do that, we wanted to create a single, accessible view of information that would otherwise require time-consuming manual searching across multiple sources.",
+                "tag": "p"
+            },
+            {
+                "content": "However, there were clear constraints such as:",
+                "tag": "p"
+            },
+            {
+                "content": "Success meant enabling businesses to quickly understand what opportunities existed, compare them meaningfully, and act with confidence. It also meant providing trade experts with a reusable way to support businesses in complex environments.",
+                "tag": "p"
+            },
+            {
+                "content": "Reframing the problem",
+                "tag": "h3"
+            },
+            {
+                "content": "Rather than treating this as a purely analytical exercise, we considered the data journey as a whole. By addressing data ownership, access and governance from the start, we could build a product that was safe to publish, easy to use and fit for public access.",
+                "tag": "p"
+            },
+            {
+                "content": "Starting with data governance",
+                "tag": "h2"
+            },
+            {
+                "content": "Before building anything, we focused on data governance, understanding who owned the data and how it could be used.",
+                "tag": "p"
+            },
+            {
+                "content": "We worked closely with policy, trade and operational colleagues to:",
+                "tag": "p"
+            },
+            {
+                "content": "This shaped the solution from the outset. Governance wasn\u2019t something applied later, it defined what we could build and how.",
+                "tag": "p"
+            },
+            {
+                "content": "Treating the dashboard as a digital service",
+                "tag": "h2"
+            },
+            {
+                "content": "We were producing this analysis for the public, not just for internal use. Our output would be a service, not simply a dataset.",
+                "tag": "p"
+            },
+            {
+                "content": "Publishing data publicly brings additional responsibilities, and public services must meet certain standards. They must be:",
+                "tag": "p"
+            },
+            {
+                "content": "To meet those expectations, we built a public-facing dashboard, a digital tool that brings together data in an interactive, visual format so users can explore it easily.",
+                "tag": "p"
+            },
+            {
+                "content": "Prototyping without risk",
+                "tag": "h2"
+            },
+            {
+                "content": "Governance approvals can take time, especially when external organisations are involved.",
+                "tag": "p"
+            },
+            {
+                "content": "To maintain momentum, we built an early prototype using dummy data structured like the real sources. This allowed us to:",
+                "tag": "p"
+            },
+            {
+                "content": "When permissions were confirmed, we were able to move quickly because the design decisions were already in place.",
+                "tag": "p"
+            },
+            {
+                "content": "Standardising for clarity and trust",
+                "tag": "h2"
+            },
+            {
+                "content": "The source data varied significantly. For example, investment values were listed in different currencies and formats.",
+                "tag": "p"
+            },
+            {
+                "content": "We worked with data engineers to standardise these into consistent units, with clear and documented assumptions.",
+                "tag": "p"
+            },
+            {
+                "content": "This wasn\u2019t just a technical step. It was critical to ensure users could interpret the data correctly and compare opportunities with confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "Working across disciplines",
+                "tag": "h2"
+            },
+            {
+                "content": "The project brought together analysts, engineers, developers, and user researchers.",
+                "tag": "p"
+            },
+            {
+                "content": "We made responsibilities explicit such as:",
+                "tag": "p"
+            },
+            {
+                "content": "We also focused on capability building, helping teams understand each other\u2019s roles and embedding governance thinking across disciplines.",
+                "tag": "p"
+            },
+            {
+                "content": "What changes for businesses and trade teams",
+                "tag": "h2"
+            },
+            {
+                "content": "The result is a secure, accessible, user-centered dashboard that brings together reconstruction and investment opportunities in one place.",
+                "tag": "p"
+            },
+            {
+                "content": "For UK businesses, this means:",
+                "tag": "p"
+            },
+            {
+                "content": "For trade experts, it provides:",
+                "tag": "p"
+            },
+            {
+                "content": "More broadly, the project demonstrated how data and technology can directly support economic engagement in complex markets, while maintaining trust and respecting data ownership.",
+                "tag": "p"
+            },
+            {
+                "content": "Further, it aided us in identifying potential barriers and additional insights into trade successes.",
+                "tag": "p"
+            },
+            {
+                "content": "What we learned",
+                "tag": "h2"
+            },
+            {
+                "content": "Several things worked particularly well including:",
+                "tag": "p"
+            },
+            {
+                "content": "There were also challenges such as:",
+                "tag": "p"
+            },
+            {
+                "content": "What's next?",
+                "tag": "h2"
+            },
+            {
+                "content": "This approach has created a strong foundation for future work.",
+                "tag": "p"
+            },
+            {
+                "content": "Using this instance as a test case, process maps have been generated alongside reusable templates, so similar dashboards can be generated for other regions of interest.",
+                "tag": "p"
+            },
+            {
+                "content": "The model can be applied to other regions responding to conflict or major events, allowing faster development of reliable, public-facing data services.",
+                "tag": "p"
+            },
+            {
+                "content": "It also signals a shift in how we think about data in the public sector: not just as an internal asset, but as a tool that directly enables economic participation.",
+                "tag": "p"
+            },
+            {
+                "content": "Try it: use the Ukraine opportunities dashboard",
+                "tag": "h2"
+            },
+            {
+                "content": "In complex and rapidly evolving contexts like Ukraine\u2019s reconstruction, access to clear and trustworthy information is critical.",
+                "tag": "p"
+            },
+            {
+                "content": "This work shows that thoughtful use of data and technology can lower barriers for UK businesses, turning fragmented information into actionable insight.",
+                "tag": "p"
+            },
+            {
+                "content": "Crucially, when designed into the process from the start, data governance is what makes responsible, impactful delivery possible.",
+                "tag": "p"
+            },
+            {
+                "content": "If you own a public service, reach out to your data colleagues to identify opportunities to collaborate on improving or measuring it.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are a UK business, you can find our Dashboard for reconstruction opportunities in Ukraine here: Ukraine dashboard | Ukraine public dashboard.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/06/03/unlocking-ukraine-opportunities-with-a-public-dashboard/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "How we are using data and technology to reduce trade barriers with Ukraine and enabling UK businesses to access international opportunities more confidently."
+    },
+    {
+        "title": "Our Chair's speech to our annual Parliamentary reception for World Food Safety Day (2 June 2026)",
+        "authors": [
+            "Professor Susan Jebb, FSA Chair"
+        ],
+        "posted_on": "2026-06-03T09:58:14",
+        "categories": [
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Welcome, everyone. Thank you so much for joining us. It's wonderful to see familiar faces, and some new ones too.",
+                "tag": "p"
+            },
+            {
+                "content": "Our reception coincides with World Food Safety Day at the weekend and feels like a fitting moment for us to be together. But I should say that for the FSA, every day is food safety day. It\u2019s the bedrock of everything we do.",
+                "tag": "p"
+            },
+            {
+                "content": "Food safety is not about good luck - it's about good systems and good people. ",
+                "tag": "p"
+            },
+            {
+                "content": "So, I want to thank everyone in the FSA who works to keep food safe, our delivery partners in local authorities and port health authorities, and food businesses, who carry the primary responsibility for food safety.",
+                "tag": "p"
+            },
+            {
+                "content": "Why food safety matters",
+                "tag": "h2"
+            },
+            {
+                "content": "At this reception last year, we celebrated our 25th year. ",
+                "tag": "p"
+            },
+            {
+                "content": "I'm proud to say that since our founding at what was a difficult time for food safety in Britain, we have built something genuinely robust. A system that protects public health, supports businesses, and gives the public and our international partners confidence in UK food.",
+                "tag": "p"
+            },
+            {
+                "content": "We oversee inspections of more than 600,000 food businesses. We investigate around 2,000 food safety incidents every year. And we established the Food Hygiene Rating Scheme helping consumers make informed choices about what to shop and eat.",
+                "tag": "p"
+            },
+            {
+                "content": "Crucially, we want to shield the NHS from avoidable illness caused by lapses in food safety. Despite all our collective efforts around 2.4 million cases of foodborne illness still occur in the UK each year.",
+                "tag": "p"
+            },
+            {
+                "content": "So alongside our work with food businesses, we want the public to understand more about food safety risks. And on the screen today are images from a couple of our current campaigns.",
+                "tag": "p"
+            },
+            {
+                "content": "Our summer consumer campaign, which we\u2019re launching this week, aims to help people implement good food hygiene habits at home. We particularly want to reach people who are more vulnerable to foodborne illness.",
+                "tag": "p"
+            },
+            {
+                "content": "Please keep an eye out for our social media posts about the campaign and if you can amplify the content, it would be much appreciated.",
+                "tag": "p"
+            },
+            {
+                "content": "Enabling innovation in the food system",
+                "tag": "h2"
+            },
+            {
+                "content": "As important as our origin story is, my mind is on the future.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK food sector is changing fast. We have new technologies, new production methods, new business models. We want to be an enabler of safe, responsible innovation, and an active partner in helping the UK food sector to thrive. ",
+                "tag": "p"
+            },
+            {
+                "content": "We do not want the way we regulate to be a drag on competitiveness. We want to support the agri-food tech sector to deliver for the UK economy as well as helping us to develop a more resilient food system.",
+                "tag": "p"
+            },
+            {
+                "content": "But I also recognise a concern sometimes raised in these debates that supporting innovation or working closely with industry could come at the expense of the public interest. We don't see it that way. ",
+                "tag": "p"
+            },
+            {
+                "content": "Our role is to ensure that innovation happens in a way that's safe, transparent and grounded in evidence, so that it delivers real benefits for people. ",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting responsible innovation and protecting consumers aren't competing goals. If we do them well, they can reinforce one another, giving people confidence in new products while allowing the sector to evolve in ways that meet changing expectations and needs.",
+                "tag": "p"
+            },
+            {
+                "content": "Let me give you a couple of examples of what that looks like in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "We have just completed the first phase of our Innovation Research Programme. We\u2019ve published a report on the emerging technologies in the food system, which helps our knowledge keep pace with what's coming down the tracks. It means we can provide the right guidance for businesses so they understand what they will need to do to assure us their foods are safe.",
+                "tag": "p"
+            },
+            {
+                "content": "We've also launched our pioneering regulatory sandbox for cell-cultivated products - things like lab-grown meat. The sandbox allows companies to work through regulatory questions in a safe, structured environment, helping them to find a path to new markets and giving investors greater confidence in the regulatory pathway.",
+                "tag": "p"
+            },
+            {
+                "content": "The third area we have prioritised is precision breeding - new genetic techniques that can alter the DNA of plants and animals in a quicker and more targeted way than selective breeding programmes, offering the potential to produce crops that are healthier or more resilient.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve developed a proportionate regulatory framework for precision bred organisms that means we can make decisions on these products faster, while maintaining the high standards of safety and confidence that consumers expect.",
+                "tag": "p"
+            },
+            {
+                "content": "This is what smart, modern regulation looks like. It's not about lowering standards, it\u2019s about agile, risk-based, proportionate regulation that is fit for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Regulation for growth",
+                "tag": "h2"
+            },
+            {
+                "content": "Since we met last year we\u2019ve also been working hard on the forthcoming UK-EU SPS (Sanitary and Phytosanitary) agreement. ",
+                "tag": "p"
+            },
+            {
+                "content": "Aligning with EU rules on food and feed safety, animal health and plant health standards is a very significant development for every UK food business, regardless of whether they trade with the EU or not.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK\u2019s exit from the EU meant new checks, new paperwork, and additional costs, for businesses on both sides. Alignment with EU law through an SPS agreement aims to remove many of these routine barriers. ",
+                "tag": "p"
+            },
+            {
+                "content": "Certificates and checks on agri-food goods would no longer be needed in most cases. Businesses would be able to move goods more quickly, with less paperwork, and with confidence that products won't be held up at the border without reason.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re working closely with businesses so that they can continue to thrive under EU alignment and realise the benefits to the UK economy, but we\u2019re clear about the access we must secure to key agencies and systems so that we can ensure this deal also protects public health. ",
+                "tag": "p"
+            },
+            {
+                "content": "We recognise the need for proportionate transitional arrangements, and we are keen to secure targeted exceptions where these are in the UK\u2019s interests, and which allow us to continue with some of the more innovative work I've described today.",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile, at home, we\u2019re also progressing our Future Food Regulation Programme, to modernise the regulatory framework for food hygiene and standards in the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Two years ago, the FSA carried out a year-long trial with major retailers, looking at whether we could regulate the biggest businesses at a national level, scrutinising their data and systems, combined with some checks on the ground. This is more not less regulatory oversight.",
+                "tag": "p"
+            },
+            {
+                "content": "The government has asked us to take this forward and to build an effective, sustainable and trusted regulatory system that is fit for the future to ensure food is safe and what it says it is.",
+                "tag": "p"
+            },
+            {
+                "content": "Food as a solution, not just a problem to manage",
+                "tag": "h2"
+            },
+            {
+                "content": "Let me close with something that I think is perhaps the most exciting part of where we are headed.",
+                "tag": "p"
+            },
+            {
+                "content": "Food safety and food regulation have traditionally been framed around preventing bad things: illness, fraud, or loss of trust. While that remains absolutely central to what we do, I want us to see food as something more than that.",
+                "tag": "p"
+            },
+            {
+                "content": "I know, from all the research I\u2019ve done throughout my career, that food can be part of the solution to some of the biggest challenges facing our society such as diet-related disease and climate change.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK\u2019s agri-food sector contributes \u00a3150billion to national economic output. It employs 4.2 million people. It\u2019s a vital, strategic asset for this country and we need to ensure it\u2019s a force for good.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s why our role is evolving. Alongside keeping food safe, we\u2019re keen to support a system that makes it easier for healthier and more sustainable choices to become the norm. ",
+                "tag": "p"
+            },
+            {
+                "content": "I am pleased we are working with DHSC on Healthier Food Targets and Reporting - a new approach using data on the healthiness of food sales to bring greater transparency and accountability into the system to drive progress, while giving businesses flexibility in how they deliver it public health improvements. It reflects a shift from simply managing risk to actively enabling better outcomes for public health.",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "So, to wrap up, whether it\u2019s protecting the NHS from avoidable foodborne illness, supporting the delivery of healthier food sales through smarter regulation, helping a food tech start\u2011up navigate our regulatory process, or working through the implications of a new trade agreement, the work at the FSA all connects back to our core mission: food you can trust.",
+                "tag": "p"
+            },
+            {
+                "content": "The food system doesn\u2019t stand still, and it\u2019s important that as a regulator we keep adapting and improving what we do, to make sure that we\u2019re protecting consumers now and in the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you so much for your continued support for the FSA\u2019s work, and for being here this afternoon. I care deeply about this work, and I know you are all equally committed to delivering a food system that works for everyone. ",
+                "tag": "p"
+            },
+            {
+                "content": "We have lots of our Board members, Directors and other officials here today so please do come and talk to us about how we can both keep food safe and make food a force for good.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2026/06/03/our-chairs-speech-to-our-annual-parliamentary-reception-for-world-food-safety-day-2-june-2026/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "FSA Chair Professor Susan Jebb joined parliamentarians and partners from across the food system at the House of Commons to mark World Food Safety Day and celebrate those working to keep food safe."
+    },
+    {
         "title": "Detecting the invisible: how we uncovered the Brixham cryptosporidium outbreak",
         "authors": [
             "Blog Editor"
