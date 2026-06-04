@@ -1,5 +1,601 @@
 [
     {
+        "title": "Biodiversity Net Gain\u00a0for NSIPs: gain statements laid and guidance published\u00a0",
+        "authors": [
+            "Environment blog team"
+        ],
+        "posted_on": "2026-06-04T16:15:53",
+        "categories": [
+            "Biodiversity net gain",
+            "Land use"
+        ],
+        "content": [
+            {
+                "content": "We have reached a significant milestone in\u00a0implementing\u00a0Biodiversity Net Gain (BNG) for Nationally Significant Infrastructure Projects (NSIPs).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Earlier this week the\u00a0final\u00a0biodiversity gain statements\u00a0were\u00a0formally laid in Parliament and are now available on GOV.UK.\u00a0These statements are central to\u00a0applying\u00a0BNG\u00a0to\u00a0the NSIP regime\u00a0and\u00a0accompany\u00a0the\u00a0two statutory instruments in May.\u00a0Together, the secondary legislation and gain statements\u00a0formally\u00a0confirm\u00a0the\u00a0implementation date of 2 November 2026,\u00a0giving\u00a0developers certainty of the mandatory requirement.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0gain statements set out how\u00a0to\u00a0calculate, deliver, and report on BNG\u00a0providing clarity for developers and decision-makers,\u00a0ensuring that major infrastructure\u00a0projects\u00a0leave biodiversity in a measurably better state than before development.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each statement\u00a0links to the relevant\u00a0national policy statement,\u00a0and one applies to NSIPs with no national policy statement.\u00a0This creates a consistent set of requirements across all NSIP types.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have also published the first batch of\u00a0guidance\u00a0to support stakeholders in preparing for implementation. This includes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Further guidance will be issued to provide\u00a0additional\u00a0clarity on how the requirements should be applied\u00a0and support a smooth transition.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Have your say on our\u00a0residential\u00a0brownfield consultation\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0consultation on a potential targeted exemption for\u00a0brownfield\u00a0residential\u00a0development\u00a0is open until 23:59\u00a0on 10 June 2026.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are seeking views on the\u00a0rationale for\u00a0any\u00a0further exemption,\u00a0the\u00a0definition of brownfield residential development, potential size thresholds for any exemption, and measures to ensure any exemption is designed to minimise negative environmental impacts.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to share your views,\u202fplease visit \u202fCitizen Space.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/06/04/biodiversity-net-gain-for-nsips-gain-statements-laid-and-guidance-published/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "We have reached a significant milestone in\u00a0implementing\u00a0Biodiversity Net Gain (BNG) for Nationally Significant Infrastructure Projects (NSIPs).\u00a0 Earlier this week the\u00a0final\u00a0biodiversity gain statements\u00a0were\u00a0formally laid in Parliament and are now available on GOV.UK.\u00a0These statements are central to\u00a0applying\u00a0BNG\u00a0to\u00a0the NSIP regime\u00a0and\u00a0accompany\u00a0the\u00a0two statutory instruments in \u2026"
+    },
+    {
+        "title": "Data maturity: the foundation for AI\u202fready public sector data",
+        "authors": [
+            "Dan Hesse, Senior Product Manager"
+        ],
+        "posted_on": "2026-06-04T15:04:30",
+        "categories": [
+            "AI",
+            "Digital Centre"
+        ],
+        "content": [
+            {
+                "content": "Data maturity is essential for any organisation thinking about using AI. Before data can be considered AI ready, there needs to be confidence that it is well managed, thoroughly understood, and supported by the right people, processes and culture.",
+                "tag": "p"
+            },
+            {
+                "content": "Government Digital Service (GDS) has partnered with The National Archives to explore whether and how their legal data can be prepared for AI use. Our partnership, which completed its discovery phase in April 2026, used data maturity as a framework for understanding The National Archives\u2019 strengths and opportunities before committing to any technology approach. We are now moving into an Alpha phase. This will explore how data maturity mitigates the risks of exposing data to AI, and test potential approaches as the work progresses.",
+                "tag": "p"
+            },
+            {
+                "content": "What is data maturity, and why does it matter?",
+                "tag": "h2"
+            },
+            {
+                "content": "Data maturity is about ensuring data is good enough to do what it needs to do, and that the people, processes and governance around it are capable of meeting those needs. AI depends on good data for good outputs. AI readiness requires confidence that data can be used safely, ethically and responsibly.",
+                "tag": "p"
+            },
+            {
+                "content": "Data is only as effective as the people who manage it. Poor quality data produces unreliable AI outputs, but good data that is poorly understood or poorly governed cannot be considered AI ready either. Data maturity is where any AI readiness assessment should start.",
+                "tag": "p"
+            },
+            {
+                "content": "What we set out to do with The National Archives",
+                "tag": "h2"
+            },
+            {
+                "content": "The purpose of the discovery phase was to explore whether The National Archives' legal data, which includes legislation and case law, could be optimised for AI use, and whether AI could be relied on when it matters most to citizens and businesses. This is part of GDS' mission to ensure public sector data is managed as a strategic national asset.",
+                "tag": "p"
+            },
+            {
+                "content": "What we found",
+                "tag": "h2"
+            },
+            {
+                "content": "The discovery phase produced three main findings, the third of which represents the most significant opportunity for government. First, The National Archives' legal data is already close to being AI ready. The data quality is high, and The National Archives demonstrates strong data maturity, with the right skills, leadership and cultures in place. Good data managed poorly is not AI ready. The National Archives' strength is that both the data and the organisation surrounding it meet the bar.",
+                "tag": "p"
+            },
+            {
+                "content": "Second, technology is moving very quickly. Large technology companies and other governments are working on the same problems. Public sector organisations building AI services need to account for how rapidly the landscape is changing and avoid over-investing in solutions that may be superseded.",
+                "tag": "p"
+            },
+            {
+                "content": "Third, we believe the most significant opportunity for government in the next phase is exploring how AI generated outputs can be evaluated and validated. This is where government can add real value by building the tools and standards to assess whether AI outputs are trustworthy, rather than replicating what the private sector is already doing.",
+                "tag": "p"
+            },
+            {
+                "content": "Technology moves faster than data projects",
+                "tag": "h2"
+            },
+            {
+                "content": "Had the GDS and The National Archives partnership gone straight to building an AI chatbot for legislation and case law, we could have found ourselves solving a problem the world's largest AI companies are already working on, with a fraction of the budget.",
+                "tag": "p"
+            },
+            {
+                "content": "Instead, we used data maturity as a framework for understanding The National Archives' strengths and areas for development, helping us identify longer-term opportunities less vulnerable to rapid shifts in technology. This included further work on Model Context Protocol (MCP), an open source standard for connecting AI applications to external systems such as databases or other tools and documents.",
+                "tag": "p"
+            },
+            {
+                "content": "Work with partners to solve shared problems",
+                "tag": "h2"
+            },
+            {
+                "content": "One of The National Archives' important organisational strengths, which would not appear in any analysis of its data sets alone, is its culture of responsible innovation. Staff with deep expertise and strong leadership are willing to explore new opportunities while being aware of the risks of moving too fast.",
+                "tag": "p"
+            },
+            {
+                "content": "To test how legal data could be exposed via MCP, we partnered with the Department for Business and Trade and the Ministry of Justice to run a hackathon bringing together 40 lawyers, policymakers, data scientists and engineers from academia, the Civil Service and small and medium-sized enterprises (SMEs).",
+                "tag": "p"
+            },
+            {
+                "content": "Early evidence indicated that MCP makes a significant positive difference to the quality of AI outputs. The next phase of the GDS and The National Archives partnership will explore this further, building on GDS guidance and best practice for making government data sets ready for AI.",
+                "tag": "p"
+            },
+            {
+                "content": "A model with potential for wider application",
+                "tag": "h2"
+            },
+            {
+                "content": "This discovery is a pilot that can be replicated. It provides an example of how a data maturity-led approach can support decisions about AI. GDS will shortly launch a revised data maturity service, building on the framework published in 2023.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2026/06/04/data-maturity-the-foundation-for-ai-ready-public-sector-data/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Good AI starts with good data. We partnered with The National Archives to explore how data maturity can prepare legal data for AI use. Here's what we found."
+    },
+    {
+        "title": "From intent to impact: an international pattern",
+        "authors": [
+            "Tracey Wilson"
+        ],
+        "posted_on": "2026-06-04T12:00:00",
+        "categories": [
+            "Events",
+            "PublicPolicyDesign",
+            "Research"
+        ],
+        "content": [
+            {
+                "content": "Government intent and service delivery don\u2019t always connect early enough, and even when they do, alignment can waver during delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "At the Public Design Conference (part of World Design Congress Design Safari) in September 2025, policy and design teams from the UK and Canada joined forces to\u00a0explore this common challenge.",
+                "tag": "p"
+            },
+            {
+                "content": "We prototyped a pattern",
+                "tag": "h2"
+            },
+            {
+                "content": "It\u2019s based around a governance spine, a set of conditions and decision points that keep government intent, service design, and delivery aligned from start to finish.",
+                "tag": "p"
+            },
+            {
+                "content": "The pattern has four main features:",
+                "tag": "p"
+            },
+            {
+                "content": "Why this mattered to us was simple: the governance spine gave structure without being rigid. It showed how intent and delivery could be aligned from the start, but also how policy could remain involved through delivery, avoiding the risks of disconnect created by \u201chandovers\u201d. The \u201cpause and reflect\u201d cycle also created space to regularly reassess and challenge assumptions before moving into solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "Crucially, when we refer to governance, we don\u2019t mean more boards or paperwork. We mean the active conditions that enable collaboration: decision-making clarity, communication, and escalation when needed. These conditions are what keep teams aligned.",
+                "tag": "p"
+            },
+            {
+                "content": "Adapted for different contexts",
+                "tag": "h2"
+            },
+            {
+                "content": "In the UK, government intent can sometimes be expressed to service and delivery teams through policy requests that arrive at pace. Service design and delivery teams can be brought in late, meaning user needs or delivery implications aren\u2019t fully considered at the right moment.",
+                "tag": "p"
+            },
+            {
+                "content": "In the Province of British Columbia\u2019s Ministry of Environment and Parks, there is a dedicated Service Transformation team that \u2018tags in\u2019 on priority initiatives to help establish design-led approaches and digital ways of working. This creates opportunities for design and policy to fall into step - sometimes through direct partnerships with policy, and sometimes by embedding questions about policy architecture within design research. We have experimented with different forms of governance. This prototype helped us think about previous experiences and potential future iterations that can support design and delivery across the Ministry, with a focus on governance.",
+                "tag": "p"
+            },
+            {
+                "content": "This pattern is helpful because it creates a structured flow: trigger \u2192 governance \u2192 shared vision \u2192 multidisciplinary team \u2192 enablers. It helps teams spot when and how to involve service design, and ensures a shared roadmap is in place from the beginning.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge is often related to people's time, skills, and availability. Multidisciplinary teams can\u2019t always mobilise at speed. That\u2019s why the pattern is designed with flexibility in mind. For large reforms, the \u201cfull\u201d version with structured governance points may be needed. For smaller policies, the \u201clight\u201d version \u2014 just a shared vision, a multidisciplinary team, and regular check-ins \u2014 may be enough.",
+                "tag": "p"
+            },
+            {
+                "content": "Canadian colleague brought experiences from work in multiple Canadian jurisdictions and the UK. Together, we developed a pattern that resonated across our contexts. As a team, we sought to develop a pattern that could provide structure and flexibility.In British Columbia, \u201cgovernment intent\u201d is often used as an alternative to \u201cpolicy intent\u201d to signal how multiple teams - and multidisciplinary practitioners - work together to achieve a shared goal. We have found that the use of \u2018policy intent\u2019 can sometimes make this seem as something that belongs to policy practitioners alone. When government intent is the driver of service delivery, it facilitates the use of service analytics or operational pressures as a potential trigger for service design and transformation. By centering service analytics in the pattern, we could show how evidence can drive the same governance spine.",
+                "tag": "p"
+            },
+            {
+                "content": "This emphasised the universality of the approach: whether the trigger is political, analytical, or operational, the same conditions for collaboration apply.",
+                "tag": "p"
+            },
+            {
+                "content": "A pattern for international use",
+                "tag": "h2"
+            },
+            {
+                "content": "Flexibility and clarity were the two most important features. A pattern needs to be scalable: adaptable to the size of the challenge, and usable in both resource-rich and resource-stretched contexts.",
+                "tag": "p"
+            },
+            {
+                "content": "The idea of a \u201cfull model\u201d and a \u201clight version\u201d was particularly valuable. It gave colleagues from different nations confidence that they could apply the model without it becoming overwhelming.",
+                "tag": "p"
+            },
+            {
+                "content": "Simplicity of visuals also matters. The shared diagrams and metaphors (like the \u201cgovernance spine\u201d and \u201cmuscles\u201d) made it easier to communicate the model across contexts.",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, universal enablers such as analytics, ethics, and inclusivity give patterns international relevance. By focusing on outcomes for people and businesses, not just internal processes, patterns remain grounded in public value.",
+                "tag": "p"
+            },
+            {
+                "content": "We also reflected on how the pattern could link to experiments like the Policy CoLab in the UK\u2019s Department for Business & Trade. Embedding designers and researchers directly into policy teams is a live example of how some of these ideas can be tested in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "Patterns help designers collaborate across borders",
+                "tag": "h2"
+            },
+            {
+                "content": "We found that patterns help designers collaborate across borders \u2026and in ways we hadn\u2019t anticipated.",
+                "tag": "p"
+            },
+            {
+                "content": "The collaboration process, sparked by participating in the conference. mirrored what we were trying to achieve in the pattern. Our initial workshops gave us shared direction and a vision. Afterwards, asynchronous working allowed individuals to take ownership, develop ideas in detail, and bring them back to the group for feedback. This gave us both depth and breadth, and reflected the flexibility of the pattern we were building.",
+                "tag": "p"
+            },
+            {
+                "content": "The substance of our discussions also highlighted shared challenges. Whether in the UK or Canada, teams often face late alignment between intent and delivery, or lack clear governance structures to keep them in sync. Seeing these issues converge across systems and organisations gave us confidence that the problem and the pattern is universal.",
+                "tag": "p"
+            },
+            {
+                "content": "The next step for us is to test. Each of us will explore how the governance spine could be applied in live projects, and how flexible models (full or light) might play out in practice. And we hope to keep the international dialogue open, so we can continue learning together.",
+                "tag": "p"
+            },
+            {
+                "content": "Closing reflections",
+                "tag": "h2"
+            },
+            {
+                "content": "The Public Design Conference and its mini-conferences highlighted just how universal the challenge is of keeping government intent and delivery aligned. Every nation\u2019s stories pointed to the same friction points: intent set in one place, delivery handled somewhere else, and the gaps that appear in between.",
+                "tag": "p"
+            },
+            {
+                "content": "Our pattern showed that design shouldn\u2019t be misconstrued as being solely about building or maintaining services at the end of a process, but about informing how government intent is translated into services people can use. It also showed how design can help make that intent more deliverable, by surfacing user needs and operational realities earlier.",
+                "tag": "p"
+            },
+            {
+                "content": "The process was also a reminder of the value of working across borders. Different contexts sharpened our thinking, while similarities reassured us that we\u2019re not alone in these challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "The impact of the exercise goes beyond a single prototype: it\u2019s about building a shared language, simple tools, and the confidence to try new ways of connecting intent to delivery.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://publicpolicydesign.blog.gov.uk/2026/06/04/from-intent-to-impact-an-international-pattern/",
+        "blog": "Public Policy Design",
+        "blog_link": "https://publicpolicydesign.blog.gov.uk",
+        "description": "Government experts from the UK and Canada describe the conditions that enable design collaboration."
+    },
+    {
+        "title": "ADOPT: new funding rounds open",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-06-04T10:35:03",
+        "categories": [
+            "Payments for research and innovation"
+        ],
+        "content": [
+            {
+                "content": "With new funding rounds now open, farmers and growers have another opportunity to apply for support through the Accelerating Development of Practices and Technologies (ADOPT) Fund.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Trying something new can involve time,\u00a0cost\u00a0and uncertainty. ADOPT helps reduce that risk by funding practical, on-farm trials and demonstrations led by farmers themselves.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The focus is on ideas that can be tested in real farming conditions and shared more widely. Projects help build confidence in new ways of working that could improve productivity,\u00a0resilience\u00a0and sustainability.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "ADOPT Facilitator Support Grant \u2013 Round\u00a09\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "This grant supports applicants to prepare a strong Full ADOPT Grant application by funding access to an external facilitator.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Facilitators can help applicants develop project ideas, shape proposals, build partnerships and\u00a0identify\u00a0the\u00a0expertise\u00a0needed to support a project.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Deadline:\u00a08 July\u00a02026\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Read the guidance and apply for the\u00a0Facilitator Support Grant.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Full ADOPT Grant \u2013 Round\u00a08\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "This grant supports collaborative, farmer-led on-farm\u00a0trials\u00a0and demonstration projects.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Projects should test innovative practices or technologies in real farming settings and generate practical insights that can be shared across the sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Deadline:\u00a029 July\u00a02026\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Read the guidance and apply for\u00a0the Full ADOPT Grant.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Application support\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Those considering an application can also access free support through the\u00a0ADOPT Support Hub, delivered by ADAS, UK Agri-Tech Centre and the Soil Association.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The hub provides guidance on project scope and application\u00a0development, and\u00a0can help connect applicants with relevant technical and industry\u00a0expertise. It also supports knowledge sharing between projects across the programme.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Innovate UK also delivered\u00a0a webinar\u00a0when the fund first launched in 2025. It covers the application process, what makes a strong application and what applicants should consider before\u00a0submitting.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "ADOPT is part of the\u202fFarming Innovation Programme, delivered in partnership with Innovate UK. Funding rounds are ongoing until November 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If\u00a0you\u2019d\u00a0like to be notified\u00a0when\u00a0new information\u00a0about funding is available, you can\u00a0subscribe to the Farming Blog.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/06/04/adopt-new-funding-rounds-open/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Farmers, growers and foresters across England can now apply for new rounds of funding through the Accelerating Development of Practices and Technologies (ADOPT) Fund. These grants help farmers run trials and demonstrations to test new approaches in real farming conditions and share what they learn."
+    },
+    {
+        "title": "Could you find it if it already existed?\u00a0Making reuse easier across government using AI search\u00a0",
+        "authors": [
+            "Emma Nicol"
+        ],
+        "posted_on": "2026-06-04T10:11:14",
+        "categories": [
+            "AI",
+            "Design",
+            "Our services",
+            "Reuse Library",
+            "service design"
+        ],
+        "content": [
+            {
+                "content": "Here is a familiar frustration. You are working on\u00a0something,\u00a0and you are almost certain another team has tackled the same problem before.\u00a0You cannot find what they did, so you\u00a0start from scratch. Two weeks later, it turns out you were right,\u00a0It\u00a0already existed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That is the gap the GOV Reuse Library exists to close.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0GOV Reuse Library\u00a0is a place that brings together reusable elements from across government, things like design components, service patterns, and guidance, so teams can find and use what already exists rather than building it again from scratch. And this year, we took a big step forward in making it work better.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It started with listening. Through workshops, roadshows and feedback sessions, the same thing kept coming up: teams want to reuse more, but they cannot always find what is out there. As more departments build and develop their own design systems, there is more\u00a0good work\u00a0available than ever. The problem is it is spread across lots of places, and if you cannot find it, you cannot reuse it. That means duplicated effort, higher costs, and services that feel less consistent for the people using them.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So,\u00a0we decided to do something about it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building on what the community already started\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is not the first time the problem has been tackled. In 2024, the GOV.UK Design System team ran a Connecting Design Systems\u00a0hackday, where people from across government explored ideas to better connect design systems. Two themes came up repeatedly: making it easier to discover what already\u00a0exists, and\u00a0being able to search using natural language rather than knowing exactly what something is called.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We wanted to take those ideas further.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In February 2026, MoJ and the GOV.UK Design System team ran a second cross-government hack event, bringing together more than 100 people from across government to explore how components and patterns could become easier to find and reuse.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The ideas that came out of that day were genuinely inspiring. Teams explored ways to describe what they are trying to do in plain language and be guided to relevant components, including concepts like matching hand-drawn sketches to existing design patterns. Others focused on making reuse feel more intuitive, from AI chatbot-style entry points to story-based journeys that help teams understand how a pattern works in practice. There were even ideas about raising the visibility of reuse across\u00a0government including\u00a0a cross-government design system\u00a0\u201cbake-off\u201d\u00a0which\u00a0we would very much like to see happen.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From concept to something you can test\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We partnered with a consultancy on a four-week sprint to build a working proof of concept, taking the best ideas from the\u00a0hackday\u00a0and exploring what we could realistically build and test.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The idea we kept returning to was simple: give people a way to search for components and patterns based on the problem they are trying to solve, rather than the name of a specific\u00a0component\u00a0they may not know.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This meant bringing together elements from design systems across government, so people could explore how similar problems have been solved and compare different approaches. But the other theme that came through strongly was trust. People need to feel confident that what they find is\u00a0appropriate to\u00a0use, not just technically available. So alongside search, we wanted to surface the information that helps people make informed decisions: accessibility,\u00a0component\u00a0maturity, and whether supporting research exists.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When AI\u00a0takes a seat at the table\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the work developed, we started to think about how AI could help bridge a specific gap.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge is\u00a0largely one\u00a0of language. People describe problems in their own words. Design systems organise things using specific names and structures. That gap makes it harder to connect the two. AI gave us a way to interpret what someone is trying to do and match it to relevant components and patterns, without requiring them to know what something is called.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working with our engineers, we explored how AI could run a similarity search across design system content, looking for patterns that are similar in meaning rather than matching keywords. We also looked at how it could surface\u00a0additional\u00a0context alongside results, such as accessibility information, the maturity of a\u00a0component, and whether supporting research exists.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What made this\u00a0feasible\u00a0is that most government design systems already describe components in a consistent way, covering when to use them, how they work, accessibility, and research. There are still differences in naming and how things like maturity or status are defined. But there is enough consistency to start connecting things in a more meaningful way.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can watch a short demo of what we built.",
+                "tag": "p"
+            },
+            {
+                "content": "The prototype meets its first real users\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During the showcase and in the week that followed, we asked people to try the prototype and share their feedback.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The overall response was positive. People quickly understood the idea of searching by problem rather than by name, and there was clear interest in this approach.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The feedback also surfaced some\u00a0important areas\u00a0to work on. Relevance was the main one. While some results were useful, others were too broad or did\u00a0not quite match\u00a0what people were looking for. That told us the core idea works in principle, but getting the accuracy right matters a great deal in practice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "People also wanted more context alongside results: screenshots, examples of components in real services, and clearer signals about what is most relevant and where it is coming from.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "More than 60 people took the time to try the prototype and share their thoughts. That feedback has been invaluable in helping us understand what works, what needs improving, and what it would take to make this genuinely useful.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can watch the full showcase. ",
+                "tag": "p"
+            },
+            {
+                "content": "Where we go from here\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This was a focused piece of exploration. It has helped us understand what is possible, where the challenges are, and what the community\u00a0actually needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The concept shows real potential. Next, we will look at how something like this could be built into and supported by the GOV Reuse Library, improving relevance, consistency, and the quality of the information being surfaced.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will keep working with the community to shape what reuse should look like across government, and to build something that genuinely supports teams to design and develop services using what already exists.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will also be presenting this work at\u00a0UX Scotland, where we will share more about what we built, what we learned, and what might come next. We would love to see you there.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are a cross-government working group and we would love to involve more people. If you work in government, have ideas, or care about reuse and design systems, please get in touch at\u00a0reuse-library@justice.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2026/06/04/could-you-find-it-if-it-already-existed-making-reuse-easier-across-government-using-ai-search/",
+        "blog": "Justice Digital, Data and Science ",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "Here is a familiar frustration. You are working on\u00a0something,\u00a0and you are almost certain another team has tackled the same problem before.\u00a0You cannot find what they did, so you\u00a0start from scratch. Two weeks later, it turns out you were right,\u00a0It\u00a0already existed.\u00a0 \u2026"
+    },
+    {
+        "title": "Celebrating our places: Giving back through corporate contributions",
+        "authors": [
+            "Kathryn McCarter"
+        ],
+        "posted_on": "2026-06-04T10:09:18",
+        "categories": [
+            "Places for Growth"
+        ],
+        "content": [
+            {
+                "content": "What difference can you make in your community this year?",
+                "tag": "h3"
+            },
+            {
+                "content": "Here in the Places for Growth (PfG) team, we\u2019re setting a challenge to think differently about your corporate contribution, and inviting you to focus closer to home when setting these objectives.",
+                "tag": "p"
+            },
+            {
+                "content": "By focusing on \u2018place\u2019, you can grow professionally and personally. Local objectives can help to expand your network, build new partnerships and pave the way for the next generation of civil servants in your community. This also supports the objectives of PfG in developing meaningful career pathways across the country, strengthening policy-making outside of London and supporting talent into government.",
+                "tag": "p"
+            },
+            {
+                "content": "\"As Head of Place in the East of England, I'm passionate about opening up the Civil Service to our communities. In our first year, Civil Service leaders across the region voluntarily delivered 80 school and college presentations to over 3,000 sixth form students, raising awareness of the careers and opportunities available, with one student already securing an apprenticeship. We've since launched a work placement pilot spanning 10 departments and 80 students this summer, with brilliant collaborations between teams including His Majesty's Revenue and Customs (HMRC), Border Force, His Majesty's Treasury, Cabinet Office and the Government Commercial Agency. Community outreach is an incredibly rewarding way to strengthen your network and support talent into the Civil Service. Reach out to your local Head of Place to learn about opportunities in your region!\" \u2013 Sally Collier, Head of Place, East of England.",
+                "tag": "p"
+            },
+            {
+                "content": "Examples of place-based corporate contribution objectives",
+                "tag": "h3"
+            },
+            {
+                "content": "PfG is strengthening government presence across the country, ensuring civil servants can lead meaningful careers without having to leave their local communities. At the heart of this transformation are the individuals going above and beyond to invest in their community.",
+                "tag": "p"
+            },
+            {
+                "content": "Whether it\u2019s mentoring colleagues, organising community outreach, or leading a local network, setting an objective that is local to you can be a great way of building relationships and broadening your horizons. Programmes like Catapult are a great way in. This sponsorship and mentoring programme aims to support staff from less privileged backgrounds to build confidence and progress. You can reach out to the Ministry of Justice (MoJ) Social Mobility team to find out how to get involved.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAs HR Network Lead for One South West, I bring together people leaders across the region to build stronger connections, share best practice, and develop collective solutions to workforce challenges. The network strengthens collaboration across organisations, supports capability-building, and helps ensure that our people strategies are genuinely place-based and responsive to local communities. Personally, it is hugely rewarding to see the power of partnership in action and to play a role in shaping a more joined-up, people-centred civil service across the South West.\u201d \u2013 Amy Carrillo, Chief People Officer, United Kingdom Hydrographic Office, Taunton, Somerset",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cOver the past 2 years, I've been incredibly proud to support a passionate group of volunteers, at all grades and drawn from many departments, who are committed to building cross government learning and development opportunities in Scotland. We've now built networks that reach well over 1,000 civil servants, and put on regular events to bring people together. It's been fantastic to see the impact this has had in building our community and supporting colleagues' progress in their careers.\u201d \u2013 Matthew Allan, Deputy Director, Cabinet Office, and Deputy SRO for the Cabinet Office in Scotland",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe Birmingham Hub Network connects colleagues across departments, roles and grades at 23 Stephenson Street. We've added real value to how the Birmingham hub works, turning co-location into genuine collaboration. Personally, leading this network has been hugely valuable for me to build meaningful connections in the city I grew up in and understand how we can drive real impact by coming together around a shared purpose\u201d \u2013 Rizwan Khan, Regional Support Manager, Department for Business and Trade, Birmingham.",
+                "tag": "p"
+            },
+            {
+                "content": "A more connected Civil Service is built through people, place and community. We are celebrating those leading this work across the country. As you set your objectives this year, think about how you can be a part of this transformation too!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://civilservice.blog.gov.uk/2026/06/04/celebrating-our-places-giving-back-through-corporate-contributions/",
+        "blog": "Civil Service",
+        "blog_link": "https://civilservice.blog.gov.uk",
+        "description": "What difference can you make in your community this year? Here in the Places for Growth (PfG) team, we\u2019re setting a challenge to think differently about your corporate contribution, and inviting you to focus closer to home when setting these \u2026"
+    },
+    {
         "title": "Food Fact Check: Animal welfare in abattoirs and slaughterhouses",
         "authors": [
             "Animal Welfare Team, Food Standards Agency"
