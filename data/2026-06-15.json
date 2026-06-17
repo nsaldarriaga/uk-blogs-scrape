@@ -1,5 +1,1558 @@
 [
     {
+        "title": "Coverage of AI planning tools announcement\u00a0\u00a0",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-06-17T16:45:19",
+        "categories": [
+            "Housing",
+            "Planning",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "There is positive national coverage following a joint announcement by MHCLG and DSIT of two new AI-powered planning tools designed to speed up planning decisions and support the government's ambition to build the homes this country needs.",
+                "tag": "p"
+            },
+            {
+                "content": "Press Association ran the cross-departmental story following proactive sell-in from comms and a technical media briefing ahead of publication. The piece leads on MHCLG funding an \u00a38.2 million contract with Google to pilot an early-stage AI tool that could halve the time it takes to process planning proposals. It also reports on a second tool, Extract, now available to all councils in England, which converts old planning documents and maps into usable data within minutes, cutting an estimated 250,000 hours of manual document checking each year.",
+                "tag": "p"
+            },
+            {
+                "content": "The Times focuses on the national rollout of the Extract tool, which was trialled across 20 local planning authorities and is expected to save the average council around 255 hours of manual work. It also reports that Barnet, Camden and Dorset councils will trial the AI tool developed with Google DeepMind and Faculty, which could halve decision times for householder applications, such as extensions and loft conversions, from eight to four weeks.",
+                "tag": "p"
+            },
+            {
+                "content": "The Telegraph\u00a0similarly focuses on the\u00a0three-council\u00a0trial, noting that the AI tool will suggest decisions on routine planning applications including loft extensions, kitchen\u00a0extensions\u00a0and bedroom conversions.",
+                "tag": "p"
+            },
+            {
+                "content": "Politico highlighted the very early-stage AI tool developed by Google DeepMind. The write up focused closely on the Augmented Planning Decisions (APD) and highlighted its impressive overlays on Ordnance Survey maps with the help from Google Street View integration.",
+                "tag": "p"
+            },
+            {
+                "content": "This announcement has been widely welcomed by stakeholders including the Royal Town Planning Institute, the Planning Officers Society, the Digital Task Force for Planning, and the Royal Institute of British Architects.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/06/17/coverage-of-ai-planning-tools-announcement/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "There is positive national coverage following a joint announcement by MHCLG and DSIT of two new AI-powered planning tools designed to speed up planning decisions and support the government's ambition to build the homes this country needs. Press Association ran \u2026"
+    },
+    {
+        "title": "Government offer to resident doctors\u00a0\u2013 explainer\u00a0\u00a0",
+        "authors": [
+            "DHSC Media Team"
+        ],
+        "posted_on": "2026-06-17T16:34:47",
+        "categories": [
+            "Workforce"
+        ],
+        "content": [
+            {
+                "content": "Resident doctors are currently voting on whether to accept a significant offer from the government which would improve their pay, working conditions and career progression.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The British Medical Association (BMA) is\u00a0consulting\u00a0its\u00a0members via a referendum, and doctors have until Friday 26 June\u00a0to vote. A simple majority is needed to accept the offer and bring the\u00a0dispute\u00a0to an\u00a0end\u00a0long-term.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here we explain what you need to know about the offer \u2013 and what it would\u00a0do for resident doctors.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How much do resident doctors\u00a0currently\u00a0earn?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Resident doctors have had a 28.9% pay rise over the last three years \u2013 the highest anywhere in the public sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last year, the basic full-time pay for the newest doctors at Foundation Year 1 was \u00a338,831.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through this offer\u00a0plus\u00a0the\u00a0separate\u00a0increase recommended by the independent pay review body,\u00a0that\u00a0would rise by 6.2% to \u00a341,226.\u00a0This\u00a0doesn\u2019t\u00a0include\u00a0additional\u00a0earnings from working\u00a0additional\u00a0contracted or unsocial hours. On average, these can increase earnings for FY1 doctors by 26%.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That is\u00a0substantially more, in a resident doctor\u2019s first year, than the average full-time worker in this country earns.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last year, for the most experienced full-time resident doctors, basic pay was \u00a373,992.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through this offer and the DDRB, this would rise 4.5% to \u00a377,348, even before\u00a0additional\u00a0earnings are included.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How would the offer improve pay?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The offer would deliver meaningful, immediate pay rises while also reforming how pay works in the longer term.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This year, resident doctors would receive an average pay rise of 4.9%, bringing the total increase over four years to 35.2%. First and second-year doctors \u2014 typically the lowest paid \u2014 would receive even higher rises of 6.2% and\u00a07.1%\u00a0respectively.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A full breakdown of the pay structure reform and pay rises over the next two years is available here.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Longer term, the offer reforms the pay structure so that doctors receive pay rises more\u00a0frequently\u00a0as they gain new clinical competencies, rather than waiting for set points in their career. This June offer\u00a0brings forward pay scale reform so that resident doctors experience the benefits of the pay rises faster compared with the offer set out in March.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On top of\u00a0this, resident doctors would also receive a\u00a0further\u00a0annual\u00a0pay rise\u00a0set\u00a0by the independent pay review body. Because this is\u00a0decided\u00a0independently, the exact figure is not yet known\u00a0-\u00a0but\u00a0comes in addition to\u00a0everything described above.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How does the offer improve working conditions?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The offer would also put\u00a0more\u00a0money back in resident doctors\u2019 pockets through the reimbursement of mandatory Royal College portfolio fees and mandatory examinations costs, often worth thousands of pounds.\u00a0It would also uplift the Flexible Pay Premia, which is paid to trainees in England who complete an approved higher degree and returned to clinical training,\u00a0to \u00a310,000.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The offer also provides greater stability for Locally Employed\u00a0Doctors\u00a0(LEDs)\u00a0who are\u00a0currently\u00a0employed on a different contract to most resident doctors, allowing them to progress more easily into higher training and improve their terms and conditions\u00a0so they are aligned with the 2016 national resident doctor contract.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Doctors who work less than full time\u00a0(LTFT)\u00a0would also be able to progress on an annual basis, giving greater flexibility and fairness for those who need to balance work with other commitments.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How does the offer improve career progression?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "To tackle training bottlenecks which can hinder career progression, the offer would also trigger the implementation of up to an\u202fadditional\u202f4,500\u202ftraining posts\u00a0over the next three years, with 250 of these roles\u202fstarting\u202fin February 2027.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Trusts will be asked to create these roles with funding partially coming from repurposing spending on LEDs, medical\u00a0locums\u00a0and agency work.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These are the jobs that early-career resident doctors graduate into\u00a0to\u00a0train for speciality role, such as being an anaesthetist\u00a0or\u00a0orthopaedic surgeon.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This builds on the Medical Training Prioritisation Act, the new law this government has already brought in, which is expected to halve competition ratios for this year\u2019s applicants.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How long\u00a0would\u00a0resident doctors have to wait to feel the impact of these changes?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Different elements of the\u00a0offer\u00a0will take different amounts of time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is the offer fully funded?\u00a0How are you affording this offer?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Yes. The offer is fully funded from\u00a0DHSC\u2019s\u00a0existing\u00a0budgets, with no\u00a0additional\u00a0cost to patients or taxpayers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Further detail on the funding arrangements will be made available if the offer is accepted.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How is\u00a0this\u00a0offer different from the one made in\u00a0March?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The government has carefully listened to feedback provided by the BMA Resident Doctors Committee on behalf of their membership and worked with the BMA to strengthen and clarify the offer originally made in March.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What happens if the BMA\u00a0doesn\u2019t\u00a0accept this offer?\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "This is a one-time offer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The impact of further strikes will make it operationally and financially impossible for the government to be able to present such a generous offer again.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Faced with further strikes, the\u00a0offer\u00a0will get worse, not better.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://healthmedia.blog.gov.uk/2026/06/17/government-offer-to-resident-doctors-explainer/",
+        "blog": "Department of Health and Social Care Media Centre",
+        "blog_link": "https://healthmedia.blog.gov.uk",
+        "description": "Resident doctors are currently voting on whether to accept a significant offer from the government which would improve their pay, working conditions and career progression.\u00a0\u00a0 The British Medical Association (BMA) is\u00a0consulting\u00a0its\u00a0members via a referendum, and doctors have until Friday 26 \u2026"
+    },
+    {
+        "title": "Driving productivity and using our success to improve further\u00a0",
+        "authors": [
+            "Tom Warth"
+        ],
+        "posted_on": "2026-06-17T16:04:38",
+        "categories": [
+            "Performance",
+            "Service improvement"
+        ],
+        "content": [
+            {
+                "content": "Tom Warth (Chief Operating Officer) shares what the Planning Inspectorate has done in the last three years to make planning much more certain for the whole sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Certainty matters in planning. Delays and uncertainty have real consequences \u2014 for communities, for investment, and for the planning\u00a0system as a whole.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, I wanted to share honestly what\u00a0we\u2019ve\u00a0done in the last three years to improve our productivity and make planning much more certain for the whole sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where we were\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Our Strategic Plan 2024-2027 set a clear ambition: reduce backlogs and deliver faster, more consistent decisions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The ambition was\u00a0born\u00a0of necessity. Three years ago, we were in a difficult position. In June 2023, live appeals in the system had peaked at 14,159, with only 23% of decisions being made within the ministerial measure of 20 weeks for appeals\u00a0proceeding\u00a0by written representations and 26 weeks for appeals\u00a0proceeding\u00a0by hearings or inquiries.",
+                "tag": "p"
+            },
+            {
+                "content": "How we turned things around\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "By\u00a0April\u00a02026, the picture looks\u00a0considerably different:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The statistics provided above are taken from\u00a0internal management information.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve\u00a0got here through\u00a0a whole range\u00a0of interventions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During this period of improvement, our quality assurance work shows that the quality of the decisions we issue has\u00a0remained\u00a0at the high-level we pride ourselves on and that people expect.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What comes next?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This blog is by no means a way of suggesting\u00a0we\u2019ve\u00a0cracked it and it is plain sailing from here on in. However, it does\u00a0demonstrate\u00a0how performance and productivity can improve through a combination of taking an honest and practical approach, and it\u00a0definitely helps\u00a0having highly skilled and dedicated teams.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we head into the final year of our Strategic Plan, of course there is still more to do,\u00a0in particular in\u00a0improving times for enforcement appeals\u00a0proceeding\u00a0by written representations and appeals involving trees, high\u00a0hedges\u00a0and hedgerows.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Historically, focus has centred on the appeals service because\u00a0that's\u00a0where the volume and data have been strongest.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But a similar focus on output and productivity is embedded across all our services - local plans, infrastructure, specialist casework like rights of way and commons and applications like crown developments.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All of\u00a0these services are seeing significant changes to policy and legislation with demands and expectations on the Inspectorate increasing.\u00a0We\u2019ve\u00a0taken the lessons from the past few years and are applying them across our\u00a0services,\u00a0so we are ready for this challenge. Whether it is improving our data, investing in\u00a0recruitment\u00a0and training, developing new digital tools or engaging with external stakeholders, our cross-functional service teams are in a good place to help deliver the Government\u2019s ambitions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The progress in the appeals service shows that sustained, structured effort really can shift the dial.\u00a0We're\u00a0determined\u00a0to apply those lessons right across the organisation \u2014 and\u00a0we'd\u00a0always welcome your feedback on where the system is working well and where it\u00a0isn't.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://planninginspectorate.blog.gov.uk/2026/06/17/driving-productivity-and-using-our-success-to-improve-further/",
+        "blog": "Planning Inspectorate",
+        "blog_link": "https://planninginspectorate.blog.gov.uk",
+        "description": "Tom Warth (Chief Operating Officer) shares what the Planning Inspectorate has done in the last three years to make planning much more certain for the whole sector."
+    },
+    {
+        "title": "Our courts and tribunals estate: a year of progress\u00a0",
+        "authors": [
+            "Rupert Morgan, Property Director, HMCTS"
+        ],
+        "posted_on": "2026-06-17T14:21:57",
+        "categories": [
+            "Court and tribunal reform",
+            "General"
+        ],
+        "content": [
+            {
+                "content": "Rupert Morgan, Property Director at HMCTS, reflects on a year of real progress from\u00a0a\u00a0new courthouse\u00a0roof\u00a0in\u00a0Nottingham\u00a0to a\u00a0brand\u00a0new\u00a0tribunals centre in London and looks ahead to an ambitious programme of investment and improvement.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What stands out as the greatest achievements\u00a0across\u00a0our court and tribunal buildings\u00a0within\u00a0the last year?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "My team\u00a0is responsible for\u00a0delivering\u00a0large-scale\u00a0projects,\u00a0such as new court and tribunal buildings, and\u00a0smaller work, like fixing leaking roofs or refurbishing courtrooms.\u00a0Each project no matter the\u00a0scale has\u00a0an important role\u00a0to play in delivering justice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The scale of what the team has delivered this year is something\u00a0I'm\u00a0genuinely proud of.\u00a0We\u2019ve\u00a0delivered\u00a0a record\u00a0number\u00a0of\u00a0capital\u00a0projects\u00a0across\u00a0our buildings\u00a0in 2025/26 around\u00a0540\u00a0which is a significant increase\u00a0on previous years.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We opened\u00a0the new London Tribunals\u00a0Centre\u00a0at Newgate Street earlier this year,\u00a0now the largest\u00a0tribunal\u00a0centre\u00a0in the UK.\u00a0The new venue replaces two ageing sites with a modern, accessible and flexible centre, providing improved facilities for our users.",
+                "tag": "p"
+            },
+            {
+                "content": "And in Harrow, we reopened the Crown Court in April, bringing\u00a0eight\u00a0much needed\u00a0hearing\u00a0rooms back into operation\u00a0after\u00a0nearly three\u00a0years of closure.",
+                "tag": "p"
+            },
+            {
+                "content": "What has made the biggest difference for people using our buildings?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u00a0care deeply about our buildings and the people who use and work in them.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For many\u00a0people, the improvements that matter most are the ones they may not\u00a0notice a courtroom\u00a0that\u2019s\u00a0the right temperature, a lift that works, a waiting area\u00a0that\u2019s\u00a0dignified.\u00a0That's\u00a0where\u00a0a significant portion\u00a0of our spending\u00a0goes, because\u00a0failings in these areas directly\u00a0impact\u00a0our users.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But\u00a0we've\u00a0also delivered improvements people will notice directly. At Reading Crown Court,\u00a0we're\u00a0improving the\u00a0quality and\u00a0capacity\u00a0of the building by\u00a0creating a\u00a0new courtroom, a remote hearings room,\u00a0a viewing room for those attending virtual proceedings in person\u00a0and\u00a0a new jury area.\u00a0This\u00a0project is expected to complete by the end of 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve\u00a0replaced\u00a0the ventilation and cooling systems at Bexley Magistrates Court\u00a0to make the\u00a0building more comfortable, refurbished all courtrooms at Darlington Magistrates\u2019 Court\u00a0and\u00a0we\u2019re\u00a0renovating\u00a0two courtrooms\u00a0at Manchester\u2019s Crown Square Crown Court.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How has working with partners helped\u00a0to\u00a0improve\u00a0our\u00a0court\u00a0and\u00a0tribunal\u00a0buildings?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Partnership is central to how we work.\u00a0Close collaboration with the judiciary and operational colleagues\u00a0helps us\u00a0understand where problems are and what impact\u00a0they're\u00a0having, shaping\u00a0how we prioritise\u00a0the money we spend on maintenance\u00a0to keep buildings safe, secure, and operational.\u00a0The project to replace the roof at Nottingham Crown Court is an example of this collaboration in action.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For larger capital projects, partnership with local organisations has also been important. The new City of London Law Courts at Salisbury Square is being delivered with the City of London Corporation. ",
+                "tag": "p"
+            },
+            {
+                "content": "And in Blackpool,\u00a0we're\u00a0working with Blackpool Council on a\u00a0new purpose-built\u00a0courthouse.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are you most excited about for the next 12 months?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The\u00a0scale of what we can now deliver with\u00a0our\u00a0increased\u00a0funding\u00a0-\u00a0\u00a3287 million\u00a0in 2026/27\u00a0to\u00a0deliver vital repairs and digital upgrades\u00a0across the estate.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're\u00a0carrying around 300\u00a0ongoing\u00a0live projects into 2026/27, ranging from essential maintenance\u00a0through\u00a0to major new facilities that will add real capacity to the justice system.\u00a0Projects\u00a0in\u00a0Reading\u00a0and\u00a0Blackpool\u00a0will give communities modern, purpose-built spaces,\u00a0but\u00a0I'm\u00a0equally excited about the hundreds of smaller improvements that will make a real difference to people attending our buildings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m\u00a0particularly\u00a0excited about\u00a0the new City of London Law Courts.\u00a0We\u2019ll\u00a0start fitting it out this autumn, ready for hearings to\u00a0begin\u00a0in\u00a02027.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u00a0are the main\u00a0challenges\u00a0with\u00a0our\u00a0buildings?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Years of underinvestment meant essential repairs were deferred and problems accumulated.\u00a0We're\u00a0now working through that list, prioritising the issues that could affect the ability to hold hearings,\u00a0but\u00a0it\u2019s\u00a0likely that the condition of our buildings will\u00a0remain\u00a0a challenge\u00a0for some time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're\u00a0managing\u00a0more than\u00a0350\u00a0buildings, many of which are old or listed, and which\u00a0weren't\u00a0designed to meet modern operational or environmental standards. That creates genuine complexity\u00a0when planning improvements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some projects have also been affected by instabilities in the construction industry, causing delays we\u00a0hadn't\u00a0anticipated. ",
+                "tag": "p"
+            },
+            {
+                "content": "Where\u00a0that\u2019s\u00a0happened,\u00a0we've\u00a0worked to\u00a0identify\u00a0new contractors and keep projects moving.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How do you sustain momentum\u00a0in improving\u00a0our buildings?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We are focussed on replacing\u00a0buildings\u00a0that are\u00a0too costly to fix,\u00a0reducing the backlog of maintenance work and improving the environment within our buildings\u00a0for everyone who uses them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Knowing\u00a0what\u00a0we\u00a0can\u00a0spend\u00a0over a longer period\u00a0means\u00a0we can plan\u00a0better\u00a0like arranging\u00a0inspections, designing improvements, hiring contractors\u00a0providing\u00a0better value for money\u00a0and minimising disruption.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sustainability\u00a0is\u00a0also\u00a0a priority.\u00a0Our ambition is to reach net zero carbon by 2050, and\u00a0we're\u00a0making real\u00a0progress.\u00a0Since 2018, HMCTS has reduced\u00a0its\u00a0annual\u00a0CO2 emissions by\u00a040% - which is 30,000kg C02eq.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s\u00a0the equivalent of taking 15,000 cars off the road for a year a real achievement across a complex and ageing estate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is there\u00a0a project\u00a0you're\u00a0particularly proud of?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Seeing\u00a0Harrow Crown Court\u00a0reopen in April\u00a0was a real milestone.\u00a0This \u00a326 million investment addressed the RAAC (reinforced autoclaved aerated concrete) issues that forced its closure in August 2023. The project also involved what is believed to be the largest scaffolding operation of its kind in Europe, reflecting the scale and complexity of the works\u00a0required.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The court has now returned with eight operational courtrooms, helping to reduce the criminal backlog across London.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I'm\u00a0also proud of the full range of what the team has delivered. People come to our courts at some of the most difficult moments in their\u00a0lives, and\u00a0making the buildings they enter\u00a0fit\u00a0for purpose is something\u00a0my team and\u00a0I care deeply about.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We have record investment, strong\u00a0partnerships\u00a0and a clear plan. Every improvement whether a new roof, a working\u00a0lift\u00a0or a\u00a0new\u00a0building makes a real difference to people who come to court.\u00a0Follow our progress\u00a0and find out more about how we are\u00a0improving\u00a0our\u00a0court and tribunal buildings,\u00a0by\u00a0listening\u00a0to our recent\u00a0podcast.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\n[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Ein hystad llysoedd a thribiwnlysoedd: blwyddyn o gynnydd\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae Rupert Morgan, Cyfarwyddwr Eiddo yn GLlTEF, yn myfyrio ar flwyddyn o gynnydd gwirioneddol \u2014 o do newydd i Adeilad Llys Nottingham i ganolfan tribiwnlysoedd newydd sbon yn Llundain - ac mae'n edrych ymlaen at raglen uchelgeisiol o fuddsoddi a gwelliant.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth sy'n sefyll allan fel y cyflawniadau mwyaf ar draws ein llysoedd a thribiwnlysoedd o fewn y flwyddyn ddiwethaf?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae fy nh\u00eem i yn gyfrifol am gyflawni prosiectau ar raddfa fawr, fel adeiladau llys a thribiwnlys newydd, a gwaith llai, fel trwsio toeau sy'n gollwng d\u0175r neu ailwampio ystafelloedd llys.\u00a0Mae pob prosiect - ni waeth beth yw'r raddfa - yn chwarae r\u00f4l bwysig i sicrhau cyfiawnder.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae graddfa'r gwaith y mae'r t\u00eem wedi'i gyflawni eleni yn rhywbeth dwi wirioneddol yn falch ohono.\u00a0Rydym wedi cyflawni'r nifer uchaf erioed o brosiectau ledled ein hadeiladau yn 2025/6 - oddeutu 540 - sy'n gynnydd sylweddol o gymharu \u00e2'r blynyddoedd blaenorol.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bu inni agor Canolfan Tribiwnlysoedd Llundain newydd yn Newgate Street yn gynharach eleni, sydd bellach yn un o'r canolfannau tribiwnlysoedd mwyaf yn y DU.\u00a0Mae'r lleoliad newydd wedi disodli dau hen safle oedd wedi gweld dyddiau gwell gyda chanolfan fodern, hygyrch a hyblyg, gan ddarparu cyfleusterau gwell i'n defnyddwyr.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Yn Llys y Goron Nottingham, bu inni gwblhau'r gwaith mawr o osod to newydd yn y gwanwyn, gan roi stop i'r holl dd\u0175r oedd yn gollwng trwy'r to a oedd wedi gorfodi staff i gau ystafelloedd llys ar sawl achlysur.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ac yn Harrow, bu inni ailagor Llys y Goron ym mis Ebrill, gan ddychwelyd i ddefnyddio wyth ystafell llys yr oedd wir eu hangen yn dilyn bron i dair blynedd o fod ar gau.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth sydd wedi gwneud y gwahaniaeth mwyaf i bobl sy'n defnyddio ein hadeiladau?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae ein hadeiladau a'r bobl sy'n eu defnyddio ac yn gweithio ynddynt yn golygu cymaint i ni.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I lawer o bobl, gall y gwelliannau pwysicaf fod yn rhai llai amlwg - ystafell llys gyda'r tymheredd iawn, lifft sy'n gweithio, ystafell aros braf ac urddasol. Dyna lle mae cyfran sylweddol o'n gwariant yn cael ei wario, oherwydd mae methiannau yn y meysydd hyn yn effeithio'n uniongyrchol ar ein defnyddwyr.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ond rydym hefyd wedi cyflawni gwelliannau y bydd pobl yn sylwi arnynt yn syth. Yn Llys y Goron Reading, rydym yn gwella ansawdd a chapasiti yr adeilad trwy greu ystafell llys newydd, ystafell ar gyfer gwrandawiadau o bell, ystafell arsylwi i'r sawl sy'n mynychu achosion rhithiol yn bersonol ac ardal rheithgor newydd.\u00a0Mae disgwyl i'r prosiect hwn gael ei gwblhau erbyn diwedd 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym wedi disodli's systemau awyru ac oeri yn Llys Ynadon Bexley i wneud yr adeilad yn fwy cyfforddus, wedi ailwampio'r ystafelloedd llys i gyd yn Llys Ynadon Darlington ac rydym yn adnewyddu dwy ystafell llys yn Llys y Goron Crown Square ym Manceinion.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae gweithio gyda phartneriaid wedi helpu i wella ein hadeiladau llys a thribiwnlys?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae gwaith partneriaeth yn ganolog i'r ffordd rydym yn gweithio.\u00a0Mae cydweithio'n agos \u00e2'r farnwriaeth a chydweithwyr gweithredol yn ein helpu i ddeall lle mae'r problemau a'r effaith maen nhw'n ei gael, gan siapio sut rydym yn blaenoriaethu'r arian rydym yn ei wario ar waith cynnal a chadw i gadw adeiladau'n saff, yn ddiogel ac yn weithredol.\u00a0Mae'r prosiect i osod to newydd ar Lys y Goron Nottingham yn enghraifft o'r cydweithio hyn\u00a0 ar waith.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer prosiectau cyfalaf mwy, mae partneriaethau gyda sefydliadau lleol wedi bod yn bwysig hefyd. Mae'r Llysoedd Barn Dinas Llundain newydd yn Salisbury Square yn cael ei gyflawni ar y cyd \u00e2'r City of London Corporation. Ac yn Blackpool, rydym yn gweithio gyda Chyngor Blackpool ar adeilad llys pwrpasol newydd. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth fydd yn digwydd yn y 12 mis nesaf sy'n gwneud i chi deimlo'n gyffrous?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Graddfa'r hyn y gallwn ei wneud gyda'r cyllid cynyddol sydd gennym - \u00a3287 miliwn yn 2026/7 i gyflawni gwaith atgyweirio hollbwysig ac uwchraddio digidol ledled yr ystad.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym yn parhau gyda tua 300 o brosiectau cyfredol wrth fynd ymlaen i 2026/7, sy'n amrywio o waith cynnal a chadw hanfodol i gyfleusterau newydd sylweddol a fydd yn ychwanegu capasiti gwirioneddol i'r system gyfiawnder.\u00a0Bydd prosiectau yn Reading a Blackpool yn darparu gofodau modern, pwrpasol i gymunedau, ond rwyf yr un mor gyffrous am y cannoedd o welliannau llai a fydd yn gwneud gwahaniaeth gwirioneddol i bobl sy'n dod i'n hadeiladau.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rwyf yn gyffrous yn enwedig am y Llysoedd Barn Dinas Llundain newydd.\u00a0Byddwn yn dechrau gosod dodrefn ac ati yn yr hydref, yn barod i ddechrau cynnal gwrandawiadau yn 2027.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth yw'r prif heriau gyda'n hadeiladau?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae blynyddoedd o danfuddsoddi wedi golygu bod gwaith atgyweirio hanfodol wedi'i ohirio ac roedd problemau wedi cronni.\u00a0Rydym bellach yn gweithio drwy'r rhestr honno, gan flaenoriaethu'r problemau a all effeithio ar y gallu i gynnal gwrandawiadau, ond mae'n debygol y bydd cyflwr ein hadeiladau yn parhau i fod yn her am beth amser.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym yn rheoli dros 350 o adeiladau - gyda llawer ohonynt yn rhai hen neu'n adeiladau rhestredig, ac sydd heb gael eu dylunio i fodloni safonau gweithredol ac amgylcheddol modern. Mae hyn yn creu cymhlethdod gwirioneddol wrth gynllunio gwelliannau.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae rhai prosiectau hefyd wedi cael eu heffeithio arnynt gan ansefydlogrwydd o fewn y diwydiant adeiladu, gan achosi oedi nad oeddem wedi rhagweld. Lle bo hynny wedi digwydd, rydym wedi gweithio i adnabod contractwyr newydd a chadw prosiectau yn symud yn eu blaenau.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut ydych yn cynnal momentwm wrth wella ein hadeiladau?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Rydym yn canolbwyntio ar ddisodli adeiladau sy'n rhy ddrud i'w trwsio, lleihau'r \u00f4l-groniad o waith cynnal a chadw a gwella'r amgylchedd o fewn ein hadeiladau i bawb sy'n eu defnyddio.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae gwybod faint yr ydym yn gallu ei wario dros gyfnod hwy yn golygu y gallwn gynllunio'n well \u2014 fel trefnu archwiliadau, dylunio gwelliannau, cyflogi contractwyr \u2013 gan ddarparu gwerth am arian gwell a lleihau aflonyddwch.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae cynaliadwyedd hefyd yn flaenoriaeth.\u00a0Ein huchelgais yw cyrraedd nod carbon net sero erbyn 2050, ac rydym yn gwneud cynnydd gwirioneddol.\u00a0Ers 2018, mae GLlTEF wedi lleihau ei allyriadau CO2 40% - sef 30,000kg o C02eq.\u00a0Mae hyn gyfwerth \u00e2 chymryd 15,000 o geir oddi ar y ffordd am flwyddyn - cyflawniad gwych ar draws ystad cymhleth sy'n heneiddio.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A oes yna brosiect ydych chi'n wirioneddol falch ohono?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Roedd gweld Llys y Goron Harrow yn ailagor ym mis Ebrill yn garreg filltir go iawn.\u00a0\u00a0Mae'r buddsoddiad hwn o \u00a326 miliwn wedi mynd i'r afael \u00e2'r problemau RAAC (concrit awyredig awtoclafiedig cyfnerth) a arweiniodd at gau'r adeilad yn Awst 2023. Roedd y prosiect hefyd yn cynnwys yr hyn a gredir yw un o'r gweithrediadau sgaffaldio mwyaf o'i fath yn Ewrop, gan adlewyrchu graddfa a chymhlethdod y gwaith yr oedd ei angen.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae'r llys bellach wedi dychwelyd gydag wyth ystafell llys gweithredol, gan helpu i leihau'r \u00f4l-groniad o waith troseddol yn Llundain.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rwyf hefyd yn falch o amrywiaeth lawn yr hyn mae'r t\u00eem wedi'i gyflawni. Mae pobl yn dod i'n llysoedd yn ystod rhai o adegau anoddaf eu bywydau, ac mae gwneud yr adeiladau maen nhw'n ymweld \u00e2 hwy yn addas i'r pwrpas yn rhywbeth sy'n agos at galon fy nh\u00eem a finnau.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rhagor o wybodaeth\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Rydym yn buddosddi mwy nag erioed o'r blaen, ac mae gennym bartneriaethau cryf a chynllun clir. Mae pob gwelliant - p'un a yw'n do newydd, lifft sy'n gweithio, neu adeilad newydd - yn gwneud gwahaniaeth go iawn i bobl sy'n dod i'r llys.\u00a0Dilynwch ein cynnydd i ganfod mwy am sut rydym yn gwella ein hadeiladau llys a thribiwnlys,\u00a0trwy wrando ar ein\u00a0podlediad diweddar.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\n[English] - [Cymraeg]",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2026/06/17/our-courts-and-tribunals-estate-a-year-of-progress/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "Rupert Morgan, Property Director at HMCTS, reflects on a year of real progress from\u00a0a\u00a0new courthouse\u00a0roof\u00a0in\u00a0Nottingham\u00a0to a\u00a0brand\u00a0new\u00a0tribunals centre in London and looks ahead to an ambitious programme of investment and improvement.\u00a0"
+    },
+    {
+        "title": "Free procurement training for schools \u2014 apply now",
+        "authors": [
+            "Communications Team"
+        ],
+        "posted_on": "2026-06-17T12:16:05",
+        "categories": [
+            "Training"
+        ],
+        "content": [
+            {
+                "content": "If you work in school or trust procurement, free training is now available to help you build confidence and improve how your organisation buys. Two programmes from the Department for Education (DfE) and the Chartered Institute of Procurement & Supply (CIPS) are open for applications.",
+                "tag": "p"
+            },
+            {
+                "content": "The DfE has partnered with CIPS to strengthen procurement capability across schools and trusts. This combines the practical support of Get Help Buying for Schools (GHBS) with recognised professional standards, giving you immediate support and longer-term development.",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters",
+                "tag": "h3"
+            },
+            {
+                "content": "Procurement is key to ensuring every pound delivers value. But many schools and trusts face limited capacity and challenges navigating compliance.",
+                "tag": "p"
+            },
+            {
+                "content": "The good news is you don\u2019t have to do this alone.",
+                "tag": "p"
+            },
+            {
+                "content": "While GHBS already supports individual procurements, there\u2019s a clear need to build longer-term capability so organisations can approach buying more consistently and strategically. This partnership is designed to do that \u2013 allowing schools to learn from qualified experts.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s available",
+                "tag": "h3"
+            },
+            {
+                "content": "Two training options are now open:",
+                "tag": "p"
+            },
+            {
+                "content": "CIPS\u2013DfE Procurement Foundations Training (pilot)",
+                "tag": "p"
+            },
+            {
+                "content": "A new, self-led online course designed specifically for education. It\u2019s aimed at staff in beginner or junior procurement roles and covers core principles, compliance, and best practice in a practical way.",
+                "tag": "p"
+            },
+            {
+                "content": "Register your interest by filling in this form.",
+                "tag": "p"
+            },
+            {
+                "content": "CIPS Procurement Fundamentals",
+                "tag": "p"
+            },
+            {
+                "content": "A one-day (six-hour) online course covering essential procurement skills across four sessions: introduction, planning and specification, tendering, and implementation.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s designed to be useful even if procurement is only part of your role.",
+                "tag": "p"
+            },
+            {
+                "content": "Apply for an autumn place by filling in this form.",
+                "tag": "p"
+            },
+            {
+                "content": "Building capability that lasts",
+                "tag": "h3"
+            },
+            {
+                "content": "This work is part of the DfE\u2019s Maximising Value for Pupils (MVP) programme. By combining GHBS support with CIPS standards we are helping schools move towards more strategic procurement, stronger internal capability, and better outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "Feedback from school and trust leaders shows strong demand for more confidence in complex decisions and more consistent approaches. These programmes are designed to support that.",
+                "tag": "p"
+            },
+            {
+                "content": "Better procurement isn\u2019t just about saving money; it\u2019s about making every decision count.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2026/06/17/free-procurement-training-for-schools-apply-now/",
+        "blog": "Buying for Schools",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "If you work in school or trust procurement, free training is now available to help you build confidence and improve how your organisation buys. Two programmes from the Department for Education (DfE) and the Chartered Institute of Procurement & Supply \u2026"
+    },
+    {
+        "title": "Join our SFI26 webinar",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-06-17T12:09:33",
+        "categories": [
+            "Sustainable Farming Incentive",
+            "Webinars"
+        ],
+        "content": [
+            {
+                "content": "Following the publication of the final Sustainable Farming Incentive 2026 (SFI26) scheme information today,\u00a0we're\u00a0hosting\u00a0a webinar\u00a0with the Farming Advice Service (FAS) on 25 June.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The session will\u00a0provide\u00a0an opportunity to hear directly from members of the SFI policy team, who will talk through the\u00a0scheme\u00a0and\u00a0answer your questions\u00a0about the offer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Colleagues from the Rural Payments Agency (RPA) and Catchment Sensitive Farming (CSF) will also attend.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether\u00a0you're\u00a0already familiar with the offer or are just starting to explore the scheme information, we hope\u00a0you'll\u00a0be able to join us.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since publishing the near-final SFI26 scheme information earlier this month,\u00a0we've\u00a0received helpful feedback from farmers, land\u00a0managers\u00a0and stakeholders.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We've\u00a0used that feedback to make a few minor updates and clarifications to\u00a0the final scheme information.\u00a0Thank you to everyone who took the time to get in touch.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before the\u00a0webinar\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Ahead of the session, we encourage you to look at:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The SFI26 scheme information, includes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Taking a look\u00a0at these resources before the\u00a0webinar\u00a0will help you get the most from the session and give you the opportunity to think about any questions\u00a0you'd\u00a0like to ask.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A reminder that\u00a0the SFI26 offer will have 2 application windows:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We expect to open the first application window to farmers in the 2 groups eligible for Window 1 from 30 June 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before we do this, we will invite a small number of eligible farmers to\u00a0apply in the next few days\u00a0to test and refine the application service in a controlled way. This is to make sure the application service is working as expected ahead of full rollout.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Register to attend\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The\u00a0webinar\u00a0will take place on 25 June at\u00a02pm.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It will finish at 3.30pm.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If\u00a0you'd\u00a0like to attend, please\u00a0register\u00a0through\u00a0Eventbrite.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We look forward to seeing you there but if you\u00a0can\u2019t\u00a0make it, don't worry. We'll\u00a0post a link to the recording in this post once the session is over\u00a0and you can watch it back when it's convenient for you.",
+                "tag": "p"
+            },
+            {
+                "content": "About the Farming Advice Service\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Farming Advice Service\u00a0provides free, independent advice to farmers and land managers on topics including funding opportunities, environmental regulations\u00a0and sustainable land management.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/06/17/join-our-sfi26-webinar/",
+        "blog": "The Farming Blog",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Following the publication of the final Sustainable Farming Incentive 2026 (SFI26) scheme information today, we're hosting a webinar with the Farming Advice Service (FAS) on 25 June."
+    },
+    {
+        "title": "Extract is here: AI-powered planning data for every council in England\u00a0",
+        "authors": [
+            "The Digital Planning team"
+        ],
+        "posted_on": "2026-06-17T11:22:06",
+        "categories": [
+            "Artificial Intelligence",
+            "Data",
+            "Digital Planning"
+        ],
+        "content": [
+            {
+                "content": "Today we have announced that Extract is now live and every local planning authority in England has free access to use this AI-powered tool, developed by MHCLG's Digital Planning Programme in partnership with the Department for Science, Innovation and Technology's Incubator for Artificial Intelligence (i.AI). Read the joint press release.",
+                "tag": "p"
+            },
+            {
+                "content": "The Prime Minister announced Extract at last year\u2019s London Tech Week and since then a multidisciplinary team has worked together, at pace, to be ready to roll out the tool to everyone this Spring, as promised.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "None of this would have been possible without the 34 local planning authorities (LPAs) who participated in user research and testing throughout Extract's development. Their involvement has been essential, helping us to build a product that works and that councils genuinely trust and use.",
+                "tag": "p"
+            },
+            {
+                "content": "A great deal of that engagement was made possible by Open Digital Planning (ODP), a network of forward-thinking councils transforming their planning services. Our community managers played a vital role too, building the trust, confidence, and enthusiasm needed to motivate councils to trial something new. Together, everyone across Digital Planning, i.AI, ODP and a handful of other councils, has enabled the successful launch of Extract.",
+                "tag": "p"
+            },
+            {
+                "content": "Andrew Powell, Local Plan co-ordinator, from Stoke-on-Trent City Council, who was involved in the tool's development, shared his experience at the recent launch event:",
+                "tag": "p"
+            },
+            {
+                "content": "So what is Extract, and why does it matter?",
+                "tag": "h2"
+            },
+            {
+                "content": "Planning authorities hold vast amounts of valuable information but too much of it is locked away in scanned PDFs, archived maps and historic documents, organised differently by each council. Planning and Geographic Information System (GIS) officers currently can spend up to 2 hours manually working through one of these records to extract the data they need and digitise it. For some document types Extract can do that same work 2 minutes.",
+                "tag": "p"
+            },
+            {
+                "content": "The tool converts planning documents - Conservation Areas, Article 4 Directions and Tree Preservation Orders - into structured, standardised, usable planning data. Upload a PDF or scanned document, and Extract identifies map features and text, including handwritten annotations which have been added to some documents over time, maps them spatially and converts them into structured data ready for use.",
+                "tag": "p"
+            },
+            {
+                "content": "Crucially, users review everything that Extract produces, check the output and makes corrections before exporting it into standardised formats for their own systems and the national Planning Data Platform. In around two thirds of cases, only minor edits were needed before the data was ready to use - with all outputs reviewed by planning officers.\u00a0The expertise of planning and GIS officers remains at the heart of the process - Extract simply removes the most time-consuming parts.",
+                "tag": "p"
+            },
+            {
+                "content": "A full evaluation report explaining more about how the tool works and results to date has been published by i.AI.",
+                "tag": "p"
+            },
+            {
+                "content": "Why this is such a big deal",
+                "tag": "h2"
+            },
+            {
+                "content": "Good planning data underpins everything. When data is easy to find, use and trust, it improves transparency, reduces the monitoring burden on councils and helps developers and communities understand what's possible before they even submit an application.",
+                "tag": "p"
+            },
+            {
+                "content": "With Extract, we expect to see real benefits flow through the system:",
+                "tag": "p"
+            },
+            {
+                "content": "Extract is an important part of the government\u2019s wider drive to use AI to improve public services.",
+                "tag": "p"
+            },
+            {
+                "content": "Soft launch with local planning authorities",
+                "tag": "h2"
+            },
+            {
+                "content": "Extract was soft-launched at a recent ODP in-person event, hosted by Liverpool City Council, at the Museum of Liverpool, with around 60 LPAs attending \u2013 who gave it an enthusiastic welcome. They were shown a live demonstration of the tool and how to access it.",
+                "tag": "p"
+            },
+            {
+                "content": "There are now 50 LPAs actively using the tool and in the first few weeks Extract had already processed over 1,000 documents, mostly Tree Preservation Orders.",
+                "tag": "p"
+            },
+            {
+                "content": "Like any piece of software, we will continue to improve Extract as more councils use it, developing it based on feedback from planning officers on the ground.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What others are saying",
+                "tag": "h2"
+            },
+            {
+                "content": "Rachel Fisher, Chief Executive of the Royal Town Planning Institute, commented:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mike Keily, Chair, Planning Officers Society, added:",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Wei Yang OBE, CEO, Digital Task Force for Planning, said:",
+                "tag": "p"
+            },
+            {
+                "content": "How to get started",
+                "tag": "h2"
+            },
+            {
+                "content": "To start using Extract, visit the platform. You\u2019ll find more information as well as an introductory video and guidance to help you start digitising your documents. Local planning authorities can log in directly with their GOV.UK email address.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any questions or need support, please email extract@communities.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "We're incredibly proud of what our team, our partners at i.AI, and the local planning authorities who have tested Extract have achieved together. This is just the beginning. We\u2019re keen to explore how we can expand Extract to support more planning document types, and are committed to sharing more about how the technology works so that others in the market can build on this innovation.",
+                "tag": "p"
+            },
+            {
+                "content": "AI planning prototype to cut application processing times",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the next generations of planning tools which Extract could help enable is a new prototype being built in collaboration with Google DeepMind and Faculty and now being tested with Barnet, Camden and Dorset councils. The prototype, also mentioned in today\u2019s press release, aims to halve the time it takes to process householder planning applications. We have planned to provide more details about this exciting project via a separate blog post to follow later this week.",
+                "tag": "p"
+            },
+            {
+                "content": "How to find out more\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/06/17/extract-is-here-ai-powered-planning-data-for-every-council-in-england/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Extract, a new AI-powered tool developed by MHCLG's Digital Planning Programme and i.AI, is now available for free, for every local planning authority in England. It converts planning documents into structured, usable data in minutes - cutting a process that can take officers up to two hours down to just two on average."
+    },
+    {
+        "title": "Creating new wood pasture: What we\u2019ve learned from Nature Returns",
+        "authors": [
+            "Jessica Elias"
+        ],
+        "posted_on": "2026-06-17T10:52:53",
+        "categories": [
+            "Climate change",
+            "Ecosystem Services",
+            "Natural England",
+            "Nature Returns",
+            "Nature-based solutions",
+            "Science and evidence",
+            "wildlife and farming"
+        ],
+        "content": [
+            {
+                "content": "By Jessica Elias, Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "Nature-based Solutions are increasingly recognised as an effective way to respond to climate change while restoring nature and improving people\u2019s wellbeing. Through the Nature Returns programme, we\u2019ve had the opportunity to see how one approach in particular \u2013 wood pasture creation \u2013 can be a popular strategy for landowners and land managers.Recently, we\u2019ve published a report sharing our learnings so far. In this blog, we explore some of the ways that wood pasture creation took place, what choices were made and what still needs to be understood to increase wood pasture creation.",
+                "tag": "p"
+            },
+            {
+                "content": "Firstly, what is wood pasture?",
+                "tag": "p"
+            },
+            {
+                "content": "Wood pasture and Parkland is a priority habitat, made up of scattered trees, grazed scrub and grassland. These systems house a rich diversity of species and have developed over long periods of time by established management traditions. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While newly created wood pasture cannot replicate this history in the short term, it can aim to follow the same principles and begin to deliver similar benefits.",
+                "tag": "p"
+            },
+            {
+                "content": "Any form of wood pasture can help address several challenges at once. Trees capture and store carbon, helping to tackle climate change. They also provide shade for livestock, improve soil health and slow the flow of water across land \u2013 all important points to consider as we adapt to a changing climate.",
+                "tag": "p"
+            },
+            {
+                "content": "So how was new wood pasture created? ",
+                "tag": "p"
+            },
+            {
+                "content": "Across the Nature Returns programme, we\u2019ve been working with partners in six Local Partnership Projects across England. Wood pasture creation was a popular choice at several of these sites, with each site approaching it differently.",
+                "tag": "p"
+            },
+            {
+                "content": "At Wild Exmoor, for example, trees have been planted in small copses across sloping grassland, often surrounded by shrubs. Meanwhile, at sites within the Plymouth Natural Grid project, planting has focused on larger clumps of trees, shaped by the needs of more urban or peri-urban landscapes.",
+                "tag": "p"
+            },
+            {
+                "content": "Despite these differences, there are some common themes. Most projects planted a mix of native broadleaved species \u2013 including oak, cherry, alder and hazel \u2013 to create diversity and resilience.",
+                "tag": "p"
+            },
+            {
+                "content": "Grazing has also been a key part of the picture. Different sites are using different combinations of animals, including some distinctive choices like Exmoor ponies and Mangalitza pigs.\u00a0These decisions matter: grazing shapes the vegetation structure and there may be trade-offs associated with the chosen livestock. It also affects the overall carbon balance of the site when emissions from grazing animals are taken into account. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What became clear is that there was no single \u2018right\u2019 way to create wood pasture. Each site reflects its local landscape, its history and the priorities of the people managing it.",
+                "tag": "p"
+            },
+            {
+                "content": "What have we learned so far?",
+                "tag": "p"
+            },
+            {
+                "content": "Reflecting on the projects, several common themes stood out",
+                "tag": "p"
+            },
+            {
+                "content": "Flexibility is key. Wood pasture creation isn\u2019t a one size fits all model. It can be adapted to suit local conditions, whether that\u2019s soil type, local perspectives or the practicalities of managing land.",
+                "tag": "p"
+            },
+            {
+                "content": "Any form of tree planting is beneficial. Introducing trees into previously treeless pastureland is likely to bring benefits, even where planting is relatively modest or trees with lower carbon storage potential were chosen. There are nuances to this though, particularly around carbon storage potential of trees and whether these offset emissions from livestock grazing on the land.",
+                "tag": "p"
+            },
+            {
+                "content": "There are challenges associated with cost. Investment in wood pasture creation can vary widely depending on the level of protection needed, such as fencing or guards. Costs ranged from \u00a33 to \u00a350 per tree and there is likely to be a trade-off between affordability and higher potential establishment success.",
+                "tag": "p"
+            },
+            {
+                "content": "Good advice is important. Creating wood pasture successfully requires careful planning and long-term thinking. Decisions about which species to plant, how to protect young trees, and how to manage grazing all play a role in the outcome. Access to clear, practical guidance is essential if more land managers are to adopt this approach.",
+                "tag": "p"
+            },
+            {
+                "content": "We need to strengthen the evidence base. While wood pasture was a popular choice for our partners, there\u2019s still a lot we don\u2019t understand about these systems. In particular, we need to understand more about how much carbon these systems can store over time and how they can contribute to wider environmental targets. Strengthening this evidence base through further research will help support policy decisions, development and future investment in Nature-based Solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "p"
+            },
+            {
+                "content": "The Nature Returns programme will continue to work with its local partners in the coming years to track the development of newly created habitats and associated changes in carbon storage and biodiversity. By taking a \u2018learning by doing\u2019 approach, we can understand more about what works best and crucially, what doesn\u2019t.",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more you can read our full report, alongside other Nature Returns publications.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/06/17/creating-new-wood-pasture-what-weve-learned-from-nature-returns/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Jessica Elias, Natural England Nature-based Solutions are increasingly recognised as an effective way to respond to climate change while restoring nature and improving people\u2019s wellbeing. Through the Nature Returns programme, we\u2019ve had the opportunity to see how one approach \u2026"
+    },
+    {
+        "title": "What an SME safari taught us about bias and context",
+        "authors": [
+            "Keely Flint, Service Design Portfolio Lead"
+        ],
+        "posted_on": "2026-06-17T10:34:59",
+        "categories": [
+            "Products"
+        ],
+        "content": [
+            {
+                "content": "Keely Flint",
+                "tag": "h3"
+            },
+            {
+                "content": "The government has committed to reducing the regulatory burden on businesses by cutting unnecessary complexity, duplication and administrative costs. As the department whose mission is economic growth, our remit is to ensure that regulation supports growth rather than holding it back.",
+                "tag": "p"
+            },
+            {
+                "content": "As a service designer, I know how important it is to understand how businesses interact with our services, not just in theory but in reality. We need to see the services in context to know what the burden of regulation looks like, before we can reduce it.",
+                "tag": "p"
+            },
+            {
+                "content": "By \u201ccontext\u201d, I mean the multitude of factors affecting how businesses operate. Context is multi-layered and adds a lot of complexity that is difficult for us to model internally. Data analysis and paper research are both valuable for user centred design, but truly understanding context requires proximity to lived experience.",
+                "tag": "p"
+            },
+            {
+                "content": "Do we really understand business needs?",
+                "tag": "h2"
+            },
+            {
+                "content": "We perform extensive user research when designing our services \u2013 take a look at some previous posts explaining how we do this. We test prototype beta or live services with user groups and gather user feedback. However, when we do this, are we getting the full picture of user needs and whether they are being met?",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s not that our data is wrong, it\u2019s just incomplete without context. Expert insight can help us to have a view of business needs, but to truly support them we need to stay closely connected to businesses.",
+                "tag": "p"
+            },
+            {
+                "content": "This is not a challenge that is unique to DBT. Any service being designed for use outside of government will be used in a complex context that is difficult to capture using internal models alone.",
+                "tag": "p"
+            },
+            {
+                "content": "An SME safari",
+                "tag": "h2"
+            },
+            {
+                "content": "To support our mission to reduce regulatory burden, we embarked on an \u201cSME safari\u201d. This is where representatives from DBT visit businesses in a region and build an understanding of how policies impact their lived experience. I saw an opportunity to apply this method to understanding how businesses use our services in context.",
+                "tag": "p"
+            },
+            {
+                "content": "Visiting businesses in situ allowed me to shift my thinking from \u201chow do users experience this service?\u201d to \u201chow are business owners making decisions in context?\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "Who we spoke to and why it mattered",
+                "tag": "h2"
+            },
+            {
+                "content": "As part of the SME safari, we met with founders and CEOs of businesses including an established architectural practice who has shaped the modern Manchester skyline. We also met with an online homeware retailer who scaled up during the pandemic and has expanded through a high street presence in Manchester\u2019s thriving creative quarter. We discussed subjects such as trading conditions, their growth mindset and how government can help them more.",
+                "tag": "p"
+            },
+            {
+                "content": "As the name suggests, user research often focuses on the end user of a service. That is the person who completes the form, uploads the documents, accesses the information themselves. By speaking to business owners, I got to understand an entirely different perspective \u2013 that of the people who make the decision to use the service in the first place.",
+                "tag": "p"
+            },
+            {
+                "content": "These decision makers need some level of certainty to have the confidence to take risks with their businesses. If services are fragmented, complex or hard to find or understand, this doesn\u2019t just impact the operational users of the service. It affects the confidence of the decision maker and ultimately their decision whether or not to grow.",
+                "tag": "p"
+            },
+            {
+                "content": "What was the context?",
+                "tag": "h2"
+            },
+            {
+                "content": "The SME safari helped me to appreciate the multitude of factors that affect a business\u2019s decision to grow. We came to understand that \u201cburden\u201d is not a single concept but a multilayered one. Similarly, the context in which a business operates is multifaceted \u2013 how large is it? What sector does it operate in and where geographically? What life stage is the business in and how resilient are they? What is their appetite for risk and how are they responding to external factors?",
+                "tag": "p"
+            },
+            {
+                "content": "Business owners do not have a choice in which services they must access to be compliant. However, they do have a choice in whether they engage in activities that make this compliance necessary. For example, if a business wants to export, they will need a licence, but they can choose not to export at all. What we found was that this higher-level decision is affected by many factors, including some related to the design of our services.",
+                "tag": "p"
+            },
+            {
+                "content": "Growth is shaped by past shocks (such as the pandemic), a desire for resilience and \u201csafe growth\u201d, awareness of government services and how they are perceived. This is one reason why we need to design services that are easy to use, so they are not perceived as being too complex.",
+                "tag": "p"
+            },
+            {
+                "content": "These insights build on our understanding of the practicalities of how users interact with our services to give a more complete picture including when and why they engage with the services.",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering the next generation of services for businesses",
+                "tag": "h2"
+            },
+            {
+                "content": "Staying closely connected to businesses to help us shape our views is one of our shared behaviours at DBT. Being able to act with confidence with valuable insights will enable us to deliver services that support growth.",
+                "tag": "p"
+            },
+            {
+                "content": "The context in which businesses operate is the backdrop to how they engage with government and use our services. This is so important in how we deliver the next generation of services for business. We aim to shift from siloed transactions, to joined up journey management across the government service ecosystem.",
+                "tag": "p"
+            },
+            {
+                "content": "We all need closeness to businesses to help design services for reality. With our agenda to reduce the regulation burden for businesses, closeness not just to operational staff but decision makers are what will ensure success.",
+                "tag": "p"
+            },
+            {
+                "content": "What's next?",
+                "tag": "h2"
+            },
+            {
+                "content": "There will be more business safaris which gives us in DDaT an exciting opportunity to evolve the way we work. We can take steps to be closer to businesses and understand how they make complex decisions. As we move away from isolated services into an ecosystem of joined up services, we need to understand more than just individual users interacting with tools. Safaris give us the insights we need to understand how businesses interact with government and make complex decisions at a systemic level.",
+                "tag": "p"
+            },
+            {
+                "content": "Joining these safaris is also another opportunity to work more closely with our colleagues in policy. Together we can also improve our services through co-design, as my Digital, Data and Technology (DDaT) colleagues learned when they formed a co-lab for service design. ",
+                "tag": "p"
+            },
+            {
+                "content": "If we really want to reduce the burden of regulation, we need to design services that work for businesses. That means understanding businesses, for which we need more than just data. We need judgement, which comes from staying close to businesses and understanding their decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are involved in the design and delivery of future services, take any opportunity to encounter your users in the field. You will find that the context in which they make decisions shapes their interaction with the service before it even begins.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/06/17/what-an-sme-safari-taught-us-about-bias-and-context/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "How meeting real business leaders on an SME safari in Manchester challenged our \u201ccommon sense\u201d narratives about what businesses think and do."
+    },
+    {
+        "title": "AI skills at work: what employers can do now, by Helen Slater",
+        "authors": [
+            "Skills England Communications"
+        ],
+        "posted_on": "2026-06-17T10:21:14",
+        "categories": [
+            "artificial intelligence",
+            "Insight",
+            "upskilling"
+        ],
+        "content": [
+            {
+                "content": "Artificial intelligence (AI) is already changing how organisations across the UK\u00a0operate.",
+                "tag": "p"
+            },
+            {
+                "content": "From drafting documents and analysing data to supporting customers and improving services, many employers are starting to use AI in their day-to-day work. But simply having access to AI tools does not mean staff have the skills,\u00a0confidence\u00a0or judgement to use them well.",
+                "tag": "p"
+            },
+            {
+                "content": "Our\u00a0research shows that while AI adoption is\u00a0gaining pace, workforce capability is not always keeping\u00a0up. In many organisations, learning happens informally,\u00a0through trial and error, online videos, or help from colleagues.",
+                "tag": "p"
+            },
+            {
+                "content": "This can be a useful starting point. But without the right support, it can also lead to inconsistent,\u00a0unsafe\u00a0or ineffective use of AI, with little connection to wider business goals.",
+                "tag": "p"
+            },
+            {
+                "content": "What employers told us",
+                "tag": "h2"
+            },
+            {
+                "content": "The\u00a0Skills\u00a0for AI (SKAI)\u00a0programme, led by Dr Nisreen Ameen at Royal Holloway, University of London\u00a0in\u00a0partnership\u00a0with Skills England\u00a0and\u00a0funded\u00a0by the British Academy, draws on workshops, case\u00a0studies\u00a0and a UK-wide employer survey.",
+                "tag": "p"
+            },
+            {
+                "content": "Employers, training providers and experts consistently highlighted\u00a0a number of\u00a0challenges\u00a0to\u00a0us:",
+                "tag": "p"
+            },
+            {
+                "content": "Importantly, the issue is not a lack of interest. Many employers are keen to support their staff,\u00a0but finding training that is practical,\u00a0accessible\u00a0and role-specific\u00a0remains\u00a0a challenge.",
+                "tag": "p"
+            },
+            {
+                "content": "What works in practice",
+                "tag": "h2"
+            },
+            {
+                "content": "Effective AI upskilling is not just about sending staff on a course.\u00a0It\u2019s\u00a0about helping people understand how AI fits into their role, when to use it, when not to use it, and how to use it safely and responsibly.",
+                "tag": "p"
+            },
+            {
+                "content": "The most effective approaches tend to:",
+                "tag": "p"
+            },
+            {
+                "content": "These approaches help organisations move beyond informal experimentation towards more consistent, confident use of AI.",
+                "tag": "p"
+            },
+            {
+                "content": "A practical framework for employers",
+                "tag": "h2"
+            },
+            {
+                "content": "To support this, the SKAI programme has developed the\u00a0PRIMES framework,\u00a0a simple way\u00a0to think about what good AI training looks like in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "AI training should be:",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these principles give employers a clear and flexible starting point for improving AI training.",
+                "tag": "p"
+            },
+            {
+                "content": "Turning ideas into action",
+                "tag": "h2"
+            },
+            {
+                "content": "Our research highlights case studies of employers taking practical steps to build AI capability in ways that reflect their business needs, workforce and operating context.",
+                "tag": "p"
+            },
+            {
+                "content": "Airbus",
+                "tag": "h3"
+            },
+            {
+                "content": "Airbus has taken a long-term, organisation-wide approach to building AI capability.",
+                "tag": "p"
+            },
+            {
+                "content": "Learning is embedded within workforce planning, competency frameworks and day-to-day work, rather than treated as a standalone activity. Structured pathways support progression at different levels, while internal communities help staff learn from real use cases.",
+                "tag": "p"
+            },
+            {
+                "content": "Combined with strong data governance and mandatory training, this has helped embed AI capability across the organisation.",
+                "tag": "p"
+            },
+            {
+                "content": "Cast Consultancy",
+                "tag": "h3"
+            },
+            {
+                "content": "A smaller firm, Cast Consultancy, has focused on a specific business problem to make AI training relevant from the outset.",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation introduced an AI tool to support complex regulatory submissions and built training directly around its use. Staff learned through real project work, supported by ongoing input from the provider.",
+                "tag": "p"
+            },
+            {
+                "content": "This\u00a0generated\u00a0immediate practical value while reinforcing the importance of human judgement, with employees trained to interpret and validate AI outputs.",
+                "tag": "p"
+            },
+            {
+                "content": "Additional examples",
+                "tag": "h3"
+            },
+            {
+                "content": "Other case studies\u00a0from\u00a0our\u00a0report\u00a0show\u00a0how AI upskilling can support inclusion and behaviour change.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, Good Things Foundation focuses on people who may otherwise be excluded from the AI transition, using plain English, bite-sized learning and community support to build confidence and safe experimentation.",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters now",
+                "tag": "h2"
+            },
+            {
+                "content": "AI has the potential to improve productivity, decision-making and service delivery across the economy.",
+                "tag": "p"
+            },
+            {
+                "content": "But these benefits depend on people.",
+                "tag": "p"
+            },
+            {
+                "content": "Without the right skills in place, organisations risk uneven adoption, missed opportunities and widening capability gaps. Building AI capability is not just a technology challenge\u00a0\u2013\u00a0it\u2019s\u00a0a workforce one.",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps for employers",
+                "tag": "h2"
+            },
+            {
+                "content": "The SKAI programme provides practical support to help employers.",
+                "tag": "p"
+            },
+            {
+                "content": "This includes:",
+                "tag": "p"
+            },
+            {
+                "content": "AI is changing the way we work. The organisations that\u00a0benefit\u00a0most will be those that invest not just in the tools,\u00a0but in the people who use them. We\u2019re\u00a0delighted to\u00a0make the\u00a0SKAI\u00a0programme\u00a0available\u00a0to\u00a0help\u00a0with\u00a0this. I would like\u00a0to take this\u00a0opportunity\u00a0to\u00a0encourage\u00a0businesses across the\u00a0country\u00a0to\u00a0try\u00a0it out.",
+                "tag": "p"
+            },
+            {
+                "content": "Helen Slater",
+                "tag": "p"
+            },
+            {
+                "content": "Skills England deputy director for insight and analysis",
+                "tag": "p"
+            }
+        ],
+        "link": "https://skillsengland.blog.gov.uk/2026/06/17/ai-skills-at-work-what-employers-can-do-now-by-helen-slater/",
+        "blog": "Skills England",
+        "blog_link": "https://skillsengland.blog.gov.uk",
+        "description": "Artificial intelligence (AI) is already changing how organisations across the UK\u00a0operate. From drafting documents and analysing data to supporting customers and improving services, many employers are starting to use AI in their day-to-day work. But simply having access to AI \u2026"
+    },
+    {
+        "title": "Employment Rights Act 2025 \u2014 Consultation on reforms of zero hours and similar contracts",
+        "authors": [
+            "Deborah Sturdy"
+        ],
+        "posted_on": "2026-06-17T09:57:23",
+        "categories": [
+            "Social care reform",
+            "social work",
+            "Workforce"
+        ],
+        "content": [
+            {
+                "content": "A message from the Chief Nurse for Adult Social Care, Deborah Sturdy",
+                "tag": "h2"
+            },
+            {
+                "content": "The government is running a public consultation to inform the detail of the implementation of the reforms of zero hours and similar contracts under the Employment Rights Act 2025 and we would encourage those working in adult social care to share their views.",
+                "tag": "h3"
+            },
+            {
+                "content": "We are committed to ending one-sided flexibility and making sure that all jobs provide a baseline of security and predictability so workers can better plan their lives and finances.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This includes the delivery of the following two measures:",
+                "tag": "p"
+            },
+            {
+                "content": "These rights apply to qualifying directly engaged and agency workers. The rights apply differently to agency workers compared to directly engaged workers, and regulations may set out further differences in their treatment.",
+                "tag": "p"
+            },
+            {
+                "content": "The consultation is running for 12 weeks and will close on August 25 2026 at 23:59. It provides an opportunity for all stakeholders to give their views on how the zero hours contract measures should be implemented.",
+                "tag": "p"
+            },
+            {
+                "content": "All current consultations, along with details of closed consultations and published outcomes, are available at\u00a0Make Work Pay.",
+                "tag": "p"
+            },
+            {
+                "content": "Following consultation, the government will develop final policy positions.",
+                "tag": "p"
+            },
+            {
+                "content": "We encourage everyone with a view on these reforms to answer as many consultation questions as they feel comfortable with. We strongly encourage you to respond via the online platform. Using the online survey will assist our analysis of the responses, enabling more efficient and effective consideration of the issues raised.",
+                "tag": "p"
+            },
+            {
+                "content": "Zero hours contract consultation team, Department of Business and Trade.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcare.blog.gov.uk/2026/06/17/employment-rights-act-2025-consultation-on-reforms-of-zero-hours-and-similar-contracts/",
+        "blog": "Social care",
+        "blog_link": "https://socialcare.blog.gov.uk",
+        "description": "A message from the Chief Nurse for Adult Social Care, Deborah Sturdy"
+    },
+    {
+        "title": "Understanding the Caribbean seabed: a Q&A with UKHO experts on the 2026 Beyond the Reef expedition",
+        "authors": [
+            "stephaniecase"
+        ],
+        "posted_on": "2026-06-17T09:00:00",
+        "categories": [
+            "Seabed mapping"
+        ],
+        "content": [
+            {
+                "content": "In January 2026, the Blue Belt Programme embarked on its first expedition across the Caribbean, charting the previously unexplored waters of Anguilla, the Turks and Caicos Islands and the Cayman Islands.",
+                "tag": "p"
+            },
+            {
+                "content": "A team of 46 marine scientists spent six weeks aboard the RSS James Cook. Local marine scientists from each of the Caribbean nations were joined by UK scientists from the British Antarctic Survey, National Oceanography Centre, the Natural History Museum and the UK Hydrographic Office (UKHO).",
+                "tag": "p"
+            },
+            {
+                "content": "Through the course of the expedition, the team mapped over 25,000km\u00b2 of seafloor. The seabed mapping data collected will provide the local areas with further understanding of their marine environment, supporting a range of applications such as the safe navigation of vessels, habitat conservation and biodiversity and coastal management. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ahead of World Hydrography Day, we caught up with Rosa Crespo Sanchidri\u00e1n (RSC) and Matthew Bennett (MB), Senior Hydrographic Specialists, who represented the UKHO on board the vessel, to find out more and hear about the UKHO\u2019s role, their experiences in the field, and some of the expedition\u2019s most exciting discoveries.",
+                "tag": "p"
+            },
+            {
+                "content": "Can you provide an overview of the UKHO\u2019s role in the Beyond the Reef expedition?",
+                "tag": "p"
+            },
+            {
+                "content": "RSC: As a world-leading centre for hydrography, the UKHO was primarily tasked with conducting bathymetric surveys to measure and map the depth and characteristics of the seabed. Throughout the expedition, these insights had a range of applications, from supporting research into biodiversity to ensuring safety of navigation.",
+                "tag": "p"
+            },
+            {
+                "content": "Seabed mapping was especially vital to this expedition as many existing nautical charts of the region rely on data that was collected over 100 years ago. These historical measurements were made using lead line surveys which are less precise than those made by modern hydrographic surveying equipment. Conducting new surveys gave us the opportunity to greatly improve our understanding of the underwater environment. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Could you provide an insight into how different hydrographic surveying techniques were used during the expedition?",
+                "tag": "p"
+            },
+            {
+                "content": "RSC: We mainly used sonar to measure water depths. This works by emitting pulses of sound from beneath the ship and measuring the time it takes for the pulses to bounce off the seafloor and return. Sound travels at a known speed through water so we can use that travel time to calculate precise water depths. ",
+                "tag": "p"
+            },
+            {
+                "content": "The instruments we used were multibeam echosounders, which send out around 1,500 soundings per second, enabling us to survey wide swathes of the seafloor in a single pass. This meant we were able to build up a detailed picture of vast areas of seafloor in a relatively short time.",
+                "tag": "p"
+            },
+            {
+                "content": "MB: We also used our sonar equipment to record backscatter, which helps us to identify the composition and texture of the seafloor. These work by measuring the intensity of sound reflected off the seafloor - different seafloor types reflect sound differently, allowing us to identify their characteristics. Hard bottoms such as coral or rock produce a strong return signal, while softer materials like sand absorb more sound and return a weaker signal.",
+                "tag": "p"
+            },
+            {
+                "content": "To verify what the sonar data was telling us, we also deployed drop cameras. These are camera systems which are lowered on a cable directly to the seafloor to visually survey the habitats below. This process, known as \"ground truthing,\" allows us to confirm what the acoustic data suggests. In practice, the cameras confirmed that much of the seafloor we surveyed was sand!",
+                "tag": "p"
+            },
+            {
+                "content": "Why are hydrography and seabed mapping so important for environmental conservation?",
+                "tag": "p"
+            },
+            {
+                "content": "RSC: Bathymetry and hydrodynamics play an important role in fish distribution. You tend to find a lot more life when the depth drops off as it is just too hot in shallower waters. Once we reached the submerged boundary of a continent, known as the continental shelf, the sea floor got deeper, and we saw lots more fish and even humpback whales.",
+                "tag": "p"
+            },
+            {
+                "content": "We used sonar and water column data to identify species, assess biological abundance and characterise habitats. Rocky areas have significant amounts of life compared to sandy seabeds as the variation creates habitats for fish, plants and invertebrates as well as providing shelter from predators.",
+                "tag": "p"
+            },
+            {
+                "content": "MB: The team was especially excited to find sea mounts and ridges. These are ecological hot spots drawing together all the different marine communities. Even as someone less familiar with the biology side of things, the imagery was beautiful to see.",
+                "tag": "p"
+            },
+            {
+                "content": "We didn\u2019t know what we would discover, so this led to some significant surprises. At one point, we discovered a new mesophotic reef that hadn't been reported before on Malliwana Bank in Anguilla.",
+                "tag": "p"
+            },
+            {
+                "content": "From a hydrographic perspective, what were some of the most interesting or surprising discoveries that you made during the expedition?",
+                "tag": "p"
+            },
+            {
+                "content": "MB: Turks and Caicos was unlike any seabed I\u2019ve surveyed before. There were seamounts, ridges and, immense vertical drop offs going from 40m to 1000m depth in seconds.",
+                "tag": "p"
+            },
+            {
+                "content": "In the south of Grand Turk, we found an underwater sinkhole, or \u2018blue hole,\u2019 which was 300m wide and 100m deep. This is probably the biggest in the entire Caribbean region and has never been charted before. We found this completely by chance as we had initially planned to survey the north of the island but moved to the more sheltered south to avoid bad weather. It was very flat which was strange for this area. The first ship track line just looked like lots of messy data, so we didn\u2019t think anything of it. The second line of the same area gave a perfect circular shape.",
+                "tag": "p"
+            },
+            {
+                "content": "RCS:\u00a0 We also found a major ridge to the Nort East of Turks and Caicos. Data used for planning showed lots of separate seamounts, but it turned out to be a huge continuous ridge: 70km long and almost four thousand metres high.",
+                "tag": "p"
+            },
+            {
+                "content": "It was exciting to realise the impact this will have on biodiversity on both sides of the ridge. The steep slopes of the ridge force nutrient-rich deep waters to rise toward the surface. This process, known as upwelling, generates food for a remarkable variety of fish and other marine fauna.",
+                "tag": "p"
+            },
+            {
+                "content": "The deepest point we surveyed was in Anguilla at 6,200m. To put that in perspective, this is almost 1000m higher than Everest base camp, but underneath us. It was impressive to be over the reef and see the depths yourself. It would be perfect turquoise Caribbean water, a line where the ridge was, and suddenly the water would be dark blue. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Could you provide some examples of how the data collected will be used in the future by governments of various countries?",
+                "tag": "p"
+            },
+            {
+                "content": "RCS: Our bathymetric surveys have created a foundational dataset which has been shared with the local governments and other regional maritime stakeholders.",
+                "tag": "p"
+            },
+            {
+                "content": "The Centre for Environment, Fisheries and Aquaculture Science (Cefas) will use it as the basis to designate marine protected areas which help protect sensitive ecosystems from human activity. Beyond conservation, regional governments and port authorities can draw on the data in all sorts of ways. Anguilla, for example, are planning to build a marina and our seabed maps will be used to help ensure vessels can safely navigate into and around the new facility.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s really what we mean when we refer to bathymetry as a foundational dataset: something that can be built on in whichever direction is most needed, whether that\u2019s conservation, infrastructure, fisheries management, or safety. It lays the groundwork and others can take it from there.",
+                "tag": "p"
+            },
+            {
+                "content": "How was your experience working with other marine research groups? Why is this collaboration between marine science disciplines so important?",
+                "tag": "p"
+            },
+            {
+                "content": "MB: It was interesting to see other organisations\u2019 activities and how all our work was intertwined. For example, our bathymetry data and backscatter would help identify where tow cameras could be dropped and how deep mid-water trawl nets could be deployed to sample fish populations.",
+                "tag": "p"
+            },
+            {
+                "content": "RCS: This was a great opportunity for all the participating organisations. As scientists, the experience of going offshore and conducting surveys in the field helps us keep our skills up to date. I was initially nervous but was made to feel welcome. All the different teams were happy to share knowledge. We ended up training and supporting each other throughout the expedition.",
+                "tag": "p"
+            },
+            {
+                "content": "What would you say was your personal highlight of the expedition?",
+                "tag": "p"
+            },
+            {
+                "content": "MB: There were so many highlights, I\u2019ve never surveyed such an interesting seabed before. There was an incredible variety of features down there such as seamounts and ridges. The best point was discovering the blue hole. It had been quite an uneventful shift up until that point!",
+                "tag": "p"
+            },
+            {
+                "content": "RSC: For me it was the fish. Of course, I knew there would be fish but none of the varieties we were finding. It was interesting to work with the fisheries: we would get fish from 1000m and then sort and analyse them. It was amazing to see them under the Ultraviolet (UV) light.",
+                "tag": "p"
+            },
+            {
+                "content": "I found the fisheries acoustics particularly interesting. Acoustics are a core part of our work, it was fascinating to see them applied in other ways: the team used them to pinpoint where fish were located, estimate population sizes, and even identify species.",
+                "tag": "p"
+            },
+            {
+                "content": "I also really enjoyed working with the people on the expedition. It was quite an intense trip working twelve hours a day, but everyone was so welcoming. It was a very collaborative atmosphere and I learnt so much.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about the Beyond the Reef Expedition on the Blue Belt Programme blog.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhodigital.blog.gov.uk/2026/06/17/understanding-the-caribbean-seabed-a-qa-with-ukho-experts-on-the-2026-beyond-the-reef-expedition/",
+        "blog": "UK Hydrographic Office",
+        "blog_link": "https://ukhodigital.blog.gov.uk",
+        "description": "In January 2026, the Blue Belt Programme embarked on its first expedition across the Caribbean, charting the previously unexplored waters of Anguilla, the Turks and Caicos Islands and the Cayman Islands. A team of 46 marine scientists spent six weeks \u2026"
+    },
+    {
         "title": "Precision fermented foods: getting allergen labelling right\u00a0",
         "authors": [
             "Lavanya Kala, Head of Innovation Policy"
