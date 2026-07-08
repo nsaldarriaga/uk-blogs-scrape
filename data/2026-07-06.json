@@ -1,5 +1,781 @@
 [
     {
+        "title": "A maturing market: digital identity sectoral analysis 2026",
+        "authors": [
+            "James RJ Brown"
+        ],
+        "posted_on": "2026-07-08T17:55:42",
+        "categories": [
+            "Digital identity",
+            "Inclusion",
+            "Market insights",
+            "Sectoral analysis"
+        ],
+        "content": [
+            {
+                "content": "Today we published our second annual sectoral analysis of the UK digital identity market.\u00a0 This analysis covers services registered under the provisions in the Data (Use and Access) Act 2025, as well as those in the wider market.",
+                "tag": "p"
+            },
+            {
+                "content": "Last year\u2019s report gave us a baseline for understanding the size and shape of the digital identity market, along with the use of digital identity services in the UK. This year\u2019s report helps us see what has changed.",
+                "tag": "p"
+            },
+            {
+                "content": "This year\u2019s report highlights growth in the sector\u2019s revenue and use cases.\u00a0 Additionally, providers have increased the varieties of services offered and this has been met with increased understanding and use of digital identity by the public.",
+                "tag": "p"
+            },
+            {
+                "content": "Digital identity services are already used in many everyday situations.\u00a0 You can use them when you are opening a bank account or applying for credit; when you need to prove your right to work, when renting or buying a property, accessing public services, completing checks for regulated sectors, or proving your age online.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the sectoral analysis?",
+                "tag": "h2"
+            },
+            {
+                "content": "The annual digital identity sectoral analysis gives government, industry and the public a shared evidence base for understanding and discussing how the digital identity sector in the UK is developing over time.",
+                "tag": "p"
+            },
+            {
+                "content": "This year\u2019s report was produced on the back of independent research by Perspective Economics and Survation. It updates the 2025 baseline across market size, provider activity, adoption and consumer attitudes.",
+                "tag": "p"
+            },
+            {
+                "content": "As with any technology market, the findings need to be read carefully. Some of the economic figures, including revenue, employment and Gross Value Added, are modelled estimates rather than directly observed totals. The consumer survey has been expanded and weighted since last year, with some revised use cases. These facts improve the robustness of this year\u2019s findings, but means some year-on-year comparisons should be treated with caution.",
+                "tag": "p"
+            },
+            {
+                "content": "More productive and varied, but changing",
+                "tag": "h2"
+            },
+            {
+                "content": "The report estimates that there are now 275 firms providing digital identity products and services in the UK. That is a net increase of 9 firms since the 2025 baseline.",
+                "tag": "p"
+            },
+            {
+                "content": "The sector generated an estimated \u00a32 billion in annual revenue in 2024 to 2025. This is slightly lower than the baseline estimate, but the report explains that much of this change is linked to a methodological adjustment to one firm. Excluding that adjustment, estimated revenue across the rest of the market grew by around 4%.",
+                "tag": "p"
+            },
+            {
+                "content": "Productivity has risen. Estimated Gross Value Added reached \u00a31 billion, up 17% from the baseline. GVA per employee rose to around \u00a3107,800, up from \u00a386,600 last year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the same time, estimated employment fell from 10,246 to 9,624 full-time equivalent roles. The report suggests several possible explanations for this, including market consolidation, automation, broader technology sector pressures, and changes in how digital identity activity is classified within larger firms.",
+                "tag": "p"
+            },
+            {
+                "content": "Use cases, technologies and customer needs are developing",
+                "tag": "h2"
+            },
+            {
+                "content": "The report also looks at where digital identity services are being used.",
+                "tag": "p"
+            },
+            {
+                "content": "The most commonly reported use cases include Know Your Customer and Anti-Money Laundering checks, fraud prevention, secure access management, right to work checks, employee background screening and age verification for online services.",
+                "tag": "p"
+            },
+            {
+                "content": "Use of digital identity services in the healthcare sector and in public services has increased notably, with 72% of firms reporting some use, up from 58% in 2025. This suggests that digital identity services are being used across a broader range of sectors than many people might expect.",
+                "tag": "p"
+            },
+            {
+                "content": "Financial and professional services remain the largest customer sector, with 90% of digital identity service providers reporting at least one customer in this area.",
+                "tag": "p"
+            },
+            {
+                "content": "Providers also appear to be broadening what they offer. Professional and credential verification rose from 28% to 55% of firms, while age assurance rose from 23% to 31%.",
+                "tag": "p"
+            },
+            {
+                "content": "More familiar to consumers...",
+                "tag": "h2"
+            },
+            {
+                "content": "This year\u2019s report includes an expanded consumer survey of 5,658 UK consumers, conducted by Survation in November 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "The survey found that 81% of respondents reported some level of understanding of digital identity, up from 71% at baseline. The proportion reporting limited or no understanding fell from 29% to 19%.",
+                "tag": "p"
+            },
+            {
+                "content": "It also found that 77% of respondents reported having used a digital identity service for at least one purpose.",
+                "tag": "p"
+            },
+            {
+                "content": "The findings suggest that digital identity is becoming more present in people\u2019s everyday interactions. The most common digital use cases included setting up or managing insurance policies, applying for credit, opening a bank account, property checks and right to work checks.",
+                "tag": "p"
+            },
+            {
+                "content": "One interesting finding is that people may use digital identity services without always thinking of them in those terms. For example, someone opening a bank account or completing an employment check may experience the process as part of that bank or employer\u2019s service, rather than as a separate digital identity interaction.",
+                "tag": "p"
+            },
+            {
+                "content": "We think that distinction matters when we are assessing public understanding.",
+                "tag": "p"
+            },
+            {
+                "content": "...but not necessarily more trusted",
+                "tag": "h2"
+            },
+            {
+                "content": "The survey shows that attitudes towards digital identity are mixed.",
+                "tag": "p"
+            },
+            {
+                "content": "Consumer preference for digital identity is strongest in online contexts. For example, 39% of respondents would prefer to use digital identity for age-restricted online purchases, and 36% would prefer it for accessing public services.",
+                "tag": "p"
+            },
+            {
+                "content": "The report also found that 71% of respondents believe digital identity services will be important over the next five years. However, only 43% view the current direction of digital identity development positively.",
+                "tag": "p"
+            },
+            {
+                "content": "That gap is important. It suggests that many people expect digital identity to become more significant, but do not necessarily feel fully confident about how it is developing.",
+                "tag": "p"
+            },
+            {
+                "content": "For us, that reinforces the importance of trust, privacy, security, transparency and inclusion; principles at the heart of the UK digital verification services trust framework. A digital identity market can only work well if people have confidence in the digital products and processes they engage with, and are not excluded from essential services by having used a digital solution instead of a physical document like a passport or driving licence.",
+                "tag": "p"
+            },
+            {
+                "content": "Inclusion remains a priority",
+                "tag": "h2"
+            },
+            {
+                "content": "Among people who had not used digital identity services, the most common reasons were that they preferred using physical ID, or that they had not had to prove their identity on any occasion they could remember.",
+                "tag": "p"
+            },
+            {
+                "content": "But access barriers also remain. Some non-users said no digital option had been provided, while others said they did not have the right documents, were not comfortable using the technology, or had privacy and security concerns.",
+                "tag": "p"
+            },
+            {
+                "content": "Digital identity can make some services easier and more accessible, but only if services are designed around people\u2019s real lives. That includes people with lower digital confidence, lower digital access, fewer identity documents, disabilities, or other circumstances that make standard verification routes harder.",
+                "tag": "p"
+            },
+            {
+                "content": "Designing services around people\u2019s real lives also means recognising that non-digital routes remain important.",
+                "tag": "p"
+            },
+            {
+                "content": "What we are taking from this year\u2019s report",
+                "tag": "h2"
+            },
+            {
+                "content": "A few things stand out from this year\u2019s analysis.",
+                "tag": "p"
+            },
+            {
+                "content": "That is exactly why we are publishing this sectoral analysis. It helps us work in the open, test our understanding, and build a clearer evidence base over time.",
+                "tag": "p"
+            },
+            {
+                "content": "Towards the next report",
+                "tag": "h2"
+            },
+            {
+                "content": "We will continue to repeat this research into the digital identity market annually. Future reports will help us understand whether the trends identified this year continue.\u00a0 It will also help us plot productivity growth, international activity, consumer adoption, inclusion challenges, and emerging use cases.",
+                "tag": "p"
+            },
+            {
+                "content": "We are grateful to Perspective Economics and Survation for their work, and to the digital identity providers and stakeholders who contributed to the process.",
+                "tag": "p"
+            },
+            {
+                "content": "You can read the full report on GOV.UK.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/07/08/a-maturing-market-digital-identity-sectoral-analysis-2026/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "Today we published our second annual sectoral analysis of the UK digital identity market..."
+    },
+    {
+        "title": "Lowland Peat Water Implementation Grant \u2013 applications now open",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-07-08T12:22:15",
+        "categories": [
+            "Water"
+        ],
+        "content": [
+            {
+                "content": "We are now receiving applications for the Lowland Peat Water Implementation Grant as announced in New funding boost to protect England's iconic peatlands - GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Up to \u00a336 million is available to install infrastructure that will allow applicants to better manage water for lowland peat areas. Follow this link for more details and how to Apply for a lowland peat water implementation grant - GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "The grant is open for applications until 18 September 2026",
+                "tag": "p"
+            },
+            {
+                "content": "What is the purpose of this grant?",
+                "tag": "h2"
+            },
+            {
+                "content": "Lowland peatlands are one of England's most important landscapes. They lock away carbon, support wildlife, and are some of our most productive farmland. But decades of drainage have left them drained and degraded - drying out, releasing carbon, and putting ecosystems at risk.\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Implementation Grant scheme will fund the delivery of infrastructure needed to retain higher water levels safely within England\u2019s lowland landscapes for the preservation of our peat soils. Its primary aim is to reduce greenhouse gas emissions from lowland peat, whilst also delivering wider benefits such as more sustainable land use, improved flood and drought resilience, and enhanced biodiversity. The scheme will support projects that take a collaborative, strategic approach to water management across lowland peatland catchments.",
+                "tag": "p"
+            },
+            {
+                "content": "Why is the grant needed?",
+                "tag": "h2"
+            },
+            {
+                "content": "Raising water tables in lowland peat is one of the most effective actions we can take for nature recovery and climate resilience. It takes local knowledge, local partnerships, and solutions that reflect the real needs and opportunities of each catchment. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Around 80% of England\u2019s peatlands are in a degraded state, contributing roughly to 2% of the country\u2019s total greenhouse gas emissions, an amount comparable to emissions from around 3.5 million homes. Sadly, drained lowland peat is responsible for 88% of these emissions.",
+                "tag": "p"
+            },
+            {
+                "content": "However, if we can adopt more sustainable water table management, we can help slow soil degradation, cut emissions, and maintain productive, sustainable agriculture.",
+                "tag": "p"
+            },
+            {
+                "content": "Previous grant schemes such as the Lowland Agricultural Peat Water Discovery Pilot (LAPWDP) and the Lowland Agricultural Peat Small Infrastructure Pilot (LAPSIP) have highlighted the opportunities for new and adapted water management infrastructure to safely raise water tables in lowland peat soils, which will in turn enable more sustainable land management activities to be undertaken.",
+                "tag": "p"
+            },
+            {
+                "content": "Who is managing the grant?",
+                "tag": "h2"
+            },
+            {
+                "content": "The grant is being led by the Environment Agency with support from the Association of Drainage Authorities (ADA) and the Defra Lowland Peat Team.\u00a0 We have worked closely together to get the implementation grant up and running.",
+                "tag": "p"
+            },
+            {
+                "content": "What does a successful project look like?",
+                "tag": "h2"
+            },
+            {
+                "content": "We want projects that will:",
+                "tag": "p"
+            },
+            {
+                "content": "Who can apply?",
+                "tag": "h2"
+            },
+            {
+                "content": "If you are a:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 charity or not for profit organisation",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 public body (including local authorities and internal drainage boards)\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022\u00a0land\u00a0manager",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 business or commercial enterprise",
+                "tag": "p"
+            },
+            {
+                "content": "based in England within areas of lowland peat, then you are eligible! Collaboration with stakeholders is encouraged, as we want to ensure that the project is appropriate for the area.",
+                "tag": "p"
+            },
+            {
+                "content": "How do I apply?",
+                "tag": "h2"
+            },
+            {
+                "content": "If you think this is the grant for you, please follow this link for more details and to request an application pack - \u00a0Apply for a lowland peat water implementation grant - GOV.UK",
+                "tag": "p"
+            },
+            {
+                "content": "Applications must be received by 23:59 by 18 September 2026. We expect to award grants in December 2026 and grant projects must complete by 31 March 2030.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We plan to run a second application window in Summer 2028 with projects also needing to be complete by 31 March 2030. Further details will follow for this.",
+                "tag": "p"
+            },
+            {
+                "content": "How much money can I apply for?",
+                "tag": "h2"
+            },
+            {
+                "content": "You can apply for a grant between \u00a3100,000\u00a0and\u00a0\u00a32,000,000. Grants can cover up to 100% of eligible project costs.",
+                "tag": "p"
+            },
+            {
+                "content": "Fund community",
+                "tag": "h2"
+            },
+            {
+                "content": "The Lowland Peat Water Grants team runs a SharePoint website that contains more information about the scheme. EA Lowland Peat Water Discovery and Implementation Grants - Home It\u2019s also where you will find answers to common questions and where we host our key documents such as the grant handbook. Please note that you may need to request access when first attempting to use this resource.",
+                "tag": "p"
+            },
+            {
+                "content": "Want to find out more? Join our webinar!",
+                "tag": "h2"
+            },
+            {
+                "content": "We are hosting an application webinar on 15 July that will provide more information to help aid your application. We will be answering questions you may have, so if you are interested in attending, please register using this link MS Teams Registration Link",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u00a0can\u2019t\u00a0make the\u00a0webinar,\u00a0or\u00a0you have questions\u00a0not answered by the guidance,\u00a0you can\u00a0still contact\u00a0the team using this\u00a0email\u00a0address: peatwatergrants@environment-agency.gov.uk.\u00a0We look forward to hearing from you!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/07/08/lowland-peat-water-implementation-grant-applications-now-open/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "We are now receiving applications for the Lowland Peat Water Implementation Grant as announced in New funding boost to protect England's iconic peatlands - GOV.UK Up to \u00a336 million is available to install infrastructure that will allow applicants to better manage water for lowland peat areas. Follow this link for more details and how to \u2026"
+    },
+    {
+        "title": "A new cyber profession for government",
+        "authors": [
+            "Greg Dakin, Chief Information Security Officer"
+        ],
+        "posted_on": "2026-07-08T12:11:46",
+        "categories": [
+            "Professions"
+        ],
+        "content": [
+            {
+                "content": "Greg Dakin",
+                "tag": "h3"
+            },
+            {
+                "content": "Why Cyber matters more than ever",
+                "tag": "h2"
+            },
+            {
+                "content": "Cyber attacks are a key risk for all government departments. As we undertake digital transformation to deliver more efficient services to the taxpayer, we also increase the risk posed by cyber attacks.",
+                "tag": "p"
+            },
+            {
+                "content": "This year sees the launch of the new Cyber Profession for Government, as part of the Government Cyber Action Plan. Recognising cyber as a distinct profession is an important step in closing skill gaps when cyber-attacks are becoming more complex and dangerous.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of this change, I am delighted to join the Department for Business and Trade (DBT) as its first Chief Information Security Officer (CISO), to lead our cyber team and champion the new profession. I bring expertise from more than 20 years in information security roles spanning a range of industries. I look forward to applying this as our work in cyber assurance and governance grows.",
+                "tag": "p"
+            },
+            {
+                "content": "Introducing the new Cyber Profession",
+                "tag": "h3"
+            },
+            {
+                "content": "Previously, cyber security was a specialism within the Security Profession, reflecting its close relevance to safeguarding sensitive information, assets, and systems.",
+                "tag": "p"
+            },
+            {
+                "content": "But as the complexity and frequency of attempted cyber-attacks has increased, demand for skilled cyber professionals is far greater than supply. This problem is not unique to government. A 2025 report found that nearly half of UK businesses had a basic skills gap in basic cyber security and incident response.",
+                "tag": "p"
+            },
+            {
+                "content": "Repositioning cyber security as a distinct, multidisciplinary profession will support a greater emphasis on recruiting and upskilling to address this skills gap.",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping it closely aligned with the Security and Government Digital and Data professions reflects our dedication to being both technically innovative and rigorously adherent to standards.",
+                "tag": "p"
+            },
+            {
+                "content": "The launch of the Government Cyber Profession is an important development across the entirety of government and potentially industry.",
+                "tag": "p"
+            },
+            {
+                "content": "The change will allow us to nurture skilled and dedicated teams of cyber professionals who will ultimately make our services more secure and more reliable.",
+                "tag": "p"
+            },
+            {
+                "content": "Role of the Chief Information Security Officer",
+                "tag": "h3"
+            },
+            {
+                "content": "Carving out cyber as its own profession clarifies responsibility and accountability.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of this shift in responsibility, departments are introducing Chief Information Security Officers (CISOs), to be solely accountable for information and cyber security. This is an important indicator that we are taking cyber security seriously. As CISO, I speak with authority on cyber matters, ensuring that they get proper attention in decision-making.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of my role, I connect DBT to cross-government cyber efforts, liaising with the central Government Cyber Unit and coordinating with my fellow CISOs in other departments.",
+                "tag": "p"
+            },
+            {
+                "content": "What does the cyber team do?",
+                "tag": "h2"
+            },
+            {
+                "content": "Effective leadership only has impact when it is supported by strong operational teams. At DBT, we have a cyber function with a wide range of specialist skills.",
+                "tag": "p"
+            },
+            {
+                "content": "We work across several layers of security to protect us from threats. These are:",
+                "tag": "p"
+            },
+            {
+                "content": "As you can see from the breadth of work the team does, cyber security requires skillsets that span risk assessment, digital literacy, data and software competencies, engagement and strategy. This is why we need a dedicated profession to help us recruit the talented individuals that we need for such important work.",
+                "tag": "p"
+            },
+            {
+                "content": "The significance of a separate profession",
+                "tag": "h3"
+            },
+            {
+                "content": "Unifying and creating an identity for Cyber Security will help us to provide career pathways and learning and development opportunities. By standardising and mapping roles to core competencies and requirements for Practitioner, Principal and Chartered status, we can offer our talented cyber professionals meaningful progression and motivation.",
+                "tag": "p"
+            },
+            {
+                "content": "The aim of the new Government Cyber Profession is to make the government the best place to work for cyber professionals.",
+                "tag": "p"
+            },
+            {
+                "content": "This emphasis on development and career pathways will benefit the whole department. The 2025 State of Digital Government Review found that many leaders in the public sector had insufficient technical expertise or training to deliver their objectives. Creating new digital career pathways through the cyber profession will open new opportunities to promote technical people into leadership roles. It will also support the Prime Minister\u2019s goal to have 1 in 10 roles in digital, data or cyber by 2030.",
+                "tag": "p"
+            },
+            {
+                "content": "What the change means for our users",
+                "tag": "h3"
+            },
+            {
+                "content": "Galvanising the disparate threads of cyber security into a unified profession will not only benefit our direct team, but the whole department. With stronger accountability and a reduced skill gap, we will have greater cyber resilience and improved ability to proactively manage risk. There will be clearer routes into leadership for those with cyber security skills, and a more authoritative voice at senior level advocating for cyber security.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of the profession, we will have access to central support including cost-effective digital solutions, shared expertise and rapid deployment of technical teams. This support will allow us to achieve a higher level of security than we could do alone.",
+                "tag": "p"
+            },
+            {
+                "content": "What will this mean for the businesses we serve? With greater resilience comes less downtime and increased trust in how we handle data. Businesses will experience this as more reliable and secure online services, and increased confidence in DBT\u2019s ability to support them.",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "The introduction of the Cyber Profession reflects the government\u2019s commitment to strengthening our defences, improving confidence in our services, and supporting our people in times of change.",
+                "tag": "p"
+            },
+            {
+                "content": "Our cyber professionals will have a wealth of opportunities for progression and development. These will ultimately help us to deliver safer, more reliable services for those who depend on them. Explore how the Cyber Profession will support your development and the resilience of your services.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/07/08/a-new-cyber-profession-for-government/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "Chief Information Security Officer, Greg Dakin, explores the impact that the new Cyber profession will have on DBT and its users."
+    },
+    {
+        "title": "Plan technology for your school: get help using the right digital and technology infrastructure",
+        "authors": [
+            "Hattie Barham-Colwell, Digital Strategy Division, DfE"
+        ],
+        "posted_on": "2026-07-08T12:01:57",
+        "categories": [
+            "Advice and support",
+            "Digital and technology"
+        ],
+        "content": [
+            {
+                "content": "Hattie Barham-Colwell, of the Department for Education's Safe and Reliable Technology team, explains how the plan technology for your school service can help you meet government digital and technology standards.",
+                "tag": "p"
+            },
+            {
+                "content": "In today\u2019s fast-changing education landscape, technology plays a vital role in how schools operate. It can help to unlock new teaching and learning opportunities, reduce staff workload, and increase inclusivity and support for pupils.",
+                "tag": "p"
+            },
+            {
+                "content": "However, knowing how to implement safe and reliable technology can be challenging. You don\u2019t have to do it alone though. You can use the Department for Education\u2019s plan technology for your school service to support you on your digital journey.",
+                "tag": "p"
+            },
+            {
+                "content": "Free support for planning, implementing, and using technology",
+                "tag": "h3"
+            },
+            {
+                "content": "Plan technology for your school is a digital service designed to help every school meet 6 core digital and technology standards and make strategic decisions about what technology to buy and how to implement it effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "It supports users to:",
+                "tag": "p"
+            },
+            {
+                "content": "Increasingly more schools are benefitting from having a digital strategy which includes a vision for how they will use technology in the long-term to meet their needs. The service helps to bring all this together to give schools a clear, actionable plan.",
+                "tag": "p"
+            },
+            {
+                "content": "Help to meet the digital and technology standards",
+                "tag": "h3"
+            },
+            {
+                "content": "Plan technology for your school is built around DfE\u2019s digital and technology standards. The standards are designed to help schools make more informed decisions about technology, leading to safer, more cost-efficient practices and new learning opportunities for students.",
+                "tag": "p"
+            },
+            {
+                "content": "All schools and colleges should be aiming to meet the 6 core standards by 2030:",
+                "tag": "p"
+            },
+            {
+                "content": "Meeting the standards will help users to keep children safe online, prevent cyber incidents, and upgrade and maintain technology in cost-effective ways.",
+                "tag": "p"
+            },
+            {
+                "content": "Start planning today",
+                "tag": "h3"
+            },
+            {
+                "content": "Developed in collaboration with school leaders and technical experts, plan technology for your schools helps users to better understand their current digital status,\u00a0identify\u00a0areas for improvement, and implement effective strategies.",
+                "tag": "p"
+            },
+            {
+                "content": "The service is designed to be used by anyone involved with improving technology in a school. This includes:",
+                "tag": "p"
+            },
+            {
+                "content": "To access\u00a0plan technology for your school\u00a0you\u2019ll\u00a0need a DfE sign-in account, which allows you to save and return to your self-assessment answers and bespoke recommendations. More information about managing a DfE sign-in account can be found on\u00a0DfE Sign-in.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s new on the service this summer",
+                "tag": "h3"
+            },
+            {
+                "content": "To reflect the latest guidance and developments in technology, DfE has updated the following standards:",
+                "tag": "p"
+            },
+            {
+                "content": "We recommend reviewing the updates to ensure you remain compliant.",
+                "tag": "p"
+            },
+            {
+                "content": "The plan technology for your school service is being updated to make it quicker and easier for multi-academy trusts (MATs) to use. They\u2019ll be able to do self-assessments for more than one school at once. Later in the year, MATs will also be able to track the progress of more than one school at a time.",
+                "tag": "p"
+            },
+            {
+                "content": "For further support with meeting cyber security standards, the DfE has now launched the Cyber Security Hub. This new service provides schools in England with trusted, practical guidance to help strengthen cyber resilience, reduce cyber risk, and respond effectively to cyber incidents.",
+                "tag": "p"
+            },
+            {
+                "content": "Help us improve the service",
+                "tag": "h3"
+            },
+            {
+                "content": "We are committed to continually improving the plan technology for your school service. New features and content are regularly added to help schools plan and manage more aspects of their technology needs.",
+                "tag": "p"
+            },
+            {
+                "content": "We value user feedback and encourage schools to participate in our user research by completing this form to help shape the future of our services.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2026/07/08/plan-technology-for-your-school-get-help-using-the-right-digital-and-technology-infrastructure/",
+        "blog": "Buying for Schools",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "Hattie Barham-Colwell, of the Department for Education's Safe and Reliable Technology team, explains how the plan technology for your school service can help you meet government digital and technology standards. In today\u2019s fast-changing education landscape, technology plays a vital role \u2026"
+    },
+    {
+        "title": "Every day, everyone: Making maritime safety second nature",
+        "authors": [
+            "Jonathan Beal"
+        ],
+        "posted_on": "2026-07-08T11:35:38",
+        "categories": [
+            "People",
+            "UK Flag"
+        ],
+        "content": [
+            {
+                "content": "From island boatmaster training to helping young people discover careers in maritime, the REG Annual Conference shows how collaboration, learning and shared standards build a global safety culture.",
+                "tag": "p"
+            },
+            {
+                "content": "Every single day, maritime administrations, regulators, harbour authorities and shipping registries across the Red Ensign Group (REG) work together to help keep people safe at sea.",
+                "tag": "p"
+            },
+            {
+                "content": "Held in Bermuda, this year\u2019s annual REG conference united UK, Crown Dependencies and Overseas Territories, bringing delegates together to share expertise and tackle common challenges, with maritime safety at the fore. The event demonstrated the close working relationships between administrations, training providers, governments and regulators, underlining the importance of collaboration and shared knowledge.",
+                "tag": "p"
+            },
+            {
+                "content": "With a variety of climates, geographies and seas represented across its membership, projects like the Ascension Island\u2019s bespoke boatmaster training course showcased the REG\u2019s universal commitment to education, skills and learning.",
+                "tag": "p"
+            },
+            {
+                "content": "Kitty George, Acting Director of Facilities and Operations and Assistant Harbour Master for Ascension Island Government said: ",
+                "tag": "p"
+            },
+            {
+                "content": "A focus on skills development continued via sessions like the Coastal State Forum, now celebrating its eighth year at the Conference. The Forum brought forward wide-ranging issues faced by island nations heavily dependent on the sea.",
+                "tag": "p"
+            },
+            {
+                "content": "Among discussion topics raised by Guernsey Harbour Master James Way were marine pollution, safety and navigation, and hydrography. ",
+                "tag": "p"
+            },
+            {
+                "content": "He said: ",
+                "tag": "p"
+            },
+            {
+                "content": "The REG also recognised that strong safety practice is built on solid foundations. On St Helena, maritime career talks, school engagement activities and awareness campaigns are helping to embed maritime knowledge from an early age, creating a greater understanding of maritime careers and safer behaviour around the sea.",
+                "tag": "p"
+            },
+            {
+                "content": "A recurring theme throughout the conference was how jurisdictions had learned from each other throughout the year, a good example being the Cayman Islands\u2019 III Code audit, where consistent standards ensure that ships, seafarers and maritime organisations operate safely.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile, shared approaches towards domestic vessel regulation, pollution prevention and governance helped to raise standards across a wider maritime community. Delegates emphasised how protecting the marine environment goes hand in hand with protecting people, with sessions on MARPOL, pollution response and decarbonisation.",
+                "tag": "p"
+            },
+            {
+                "content": "Chairing this year\u2019s conference, Christian Olsen,\u00a0Director of Maritime Governance and Regulatory Compliance, Maritime and Coastguard Agency said: ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidemca.blog.gov.uk/2026/07/08/every-day-everyone-making-maritime-safety-second-nature/",
+        "blog": "Inside MCA",
+        "blog_link": "https://insidemca.blog.gov.uk",
+        "description": "Delegates met in Bermuda for the annual Red Ensign Group (REG) Conference."
+    },
+    {
+        "title": "Opening Doors for Young People",
+        "authors": [
+            "karlharvey1"
+        ],
+        "posted_on": "2026-07-08T11:16:29",
+        "categories": [
+            "Break down barriers to opportunity",
+            "Life Chance Recruitment",
+            "Young People",
+            "Youth Employment Week"
+        ],
+        "content": [
+            {
+                "content": "As we celebrate 'Youth Employment Week', it\u2019s a great opportunity to show how GFiE is helping young people take their first steps into meaningful careers.",
+                "tag": "p"
+            },
+            {
+                "content": "Across the Civil Service, a variety of tailored GFiE pathways from 'Supported Internships' for young people with Special Educational Needs and Disabilities (SEND) to the 'Care Leaver Internships', our Network of Pathways are breaking down barriers to employment.",
+                "tag": "p"
+            },
+            {
+                "content": "Building Awareness and Aspiration",
+                "tag": "h3"
+            },
+            {
+                "content": "Attracting young people to careers in the Civil Service involves much more than advertising vacancies. It starts with helping young people, schools and careers advisers to understand the breadth of opportunities that are available and the positive impact that a career in Civil Service can have.",
+                "tag": "p"
+            },
+            {
+                "content": "DWP Schools Advisers work directly with schools to raise awareness, support students with CV writing and provide practical advice on applying for jobs. In the Devolved Governments, Jobcentreplus Recruitment Consultants carry out similar activities, ensuring that young people across the UK can access information and guidance about careers within the Civil Service.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting Success Beyond Recruitment",
+                "tag": "h3"
+            },
+            {
+                "content": "One of the most rewarding aspects is seeing young people thrive once they join departments.",
+                "tag": "p"
+            },
+            {
+                "content": "Many who entered through the network of pathways have excelled - completing apprenticeships, securing permanent positions and they continue to progress their careers within the Civil Service.",
+                "tag": "p"
+            },
+            {
+                "content": "These achievements demonstrate the value of providing accessible routes into employment and the long-term benefits of investing in young talent.",
+                "tag": "p"
+            },
+            {
+                "content": "Movement to work in the Civil Service",
+                "tag": "h3"
+            },
+            {
+                "content": "Another vital GFiE life-chance pathway making waves across the Civil Service is\u00a0 Movement to Work. Sourced through Jobcentre Plus, this initiative supports young people aged 16\u201330 who are Not in Education, Employment, or Training (NEET). It offers a targeted two-week work experience placement within the Civil Service that can lead to a temporary fixed-term role, with the ultimate possibility of permanent employment.",
+                "tag": "p"
+            },
+            {
+                "content": "The real impact of this pathway is best understood through the journeys of those who take it.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking Ahead",
+                "tag": "h3"
+            },
+            {
+                "content": "'Youth Employment Week' is a reminder of the importance of creating opportunities for young people to develop skills, gain confidence and build successful careers.",
+                "tag": "p"
+            },
+            {
+                "content": "This success shows what can be achieved through collaboration and most importantly, reflects our commitment to helping young people flourish, develop their potential and make a positive difference through a career in the Civil Service.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gfie.blog.gov.uk/2026/07/08/opening-doors-for-young-people/",
+        "blog": "Life Chance Recruitment - Going Forward into Employment (GFiE)",
+        "blog_link": "https://gfie.blog.gov.uk",
+        "description": "As we celebrate 'Youth Employment Week', it\u2019s a great opportunity to show how GFiE is helping young people take their first steps into meaningful careers. Across the Civil Service, a variety of tailored GFiE pathways from 'Supported Internships' for young \u2026"
+    },
+    {
+        "title": "Marine Licensing Top Tips: Improving Clarity, Communication and Efficiency",
+        "authors": [
+            "Kathleen Telford, Marine Planner"
+        ],
+        "posted_on": "2026-07-08T10:01:21",
+        "categories": [
+            "marine planning"
+        ],
+        "content": [
+            {
+                "content": "The Marine Management Organisation (MMO), working alongside the ports sector, has launched new Marine Licensing Top Tips, as well as practical tools to make the licensing process clearer and more efficient.",
+                "tag": "p"
+            },
+            {
+                "content": "Developed under the Ports Sandbox initiative with the UK Major Ports Group, the guidance incorporates input from applicants, regulators, and statutory consultees. It aims to increase transparency, reduce delays, and support efficient applications.",
+                "tag": "p"
+            },
+            {
+                "content": "The step-by-step guidance covers the full process, from pre-application engagement to final decisions. It also highlights key requirements, common challenges, and best practices.",
+                "tag": "p"
+            },
+            {
+                "content": "Two supporting tools have also been introduced:",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these resources encourage earlier collaboration and clearer communication between applicants, consultees, and MMO case teams.",
+                "tag": "p"
+            },
+            {
+                "content": "The MMO acknowledges contributions from partners including the UK Major Ports Group, Port of Bristol, Associated British Ports, DP World, and Natural England. The guidance will remain a \u201cliving resource,\u201d updated through the Marine Planning and Licensing Programme, helping to deliver a more consistent and predictable licensing process.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2026/07/08/marine-licensing-top-tips-improving-clarity-communication-and-efficiency/",
+        "blog": "Marine Development Blog",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "The Marine Management Organisation (MMO), working alongside the ports sector, has launched new Marine Licensing Top Tips, as well as practical tools to make the licensing process clearer and more efficient. Developed under the Ports Sandbox initiative with the UK \u2026"
+    },
+    {
         "title": "Opportunities to join the UK National Screening Committee",
         "authors": [
             "TJ Day"
