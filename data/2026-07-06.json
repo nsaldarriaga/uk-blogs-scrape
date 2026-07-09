@@ -1,5 +1,1450 @@
 [
     {
+        "title": "Secure and scalable checks against the digital verification services register",
+        "authors": [
+            "Aniqa"
+        ],
+        "posted_on": "2026-07-09T17:35:30",
+        "categories": [
+            "Digital identity"
+        ],
+        "content": [
+            {
+                "content": "The Office for Digital Identities and Attributes (OfDIA) is introducing machine-readable technology\u00a0to\u00a0the\u00a0digital verification services register.\u00a0This will allow businesses and public authorities to check\u00a0the register\u00a0securely and at scale.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The current register",
+                "tag": "h2"
+            },
+            {
+                "content": "The current\u00a0digital verification services (DVS) register\u00a0is a GOV.UK list of services that meet government rules and standards.\u00a0It\u00a0was designed to\u00a0help businesses and individuals\u00a0to search and browse information\u00a0about registered\u00a0digital verification services.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This\u00a0works well\u00a0for\u00a0occasional\u00a0checks. However, as digital verification services become more widely adopted, we need the register to support faster, more\u00a0secure checks at a larger scale.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The machine-readable register",
+                "tag": "h2"
+            },
+            {
+                "content": "Last year, we did discovery work to explore how to make the register machine-readable. We are now implementing technology, known as public key infrastructure (PKI), which will allow businesses and public authorities to programmatically check the list of registered services. This will make checks against the register more secure and scalable.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How will programmatic checks support the sector\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Programmatic checks will support secure access to public authority data\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Earlier this year, we explained how\u00a0information gateway powers introduced in the Data (Use and Access) Act 2025 will allow public authorities to share data with trusted digital verification service providers at the individual\u2019s request.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, before a public authority, like DVLA or the Home Office,\u00a0can share any data, it must check that the digital verification service is registered. Relying on a person to carry out these checks every time would not be practical.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The machine-readable register will allow public authorities to carry out these checks securely and at scale. This will help unlock public authority data for safe and trusted use across the economy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How it could work: ",
+                "tag": "p"
+            },
+            {
+                "content": "Programmatic checks will make it easier for pubs, clubs,\u00a0restaurants\u00a0and shops to accept digital proof of age for alcohol sales\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last week\u00a0the Home Office laid regulations that will allow licensed premises in England and Wales to rely on digital age verification checks.\u00a0Once this legislation comes into force, people will be able to prove they are old enough to buy alcohol using a registered digital verification service instead of a passport or driving licence.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However,\u00a0before accepting digital proof of age,\u00a0businesses will\u00a0need to check that\u00a0the\u00a0services involved in the transaction are\u00a0registered.\u00a0Again, relying on a person to check the register at\u00a0the\u00a0point of sale would not be practical.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The machine-readable register will allow businesses to carry out these checks quickly, securely and at scale. This will make it easier for businesses to\u00a0rely on digital age verification checks for\u00a0alcohol sales.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps",
+                "tag": "h2"
+            },
+            {
+                "content": "A machine-readable digital verification services register will help grow the digital identity sector. It will introduce programmatic checks which are more secure and scalable. This will make it\u00a0quicker and\u00a0easier for businesses and public authorities to check whether a service is government registered and can be trusted.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This month, we started the beta development phase. We will work with digital verification service providers, businesses that rely on digital verification checks, and public authorities to test and improve the solution. ",
+                "tag": "p"
+            },
+            {
+                "content": "Testing will continue throughout Summer and Autumn 2026, with a minimum viable\u00a0product expected to launch in Winter 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to take part in beta testing, email digital.identity.register@dsit.gov.uk. ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/07/09/secure-and-scalable-checks-against-the-digital-verification-services-register/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "The Office for Digital Identities and Attributes (OfDIA) is introducing machine-readable technology\u00a0to\u00a0the\u00a0digital verification services register.\u00a0This will allow businesses and public authorities to check\u00a0the register\u00a0securely and at scale.\u00a0\u00a0 The current register The current\u00a0digital verification services (DVS) register\u00a0is a GOV.UK list of \u2026"
+    },
+    {
+        "title": "What is the School Support Staff Negotiating Body, and what does it mean for schools and staff?",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2026-07-09T16:27:47",
+        "categories": [
+            "School Workforce",
+            "Schools",
+            "Support staff"
+        ],
+        "content": [
+            {
+                "content": "Teaching assistants, school administrators, pastoral support staff, technicians, catering staff \u2013 these are the people who keep schools running every day. They support children with special educational needs\u00a0and disabilities, manage school finances, help pupils who are struggling, and make sure the day-to-day life of a school functions. Despite this, their pay and working conditions have, until now, been set in an inconsistent way, varying significantly depending on where they work and who employs them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The government is changing that. A new body called the School Support Staff Negotiating Body, or SSSNB,\u00a0is being\u00a0established\u00a0to set minimum pay and conditions for school support staff in England.",
+                "tag": "p"
+            },
+            {
+                "content": "The government ran\u00a0a\u00a0public consultation in July 2025 to shape how the SSSNB will work. More than 2,500 people and organisations responded, including support staff like teaching assistants and school business professionals, together with local authorities, academy trusts, trade unions, and representative organisations which collectively employ or represent thousands of support staff across England. The responses were broadly in favour of the proposals across the board.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here is what you need to know.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is the SSSNB?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The SSSNB is a new statutory body created under the Employment Rights Act 2025. Its purpose is to bring employers and employee representatives together to negotiate\u00a0minimum\u00a0standards for pay and conditions for school support staff in all state-funded schools in England. \u00a0It will also advise on training and career progression for school support staff.",
+                "tag": "p"
+            },
+            {
+                "content": "Think of it as a formal, national structure for agreeing a pay floor\u00a0\u2013\u00a0a minimum standard for eligible support staff\u2019s pay and conditions \u2013 with staff able to benefit from more favourable pay and conditions where these are offered.",
+                "tag": "p"
+            },
+            {
+                "content": "The body will cover a wide range of school staff, including teaching assistants, school business professionals, administrative staff, technicians, and other non-teaching staff up to and including middle leadership roles. It applies to staff directly employed by local authorities, school governing bodies, and academy trusts in England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who does it cover?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The government\u2019s consultation included asking for views on who should be covered by the new body. The government has confirmed in its response that SSSNB will cover directly employed support staff, most who are not teachers, working in maintained schools and academies. This includes staff who work for academy trusts from locations away from a school site,\u00a0for example, administrative or finance staff based at a trust's central office. The responses to the consultation showed\u00a0very strong\u00a0support for this approach, with\u00a0nearly 92%\u00a0of respondents agreeing that those off-site employees should be included, to avoid creating different standards for staff doing similar work in\u00a0different locations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Senior leaders with strategic responsibilities,\u00a0such as executive leaders and finance directors who oversee whole organisations,\u00a0will not be included, as their roles are considered different from operational support roles.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why is this happening now?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "At the moment, pay and conditions for school support staff vary\u00a0considerably across\u00a0the country. How much someone earns, and on what terms, can depend on which school or trust\u00a0they work for, which part of England they are in, and which historical agreements their employer has inherited. This can mean two people doing similar jobs in neighbouring schools are on quite different terms.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What will the SSSNB do first?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Once the SSSNB is established, it will negotiate the next annual pay award uplift for school support staff.",
+                "tag": "p"
+            },
+            {
+                "content": "The first working condition the SSSNB will negotiate on is maternity pay. This will be the first national improvement to maternity provision for school support staff in 25 years. The government has confirmed this as the priority, in recognition of the\u00a0predominantly female\u00a0workforce and the long-standing gap between the maternity entitlements available to teachers and those available to support staff.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When will the changes take effect?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "School support staff will continue under their existing arrangements for the 2026-27\u00a0financial year.",
+                "tag": "p"
+            },
+            {
+                "content": "Formal establishment of the SSSNB is planned for Autumn 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Employers\u00a0do not need to take immediate action. The\u00a0government will\u00a0provide\u00a0further information and\u00a0guidance\u00a0in the\u00a0autumn term to\u00a0help employers understand which staff are covered. The establishment of the SSSNB will not in itself replace existing grading structures, pay spines or progression mechanisms.",
+                "tag": "p"
+            },
+            {
+                "content": "The first improvements\u00a0to support staff contracts\u00a0resulting from SSSNB negotiations, including on overall pay, are expected to come into effect from the 2027-28\u00a0financial year\u00a0at the earliest.",
+                "tag": "p"
+            },
+            {
+                "content": "Will the SSSNB resolve grievances or disputes?",
+                "tag": "h3"
+            },
+            {
+                "content": "The SSSNB is not a disputes body and will not deal with individual grievances or workplace issues. It will not replace local management of staff and schools and employers will continue to manage their workforces day to day. Individuals should continue to raise any grievances or issues through normal channels.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2026/07/what-is-the-school-support-staff-negotiating-body-and-what-does-it-mean-for-schools-and-staff/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Teaching assistants, school administrators, pastoral support staff, technicians, catering staff \u2013 these are the people who keep schools running every day. They support children with special educational needs\u00a0and disabilities, manage school finances, help pupils who are struggling, and make sure \u2026"
+    },
+    {
+        "title": "Food Fact Check: What are food additives and are they safe?",
+        "authors": [
+            "Adam Hardgrave, Head of Food Additives, Flavourings and Contact Materials"
+        ],
+        "posted_on": "2026-07-09T11:31:11",
+        "categories": [
+            "Food Fact Check"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "Food additives often spark debate, but they play an important role in keeping our food safe, enhance texture and flavour and improve storage life. ",
+                "tag": "p"
+            },
+            {
+                "content": "From preventing food from spoiling to improving the way foods look and taste, additives have been used for hundreds of years and are strictly regulated.",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Food Fact Check\u2019 is The Food Standards Agency\u2019s (FSA) new service to give clear in-depth answers to the questions you\u2019ve been asking to help you check the facts behind claims you\u2019ve seen online.",
+                "tag": "p"
+            },
+            {
+                "content": "Here, the FSA answers some of the questions being asked about food additives.",
+                "tag": "p"
+            },
+            {
+                "content": "Why are food additives used in food?",
+                "tag": "h2"
+            },
+            {
+                "content": "Additives are used for many purposes. Some can help food stay safe for longer by stopping harmful bacteria and mould. Others can keep food fresh for longer periods, and others, such as emulsifiers, can help ingredients mix smoothly, making cooking processes easier.",
+                "tag": "p"
+            },
+            {
+                "content": "Some additives allow manufacturers to reduce salt, fat, or sugar while maintaining taste, as in diet soft drinks, whilst others can assist in producing foods for specific diets, like gluten-free and vegan foods.",
+                "tag": "p"
+            },
+            {
+                "content": "Why are food additives used instead of natural ingredients?",
+                "tag": "h2"
+            },
+            {
+                "content": "Many additives are based on naturally occurring substances but are produced in labs to ensure consistency and scale. Using additives is often more cost-effective than relying solely on natural ingredients, helping keep food affordable.",
+                "tag": "p"
+            },
+            {
+                "content": "What are E numbers and why are they used?",
+                "tag": "h2"
+            },
+            {
+                "content": "All food additives approved for use in the UK have been rigorously tested for safety. An additive is given an \u2018E number\u2019 to show it has been authorised and it is required to be listed on the label. Here\u2019s a quick overview of the most common additives people ask the FSA about:",
+                "tag": "p"
+            },
+            {
+                "content": "MSG ",
+                "tag": "h3"
+            },
+            {
+                "content": "MSG (monosodium glutamate, E 621) enhances savoury flavours (like umami) in foods like crisps, packet noodles, and soups. First used in Japan in the early 1900s, MSG occurs naturally in foods such as tomatoes and cheese, but itis usually made by fermenting plant sugars. ",
+                "tag": "p"
+            },
+            {
+                "content": "Scientific reviews show MSG is safe for most people, though a small number may experience mild intolerance.",
+                "tag": "p"
+            },
+            {
+                "content": "Preservatives ",
+                "tag": "h3"
+            },
+            {
+                "content": "Preservatives have been used throughout history such as adding salt (sodium chloride) to meat to stop it spoiling. They extend shelf life by stopping the growth of bacteria, mould and yeast. Sulphites (E 220 to E 228) are used to preserve dried fruit and wine. Nitrates (E 251 & E 252) can be used in cured meats like ham and bacon. Many preservatives occur naturally (e.g. nitrates in leafy vegetables), but those used in food processing are purified or synthesised for safety. Sulphites can trigger allergic reactions in sensitive individuals and, like all additives, they must be labelled.",
+                "tag": "p"
+            },
+            {
+                "content": "Sweeteners ",
+                "tag": "h3"
+            },
+            {
+                "content": "Sweeteners provide sweetness without the calories of sugar, helping to reduce sugar content in foods and drinks. A good example is aspartame (E 951). Discovered in the 1960s and approved for use in the UK in the 1980s, it is widely used in diet fizzy drinks and sugar-free chewing gum. Some sweeteners, like stevia, are derived from natural plant sources, while others, such as aspartame and sucralose (E 955), are made synthetically in laboratories.",
+                "tag": "p"
+            },
+            {
+                "content": "Food Colours ",
+                "tag": "h3"
+            },
+            {
+                "content": "Food colours are used to add or restore colour that may have been lost during processing making food more appealing. For instance, tartrazine (E 102) is added to soft drinks and sweets, while beetroot red (E 162) can be used in yoghurts. All food colours are subject to the same safety assessments, whether they are natural (such as beetroot red or carotene, from carrots) or synthetic (such as tartrazine).",
+                "tag": "p"
+            },
+            {
+                "content": "Antioxidants ",
+                "tag": "h3"
+            },
+            {
+                "content": "Antioxidants are added to prevent fats and oils from going rancid, helping food stay fresh. You\u2019ll find ascorbic acid (E 300), better known as vitamin C, in fruit juices and processed meats. Many antioxidants, like ascorbic acid, are naturally occurring in fruits and vegetables, like lemons. But for use in food manufacturing, they may be extracted from natural sources or produced synthetically for consistency and to reduce costs.",
+                "tag": "p"
+            },
+            {
+                "content": "Emulsifiers ",
+                "tag": "h3"
+            },
+            {
+                "content": "Emulsifiers help oil and water mix, improving the texture and consistency of foods. Normal fats are triglycerides, made of glycerol and three fatty acids, while mono\u2011 and diglycerides have one or two fatty acids. This structure allows them to bind both fat and water, making them effective emulsifiers. Lecithin (E322), first extracted from egg yolk in the 19th century, is used in foods such as mayonnaise and chocolate, while mono\u2011 and diglycerides (E471) are commonly found in bread.",
+                "tag": "p"
+            },
+            {
+                "content": "Stabilisers ",
+                "tag": "h3"
+            },
+            {
+                "content": "Stabilisers maintain texture and prevent ingredients from separating. Guar gum (E 412) is used in ice cream, and carrageenan (E 407) can be found in dairy desserts. Many stabilisers are naturally derived from plants or seaweed (for example, guar gum from guar beans and carrageenan from red seaweed), though they are processed for use in food.",
+                "tag": "p"
+            },
+            {
+                "content": "Thickeners ",
+                "tag": "h3"
+            },
+            {
+                "content": "Thickeners improve texture and \u2018mouthfeel\u2019, making foods creamier or thicker. Xanthan gum (E 415) \u2013 first discovered in 1950s and approved in UK in 1974 - is commonly used in salad dressings and gluten-free baked goods. Some thickeners, like cellulose gum (E 466), are derived from plant fibres like corn or potato starch, while others, like xanthan gum, are produced by fermenting sugars with specific bacteria.",
+                "tag": "p"
+            },
+            {
+                "content": "How are food additives tested for safety before approval in the UK?",
+                "tag": "h2"
+            },
+            {
+                "content": "All food additives must be safety-assessed and then approved before use in food in the UK based on a scientific safety assessment. The FSA works with independent scientists and international bodies to ensure additives remain safe. You can see the full list of approved food additives on the FSA\u2019s website.",
+                "tag": "p"
+            },
+            {
+                "content": "Our scientists assess the potential toxicity of additives to establish an Acceptable Daily Intake (ADI). This helps understand how much of the additive can be safely consumed over a lifetime. Longer term studies are conducted to understand whether they could cause cancer of impact on reproductive health.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens if a food additive is found to be dangerous?",
+                "tag": "h2"
+            },
+            {
+                "content": "If new evidence shows an additive is suspected to be unsafe, the FSA reviews it immediately. This can lead to restrictions, changes in permitted uses or the removal of the authorisation for the additive.",
+                "tag": "p"
+            },
+            {
+                "content": "Under UK law, manufacturers must notify the FSA of any new scientific or technical information that could affect the safety of an additive and further review can take place.",
+                "tag": "p"
+            },
+            {
+                "content": "Do food additives cause cancer and other side effects harmful to health?",
+                "tag": "h2"
+            },
+            {
+                "content": "Approved additives in the UK do not cause cancer when consumed at expected intakes. If evidence suggested there was a problem, then the FSA would conduct a safety assessment, which could result in the removal of the additive if found to be dangerous.",
+                "tag": "p"
+            },
+            {
+                "content": "Are artificial food additives more dangerous than their natural equivalents?",
+                "tag": "h2"
+            },
+            {
+                "content": "Not necessarily. \u201cNatural\u201d doesn\u2019t always mean safer. Both natural and artificial additives are tested to the same safety standards, and many additives can be derived from both natural and artificial sources. Natural additives have an E number too. For example, the natural colour from beetroot is E 162!",
+                "tag": "p"
+            },
+            {
+                "content": "Can children eat food additives? Do they cause ADHD, hyperactivity and allergies in children?",
+                "tag": "h2"
+            },
+            {
+                "content": "Some artificial colours have been linked to hyperactivity in sensitive children, which is why they carry mandatory warnings on the label. Allergies to additives are rare but possible (e.g., sulphites), however all additives must be labelled and so those who may be sensitive to specific additives can avoid them.",
+                "tag": "p"
+            },
+            {
+                "content": "Are food additives safe during pregnancy and breastfeeding?",
+                "tag": "h2"
+            },
+            {
+                "content": "Yes. Approved additives are considered safe for everyone, including pregnant and breastfeeding women.",
+                "tag": "p"
+            },
+            {
+                "content": "Can I avoid additives by looking at the label?",
+                "tag": "h2"
+            },
+            {
+                "content": "Yes. If you want to avoid a particular additive, check the label. It is a legal requirement to display additive use on the packaging. If you\u2019re unsure, the FSA\u2019s website has a full list of approved additives.",
+                "tag": "p"
+            },
+            {
+                "content": "Are some food additives banned in other countries allowed in the UK? Why do they make different decisions?",
+                "tag": "h2"
+            },
+            {
+                "content": "Different countries sometimes make different decisions because they interpret scientific data differently. ",
+                "tag": "p"
+            },
+            {
+                "content": "This might be because they have different consumption patterns, which means an average person in a country outside the UK eats more or less of certain type of food, or they apply different precautionary principles.",
+                "tag": "p"
+            },
+            {
+                "content": "This is particularly important, as diets can be very different. For example, in some countries, producers are allowed to add sweeteners and sugar to bread because it is eaten less regularly. ",
+                "tag": "p"
+            },
+            {
+                "content": "Unlike in the UK where bread is a staple food, we \u00a0have stricter controls on the use of additives. We only allow sweeteners to be used in products with no added sugar or a calorie reduction of at least 30%.",
+                "tag": "p"
+            },
+            {
+                "content": "Why does the International Agency for Research on Cancer (IARC) say additives are\u00a0carcinogenic\u00a0but they are still allowed in our food?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Any substance may be harmful if consumed in excessive amounts. The IARC looks at the hazard a substance might cause. Then, it is the job of regulators, such as the FSA, to consider the risks of using a substance, that is, how likely is that real-life exposure levels will cause harm. ",
+                "tag": "p"
+            },
+            {
+                "content": "This is why additives with\u00a0very low\u00a0risk at normal intake are allowed.\u00a0 In a food safety risk assessment, a hazard is something in food that has the potential to cause harm, whilst a risk is the likelihood that the hazard will cause harm and how serious that harm could be.",
+                "tag": "p"
+            },
+            {
+                "content": "Sometimes, an additive may present higher risk and still be allowed in foods. A good example of this is the red food colour erythrosine (E 127). ",
+                "tag": "p"
+            },
+            {
+                "content": "In this instance, this additive is only allowed to be used in cocktailand Bigarreauxcherries; on the basis that consumption levels and thus exposure to the additive will be very low, because people don\u2019t tend to eat jars and jars of cherries per day!",
+                "tag": "p"
+            },
+            {
+                "content": "Mae ychwanegion bwyd yn aml yn tanio dadleuon, ond maen nhw\u2019n chwarae rhan bwysig wrth gadw ein bwyd yn ddiogel, gwella gwead a blas, ac ymestyn oes silff. ",
+                "tag": "p"
+            },
+            {
+                "content": "O atal bwyd rhag difetha i wella golwg a blas bwydydd, mae ychwanegion wedi cael eu defnyddio ers cannoedd o flynyddoedd ac maen nhw wedi\u2019u rheoleiddio\u2019n llym.",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Y Gwir am Fwyd\u2019 yw gwasanaeth newydd yr Asiantaeth Safonau Bwyd (ASB) sy\u2019n rhoi atebion clir a manwl i\u2019r cwestiynau rydych chi wedi bod yn eu gofyn i\u2019ch helpu i wirio\u2019r ffeithiau y tu \u00f4l i honiadau rydych chi wedi\u2019u gweld ar-lein.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn y blog hwn, mae\u2019r ASB yn ateb rhai o\u2019r cwestiynau cyffredin am ychwanegion bwyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Pam mae ychwanegion bwyd yn cael eu defnyddio mewn bwyd?",
+                "tag": "h2"
+            },
+            {
+                "content": "Defnyddir ychwanegion at lawer o ddibenion. Gall rhai helpu bwyd i aros yn ddiogel am gyfnodau hirach, trwy atal llwydni a bacteria niweidiol. Gall eraill gadw bwyd yn ffres am gyfnodau hirach, a gall eraill \u2013 fel emwlsyddion \u2013 helpu cynhwysion i gymysgu\u2019n esmwyth, gan wneud prosesau coginio\u2019n haws.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae rhai ychwanegion yn galluogi gweithgynhyrchwyr i leihau halen, braster neu siwgr wrth gynnal blas, fel mewn diodydd meddal di-siwgr, tra bo eraill yn gallu helpu i gynhyrchu bwydydd ar gyfer deietau penodol, fel bwydydd figan neu heb glwten.",
+                "tag": "p"
+            },
+            {
+                "content": "Pam mae ychwanegion bwyd yn cael eu defnyddio yn lle cynhwysion naturiol?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae llawer o ychwanegion yn seiliedig ar sylweddau sy\u2019n bresennol yn naturiol ond sy\u2019n cael eu cynhyrchu mewn labordai er mwyn sicrhau cysondeb a\u2019r gallu i gynhyrchu bwyd ar raddfa fawr. Yn aml, mae defnyddio ychwanegion bwyd yn fwy cost-effeithiol na dibynnu ar gynhwysion naturiol, gan helpu i sicrhau bod pobl yn gallu fforddio\u2019r bwyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Beth yw E-rifau a pham maen nhw\u2019n cael eu defnyddio?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae pob ychwanegyn bwyd sydd wedi\u2019i gymeradwyo i\u2019w ddefnyddio yn y DU wedi cael ei brofi\u2019n drylwyr i sicrhau ei fod yn ddiogel. Mae E-rif yn cael ei roi i ychwanegyn er mwyn dangos ei fod e wedi cael ei awdurdodi, ac mae\u2019n rhaid ei restru ar y label. Dyma drosolwg cyflym o\u2019r ychwanegion mwyaf cyffredin y mae pobl yn gofyn i\u2019r ASB amdanyn nhw:",
+                "tag": "p"
+            },
+            {
+                "content": "MSG",
+                "tag": "h3"
+            },
+            {
+                "content": "Mae MSG (monosodiwm glwtamad, E621) yn gwella blasau sawrus (fel umami) mewn bwydydd fel creision, nwdls sych, a chawl. Cafodd MSG ei ddefnyddio am y tro cyntaf yn Japan ar ddechrau\u2019r 1900au. Mae\u2019n bresennol yn naturiol mewn bwydydd fel tomatos a chaws, ond fel arfer mae\u2019n cael ei wneud drwy eplesu siwgrau planhigion. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae adolygiadau gwyddonol yn dangos bod MSG yn ddiogel i\u2019r mwyafrif o bobl, ond efallai bydd gan nifer bach o bobl rywfaint o anoddefiad i MSG.",
+                "tag": "p"
+            },
+            {
+                "content": "Cyffeithyddion ",
+                "tag": "h3"
+            },
+            {
+                "content": "Mae cyffeithyddion (\u2018preservatives\u2019) wedi cael eu defnyddio ers blynyddoedd maith \u2013 er enghraifft, ychwanegu halen (sodiwm clorid) at gig i\u2019w atal rhag difetha. Maen nhw\u2019n ymestyn oes silff trwy atal bacteria, llwydni a burum rhag tyfu. ",
+                "tag": "p"
+            },
+            {
+                "content": "Defnyddir sylffitau (E220 i E228) i gadw ffrwythau wedi\u2019u sychu a gwin. ",
+                "tag": "p"
+            },
+            {
+                "content": "Gellir defnyddio nitradau (E251 ac E252) mewn cigoedd wedi\u2019u halltu fel ham a chig moch. Mae llawer o gyffeithyddion yn bresennol yn naturiol (er enghraifft, nitradau mewn llysiau deiliog), ond mae\u2019r rhai a ddefnyddir wrth brosesu bwyd yn cael eu puro neu eu syntheseiddio er diogelwch. ",
+                "tag": "p"
+            },
+            {
+                "content": "Gall sylffitau sbarduno adweithiau alergaidd mewn unigolion sy\u2019n sensitif iddyn nhw ac, fel pob ychwanegyn, rhaid eu nodi ar labeli.",
+                "tag": "p"
+            },
+            {
+                "content": "Melysyddion ",
+                "tag": "h3"
+            },
+            {
+                "content": "Mae melysyddion yn rhoi melyster heb roi\u2019r un calor\u00efau \u00e2 siwgr, gan helpu i leihau faint o siwgr mae bwydydd a diodydd yn ei gynnwys. ",
+                "tag": "p"
+            },
+            {
+                "content": "Enghraifft dda yw aspartame (E951). Cafodd ei ddarganfod yn y 1960au a\u2019i gymeradwyo i\u2019w ddefnyddio yn y DU yn y 1980au. Erbyn hyn, mae\u2019n cael ei ddefnyddio\u2019n helaeth mewn diodydd pop di-siwgr a gwm cnoi di-siwgr. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae rhai melysyddion \u2013 fel stefia \u2013 yn deillio o ffynonellau planhigion naturiol, tra bo eraill \u2013 fel aspartame a swcralos (E955) \u2013 yn cael eu creu\u2019n synthetig mewn labordai.",
+                "tag": "p"
+            },
+            {
+                "content": "Lliwiau bwyd",
+                "tag": "h3"
+            },
+            {
+                "content": "Defnyddir lliwiau bwyd i wneud bwyd yn fwy deniadol, naill ai drwy ychwanegu lliw neu drwy adfer lliw a allai fod wedi\u2019i golli wrth brosesu\u2019r bwyd. ",
+                "tag": "p"
+            },
+            {
+                "content": "Er enghraifft, mae tartrasin (E102) yn cael ei ychwanegu at ddiodydd meddal a melysion, a gall coch betys (E162) gael ei ychwanegu at iogwrt. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae pob lliw bwyd \u2013 boed yn naturiol (fel coch betys, neu garoten sy\u2019n dod o foron) neu\u2019n synthetig (fel tartrasin) \u2013 yn mynd drwy\u2019r un asesiadau diogelwch.",
+                "tag": "p"
+            },
+            {
+                "content": "Gwrthocsidyddion ",
+                "tag": "h3"
+            },
+            {
+                "content": "Mae gwrthocsidyddion (\u2018antioxidants\u2019) yn cael eu hychwanegu er mwyn atal brasterau ac olewau rhag mynd yn ddrwg, gan helpu bwyd i aros yn ffres. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae asid asgorbig (E300) \u2013 neu fitamin C, i ddefnyddio ei enw cyffredin \u2013 i\u2019w gael mewn sudd ffrwythau a chigoedd wedi\u2019u prosesu. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae llawer o wrthocsidyddion, fel asid asgorbig, yn bresennol yn naturiol mewn ffrwythau a llysiau, fel lemonau. Fodd bynnag, er mwyn eu defnyddio wrth weithgynhyrchu bwyd, gellir eu hechdynnu o ffynonellau naturiol neu eu cynhyrchu\u2019n synthetig er cysondeb ac i leihau costau.",
+                "tag": "p"
+            },
+            {
+                "content": "Emwlsyddion ",
+                "tag": "h3"
+            },
+            {
+                "content": "Mae emwlsyddion yn helpu olew a d\u0175r i gymysgu, gan wella gwead a chysondeb bwydydd. ",
+                "tag": "p"
+            },
+            {
+                "content": "Triglyseridiau yw brasterau arferol, wedi\u2019u gwneud o glyserol a thri asid brasterog, tra bo mono\u2011 a deuglyseridiau yn cynnwys un neu ddau asid brasterog. Mae\u2019r strwythur hwn yn eu galluogi i rwymo braster a d\u0175r, gan eu gwneud yn emwlsyddion effeithiol. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae lecithin (E322), a gafodd ei echdynnu o felynwy am y tro cyntaf yn ystod y 19eg ganrif, yn cael ei ddefnyddio mewn bwydydd fel mayonnaise a siocled, tra bo mono\u2011 a deuglyseridiau (E471) i\u2019w cael yn gyffredin mewn bara.",
+                "tag": "p"
+            },
+            {
+                "content": "Sefydlogyddion ",
+                "tag": "h3"
+            },
+            {
+                "content": "Mae sefydlogyddion yn cynnal gwead ac yn atal cynhwysion rhag gwahanu. Defnyddir gwm guar (E412) mewn hufen i\u00e2, a gellir dod o hyd i wymon melys (\u2018carrageenan\u2019, E407) mewn pwdinau llaeth. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae llawer o sefydlogyddion yn deillio\u2019n naturiol o blanhigion neu wymon (er enghraifft, gwm guar o ffa guar a gwymon melys o wymon coch), er eu bod yn cael eu prosesu i\u2019w defnyddio mewn bwyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Tewychwyr ",
+                "tag": "h3"
+            },
+            {
+                "content": "Mae tewychwyr yn gwella gwead bwyd a\u2019r ffordd mae\u2019n teimlo yn y ceg, gan wneud bwydydd yn fwy hufennog neu\u2019n fwy trwchus. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae gwm Xanthan (E415) \u2013 a ddarganfuwyd gyntaf yn y 1950au a\u2019i gymeradwyo yn y DU ym 1974 \u2013 yn cael ei ddefnyddio\u2019n gyffredin mewn dresin salad a bwydydd heb glwten wedi\u2019u pobi. ",
+                "tag": "p"
+            },
+            {
+                "content": "Mae rhai tewychwyr, fel gwm cellwlos (E466), yn deillio o ffeibrau planhigion fel startsh corn neu datws, tra bo eraill, fel gwm xanthan, yn cael eu cynhyrchu drwy eplesu siwgrau \u00e2 bacteria penodol.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae ychwanegion bwyd yn cael eu profi i sicrhau diogelwch cyn eu cymeradwyo yn y DU?",
+                "tag": "h2"
+            },
+            {
+                "content": "Cyn defnyddio ychwanegyn mewn bwyd yn y DU, rhaid iddo gael ei gymeradwyo yn dilyn asesiad diogelwch gwyddonol. Mae\u2019r ASB yn gweithio gyda gwyddonwyr annibynnol a chyrff rhyngwladol i sicrhau bod ychwanegion yn parhau i fod yn ddiogel. Gallwch weld rhestr lawn o\u2019r ychwanegion bwyd cymeradwy ar wefan yr ASB.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae ein gwyddonwyr yn asesu a allai ychwanegion fod yn wenwynig, er mwyn sefydlu Cymeriant Dyddiol Derbyniol (ADI). Mae hyn yn ein helpu i ddeall faint o\u2019r ychwanegyn y gall person ei fwyta\u2019n ddiogel drwy gydol ei oes. Cynhelir astudiaethau tymor hir i ddeall a allai ychwanegion achosi canser neu effeithio ar iechyd atgenhedlol.",
+                "tag": "p"
+            },
+            {
+                "content": "Beth sy\u2019n digwydd os canfyddir bod ychwanegyn bwyd yn beryglus?",
+                "tag": "h2"
+            },
+            {
+                "content": "Os oes tystiolaeth newydd yn dangos amheuaeth bod ychwanegyn yn anniogel, bydd yr ASB yn ei adolygu ar unwaith. Gall hyn arwain at gyfyngu ar yr ychwanegyn, newidiadau i\u2019r ffordd y caniateir defnyddio\u2019r ychwanegyn, neu ddileu\u2019r awdurdodiad ar ei gyfer.",
+                "tag": "p"
+            },
+            {
+                "content": "O dan gyfraith y DU, rhaid i weithgynhyrchwyr roi gwybod i\u2019r ASB am unrhyw wybodaeth wyddonol neu dechnegol newydd a allai effeithio ar ddiogelwch ychwanegyn, fel y gellir cynnal adolygiad pellach.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw ychwanegion bwyd yn achosi canser a sgil-effeithiau eraill sy\u2019n niweidiol i iechyd?",
+                "tag": "h2"
+            },
+            {
+                "content": "Nid yw ychwanegion cymeradwy yn y DU yn achosi canser pan fyddan nhw\u2019n cael eu bwyta yn \u00f4l y cymeriant disgwyliedig. Pe bai tystiolaeth yn awgrymu bod problem, yna byddai\u2019r ASB yn cynnal asesiad diogelwch, a allai arwain at gael gwared ar yr ychwanegyn os canfyddir ei fod yn beryglus.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw ychwanegion bwyd artiffisial yn fwy peryglus na\u2019r cynhwysion naturiol cyfatebol?",
+                "tag": "h2"
+            },
+            {
+                "content": "Nid o reidrwydd. Nid yw \u201cnaturiol\u201d bob amser yn golygu \u201cmwy diogel\u201d. Mae ychwanegion naturiol a\u2019r rhai artiffisial yn cael eu profi yn \u00f4l yr un safonau diogelwch, ac mae llawer o ychwanegion yn gallu deillio o ffynonellau naturiol ac artiffisial hefyd. Mae gan ychwanegion naturiol E-rifau hefyd. Er enghraifft, lliw naturiol o fetys yw E162!",
+                "tag": "p"
+            },
+            {
+                "content": "A all plant fwyta ychwanegion bwyd? A ydyn nhw\u2019n achosi ADHD, gorfywiogrwydd, ac alergeddau mewn plant?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae rhai lliwiau artiffisial wedi\u2019u cysylltu \u00e2 gorfywiogrwydd mewn plant sy\u2019n sensitif iddyn nhw, a dyna pam mae\u2019n rhaid cynnwys rhybuddion ar eu cyfer ar labeli. Mae alergeddau i ychwanegion yn brin ond yn bosib (er enghraifft, alergeddau i sylffitau). Fodd bynnag, rhaid labelu pob ychwanegyn fel y gall unrhyw un a allai fod yn sensitif i ychwanegion penodol eu hosgoi.",
+                "tag": "p"
+            },
+            {
+                "content": "A yw ychwanegion bwyd yn ddiogel yn ystod beichiogrwydd ac wrth fwydo ar y fron?",
+                "tag": "h2"
+            },
+            {
+                "content": "Ydyn. Ystyrir bod ychwanegion cymeradwy yn ddiogel i bawb, gan gynnwys menywod sy\u2019n feichiog neu sy\u2019n bwydo ar y fron.",
+                "tag": "p"
+            },
+            {
+                "content": "A alla\u2019 i osgoi ychwanegion drwy edrych ar y label?",
+                "tag": "h2"
+            },
+            {
+                "content": "Gallwch. Os ydych chi am osgoi ychwanegyn penodol, gwiriwch y label. Yn \u00f4l y gyfraith, mae\u2019n ofynnol dangos ar y deunydd pecynnu unrhyw ychwanegion sydd wedi\u2019u defnyddio. Os ydych chi\u2019n ansicr, ewch i wefan yr ASB i weld rhestr lawn o\u2019r ychwanegion cymeradwy.",
+                "tag": "p"
+            },
+            {
+                "content": "A oes rhai ychwanegion bwyd sydd wedi\u2019u caniat\u00e1u yn y DU, er eu bod nhw wedi\u2019u gwahardd mewn gwledydd eraill? Pam mae gwledydd eraill yn gwneud penderfyniadau gwahanol?",
+                "tag": "h2"
+            },
+            {
+                "content": "Weithiau mae gwahanol wledydd yn gwneud gwahanol benderfyniadau oherwydd eu bod yn dehongli data gwyddonol yn wahanol. Gallai hyn ddigwydd oherwydd bod ganddyn nhw batrymau bwyta gwahanol, sy\u2019n golygu bod person cyffredin mewn gwlad y tu allan i\u2019r DU yn bwyta mwy neu lai o\u2019r bwyd dan sylw, neu oherwydd bod gwledydd yn defnyddio egwyddorion rhagofalus gwahanol.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae hyn yn arbennig o bwysig, gan y gall deietau fod yn wahanol iawn. Er enghraifft, mewn rhai gwledydd, caniateir i gynhyrchwyr ychwanegu melysyddion a siwgr at fara oherwydd ei fod yn cael ei fwyta\u2019n llai aml. Mae hyn yn wahanol i\u2019r DU lle mae bara\u2019n brif fwyd, ac felly mae gennym reolaethau llymach ar ddefnyddio ychwanegion. Yr unig adeg rydym yn caniat\u00e1u defnyddio melysyddion yw mewn cynhyrchion heb siwgr wedi\u2019i ychwanegu, neu mewn cynhyrchion y mae eu calor\u00efau wedi gostwng o leiaf 30%.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r Asiantaeth Ryngwladol ar gyfer Ymchwil i Ganser (IARC) yn dweud bod ychwanegion yn garsinogenaidd, felly pam maen nhw\u2019n dal i gael eu caniat\u00e1u yn ein bwyd?",
+                "tag": "p"
+            },
+            {
+                "content": "Gall unrhyw sylwedd fod yn niweidiol os caiff ei fwyta i ormodedd. Mae\u2019r IARC yn edrych ar y perygl y gallai sylwedd ei achosi. Yna, gwaith rheoleiddwyr fel yr ASB yw ystyried y risgiau o ddefnyddio sylwedd \u2013 hynny yw, pa mor debygol yw hi y bydd y sylwedd yn achosi niwed ar y lefelau mae pobl yn dod i gysylltiad \u00e2\u2019r sylwedd mewn bywyd go iawn. ",
+                "tag": "p"
+            },
+            {
+                "content": "Dyma pam mae ychwanegion sydd \u00e2 risg isel iawn ar y cymeriant arferol yn cael eu caniat\u00e1u. Mewn asesiad risg diogelwch bwyd, mae \u201cperygl\u201d yn golygu rhywbeth mewn bwyd sydd \u00e2\u2019r potensial i achosi niwed, tra bo \u201crisg\u201d yn golygu\u2019r tebygolrwydd y bydd y perygl yn achosi niwed a pha mor ddifrifol y gallai\u2019r niwed hwnnw fod.",
+                "tag": "p"
+            },
+            {
+                "content": "Weithiau, gall ychwanegyn gyflwyno risg uwch a chael ei ganiat\u00e1u mewn bwydydd o hyd. Enghraifft dda o hyn yw\u2019r lliw bwyd coch erythrosin (E127). ",
+                "tag": "p"
+            },
+            {
+                "content": "Yn yr achos hwn, dim ond mewn ceirios coctel a Bigarreaux y caniateir defnyddio\u2019r ychwanegyn hwn. Mae hyn ar y sail y bydd y lefelau defnydd \u2013 ac felly cysylltiad \u00e2\u2019r ychwanegyn \u2013 yn isel iawn, oherwydd nad yw pobl yn tueddu i fwyta jariau a jariau o geirios bob dydd!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2026/07/09/food-fact-check-what-are-food-additives-and-are-they-safe/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Food Fact Check: Adam Hardgrave, Head of Food Additives, Flavourings and Contact Materials answers questions about Food Additives."
+    },
+    {
+        "title": "Driving skills: what's changed on the Ready to Pass? website and why",
+        "authors": [
+            "Abigail Holland"
+        ],
+        "posted_on": "2026-07-09T10:25:41",
+        "categories": [
+            "Driving instructors",
+            "Driving test",
+            "Feature",
+            "Helping someone to learn to drive?",
+            "Learning to drive",
+            "Ready to Pass?",
+            "Resources for instructors",
+            "Road safety features"
+        ],
+        "content": [
+            {
+                "content": "Since launching the Ready to Pass? campaign in 2022, we've had lots of useful feedback from many of you as approved driving instructors (ADIs). One theme that\u2019s come up is that the campaign feels too focused on passing the test and not enough on the broader skills that make someone a safe driver for life.",
+                "tag": "p"
+            },
+            {
+                "content": "That's fair feedback and we've taken it seriously. This post explains the changes we've made to the driving skills section of the campaign website, why we made them and how the new content might be useful in your lessons.",
+                "tag": "p"
+            },
+            {
+                "content": "What the driving skills section is",
+                "tag": "h2"
+            },
+            {
+                "content": "The driving skills section of the Ready to Pass? website is a learner-facing resource that sets out the 27 skills at the heart of learning to drive.",
+                "tag": "p"
+            },
+            {
+                "content": "It groups those skills into 8 categories: basics, control and positioning, observation and planning, junctions and crossings, manoeuvres, road types, driving conditions and driving independently. It also provides guidance on how learners can track their progress across 5 levels as they develop each one.",
+                "tag": "p"
+            },
+            {
+                "content": "From \u2018passing the test\u2019 to \u2018driving safely\u2019",
+                "tag": "h2"
+            },
+            {
+                "content": "The most visible change is the title of the driving skills section itself. It's moved from\u00a0\u2018Skills you need to pass your driving test\u2019\u00a0to\u00a0\u2018Learning the skills you need to drive safely\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "It now has a description that reads: \"Discover the 27 skills you'll develop with your driving instructor and how to track your progress as you work towards becoming a safe, independent driver.\"",
+                "tag": "p"
+            },
+            {
+                "content": "You'll see that framing carried through the language across the whole section.",
+                "tag": "p"
+            },
+            {
+                "content": "Advice on choosing an instructor and checking badges",
+                "tag": "h2"
+            },
+            {
+                "content": "The section now includes clear guidance for learners on how to find a qualified instructor, what to look for and the difference between a fully qualified ADI and a trainee driving instructor. It also suggests questions learners might want to ask before booking.",
+                "tag": "p"
+            },
+            {
+                "content": "A new navigation page",
+                "tag": "h2"
+            },
+            {
+                "content": "We've added a navigation page for the section, making it quicker and easier to get directly to any of the pages in the section.",
+                "tag": "p"
+            },
+            {
+                "content": "This should make it simpler for your pupils to find specific skills quickly.",
+                "tag": "p"
+            },
+            {
+                "content": "A recommended learning sequence",
+                "tag": "h2"
+            },
+            {
+                "content": "The updated section sets out a clear order for learning to drive:",
+                "tag": "p"
+            },
+            {
+                "content": "We've included this because DVSA survey data shows that learners who start professional lessons before their theory test are more likely to succeed. Learners without any lessons before their theory test were:",
+                "tag": "p"
+            },
+            {
+                "content": "These figures come from voluntary surveys of learner drivers carried out by DVSA. The theory test data covers responses collected between April 2024 and July 2025. The driving test data covers responses collected between July 2024 and April 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "This sequencing reinforces your role as the expert in judging readiness - which is central to what the whole campaign is trying to communicate to learners.",
+                "tag": "p"
+            },
+            {
+                "content": "Reflective questions for each skill",
+                "tag": "h2"
+            },
+            {
+                "content": "Each of the 27 individual skill pages now includes 4 questions under the heading \u2018Things to think about\u2019 and 104 questions in total across the section. These follow a deliberate structure:",
+                "tag": "p"
+            },
+            {
+                "content": "This progression mirrors how the brain processes behaviour and moves learners from surface-level awareness toward deeper self-evaluation skills. The questions are written at an accessible reading level and framed as tools for reflection, not a test.",
+                "tag": "p"
+            },
+            {
+                "content": "Although they\u2019ve been designed for learners to use as private self-reflection, you may find some of them are useful as conversation starters in lessons. They might be particularly helpful with learners who find it difficult to talk about their driving, or who need encouragement to reflect beyond the mechanics of what they did.",
+                "tag": "p"
+            },
+            {
+                "content": "An \u2018ask your instructor\u2019 prompt for each skill",
+                "tag": "h2"
+            },
+            {
+                "content": "Each of the 27 skills also includes a single prompt under a heading of \u2018Ask your instructor\u2019. These are designed to encourage learners to initiate coaching conversations with you, raising topics they might not otherwise bring up.",
+                "tag": "p"
+            },
+            {
+                "content": "The questions are intentionally open-ended and aligned with coaching principles, inviting learners to take an active role in their own development rather than waiting to be told what to improve.",
+                "tag": "p"
+            },
+            {
+                "content": "Skills updated with content on advanced driver assistance systems ",
+                "tag": "h2"
+            },
+            {
+                "content": "Many modern vehicles include systems such as lane assist, automatic emergency braking and parking sensors.",
+                "tag": "p"
+            },
+            {
+                "content": "We've added what learners need to know and understand about them.",
+                "tag": "p"
+            },
+            {
+                "content": "Take a look and tell us what you think",
+                "tag": "h2"
+            },
+            {
+                "content": "View the updated driving skills section.",
+                "tag": "p"
+            },
+            {
+                "content": "This content has been shaped by ADI feedback, but we know the real test of whether it works will be in your lessons.",
+                "tag": "p"
+            },
+            {
+                "content": "If you try the reflection questions or if your pupils use the \u2018Ask your instructor\u2019 prompts, please let us know what happened, such as what worked, what fell flat and what you'd change.",
+                "tag": "p"
+            },
+            {
+                "content": "We read every response and your feedback will directly inform how we develop this section further. Email\u00a0ready.to.pass@dvsa.gov.uk\u00a0- we'd genuinely like to hear from you.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll now be turning our attention to improving the \u2018Helping a learner driver\u2019 section of the website. This is the section for parents, guardians and other people supporting learners. We\u2019ll update you when it\u2019s relaunched.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://despatch.blog.gov.uk/2026/07/09/driving-skills-whats-changed-on-the-ready-to-pass-website-and-why/",
+        "blog": "Despatch for driver and rider trainers",
+        "blog_link": "https://despatch.blog.gov.uk",
+        "description": "We've updated the Ready to Pass? campaign website so it focuses on the broader skills of driving, not just focusing on passing a driving test."
+    },
+    {
+        "title": "From coat hangers to hazardous chemicals, no two days are the same for the Cargoes, Safety and Pollution Prevention team",
+        "authors": [
+            "Steph Martin"
+        ],
+        "posted_on": "2026-07-09T10:10:35",
+        "categories": [
+            "People",
+            "Pollution prevention",
+            "Seafarer welfare",
+            "UK Technical Maritime Services"
+        ],
+        "content": [
+            {
+                "content": "To mark National Dangerous Goods Awareness Day, which falls during Maritime Safety Week, we're shining a light on the Maritime and Coastguard Agency team working every day to ensure the safe and legal carriage of cargo, including dangerous goods, to and from the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "With over 90% of UK imports and exports transported by sea, the work of the Maritime and Coastguard Agency\u2019s (MCA) Cargoes, Safety and Pollution Prevention (CSPP) team touches almost every aspect of our daily lives.",
+                "tag": "p"
+            },
+            {
+                "content": "Led by Alison Kentuck, the team is responsible for assessing the safety and environmental requirements of cargoes, setting and implementing the legal standards for their carriage by sea, and taking part in compliance inspections.",
+                "tag": "p"
+            },
+            {
+                "content": "Alison said:",
+                "tag": "p"
+            },
+            {
+                "content": "Working alongside Alison are Cargoes Lead Peter Boden, a Hazardous Cargoes Lead and Cargoes Advisor Ian Platts.",
+                "tag": "p"
+            },
+            {
+                "content": "The team\u2019s work is very varied and could include:",
+                "tag": "p"
+            },
+            {
+                "content": "In an ever-changing global landscape, some of the challenges the team face include ensuring the safe carriage of electric vehicles, establishing new mandatory requirements for plastic pellets to prevent plastics pollution in the marine environment and working internationally and in the UK to develop standards for the bulk transport of emerging alternative fuels.",
+                "tag": "p"
+            },
+            {
+                "content": "The CSPP team also represents the UK in the International Maritime Organization (IMO) for all matters related to the carriage of cargoes.",
+                "tag": "p"
+            },
+            {
+                "content": "Alison explained:",
+                "tag": "p"
+            },
+            {
+                "content": "The CSPP team are actively involved in the development of international standards for the carriage of cargoes in general, and current work includes setting standards for the carriage of liquefied gas alternative fuels such as hydrogen and ammonia. There is also ongoing work as part of the IMO\u2019s Editorial and Technical Group, which develops updates and amendments to the International Maritime Dangerous Goods (IMDG) Code. They are also on the Evaluation of Safety and Pollution Hazards of Chemicals (ESPH) technical group, on which the UK is a leading member.",
+                "tag": "p"
+            },
+            {
+                "content": "Closer to home, the team work with partners across the country to ensure cargo safety and pollution prevention, including HM Coastguard and MCA surveyors, as well as the police, other government regulators and industry groups.",
+                "tag": "p"
+            },
+            {
+                "content": "For the transport of dangerous goods, the IMDG Code is part of a globally harmonised and multimodal regulatory framework. This means that, as far as is possible, a dangerous goods cargo can leave the UK on a journey that might include transport by road, sea and rail and span multiple countries, but regulations are the same, which enables a seamless journey and a consistent level of safety.",
+                "tag": "p"
+            },
+            {
+                "content": "When breaches of the regulations are found, some may be serious and others may be more readily rectified.",
+                "tag": "p"
+            },
+            {
+                "content": "Alison continued:",
+                "tag": "p"
+            },
+            {
+                "content": "While most of the team\u2019s work is based in the UK, they do occasionally travel and were recently invited by the French authorities to witness an inspection in Calais of hazardous cargo that was destined for the UK. This type of multinational inspection helps strengthen international collaboration and harmonisation around cargo safety and pollution prevention and recognises the global nature of UK trade.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK relies on the efficient movement of goods, but cargoes don\u2019t always fit neatly into regulatory requirements. When faced with a cargo that might be unusual, complex or sensitive, the CSPP team must work to find safe, practical and effective solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "Alison gave an example:",
+                "tag": "p"
+            },
+            {
+                "content": "Reflecting on National Dangerous Goods Awareness Day, Alison finished:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidemca.blog.gov.uk/2026/07/09/from-coat-hangers-to-hazardous-chemicals-no-two-days-are-the-same-for-the-cargoes-safety-and-pollution-prevention-team/",
+        "blog": "Inside MCA",
+        "blog_link": "https://insidemca.blog.gov.uk",
+        "description": "To mark National Dangerous Goods Awareness Day, which falls during Maritime Safety Week, we're shining a light on the team working to ensure the safe and legal carriage of cargo, including dangerous goods, to and from the UK."
+    },
+    {
+        "title": "CVO - Defra's vision for a thriving veterinary sector\u00a0",
+        "authors": [
+            "Government Vets Blog Team"
+        ],
+        "posted_on": "2026-07-09T09:59:08",
+        "categories": [
+            "Government Veterinary Services"
+        ],
+        "content": [
+            {
+                "content": "As Chief Veterinary Officer, Christine Middlemiss discusses the release of Defra's White Paper ",
+                "tag": "p"
+            },
+            {
+                "content": "Today, the government has published its White Paper, Our vision for a thriving veterinary sector, setting out proposals for the most significant reform of veterinary regulation in a generation. These proposals respond both to the recent consultation on reforming the Veterinary Surgeons Act 1966 and to recommendations made by the Competition and Markets Authority following its investigation into veterinary services for household pets.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As Chief Veterinary Officer, I am proud to be part of a profession that plays a vital role in society. Every day veterinary professionals help protect animal health and welfare, support food security, safeguard public health, strengthen our biosecurity, and facilitate international trade. Our contribution is as important today as it has ever been.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While the profession has evolved significantly over the last 60 years, the legislation governing us has not kept pace. Veterinary practice today looks very different from when the Veterinary Surgeons Act was introduced in 1966. New professions such as veterinary nurses have emerged with the wider vet team playing, an increasingly important role in achieving good outcomes for animals; and technology has transformed the way we deliver care\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The White Paper sets out how we can build a modern regulatory framework that supports the whole veterinary sector to flourish whilst continuing to uphold the high standards that the public rightly expects.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting the whole veterinary team\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One of the most significant proposals is extending statutory regulation beyond veterinary surgeons to include veterinary nurses and other allied veterinary professionals through a licence-to-practise system.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m really aware from my own experience of the expertise and dedication that exists and that we rely on, across the wider veterinary team. Veterinary nurses, farriers, physiotherapists, equine dental technicians and many others make a valuable contribution to animal care every day.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In recognising and regulating a broader range of professions as a sector we can provide greater clarity about roles and responsibilities, protect professional titles, and enable appropriately qualified professionals to work to the full extent of their competence. This will importantly help create a more flexible and resilient workforce while maintaining high standards of animal welfare and public confidence.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A more modern approach to regulation\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The proposals also include reforms to fitness-to-practise processes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The current system focuses heavily on past alleged misconduct and professional disrepute offering limited options for intervention. Under the proposed framework, regulation would move towards a modern \"current impairment\" model that focuses on whether a professional currently presents a risk and what support may be needed to help them practise safely and effectively.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As veterinary professionals we carry significant responsibilities and should be supported to maintain the high standards expected of them. A proportionate, modern regulatory approach can help achieve this while ensuring animals, consumers and the wider public remain protected.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, a thriving veterinary sector depends not only on effective regulation, but also on strong professional leadership. By supporting professional development, collaboration and excellence across the veterinary team, professional leadership helps ensure the sector is equipped to meet future challenges and opportunities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reflecting how veterinary services are delivered today\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Another significant and welcome proposal is the introduction of statutory regulation for veterinary and animal healthcare businesses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Veterinary business ownership models have evolved, practices have grown, and consumers increasingly expect transparency and consistency in the services they receive. The proposed licensing framework for businesses will establish clear standards relating to areas such as clinical governance, staffing, consumer information and accountability.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the same time of course regulation should remain proportionate and outcomes-focused, avoiding unnecessary burdens while maintaining confidence in the sector.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building trust and confidence\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Trust is fundamental to the relationship between veterinary professionals and the public.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The White Paper therefore includes proposals to strengthen consumer protections through greater transparency, clearer complaints processes, access to mediation, and potential future arrangements for binding redress where complaints cannot otherwise be resolved.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside these measures are proposals for strengthened governance and oversight of the regulator to help ensure that it remains transparent, accountable and focused on the public interest.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I recognise that these proposals represent significant change. Change can sometimes feel challenging, particularly for a profession that is already facing workforce pressures and increasing demand.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I do though, firmly believe that modern legislation provides an opportunity to strengthen our professions, improve clarity and accountability, make better use of the talents across the whole veterinary team, and maintain public trust in veterinary services.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Above all, these reforms are about supporting a thriving veterinary sector that continues to deliver excellent outcomes for animals, the public and veterinary professionals for decades to come.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My thanks go to everyone who contributed to the consultation and helped shape these proposals. Your insights have been invaluable and will continue to be important as this work progresses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together, we can build a modern regulatory framework that supports the future of the veterinary sector and the vital role it plays across the United Kingdom.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://vets.blog.gov.uk/2026/07/09/cvo-defras-vision-for-a-thriving-veterinary-sector/",
+        "blog": "Government Vets",
+        "blog_link": "https://vets.blog.gov.uk",
+        "description": "As Chief Veterinary Officer, Christine Middlemiss discusses the release of Defra's White Paper Today, the government has published its White Paper, Our vision for a thriving veterinary sector, setting out proposals for the most significant reform of veterinary regulation in \u2026"
+    },
+    {
+        "title": "How ARB Covers turned a studio frustration into a protected business\u00a0",
+        "authors": [
+            "Christina Watts"
+        ],
+        "posted_on": "2026-07-09T09:55:55",
+        "categories": [
+            "Business",
+            "Design right",
+            "Trade marks"
+        ],
+        "content": [
+            {
+                "content": "When Gavin Arblaster, founder of ARB Covers, returned home to his music studio after working away, he faced a challenge that will be a familiar one for many: he couldn't find suitable covers for his valuable audio equipment for when it was sitting unused and unprotected.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rather than accepting the problem, he decided to solve it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today, ARB Covers designs bespoke quilted covers for professional audio equipment, recording studios and high-end hi-fi systems. The business serves customers across the UK and internationally, protecting equipment used by music producers, recording studios and audiophiles. What started as a personal need has grown into a specialist business built on innovation, quality and intellectual property (IP).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We spoke to Gavin about how a simple idea grew into a successful business and why protecting his intellectual property became a key part of that journey.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creating something original\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "His\u00a0solution\u00a0quickly attracted attention from others in the music industry. Producers,\u00a0engineers\u00a0and audio enthusiasts started asking whether he could create similar covers for their equipment, turning a personal project into a business opportunity.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the business grew, customer feedback helped shape new opportunities. Gavin discovered customers wanted protection not only from dust, but also from everyday accidents involving pets, children and valuable equipment that remained on display in homes and studios.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Discovering\u00a0IP\u00a0rights\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "As Gavin developed his idea, he realised that protecting it would be just as important as creating it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After researching\u00a0IP\u00a0rights, he contacted the Business & IP Centre at the Library of Birmingham, where he received free guidance on the\u00a0different types\u00a0of IP protection available. The advice helped him understand how he could protect his ideas before bringing them to market.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Gavin also\u00a0benefited\u00a0from support through the Greater Birmingham and Solihull Local Enterprise Partnership Growth Hub.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through funded IP support, he worked with IP attorneys at Barker Brettell to review and strengthen his IP strategy. The support helped him take a more structured approach to protecting and managing his intellectual property.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find the right advice and advisor for your invention or business:\u00a0Seeking intellectual property advice - GOV.UK\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building a business around IP",
+                "tag": "h3"
+            },
+            {
+                "content": "Since launching ARB Covers, Gavin has made protecting his ideas part of the business process. The company has registered around 15 designs and secured\u00a0trade mark\u00a0protection for its brand. Whenever he develops a new product, Gavin considers how it can be protected before promoting it or releasing it to customers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This approach has allowed him to grow with confidence while continuing to develop new products for the professional audio market.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The value of protecting what\u00a0you've\u00a0created\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Although ARB Covers has not faced major IP disputes, Gavin believes having protection in place has strengthened both his business and his confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "That confidence has helped him build relationships with well-known audio brands, expand into international\u00a0markets\u00a0and continue investing in innovation. Today, ARB Covers sells products worldwide and is continuing to develop\u00a0new designs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Protect what makes your business unique\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Like Gavin, many businesses start with a simple idea or a solution to an everyday problem. If\u00a0you've\u00a0created something original, understanding your IP rights could help you protect what\u00a0you've\u00a0built and support future growth.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Gavin's advice for other businesses\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "For businesses developing new products, brands or ideas, Gavin's advice is simple: think about\u00a0IP\u00a0early.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "He encourages entrepreneurs to make use of the support available through their local Business & IP Centre and learn about the\u00a0different ways\u00a0IP can help protect and grow a business.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you've created something valuable, make sure it's protected. Explore our\u00a0step-by-step intellectual property guidance.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2026/07/09/how-arb-covers-turned-a-studio-frustration-into-a-protected-business/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "ARB Covers designs bespoke quilted covers for professional audio equipment, recording studios and high-end hi-fi systems. What started as a personal need has grown into a specialist business built on innovation,\u00a0quality\u00a0and intellectual property.\u00a0"
+    },
+    {
+        "title": "Shaping the future of open data: the new Open Data Communities service",
+        "authors": [
+            "Steve Peters, Principal Technical Architect, Analytical Data as a Service"
+        ],
+        "posted_on": "2026-07-09T09:23:02",
+        "categories": [
+            "Data"
+        ],
+        "content": [
+            {
+                "content": "Open Data Communities (ODC) is the platform the Ministry of Housing, Communities and Local Government (MHCLG) uses to routinely release its data outputs in fully open, accessible and reusable forms.",
+                "tag": "p"
+            },
+            {
+                "content": "Earlier this year, we published a blog explaining how we planned to evolve our platform to support transparency, accountability and innovation.",
+                "tag": "p"
+            },
+            {
+                "content": "The first part of the transformation is now complete, and we want to highlight the changes we have made.",
+                "tag": "p"
+            },
+            {
+                "content": "A modernised look and new URL",
+                "tag": "h2"
+            },
+            {
+                "content": "Open Data Communities has moved from its legacy domain to a new service at https://open-data.communities.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "The new Open Data Communities site has a modern interface, with a design that prioritises usability and accessibility. The homepage now features clearer navigation and a more structured presentation of the datasets and tools available. Overall, the refreshed design reflects a shift towards a more user-centred experience, making the platform feel more consistent with other modern government digital services.",
+                "tag": "p"
+            },
+            {
+                "content": "A focus on machine-readable datasets",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the most significant updates is the release of the Indices of Multiple Deprivation (IMD) 2025 dataset using CSV on the Web (CSVW).",
+                "tag": "p"
+            },
+            {
+                "content": "Publishing IMD in CSVW combines standard CSV files with structured, machine-readable metadata. This is important because it retains the simplicity users expect from CSV, whilst the metadata adds additional context to properly interpret and reuse the data.",
+                "tag": "p"
+            },
+            {
+                "content": "In practice, the metadata provides:",
+                "tag": "p"
+            },
+            {
+                "content": "This directly supports interoperability, allowing IMD data to be combined with other datasets more easily and reliably. It also enables both human users and automated systems to work with the data more effectively, which is increasingly important as analytical workflows become more complex and machine-driven.",
+                "tag": "p"
+            },
+            {
+                "content": "From a wider government perspective, adopting CSVW aligns with the recommended open standards guidance, which promotes machine-readable metadata and consistent data models. The use of CSVW helps ensure MHCLG data is:",
+                "tag": "p"
+            },
+            {
+                "content": "More broadly, this approach supports the government\u2019s direction towards making data more accessible, reusable and compatible with emerging technologies such as AI, where structured metadata is essential for safe and effective reuse at scale.",
+                "tag": "p"
+            },
+            {
+                "content": "Get energy performance of buildings data: a user-focused approach to EPC data",
+                "tag": "h2"
+            },
+            {
+                "content": "Alongside improvements to datasets, Energy Performance Certificates (EPC) open data has moved to a new dedicated service.",
+                "tag": "p"
+            },
+            {
+                "content": "This service replaces the Energy Performance of Buildings Data platform and introduces a more resilient and user-focused way to access EPC data. It also helps users distinguish between bulk energy performance data access through this service, and individual certificate lookup through the EPC Register.",
+                "tag": "p"
+            },
+            {
+                "content": "The new 'Get energy performance of buildings data' service provides:",
+                "tag": "p"
+            },
+            {
+                "content": "The service has also been developed with clearer guidance and signposting, helping users transition from the previous service and understand how to access datasets, APIs and supporting information.",
+                "tag": "p"
+            },
+            {
+                "content": "In May we supported:",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s what some of the users said:",
+                "tag": "p"
+            },
+            {
+                "content": "In conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "These changes mark a clear shift in how MHCLG publishes and delivers open data. The move to CSVW for high-value datasets like IMD and the introduction of dedicated services such as Get Energy Performance Data demonstrate a focus on open standards, usability and interoperability.",
+                "tag": "p"
+            },
+            {
+                "content": "This ensures that data is not only accessible, but also structured in a way that supports reuse, integration and future innovation across government and beyond.",
+                "tag": "p"
+            },
+            {
+                "content": "As always, we welcome your feedback on these changes and any other features of Open Data Communities. Contact us at odc@communities.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/07/09/shaping-the-future-of-open-data-the-new-open-data-communities-service/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Open data plays a vital role in supporting transparency, accountability and innovation across the public sector. Find out about the recent changes we have made to our Open Data Communities platform, which helps inform better decision-making, support the development of new services and helps users better understand their areas."
+    },
+    {
+        "title": "Putting the wiggle back into the River Kemp",
+        "authors": [
+            "Denise Latham"
+        ],
+        "posted_on": "2026-07-09T09:15:09",
+        "categories": [
+            "Catchment Sensitive Farming",
+            "Ecosystem Services",
+            "Flood Management",
+            "Habitat",
+            "Land Use",
+            "Natural England",
+            "Nature Recovery",
+            "Nature-based solutions"
+        ],
+        "content": [
+            {
+                "content": "By Denise Latham, Senior Officer, Catchment Sensitive Farming, Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "What happens when a routine farm visit grows into something far more ambitious? Senior Officer Denise Latham shares the story of the Walcot Wiggle, how a conversation on a Shropshire hillside evolved into a landmark river restoration project that is putting the natural meanders back into the River Kemp. From funding breakthroughs to the moment water first flowed through newly restored channels, this is a story about what becomes possible when farmers, advisers and partners share a vision, and the confidence to pursue it.",
+                "tag": "p"
+            },
+            {
+                "content": "Eighteen months ago, I visited a farm in the Clun catchment to talk through a Catchment Sensitive Farming Capital Grant application. The plan was fairly straightforward: a few ponds, some practical improvements and advice on how to make the most of the opportunities available.",
+                "tag": "p"
+            },
+            {
+                "content": "But as I walked the farm with one of the landowners, and Helen Oliver from the Shropshire Hills National Landscape's Farming in Protected Landscapes team, it became clear there was an opportunity to think much bigger.",
+                "tag": "p"
+            },
+            {
+                "content": "Working closely with the landowners, we brought together the right partners, including the Environment Agency and Severn Rivers Trust. Together, we explored what was possible and shaped a shared vision for restoring the river. Through those conversations and partnerships, the idea gradually grew into what became the \u2018Walcot Wiggle\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "Projects like this\u00a0do not\u00a0happen without funding. The initial feasibility study was funded through a FiPL grant. The Walcot Wiggle\u00a0has been\u00a0supported by the Environment Agency's Local Water Environment Grant, the Shropshire Hills National Landscape 30by30 Fund, the\u00a0Elgol\u00a0Fund for Nature and the HDH Wills 1965 Charitable Trust.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we're doing and why it matters",
+                "tag": "p"
+            },
+            {
+                "content": "This section of the River Kemp was straightened in the 1800s to improve farming but, in doing so, it reduced the variety of habitats the river could support and changed the way water moved through the landscape.",
+                "tag": "p"
+            },
+            {
+                "content": "By restoring more than a kilometre of meanders and reconnecting the river to its original channel, we are giving the River Kemp the space to behave more as it once did. That brings benefits for both people and wildlife. The \"wiggles\" lengthen the river's course and slow the movement of water, helping to reduce flood risk downstream. They also give sediment and nutrients more opportunity to settle, improving water quality. ",
+                "tag": "p"
+            },
+            {
+                "content": "The restored floodplain makes the landscape more resilient to a changing climate, helping it cope with both heavier rainfall and longer dry spells. At the same time, the meanders, backwaters, wetlands and seasonally wet grassland create a much richer variety of habitats for birds, fish, amphibians, insects and aquatic plants.",
+                "tag": "p"
+            },
+            {
+                "content": "Because the River Kemp feeds into the River Clun, home to internationally important species including Atlantic salmon and the endangered freshwater pearl mussel, improving this stretch of river will also benefit wildlife across the wider catchment by creating cleaner water and better spawning and feeding habitats.",
+                "tag": "p"
+            },
+            {
+                "content": "People have been shaping the River Kemp for centuries. The difference now is that we are working with the river, giving it the space to do what it does naturally and creating a more resilient landscape for farming, wildlife and the people who depend on both.",
+                "tag": "p"
+            },
+            {
+                "content": "Farming and nature, hand in hand",
+                "tag": "p"
+            },
+            {
+                "content": "One of the things I'm most proud of about the Walcot Wiggle is that it shows what's possible when farmers are given the confidence and support to work with nature.",
+                "tag": "p"
+            },
+            {
+                "content": "Since the restoration began, Natural England CSF Advisers have been working closely with both landowners and have helped secure two Countryside Stewardship Higher Tier agreements. Although there was no certainty that the Higher Tier agreements would be available when we started, we planned the project with that in mind. The baseline surveys, design work and restoration were all carried out so that, if the opportunity came, the farmers would be well placed to secure agreements that recognised the value of making room for the river to move.",
+                "tag": "p"
+            },
+            {
+                "content": "For me, that's one of the biggest successes of the project. We've restored the river, but we've also helped create a long term plan that supports productive farming while giving the river the space to move naturally, improving water quality, reducing flood risk and creating more room for wildlife to thrive.",
+                "tag": "p"
+            },
+            {
+                "content": "Healthy floodplains provide multiple benefits to farming. Improved soil moisture during dry periods, more resilient grassland, reduced erosion and better water management all contribute towards productive farm businesses that are better equipped to adapt to a changing climate.",
+                "tag": "p"
+            },
+            {
+                "content": "At the same time, wildlife benefits from a more connected landscape where rivers, wetlands and grasslands can function as a more joined up landscape.",
+                "tag": "p"
+            },
+            {
+                "content": "For me, this is a great example of Natural England\u2019s approach in action, putting farmers and landowners at the heart of nature recovery through practical support and local knowledge.",
+                "tag": "p"
+            },
+            {
+                "content": "The reconnection",
+                "tag": "p"
+            },
+            {
+                "content": "Standing beside the River Kemp as water flowed through its new meanders for the first time was a proud and memorable moment.",
+                "tag": "p"
+            },
+            {
+                "content": "After 18 months of planning, surveys, discussions and collaborative working, it was incredibly rewarding to see the vision become reality. Watching the river begin to reconnect with its original channel was a reminder that river restoration is not simply about moving earth or reshaping channels; it is about restoring natural processes that will continue to evolve long after the machinery has left.",
+                "tag": "p"
+            },
+            {
+                "content": "Perhaps most exciting is that this is only the beginning. As vegetation establishes, wetlands develop and wildlife responds, the benefits of the project will continue to grow year after year. We have secured long-term monitoring, allowing us to track how the site develops over time, measure the project's environmental benefits, and use this evidence to inform future restoration work. Equally importantly, the relationships built throughout the project continue to strengthen, providing opportunities to develop the site further and inspire similar projects across the Severn River Basin.",
+                "tag": "p"
+            },
+            {
+                "content": "The Walcot Wiggle shows what can be achieved when ambitious landowners, trusted advice, sound evidence and strong partnerships come together with a shared vision. By putting the wiggle back into the River Kemp, we are helping to create a healthier river, a more resilient farming landscape and a better future for nature. I hope it provides a model that gives us, as well as other farmers and landowners, the confidence to take on similar projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more To learn more about Catchment Sensitive Farming and how we can support farmers and landowners, visit Catchment Sensitive Farming: advice for farmers and land managers - GOV.UK and Catchment Sensitive Farming - Our advice | Farming Advice Service",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/07/09/putting-the-wiggle-back-into-the-river-kemp/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Denise Latham, Senior Officer, Catchment Sensitive Farming, Natural England What happens when a routine farm visit grows into something far more ambitious? Senior Officer Denise Latham shares the story of the Walcot Wiggle, how a conversation on a Shropshire \u2026"
+    },
+    {
         "title": "A maturing market: digital identity sectoral analysis 2026",
         "authors": [
             "James RJ Brown"
