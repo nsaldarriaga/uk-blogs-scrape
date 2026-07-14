@@ -1,5 +1,636 @@
 [
     {
+        "title": "Join our Capital Grants 2026 webinar",
+        "authors": [
+            "Sarah Blatchford"
+        ],
+        "posted_on": "2026-07-14T16:07:03",
+        "categories": [
+            "Grants"
+        ],
+        "content": [
+            {
+                "content": "The 2026 Capital Grants offer\u00a0is expected to open on\u00a0Thursday 30 July.",
+                "tag": "p"
+            },
+            {
+                "content": "This new round will make \u00a3225 million available, which is 50% more than in 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "To help you prepare,\u00a0we're\u00a0hosting\u00a0a webinar\u00a0for you to\u00a0find out more.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0webinar\u00a0will take place on Wednesday 22 July.\u00a0It will start at 2pm and finish at 3:30pm.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During the session,\u00a0you'll\u00a0hear from me,\u00a0as well as colleagues from Catchment Sensitive Farming (CSF)\u00a0(look at section 4.3), and the\u00a0Rural Payments Agency (RPA).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "CSF colleagues will explain which grant items may need advice before you apply, and RPA colleagues will take you through the application and claims process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We'll\u00a0finish with a Q&A session, so you can ask questions and get answers from the team.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Register to attend.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u00a0can\u2019t\u00a0make it,\u00a0don\u2019t\u00a0worry. We will publish a link to the recording in this post once the\u00a0webinar\u00a0finishes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more information ahead of the\u00a0webinar, do read\u00a0my previous posts on Capital Grants\u00a0and the\u00a0Capital Grants 2026 guidance on GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I look forward to seeing you there.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/07/14/join-our-capital-grants-2026-webinar/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "The 2026 Capital Grants offer is expected to open on 30 July. To help you prepare we're hosting a webinar on 22 July."
+    },
+    {
+        "title": "Improving support for people at risk through better data: Introducing the Vulnerabilities Data Standards Alpha",
+        "authors": [
+            "Firoze Salim"
+        ],
+        "posted_on": "2026-07-14T15:12:11",
+        "categories": [
+            "Data Standards"
+        ],
+        "content": [
+            {
+                "content": "Across public services, data about people at risk is captured in different ways, by different organisations, using different systems. This fragmented approach can delay support for people who need help quickly. A frontline housing officer may hold information that social care employees cannot access. A GP may spot early signs of risk a local council cannot act upon. A school safeguarding team may have insight no other agency has. Without a shared approach, these signals remain disconnected. ",
+                "tag": "p"
+            },
+            {
+                "content": "Identifying people who may be at risk requires a joined-up, multiagency approach, underpinned by more consistent use of data across the public sector. ",
+                "tag": "p"
+            },
+            {
+                "content": "The next step is agreeing a shared approach. To support this, the Vulnerabilities Working Group has published the Alpha release of the Vulnerabilities Data Standards, now available on GOV.UK. Ben Cheetham, Deputy Director, Local Digital, MHCLG, said:  \"We hear time and again how the lack of consistent access to data hampers a council's ability to identify and provide the right support to people at risk. The Vulnerabilities Data Standards reflect a collaborative approach, supporting earlier intervention while respecting local decision-making and diverse local needs.\" How the Standards were developed These standards are the result of collaboration across central government, local councils, and partners in the SAVVI (Scalable Approach to Vulnerability Via Interoperability) programme. SAVVI brings together organisations working to share data more effectively to help people who need support. They are developing shared artefacts to help organisations capture, understand and lawfully share the minimum data needed to support people at risk.  The SAVVI standard was developed by iStandUK - a not-for-profit organisation that supports data standards in public services - with funding and support from the Ministry of Housing, Communities and Local Government (MHCLG) Local Digital programme. It helps organisations combine multiple data sources to identify people at risk earlier and refer them to the right services. It is designed to work alongside other standards, such as Open Referral UK standard, which provides a consistent way to describe and publish information about services.  MHCLG is now supporting a joint SAVVI and Open Referral UK pilot with Greater Manchester Combined Authority, testing how the standards work across organisational boundaries and capturing lessons to inform adoption across England. How the Standards work 1) Data models for vulnerability Conceptual and logical data models help organisations think through the journey of a person at risk and the minimum data required to support them. Developed through the SAVVI programme and refined by the cross-government Vulnerabilities Working Group, they set out: * how organisations can capture consistent information about people and households * how to structure data to support multiagency exchange * principles for lawful, ethical and transparent data sharing Laura Sato, Assistant Director, Data Architecture, NHS England, said:  \u201cThe publication of the Vulnerabilities data models for use across public sector services is an exciting achievement of the SAVVI programme and sets the foundation for improved collaborative service planning and reduced effort in identifying people who need support.\u201d 2) Taxonomy of risk factors Our taxonomy is a reference list of individual risk factors that may apply to a person or household, deliberately designed to support proportionate data sharing. For example, rather than sharing a full date of birth, an organisation can indicate that a person is over State Pension age. The taxonomy provides clear definitions, a structured hierarchy across domains such as health, safety and housing, and multiple formats including document, spreadsheet and RDF (Resource Description Framework). The governance documents explain how taxonomies will be created, maintained and updated, giving organisations confidence that standards will remain consistent and reliable over time. Why this matters for frontline services Data is captured on the frontline, by people supporting individuals and families every day. These standards are designed to reflect real-world practice, not be a technical exercise carried out in isolation. Councils, housing associations and local partners hold the richest contextual data about households. Their continued collaboration will ensure the standards work in practice as we move towards Beta. How to get involved The Alpha phase is an opportunity to test, learn and refine the data standards before any wider adoption. We are keen to hear your views on the Alpha release, now available on GOV.UK, and whether the standards are practical and usable in real-world settings. We would particularly welcome feedback on how they fit with existing systems, any implementation challenges, and areas where further development may be needed. Please send your feedback by 21 August 2026 to \u00a0data-standards-authority@dsit.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dataingovernment.blog.gov.uk/2026/07/14/improving-support-for-people-at-risk-through-better-data-introducing-the-vulnerabilities-data-standards-alpha/",
+        "blog": "Data in government",
+        "blog_link": "https://dataingovernment.blog.gov.uk",
+        "description": "The Vulnerabilities Working Group is seeking feedback on new data standards designed to improve how public services support people at risk."
+    },
+    {
+        "title": "More Awaab\u2019s Law protections: \u201ctenants\u2019 health and safety can never be compromised\u201d",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-07-14T14:40:21",
+        "categories": [
+            "Social housing"
+        ],
+        "content": [
+            {
+                "content": "MHCLG's announcement that Awaab\u2019s Law is being extended to seven dangerous hazards later this year has been covered in national, regional and trade press.",
+                "tag": "p"
+            },
+            {
+                "content": "The Express (online) reports the news that 4 million social housing tenants will get new legal rights later this year, under strict new rules to make homes safer. It lists the extended hazards that landlords will need to repair very quickly if they are dangerous or pose an immediate danger, such as structural problems, electrical faults, fire risks and excess cold and heat.",
+                "tag": "p"
+            },
+            {
+                "content": "ITV News Granada (online) and Birmingham Live similarly explains the new rights for tenants coming on 30 November, reminding the changes are named after two-year-old Awaab Ishak who died after prolonged exposure to damp and mould in Rochdale home in Greater Manchester (in 2020).",
+                "tag": "p"
+            },
+            {
+                "content": "The Independent (p8) runs copy from PA highlighting that excess heat is one of the seven new hazards to be fixed to firm timeframes under Awaab\u2019s law later this year. It explains the government\u2019s guidance will help landlords assess \u2018threats to health arising from excessively high indoor air temperatures\u2019, with examples on what scenarios might need quick fixes.",
+                "tag": "p"
+            },
+            {
+                "content": "There is also positive reporting in Local Government Lawyer, Inside Housing, Housing Digital, Planning, Building and Construction Today and Healthcare Management Magazine.",
+                "tag": "p"
+            },
+            {
+                "content": "All articles quote the Housing Secretary Steve Reed saying:",
+                "tag": "p"
+            },
+            {
+                "content": "Welcoming quotes also feature from the Chief Executive of the Chartered Institute of Housing, Gavin Smart and Chief Executive of the National Housing Federation, Kate Henderson.",
+                "tag": "p"
+            },
+            {
+                "content": "See the full press release here and easy explainer here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/07/14/more-awaabs-law-protections-tenants-health-and-safety-can-never-be-compromised/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "MHCLG's announcement that Awaab\u2019s Law is being extended to seven dangerous hazards later this year has been covered in national, regional and trade press. The Express (online) reports the news that 4 million social housing tenants will get new legal \u2026"
+    },
+    {
+        "title": "Why severe wildfires are becoming more frequent in the UK and how to cope with the health risks\u00a0",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-07-14T14:38:53",
+        "categories": [
+            "Chemical and environmental hazards"
+        ],
+        "content": [
+            {
+                "content": "Wildfires are more common in the UK than many people realise, although most are typically small and last a short time.\u00a0Hot, dry\u00a0weather can\u00a0dry out\u00a0vegetation providing fuel for\u00a0fires\u00a0and increase the\u00a0risk\u00a0of\u00a0wildfires.\u00a0Climate change\u00a0projections suggest we will\u00a0see conditions\u00a0more\u00a0favourable\u00a0for\u00a0larger,\u00a0more\u00a0severe\u00a0wildfires.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In 2025,\u00a0fire and rescue services in England and Wales responded to nearly 1,000 wildfire incidents\u00a0- surpassing the\u00a0previous\u00a0record set in 2022.\u00a0This year, widespread wildfires have led to headlines about a \u2018firewave\u2019.\u00a0With hotter, drier summers becoming more common,\u00a0it\u2019s\u00a0worth knowing what wildfires mean for your health and what you\u00a0and others\u00a0can do to stay safe.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What counts as a wildfire?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "A wildfire is any uncontrolled vegetation fire serious enough to require an\u00a0emergency response. \u00a0Typically,\u00a0they\u00a0include\u00a0fires covering at least a hectare of land\u00a0(approximately the\u00a0size of 2 rugby\u00a0pitches), with flames over 1.5 metres high, or incidents requiring fire crews for\u00a06\u00a0hours or more. Wildfires can burn grassland, moorland, woodland and peat, and they can start and spread remarkably\u00a0quickly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are wildfires really a UK problem?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Increasingly, yes.\u00a0Climate change is making our summers hotter and drier\u00a0-\u00a0ideal conditions for fire.\u00a0When landscapes experience several consecutive days\u00a0of dry weather\u00a0and little or no rain, plants and soils lose moisture faster than they can recover. Vegetation becomes a more available fuel source, making it much easier for fires to spread.\u00a0In\u00a02025, Scotland experienced the UK's first ever 'mega fire', burning over 10,000 hectares in the Highlands.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It takes\u00a0very little\u00a0vegetation (fuel) for a wildfire to\u00a0start\u00a0and\u00a0it is important to follow\u00a0wildfire\u00a0prevention\u00a0advice\u00a0issued by the Fire\u00a0and Rescue\u00a0Service.\u00a0Most wildfires start due to human activities and\u00a0are\u00a0a risk to communities, emergency services\u00a0as well as\u00a0increasing pressure on our\u00a0health service. UKHSA\u2019s\u00a0Health Effects of Climate Change (HECC) Report\u00a0includes a chapter on wildfires\u00a0that provides an overview of\u00a0the health effects of wildfires in the UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why is wildfire smoke harmful?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "All smoke is potentially harmful to your health.\u00a0Wildfire smoke is\u00a0made up of various\u00a0air pollutants\u00a0which\u00a0will depend on what is being burnt\u00a0and the nature of the fire\u00a0but is likely to\u00a0contain\u00a0a complex mixture of fine particles, carbon monoxide, nitrogen\u00a0oxides\u00a0and volatile organic compounds. The fine particles are particularly concerning\u00a0as\u00a0they can penetrate deep into your lungs and even enter your bloodstream\u00a0causing illness.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Smoke inhalation\u00a0can cause irritation to your eyes, nose and throat, coughing, wheezing\u00a0and breathlessness. For people with asthma, heart disease or other respiratory conditions, the effects can be more serious, potentially triggering hospital admissions. Children, older\u00a0adults\u00a0and pregnant women are also at greater risk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What should I do if\u00a0there's\u00a0a wildfire nearby?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "If you\u00a0are\u00a0in an\u00a0area\u00a0affected by a wildfire,\u00a0it is important\u00a0you\u00a0follow\u00a0the advice from the emergency services\u00a0and\u00a0stay\u00a0safe. \u00a0Fire\u00a0can spread\u00a0rapidly and present a\u00a0real threat to life and to\u00a0property.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Residents should avoid areas affected by smoke from\u00a0a\u00a0wildfire. Where\u00a0you have to\u00a0stay in the area\u00a0-\u00a0and there is no\u00a0risk from spreading fire\u00a0-\u00a0the single most effective thing you can do is stay indoors with doors and windows closed.\u00a0This significantly reduces your exposure to smoke, even in older, draughtier homes. Here are the key steps:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Additional actions to consider during hot weather:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you need to drive through a smoky area, keep your\u00a0vehicle\u00a0windows up, close air vents, and switch your air conditioning to recirculate mode. Never leave children or pets in a closed vehicle.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more on our\u00a0blog\u00a0post about\u00a0how to stay well in hot weather.",
+                "tag": "p"
+            },
+            {
+                "content": "When smoke conditions improve,\u00a0you\u00a0may wish to open doors and windows to help cool and ventilate your home. However, conditions can change quickly and smoke may return, so we would\u00a0advise\u00a0you continue to\u00a0monitor\u00a0official advice and only ventilate properties when it is safe to do so.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What if I\u00a0experience any health\u00a0problems?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Wildfire smoke can\u00a0irritate air passages,\u00a0skin\u00a0and eyes, resulting in coughing and wheezing,\u00a0breathlessness\u00a0and chest pain.\u00a0\u00a0It\u00a0can also worsen pre-existing lung and heart\u00a0conditions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For\u00a0most\u00a0people\u00a0any\u00a0symptoms will be\u00a0temporary\u00a0and will quickly\u00a0disappear once\u00a0you\u00a0are\u00a0away from the smoke.\u00a0However, if\u00a0symptoms persist\u00a0or get worse,\u00a0you\u00a0should\u00a0seek\u00a0health\u00a0advice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What if I have a condition like asthma?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "If you have an\u00a0asthma action plan\u00a0or other agreed\u00a0health\u00a0management plan, follow it and make\u00a0sure you\u00a0have access to\u00a0any\u00a0prescribed\u00a0inhalers or medication. If you\u00a0don't\u00a0have one,\u00a0it's\u00a0worth speaking to your GP or nurse about putting one in place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Should I wear a face mask?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Face masks such as surgical masks are not usually recommended as they do not\u00a0necessarily\u00a0protect against all the\u00a0pollutants\u00a0that may be present in the smoke.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Are there any risks involved in\u00a0cleaning up after a wildfire?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Short-term contact with ash and soot is unlikely to pose a significant health risk, but\u00a0it's\u00a0sensible to take care. Ash can irritate your airways, so avoid sweeping it into the air unnecessarily. It can be safely washed off cars and outdoor furniture with\u00a0water.\u00a0In the event of\u00a0a hosepipe ban,\u00a0buckets or\u00a0watering\u00a0cans can be used.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where can I find reliable information during a wildfire event?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Keep an eye on\u00a0advice and\u00a0guidance\u00a0from the\u00a0emergency\u00a0services, from UKHSA\u00a0and\u00a0your local authority.\u00a0Local\u00a0news\u00a0is often the quickest source of specific, location-based advice during an incident.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Can I do anything to help prevent wildfires?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Most UK wildfires are started by human actions\u00a0whether deliberate or accidental.\u00a0Fires\u00a0started by\u00a0cigarettes, litter,\u00a0barbecues,\u00a0campfires\u00a0and fireworks in very dry areas are entirely preventable.\u00a0Everyone can play\u00a0a\u00a0part in reducing\u00a0wildfires. \u00a0Please\u00a0act responsibly,\u00a0don\u2019t\u00a0light fires\u00a0in the countryside\u00a0or\u00a0open spaces, only use\u00a0barbeques\u00a0where permitted\u00a0and dispose\u00a0of\u00a0cigarettes and\u00a0litter\u00a0safely.\u00a0More\u00a0information on being prepared for\u00a0wildfires\u00a0can\u00a0be found\u00a0on the UK government's Prepare website.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more information on protecting your health during adverse weather, visit UKHSA's\u00a0Adverse Weather and Health Plan resources\u00a0on GOV.UK.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/07/14/why-severe-wildfires-are-becoming-more-frequent-in-the-uk-and-how-to-cope-with-the-health-risks/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Wildfires\u00a0are\u00a0actually\u00a0common\u00a0in\u00a0the\u00a0UK, although\u00a0most\u00a0are\u00a0typically small and\u00a0of short duration.\u00a0Hot, dry\u00a0weather can\u00a0dry out\u00a0vegetation providing fuel for\u00a0fires\u00a0and increase the\u00a0risk\u00a0of\u00a0wildfires.\u00a0Climate change\u00a0projections suggest we will\u00a0see conditions\u00a0more\u00a0favourable\u00a0for\u00a0larger,\u00a0more\u00a0severe\u00a0wildfires.\u00a0\u00a0"
+    },
+    {
+        "title": "GAD's workforce projection tool - helping turn workforce data into decisions",
+        "authors": [
+            "Jo Howlett - GAD Head of Workforce Strategy"
+        ],
+        "posted_on": "2026-07-14T13:00:51",
+        "categories": [
+            "Actuary",
+            "Analysis",
+            "Modelling",
+            "Workforce strategy"
+        ],
+        "content": [
+            {
+                "content": "Workforce planners and people analysts at smaller government bodies may know the feeling \u2026 A senior colleague asks an urgent question: what will the organisation\u2019s headcount look like in 3 years\u2019 time? How can we manage headcount restrictions? What\u2019s the impact of spending more in team X? You have a spreadsheet, some assumptions, an understanding of the importance of the answer, but no quick, or robust, way to get there.",
+                "tag": "p"
+            },
+            {
+                "content": "The consequences of getting things wrong are real: A spending review submission based on unreliable headcount assumptions; a restructure that looks sensible on paper but leaves critical skills gaps a year or two later; an independent review that recommends the workforce plan has more analytical evidence. These are the kind of challenges that lead organisations to seek support from GAD.",
+                "tag": "p"
+            },
+            {
+                "content": "We have been helping small government organisations tackle these questions with a workforce projection tool, developed to visualise the future shape of their workforce.",
+                "tag": "p"
+            },
+            {
+                "content": "Bridging the gap",
+                "tag": "h2"
+            },
+            {
+                "content": "GAD recently worked with a government body that wanted better analytical foundations for its internal workforce planning. They had data and they had strategic questions, but no structured way to bridge these to develop a coherent forward view. ",
+                "tag": "p"
+            },
+            {
+                "content": "Working with their workforce planning team, we developed an Excel-based model that provides the analytical grounding they were missing. ",
+                "tag": "p"
+            },
+            {
+                "content": "The model is now being used in steering meetings with senior leadership to understand impact of current and future workforce decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "How the tool works",
+                "tag": "h2"
+            },
+            {
+                "content": "The model takes an organisation's current workforce data and projects it forward by applying rates of staff movement, such as, for example, attrition, hiring, and internal transfers between teams. This produces a baseline supply projection.",
+                "tag": "p"
+            },
+            {
+                "content": "That supply baseline is then set alongside a demand projection, giving an affordability-based view of the number of roles the organisation is targeting.",
+                "tag": "p"
+            },
+            {
+                "content": "The difference between the two is the gap projection, identification of where resource pressures are likely to emerge, and equally importantly, when.The main dashboard brings these elements together illustrating answers to the questions that matter most to senior leaders and planners:",
+                "tag": "p"
+            },
+            {
+                "content": "Users can also build bespoke scenarios, modelling the workforce impact of strategic decisions such as a restructuring, a recruitment drive, or a change in attrition rates in a particular team.",
+                "tag": "p"
+            },
+            {
+                "content": "Confidence in professional standards",
+                "tag": "h2"
+            },
+            {
+                "content": "All organisations face scrutiny of their workforce planning, whether from senior leadership, or auditors. This means that the model\u2019s foundations matter as much as its outputs. ",
+                "tag": "p"
+            },
+            {
+                "content": "GAD have developed the model in line with the government's Aqua Book guidance for analytical models and the actuarial profession\u2019s standards. Its outputs directly address 3 of the NAO's workforce planning audit criteria: future demand, future supply, and gap analysis. The model\u2019s robust structure, in-built checking, and clear documentation and governance mean that when a senior leader or auditor asks how a number was arrived at there is a clear, explainable answer.",
+                "tag": "p"
+            },
+            {
+                "content": "Input data requirements",
+                "tag": "h2"
+            },
+            {
+                "content": "Organisations using the tool will need details of employees (in an Excel / CSV format) containing information on grade, location, team, or other relevant sub-group level information . The tool uses average salary levels rather than individual salary data, which simplifies data handling and reduces information governance requirements. ",
+                "tag": "p"
+            },
+            {
+                "content": "Other key inputs are informed assumptions: expected rates of attrition and hiring, typical rates of internal movements and salary budget information for the demand projection. ",
+                "tag": "p"
+            },
+            {
+                "content": "The combination of good data and considered assumptions is where real value is revealed. The tool provides the structure; the insight comes from the conversations the analysis enables.",
+                "tag": "p"
+            },
+            {
+                "content": "Who is this for?",
+                "tag": "h2"
+            },
+            {
+                "content": "The tool is most naturally suited to small and medium-sized public sector bodies planning across a number of sub-groups, e.g. different teams, grades or locations, and a planning horizon of 2 to 5 years. ",
+                "tag": "p"
+            },
+            {
+                "content": "We would be very happy to have a conversation with you if your organisation is grappling with any of the following:",
+                "tag": "p"
+            },
+            {
+                "content": "Get in touch",
+                "tag": "h2"
+            },
+            {
+                "content": "If you'd like to find out more or arrange a conversation, please get in touch:Jo Howlett \u2013 joanna.howlett@gad.gov.uk Aaron Stewart \u2013 aaron.stewart@gad.gov.uk ",
+                "tag": "p"
+            },
+            {
+                "content": "Disclaimer",
+                "tag": "h3"
+            },
+            {
+                "content": "The views expressed are the author\u2019s own and the opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page. ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://actuaries.blog.gov.uk/2026/07/14/gads-workforce-projection-tool-helping-turn-workforce-date-into-decisions/",
+        "blog": "Actuaries in government",
+        "blog_link": "https://actuaries.blog.gov.uk",
+        "description": "GAD's workforce projection tool turns HR data into a clear, auditable projections, helping public sector organisations identify key skill gaps, model scenarios, and giving senior leaders confidence to answer workforce questions and support business planning."
+    },
+    {
+        "title": "Biodiversity\u00a0Net Gain: Amendments and transitional arrangements published",
+        "authors": [
+            "Environment blog team"
+        ],
+        "posted_on": "2026-07-14T09:31:38",
+        "categories": [
+            "Biodiversity net gain",
+            "Land use"
+        ],
+        "content": [
+            {
+                "content": "We are pleased to announce that yesterday we published and laid before parliament regulations which set in motion changes to Biodiversity Net Gain (BNG) for projects requiring planning permission under the Town and Country Planning Act.",
+                "tag": "p"
+            },
+            {
+                "content": "These are the first batch of changes resulting from our\u00a0BNG consultation\u00a0last year, which\u00a0we announced\u00a0in our government response published in April\u00a02026, and covered in our\u00a0recent BNG blog post.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We can now confirm that the following changes will come into effect on Thursday 6 August 2026:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The regulations are accompanied by an\u00a0Explanatory Memorandum\u00a0(which explains the purpose and effect of the regulations). We have also updated\u00a0guidance pages\u00a0to reflect the changes. And we have published an impact assessment, which provides a detailed, evidence-based assessment of the proposed exemption of small development sites from the mandatory BNG requirement.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0Government considers that these changes will help to reduce the burdens on the smallest developers and local authorities. This will\u00a0benefit\u00a0the whole BNG system by focusing resources on larger development, which has the greatest impact, and therefore the potential to deliver the greatest benefits to nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is important to note that though we are reducing the BNG burden for the smallest developments, we would still expect these developments to look to incorporate nature friendly features. ",
+                "tag": "p"
+            },
+            {
+                "content": "And following these changes, developments exempt from mandatory BNG will still be subject to existing environmental protections and policies. Planning decisions should still apply the mitigation hierarchy and refuse permission where significant harm to biodiversity cannot be avoided, adequately mitigated or, as a last resort, compensated.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Transitional arrangements\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The regulations\u00a0and\u00a0accompanying\u00a0material\u00a0clarify\u00a0when the new exemptions and changes to the biodiversity gain hierarchy apply, including for variations to planning permissions. Broadly, the changes only apply to new applications for planning permission made from 6 August.\u00a0To note,\u00a0planning permissions and applications for permission already\u00a0submitted\u00a0will continue to be subject to existing BNG legislation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The government will shortly update planning practice guidance to provide further information to support implementation of these changes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What next?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once these changes have come into effect on 6 August, we will continue to work to bring forward the rest of the changes for BNG which we announced in our government response published in April.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This will include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Brownfield consultation\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0consultation on a potential\u00a0additional\u00a0targeted exemption for certain residential brownfield development closed on 10 June 2026.\u00a0We thank all those who have responded.",
+                "tag": "p"
+            },
+            {
+                "content": "All responses and evidence submissions are being\u00a0analysed\u00a0and the Government will respond to the consultation\u00a0in due course.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/07/14/biodiversity-net-gain-amendments-and-transitional-arrangements-published/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "We are pleased to announce that yesterday we published and laid before parliament regulations which set in motion changes to Biodiversity Net Gain (BNG) for projects requiring planning permission under the Town and Country Planning Act. Read this post to find out more."
+    },
+    {
+        "title": "Sherwood Forest\u2019s Major Oak: An ending and a beginning",
+        "authors": [
+            "Karyn Haw"
+        ],
+        "posted_on": "2026-07-14T08:00:26",
+        "categories": [
+            "Connecting People with Nature",
+            "Landscapes",
+            "Natural England",
+            "Nature",
+            "Woodland"
+        ],
+        "content": [
+            {
+                "content": "Karyn Haw, Senior Officer - Nature Recovery Network, East Midlands Area Team",
+                "tag": "p"
+            },
+            {
+                "content": "Karyn Haw, Senior Officer in Natural England's East Midlands Area Team, reflects on the recent news that Sherwood Forest's iconic Major Oak has died. Drawing on a career spent working in the forest, she explores what made this ancient tree so remarkable and the pressures that led to its decline. But this is not simply a story of loss, Karyn also looks ahead to the vital role the Major Oak will continue to play as a rare and irreplaceable habitat, and a lasting symbol of our relationship with the natural world.",
+                "tag": "p"
+            },
+            {
+                "content": "Last week, I found myself unexpectedly emotional at my desk as news emerged from the Royal Society for the Protection of Birds (RSPB) that the Major Oak has now died. Having spent my entire career working in Sherwood Forest, my connection to its ancient trees is both professional and deeply personal.",
+                "tag": "p"
+            },
+            {
+                "content": "These trees are of immense ecological value, but what has always struck me most is the sense of continuity they embody. Ancient oaks like the Major Oak have stood for centuries, quietly witnessing the evolution of the landscape and our relationship with it. They remind us of both the brevity of human timescales and the responsibility we share as temporary custodians of these remarkable ecosystems.",
+                "tag": "p"
+            },
+            {
+                "content": "The Major Oak, in particular, holds exceptional significance. Estimated to be over 1,000 years old, it stands at the centre of what was once a royal hunting forest, frequented by English monarchs across the centuries. It is part of the Birklands and Bilhaugh Site of Special Scientific Interest (SSSI) and a Special Area of Conservation (SAC), reflecting its importance at both national and European levels. Ecologically, it has supported an extraordinary diversity of species. Culturally, it has provided a powerful and enduring link between people and nature.",
+                "tag": "p"
+            },
+            {
+                "content": "However, the same qualities that made the Major Oak so iconic also contributed to its decline. Its popularity, particularly from the Victorian era onwards, brought increasing visitor pressure. Early access by horse-drawn carriages, followed by motor vehicles and sustained footfall over decades, led to significant soil compaction around its root system. This reduced the availability of water and nutrients essential for its health. More recently, the effects of climate change have exacerbated this stress. Prolonged periods of heat and reduced rain at critical times have been particularly damaging within the naturally free-draining sandy soils of Sherwood.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the years, Natural England has worked closely with Nottinghamshire County Council and more recently the RSPB to better understand and support the tree's condition. Scientific monitoring and interventions included root radar mapping, soil microfauna analysis, foliar sampling to understand nutrient uptake, and detailed soil and vegetation surveys. Management actions also included the removal of mulch and competing vegetation. These efforts have significantly advanced our understanding of the tree's physiology and the pressures it faced.",
+                "tag": "p"
+            },
+            {
+                "content": "I have been fortunate to experience the Major Oak in many contexts: carrying out bat surveys at dusk as a volunteer, guiding site visits, sharing its story with colleagues and bringing my own family to stand beneath its vast canopy. These moments have reinforced not just its ecological importance, but its unique ability to inspire and connect people.",
+                "tag": "p"
+            },
+            {
+                "content": "While this marks a sad moment, it is also an important reminder of ecological resilience and continuity. The death of the Major Oak does not mark the end of its contribution to the forest. On the contrary, it enters a new and equally significant phase. As the central trunk decays, it will create vital habitat for a range of specialised and rare species, including nationally scarce and near-threatened invertebrates such as darkling beetles and flies. Its hollowing structure will continue to provide roosting opportunities for bats, including brown long-eared bats. The processes of decay, fungal colonisation and habitat formation within the tree are integral to the biodiversity value of ancient woodland systems.",
+                "tag": "p"
+            },
+            {
+                "content": "In this way, the Major Oak continues to give life. Its later stages support species that have declined across the wider countryside, making it as ecologically important in death as it was in life. Its story is not ending. It is evolving. The way people connect with the Major Oak may change, but its ability to inspire, educate and provide a focal point for shared memories will endure. For generations to come, it will provide a home to some of our most threatened species and remain a powerful symbol of Sherwood Forest's natural heritage and the enduring relationship between people and place.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/07/14/sherwood-forests-major-oak-an-ending-and-a-beginning/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "Karyn Haw, Senior Officer - Nature Recovery Network, East Midlands Area Team Karyn Haw, Senior Officer in Natural England's East Midlands Area Team, reflects on the recent news that Sherwood Forest's iconic Major Oak has died. Drawing on a career \u2026"
+    },
+    {
+        "title": "Building a more resilient UK: our investment in climate adaptation",
+        "authors": [
+            "Lee Davies"
+        ],
+        "posted_on": "2026-07-13T17:16:43",
+        "categories": [
+            "Climate change",
+            "Nature",
+            "Water",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "When we talk about climate change, the conversation often focuses on reducing emissions and reaching net zero. That work\u00a0remains\u00a0essential. But there is another side of the story that deserves just as much attention: adapting to the climate change we are already experiencing and will continue to feel for decades to come, regardless of our efforts on net zero.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across the UK, we are already seeing its impacts through hotter summers, more intense rainfall, flooding, drought, pressure on water resources, and disruption to services and infrastructure. As we continue to reduce emissions and accelerate towards net zero, we must also adapt to the impacts of a changing climate that are already locked in.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s\u00a0why today,\u00a0as part of the Climate and Nature moment, we've announced that the Government is investing up to \u00a330 million to strengthen the evidence base needed for climate adaptation across the UK.\u00a0In this post, I\u2019ll\u00a0delve into why this is needed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Setting ambition\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To deliver the transformative action across the whole of society and the economy that we know is needed, we need to set a clear goal for the UK\u2019s resilience to climate change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With that in mind, the Government has committed to setting stronger measurable adaptation\u00a0objectives\u00a0through the\u00a0Fourth National Adaptation Programme (NAP4), due in 2028.\u00a0This\u00a0will set\u00a0out\u00a0the actions government and its partners will take to improve\u00a0the UK\u2019s\u00a0resilience to climate change\u00a0out to 2033.\u00a0To inform these\u00a0objectives, we are planning\u00a0on the basis of a minimum of 2\u00b0C of warming by 2050 across the whole of government, ensuring we are aligned on the kinds of impacts we expect to see across all sectors. These\u00a0objectives\u00a0will be achieved by setting clear delivery plans across government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Achieving that ambition will depend on collaboration across government, businesses and industry, civil society, academia, infrastructure\u00a0operators\u00a0and local communities. But it will also depend on having the right evidence available to support decision-making.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Investing in the evidence we need\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Investing in adaptation evidence is an investment in resilience. It helps us move from recognising climate risks to taking informed action. It ensures that decisions made today are backed by the best available knowledge.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we continue to face a changing climate, evidence will remain one of our most valuable tools.\u00a0Not\u00a0only for understanding what lies ahead, but for helping us build a safer, more resilient future for people,\u00a0nature\u00a0and the economy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To help address these challenges, the Government is investing up to \u00a330 million to strengthen the evidence base needed for climate adaptation across the UK. This includes \u00a313 million for the Met Office to develop the next generation of UK climate information,\u00a0projections\u00a0and tools, alongside \u00a317 million for a What Works Centre for Climate Adaptation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Met Office investment will support more advanced climate information and projections, helping decision-makers better understand future climate impacts. Meanwhile, the What Works Centre will focus on the practical side of adaptation, building evidence on which interventions work, for whom, and under what circumstances.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Underlining\u00a0this commitment\u00a0to improving\u00a0the basis\u00a0for adaptation action, following the publication of the\u00a0Climate Adaptation Research and Innovation Framework (CARIF)\u00a0in April 2025, the Government Office for Science has published a\u00a0Research and Innovation\u00a0inventory\u00a0to spotlight the Government's investment in climate adaptation. Bringing together programmes funded across the current Spending Review period, it provides a comprehensive picture of the research, innovation and evidence helping the UK prepare for the impacts of a changing climate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is\u00a0all\u00a0about giving organisations the confidence to make informed decisions. Whether it is designing flood-resilient communities, protecting water supplies, helping businesses manage heat risks or ensuring critical infrastructure can withstand future weather extremes, stronger evidence leads to better outcomes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead to a more resilient future\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Adaptation is often described as preparing for the future. It is about responding to the changes we are already seeing while making smart decisions for the decades ahead.",
+                "tag": "p"
+            },
+            {
+                "content": "Investing in better climate evidence is therefore an investment in resilience, helping government, businesses and communities make informed choices, target resources effectively and build a country that is ready for the challenges of a changing climate.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today\u2019s announcement is clear;\u00a0we are supporting the move from understanding climate risks to enabling action.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/07/13/building-a-more-resilient-uk-our-investment-in-climate-adaptation/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "Across the UK, we are already seeing its impacts through hotter summers, more intense rainfall, flooding, drought, pressure on water resources, and disruption to services and infrastructure. That\u2019s\u00a0why today,\u00a0as part of the Climate and Nature moment, we've announced that the Government is investing up to \u00a330 million to strengthen the evidence base needed for climate \u2026"
+    },
+    {
         "title": "\ud83c\udfe0 Safer social homes with stronger Awaab\u2019s Law protections \u2013 explainer",
         "authors": [
             "mhclgpress"
