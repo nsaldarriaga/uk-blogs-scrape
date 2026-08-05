@@ -1,5 +1,450 @@
 [
     {
+        "title": "How we used AI to help government manage its email backlog",
+        "authors": [
+            "Faye Greasley"
+        ],
+        "posted_on": "2026-08-05T16:26:19",
+        "categories": [
+            "Generative AI",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Imagine inheriting a filing cabinet. Not a neat, organised one, but a vast, overflowing one that has been added to for fifteen years by dozens of different people, never sorted, never labelled, and now legally yours to manage. You need to know what's in it, what to keep, what to delete and what might be sensitive. And there are thousands more like it across the building. That is not far from the reality facing Knowledge and Information Management (KIM) professionals working with government email today. The problem hiding in plain sight Email is everywhere in government, and it has been accumulating for decades. Unlike documents stored in formal systems, email tends to pile up quietly. It\u2019s a mixture of business decisions, administrative threads, sensitive exchanges and personal messages, all sitting together with no obvious way to tell them apart. At some point, someone must go through it. That someone is usually a KIM specialist, and the process is painstaking. Mailbox by mailbox, email by email, they work through content that can run into the hundreds of thousands of items. They need to make judgements about what is worth keeping for the long term and what meets legal and compliance requirements. They also assess what might be sensitive enough to need careful handling, including decisions about whether it can be shared or released at all. It is skilled, important work and at the scale government operates, doing it manually simply is not sustainable. This is the problem Project Kestrel was built to explore. Led by the AI Data Readiness Incubator team within Government Digital Service and developed in close collaboration with the Government KIM team, Phase 1 set out to test whether modern data science techniques could offer a better way. Not to replace human judgement, but to support it, making the work faster, more consistent and easier to explain. The data problem behind the data problem Here is where it gets interesting. Before the team could even begin testing new approaches to email management, they ran into a challenge that will feel familiar to anyone working on data innovation in government: you cannot safely experiment with the data you need. Real government emails contain personal information, sensitive material and content that is legally protected. Using them to develop and test new tools, however well-intentioned, creates real risks. So, the team made a deliberate choice, rather than finding ways to work around that constraint, they would solve it directly. The result is Tiger Heron, a synthetic email generator. Using large language models, Tiger Heron produces realistic-looking emails that closely resemble the kind of content government teams encounter in practice, without containing any real or sensitive information. Teams can build with it, test with it, break things with it and start again, all without ever touching a real inbox. This might sound like a workaround, but it is something more significant than that. Access to a safe, realistic data set is one of the most common blockers to data innovation in the public sector. Tiger Heron may offer a practical model for getting past it and one that could apply well beyond email. Bringing order to the chaos With a safe data set in place, the team were able to build and test Cuckoo, the capability at the heart of Project Kestrel. Where Tiger Heron solves the data problem, Cuckoo takes on the scale problem. Within a controlled test environment, Cuckoo uses machine learning to read through large volumes of emails and group them into meaningful clusters based on their content. Instead of opening every message individually, a KIM professional can see their data organised into coherent groupings - similar topics, similar threads, similar types of content - presented through an interactive visual interface. That shift, from an undifferentiated pile to a structured view, changes what is possible. Reviewers can direct their attention where it matters most, spot patterns they might otherwise miss and make decisions that are easier to document and defend. Together, Tiger Heron and Cuckoo form an end-to-end prototype, generate realistic test data, then analyse it in a way that supports faster, more transparent decision-making. What careful experimentation looks like Phase 1 was never going to produce a finished product, and it was not designed to. Alongside the two tools, the team carried out user research with KIM professionals, gathered ethics input to ensure responsible practices were built in from the start, engaged stakeholders across government and developed best-practice materials to support what comes next. Human oversight has been central throughout; the goal is always to keep people in control of the decisions that matter. That is what responsible AI adoption actually looks like in practice, not bold claims about transformation, but careful groundwork, honest about what is working and what still needs testing. Project Kestrel is an early example of that kind of experimentation. The filing cabinet is still full. But there is now a better sense of how to approach it. ",
+                "tag": "p"
+            },
+            {
+                "content": "If you have a government use case where synthetic data could help you work around the challenges of personal data, get in touch with the AI and Data Readiness team on dataAIReadiness_incubator@dsit.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dataingovernment.blog.gov.uk/2026/08/05/how-we-used-ai-to-help-government-manage-its-email-backlog/",
+        "blog": "Data in government",
+        "blog_link": "https://dataingovernment.blog.gov.uk",
+        "description": "Government email has been piling up for decades and sorting through it manually is no longer sustainable. Project Kestrel explores how AI and synthetic data could transform the way Knowledge and Information Management professionals work. Find out what responsible AI adoption looks like in practice."
+    },
+    {
+        "title": "Minister for Social Care writes to Councils to accelerate Motor Neurone Disease (MND) Care Access\u00a0",
+        "authors": [
+            "Iain MacBeath, Adult Social Care Delivery Senior Advisor, the Department of Health and Social Care"
+        ],
+        "posted_on": "2026-08-05T14:38:17",
+        "categories": [
+            "Guest author",
+            "Guidance",
+            "Social care reform"
+        ],
+        "content": [
+            {
+                "content": "Following Baroness Casey\u2019s recommendation in her Nuffield Trust speech\u00a0in March this year, the Minister for Social Care has written to local authorities to encourage the fast-tracking of access to care for people with motor neurone disease\u00a0(MND), ahead of wider reform.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Key extracts from the letter\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\"As you will know, Baroness Casey is chairing an independent commission into adult social care, reporting into the Prime Minister. Baroness Casey made\u00a0a number of\u00a0immediate recommendations in March this year, including a recommendation to\u00a0fast track\u00a0access to care and support for people with\u00a0Motor\u00a0Neurone\u00a0Disease.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Minister\u00a0set out the immediate\u00a0initial\u00a0steps we are inviting local authorities to take to streamline and accelerate access to care and support for people with Motor\u00a0Neurone\u00a0Disease\u00a0within existing frameworks, ahead of fuller collaborative reform.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Motor\u00a0Neurone Disease\u00a0is a severe,\u00a0progressive\u00a0and terminal condition that requires rapid, responsive care as needs quickly evolve. As part of her review, Baroness Casey heard directly from people with personal experience of\u00a0Motor\u00a0Neurone Disease\u00a0about delays in accessing the right care and support, and the profound impact this can have on individuals and their families, including avoidable crises, hospital admissions, and a loss of independence and dignity\u2026\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0\u2026\u00a0It is essential that services respond with pace,\u00a0coordination\u00a0and foresight to keep up with escalating and complex needs. The Department of Health and Social Care is already taking forward Baroness Casey\u2019s recommendation at pace, working in partnership with the\u00a0Motor\u00a0Neurone Disease\u00a0Association, as well as extensively across local government representatives, the NHS, wider sector partners, and drawing on the experiences of people with\u00a0Motor\u00a0Neurone Disease, to develop ways of driving both immediate improvements and more substantial reform.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the meantime, there is immediate scope for many areas to better meet the needs of people with\u00a0Motor\u00a0Neurone Disease\u00a0within existing frameworks and partnerships, including through prioritising\u00a0timely,\u00a0straightforward assessment processes and delivering coordinated, responsive care and support\u2026\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you are not already doing so, I strongly encourage you to:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u2026\u00a0Finally, while\u00a0the\u00a0letter focuses on\u00a0Motor\u00a0Neurone Disease\u00a0as one of the most acute and time critical conditions, I would encourage you to consider how these approaches might also apply to people with similarly rapidly progressing needs.\"\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Image source: Designed by Magnific Magnific (formerly Freepik) | The AI Creative Platform",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcare.blog.gov.uk/2026/08/05/minister-for-social-care-writes-to-councils-to-accelerate-motor-neurone-disease-mnd-care-access/",
+        "blog": "Social care",
+        "blog_link": "https://socialcare.blog.gov.uk",
+        "description": "Following Baroness Casey\u2019s recommendation in her Nuffield Trust speech\u00a0in March this year, the Minister for Social Care has written to local authorities to encourage the fast-tracking of access to care for people with motor neurone disease\u00a0(MND), ahead of wider reform.\u00a0\u00a0"
+    },
+    {
+        "title": "Water and Wellbeing: The People And Nature Blue Spaces Report",
+        "authors": [
+            "Fr\u00e4nze Kibowski"
+        ],
+        "posted_on": "2026-08-05T12:09:48",
+        "categories": [
+            "Coast and access",
+            "Connecting People with Nature",
+            "Countryside Code",
+            "Marine environment",
+            "Mental health and wellbeing",
+            "Natural England",
+            "Nature",
+            "Parks, trails and nature reserves",
+            "Science and evidence",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Fr\u00e4nze Kibowski, Senior Specialist - Social Sciences",
+                "tag": "p"
+            },
+            {
+                "content": "This blog explains the results of the recent People and Nature Blue Spaces Report, discussing how we interact with places like beaches, rivers and lakes, while looking at how the findings will influence Natural England's work.",
+                "tag": "p"
+            },
+            {
+                "content": "When was the last time you spent time outside near the sea, or a river?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Spending time in \u2018blue spaces\u2019 - places where water is a key part of the environment, such as rivers, lakes, canals, beaches and the coast \u2013 can have positive effects on our mental and physical wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0new\u00a0report\u00a0from Natural England and\u00a0NatCen\u00a0explores how people use these spaces, what they value about them and what can make it easier for more people to visit.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Blue spaces are important to many people\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "The research found that\u00a0almost half of adults in England (47%) visited a blue space in\u00a0the\u00a0previous\u00a0month, highlighting the\u00a0important role\u00a0these places play in people\u2019s lives and their\u00a0connection with nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participants\u00a0consistently described\u00a0blue spaces\u00a0as\u00a0calming and restorative. Many\u00a0described visiting rivers,\u00a0lakes\u00a0and the coast when they wanted time to relax, reflect or cope with stress.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Blue spaces support a wide range of activities and experiences, from everyday walks and\u00a0\u00a0exercise to socialising with family and friends, sightseeing,\u00a0wildlife\u00a0watching\u00a0and connecting to nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Making blue spaces accessible for everyone\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "While\u00a0many people enjoy\u00a0blue spaces,\u00a0the research found that opportunities to visit are not experienced equally across the population.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At Natural England, our ambition is for access to nature to be a normal part of everyday life for everyone. This research helps us better understand the barriers some people face in visiting blue spaces and identifies opportunities to make these valuable natural environments more accessible, welcoming and inclusive.",
+                "tag": "p"
+            },
+            {
+                "content": "A range of factors can influence how often people visit, including access to transport (in particular a car), proximity to blue spaces, health considerations and wider socio-economic circumstances. Because many blue spaces are destinations people travel to rather than places encountered during everyday routines, transport and accessibility can play an even more important role than with green spaces.",
+                "tag": "p"
+            },
+            {
+                "content": "Quality matters",
+                "tag": "h4"
+            },
+            {
+                "content": "The\u00a0condition\u00a0of blue spaces\u00a0was another important theme throughout the research.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Litter, pollution, poor maintenance and concerns about water quality can discourage people from spending time there. Safety was also important, particularly in winter when reduced daylight can make some places feel less accessible.",
+                "tag": "p"
+            },
+            {
+                "content": "People said they would be more likely to use blue spaces if they were clean, well maintained, easy to access and felt safe throughout the year.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting greater engagement\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "The findings\u00a0from\u00a0the\u00a0country-wide\u00a0\u00a0Adults\u2019 People and Nature\u00a0Survey\u00a0and more in-depth focus groups both\u00a0show\u00a0that blue spaces have\u00a0an important role\u00a0to play alongside green spaces. By improving access and quality, more people can experience the health,\u00a0wellbeing\u00a0and nature benefits that these environments\u00a0provide.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This report highlights several ways to help more people\u00a0benefit\u00a0from blue spaces. These include improving accessibility and transport links, investing in maintenance and environmental quality, and addressing barriers faced by groups who currently visit less\u00a0often.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This summer, Natural England will be sharing affordable ideas and inspiration to help people access and enjoy local green and blue spaces. Whether it\u2019s exploring a stretch of the King Charles III England Coast Path, taking a walk along a local river, so spending time beside a canal or lake, there are plenty of opportunities to enjoy the benefits of blue spaces.",
+                "tag": "p"
+            },
+            {
+                "content": "Wherever you choose to visit, please help protect these special places by following the\u00a0Countryside Code\u00a0and, if\u00a0you're\u00a0heading out on the water or to the coast, the\u00a0Paddlers' Code\u00a0and\u00a0Marine and Coastal Wildlife Code, helping us all to\u00a0Respect, Protect and Enjoy\u00a0our blue spaces.",
+                "tag": "p"
+            },
+            {
+                "content": "The full report and a summary report can be found\u00a0here.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/08/05/water-and-wellbeing-the-people-and-nature-blue-spaces-report/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Fr\u00e4nze Kibowski, Senior Specialist - Social Sciences This blog explains the results of the recent People and Nature Blue Spaces Report, discussing how we interact with places like beaches, rivers and lakes, while looking at how the findings will \u2026"
+    },
+    {
+        "title": "SFI26: an\u00a0update",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-08-05T10:26:52",
+        "categories": [
+            "Sustainable Farming Incentive"
+        ],
+        "content": [
+            {
+                "content": "It's\u00a0encouraging to see so many farmers engaging with\u00a0the\u00a0Sustainable Farming Incentive\u00a02026\u00a0(SFI26)\u00a0since Window 1 opened in June.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Window 1 was designed to give smaller farms and those not already receiving\u00a0ELM\u00a0revenue funding an early opportunity to access the scheme. ",
+                "tag": "p"
+            },
+            {
+                "content": "It formed part of our plans to make funding simpler,\u00a0fairer\u00a0and more accessible to a wider range of farm businesses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Uptake of SFI26 agreements\u00a0in Window 1\u00a0so far\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Rural Payments Agency (RPA)\u00a0began making SFI26\u00a0agreement\u00a0offers to Window 1 applicants\u00a0in July.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re pleased that, of the\u00a01,188\u00a0agreements offered\u00a0to farmers\u00a0so far, 922\u00a0were accepted by 31 July. This\u00a0meant\u00a0they were able to start on 1 August.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To date, around\u00a0two-thirds\u00a0of farmers have accepted their agreement offer within 2 days.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0RPA\u00a0continues\u00a0to make agreement offers. We\u00a0encourage farmers to accept their offers as quickly as possible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sites of Special Scientific Interest (SSSIs)\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "If\u00a0you\u2019ve\u00a0applied for SFI26 on SSSI land,\u00a0it\u2019s\u00a0important\u00a0that\u00a0you\u00a0submit the required SSSI notice to get consent from Natural England\u00a0as soon as possible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The RPA cannot offer\u00a0you\u00a0an SFI26 agreement until\u00a0you\u2019ve\u00a0done this.\u00a0Read section 10.1 \u2018SSSI consent\u2019 in the SFI26 scheme rules and guidance to find out how to do this.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Budget allocation and the closure of Window 1\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The available budget for Window 1 is \u00a360 million.\u00a0We\u2019ve\u00a0published budget updates on the blog,\u00a0based on SFI26 applications received so far.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We said that Window 1 was expected to remain open for around 2\u00a0months, unless\u00a0all\u00a0the\u00a0available funding\u00a0for this window\u00a0was\u00a0allocated\u00a0sooner. ",
+                "tag": "p"
+            },
+            {
+                "content": "This means Window 1 will close no later than 11:59pm on 28 August 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Eligible farmers\u00a0for Window 1\u00a0who do not apply during\u00a0this window\u00a0can\u00a0apply\u00a0in\u00a0Window 2\u00a0instead.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applying in\u00a0Window 2\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Window 2 will open in September 2026\u00a0for all farmers and land managers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll\u00a0confirm the\u00a0date we expect to open applications\u00a0once Window 1 has closed.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The available budget for\u00a0Window\u00a02\u00a0will be \u00a3180 million.\u00a0Any funding not\u00a0allocated\u00a0through Window 1 will be added to the budget for Window 2.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Starting an application for\u00a0Window 2 early\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Farmers whose ELM revenue agreements were due to expire would normally have to wait until those agreements ended before being able to apply for a new agreement.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we confirmed in\u00a0our blog post on 30 June, we will introduce a new feature in the SFI26 application service for farmers with eligible ELM revenue agreements that expire by the end of February 2027\u00a0to start an application early.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This means they can begin an SFI26 application and apply for land that is currently in their ELM revenue agreement before that agreement ends.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This will take effect when Window 2 opens.\u00a0We will test and refine the new feature in the application service with a small number of farmers and land managers before\u00a0it is available to everyone.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We've\u00a0published\u00a0additional\u00a0information in the SFI26 scheme rules and guidance on GOV.UK explaining\u00a0how this will work.\u00a0Read\u00a0section 3.8 \u2018If your ELM revenue agreement is ending soon (Window 2 only)\u2019.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Make sure\u00a0you\u2019re\u00a0ready\u00a0to apply\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Before you start an SFI26 application\u00a0for Window 1 or Window 2,\u00a0read the\u00a0\u2018Get ready to apply\u2019 guidance in the SFI26 scheme rules and guidance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u00a0explains the steps you\u00a0need to\u00a0take\u00a0before you start your application, so the\u00a0process\u00a0is\u00a0as straightforward as possible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This\u00a0includes\u00a0making sure that\u00a0the land parcels you want to include in your application\u00a0are shown\u00a0correctly\u00a0on your digital maps.\u00a0If these land details are not correct, it may prevent you from applying for SFI26.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "SFI26 scheme information\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The SFI26 scheme information published on GOV.UK\u00a0includes:",
+                "tag": "p"
+            },
+            {
+                "content": "SFI: Getting\u00a0started\u00a0leaflet\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019ve\u00a0put together a leaflet to help you understand the\u00a0Sustainable Farming Incentive and how to get started \u2013 download it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "SFI: planning your fertiliser and nutrient use\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "This leaflet sets out the SFI actions that can help improve nutrient use efficiency and reduce reliance on fossil fuel-based fertilisers, supporting more sustainable and resilient farming practices.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the Farming Blog\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "For the latest updates from the Farming and Countryside team,\u00a0subscribe to the Farming Blog.",
+                "tag": "p"
+            },
+            {
+                "content": "By subscribing,\u00a0you\u2019ll\u00a0receive an email whenever a new post is published.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/08/05/sfi26-an-update/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "This post updates farmers on SFI26 uptake in Window 1, when it may close, and applying on SSSI land. We also explain how eligible farmers with ELM agreements ending soon can apply in Window 2 before those agreements expire."
+    },
+    {
+        "title": "Turning ambition into action in complex systems",
+        "authors": [
+            "Will Genzel, Senior Strategy Advisor"
+        ],
+        "posted_on": "2026-08-05T10:01:37",
+        "categories": [
+            "Transformation",
+            "Ways of working"
+        ],
+        "content": [
+            {
+                "content": "Turning ambition into outcomes is hard. We often know what \"good\" looks like, but the challenge for government is translating that vision into action quickly, efficiently and at scale for citizens.",
+                "tag": "p"
+            },
+            {
+                "content": "A clear direction is essential for making good delivery decisions, but you can\u2019t wait for a perfect picture of the end state before you act. That\u2019s the CustomerFirst approach: start early, test, learn and adapt. The priority is turning ambition into thousands of decisions, trade-offs and improvements across a complex system as quickly as possible and learning from the results.",
+                "tag": "p"
+            },
+            {
+                "content": "HMLR transformation",
+                "tag": "h2"
+            },
+            {
+                "content": "HM Land Registry (HMLR) has a critical role in maintaining the definitive land register of England and Wales, covering \u00a39 trillion of property. HMLR has a vision for simpler services for citizens \u2013 designed around life events \u2013 which a NewCo approach might help translate into fast, tangible progress.",
+                "tag": "p"
+            },
+            {
+                "content": "To get started, over the past two months, we have looked at the service that enables you to update the land register when a co-owner of a property dies \u2013 the Deceased Joint Proprietor service. If you\u2019ve used it, you\u2019ll know it's a relatively simple administrative task that still requires a paper-based form, with accompanying guidance that users struggle to follow, often at a very difficult time in their lives. Many of the 21,500 citizens who apply each year end up phoning the call centre for advice or submitting applications with errors.",
+                "tag": "p"
+            },
+            {
+                "content": "We tested an alternative service model on a small, controlled sample of citizens. An online form, with overhauled and simplified guidance, and a built-in triage system that made it easier and quicker for people to apply. It's an initial, positive step in the right direction that built momentum for further change, as we seek to translate our ambition into delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "It also showed what a fast design sprint could achieve. We deliberately avoided over-designing the vision, plans or solution and focused on what we could improve right now. Testing allowed us to collaborate, learn about each organisation, and build an evidence base, rather than relying on assumptions, to shape what comes next.",
+                "tag": "p"
+            },
+            {
+                "content": "Lessons for success",
+                "tag": "h2"
+            },
+            {
+                "content": "CustomerFirst has been in operation since January 2026 and we have learnt a lot about what helps NewCo projects emerge, and the balance between vision and action.",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping the momentum going",
+                "tag": "h2"
+            },
+            {
+                "content": "HMLR is building on these early foundations and applying these lessons, by broadening their NewCo approach to a set of experiments covering several existing citizen service areas. They are working to fully transform the Deceased Joint Proprietor service with a test and learn approach, as well as cracking cross-cutting challenges like improved identity verification and assurance and integrating further with other government services.",
+                "tag": "p"
+            },
+            {
+                "content": "The experience of HMLR shows that starting small, learning fast and building evidence early can create momentum for much bigger change, and drive conversations about the end state. Every improvement teaches us something about users, services and the barriers to progress. Over time, those lessons become the foundation for transforming entire systems.",
+                "tag": "p"
+            },
+            {
+                "content": "The biggest risk in transformation can be waiting for certainty before taking action.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2026/08/05/turning-ambition-into-action-in-complex-systems/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Transforming complex public services starts with action, not perfection. Learn how HM Land Registry used rapid testing, evidence and collaboration to improve a citizen service and build momentum for wider change."
+    },
+    {
         "title": "Explore More for Less: Affordable West Midlands Nature Escapes",
         "authors": [
             "Natural England"
