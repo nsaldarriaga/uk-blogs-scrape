@@ -1,5 +1,360 @@
 [
     {
+        "title": "It's more than a competition \u2013 DVLA's Code Challenge",
+        "authors": [
+            "John St C Williams"
+        ],
+        "posted_on": "2026-08-07T14:15:57",
+        "categories": [
+            "Features"
+        ],
+        "content": [
+            {
+                "content": "Every year at the DVLA Code Challenge final, people ask me the same question: \"Which game is going to win?\"",
+                "tag": "p"
+            },
+            {
+                "content": "It's a fair question. The Code Challenge is a competition, and our finalists work incredibly hard to reach the final. But what excites me most is not who takes home the trophy. It\u2019s seeing young people discover what they can achieve through coding.",
+                "tag": "p"
+            },
+            {
+                "content": "For me, the real success of the Code Challenge is the confidence learners gain when they realise they can solve problems, bring ideas to life and create something they are proud of.",
+                "tag": "p"
+            },
+            {
+                "content": "This year, 20 schools from across Wales submitted 54 games using Scratch, a beginner-friendly programming platform that helps young people learn coding through creativity and experimentation.",
+                "tag": "p"
+            },
+            {
+                "content": "More than coding",
+                "tag": "h2"
+            },
+            {
+                "content": "The work starts long before pupils arrive at the Richard Ley Development Centre for the final. Throughout the year, participants develop ideas, test solutions and create games based on themes designed with our partner organisations. These themes encourage pupils to engage with real-world challenges and think about how technology can be used to address them.",
+                "tag": "p"
+            },
+            {
+                "content": "Watching the finalists showcase their games, I was struck by their imagination, ambition and determination. The quality of the entries was impressive, but what stood out most was everything that happened behind the scenes.",
+                "tag": "p"
+            },
+            {
+                "content": "Creating a game involves much more than learning how to code. Pupils work together, think logically, break down complex problems and find creative solutions. They learn how to test and improve their work, overcome setbacks and adapt their ideas when things do not go to plan.",
+                "tag": "p"
+            },
+            {
+                "content": "For many participants, presenting to an audience can be just as challenging as building the game itself. Explaining how their game works, the decisions they made and the problems they solve helps them develop confidence and communication skills that extend far beyond the classroom.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspiring future opportunities",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the most rewarding parts of the day was seeing pupils interact with professionals from public services, emergency services, technology and industry.",
+                "tag": "p"
+            },
+            {
+                "content": "These conversations give participants a chance to learn more about different career paths and understand how digital skills are used in the workplace. For some, it is the first time they have spoken to people working in these fields. It can open their eyes to opportunities they may have never considered before.",
+                "tag": "p"
+            },
+            {
+                "content": "The event is only possible because of the support we receive from teachers, STEM Ambassadors and our partner organisations. Their time, expertise and encouragement help create an environment where young people can learn, explore and grow in confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "This year\u2019s event was supported by organisations including the Ministry of Defence, British Army, Mid and West Wales Fire and Rescue Service, STEM Wales, Swansea Council, British Computer Society, South Wales Police, Tarian ROCU, Road Safety Wales, Wild Connect, Free School Clothes, Welsh Stars and Buffoon Media.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking beyond the results",
+                "tag": "h2"
+            },
+            {
+                "content": "Of course, the competition element remains an important part of the day. This year\u2019s winners, Parkland Primary School and Ysgol Gymraeg Ystalyfera Bro Dur, created engaging games that stood out in the final. Outstanding performances also came from Blaenbaglan Primary School, Hawarden Village Church School, Gowerton Comprehensive School and Rougemont School.",
+                "tag": "p"
+            },
+            {
+                "content": "What I will remember most about this year's event is seeing pupils proudly explain their ideas, showcase their creativity and discover what they can achieve.",
+                "tag": "p"
+            },
+            {
+                "content": "The Code Challenge teaches coding, but it also helps young people develop teamwork, communication, creativity and problem-solving skills. Whatever career they choose, those skills will stay with them throughout their lives.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s why the Code Challenge has always been about much more than competition.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidedvla.blog.gov.uk/2026/08/07/its-more-than-a-competition-dvlas-code-challenge/",
+        "blog": "Inside DVLA",
+        "blog_link": "https://insidedvla.blog.gov.uk",
+        "description": "DVLA's annual Code Challenge gives young people the opportunity to develop coding, creativity and problem-solving skills. John St C Williams reflects on this year's event and explains why its success is measured by much more than the final results."
+    },
+    {
+        "title": "A\u00a0complex\u00a0picture,\u00a0but\u00a0a clearer path: what the 2025 water classifications tell us about England\u2019s waterways\u00a0",
+        "authors": [
+            "Dr Robert Bradburne"
+        ],
+        "posted_on": "2026-08-07T11:37:51",
+        "categories": [
+            "Environment Agency",
+            "Water",
+            "Water Monitoring"
+        ],
+        "content": [
+            {
+                "content": "Each time we publish the latest assessment of England's waters through the Water Environment (Water Framework Directive) Regulation classification, a familiar headline\u00a0emerges:\u00a0only a minority of rivers, lakes and estuaries achieve \"good\" overall status.\u00a0It's\u00a0a figure that invites a simple reading: that progress is\u00a0\u201ctoo slow\u201d,\u00a0that investment\u00a0\u201chasn't delivered\u201d,\u00a0that the water environment is\u00a0stagnating\u00a0or\u00a0declining. Those concerns are understandable, but they are not the full story.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The 2025 classifications give us a detailed picture of England's water environment and are a powerful indicator of where action is needed most. The headline result is that 14.3% of waterbodies\u00a0are\u00a0classified as at\u00a0Good Ecological Status. To understand what that means, you need to\u00a0dive below the headlines\u00a0and\u00a0understand how the system works.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One out, all out\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0classification\u00a0framework is deliberately demanding. The \"one out, all out\" approach\u00a0we take\u00a0means the overall status of a water body is\u00a0determined\u00a0by its lowest-scoring element. Every single element must pass for a water body to be classified as good. That ensures we do not overlook problems that matter to ecosystems - but it also means that progress can be real and measurable without being fully reflected in the headline figure.\u00a0Around a third of water bodies that\u00a0failed to\u00a0achieve good status\u00a0this time\u00a0did so because of just one element.\u00a0So\u00a0these\u00a0headline\u00a0results\u00a0provide\u00a0a foundation for action, but they do not tell the whole story.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond the headline figures\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beneath the headline,\u00a0some parts\u00a0of\u00a0the picture\u00a0are\u00a0more encouraging.\u00a0The underlying data shows 82%\u00a0of individual ecological\u00a0indicators\u00a0are\u00a0now\u00a0classed  as\u00a0Good\u00a0or\u00a0High\u00a0status,\u00a0demonstrating\u00a0some\u00a0underlying\u00a0aspects of the\u00a0health of many waterways\u00a0are\u00a0positive,\u00a0even where overall classifications\u00a0haven't\u00a0shifted.\u00a0\u00a0Ammonia - historically one of the most significant pressures on freshwater life - is at 92.9% good status, pointing to real, sustained progress in some areas.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are, however, known pressures that cannot be resolved quickly. All surface waters continue to fail in chemical status, which reflects the presence of persistent legacy substances such\u00a0as\u00a0\u00a0brominated\u00a0flame\u00a0retardants,\u00a0mercury\u00a0and\u00a0PFOS\u00a0that will take decades to deplete.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Comparing to\u00a0previous\u00a0assessments\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some will remember that the figure reported in 2019 was 16.3%. It is tempting to read the difference as a decline, but the two datasets are not directly comparable. Assessment methods,\u00a0monitoring\u00a0and available evidence have all advanced. We have automated the assessment of Heavily Modified Water Bodies, updated baselines and removed historic \"expert judgement\" classifications, which increases transparency but reduces comparability with earlier cycles.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "None of this reflects a weakening of the system, but a more rigorous and consistent one, meaning a water body can be classified at a lower status today not because its condition has worsened, but because we now understand it better.\u00a0Read more about these changes on\u00a0our\u00a0Water Data Explorer | Engage Environment Agency\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Better science, harder headlines\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "More work is needed to\u00a0determine\u00a0the causes of the\u00a0results,\u00a0but climate change, historic underinvestment, and improved monitoring are all\u00a0likely factors. Stronger monitoring reveals issues that were previously hidden, giving us a firmer basis for decision-making, even where the picture looks tougher in the short term.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is not a challenge England faces alone.\u00a0Last year the European Environment Agency reported that\u00a0picture across Europe\u00a0remains\u00a0very\u00a0challenging, with\u00a0a number of\u00a0areas\u00a0reporting\u00a0below 10% Good Ecological Status by the latest\u00a02021\u00a0statistics.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So,\u00a0what happens next? The classifications are a rigorous dataset that will drive evidence-led action through River Basin Management Plans\u00a0(to be published over the winter), where communities, farmers and water companies work together to make improvements. These plans are majority funded by water companies, and the latest funding round saw \u00a322.1 billion\u00a0allocated\u00a0to water environment improvements by 2030. The government's Water White Paper and the Environment Agency's EA2030 strategy\u00a0reinforces\u00a0this direction, with a stronger emphasis on data,\u00a0partnerships\u00a0and environmental outcomes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That investment is already being put to work. It is funding the upgrade of 2,350 storm overflows, which is expected to reduce sewage spills by an estimated 85,000 a year. It is reducing phosphorus inputs to the environment at more than 800 sewage treatment works. And it is reducing the amount of water abstracted from rivers and groundwater,\u00a0retaining\u00a0an estimated 60 million litres of water in the environment every day. These are not abstract commitments: they are specific, measurable interventions that will show up in future classifications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is not just theory. The River Roch in Greater Manchester shows what classification-driven action looks like in practice: phosphate levels, which can harm river wildlife, have improved from poor in 2019 to good in 2025. Investigation traced earlier deterioration downstream to water company assets, leading to a catchment permit covering a whole group of sewage treatment works upstream of the Manchester Ship Canal, several of which were\u00a0required\u00a0to remove phosphate from their discharge for the first time. The result has been cleaner water, with the Ship Canal's deterioration reversed and further improvements in connected rivers, an example of how targeted action based on solid evidence delivers\u00a0real results.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But we should be honest: investment takes time, and the environment takes longer to recover. We know the public want things to move faster, and progress\u00a0won't\u00a0always be visible in a single headline metric. That is how the 2025 classifications should be understood: not as a verdict on success or failure, but as a tool for improvement, showing us where the problems are, helping us target effort, and giving us the evidence to hold ourselves and others to account.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Turning evidence into action\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improving our waters depends on all of us working together - regulators, policymakers, water companies, land managers,\u00a0communities\u00a0and citizen scientists, at both local and national levels. We now have a clearer path than ever before.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These results should be seen as a starting point, not an end point. They give a clearer shared evidence base for understanding the condition of England\u2019s waters, where pressures are greatest and where action can have most impact. Improving the water environment will be a long-term community journey, requiring the Environment Agency, government, water companies, farmers, businesses, local\u00a0partners\u00a0and the public to each play their part.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will now\u00a0working\u00a0hard at local level to understand the complex causes behind why each waterbody gets a certain classification, so that we can plan investment and interventions over the next planning cycles.\u00a0\u00a0We will keep refining how, where and what we\u00a0monitor\u00a0so that we can\u00a0develop an ever more rigorous understanding of what\u00a0interventions\u00a0have\u00a0the greatest impact.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Better evidence is only useful if matched by the ability to act. We have significantly increased our capacity to tackle water pollution, with more staff, better\u00a0data\u00a0and stronger powers. Last year we completed over 10,000 inspections of water company assets, and we plan to increase farm inspections to 6,000 a year over the next three years. Since 2015 we have concluded more than 70 prosecutions against water and sewerage companies, securing fines of over \u00a3158 million, and the Water (Special Measures) Act means we are better equipped than ever to drive the improvements the public rightly expect.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The task ahead is to follow\u00a0the\u00a0evidence\u00a0together and turn shared evidence into real, lasting improvement for England's water environment.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/08/07/a-complex-picture-but-a-clearer-path-what-the-2025-water-classifications-tell-us-about-englands-waterways/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Each time we publish the latest assessment of England's waters through the Water Environment (Water Framework Directive) Regulation classification, a familiar headline\u00a0emerges:\u00a0only a minority of rivers, lakes and estuaries achieve \"good\" overall status.\u00a0It's\u00a0a figure that invites a simple reading: that progress is\u00a0\u201ctoo slow\u201d,\u00a0that investment\u00a0\u201chasn't delivered\u201d,\u00a0that the water environment is\u00a0stagnating\u00a0or\u00a0declining. Those concerns are understandable, but they \u2026"
+    },
+    {
+        "title": "Explore More for Less: Affordable East Midlands Nature Days Out",
+        "authors": [
+            "Natural England"
+        ],
+        "posted_on": "2026-08-07T08:30:00",
+        "categories": [
+            "Coast and access",
+            "Connecting People with Nature",
+            "Countryside Code",
+            "Mental health and wellbeing",
+            "National Nature Reserve",
+            "Natural England",
+            "Nature",
+            "Parks, trails and nature reserves",
+            "Wildlife",
+            "Woodland"
+        ],
+        "content": [
+            {
+                "content": "This summer, if\u00a0you\u2019re\u00a0looking for fun and accessible days out that\u00a0are low-cost, then we have you covered.\u00a0Not only is spending time in nature great for your wellbeing,\u00a0it\u00a0can also be great for your bank balance.\u00a0Here are our suggestions for our favourite\u00a0affordable days out in the East Midlands!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0The school holidays are here, and the East Midlands has some special places to explore - many of them free or very nearly so. Whether you're after a coastal walk, ancient woodland, or a magical trail through the forest, there's something for every family this summer. Here are five of our favourite affordable days out in nature across the East Midlands.",
+                "tag": "p"
+            },
+            {
+                "content": "Lincolnshire Coronation Coast National Nature Reserve\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Stretching for almost 30 kilometres along the Greater Lincolnshire coast, the Lincolnshire Coronation Coast National Nature Reserve (NNR), the first in the King\u2019s Series of NNRs, is free to visit. The reserve brings together sand dunes, saltmarsh, mudflats and freshwater marshes of international importance, and is home to natterjack toads, grey seals, and a spectacular array of birds.",
+                "tag": "p"
+            },
+            {
+                "content": "The reserve also forms part of the King Charles III England Coast Path (KCIIIECP), so you can combine a walk along one of England's great national trails with a chance to experience some truly special wildlife habitat. Cleethorpes and Mablethorpe neighbour the reserve, making it easily accessible and with plenty of options to grab some fish and chips before you head home!",
+                "tag": "p"
+            },
+            {
+                "content": "Getting there:\u202fThe reserve is accessible from several points along the Lincolnshire coast. Cleethorpes has a train station with regular services from Lincoln and Doncaster. Mablethorpe is accessible by bus from Lincoln.",
+                "tag": "p"
+            },
+            {
+                "content": "Clumber Park, Nottinghamshire (National Trust)\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Nestled in the ancient forest of Sherwood, Clumber Park is a picturesque 3,800-acre expanse of parkland, heath, woodland and lake that was once the country estate of the Dukes of Newcastle. This summer, it's easier than ever to get there without a car, and cheaper too.",
+                "tag": "p"
+            },
+            {
+                "content": "A new daily bus service links Worksop Train Station, Worksop Bus Station and Clumber Park, running every day from 25 July to 6 September 2026. Return tickets cost just \u00a33 per person and include free admission to the park.",
+                "tag": "p"
+            },
+            {
+                "content": "National Trust members, under-fives, and visitors arriving at Worksop by train with a valid rail ticket all travel free and enter the park at no charge. Under 16s are free from 1 to 31 August.",
+                "tag": "p"
+            },
+            {
+                "content": "Once you're there, the National Trust\u2019s Summer of Play programme offers six interactive play zones, free ukulele workshops, storytelling sessions and much more, all included with entry. This year also sees Clumber take part in a nationwide National Trust partnership with Pok\u00e9mon, meaning there\u2019s enough entertainment for children of all ages.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting there:\u202fBus service operates from Worksop Train Station (served by trains from Nottingham and Sheffield). Return bus ticket (\u00a33) includes park entry. Service runs daily 25 July \u2013 6 September 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Bradgate Park and\u00a0Swithland\u00a0Wood National Nature Reserve, Leicestershire\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Just a short journey from Leicester city centre, Bradgate Park is one of the region's most loved wild spaces. Spanning 438 hectares of rugged, ancient landscape, the park features ancient oak trees, roaming deer and some of the very oldest and rarest rocks on earth. The lower part of the park is accessible via a tarmac carriageway suitable for wheelchairs and pushchairs, and the visitor centre tells the story of the estate's fascinating natural and human history. Both the park and the visitor centre are free to enter.",
+                "tag": "p"
+            },
+            {
+                "content": "This summer, families can also take part in the Moths and Butterflies Trail, running until 23 August 2026. Follow the path from Newtown Linford to the visitor centre, spot painted examples of the moths and butterflies found at Bradgate and Swithland Wood, collect hidden letters and solve the mystery moth, then claim your sticker prize at the visitor centre. It's a lovely free activity for children of all ages.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting there:\u202fNewtown Linford is served by bus from Leicester city centre (Arriva service 120 from St Margaret's Bus Station). The park entrance at Newtown Linford is a short walk from the bus stop. Bradgate Park also has three car parks, charges apply.",
+                "tag": "p"
+            },
+            {
+                "content": "Forestry England Sherwood Pines, Nottinghamshire\u00a0\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Take a stroll into the\u00a0deep\u00a0dark wood\u00a0for a day of adventure at Sherwood Pines. The forest is free to enter, with something for everyone: three waymarked walking trails, cycling trails for all abilities, and play areas throughout the woodland.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Families with young children will love the Gruffalo sculptures dotted through the trees and the Room on the Broom interactive trail, where children can help Witch find her lost hat, bow and wand while exploring the forest. Room on the Broom trail packs are available from the visitor centre for \u00a34.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting there:\u202fSherwood Pines is near Edwinstowe, Nottinghamshire. The nearest train station is Mansfield (Robin Hood Line from Nottingham), with onward bus connections via the number 14 or 15 bus from Mansfield bus station (next to the train station).\u202fIf driving, car park charges apply to non-members.",
+                "tag": "p"
+            },
+            {
+                "content": "The Pennine Bridleway, Derbyshire\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "For an accessible\u00a0taste of Peak District scenery, head to Middleton Top, the southernmost start point of the Pennine Bridleway. This family-friendly, mostly flat trail follows the route of the old Cromford and High Peak Railway, and is suitable for walking,\u00a0cycling\u00a0or wheeling, making it a great option for families with pushchairs or wheelchair users.\u00a0There's\u00a0a visitor centre,\u00a0caf\u00e9\u00a0and toilets on site, plus a picnic area at the adjacent Redhill Quarry Nature Reserve. The historic Engine House is open some weekends (fees apply).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alternatively, further along the route, the picturesque village of Hayfield offers access to a short, one-mile stretch of the Sett Valley Trail, also following a former railway line through wildlife-rich woodland. The trail runs alongside the village bus station, with a handful of cafes, pubs and shops, plus a picnic area and toilets nearby.",
+                "tag": "p"
+            },
+            {
+                "content": "If you'd rather see more of the Peak District without the walk, the Stagecoach Peak Sightseer open-top bus is worth considering. Running daily until 19 September, it offers hop-on, hop-off travel between destinations including Chatsworth, Bakewell, Castleton and Hathersage, so you can enjoy the views and dip into a village or two without lacing up your walking boots. It isn't a free option (a family day ticket costs \u00a338), but it's a flexible way to see a lot of the National Park in a single day.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting there:\u202fMiddleton Top is on local bus routes, with connections from Cromford, Matlock and Matlock Bath train stations. Hayfield's Sett Valley Trail runs alongside Hayfield bus station. The Peak Sightseer can be joined at various stops including Chatsworth and Bakewell. There are also morning journeys from Chesterfield train station and South Sheffield to Chatsworth with return journeys late afternoon.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "A few more favourites\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Of course, this is not an exhaustive list and there are so many more great places to get out in nature on our doorstep that we couldn\u2019t possibly name them all. Here are a few more though which are family friendly and free to enter:",
+                "tag": "p"
+            },
+            {
+                "content": "Or for some options even closer to home Local Nature Reserves are places valued for their wildlife or geology, designated by local councils for people to enjoy and learn from. Find your nearest one: Local Nature Reserves (England) | Natural England Open Data Geoportal",
+                "tag": "p"
+            },
+            {
+                "content": "With the recent dry, hot weather, wildfire risk is high across the countryside. Please pack a picnic instead of a barbecue, take your\u00a0rubbish\u00a0home with you, and if you spot an unattended fire, get to a safe place and call 999.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Remember to always follow the Countryside Code when\u00a0you\u2019re\u00a0out and about\u00a0in nature!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0Countryside Code\u00a0is\u00a0a simple guide\u00a0to helping everyone enjoy the outdoors responsibly while protecting the natural environment. It encourages visitors to\u00a0respect other people,\u00a0protect plants,\u00a0animals\u00a0and habitats, and\u00a0leave gates,\u00a0paths\u00a0and property as they find them. By following the Countryside Code, we can all play our part in keeping nature accessible,\u00a0safe\u00a0and enjoyable for everyone, while helping to conserve the landscapes and wildlife that make our countryside so special.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/08/07/explore-more-for-less-affordable-east-midlands-nature-escapes/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "This summer, if\u00a0you\u2019re\u00a0looking for fun and accessible days out that\u00a0are low-cost, then we have you covered.\u00a0Not only is spending time in nature great for your wellbeing,\u00a0it\u00a0can also be great for your bank balance.\u00a0Here are our suggestions for our favourite\u00a0affordable days \u2026"
+    },
+    {
         "title": "Apply for the Farmer Welfare Grant",
         "authors": [
             "The Team"
