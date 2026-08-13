@@ -1,5 +1,958 @@
 [
     {
+        "title": "Why\u00a0exam\u00a0results\u00a0season should inspire employers,\u00a0by Phil Smith",
+        "authors": [
+            "Skills England Communications"
+        ],
+        "posted_on": "2026-08-13T17:28:36",
+        "categories": [
+            "apprenticeship units",
+            "apprenticeships",
+            "artificial intelligence",
+            "Insight",
+            "NEETs",
+            "T Levels",
+            "Youth Guarantee"
+        ],
+        "content": [
+            {
+                "content": "Thousands of young people receiving their exam results will be weighing up their next steps.",
+                "tag": "p"
+            },
+            {
+                "content": "Whatever grades they achieve, one thing\u00a0I\u2019m\u00a0sure we would all agree on is that they\u00a0deserve\u00a0the best possible chance of\u00a0success in their\u00a0lives and careers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We need our young people to feel optimistic\u00a0and there\u00a0will\u00a0be lots of hope\u00a0for the future\u00a0among\u00a0those\u00a0finding out how they did in their\u00a0A Levels, T Levels\u00a0and GCSEs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sadly,\u00a0there will\u00a0be some\u00a0trepidation too\u00a0\u2013 not just\u00a0about\u00a0how well or otherwise they may have done\u00a0in these exams, but\u00a0over\u00a0their longer-term prospects.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0struggles of\u00a0young people not in education, employment, or training\u00a0have been well documented through Alan Milburn\u2019s review of\u00a0the NEETs problem faced by this country.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "His\u00a0recent\u00a0report\u00a0warned that\u00a0nearly\u00a01\u00a0million\u00a0young people\u00a0in\u00a0the UK are\u00a0NEET.\u00a0The government\u00a0is\u00a0addressing\u00a0this through\u00a0the\u00a0Youth Guarantee of training, work experience, or placement opportunities for young people. This includes the\u00a0creation of 300,000 new work experience and training placements in sectors\u00a0like\u00a0construction, health and social care and hospitality.",
+                "tag": "p"
+            },
+            {
+                "content": "Skills England\u00a0is determined to play our part too.\u00a0We\u2019ve\u00a0worked\u00a0with businesses, training\u00a0providers\u00a0and other partners\u00a0over the past year to\u00a0make sure\u00a0skills training,\u00a0for\u00a0our\u00a0emerging\u00a0workforce,\u00a0is high quality and\u00a0responsive to the needs of a modern economy.\u00a0This has included\u00a0the\u00a0rollout of new programmes such as the Level 4 AI and Automation Practitioner apprenticeship, alongside flexible\u00a0apprenticeship units focused on AI leadership and strategy.",
+                "tag": "p"
+            },
+            {
+                "content": "A key priority for everyone is redressing\u00a0a 40% decline\u00a0in youth apprenticeship starts\u00a0over the past decade.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0used to\u00a0hear concerns about whether young people wanted apprenticeships. The reality is\u00a0now\u00a0the opposite.",
+                "tag": "p"
+            },
+            {
+                "content": "On average, there are more than ten applicants for every vacancy advertised\u00a0through the\u00a0government\u2019s\u00a0Find An Apprenticeship service, with many\u00a0high-profile companies receiving\u00a0thousands of applications\u00a0for their programmes.",
+                "tag": "p"
+            },
+            {
+                "content": "So,\u00a0demand is\u00a0vastly\u00a0outstripping\u00a0supply\u00a0and\u00a0we\u00a0need\u00a0many more large and small businesses to\u00a0invest in\u00a0apprenticeships.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For me,\u00a0it\u2019s\u00a0a no-brainer.\u00a0Once you get past the hump of worrying about how to sign\u00a0up\u00a0\u2013 through a process we are helping to simplify \u2013 then you see fast returns.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Skilled staff are more productive \u2013 the estimated yearly gain for businesses can be as much as \u00a318,000 per apprentice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I saw first-hand, when I ran\u00a0Cisco UK and Ireland,\u00a0how investing in\u00a0young people\u00a0re-invigorated\u00a0our workforce. Their\u00a0energy, fresh\u00a0perspectives\u00a0and willingness to learn\u00a0was infectious.\u00a0Apprenticeships\u00a0also\u00a0provide\u00a0the opportunity to embed people into your company culture, which\u00a0we found fostered a lot of loyalty.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "T Level students\u00a0will be getting their results on\u00a0Thursday, 13\u00a0August.\u00a0A big reason why\u00a0these qualifications have\u00a0bedded\u00a0in well, since their launch six years ago,\u00a0has been the\u00a0substantial work experience involved.",
+                "tag": "p"
+            },
+            {
+                "content": "They\u00a0offer a mixture of classroom learning and \u2018on-the-job\u2019 experience during an industry\u202fplacement\u202fof at least 315 hours\u202f(approximately 45\u202fdays).",
+                "tag": "p"
+            },
+            {
+                "content": "Offering these placements is another excellent way for businesses to refresh their workforce.\u00a0Around a\u00a0quarter of students,\u00a0who progress from T Levels into work,\u00a0get their jobs with their industry placement employer.",
+                "tag": "p"
+            },
+            {
+                "content": "For example,\u00a0Lloyds\u00a0Banking\u00a0Group\u00a0has been a long-term\u00a0supporter of T Level,\u00a0growing from\u00a0providing\u00a0six placements in 2022 to more than 100 annually over the past three years.",
+                "tag": "p"
+            },
+            {
+                "content": "Around half of\u00a0their\u00a0placement\u00a0students have progressed into permanent roles.\u00a0John Banks,\u00a0their\u00a0T Levels\u00a0manager, reflected that this has helped Lloyds build a workforce\u00a0which\u00a0\u201cbetter reflects the communities we serve and creates opportunities for talented young people who may not have considered a career with us otherwise\u201d.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Skills training\u00a0is\u00a0really good\u00a0for business\u00a0and\u00a0Britain has no shortage of\u00a0enthusiastic and\u00a0talented young people\u00a0and\u00a0I'd\u00a0like to congratulate all those collecting their results.",
+                "tag": "p"
+            },
+            {
+                "content": "But\u00a0I would\u00a0also\u00a0like to take this opportunity to invite many more employers to draw inspiration from\u00a0all\u00a0the optimism\u00a0surrounding\u00a0exam results\u00a0and\u00a0check out how\u00a0to invest\u00a0in young people today.",
+                "tag": "p"
+            },
+            {
+                "content": "Find training and employment schemes for your business, including how to register for apprenticeships and T Levels.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://skillsengland.blog.gov.uk/2026/08/13/why-exam-results-season-should-inspire-employers-by-phil-smith/",
+        "blog": "Skills England",
+        "blog_link": "https://skillsengland.blog.gov.uk",
+        "description": "Thousands of young people receiving their exam results will be weighing up their next steps. Whatever grades they achieve, one thing\u00a0I\u2019m\u00a0sure we would all agree on is that they\u00a0deserve\u00a0the best possible chance of\u00a0success in their\u00a0lives and careers.\u00a0 We need our \u2026"
+    },
+    {
+        "title": "Why water regulation is changing \u2013 and how Clear Waters is helping\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-08-13T14:18:34",
+        "categories": [
+            "Environment Agency",
+            "Ofwat",
+            "Regulated industry",
+            "Rivers",
+            "Water",
+            "Water Monitoring"
+        ],
+        "content": [
+            {
+                "content": "Regulating the environmental performance of the water industry\u00a0is\u00a0a core Environment Agency function.\u00a0Since 2023 we have been transforming the way we\u00a0regulate\u00a0the water industry. Backed\u00a0by\u00a0significant\u00a0investment\u00a0we\u00a0are\u00a0delivering\u00a0increased scrutiny and oversight through a specialised workforce\u00a0dedicated to\u00a0each water and sewerage company.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We recognise that\u00a0further\u00a0change\u00a0is\u00a0needed\u00a0and that improvements need to be delivered at pace.\u00a0We are working with government and partners to support thriving places, communities and sustainable growth while protecting and improving the environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A sector under scrutiny\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It's\u00a0our\u00a0job to help protect homes and habitats, including England's water environment.\u00a0We know how important\u00a0rivers, lakes and coastal waters are\u00a0to people and that they\u00a0rightly want\u00a0to see faster\u00a0improvement and greater investment to better protect\u00a0them.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s\u00a0why\u00a0transparency and accountability are more important than ever\u00a0-\u00a0so that people can see\u00a0and understand\u00a0what is happening\u00a0in\u00a0the\u00a0places they live,\u00a0work\u00a0and spend time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Agency is committed to transparency. Making our data accessible to\u00a0the\u00a0public\u00a0is key to this. For\u00a0example,\u00a0we\u00a0have already\u00a0worked with Ofwat to\u00a0develop\u00a0an interactive map that shows where the water industry\u00a0investment is being made at a local level to protect and improve the\u00a0environment:\u00a0Price Review 2024 Water Industry National Environment Programme (WINEP) App.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Introducing Clear Waters\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Clear Waters is a\u00a0further extension of this work \u2013 a\u00a0collaborative project to make information about water company environmental investment more transparent,\u00a0accessible\u00a0and useful.\u00a0The Clear Waters group\u00a0brings\u00a0together regulators, environmental groups, the water sector, local authority representatives\u00a0and consumer groups.\u00a0The partnership is developing a shared approach to showing what environmental improvements are planned, where they are being delivered and how progress can be tracked. The aim is to help customers and stakeholders understand not just how much is being invested, but what that investment will deliver for rivers, lakes,\u00a0groundwater\u00a0and coastal waters\u00a0in places they care about.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Addressing the transparency gap\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By making environmental commitments visible and measurable,\u00a0Clear Waters\u00a0will support greater scrutiny of progress on delivery and help to rebuild public trust.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Clear Waters is\u00a0already making progress:\u00a0by working directly with customers and\u00a0users of\u00a0water-related information, the project has produced user profiles\u00a0that are\u00a0now being used to shape how\u00a0water industry investment information\u00a0is presented. This will\u00a0make\u00a0it easier for people to find , understand and use information about environmental investment and outcomes.\u00a0Any\u00a0lessons\u00a0learned from this\u00a0will\u00a0then\u00a0help inform how information\u00a0on future investment\u00a0is shared and accessed, ensuring it is more relevant,\u00a0accessible\u00a0and meaningful to the people who use it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Clear Waters is already helping to bring together people with different perspectives on water and environmental data. At Northumbrian Water's Innovation Festival in July, representatives from regulators, water companies, environmental organisations,\u00a0academia\u00a0and technology organisations explored how information can be made easier to access, understand and use. Discussions focused on making environmental data more meaningful for different audiences, improving transparency around environmental outcomes\u00a0and exploring how citizen science can complement existing monitoring.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Shaping the future of water regulation\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Clear Waters will also play a key role in the transition to\u00a0a new single regulator\u00a0as\u00a0set out in the Government's White Paper in January 2026.\u00a0Lessons learned through\u00a0our\u00a0work will feed into thinking\u00a0for future investment programmes, helping to shape a stronger, more accountable system for\u00a0the\u00a0future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As well as the Clear Waters project,\u00a0the Environment Agency is\u00a0also working\u00a0with\u00a0Ofwat, the Drinking Water Inspectorate,\u00a0Natural England\u00a0and Natural Resources Wales\u00a0on\u00a0a joint programme of improvements\u202fto how we deliver water\u00a0regulation\u00a0and\u00a0delivering\u00a0meaningful change now, rather than waiting for policy or legislative change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Insights from Clear Waters will help shape future approaches to transparency and public engagement, supporting preparations for\u00a0future investment programmes\u00a0and helping ensure\u00a0investment\u00a0decisions are understood by the people and communities they are intended to benefit.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s\u00a0next for Clear Waters?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The partnership will continue to develop and test\u00a0new ways\u00a0to\u00a0help people better understand environmental improvements and track progress over time. Priorities include improving access to information, exploring how\u00a0different sources\u00a0of environmental data can be used together, and ensuring information is presented in ways that meet the needs of different audiences.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Clear Waters partnership is planning activity over the\u00a0autumn.\u00a0If\u00a0you'd\u00a0like to be involved, please contact\u00a0clearwaters@ofwat.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/08/13/why-water-regulation-is-changing-and-how-clear-waters-is-helping/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Regulating the environmental performance of the water industry\u00a0is\u00a0a core Environment Agency function.\u00a0Since 2023 we have been transforming the way we\u00a0regulate\u00a0the water industry. Backed\u00a0by\u00a0significant\u00a0investment\u00a0we\u00a0are\u00a0delivering\u00a0increased scrutiny and oversight through a specialised workforce\u00a0dedicated to\u00a0each water and sewerage company.\u00a0\u00a0 We recognise that\u00a0further\u00a0change\u00a0is\u00a0needed\u00a0and that improvements \u2026"
+    },
+    {
+        "title": "Results day 2026: What's next after picking up your A level, T Level and VTQ results?",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2026-08-13T12:51:27",
+        "categories": [
+            "A Level",
+            "Further education",
+            "T Levels",
+            "T Levels",
+            "Universities"
+        ],
+        "content": [
+            {
+                "content": "It can feel like there\u2019s a lot riding on A Level, T Level and Vocational Technical Qualifications (VTQ) results day but if you don\u2019t get your predicted grades, don\u2019t worry - it doesn\u2019t mean that your education journey stops here.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It's also important to remember that the number of top grades has no bearing on the number of university places available.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Even if you don\u2019t get exactly the grades you\u2019d expected, you may be able to follow the route you were preparing to take. But if you do need to change your plans, there are plenty of alternative, exciting options for everyone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here we explain your choices if things didn\u2019t go to plan on results day.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When is A level/T Level/VTQ results day 2026?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Results day this year is on Thursday 13 August 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What if I don\u2019t get the grades I need for my university course?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Even if you don\u2019t get the grades you need, your university or college may still offer you a place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whatever your grades, there\u2019s still time to rethink your plans if you\u2019re having second thoughts. And if you didn\u2019t make your university offer, there are plenty of alternative options out there.",
+                "tag": "p"
+            },
+            {
+                "content": "The first thing you should do is talk to your school or college, and to your preferred university or college, as they may be able to offer some flexibility. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "University admissions teams will be on hand on results day to help students and have plenty of experience with helping applicants to find a course that will allow them thrive.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find your university\u2019s admissions contact details by heading to the admission section of their website. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What if I don\u2019t pass all the components of my T Level?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Don\u2019t worry if you haven\u2019t passed all the components of your T Level \u2013 you may still be able to secure enough UCAS points to go to university, if that\u2019s your plan \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "UCAS points are available for those who have completed their industry placement and passed either the core or occupational specialism part of their T Level.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How many UCAS points you achieve will vary depending on the T Level subject you took as the weighting of the core and occupational specialism for each course varies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can find out how many UCAS points you can achieve for only partially passing your T Level with the UCAS tariff calculator.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are my options if I still want to go to university or continue studying?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Clearing\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Clearing is when UCAS provides students with the chance to apply for university places which haven\u2019t yet been filled. It\u2019s available to anyone who has made a UCAS Undergraduate application and doesn\u2019t hold any offers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Clearing provides an opportunity for those who have missed their conditions or had a last-minute change of heart about the university or course they want to study.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How do I know if I\u2019m eligible to find a course through clearing?\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Clearing runs from 2 July until 19 October 2026. You will be eligible if:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can find out more about clearing by watching this video from UCAS.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Resit\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "If you\u2019re unhappy with your results you can apply to \u00a0resit your subjects in summer 2027.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You should speak to your school or college about retaking exams.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Higher Technical Qualifications (HTQs)\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "If you\u2019re interested in continuing your education but an undergraduate degree isn\u2019t for you, then you might want to consider a HTQ. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "HTQs are technical qualifications that employers have helped develop so you can get the tailored training and skills you need to secure a job in your chosen industry. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can study a HTQ full time or part time. You\u2019re usually taught in a classroom at a college, university or an independent training provider.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can take a HTQ in a variety of different subjects across a wide range of sectors, including healthcare, digital, construction, engineering and education. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You also may be eligible for student finance. The amount you could get will depend on your circumstances and the type of HTQ you\u2019re studying. You can find a HTQ through UCAS.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "There are now more than 700 high quality apprenticeships in a wide range of roles.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This includes high level apprenticeships, like degree apprenticeships in nursing, engineering, law, and science.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprentices earn while learning, gaining valuable on-the-job experience while receiving training at university or college.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can search for apprenticeships here.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "School leaver scheme\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Some companies offer school leaver schemes to young people who have completed A levels. The schemes allow young people to learn and train with a large company while earning a wage.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "School leaver schemes are usually like graduate schemes, except they\u2019re aimed at pupils who\u2019ve recently left school. You can apply to the scheme while you\u2019re still in school.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Employers create their own schemes, so students need to search for school leaver schemes or check each company\u2019s website to see if one is available and apply.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What if I\u2019m not sure what I want to do?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Talk to a National Careers Service adviser\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Whatever your results, you have lots of options and there is more than one route into most careers. It\u2019s not always grades which are the most important thing, and employers look for a range of skills and qualifications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "First of all, you should talk to your school or college to discuss your options. Friends and family can also be a source of support to bounce ideas off, but it can be useful to talk your plans through with an impartial expert.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can speak to a professional careers adviser for free and get judgment-free, confidential information and advice via the National Careers Service Exam Results helpline, via phone or by webchat.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whatever your results, if you want to find out more about all your education and training options, as well as get practical advice about your exam results, visit the Skills for Careers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What if I think there\u2019s something wrong with my results?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Speak to your school or college for advice\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "There is a rigorous system in place which makes sure that exams are marked fairly and accurately.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you think there has been a mistake in how your exam was marked, you should speak to your school or college who can request a review from the exam board.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You shouldn\u2019t request a review unless you think there has been an error, or you could risk missing out on other options. Consider carefully if appealing is the right course of action for you by discussing it with your school or college.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2026/08/results-day-2026-next-after-picking-up-a-level-t-level-vtq-results/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "It can feel like there\u2019s a lot riding on A Level, T Level and Vocational Technical Qualifications (VTQ) results day but if you don\u2019t get your predicted grades, don\u2019t worry - it doesn\u2019t mean that your education journey stops here.\u00a0 \u2026"
+    },
+    {
+        "title": "Heatwaves, temperature control and veterinary medicines: how to transport medicines safely",
+        "authors": [
+            "Julia Pearce"
+        ],
+        "posted_on": "2026-08-13T10:32:27",
+        "categories": [
+            "Inspections",
+            "VMD Voices"
+        ],
+        "content": [
+            {
+                "content": "VMD Voices: Our Experts Explain",
+                "tag": "h2"
+            },
+            {
+                "content": "With UK summer heatwaves once again putting temperature control in the spotlight, this second blog from VMD inspector, Julia Pearce, follows our earlier advice on storing veterinary medicines safely by looking at how to protect medicines when they are being transported.",
+                "tag": "p"
+            },
+            {
+                "content": "In this two-part blog, Julia Pearce explains what VMD inspectors expect to see and shares practical advice to help veterinary practices and authorised retail premises stay compliant with the law - temperature control of veterinary medicines is no longer just good practice, it is a legal requirement.",
+                "tag": "p"
+            },
+            {
+                "content": "Credit: Pexels",
+                "tag": "p"
+            },
+            {
+                "content": "All too often, inspectors find that temperature monitoring and recording in practice vehicles is either absent or wholly inadequate. In some cases, recorded temperatures are so far outside the acceptable range that there is no reliable assurance the veterinary medicines stored in the vehicle remain safe or effective.",
+                "tag": "p"
+            },
+            {
+                "content": "You should research, test and validate your vehicle cold chain storage before use. We are not expecting records covering a full 24\u2011hour period unless medicines are stored in the vehicle for that length of time. However, you must not place products into storage units until the required temperature range has been reached. You should keep detailed records to show:",
+                "tag": "p"
+            },
+            {
+                "content": "You should also test and monitor ambient storage within vehicles. Vehicle temperatures can increase rapidly, particularly on sunny days, even in the absence of extreme weather or a heatwave. Storage conditions within vehicles must therefore be suitable for all veterinary medicines being transported, including for home visits and farm or yard visits.",
+                "tag": "p"
+            },
+            {
+                "content": "Where there is a risk that ambient vehicle temperatures may exceed 25\u00b0C, you must consider alternative storage solutions, such as validated insulated containers or active cooling systems, to ensure medicines remain within their required storage conditions throughout transport.",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering and posting veterinary medicines",
+                "tag": "h2"
+            },
+            {
+                "content": "Temperature monitoring and recording requirements also apply to all veterinary medicinal products being delivered or dispatched. This includes medicines transported in your own delivery vehicles as well as those sent via courier services. You must be able to demonstrate that appropriate storage conditions are maintained throughout the delivery process, from dispatch to delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "You must hold robust records demonstrating that appropriate storage conditions are maintained throughout the delivery process. This applies whether deliveries are carried out using your own vehicles or via a courier service.",
+                "tag": "p"
+            },
+            {
+                "content": "Where you do not use your own delivery vehicles, this evidence can be generated using validated \u201ctest\u201d parcels. These test parcels must be sent through the courier service under normal delivery conditions. Simply placing a packaged parcel containing a thermometer in a room or storage area for a period of time does not constitute a valid test.",
+                "tag": "p"
+            },
+            {
+                "content": "You should carry out testing at least twice a year, and ideally during periods of very cold and very warm weather, to reflect the conditions most likely to challenge your packaging and delivery processes. A risk assessment of the delivery routes and methods must be performed to identify the highest risk routes/customers and these should be used to validate delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "The data collected must clearly demonstrate:",
+                "tag": "p"
+            },
+            {
+                "content": "This evidence allows you to show inspectors that medicines remain safe, effective, and compliant from dispatch through to delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "It is important to be aware that not all courier companies operate to the same standards. Some courier services can provide formal assurances that veterinary medicinal products will be transported in accordance with the required storage conditions. Where such assurances are relied upon, they should be documented, understood, and supported by appropriate evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately, responsibility for ensuring that veterinary medicines are transported under suitable conditions remains with the supplying premises, and courier services should be selected with this responsibility in mind.",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to discuss storage requirements in more detail please contact the VMD who will put you in touch with your local inspector.",
+                "tag": "p"
+            },
+            {
+                "content": "Credit: Unsplash",
+                "tag": "p"
+            },
+            {
+                "content": "What about in-post boxes?",
+                "tag": "h2"
+            },
+            {
+                "content": "If you use a delivery service that deposits parcels in collection boxes rather than delivering directly to a customer\u2019s home address, this must be fully considered as part of your temperature validation and risk assessment.",
+                "tag": "p"
+            },
+            {
+                "content": "You must be able to demonstrate that your packaging will maintain the required storage conditions until the point at which the customer takes possession of the product. This requires a clear understanding of:",
+                "tag": "p"
+            },
+            {
+                "content": "These variables must be reflected in your validation testing. Practices should carefully assess whether the risks associated with collection box deliveries are acceptable and whether they can be adequately mitigated. In some cases, the safest option may be not to use this delivery method at all.",
+                "tag": "p"
+            },
+            {
+                "content": "Protecting medicines from humidity",
+                "tag": "h2"
+            },
+            {
+                "content": "Humidity must also be considered as part of your storage risk assessment. Unless packaging is specifically designed to withstand moisture and condensation, excessive humidity can cause it to deteriorate to the point where the product is no longer suitable for supply.",
+                "tag": "p"
+            },
+            {
+                "content": "If ambient storage areas become too cold, particularly in vehicles, condensation may form on or within packaging. This can damage cartons, labels, and inserts, potentially resulting in the loss of critical product information, including batch numbers and expiry dates.",
+                "tag": "p"
+            },
+            {
+                "content": "Where packaging integrity or essential labelling information is compromised, the veterinary medicinal product may no longer be compliant for supply, even if the medicine itself has not been visibly affected.",
+                "tag": "p"
+            },
+            {
+                "content": "Canva design",
+                "tag": "p"
+            },
+            {
+                "content": "Small issues can have a big impact",
+                "tag": "h2"
+            },
+            {
+                "content": "As inspectors, we often see temperature records completed diligently every day, even though they clearly show temperatures outside the required range. In some cases, staff have noticed a problem but were unsure what action to take.",
+                "tag": "p"
+            },
+            {
+                "content": "Where a refrigerator is operating outside the required temperature range, it is likely that most, if not all, of the veterinary medicines stored within it are no longer safe or efficacious. The consequence can be significant, including the need to dispose of and replace large quantities of stock, often at considerable cost.",
+                "tag": "p"
+            },
+            {
+                "content": "A similar issue is frequently seen with vehicle temperature records, where temperatures recorded in the boot of a car have exceeded 30\u00b0C for days at a time, yet no action has been taken to protect the veterinary medicines being transported or to assess whether those products remain safe to use.",
+                "tag": "p"
+            },
+            {
+                "content": "Recording temperatures alone is not enough. If a temperature excursion occurs, you need to investigate it. Consider whether the thermometer is working correctly, whether equipment has developed a fault, and how long medicines may have been exposed to unsuitable temperatures.",
+                "tag": "p"
+            },
+            {
+                "content": "What to do if you think a medicine has been affected by a change in temperature",
+                "tag": "h2"
+            },
+            {
+                "content": "Where there is any doubt about product integrity, contact the manufacturer early and follow their advice regarding continued use or disposal.",
+                "tag": "p"
+            },
+            {
+                "content": "Products showing visible signs of deterioration should be disposed of safely. Vaccines are particularly sensitive to temperature excursions and more often than not are unusable if frozen or exposed to temperatures in excess of 8\u00b0C but always remember to check with the manufacturer if you are unsure.",
+                "tag": "p"
+            },
+            {
+                "content": "As inspectors, we discuss medicines storage and record keeping with practices during almost every inspection. We know that veterinary teams are incredibly busy, and we want inspections to be a positive opportunity to share advice and support, not just assess compliance.",
+                "tag": "p"
+            },
+            {
+                "content": "We hope these practical tips will help make medicines management simpler for your practice or business, support compliance with the Veterinary Medicines Regulations (VMRs), and help ensure that the medicines you supply and use remain safe and effective.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://vmd.blog.gov.uk/2026/08/13/heatwaves-temperature-control-and-veterinary-medicines-how-to-transport-medicines-safely/",
+        "blog": "Veterinary Medicines Directorate",
+        "blog_link": "https://vmd.blog.gov.uk",
+        "description": "VMD Voices: Our Experts Explain With UK summer heatwaves once again putting temperature control in the spotlight, this second blog from VMD inspector, Julia Pearce, follows our earlier advice on storing veterinary medicines safely by looking at how to protect \u2026"
+    },
+    {
+        "title": "Heatwaves, temperature control and veterinary medicines: how to store medicines safely",
+        "authors": [
+            "Julia Pearce"
+        ],
+        "posted_on": "2026-08-13T10:29:52",
+        "categories": [
+            "Inspections",
+            "VMD Voices"
+        ],
+        "content": [
+            {
+                "content": "VMD Voices: Our Experts Explain",
+                "tag": "h2"
+            },
+            {
+                "content": "With the UK experiencing summer heatwaves in 2026, it\u2019s important that vet practices and retailers are checking how veterinary medicines are stored and temperatures monitored. High temperatures can increase the risk of medicines being kept outside their required storage conditions, but good temperature control is not just a summer concern. VMD inspectors see storage, monitoring and record-keeping issues all year round, in all types of weather. In this two-part blog, Julia Pearce explains what VMD inspectors expect to see and shares practical advice to help veterinary practices and authorised retail premises stay compliant with the law - temperature control of veterinary medicines is no longer just good practice, it is a legal requirement.",
+                "tag": "p"
+            },
+            {
+                "content": "Schedule 3 Paragraph 3E of the Veterinary Medicines Regulations",
+                "tag": "h3"
+            },
+            {
+                "content": "Retail storage of veterinary medicinal products",
+                "tag": "p"
+            },
+            {
+                "content": "This requirement came into effect on 17 May 2024, as part of the 2024 amendments to the 2013 regulations. This applies to any premises that store or transport medicines in all categories, POM-V, POM-VPS, NFA-VPS and AVM-GSL. From temperature monitoring, record keeping and cold chain management to protecting products from light, preventing contamination, and ensuring medicines remain within specification during transport, these blogs provide practical guidance to help you meet these legal obligations.",
+                "tag": "p"
+            },
+            {
+                "content": "About the author",
+                "tag": "h3"
+            },
+            {
+                "content": "I have been at the VMD for 10 years and have previously owned and run a saddlery and pet supplies store for nearly 20 years. I qualified as an SQP in 1994 and have inspected hundreds of vet practices over the years.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why is temperature control so important",
+                "tag": "h3"
+            },
+            {
+                "content": "As described in our previous blog on shelf-life and expiry dates, veterinary medicines can degrade from exposure to heat, light, moisture or air. This is why storing medicines at the correct temperature is essential to keep the medicines work as intended.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Credit: Pixabay",
+                "tag": "p"
+            },
+            {
+                "content": "During inspections, we ask for evidence that you store veterinary medicines correctly in every location where you keep them. Wherever you store veterinary medicines, you must also have an appropriate temperature monitoring device in place.",
+                "tag": "p"
+            },
+            {
+                "content": "What should you expect during an inspection?",
+                "tag": "h3"
+            },
+            {
+                "content": "Inspectors commonly see temperature records for cold chain products; however, you must now also provide records that show you maintain ambient storage conditions within the required temperature range.",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, if you transport veterinary medicines in any capacity, whether for deliveries, by vets visiting clients away from the practice premises, or when moving medicines between a main branch and a smaller branch, you must show that you maintain appropriate storage conditions throughout transport, including within vehicles. This is explored further in the second blog of\u00a0 two-this two-part series.",
+                "tag": "p"
+            },
+            {
+                "content": "How does light affect veterinary medicines?",
+                "tag": "h3"
+            },
+            {
+                "content": "Credit: Pixabay",
+                "tag": "p"
+            },
+            {
+                "content": "When storing veterinary medicines, temperature is not the only consideration. You must also protect some products from light, including artificial light unless the label specifically states direct sunlight only. Always check the product label for storage instructions.",
+                "tag": "p"
+            },
+            {
+                "content": "A common example is Calciject No.5 40 CM, which must be protected from light but is often stored on open shelves in veterinary practices and authorised retailers.",
+                "tag": "p"
+            },
+            {
+                "content": "A dark-coloured container does not always indicate light protection, and you should not rely on bottle colour alone. If in doubt, keep products in their original packaging and store them in cupboards, cabinets with solid doors, or areas with limited light exposure. You must also protect products that require light protection during transport as well as while storing them in the dispensary.",
+                "tag": "p"
+            },
+            {
+                "content": "What temperature should medicines be stored at?",
+                "tag": "h3"
+            },
+            {
+                "content": "You must store cold chain products between 2\u00b0C and 8\u00b0C, while most ambient products should stay below 25\u00b0C. We also recommend avoiding ambient storage below 12\u00b0C, as this is close to the dew point in many indoor environments. If products become colder than the surrounding air, condensation can form, potentially damaging packaging and making labels difficult to read and can encourage mould growth.",
+                "tag": "p"
+            },
+            {
+                "content": "Ambient storage areas have some form of climate control to minimise temperature extremes, if not provisions must be implemented to ensure that products are not exposed to temperatures outside those stated on the Summary of Product Characteristics.",
+                "tag": "p"
+            },
+            {
+                "content": "Using fans to create airflow can help but during periods of high temperature you must consider your storage locations, Heat rises so higher shelves and storage under skylights or next to windows should be avoided.",
+                "tag": "p"
+            },
+            {
+                "content": "For static enclosed locations such as controlled drugs cabinets then the inclusion of a frozen ice pack wrapped in bubble wrap or a towel can lower the temperature in the cabinet, and the wrapping prevents direct contact of the ice pack with the medicines.",
+                "tag": "p"
+            },
+            {
+                "content": "You must also protect veterinary medicines from freezing. Although practices usually monitor cold chain products, refrigeration issues remain a common inspection finding.The type of refrigerator you use and the way you store products can significantly affect performance.",
+                "tag": "p"
+            },
+            {
+                "content": "Common problems include poor cleaning, ice build-up, and overstocking, which can cause products to freeze when pushed against the fridge walls. Refrigerators should be cleaned regularly, not overfilled, and serviced routinely to ensure they operate correctly.",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping medicines away from your lunch",
+                "tag": "h3"
+            },
+            {
+                "content": "Credit: VMD ",
+                "tag": "p"
+            },
+            {
+                "content": "A common inspection finding is the storage of human food alongside veterinary medicines. Medicines and vaccine refrigerators must not be used for staff food.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve\u00a0 found items such as sandwiches, drinks, soup, butter, salad, and other food products in medicines fridges, creating a potential contamination risk. If inspectors identify food contamination or inappropriate storage, they \u00a0may take action, including seizing or disposing of affected products.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors have the authority to seize veterinary medicinal products and Schedule 5 products such as additives and medicated feeds, if storage conditions may have compromised their safety or effectiveness. Schedule 5 products include additives, in-feed premixes, premixtures, intermediate products, and medicated feeds. Where storage standards are not met, these products may be removed from use.",
+                "tag": "p"
+            },
+            {
+                "content": "How do I monitor temperatures?",
+                "tag": "h3"
+            },
+            {
+                "content": "We see a wide range of temperature monitoring devices, from basic minimum/maximum thermometers to advanced digital, data-logging, and smart monitoring systems with remote alerts. The key thing to remember is that whatever system you use used, you must able to accurately monitor temperatures, maintain records, and identify and manage any temperature excursions.",
+                "tag": "p"
+            },
+            {
+                "content": "Minimum expectations for thermometers",
+                "tag": "h3"
+            },
+            {
+                "content": "Digital min/max thermometers",
+                "tag": "h4"
+            },
+            {
+                "content": "At an absolute minimum, we recommend the use of a digital thermometer that displays:",
+                "tag": "p"
+            },
+            {
+                "content": "For all refrigerated storage, including vaccine fridges, vehicle fridges, and any vaccine chillers within the practice, you should:",
+                "tag": "p"
+            },
+            {
+                "content": "This approach provides a clear overview of temperature control since the previous check and allows any excursions to be identified promptly.",
+                "tag": "p"
+            },
+            {
+                "content": "Ambient storage",
+                "tag": "p"
+            },
+            {
+                "content": "Recording max/min temperatures does not give you any indication of the duration of any excursion, so the practice cannot determine if the temperature spike occurred for a few minutes, a few hours or even longer. Without knowing the duration of the excursion it is impossible to determine the extent to which the medicines have been compromised.",
+                "tag": "p"
+            },
+            {
+                "content": "Thermometers with remote sensors",
+                "tag": "h4"
+            },
+            {
+                "content": "Thermometers consisting of a main display unit with a cabled sensor probe can be used effectively for both ambient and refrigerated storage within a single unit. Where these are used for refrigerated storage, it is advisable to insulate the sensor to better mimic the packaging of the product. This reduces sensitivity to frequent door openings and provides a more representative reading of product temperature rather than air temperature alone.",
+                "tag": "p"
+            },
+            {
+                "content": "Data loggers",
+                "tag": "h4"
+            },
+            {
+                "content": "You can use data loggers as an alternative to manual min/max thermometers, but you must set them up correctly to identify temperature excursions and generate alerts when temperatures fall outside acceptable limits. You should understand the manufacturer's instructions, device indicators, and the actions required when alerts occur.",
+                "tag": "p"
+            },
+            {
+                "content": "For refrigerated storage, including vaccine and vehicle fridges, you should download and review data at least weekly. Recording intervals vary, but approximately every 15-30 minutes is generally recommended, providing sufficient detail without creating excessive data.",
+                "tag": "p"
+            },
+            {
+                "content": "Although data loggers automate temperature recording, they do not replace daily checks. Staff must still confirm that devices are working correctly and that no alerts have been triggered.",
+                "tag": "p"
+            },
+            {
+                "content": "Smart thermometers",
+                "tag": "h4"
+            },
+            {
+                "content": "Smart thermometers\u00a0 use Bluetooth or Wi\u2011Fi technology to continuously record temperatures, with data accessible through an app or online platform.",
+                "tag": "p"
+            },
+            {
+                "content": "When you configure these systems properly, they can provide automatic alerts if temperatures fall outside the required range, enabling prompt action. Before purchasing, ensure the system is suitable for your storage arrangements, connectivity, and staff availability to respond to alerts.",
+                "tag": "p"
+            },
+            {
+                "content": "As with any temperature monitoring system, staff must understand how it works, what alerts mean, and the actions required when a temperature excursion occurs.",
+                "tag": "p"
+            },
+            {
+                "content": "External monitoring services",
+                "tag": "h4"
+            },
+            {
+                "content": "Third-party monitoring services can install equipment, monitor temperatures remotely, and notify users of excursions, often by text or phone call. While these services can reduce workload, responsibility remains with the holder to respond to alerts, maintain records, and ensure they are available for inspection.",
+                "tag": "p"
+            },
+            {
+                "content": "A good tip to help ensure you are taking accurate readings is choose a temperature monitoring system that is calibrated.",
+                "tag": "p"
+            },
+            {
+                "content": "Shared responsibility and staff training",
+                "tag": "h3"
+            },
+            {
+                "content": "Temperature monitoring should not be the responsibility of just one person. Everyone involved in storing, handling, or transporting veterinary medicines should understand the procedures, including:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://vmd.blog.gov.uk/2026/08/13/heatwaves-temperature-control-and-veterinary-medicines-how-to-store-medicines-safely/",
+        "blog": "Veterinary Medicines Directorate",
+        "blog_link": "https://vmd.blog.gov.uk",
+        "description": "VMD Voices: Our Experts Explain With the UK experiencing summer heatwaves in 2026, it\u2019s important that vet practices and retailers are checking how veterinary medicines are stored and temperatures monitored. High temperatures can increase the risk of medicines being kept \u2026"
+    },
+    {
+        "title": "A Level and level 3 results 2026\u00a0at a glance: key trends and context for teachers\u00a0",
+        "authors": [
+            "Amanda Swann"
+        ],
+        "posted_on": "2026-08-13T09:30:00",
+        "categories": [
+            "A levels and GCSEs",
+            "Assessments",
+            "Exams",
+            "Results",
+            "Vocational and technical qualifications"
+        ],
+        "content": [
+            {
+                "content": "More than 880,000 A and AS Level results have been issued today to students in England, with another 221,000 results for vocational and technical qualifications.",
+                "tag": "p"
+            },
+            {
+                "content": "These results open doors for students to move on to the next stage in their lives, whether that be university, employment or apprenticeships. And they serve as recognition of \u2013 and reward for \u2013 the effort and quality of work displayed by those students. I offer my congratulations to everyone receiving results today.",
+                "tag": "p"
+            },
+            {
+                "content": "Here are some key details about today\u2019s A Level and level 3 results",
+                "tag": "h2"
+            },
+            {
+                "content": "What are the trends behind the results?",
+                "tag": "h2"
+            },
+            {
+                "content": "This year\u2019s results picture is one of stability.",
+                "tag": "p"
+            },
+            {
+                "content": "Small changes in grade distributions year-on-year are normal. Looking across A Level subjects with large enough entries to compare meaningfully, most show only small movements up or down. Some rising, some falling, typically by less than a percentage point either way.",
+                "tag": "p"
+            },
+            {
+                "content": "This kind of variation happens every year and largely reflects the different mix of students taking each subject. The standard of work required to gain a particular grade remains constant.",
+                "tag": "p"
+            },
+            {
+                "content": "There are noteworthy patterns and trends in the popularity of subjects at A Level. Maths was the subject studied by more students than any other, accounting for about one in 8 of the A Level results released today. Maths A Level has increased in size as a proportion of entries in recent years, and that trend has continued this year. Further maths A Level too has again seen strong growth this year.",
+                "tag": "p"
+            },
+            {
+                "content": "After maths, the most commonly-taken A Level subjects were psychology and biology \u2013 the same as in 2025 \u2013 and chemistry and economics complete this year\u2019s top 5.",
+                "tag": "p"
+            },
+            {
+                "content": "The popularity of maths at A Level means outcomes have a significant effect on national trends.",
+                "tag": "p"
+            },
+            {
+                "content": "The very small rise in the proportion of students achieving A* or A at A Level overall (from 28.2% in 2025 to 28.3% this year) has been largely driven by a small increase in those grades in maths (from 41.6% in 2025 to 42.1% this year).",
+                "tag": "p"
+            },
+            {
+                "content": "The standard of work required to achieve any grade in maths this year was the same as previous years, so this rise reflects a slightly stronger cohort of students.",
+                "tag": "p"
+            },
+            {
+                "content": "While subject level changes such as this are important, the overall national picture for A Level results in 2026 is one of stability.",
+                "tag": "p"
+            },
+            {
+                "content": "What do I need to know about AS and A Level results?",
+                "tag": "h2"
+            },
+            {
+                "content": "What do I need to know about level 3 vocational and technical qualification results?",
+                "tag": "h2"
+            },
+            {
+                "content": "Where to find more details about A Level and level 3 results",
+                "tag": "h2"
+            },
+            {
+                "content": "Ofqual has published a statistical report on this year\u2019s results. This is the place to go if you want more in-depth analysis of the results and outcomes for A Levels, AS, applied generals, tech levels and technical qualifications within T Levels.",
+                "tag": "p"
+            },
+            {
+                "content": "We have also published interactive visualisations of level 3 results on Ofqual Analytics. This gives detailed breakdowns of outcomes according to types of school or college, by sex, for subject combinations, and more. This year is the first time you will be able to see results and subject uptake broken down geographically at local authority level.",
+                "tag": "p"
+            },
+            {
+                "content": "Results day each August represents the culmination of hard work and commitment by students, teachers and many others. Congratulations to all students collecting their results this week.",
+                "tag": "p"
+            },
+            {
+                "content": "Amanda Swann, Executive Director for Delivery, Ofqual",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofqual.blog.gov.uk/2026/08/13/a-level-and-level-3-results-2026-at-a-glance-key-trends-and-context-for-teachers/",
+        "blog": "The Ofqual blog",
+        "blog_link": "https://ofqual.blog.gov.uk",
+        "description": "More than 880,000 A and AS Level results have been issued today to students in England, with another 221,000 results for vocational and technical qualifications. These results open doors for students to move on to the next stage in their lives and recognise the effort and quality of work they have displayed."
+    },
+    {
         "title": "How the Care Leaver Apprenticeship Bursary supported my journey, by Grace",
         "authors": [
             "Skills England Communications"
