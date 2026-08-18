@@ -1,5 +1,481 @@
 [
     {
+        "title": "How can a\u00a0business be confident that a\u00a0digital proof of age\u00a0belongs to the person presenting it?",
+        "authors": [
+            "Paul Donati"
+        ],
+        "posted_on": "2026-08-18T14:13:28",
+        "categories": [
+            "Digital identity"
+        ],
+        "content": [
+            {
+                "content": "The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2026\u00a0(\u201cthe Mandatory Licensing Conditions\u201d), once it is approved by Parliament and has come into force, will enable retailers and hospitality venues in England and Wales to accept digital proofs of age when\u00a0selling or\u00a0supplying alcohol, provided the statutory conditions are met and subject to any local licensing conditions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As part of the new statutory conditions, licence holders must ensure that\u00a0the digital proof of age being presented\u00a0is\u00a0both:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This blog post may be helpful for licence holders and digital verification service\u00a0(DVS)\u00a0providers. It explains\u00a0how\u00a0DVS\u00a0could\u00a0be used to\u00a0help\u00a0ensure\u00a0those requirements are met.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The regulations are technology-agnostic\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Mandatory Licensing Conditions\u00a0do not prescribe a specific operational or technical implementation approach to confirming that\u00a0someone is old enough to\u00a0purchase\u00a0alcohol.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are\u00a0different ways\u00a0that a\u00a0DVS\u00a0could be used to reach \u201ca medium level of confidence\u201d in someone\u2019s age. There are also\u00a0different ways\u00a0to confirm whether\u00a0the person in front of a licence holder that is trying to\u00a0purchase\u00a0alcohol is\u00a0who they claim to be and that they are \u201cbound\u201d to that age information.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OfDIA\u00a0intends to publish, soon\u00a0and as\u00a0appropriate, some \u201cservice patterns\u201d that will\u00a0demonstrate\u00a0different\u00a0possible\u00a0approaches. For the purposes of this blog post,\u00a0and\u00a0to make explaining the concepts of \u201clevel of confidence\u201d and \u201cbinding\u201d\u00a0simpler\u00a0to understand, assume that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You\u00a0can\u2019t\u00a0tell if digital proof of age is good enough\u00a0only\u00a0by looking at it\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "It is increasingly easy to create convincing replicas of\u00a0identity documents that confirm your age; with digital proofs of age, this could be even easier thanks to generative AI.\u00a0For that reason, licence holders must not rely on visual checks of a digital proof of age \u2013 for example by\u00a0visually inspecting\u00a0a customer\u2019s phone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Good quality\u00a0digital proofs of age can be reliably verified for their authenticity.\u00a0The only reliable way to check digital proofs of age is using technology,\u00a0something\u00a0we\u00a0refer to as a \u201cprogrammatic check\u201d.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Instead of visual inspection, licence holders must use a\u00a0registered\u00a0DVS\u00a0to check\u00a0that\u00a0the digital proof of age being presented by their customers\u00a0is genuine.\u00a0Only DVSs\u00a0that\u00a0appear on the\u00a0government\u2019s\u00a0DVS register\u00a0can be used\u00a0for those\u00a0checks.\u00a0Think of this as the equivalent of asking a user to make a contactless payment or to enter their PIN code on a card terminal.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, the\u00a0identity\u00a0that has been used to create the\u00a0digital proof of age must have been verified to at least a medium level of confidence by a registered DVS provider.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cMedium\u00a0level of confidence\u201d\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The\u00a0\u201clevel of confidence\u201d\u00a0you have\u00a0in the age and identity information\u00a0being claimed\u00a0by a customer\u00a0is a measure of how sure you can be\u00a0that the claim is true.\u00a0The Mandatory Licensing Conditions prescribe that a \u201cmedium\u201d level of confidence is provided according to government guidance.\u00a0This level of confidence can be met in a variety of ways, and DVS providers will be assessed as part of their trust framework certification on which levels of confidence they are able to meet.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Licence holders do not need to understand levels of confidence in detail.\u00a0DVS providers will be able to confirm to a licence holder whether their services are registered to provide information about someone\u2019s age at a medium level of confidence or higher.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Licence holders can also confirm the level of confidence a provider is able to offer, by looking at the\u00a0DVS register.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "DVS providers\u00a0take different technical approaches to \u201cbinding\u201d\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "When they build their services, DVS\u00a0providers\u00a0must\u00a0ensure that\u00a0information\u00a0about a person\u00a0relates to the person presenting it.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Different providers may achieve this in\u00a0different ways. The\u00a0amended licensing conditions\u00a0do\u00a0not\u00a0specify a particular approach.\u00a0Similarly, different service models may be used to deliver a digital proof of age. What matters is that licence holders can satisfy themselves that the\u00a0proposed approach ensures\u00a0compliance with\u00a0the\u00a0terms of the agreement\u00a0required under the\u00a0legislation\u00a0.\u00a0In many cases, this may involve contractual arrangements and\u00a0agreement that\u00a0a\u00a0registered\u00a0DVS\u00a0will be used\u00a0across\u00a0all\u00a0parts of the service chain.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, some DVS providers may choose to use\u00a0biometric authentication to help\u00a0establish\u00a0that a person is the legitimate holder of a digital proof of age.\u00a0This could\u00a0involve\u00a0a\u00a0real-time comparison of the customer\u2019s face against a reference image that was captured when they set up their digital proof of age.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Another approach could involve\u00a0PIN codes and transmission\u00a0of a photo\u00a0to a\u00a0licence holder\u2019s point of sale device,\u00a0so that the\u00a0staff member\u00a0behind the counter can\u00a0visually compare the photo\u00a0with the person in front of them.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some stakeholders have also asked about the risk of a person deliberately sharing a device or credential with somebody else, for example an older sibling sharing a proof of age with a younger sibling.\u00a0Providers are expected to manage impersonation risks appropriately and\u00a0demonstrate\u00a0that their approach is sufficiently robust.\u00a0Licence holders\u00a0should conduct their own due diligence to assure themselves that\u00a0the\u00a0DVS providers they work with\u00a0deliver DVS\u00a0in line\u00a0with\u00a0their legal obligations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The legislation does not mandate a particular technology. This flexibility supports innovation while\u00a0maintaining\u00a0trust.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What matters is whether the provider can\u00a0demonstrate\u00a0that it delivers the required level of assurance. This includes confidence that the person meets the required age and that the age information relates to the person presenting it, while sharing only the information necessary for the\u00a0digital\u00a0age verification.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Every service on the DVS register is audited, so\u00a0licence holders\u00a0can trust it\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "By requiring the use of a registered DVS, we can be more confident that a proof of age is reliable, technically robust and is not being used by an impostor.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Services on the DVS register are regularly, independently audited and certified against the\u00a0UK digital verification services trust framework,\u00a0which are the minimum quality standards for digital verification in the UK\u00a0set by the government for those service providers who choose to be certified and appear on the DVS register. The registration and certification process is designed so that relying parties can trust services on the register without needing to conduct extensive assessments of the underlying technologies themselves.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Licence holders still need to do due diligence\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Appearing on the DVS register means that a service meets the requirements of the DVS trust framework. It does not mean that a\u00a0DVS provider\u00a0offers\u00a0a service that is compliant with the requirements of the Mandatory Licensing Conditions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Licence holders will need to satisfy themselves that a DVS they work with meets their business needs. We\u00a0anticipate\u00a0that licence holders will use contractual mechanisms and other controls to ensure, on an ongoing basis, that\u00a0DVSs\u00a0they use meet their business needs and can meet their regulatory obligations.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/08/18/how-can-a-business-be-confident-that-a-digital-proof-of-age-belongs-to-the-person-presenting-it/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2026\u00a0(\u201cthe Mandatory Licensing Conditions\u201d), once it is approved by Parliament and has come into force, will enable retailers and hospitality venues in England and Wales to accept digital proofs of age \u2026"
+    },
+    {
+        "title": "Trimming the Terabytes: How to reduce your digital storage",
+        "authors": [
+            "Tyler Shepherd, Senior M365 Engineer"
+        ],
+        "posted_on": "2026-08-18T14:10:35",
+        "categories": [
+            "Products"
+        ],
+        "content": [
+            {
+                "content": "From floppy disks to memory cards, discs to drives, we used to think of memory as physical objects. Most government departments have moved towards cloud storage, which feels as nebulous as it sounds. Everything is backed up to \u2018the cloud\u2019, but what does that mean?",
+                "tag": "p"
+            },
+            {
+                "content": "In practice, we\u2019re renting space in a data centre instead of buying physical assets. The tangible knowledge that we\u2019re soon going to \u2018run out of space\u2019 has been replaced with a feeling of security and a sense of limitlessness of the cloud. Unfortunately, it also means a monthly charge for every gigabyte that we create.",
+                "tag": "p"
+            },
+            {
+                "content": "As civil servants, we have a duty to continually monitor and assess our spending on products. We have an obligation to demonstrate value for money to the taxpayer and ensure that we are operating efficiently. To this end, our team set out to explore our SharePoint storage, interrogate the default settings and identify where we could trim and improve our digital storage.",
+                "tag": "p"
+            },
+            {
+                "content": "SharePoint version history",
+                "tag": "h2"
+            },
+            {
+                "content": "We discovered that about 66% of our SharePoint storage was made up of version history. In the background, SharePoint quietly makes copies (versions) of files as you work. Each time a document or spreadsheet is edited, a version is created and added to the SharePoint storage. If nothing is done, these versions can build up. Some of our libraries were storing up to 500 versions of each file.In some situations, maintaining a document history this detailed and comprehensive is valuable. For example, for Trade Negotiations, we would likely want to see every change that we've made to our documents, so that we can see how our approach has changed over time.",
+                "tag": "p"
+            },
+            {
+                "content": "In most cases, most of the previous versions will never be needed. We saw an opportunity to reduce our storage costs with minimal interruption to the department\u2019s work, by tackling the version history.We did this in 2 stages:",
+                "tag": "p"
+            },
+            {
+                "content": "Microsoft has a comprehensive blog on the technical steps for version control, but knowing which settings to navigate is only half the problem. This was an exercise in communicating and managing expectation. We worked with the Knowledge and Information Management (KIM) team to identify and retain essential information and reassure our users that from their perspective the impact of the work would be minimal.",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing for version trimming: research, engagement and testing",
+                "tag": "h2"
+            },
+            {
+                "content": "Given that version trimming was a big change to our SharePoint information management policy, we had to ensure due diligence by:",
+                "tag": "p"
+            },
+            {
+                "content": "Initial research revealed 2 arm's length bodies that reported a reduction in their SharePoint storage of 10% and 37% respectively from version trimming.",
+                "tag": "p"
+            },
+            {
+                "content": "Given we were the first central department (that we\u2019re aware of) to attempt version trimming, we decided to pilot the approach on 11 inactive SharePoint sites selected by the KIM team. This showed us what to expect and allowed us to tweak our approach before rollout.",
+                "tag": "p"
+            },
+            {
+                "content": "We learned from the pilot that version trimming could run successfully in DBT, with indicative space savings of around 10% per site. After careful evaluation of the lessons learned from the pilot, we moved on to establishing our scope. This was identifying which SharePoint sites we should run the version trimming on, and which would be excluded. We consulted with various teams (including KIM and the Free Trade Agreements Project Management Office) to identify any SharePoint sites that should be out of scope.",
+                "tag": "p"
+            },
+            {
+                "content": "Consulting our users",
+                "tag": "h2"
+            },
+            {
+                "content": "We launched a communications campaign to raise awareness of our planned activity, to capture feedback and to allow colleagues to raise exemption requests. We delivered the campaign through an interactive Power App. The app kept all incoming and outgoing information about the activity in one place and reduced time spent answering questions and gathering feedback. Allowing users to raise exemption requests through the app helped mitigate the risk of deleting versions that ought to be kept. Creating a feedback channel ensured that concerns were logged before they were escalated, minimising the risk to the project.",
+                "tag": "p"
+            },
+            {
+                "content": "Our goal was to reassure colleagues that in most cases, version trimming would not produce any noticeable changes to their work. For those that needed a more comprehensive version history, the exemption request system allowed them to engage with us and prevent unintended information loss.We faced significant challenges preparing for the consultation including:",
+                "tag": "p"
+            },
+            {
+                "content": "Launching a departmental consultation was no small feat, but necessary to mitigate user concerns and identify any additional SharePoint sites that should be out of scope.",
+                "tag": "p"
+            },
+            {
+                "content": "How successful was the version trimming?",
+                "tag": "h2"
+            },
+            {
+                "content": "The version trimming activity ran for over a week, and our analysis shows that we reduced our storage by approximately 60 terabytes. This is the equivalent of around 240 million pages of information (or 167,000 copies of War and Peace). We estimate that this was a 44.2% reduction in storage for the scoped sites. This had a significant impact on our contract renewal with Microsoft, ensuring that we did not waste money on unnecessary storage.",
+                "tag": "p"
+            },
+            {
+                "content": "No negative impacts were reported, no Service Desk tickets were raised and there were no signs that the versions that were trimmed were missed. We had saved significant cost without interrupting business as usual.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve also changed the technical policy in SharePoint, so we will continue to realise further savings over time as versions of files age. They will slowly be \u2018thinned out\u2019, so the department will no longer be keeping everything by default. The result should be a lower rate of SharePoint storage growth. ",
+                "tag": "p"
+            },
+            {
+                "content": "What more could be done?",
+                "tag": "h2"
+            },
+            {
+                "content": "This work demonstrates how we commit to value for money for the taxpayer at BIST, and how we keep considered public spending at the centre of our work. This is something all civil servants can and should do.",
+                "tag": "p"
+            },
+            {
+                "content": "Across government, we are likely to be storing petabytes of information. I hope this blog inspires our peers to continue prioritising the important work of interrogating spend and continuously working to improve efficiency.",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "Being an engineer with an idea is one thing, but it takes a lot of support to deliver a project of this scale. We started with the ambition to reduce our departmental storage costs, and we were given time and space to develop the idea into workstreams.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s a fantastic achievement for the teams involved, and we\u2019re proud that our work has delivered a notable cost saving for the department. We strongly encourage other departments to do the same.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have been inspired to see if version trimming could save your organisation money, we recommend:",
+                "tag": "p"
+            },
+            {
+                "content": "If you need advice or support getting started with reducing your organisation\u2019s digital storage without losing information, get in touch in the comments.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/08/18/trimming-the-terabytes-how-to-reduce-your-digital-storage/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "Discover how BIST's Microsoft Service team reduced SharePoint storage without interrupting normal service, using version trimming. Learn practical lessons on information management, governance, and achieving better value for taxpayers."
+    },
+    {
+        "title": "Delta Fire: British Innovation Supporting Frontline Firefighting",
+        "authors": [
+            "The King's Awards for Enterprise"
+        ],
+        "posted_on": "2026-08-18T13:48:05",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "King\u2019s Awards for Enterprise recipient Delta Fire Ltd is demonstrating how British manufacturing and innovation can help fire and rescue services respond to both established and emerging operational challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "Based in Norwich, Delta Fire designs and manufactures specialist firefighting equipment used by fire and rescue services across the UK and internationally. In 2025, the company received two King\u2019s Awards for Enterprise, recognising its achievements in Innovation and Sustainable Development.",
+                "tag": "p"
+            },
+            {
+                "content": "Norfolk Fire & Rescue Service (NFRS) has adopted a number of Delta Fire products into operational use, including for tackling wildfire and vegetation fire incidents. These include a specially configured Delta Attack 100 branch with ultra-low flow capability and the innovative Hydro-Wall hose system, providing crews with additional tactical options.",
+                "tag": "p"
+            },
+            {
+                "content": "Their experience provides a valuable example of how British-designed and manufactured firefighting technology can deliver practical benefits on the frontline and support modern firefighting tactics.",
+                "tag": "p"
+            },
+            {
+                "content": "A versatile branch for modern firefighting",
+                "tag": "h2"
+            },
+            {
+                "content": "NFRS has introduced a modified version of Delta Fire\u2019s Attack 100 hand-controlled branch across the Service.",
+                "tag": "p"
+            },
+            {
+                "content": "The branch has been configured with ultra-low flow capability, giving firefighters selectable outputs from 20 to 150 litres per minute. This enables crews to select a flow proportionate to the incident, helping them use water efficiently while retaining the capability required for more demanding firefighting operations.",
+                "tag": "p"
+            },
+            {
+                "content": "The lower flow settings are particularly valuable during wildfire and vegetation fire incidents, where controlled water application and conservation of available water supplies can be critical.",
+                "tag": "p"
+            },
+            {
+                "content": "The branch has also been integrated with NFRS appliances using 22mm hose reel tubing, providing crews with a lightweight and versatile firefighting package.",
+                "tag": "p"
+            },
+            {
+                "content": "Scott Norman, Deputy Chief Fire Officer at Norfolk Fire & Rescue Service, said:",
+                "tag": "h2"
+            },
+            {
+                "content": "\u201cHaving introduced the Delta Attack 100 across Norfolk Fire and Rescue Service, we have been extremely impressed with its performance, versatility and firefighter-focused design. The branch is lightweight, ergonomically designed and robustly constructed, making it comfortable to handle during prolonged incidents while providing the durability required for demanding operational environments.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "The branch provides variable yet consistent spray patterns and jet settings across a range of tactical scenarios. Its incorporated vane and turbine technology is designed to optimise droplet size and spray performance, supporting effective heat absorption and recognised firefighting techniques.",
+                "tag": "p"
+            },
+            {
+                "content": "Scott Norman added:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cOne of the standout features is the excellent flow range, with selectable outputs from 20 to 150 litres per minute. This flexibility allows crews to apply water efficiently and proportionately to the incident, supporting both effective firefighting and water conservation. The lower flow settings have proven particularly beneficial during wildfire and vegetation fire incidents, where controlled water application is essential.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Protecting assets and responding to wildfire risk",
+                "tag": "h2"
+            },
+            {
+                "content": "NFRS has also adopted Delta Fire\u2019s Hydro-Wall Nozzle, an innovative hose-based system designed to rapidly create a substantial curtain of water.",
+                "tag": "p"
+            },
+            {
+                "content": "Lightweight, portable and quick to deploy, Hydro-Wall provides incident commanders with an additional tactical option across a range of incidents.",
+                "tag": "p"
+            },
+            {
+                "content": "During wildfire and vegetation fires, the system can be deployed to create a protective barrier that helps slow fire spread and support containment operations. It can also establish a cooling water curtain to help protect properties, infrastructure and other assets threatened by radiant heat and advancing fire fronts.",
+                "tag": "p"
+            },
+            {
+                "content": "Once established, Hydro-Wall can remain safely in situ and continue providing protection while firefighters focus on other critical tasks. This can provide significant operational benefits during prolonged incidents where personnel and resources must be deployed efficiently.",
+                "tag": "p"
+            },
+            {
+                "content": "Speaking about the system, Scott Norman said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe Hydro-Wall hose system has proven to be an innovative and highly practical addition to Norfolk Fire and Rescue Service\u2019s operational toolkit, providing a simple yet effective solution to a wide range of incident types.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "He continued:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWhat makes the Hydro-Wall particularly impressive is its ability to create a substantial wall of water in spray form, providing a versatile tactical option for incident commanders. During wildfire and vegetation fire incidents, it can be deployed to create a protective barrier that helps slow fire spread and supports containment operations. Equally, it can be used to establish a cooling water curtain to protect properties, infrastructure and other assets threatened by radiant heat and advancing fire fronts.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Hydro-Wall Nozzle hose in action preventing a wildfire advancing.",
+                "tag": "p"
+            },
+            {
+                "content": "Innovation in response to a changing climate",
+                "tag": "h2"
+            },
+            {
+                "content": "The operational adoption of these products comes as fire and rescue services face changing risks associated with climate change, including the challenge presented by larger and more frequent wildfire and vegetation fire incidents.",
+                "tag": "p"
+            },
+            {
+                "content": "The Attack 100\u2019s ultra-low flow capability and the Hydro-Wall system demonstrate different aspects of Delta Fire\u2019s approach to innovation: developing practical firefighting equipment that enhances operational capability while supporting more efficient use of resources such as water.",
+                "tag": "p"
+            },
+            {
+                "content": "Highlighting the importance of innovation in responding to these emerging risks, Scott Norman said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAs fire and rescue services continue to adapt to the increasing challenges posed by extreme weather incidents, including larger and more frequent wildfire events, the Hydro-Wall represents the type of innovative thinking that is required across the sector. It delivers a practical, cost-effective solution that enhances firefighter capability while helping to protect communities and the environment from escalating risks.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "From Norwich to the frontline",
+                "tag": "h2"
+            },
+            {
+                "content": "For Delta Fire, the adoption of its technology by its local fire and rescue service provides valuable real-world validation of products designed and manufactured in Norwich.",
+                "tag": "p"
+            },
+            {
+                "content": "Operational feedback from services such as NFRS also helps Delta Fire understand the evolving requirements of frontline firefighters and identify opportunities for continuous product improvement.",
+                "tag": "p"
+            },
+            {
+                "content": "The relationship demonstrates the value of close engagement between UK manufacturers and public services, bringing together industry innovation and frontline operational experience to help ensure firefighting technology responds to the challenges faced by modern fire and rescue services.",
+                "tag": "p"
+            },
+            {
+                "content": "Reflecting on the relationship, Scott Norman said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cBy working closely together, manufacturers and fire services can combine operational experience with product innovation to create solutions that directly address emerging challenges. This partnership approach has produced benefits not only for the people of Norfolk but also for the wider fire and rescue sector, providing an example of how collaborative working can drive meaningful improvements in public safety and operational effectiveness.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Delta Fire\u2019s two King\u2019s Awards for Enterprise recognise the company\u2019s achievements in Innovation and Sustainable Development, and its commitment to showing how British manufacturing can deliver practical solutions to real-world challenges. From its manufacturing base in Norwich, Delta Fire is combining innovation and sustainable thinking to strengthen firefighting capability, protect communities and respond to emerging environmental risks in the UK and internationally.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about Delta Fire: Products - Delta Fire",
+                "tag": "p"
+            },
+            {
+                "content": "Feel inspired? Apply for a King's Award for Enterprise this year: The King's Awards for Enterprise: Apply - GOV.UK",
+                "tag": "p"
+            }
+        ],
+        "link": "https://kingsawards.blog.gov.uk/2026/08/18/delta-fire-british-innovation-supporting-frontline-firefighting/",
+        "blog": "The King\u2019s Awards for Enterprise",
+        "blog_link": "https://kingsawards.blog.gov.uk",
+        "description": "King\u2019s Awards for Enterprise recipient Delta Fire Ltd is demonstrating how British manufacturing and innovation can help fire and rescue services respond to both established and emerging operational challenges. Based in Norwich, Delta Fire designs and manufactures specialist firefighting equipment \u2026"
+    },
+    {
+        "title": "Reports claiming planning reforms make it easier to approve unauthorised Traveller sites are wrong",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-08-18T13:31:28",
+        "categories": [
+            "Planning"
+        ],
+        "content": [
+            {
+                "content": "Several newspapers have claimed changes to the National Planning Policy Framework (NPPF) will make it easier for unauthorised Traveller developments to get planning permission. This is not correct.",
+                "tag": "p"
+            },
+            {
+                "content": "The claims have misinterpreted the policy and the important changes we have made.",
+                "tag": "p"
+            },
+            {
+                "content": "The facts",
+                "tag": "p"
+            },
+            {
+                "content": "Put simply, the reforms do not make it easier to secure permission for unauthorised development. In fact, they make the planning framework clearer and stronger by giving greater weight to intentional breaches of planning rules.",
+                "tag": "p"
+            },
+            {
+                "content": "An MHCLG spokesperson said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe government is cracking down on illegal traveller sites and it is completely\u00a0misleading to\u00a0suggest\u00a0otherwise.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cOur new planning rules explicitly tackle any\u00a0potential environmental damage and\u00a0transport impacts, and make it harder for people to get retrospective permission for development that were built without approval.\u201d",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/08/18/reports-claiming-planning-reforms-make-it-easier-to-approve-unauthorised-traveller-sites-are-wrong/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "Several newspapers have claimed changes to the National Planning Policy Framework (NPPF) will make it easier for unauthorised Traveller developments to get planning permission. This is not correct. The claims have misinterpreted the policy and the important changes we have \u2026"
+    },
+    {
         "title": "Coverage of changes to the National Planning Policy Framework",
         "authors": [
             "mhclgpress"
