@@ -1,0 +1,515 @@
+[
+    {
+        "title": "What is Salmonella and what can you do to avoid catching it?\u00a0",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-08-24T16:15:35",
+        "categories": [
+            "Protecting the country's health"
+        ],
+        "content": [
+            {
+                "content": "Salmonella is the group of bacteria behind one of the most common types of food poisoning in the UK, and while for most people it means a few unpleasant days at home, for others it can lead to serious illness. With UKHSA currently helping to investigate a national outbreak that may be linked to eggs imported from outside of the UK, we've answered some of the questions we're most commonly asked about this bacteria, the symptoms it causes, and how we track it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is Salmonella?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "There are more than 2,500 different types of Salmonella. These bacteria live naturally in the guts of many domestic and wild animals, including chickens, cattle, pigs, hedgehogs, snakes and lizards.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The type most commonly responsible for making people ill in England is Salmonella Enteritidis.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Infection with Salmonella is known as salmonellosis.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How do you catch Salmonella?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Most people become infected through eating contaminated food. Salmonella can be found in foods such as eggs, chicken, pork and dairy products. Fruit and vegetables can also carry the bacteria if they've been in contact with livestock, manure or untreated water.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is possible in rare cases to catch Salmonella from close contact with someone who has diarrhoea, or from contact with an unwell animal.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Good hygiene is vital. Wash your hands thoroughly after using the toilet and before preparing or handling food, wash utensils and chopping boards with hot water and cook food thoroughly. If you have symptoms yourself, avoid preparing food for others where you can.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are the symptoms?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Symptoms typically include diarrhoea, stomach cramps and sometimes vomiting and fever. These usually appear between 12 and 72 hours after infection, and illness typically lasts 4 to 7 days.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For most people, Salmonella causes a bout of gastroenteritis that clears up on its own. However, some people are at greater risk of more severe illness, including bloodstream infections, sepsis and, in rare cases, multi-organ failure.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How should it be treated?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Most people can manage Salmonella infection without needing to see a doctor.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The key things to do are:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are also some things to avoid. Don't drink fruit juice or fizzy drinks, as these can make diarrhoea worse. Don't dilute baby formula, and don't give children under 12 medicines to stop diarrhoea, or give aspirin to children under 16.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A pharmacist can help if you or your child show signs of dehydration, are in a higher-risk group, or need something to stop diarrhoea for a few hours. They may suggest oral rehydration sachets.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You should call NHS 111 if you or your child has signs of dehydration that don't improve with rehydration sachets, can't keep fluids down, have bloody diarrhoea, or have diarrhoea that is not reducing in 3 days. If you're worried about a baby under 12 months, or a child under 5 shows signs of dehydration, call 111.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Call 999 or go to A&E for more serious symptoms, such as vomiting blood, a sudden severe headache or tummy ache, breathing difficulties, confusion, or blue, grey, pale or blotchy skin.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is anyone more at risk, and what should they do differently?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "While Salmonella causes a short, unpleasant illness for most people, some groups are more vulnerable to severe disease. This includes older people, pregnant women, young children and anyone with a weakened immune system such as those with cancer, kidney or liver failure, uncontrolled diabetes, steroid treatment or chemotherapy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you're in one of these groups, it's worth taking extra care, particularly around eggs. Eggs remain a healthy and safe part of the diet when properly handled and cooked, and you don't need to stop eating them. Ensure you use eggs with the British Lion mark or marked \u2018Laid in Britain\u2019. If you're eating out or buying food containing eggs that may not be British, it's safest to make sure any eggs you eat are thoroughly cooked. This means avoiding dishes such as soft boiled or poached eggs, fresh mayonnaise, mousses, souffl\u00e9s and hollandaise sauce, unless you know the eggs used meet these assurance standards.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you're in a vulnerable group and develop symptoms of Salmonella, it's worth seeking medical advice promptly rather than waiting to see if things improve on their own.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does UKHSA do to monitor Salmonella and other gastro infections?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "UKHSA's Gastrointestinal Infections, Food Safety and One Health (GIFSOH) division is responsible for monitoring cases of Salmonella and other gastrointestinal infections across the country.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This monitoring relies heavily on whole genome sequencing (WGS), a laboratory technique that allows scientists to compare the genetic fingerprint of bacteria from different cases.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When an unusual increase in cases is detected, UKHSA launches an outbreak investigation. This involves working closely with public health and food safety agencies across the UK and devolved administrations, as well as the Animal and Plant Health Agency (APHA) and the Food Standards Agency (FSA). Investigators interview affected people to gather information about their symptoms and possible sources of infection, helping to build a picture of where contamination may have occurred and what control measures are needed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where can I find more information?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "You can find wider UKHSA data on Salmonella on our website.\u202f\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/08/24/what-is-salmonella-and-what-can-you-do-to-avoid-catching-it/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "With UKHSA currently helping to investigate a national outbreak that may be linked to eggs imported from outside of the UK, we've answered some of the questions we're most commonly asked about this bacteria, the symptoms it causes, and how we track it.\u00a0"
+    },
+    {
+        "title": "Services Week 2026 Wrap Up",
+        "authors": [
+            "Steph Rowe, GDS Senior Events Manager"
+        ],
+        "posted_on": "2026-08-24T14:22:54",
+        "categories": [
+            "Digital, Data and Technology",
+            "Events",
+            "People and skills",
+            "Service design"
+        ],
+        "content": [
+            {
+                "content": "Thank you to everyone who made Services Week 2026 such a resounding success! It was inspiring to see the community come together to share, learn, and collaborate on improving public services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This year, we saw an incredible turnout with around 4,000 attendees across 80 sessions, delivered by community members from over 30 different government departments.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our most popular sessions included a talk from Lou Downe on \"Bad services: how to fix services that don\u2019t work\", the User-Centred Design (UCD) team at Ofgem gave a popular demonstration on \"Practical AI for User-Centred Design: Lessons from Experimenting with AI\", and the Government Digital Service delivered an engaging session on \"The Future of the Digital Service Standard\".",
+                "tag": "p"
+            },
+            {
+                "content": "Attendees from across the community told us that Services Week has helped them learn about other services, build connections and share practical approaches to service design.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They loved getting a clearer picture of different service areas and seeing how other teams put design principles into practice.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are looking forward to hosting the event again next year with even more sessions to explore. We hope to be joined by many of you again, as well as lots of new faces.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We look forward to carrying this momentum forward, using the connections and collaborative spirit fostered over this week to continue supporting one another as we build and refine our community throughout the year ahead.",
+                "tag": "p"
+            },
+            {
+                "content": "Join the Conversation\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The energy doesn't have to end with Services Week! We encourage you to join the Services Week community on Slack using your government email address. It's the best place to stay connected with the service design community, share news, and ask questions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Introducing \"A Problem Shared\"\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "To keep the collaborative spirit alive, we are launching a new monthly initiative called 'A Problem Shared' on our government wide Slack channel. Each month, we'll feature a specific service design challenge or dilemma from a government team and invite you to share your thoughts, advice, and lessons learned.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This month\u2019s question is: ",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you have practical examples, lessons learned, useful resources, or simply a perspective to share, we'd love to hear from you.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Do you have a tricky problem or a service design question you'd like the community's help with? Post your question directly on the Slack channel, or get in touch with the GDS events team to submit your challenge for a future discussion.",
+                "tag": "p"
+            },
+            {
+                "content": "We look forward to the conversations this will spark and thank you for your continued commitment to building such a strong, collaborative community.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2026/08/24/services-week-2026-wrap-up/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "This year's Services Week saw an incredible 4,000 attendees across 80 sessions, delivered by over 30 different government departments.\u00a0We reflect on the event's success and how to stay connected to the community."
+    },
+    {
+        "title": "Two Years On: My Reflections as Chief Regulator\u00a0\u00a0",
+        "authors": [
+            "Jo Nettleton"
+        ],
+        "posted_on": "2026-08-24T09:34:17",
+        "categories": [
+            "Regulated industry",
+            "Waste crime",
+            "Water"
+        ],
+        "content": [
+            {
+                "content": "Two years ago, the Environment Agency created the Chief Regulator's Group to provide strategic leadership for regulation.\u00a0We\u2019re\u00a0helping create\u00a0a more consistent,\u00a0effective\u00a0and proportionate regulatory system and strengthening the connection between strategy,\u00a0policy\u00a0and delivery.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since\u00a0then,\u00a0my team and I have been\u00a0driving\u00a0that\u00a0transformation.\u00a0Meaningful change can take time. But we have made good strides forward as we move from improving individual parts of regulation towards creating a more joined-up and consistent regulatory system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improving transparency and access\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For the first time, the public can read Compliance Assessment Report (CAR) forms without raising an information request.\u00a0We've\u00a0now shared thousands of water quality, waste, installations, and intensive pig and poultry forms on the\u00a0Public Register Online.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the same time, improved training and assurance have raised the quality of information available to the public on permit holder performance. We're building on this momentum, with more sectors to follow.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Faster, smarter permitting\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Permitting is at the centre of our improvement work, and the Accelerated Permitting Transformation Programme is already delivering results. Queue times are at a three-year low, and the backlog has been\u00a0reduced by over three-quarters.\u00a0Enhanced validation has\u00a0also\u00a0cut determination times for complex applications by\u00a0up to\u00a0100 days.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve\u00a0also\u00a0introduced a\u00a0Priority Tracked Service\u00a0for complex multi-permit and\u00a0Nationally\u00a0Significant Infrastructure (NSIP)\u00a0sites, currently\u00a0supporting over\u00a060\u00a0developments in\u202fhousing, energy, infrastructure,\u00a0mining\u00a0and technology with strong customer feedback.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our Regulatory Services Programme is\u00a0powering our digital transformation by delivering smarter online journeys for our customers. Several types of permit applications are now fully digital, including\u202fPaper, Cardboard, and Plastic (PCP), Healthcare Waste (HCW), Waste Mattresses (WM), and Materials Recycling Facilities (MRF). Alongside this, an expansion of\u202fGOV.UK Pay\u202ffor permit applications under \u00a35,000 has saved\u00a0a significant amount of processing time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Driving forward sector improvements\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u00a0support responsible businesses to thrive sustainably\u00a0while acting firmly when standards fall short.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Two priority areas have been water quality and waste crime. In March,\u00a0we published our\u00a010-point plan\u00a0on waste\u00a0crime to\u00a0strengthen\u00a0and accelerate action in this growing area of concern. It focuses on earlier intervention and stronger enforcement against poor performers, while tightening controls and accountability across the waste supply chain.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For the first time, our water regulation teams completed more than 10,000 inspections of water company assets in a single year, identifying permit breaches in 22% of cases. This has built a clear, evidence-based picture of non-compliance which\u00a0will\u00a0shape our future regulation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By\u00a0equipping\u00a0our regulatory\u00a0teams with\u00a0better tools,\u00a0we are\u00a0enabling\u00a0them to\u00a0make\u00a0stronger use\u00a0of\u00a0data and insights.\u00a0One example\u00a0is\u00a0a\u00a0new digital system\u00a0that\u00a0will make it easier for our officers to record,\u00a0track\u00a0and manage\u00a0noncompliance,\u00a0improving follow up on\u00a0actions from previous inspections.\u00a0This\u00a0Regulatory Compliance Service (RCS) is already in use across our Water Quality inspections and will soon roll out to other sectors\u00a0including waste.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across\u00a0all\u00a0sectors, we are also developing new regulation plans that focus on the real-world outcomes we want our regulation to achieve.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are striving to provide clear,\u00a0proportionate\u00a0and predictable regulation.\u00a0That\u00a0means\u00a0reducing\u00a0uncertainty and enabling\u00a0investment by stepping back where risks are low, taking an evidence-based approach where\u00a0they\u2019re\u00a0higher, and acting firmly when needed. For example, in waste, we are setting new minimum inspection frequencies for\u202fdifferent types\u202fof sites,\u00a0focusing our effort on\u202fpoor performers\u202fand\u202fhigh\u2011risk\u202fsites whilst reducing routine regulatory activity at consistently well\u00a0performing sites.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Strengthening our regulatory\u00a0profession\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst we are accelerating our use of digital,\u00a0data\u00a0and AI,\u00a0I\u00a0firmly believe\u00a0that people\u00a0remain\u00a0at the heart of good regulation.\u00a0That\u2019s\u00a0why\u00a0we are strengthening regulation across the Environment Agency by\u00a0establishing\u00a0a Regulation Profession\u00a0and\u00a0investing in the learning, development and infrastructure needed to support\u00a0them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through accredited training and new pathways with industry and academia, we are building a confident, skilled workforce supported by\u00a0cutting-edge\u00a0digital tools.\u00a0In the waste sector for example, we are using AI and machine learning to strengthen compliance analytics, detect waste related\u00a0risks\u00a0and optimise assessments.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "New approaches\u00a0to drive progress\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "New approaches\u00a0are\u00a0key to driving progress.\u00a0We\u2019ve\u00a0recently taken up the\u00a0Lead Environmental Regulator\u00a0position on\u00a0four\u00a0pilot projects \u2013 East West Rail, Lighthouse Green Fuels, Sizewell\u00a0C\u00a0and the\u00a0Trelavour\u00a0Lithium Project. This is\u00a0providing\u00a0developers with clearer, earlier, and more coordinated environmental guidance\u00a0across environmental regulators, while maintaining\u00a0robust\u202fprotections.\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are also supporting innovation in areas like decarbonisation. Notable\u00a0regulatory\u00a0milestones include issuing the first UK refinery carbon capture and storage (CCS) permit and securing the VPI Immingham carbon\u00a0capture permit\u00a0-\u00a0both enabling significant industrial decarbonisation.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through\u00a0our commitment to proportionate regulation\u00a0and delivering environmental outcomes,\u00a0we\u2019re\u00a0taking firm action where risks are high while exploring opportunities to step back where risks are low.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Earned Autonomy\u00a0programme\u00a0is\u00a0one\u00a0example.\u00a0We're\u00a0working with trusted partners such as the Rivers Trust, National\u00a0Trust\u00a0and Forestry Commission to deliver nature recovery projects faster and more efficiently, while developing new standard rule permits, increasing exemptions, and working towards a Nature Recovery Regulatory Position Statement. A recent Regulatory Position Statement (RPS) for low-risk abstraction for nature recovery actions and fish or eel passage builds on an earlier low-risk impounding works RPS, allowing a more proportionate, risk-based approach that removes unnecessary barriers to habitat restoration, nature recovery and natural flood management projects.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our ambition is a regulatory system that is digitally enabled, risk-driven,\u00a0transparent\u00a0and easier to navigate. By combining better data, stronger regulatory\u00a0capability\u00a0and smarter technology, we can target our efforts where they achieve the greatest environmental outcomes while providing greater certainty for those we regulate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While our transformation is by no means complete, action is underway.\u00a0We have a clear understanding of what needs to be done.\u00a0Independent reviews by\u00a0important\u00a0bodies such as the Office for Environmental Protection and the National Audit Office,\u00a0alongside\u00a0recommendations\u00a0from\u00a0Dan\u00a0Corry\u00a0and John Fingleton,\u00a0continue to act as catalysts for change.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Lasting change cannot be delivered by the Environment Agency alone. It depends on Government setting new policies and reforming legislation and on those we regulate\u00a0working with us towards a shared ambition of better environmental outcomes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There is far more happening than I can cover in one blog. In the coming months, I will publish my next Chief Regulator report, providing a detailed overview of progress against our EA2030 strategy and the vision I outlined in my\u00a0previous\u00a0report.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Please follow the\u00a0Chief Regulator\u2019s LinkedIn page\u00a0for\u00a0further\u00a0updates.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/08/24/two-years-on-my-reflections-as-chief-regulator/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Two years ago, the Environment Agency created the Chief Regulator's Group to provide strategic leadership for regulation. We\u2019re helping create a more consistent, effective and proportionate regulatory system and strengthening the connection between strategy, policy and delivery."
+    },
+    {
+        "title": "Forests for water: applying the UK Forestry Standard in practice",
+        "authors": [
+            "Chris Waterfield"
+        ],
+        "posted_on": "2026-08-24T08:00:00",
+        "categories": [
+            "Climate change and resilience",
+            "Nature and biodiversity",
+            "Water",
+            "Woodland creation",
+            "Woodland management"
+        ],
+        "content": [
+            {
+                "content": "In this blog, I will cover the practical steps forest managers can take to manage their water environment. These steps include maintaining buffer zones, minimising soil disturbance and the careful timing of forest operations to protect watercourses and downstream communities. When forests are properly managed, they can protect water systems, especially with climate change intensifying flood and drought risks.",
+                "tag": "p"
+            },
+            {
+                "content": "Water catchment management",
+                "tag": "h2"
+            },
+            {
+                "content": "Water is a fundamental natural resource that underpins ecosystems, agriculture and industry. Trees, woodlands and forests influence how water is captured, stored and released.",
+                "tag": "p"
+            },
+            {
+                "content": "When rain falls on a woodland, trees intercept much of it before it ever reaches the soil. What does reach the ground tends to soak in rather than run off the surface, partly because tree roots loosen the soil and create channels for water to penetrate. Tree roots also anchor the soil and reduce erosion. From there, water makes its way back to the atmosphere through evapotranspiration, which is the combined process of evaporation from the soil surface and the moisture plants draw up and release through their leaves.",
+                "tag": "p"
+            },
+            {
+                "content": "As a result, woodland creation and management play an important role in determining both water quantity and water quality across an entire catchment (the area of land where all surface water collects and drains to a single outlet).",
+                "tag": "p"
+            },
+            {
+                "content": "The UK Forestry Standard (UKFS) places safeguarding the water environment at the heart of sustainable forest management. It recognises forest systems as integral parts of integrated catchment management, where land use must balance environmental protection with social and economic objectives.",
+                "tag": "p"
+            },
+            {
+                "content": "Well planned and managed forests can protect water resources and support freshwater ecosystems, provided forestry operations are designed to avoid adverse impacts on hydrology and sensitive water environments.",
+                "tag": "p"
+            },
+            {
+                "content": "Water protection benefits",
+                "tag": "h2"
+            },
+            {
+                "content": "Species-rich, diverse forests can provide strong protection for water resources when designed and managed appropriately. Permanent vegetation cover, limited soil disturbance and relatively low chemical inputs mean that woodland generally poses a lower risk to water quality than many alternative land uses. Trees help stabilise soils, reduce erosion, intercepting nutrients and pollutants before they reach watercourses.",
+                "tag": "p"
+            },
+            {
+                "content": "The UKFS requires forestry operations to protect both surface water and groundwater, reflecting legal obligations and good practice. Buffer areas alongside watercourses are a key measure, reducing sediment delivery, pesticide drift and nutrient runoff. These buffers also protect riverbanks and allow riparian habitats (the interface between land and a watercourse) to develop, delivering wider ecological benefits.",
+                "tag": "p"
+            },
+            {
+                "content": "Flood risk management",
+                "tag": "h2"
+            },
+            {
+                "content": "Flooding is an increasing risk across the UK, driven by climate change and land\u2011use pressures. Forests can contribute to flood risk management by intercepting rainfall, increasing infiltration and slowing the movement of water through catchments. Woodland soils with good structure and organic matter can store significant volumes of water, reducing rapid runoff during heavy rainfall.",
+                "tag": "p"
+            },
+            {
+                "content": "The UKFS supports the use of woodland as part of a natural flood management approach, particularly where planting is targeted in areas upstream of communities at risk. However, it also highlights that poorly planned and managed forestry can increase flood risk.",
+                "tag": "p"
+            },
+            {
+                "content": "Inappropriate drainage, road construction or large\u2011scale harvesting can accelerate runoff and sediment delivery to rivers. Forest design and operational planning must therefore ensure that woodland management does not increase flood risk to downstream communities or infrastructure.",
+                "tag": "p"
+            },
+            {
+                "content": "Freshwater ecology",
+                "tag": "h2"
+            },
+            {
+                "content": "Forests influence freshwater ecosystems through their effects on shading, water temperature, sediment inputs and organic material. Riparian woodland is recognised by the UKFS as a priority habitat that supports diverse plant and animal communities, providing important ecological connectivity along rivers and streams.",
+                "tag": "p"
+            },
+            {
+                "content": "The UKFS requires forest managers to identify and protect freshwater habitats, including streams, rivers, wetlands and spawning areas essential for the reproduction and development of aquatic wildlife. Small watercourses, even those less than one metre wide, are recognised as ecologically important and must be protected from compaction, sedimentation and pollution.",
+                "tag": "p"
+            },
+            {
+                "content": "Appropriate buffer zone management, native species planting and careful timing of forest operations will all help safeguard freshwater ecology while supporting wider woodland objectives.",
+                "tag": "p"
+            },
+            {
+                "content": "Planting near water bodies",
+                "tag": "h2"
+            },
+            {
+                "content": "Planning forestry operations near water bodies requires you to think at a catchment scale \u2013 considering not just the land in front of you, but how your activities could affect water further downstream.",
+                "tag": "p"
+            },
+            {
+                "content": "The UKFS requires woodland creation and management proposals to consider downstream water supplies, designated conservation sites and water\u2011dependent habitats. Where activities may affect water quantity or quality, you should engage early with relevant authorities.",
+                "tag": "p"
+            },
+            {
+                "content": "In England, if you are planning to plant within 8 metres of a main river, 16 metres of a tidal estuary where there are flood defences, or within Flood Zones 2 or 3, you may be required to assess the flood risks of your activity and get a permit from the Environment Agency.",
+                "tag": "p"
+            },
+            {
+                "content": "Minimum buffer widths are set out by the UKFS to protect watercourses, lakes and reservoirs, with wider buffers applied where sites are particularly sensitive, slopes are steep or water supplies are present. Forest drainage systems must discharge before buffer areas and never directly into water bodies. Infrastructure such as bridges and culverts must be designed to avoid erosion, bank instability and barriers to fish movement.",
+                "tag": "p"
+            },
+            {
+                "content": "Climate change implications",
+                "tag": "h2"
+            },
+            {
+                "content": "Climate change is placing growing pressure on the water environment, bringing more intense rainfall, higher flood risk, longer dry periods and rising waterbody temperatures. The UKFS integrates climate change adaptation into woodland planning, requiring forest managers to ensure their woodlands are resilient to both wetter and drier conditions, and to pick species that are appropriate to future climate conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "Woodlands can help moderate extreme water flows, stabilise soils and provide shade, helping to regulate water temperatures to benefit aquatic species. At the same time, forest infrastructure and drainage systems must be designed to cope with projected changes in rainfall intensity and volume. Planning for climate change is therefore a core element of sustainable forest management under the UKFS.",
+                "tag": "p"
+            },
+            {
+                "content": "Water quality management",
+                "tag": "h2"
+            },
+            {
+                "content": "Protecting water quality is both a legal requirement and a central principle of the UKFS. Forestry operations must not allow polluting substances to enter controlled waters, including streams, rivers, lakes and groundwater. You must carefully manage use of pesticides, fertilisers, fuels and oils if your forest is to be managed sustainably.",
+                "tag": "p"
+            },
+            {
+                "content": "You should minimise chemical use and make sure any applications are planned carefully to avoid runoff and leaching into watercourses. Keep storage and refuelling areas locked, well away from watercourses and have a plan in case of spillages or pollution incidents. These measures help protect drinking water supplies, aquatic habitats and public confidence in sustainable forestry.",
+                "tag": "p"
+            },
+            {
+                "content": "Operational guidelines",
+                "tag": "h2"
+            },
+            {
+                "content": "Effective water protection depends on translating principles into day\u2011to\u2011day practice. Before work begins, your forest management and operational plans should identify water features, sensitive soils and drainage pathways. Use maps and site assessments to guide contractors and managers during operations.",
+                "tag": "p"
+            },
+            {
+                "content": "Key principles to follow include:",
+                "tag": "p"
+            },
+            {
+                "content": "Special considerations for water",
+                "tag": "h2"
+            },
+            {
+                "content": "Some locations require additional safeguards under the UKFS. These include drinking water catchments, designated conservation sites and areas supporting sensitive freshwater species such as freshwater pearl mussels and Atlantic salmon. In such cases, you will need wider buffers, stricter controls on operations and you may require closer liaison with regulators.",
+                "tag": "p"
+            },
+            {
+                "content": "Riparian zones are also key pathways for invasive non\u2011native species such as Himalayan balsam and American skunk cabbage. These can spread and require coordinated control to protect watercourses and native habitats.",
+                "tag": "p"
+            },
+            {
+                "content": "Where forestry interacts with floodplains, consider opportunities to restore riparian and wet woodland, reconnect rivers to floodplains and enhance natural water storage, subject to regulatory requirements.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2026/08/24/forests-for-water-applying-the-uk-forestry-standard-in-practice/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Chris Waterfield, Carbon and Water Woodland Advisor, explains how you can apply UK Forestry Standards to create and manage woodlands to improve flood alleviation, water quality and aquatic habitats."
+    }
+]
