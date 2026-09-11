@@ -1,5 +1,576 @@
 [
     {
+        "title": "DHSC Abortion Notification Service Alpha Assessment Service",
+        "authors": [
+            "Man-Yee Lam"
+        ],
+        "posted_on": "2026-09-11T15:21:08",
+        "categories": [
+            "Alpha",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From:\u00a0DHSCAssessment date:\u00a019/06/2025Amber review date:\u00a003/09/2026Stage:\u00a0Alpha reassessmentResult:\u00a0Green at reassessmentService provider:\u00a0DHSC",
+                "tag": "p"
+            },
+            {
+                "content": "Service description",
+                "tag": "h2"
+            },
+            {
+                "content": "Under the terms of the Abortion Act 1967 and the\u202fAbortion Regulations 1991,\u202fmedical practitioners have a statutory obligation to notify the Chief Medical Officer (CMO) of every abortion, within 14 days of the procedure, using an HSA4 form. DHSC are responsible for monitoring the Abortion Act and producing statistics on abortions in England and Wales.The Abortion Notification System (ANS) is the digital service provided by DHSC for medical practitioners to enable them to submit their HSA4 forms. Currently it is possible to submit them using 3 channels \u2013 paper, API or webform.",
+                "tag": "p"
+            },
+            {
+                "content": "Service users",
+                "tag": "h2"
+            },
+            {
+                "content": "This service is for:\u25cf Abortion providers- Registered Doctors- Nurses and midwives- Telehealth call handlers- Medical secretaries and administrators- IT Systems Administrators",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf DHSC staff- Public Health Intelligence Analyst- Social Researcher- Data Entry Team- Medical Advisor",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf Data Consumers- Healthcare services and research- Policy and politics- Education and academia- Media- Police",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision The service was rated green for point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf continue to research and increase the numbers of participants you have spoken to, although it is acknowledged that you have received consistent feedback with your existing participant numbers.",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf continue to strive to recruit users, or proxy users, with additional access needs and low digital confidence using methods already identified and investigated during alpha.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision The service was rated green for point 2 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf continue efforts to research with users on mobile or tablet devices",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf consider user testing the proposed new service name and researching the discoverability of the new name through internet search engines",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf keep on tracking recommendations for potential legislative changes that have potential to improve user experience and processes in future",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision The service was rated green for point 3 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf carefully consider your roadmap for beta to ensure that you are solving the harder problems first across all elements of the service, to de-risk complexity of delivery in later stages",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision The service was rated green for point 4 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf ensure that you follow through in a thorough manner with your tracking metrics, as the panel felt that you had a well-considered set of KPIs",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf ensure that your service support includes clearly documented guidance and consistent recommendations for staff who are expected to utilise any new or modified user roles, such as the \u2018super-user\u2019 functionality, that are introduced in beta",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision The service was rated green for point 5 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf continue to involve users with access needs and use your new recruitment incentives that you have indicated for beta phase to focus on increasing the number of people from this user group who are involved in testing",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf continue prioritising accessibility including carrying out the plan to commission an external accessibility audit during beta",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision The service was rated green for point 6 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf continue to involve policy colleagues closely with the development of the service and if possible, encourage them to observe user research directly",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working",
+                "tag": "h3"
+            },
+            {
+                "content": "DecisionThe service was rated green for point 7 of the Standard.Optional advice to help the service team continually improve the service:\u25cf ensure the team has a robust plan to respond or adapt to potential future changes to abortion policy arising from parliament",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve\u00a0frequently",
+                "tag": "h3"
+            },
+            {
+                "content": "DecisionThe service was rated green for point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "DecisionThe service was rated green for point 9 of the Standard.Optional advice to help the service team continually improve the service:\u25cf continue working closely with DHSC Cyber team\u25cf as this is a first within DHSC, record feedback on experiences for future projects.\u25cf look at other authentication approaches used within health and government. Contact NHSE to find out what\u2019s used there and any standards or approaches in place\u25cf the legacy service has outdated components leading to vulnerabilities. The new service must have a plan to avoid falling back to this post launch\u25cf continue to work closely with DHSC Cyber on the Secure By Design self-assessment and other relevant tasks. The panel note that it is important to include this thinking early and continue throughout beta\u25cf the alpha includes a strong set of security recommendations, make sure these carry over into beta and are implemented. The timescales for beta are tight with a hard deadline for ending the existing system, be careful that tactical urgency does not cause lapses in best practice approaches.",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "DecisionThe service was rated green for point 10 of the Standard.Optional advice to help the service team continually improve the service:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf the team should consider any potential governance gaps carefully and reach out to partner organisations who have a greater digital deliver capability where appropriate",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf the methodology for choosing additional KPIs was well reasoned, based on current pain points and NHS priorities such as time spent completing a form by staff. The team should review these throughout beta to ensure they still reflect what success looks like for the service",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0The service was rated\u00a0amber\u00a0for\u00a0point 11 of the Standard.\u00a0During the assessment, we\u00a0didn\u2019t\u00a0see evidence of:\u00a0\u00a0\u25cf clear decisions or decision trees for next steps.\u00a0While\u00a0a lot\u00a0has been done to\u00a0identify\u00a0pain points and problems within the current service,\u00a0the\u00a0decision\u00a0routes for\u00a0next steps\u00a0is not clear. It\u00a0is\u00a0good to be flexible in line with\u00a0findings,\u00a0but\u00a0the\u00a0team is\u00a0going into beta with\u00a0a lot of\u00a0outstanding questions including\u00a0known\u00a0DHSC standard approaches",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf The\u00a0team have\u00a0worked with DHSC IT and Cyber\u00a0from an early stage\u00a0to get feedback and guidance, but\u00a0it\u00a0was not\u00a0clear\u00a0if they are following DHSC standards \u2013\u00a0largely\u00a0because this approach is a first within DHSC.\u00a0Although this may be outside the control of the project team, this does make them trail blazers and presents\u00a0additional\u00a0risk\u00a0\u25cf alignment with NHSE who\u00a0will be part of DHSC within the next 1-2 years\u00a0will be.\u00a0Make sure that any decisions align with NHSE standards and practices\u00a0as\u00a0they will be part of the same organisation post launch\u00a0\u25cf a\u00a0cloud-first approach.\u00a0The alpha findings\u00a0on the existing system\u00a0outline replacing non-scalable hosting,\u00a0which\u00a0has led to\u00a0poor performance\u00a0at busy times, with scalable cloud-first\u00a0hosting\u25cf During the\u00a0assessment,\u00a0the team said they were looking into on-prem hosting at the DHSC data centre \u2013 The\u00a0DAC. DAC is not currently approved for PII. Changing from cloud to on-prem is out of step with The Technology Code of Practice\u00a0point 5 -\u00a0use cloud first\u00a0and would need strong justification for this approach to gain spend approval.Optional advice to help the service team continually improve the service:\u00a0\u25cf given\u00a0the\u00a0team will be asking the beta supplier to\u00a0procure\u00a0infrastructure as a stopgap, anything that they build\u00a0must\u00a0be easily portable. Make sure that\u00a0this lines up with DHSC and NHSE standards and if a tactical, stopgap platform is needed for launch that a\u00a0migration plan is included in this activity\u00a0with a path to a strategic solution\u00a0\u25cf make\u00a0sure the stopgap approach\u00a0does not risk exposing the service to\u00a0poor performance, see related comments under point 14\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment:",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green after reassessment for point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open",
+                "tag": "h3"
+            },
+            {
+                "content": "DecisionThe service was rated green for point 12 of the Standard.GitHub: https://github.com/DataS-DHSC/Abortion-NotificationOptional advice to help the service team continually improve the service:\u25cf the team have planned an approach of build over buy as the requirements would lead to heavy customisation of any CoTS product with dependencies on the supplier for compatibility\u25cf the team have shown a strong commitment to making things open in alpha. This must continue in beta and suppliers for the current or future phases must agree to this open approach ",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common\u00a0components\u00a0and patterns\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "DecisionThe service was rated green for point 13 of the Standard.Optional advice to help the service team continually improve the service:\u25cf give feedback on findings on admin and professional patterns which are outside the core public facing design system and have a different, professional, user base\u25cf the team have identified what appear to be common pain points such as having to map legacy APIs onto new version. Scanning paper forms may also fall into this category as health and wider government are still using paper forms with need to scan. Although this may be wholly handed over to a 3rd party though directly rather than via another supplier. Make sure these learnings are shared\u25cf use the design system in a way that supports easy updates so the service can stay in line with ongoing changes to the design system",
+                "tag": "p"
+            },
+            {
+                "content": "14.\u00a0Operate\u00a0a reliable service\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "DecisionThe service was rated green for point 14 of the Standard.\u00a0Optional advice to help the service team continually improve the service:\u25cf the team have thought about hosting options, but a short-term stopgap infrastructure is being considered as a tactical approach to meet launch timescales. Depending on the interim approach, this could lead to launching with a service that doesn\u2019t perform well leading to a negative perception from users that could carry forward in how they see the service. The team have identified slow response times as a pain point and want to avoid fall-back to paper. It is critical that private and early public beta don\u2019t create a negative association around performance and reliability ",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf make sure the team carefully consider costings relating to service options in beta and live and consider learnings from Alpha and the legacy service\u25cf the team should agree an SLA and associated service wrapper at the appropriate time. This should be shared with relevant stakeholders and published in a sensible place",
+                "tag": "p"
+            },
+            {
+                "content": "Next Steps",
+                "tag": "h3"
+            },
+            {
+                "content": "[Amber - alpha] This service can now move into a private beta phase, subject to addressing the amber points within three months' time and DHSC assurance/GDS spend approval if applicable.",
+                "tag": "p"
+            },
+            {
+                "content": "To get the service ready to launch on GOV.UK the team needs to:\u25cf get a GOV.UK service domain name \u25cf work with the GOV.UK content team on any changes required to GOV.UK content",
+                "tag": "p"
+            },
+            {
+                "content": "The service must pass a live assessment before:",
+                "tag": "p"
+            },
+            {
+                "content": "\u25cf turning off a legacy service\u25cf reducing the team\u2019s resources to a \u2018business as usual\u2019 level, or\u25cf removing the \u2018beta\u2019 banner from the service",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2026/09/11/dhsc-abortion-notification-service-alpha-assessment-service/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "Read about the alpha assessment Abortion Notification Service alpha assessment from DHSC."
+    },
+    {
+        "title": "Five insights from our D102 brand refresh",
+        "authors": [
+            "Design102 team"
+        ],
+        "posted_on": "2026-09-11T12:30:00",
+        "categories": [
+            "Accessibility",
+            "Advice",
+            "Branding",
+            "Creative",
+            "Design",
+            "Services"
+        ],
+        "content": [
+            {
+                "content": "After 12 years, D102 has launched a refreshed brand identity and website. While the visible changes are clear, we know the real value of any rebrand goes beyond the surface.",
+                "tag": "p"
+            },
+            {
+                "content": "As a digital-first creative agency for government, we spend a lot of time helping clients evolve their brands to meet changing audience expectations, channels and behaviours. Going through the process ourselves has reinforced an important truth:",
+                "tag": "p"
+            },
+            {
+                "content": "Our brand refresh gave us the opportunity to apply the same principles we use with our clients, from understanding audiences and defining a clear purpose to creating an identity that works across channels.",
+                "tag": "p"
+            },
+            {
+                "content": "1. Start where your audience is",
+                "tag": "h2"
+            },
+            {
+                "content": "Too often, digital is treated as an adaptation of the brand, rather than the main environment it\u2019s designed for. But your audience is unlikely to meet your brand for the first time on a piece of stationery. They\u2019re more likely to encounter it on a phone, a website, or a social media feed.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s why digital-first design matters.",
+                "tag": "p"
+            },
+            {
+                "content": "When we refreshed our own brand, we considered how every element would work across channels, social content, motion and web experience from the outset. The lesson from this is simple: design for where your audiences are most likely to encounter you.",
+                "tag": "p"
+            },
+            {
+                "content": "A brand that is designed to flex, scale and adapt from the outset will be far more resilient as communications channels continue to evolve.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Get clear on who you are\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "A new visual identity needs something solid to stand on.",
+                "tag": "p"
+            },
+            {
+                "content": "Before we started refreshing the visual elements of our brand, we took time to understand where we are now and where we want to go next.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the past decade, D102 has evolved significantly. Our capabilities have expanded, our services have matured, and the world of public sector communications has changed around us.",
+                "tag": "p"
+            },
+            {
+                "content": "The agency we are today isn't the same as the agency we were twelve years ago. That meant our refresh couldn't start with a question about what we wanted to look like. We first needed to ask who we are.",
+                "tag": "p"
+            },
+            {
+                "content": "We began with research and insight, using what we learned to define our purpose, vision and the personality we want people to recognise in us. This gave us a clear starting point for everything that followed.",
+                "tag": "p"
+            },
+            {
+                "content": "Our advice: before you decide how your brand should look, get clear on what it needs to say about who you are.",
+                "tag": "p"
+            },
+            {
+                "content": "3. Colour is strategic, not just creative",
+                "tag": "h2"
+            },
+            {
+                "content": "Colour is often one of the most emotive and memorable parts of a brand. But the strategic considerations behind colour choice are just as important as the creative ones.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of our refresh, we introduced a more accessible colour palette designed to perform consistently across digital and print environments. We also selected a primary colour - Canary yellow - that reflected our personality while remaining appropriate for a government-facing organisation.",
+                "tag": "p"
+            },
+            {
+                "content": "For organisations undertaking a rebrand, colour decisions should answer three questions:",
+                "tag": "p"
+            },
+            {
+                "content": "The strongest colour strategies balance distinctiveness with practicality.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Don\u2019t overlook the power of typography",
+                "tag": "h2"
+            },
+            {
+                "content": "Typography is often underappreciated during rebranding exercises, yet it can shape how an organisation feels as much as any logo or image.",
+                "tag": "p"
+            },
+            {
+                "content": "Our move to the \u2018Inter\u2019 typeface was driven by accessibility, usability and personality. Available across platforms and devices, it provides a consistent experience while introducing a more approachable, contemporary tone.",
+                "tag": "p"
+            },
+            {
+                "content": "The wider lesson for clients is that typography should work hard. A well-chosen typeface can improve readability and accessibility, strengthen brand recognition, and create stronger consistency across channels.",
+                "tag": "p"
+            },
+            {
+                "content": "5. Think in systems, not just logos",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the most valuable lessons from our own refresh was the importance of developing a flexible and cohesive design system, rather than focusing exclusively on a logo.",
+                "tag": "p"
+            },
+            {
+                "content": "For us, this emerged through the evolution of our \u2018graphic D\u2019. What began as a shorthand reference for \u2018D102\u2019 became a versatile visual device that can frame content, highlight information and create distinctive layouts across different formats.",
+                "tag": "p"
+            },
+            {
+                "content": "This approach is increasingly important for organisations managing large volumes of content across multiple channels.",
+                "tag": "p"
+            },
+            {
+                "content": "A great question to ask is: what visual tools for our brand exist beyond the logo?",
+                "tag": "p"
+            },
+            {
+                "content": "A strong brand system provides designers and communicators with flexible building blocks that can evolve over time while maintaining consistency. This creates greater efficiency and stronger recognition across campaigns, platforms and audiences.",
+                "tag": "p"
+            },
+            {
+                "content": "What's next? Looking beyond visual identity",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the biggest misconceptions about branding is that it ends when the visual identity launches. But visual identity is only one part of a broader brand ecosystem.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside our new look, we've been defining our tone of voice and reviewing our content to ensure that how we communicate aligns with how we present ourselves visually.",
+                "tag": "p"
+            },
+            {
+                "content": "For clients embarking on a similar journey, it\u2019s important to remember that a brand is not just what people see - it's everything they experience.",
+                "tag": "p"
+            },
+            {
+                "content": "The most effective rebrands bring together strategy, personality, language and design into a coherent whole that helps an organisation communicate with more clarity and more confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "While every organisation's branding journey is different, certain principles remain consistent:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve created dozens of brand identities for organisations across government and beyond. To see some of our brand case studies, visit d102.co.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re considering a new visual identity, we can help. Get in touch with our team at\u00a0hello@design102.co.uk to find out more.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://design102.blog.gov.uk/2026/09/11/five-insights-from-our-d102-brand-refresh/",
+        "blog": "Design102",
+        "blog_link": "https://design102.blog.gov.uk",
+        "description": "For over a decade, D102 has helped government organisations create impactful brands. Here are five insights from our own brand refresh and what they taught us about applying the principles we regularly advise our clients on."
+    },
+    {
+        "title": "What is RSV and who is eligible for the vaccine?",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-09-11T09:11:31",
+        "categories": [
+            "immunisations",
+            "Winter"
+        ],
+        "content": [
+            {
+                "content": "Respiratory syncytial virus (RSV) is a major respiratory virus that is most common over the winter period, typically November to February. Most cases are mild, but RSV can be serious, especially for infants and older adults.",
+                "tag": "p"
+            },
+            {
+                "content": "Before the vaccine was introduced, RSV caused around 30,000 hospitalisations of children under 5 in the UK each year, and 20 to 30 infant deaths. It also caused around 9,000 hospitalisations annually in adults over 75, often triggering pneumonia or flare-ups of long-term lung conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "The vaccination programme is already making a difference. In 2025-26, England saw 50% fewer infants under 6 months admitted to intensive care with RSV compared with the previous season,\u00a0as the maternal vaccination programme took full effect. Data also shows a sustained reduction in RSV-related hospital admissions among eligible adults aged 75 to 80.",
+                "tag": "p"
+            },
+            {
+                "content": "Who is at risk?",
+                "tag": "h2"
+            },
+            {
+                "content": "Babies are especially vulnerable because their airways are small and their immunity is still developing. RSV can lead to bronchiolitis, a lung infection causing inflammation, and is most common in infants under one year old. Bronchiolitis differs from bronchitis, which affects people of all ages and causes a mucus-heavy cough. Severe bronchiolitis can require intensive care and can be fatal. More information on bronchiolitis is available on the NHS website.",
+                "tag": "p"
+            },
+            {
+                "content": "Older adults, particularly those with lung conditions like chronic obstructive pulmonary disease (COPD) or a weakened immune system, are also at higher risk of severe RSV infection, which can require hospital admission, cause lasting loss of independence, or even be life-threatening.",
+                "tag": "p"
+            },
+            {
+                "content": "How can I protect my baby from RSV?",
+                "tag": "h2"
+            },
+            {
+                "content": "Vaccination during pregnancy is the best way to protect newborns. It reduces the risk of severe RSV lung infection, such as bronchiolitis, by 80% in a baby's first months of life, significantly lowering the chance of hospital admission.",
+                "tag": "p"
+            },
+            {
+                "content": "The vaccine works by boosting the mother's immune system to produce antibodies, which then pass through the placenta to protect the baby from birth.",
+                "tag": "p"
+            },
+            {
+                "content": "It's offered from week 28 of pregnancy, usually through maternity services, though GP practices can also provide it. If you haven't been offered the vaccine around the time of your 28-week antenatal appointment, contact your maternity service. Vaccination in week 28, or shortly after, gives the best protection, including for babies born early. Later vaccination still offers some protection and can be given right up until birth if needed.",
+                "tag": "p"
+            },
+            {
+                "content": "Babies born very prematurely (before 32 weeks) may need a different form of RSV immunisation, as there may not have been time for the mother to be vaccinated effectively. This also applies to babies with certain heart, breathing or immune conditions. These babies are usually immunised by hospital paediatric teams, either in the neonatal unit or at a follow-up appointment.",
+                "tag": "p"
+            },
+            {
+                "content": "What are the symptoms of RSV?",
+                "tag": "h2"
+            },
+            {
+                "content": "RSV typically causes a cough or cold, wheezing, shortness of breath, tiredness and fever. In babies, symptoms may also include fast, noisy or difficult breathing, fussiness, irritability and reduced feeding. Most cases clear up within 2 to 3 weeks. More details are available on the NHS website.",
+                "tag": "p"
+            },
+            {
+                "content": "How long is RSV contagious?",
+                "tag": "h2"
+            },
+            {
+                "content": "People are most contagious while symptomatic, especially early on, with most transmission occurring within 5 days of symptoms starting. However, infectious virus can sometimes be detected before symptoms appear (1 to 2 days beforehand) and can persist afterwards.",
+                "tag": "p"
+            },
+            {
+                "content": "Research suggests that babies and toddlers experiencing their first RSV infection may remain infectious for 2 weeks or more, and may spread the virus more easily than those with prior immunity. People with weakened immune systems may also stay infectious for longer.",
+                "tag": "p"
+            },
+            {
+                "content": "These factors make RSV difficult to avoid entirely, which is why vaccination is so important for those eligible.",
+                "tag": "p"
+            },
+            {
+                "content": "Who is eligible for the RSV vaccine?",
+                "tag": "h2"
+            },
+            {
+                "content": "The vaccine is offered to:",
+                "tag": "p"
+            },
+            {
+                "content": "Visit the NHS website for full details.",
+                "tag": "p"
+            },
+            {
+                "content": "Do I need more than one dose?",
+                "tag": "h2"
+            },
+            {
+                "content": "Pregnant women should have the vaccine during every pregnancy, to protect each new baby. For older adults, a single dose is expected to offer good protection for several years, and the programme is monitoring how long this protection lasts.",
+                "tag": "p"
+            },
+            {
+                "content": "Preventing the spread of RSV",
+                "tag": "h2"
+            },
+            {
+                "content": "RSV spreads through coughs and sneezes. You can help reduce transmission by covering your mouth and nose when coughing or sneezing, ideally with a tissue or into the crook of your arm, and washing your hands regularly with soap and water.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have cold-like symptoms, try to avoid contact with young babies, particularly newborns and premature babies. It's entirely reasonable to ask people with colds to keep their distance from a new baby. Even so, RSV can still be difficult to avoid entirely.",
+                "tag": "p"
+            },
+            {
+                "content": "UKHSA's role ",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK Health Security Agency leads national monitoring of RSV activity and evaluates the NHS immunisation programmes protecting infants and older adults. This includes tracking infection rates, hospitalisations and seasonal patterns, and assessing vaccine effectiveness. UKHSA also provides clinical guidance for safe vaccine delivery and supplies scientific evidence to bodies such as the Joint Committee on Vaccination and Immunisation, helping shape government policy on vaccine eligibility.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/09/11/what-is-rsv-and-who-is-eligible-for-the-vaccine/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Respiratory syncytial virus (RSV) is a major respiratory virus that is most common over the winter period, typically November to February. Most cases are mild, but RSV can be serious, especially for infants and older adults."
+    },
+    {
         "title": "Dragons' Den IP Blog - Series 23 Episode 11",
         "authors": [
             "Paula Davy"
