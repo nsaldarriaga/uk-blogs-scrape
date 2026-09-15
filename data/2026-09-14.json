@@ -1,5 +1,653 @@
 [
     {
+        "title": "What the \u2018Early Years\u2019 Innovation Challenge showed us about data-sharing and collaboration",
+        "authors": [
+            "Emily Ball, Deputy Director, GDS Local"
+        ],
+        "posted_on": "2026-09-15T17:11:26",
+        "categories": [
+            "Digital, Data and Technology",
+            "GDS Local"
+        ],
+        "content": [
+            {
+                "content": "What would a future of seamless, trusted data-sharing mean for how we deliver early years support for children and families?",
+                "tag": "p"
+            },
+            {
+                "content": "This was the question at the heart of the Early Years Innovation Challenge day in Sheffield on 9 September. It brought together more than 100 people from local and central government, health, education and partner organisations to explore how better data-sharing could support earlier intervention and improve outcomes for children and families. GDS Local delivered the event with No.10 North, the Local Government Association, South Yorkshire Mayoral Combined Authority and the National Data Library.",
+                "tag": "p"
+            },
+            {
+                "content": "The event was part of the new Digital Devolution programme announced by the Prime Minister on 21 August. Through the programme, GDS is working closely with Mayoral Strategic Authorities, the Ministry of Housing, Communities and Local Government and No.10 North to strengthen digital capability, improve access to data and help local leaders deliver better services. ",
+                "tag": "p"
+            },
+            {
+                "content": "The event was not a traditional consultation. Participants worked together in teams on a clearly defined set of problems, created and tested possible solutions and identified where local action needs support from central government. This encouraged them to creatively solve problems, as they would in a more traditional hackathon.",
+                "tag": "p"
+            },
+            {
+                "content": "Why better data-sharing matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Considerable information about child development already exists across health, education and local services. However, it is often held in different systems and organisations and in different formats with differing rules about who can see what.",
+                "tag": "p"
+            },
+            {
+                "content": "Whist security and responsible use of data is important, this can make it hard for professionals to access the information they need to make the right decision at the right time. Families may have to repeat information to different services, while opportunities to provide earlier support can be missed.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge was grounded in the National Data Library\u2019s Early Years Kickstarter. This work is investigating how health and education data could be brought together safely and securely to help children receive the right support earlier, putting the family at the centre of support, rather than the services.",
+                "tag": "p"
+            },
+            {
+                "content": "The event allowed participants to build on that work and consider what a more connected future could look like.",
+                "tag": "p"
+            },
+            {
+                "content": "One theme became clear: the problem is rarely a lack of data. The greater challenge is enabling organisations to share and use existing information in trusted, effective and child-centred ways.",
+                "tag": "p"
+            },
+            {
+                "content": "How an Innovation Challenge works",
+                "tag": "h2"
+            },
+            {
+                "content": "Innovation Challenges work best when there is a clear outcome to explore from several different perspectives and participants have a genuine opportunity to influence what happens next.",
+                "tag": "p"
+            },
+            {
+                "content": "They provide a structured way to:",
+                "tag": "p"
+            },
+            {
+                "content": "At the Early Years Innovation Challenge, participants worked in multidisciplinary teams on three questions:",
+                "tag": "p"
+            },
+            {
+                "content": "The morning focused on understanding user needs, sharing evidence and exploring the current information landscape. Teams then generated and prioritised ideas before developing one concept in more detail. They used service journeys, prototypes and other practical tools to show how their ideas could work.",
+                "tag": "p"
+            },
+            {
+                "content": "Each team had a facilitator, clear instructions and time limits for each stage. Subject matter experts were available to answer questions and test assumptions as ideas developed.",
+                "tag": "p"
+            },
+            {
+                "content": "The aim was not to promote technology for its own sake. It was to develop approaches that could improve decisions, strengthen collaboration and help practitioners access the information they need at the right time.",
+                "tag": "p"
+            },
+            {
+                "content": "Combining local and national expertise",
+                "tag": "h2"
+            },
+            {
+                "content": "Ideas became more practical when frontline, policy, delivery, data and technical perspectives came together.",
+                "tag": "p"
+            },
+            {
+                "content": "Practitioners tested proposals against behavioural archetypes informed by NDL\u2019s user research. This prompted several teams to narrow or adapt their initial ideas, moving the discussion from what data could be connected to what information would help someone make a better decision.",
+                "tag": "p"
+            },
+            {
+                "content": "Local authority participants also highlighted the balance needed between local flexibility and national consistency.",
+                "tag": "p"
+            },
+            {
+                "content": "Services and pathways will differ between places because they respond to local circumstances. But councils should not have to solve the same underlying problems repeatedly. Participants identified common challenges around information-sharing, identifiers, governance and coordination between national programmes.",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing different organisations together helped distinguish where a reusable national approach might be useful and where local flexibility should remain.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next",
+                "tag": "h2"
+            },
+            {
+                "content": "The strongest concepts developed during the event will be explored in a follow-up workshop with GDS Local and the National Data Library, supporting the next phase of the Early Years Kickstarter.",
+                "tag": "p"
+            },
+            {
+                "content": "The requirements, barriers and unanswered questions raised by participants will also be shared with relevant teams across GDS and government departments. This will help identify where further discovery, standards, policy or data work may be needed.",
+                "tag": "p"
+            },
+            {
+                "content": "Participants have also been invited to contribute to further research as the National Data Library\u2019s work develops. ",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge created opportunities to share examples of successful local practice. Councils are already testing approaches, conducting user research and learning what does and does not work in areas such as data matching and service integration. National collaboration can add value by making that work easier to find, reuse and scale.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting digital devolution",
+                "tag": "h2"
+            },
+            {
+                "content": "The Early Years Innovation Challenge is an early example of Digital Devolution moving from national ambition to practical action.",
+                "tag": "p"
+            },
+            {
+                "content": "Digital Devolution is about more than transferring powers. Local leaders also need the infrastructure, tools and partnerships to understand local needs, make informed decisions and improve public services.",
+                "tag": "p"
+            },
+            {
+                "content": "Innovation Challenges are one way to turn local insight into practical action. They can bring ideas and understanding of local needs from local authorities into national programmes earlier to identify where central government and local government can work together to solve common problems once, where appropriate \u2013 a key mission of GDS Local.",
+                "tag": "p"
+            },
+            {
+                "content": "To hear more about GDS Local\u2019s work and opportunities to get involved, sign up for the GDS Local newsletter.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2026/09/15/what-the-early-years-innovation-challenge-showed-us-about-data-sharing-and-collaboration/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "What would seamless, trusted data-sharing mean for young children and their families? We asked this question at the Early Years Innovation Challenge day in Sheffield on 9th September. With 100+ people from local and central government, health, education and other partner organisations, we explored how better data-sharing could support earlier intervention and improve outcomes for \u2026"
+    },
+    {
+        "title": "Sharing the current performance of our ADI services and what we're doing about it\u202f\u202f",
+        "authors": [
+            "Marian Kitson"
+        ],
+        "posted_on": "2026-09-15T13:00:20",
+        "categories": [
+            "Driving instructors",
+            "Learning to drive",
+            "Resources for instructors"
+        ],
+        "content": [
+            {
+                "content": "If you're an approved driving instructor (ADI), a trainee, or a driving school, the chances are you've felt the impact of waiting times. Whether it's a Part 2 or Part 3 test that's taken longer to book than it should, or a standards check that hasn't happened at all, I want to start by being straightforward with you \u2013 we know we've got work to do to improve our service.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the director responsible for DVSA's Enforcement Directorate, part of my role involves overseeing ADI and potential driving instructor (PDI) standards. This means making sure the checks that protect the public and the reputation of this industry\u00a0are working as they should.\u202fOver the past few months, we\u2019ve talked to instructors, trainers and representative bodies about this. Now, I want to set out what we're seeing and what we're doing to improve.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The scale of the pressure",
+                "tag": "h2"
+            },
+            {
+                "content": "In recent years, we\u2019ve seen demand for ADI qualifications grow enormously. Applications have increased by 152% since 2018/19 and they're still rising. At the same time, Part 3 pass rates have fallen from 33.8% in 2023/24 to 27.7% in 2025/26, meaning more people are retaking their tests. Together, this has put pressure on a testing system that doesn\u2019t yet have the resource it needs to meet demand.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s also affected standards checks. In 2024/25, most ADIs did not receive a standards check, which isn't enough to give you confidence that standards are being maintained consistently. I know many of you have raised concerns about this and we\u2019re listening.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Boosting testing capacity\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Both problems stem from the same underlying cause. Our examiners who conduct Part 2 and Part 3 tests and standards checks are recruited from our wider driving examiner pool, but they require additional training. Although they are not interchangeable with those conducting car driving tests, resourcing pressures affecting learner driving tests and those affecting ADI and PDI testing are closely linked. I recognise that this has meant ADI and PDI testing hasn't always had the resource it needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're taking steps to change this. We\u2019ll be recruiting new ADI examiners and increasing our training capacity for more ADI examiners to deliver Part 2 and Part 3 tests. If you\u2019re interested in making the move to become an examiner, you can sign up for DVSA email alerts to be notified when the roles go live. Alongside this, we're developing alternative recruitment and training routes into ADI examiner roles which will help increase capacity while having less impact on driving examiner resource.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The qualification process\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As well as increasing capacity, we want to look at the qualification process itself to make sure the system is working as well as it can for those going through it.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You'll know that once you've passed the theory test (Part 1), you must pass your Part 2 and book your Part 3 within 2 years, or you'll need to start the whole process again. I want to remind you that if you're waiting to take a Part 2 or Part 3 test and there's no suitable date available, you can use our book to hold service and nominate your preferred test date and test centre location.\u202f This helps inform us where there is demand for ADI practical tests, so we can use our examiner resource to meet that demand.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Too many people are reaching their Part 3 test without the communication and teaching skills the role demands, so we're focusing on how we can support PDIs to start practising these skills earlier. We want to work with the driver training industry to support people being better prepared for their Part 2 tests and beyond. This would help ease pressure on the system.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We've also been working with the industry on a campaign to help people prepare for becoming an instructor, with a particular focus on Part 2. We're reviewing the wider qualification journey with the industry too, to find ways to better support candidates and make sure they're ready when their test comes around.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As part of this wider work with the industry, Darren Russell, ADI Registrar, has written about updates to the driver trainer code of practice and our review of the ORDIT scheme which is well worth a read.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Increasing standards checks",
+                "tag": "h2"
+            },
+            {
+                "content": "Getting the qualification process right matters, but so does maintaining standards. That's why we've been increasing the number of standards checks we carry out. When we select ADIs for a check, we take a varied approach and performance indicators are just one part of the picture, not the only thing we look at.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There's no fixed time for when you might be called for a standards check, so it could happen at any point. When it does, you'll be asked to demonstrate your teaching in line with the national standard for driver and rider training, the same standard you'll already be familiar with from your day-to-day work with pupils.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Being open about our progress\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I know that data and transparency matter to this profession and rightly so. You've told us, and continue to tell us, that you want to see regular reporting on how we\u2019re doing. Last month our Chief Executive, Beverley Warmington, published a blog post about her time at DVSA, which sets out the wider context for the changes ahead.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I won't pretend that these changes will fix things immediately. Some of what we're doing will take months to show results and some of the pressure on the system is likely to continue. But I want you to know that we see this issue clearly, we understand the impact it's had on your businesses and your professional standing and we are working to make changes.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We'll continue to update you as these changes progress and I'd welcome your continued feedback on what's working and where you're still seeing problems.\u202f\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://despatch.blog.gov.uk/2026/09/15/sharing-the-current-performance-of-our-adi-services-and-what-were-doing-about-it/",
+        "blog": "Despatch for driver and rider trainers",
+        "blog_link": "https://despatch.blog.gov.uk",
+        "description": "Marian Kitson, DVSA Director of Enforcement, outlines how ADI services are performing."
+    },
+    {
+        "title": "The MHCLG AI Gateway: enabling more effective and safer adoption of AI in our digital services",
+        "authors": [
+            "Sam Harrison, Technical Architect"
+        ],
+        "posted_on": "2026-09-15T11:56:28",
+        "categories": [
+            "Artificial Intelligence",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "Artificial intelligence (AI) is becoming an important part of how we design and deliver digital services. To help product and delivery teams across the Ministry of Housing, Communities and Local Government (MHCLG) adopt AI more safely and effectively, our Technical Architecture team developed the AI Gateway \u2013 a single, shared departmental platform that gives teams a secure, consistent and faster way to access approved AI technologies.",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog post, I share what we did, why we did it and what we learnt.",
+                "tag": "p"
+            },
+            {
+                "content": "The problem to solve",
+                "tag": "h2"
+            },
+            {
+                "content": "Product and delivery teams building digital services in MHCLG need to access AI capability without each needing to spend time designing how that AI access is secure and safe.",
+                "tag": "p"
+            },
+            {
+                "content": "Without a central route, multiple teams would end up building separate integrations, governance approaches and support models for different AI services. Repeating this across multiple teams would have created duplication, delays and inconsistent standards.",
+                "tag": "p"
+            },
+            {
+                "content": "Our team recognised early the need to focus on the wider organisational challenge affecting all digital product and delivery teams rather than a single technical requirement.",
+                "tag": "p"
+            },
+            {
+                "content": "The approach",
+                "tag": "h2"
+            },
+            {
+                "content": "Our aim was to create a capability that could be reused across the organisation, leading to cost savings, reducing time spent by each team on development and providing one well-managed and scalable solution.",
+                "tag": "p"
+            },
+            {
+                "content": "It made sense to create a shared AI platform rather than a series of separate solutions for different AI providers.",
+                "tag": "p"
+            },
+            {
+                "content": "Working with colleagues across the wider digital team, we led the architectural approach for the Gateway using Microsoft Azure API Management as the core platform. This gave MHCLG a single governed route to approved AI services, rather than leaving each team to design its own connection pattern.",
+                "tag": "p"
+            },
+            {
+                "content": "We wanted the Gateway to be deliberately AI provider-agnostic, and to support models from multiple providers through one consistent approach that supports future integration of additional AI models.",
+                "tag": "p"
+            },
+            {
+                "content": "The solution",
+                "tag": "h2"
+            },
+            {
+                "content": "The solution is a reusable platform with shared controls, common onboarding and a consistent support model. It makes secure AI access available much more easily and much earlier in the development lifecycle than was previously possible through direct API access.",
+                "tag": "p"
+            },
+            {
+                "content": "The Gateway is designed to support developers, data scientists, applications and services running in Azure and AWS. This allows AI to be embedded directly into departmental services, not simply accessed from individual devices.",
+                "tag": "p"
+            },
+            {
+                "content": "At a departmental level, the platform provides visibility of how AI is being used, enables appropriate technical controls from the centre, tracks costs and supports cost optimisation.",
+                "tag": "p"
+            },
+            {
+                "content": "A faster route to AI adoption",
+                "tag": "h3"
+            },
+            {
+                "content": "By using the AI Gateway, projects can benefit from:",
+                "tag": "p"
+            },
+            {
+                "content": "This means delivery teams can focus on solving business problems and improving services, rather than managing the underlying AI infrastructure.",
+                "tag": "p"
+            },
+            {
+                "content": "Security and governance by design",
+                "tag": "h3"
+            },
+            {
+                "content": "As AI becomes more widely embedded into digital services, it is important to maintain the right security and governance controls.",
+                "tag": "p"
+            },
+            {
+                "content": "The AI Gateway supports this by:",
+                "tag": "p"
+            },
+            {
+                "content": "This creates a safer foundation for innovation and reduces the risks of ungoverned AI access.",
+                "tag": "p"
+            },
+            {
+                "content": "Improved visibility and cost management",
+                "tag": "h3"
+            },
+            {
+                "content": "As demand for AI grows, understanding how it is being used becomes increasingly important.",
+                "tag": "p"
+            },
+            {
+                "content": "The Gateway gives teams central visibility of:",
+                "tag": "p"
+            },
+            {
+                "content": "This helps teams understand demand, manage spend and make sure AI investment delivers value.",
+                "tag": "p"
+            },
+            {
+                "content": "Things we learnt that helped us design the AI Gateway",
+                "tag": "h2"
+            },
+            {
+                "content": "Build a scalable foundation",
+                "tag": "h3"
+            },
+            {
+                "content": "Many AI projects begin with one tool, one team or one use case. We recognised early that the solution needed to be able to scale well across a large department.",
+                "tag": "p"
+            },
+            {
+                "content": "Building the Gateway on Microsoft Azure API Management and shaping it as a shared departmental platform meant the team can fully integrate with MHCLG\u2019s existing technology stack and leverage the investment already made in this technology.",
+                "tag": "p"
+            },
+            {
+                "content": "The team created a practical foundational way for MHCLG to adopt AI safely, efficiently and consistently, while still leaving room for the platform to evolve as the technology changes.",
+                "tag": "p"
+            },
+            {
+                "content": "Make sure AI is used safely and appropriately",
+                "tag": "h3"
+            },
+            {
+                "content": "Responsible use was built into the project from the beginning, with a clear goal of ensuring other teams could use AI safely and appropriately through this solution.",
+                "tag": "p"
+            },
+            {
+                "content": "We put the solution through the departmental internal AI approval process along with special technical and data protection approvals to ensure it was assessed against internal policies. Additionally, the Gateway went through penetration testing assessment.",
+                "tag": "p"
+            },
+            {
+                "content": "The platform uses existing strong authentication and RBAC access control methods alongside integration into existing monitoring, logging and auditability to provide visibility, with tooling that is backed by commercial contracts and cyber security assurance.",
+                "tag": "p"
+            },
+            {
+                "content": "The project was supported by governance documentation covering acceptable use, accountability, operational responsibilities and data handling, and links into the department\u2019s wider AI governance approach, including our AI Register and approval process.",
+                "tag": "p"
+            },
+            {
+                "content": "We did not treat governance as something that slows innovation down. We showed that AI can be adopted in a way that is ambitious and practical, while maintaining the right levels of security, compliance and public trust.",
+                "tag": "p"
+            },
+            {
+                "content": "Collaboration and focus on user needs",
+                "tag": "h3"
+            },
+            {
+                "content": "Our team did not approach this work in isolation. We helped shape the architectural direction as part of a wider team effort involving colleagues across digital, Cloud, DevOps, security, governance and delivery functions.",
+                "tag": "p"
+            },
+            {
+                "content": "From the outset, the Gateway was designed for shared use across all teams, not just one project or technical area. We worked with colleagues to develop reusable patterns, onboarding guidance, governance artefacts, technical documentation, support arrangements and operational processes.",
+                "tag": "p"
+            },
+            {
+                "content": "The impact",
+                "tag": "h2"
+            },
+            {
+                "content": "The biggest impact has been making AI significantly easier, faster and more efficient for colleagues across the department to adopt responsibly.",
+                "tag": "p"
+            },
+            {
+                "content": "Teams now have a clearer route to approved AI services, with common controls, onboarding guidance, monitoring and support already in place. This reduces the cost and time required to develop digital services.",
+                "tag": "p"
+            },
+            {
+                "content": "The Gateway has already been adopted by multiple teams and provides access to approximately 20 AI models through a single, governed platform. Several initiatives across MHCLG are already using the platform, with more projects progressing through onboarding.",
+                "tag": "p"
+            },
+            {
+                "content": "As a result, colleagues spend less time recreating technical foundations and more time exploring how AI can improve services, support users and deliver better outcomes for the public. The platform provides a strong foundation for wider AI adoption across MHCLG as demand continues to grow.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next",
+                "tag": "h2"
+            },
+            {
+                "content": "We continue to develop the solution to deliver lasting value to the department, based on providing consistent approaches to governance, security and support.",
+                "tag": "p"
+            },
+            {
+                "content": "Our wider roadmap looks to expand the AI capabilities available through the Gateway. Future phases of work will include access to AI services hosted by additional Cloud services providers, giving teams more flexibility while maintaining the same governance, security and operational standards.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re working on similar challenges across government and would like to learn more about this project, get in touch by emailing technology.team@communities.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/09/15/the-mhclg-ai-gateway-enabling-more-effective-and-safer-adoption-of-ai-in-our-digital-services/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "AI is becoming an important part of how we design and deliver digital services. To help product and delivery teams across MHCLG adopt AI more safely and effectively, our Technical Architecture team developed the AI Gateway, a single shared departmental platform that gives teams a secure, consistent and faster way to access approved AI technologies."
+    },
+    {
+        "title": "Understand the value of your manure with the\u00a0Nutrient Management Planning Tool",
+        "authors": [
+            "Dr Hannah Rigby"
+        ],
+        "posted_on": "2026-09-15T10:30:00",
+        "categories": [
+            "Nutrient inputs"
+        ],
+        "content": [
+            {
+                "content": "Managing nutrients is one of the most important jobs on a farm. If done effectively, it can\u00a0reduce\u00a0input costs,\u00a0maximise crop performance\u00a0and\u00a0reduce the impact of farming on\u00a0the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u00a0can be difficult to know how much nitrogen, phosphate and potash is being applied through manures and other organic materials.",
+                "tag": "p"
+            },
+            {
+                "content": "The\u00a0Nutrient Management Planning Tool\u00a0(NMPT-GB)\u00a0is a free online tool, produced by Defra, that helps farmers\u00a0evaluate,\u00a0plan\u00a0and manage nutrients as per crop\u00a0and\u00a0soil needs. This helps farmers reduce costs and keep records that support compliance with environmental regulations.",
+                "tag": "p"
+            },
+            {
+                "content": "A new update to\u00a0NMPT-GB\u00a0makes it easier for farmers and advisers to understand the nutrient and financial value of organic manures to support decision-making.",
+                "tag": "p"
+            },
+            {
+                "content": "The update\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The NMPT-GB\u00a0tool\u00a0now includes an accessible and user-friendly organic manure nutrient calculator which replaces the now outdated MANNER-NPK\u00a0(Manure Nitrogen Evaluation Routine - Nitrogen, Phosphate, and Potash)\u00a0tool.",
+                "tag": "p"
+            },
+            {
+                "content": "You can\u00a0access the new update on the NMPT-GB webpage.",
+                "tag": "p"
+            },
+            {
+                "content": "MANNER-NPK\u00a0was\u00a0a\u00a0Defra-funded\u00a0software tool that estimated\u00a0plant-available nutrients and financial value from organic manures like slurry or farmyard manure.",
+                "tag": "p"
+            },
+            {
+                "content": "Historically,\u00a0MANNER-NPK\u00a0was\u00a0available as\u00a0a standalone\u00a0download, or\u00a0accessed\u00a0through\u00a0PLANET /\u00a0Planet4Farmers.",
+                "tag": "p"
+            },
+            {
+                "content": "Its calculations are now integrated\u00a0into NMPT-GB,\u00a0enabling\u00a0users to quickly estimate the\u00a0crop-available nutrients supplied by organic material, and\u00a0their financial value.",
+                "tag": "p"
+            },
+            {
+                "content": "Like the rest of the tool, the new functionality is free to use\u00a0and\u00a0can be accessed without\u00a0completing a full nutrient management plan\u00a0-\u00a0as is required for the\u00a0full\u00a0NMPT-GB.",
+                "tag": "p"
+            },
+            {
+                "content": "At a time where artificial fertiliser prices\u00a0remain\u00a0high,\u00a0the tool supports farmers to reduce reliance on artificial fertilisers and\u00a0plan nutrient use\u00a0to be more resilient to global shocks to the fertiliser market.",
+                "tag": "p"
+            },
+            {
+                "content": "Testing of the tool over several months helped to shape how it works in practice. Feedback from farmers during testing was positive.\u00a0A sheep farmer using the tool said:",
+                "tag": "p"
+            },
+            {
+                "content": "The financial values were\u00a0highlighted by other\u00a0participants, with one\u00a0arable farmer commenting:",
+                "tag": "p"
+            },
+            {
+                "content": "Only farmers and their appointed users will have access to personal and farm data from the tool.\u00a0Regulators\u00a0don\u2019t\u00a0have any access to farm-specific data and will not be able to use the information in the tool to\u00a0monitor\u00a0compliance.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "NMPT-GB is now live for England and Wales on GOV.UK, with a Scotland release planned for later this year. The MANNER-NPK standalone feature is already available across the three nations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Defra developed this update alongside ADAS and RSK Business Solutions Ltd with the support of the Agriculture and Horticulture Development Board (AHDB). ",
+                "tag": "p"
+            },
+            {
+                "content": "Watch our\u00a0webinar\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "For more information about the tool\u00a0and how it can help your farming business, watch our recent\u00a0webinar:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Farmers and advisers tested the tool on real farms over several months, sharing feedback to make sure it works well in practice.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We want to keep improving\u00a0and developing\u00a0the tool. Your feedback helps us do that.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Please\u00a0share your thoughts. You can:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019d be happy to keep sharing feedback as the Nutrient Management Planning Tool develops, the best way is to join the Defra Farming Panel. This is completely optional, but it helps us make sure we\u2019re testing improvements with the right people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can register your interest by emailing the panel manager, Sophie Werkshagen, at\u00a0sophie.werkshagen@defra.gov.uk\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/09/15/understand-the-value-of-your-manure-with-the-nutrient-management-planning-tool/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Defra\u2019s Nutrient Management Planning Tool is designed to help make nutrient planning simpler. The online tool has been updated to include a calculator that estimates the nutrients supplied by organic materials and their financial value."
+    },
+    {
+        "title": "Sentinel-3C and FLEX launch into orbit",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2026-09-15T10:03:38",
+        "categories": [
+            "Earth observation"
+        ],
+        "content": [
+            {
+                "content": "From forecasting ocean conditions to understanding how crops respond to drought, two European satellites with key UK contributions have launched together and will expand our view of the Earth in unprecedented ways.",
+                "tag": "p"
+            },
+            {
+                "content": "At 2:21 am UK time on 15 September, Sentinel 3C and FLEX launched aboard a Vega-C rocket from the European Spaceport in French Guiana. Sentinel-3C is the latest satellite in the Europe\u2019s Copernicus programme, whilst FLEX is the European Space Agency\u2019s eight Earth Explorer science mission.",
+                "tag": "p"
+            },
+            {
+                "content": "Copernicus is the world\u2019s leading Earth observation system, with six families of Sentinel missions that monitor the Earth providing vast amounts of free and openly accessible data that can be used for wide-ranging applications across climate resilience, food and water security, pollution monitoring and civil security.",
+                "tag": "p"
+            },
+            {
+                "content": "Sentinel-3C is a mission that observes sea and land surface temperature, ocean and land colour and sea surface topography, which together build a picture of how the Earth\u2019s systems are changing. The Sentinel-3 family of satellites enables various applications including ocean and weather forecasting, wildfire detection and water quality monitoring. For example, Sentinel-3 monitors changes in the colour of the ocean surface to detect and track algal blooms, which can contaminate seafood and degrade coastal air and water quality. ",
+                "tag": "p"
+            },
+            {
+                "content": "Through ocean forecasting, scientists can monitor their evolution and strengthen their understanding of how the ocean changes in response to the effects of climate change. This allows authorities to assess the potential impacts on marine ecosystems and empowers societies with tools to support the sustainable management of coastal waters and improve water quality.",
+                "tag": "p"
+            },
+            {
+                "content": "Sentinel-3 data is also used to respond to ongoing environmental challenges felt here at home. During the European heatwaves this year, Sentinel-3 observations provided valuable insights into land surface temperature, helping authorities assess the impact of heatwaves on communities.",
+                "tag": "p"
+            },
+            {
+                "content": "Sentinel-3C also has wider synergies as an integrated element of the European Earth observation system. ESA\u2019s FLEX (FLuorescence EXplorer) mission, which launched on the same rocket and will orbit in tandem with Sentinel-3C, is designed to help scientists understand vegetation health by detecting the faint light plants emit as they photosynthesise. This signal offers a direct window into how efficiently plants are converting sunlight into energy, and how they respond to stress from heat, drought, disease or other environmental pressures. ",
+                "tag": "p"
+            },
+            {
+                "content": "Together with Sentinel-3C, they form a unique tandem mission where FLEX directly measures plant photosynthesis and Sentinel-3 provides atmospheric, thermal and land-surface context to interpret these signals. Jointly, Sentinel-3C and FLEX deliver an unprecedented capability to provide a more complete view of global vegetation function and status.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK is contributing significantly to the success of both missions. On FLEX, TAS UK completed assembly, integration and testing activities on the satellite platform in Belfast, with Teledyne e2v supplying detector hardware for the FLORIS instrument, ABSL supplying spacecraft batteries, Nammo Westcott providing propulsion hardware and the National Satellite Test Facility in Harwell, Oxfordshire, providing large-scale test facilities that subjected the satellite to space-simulated conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "Director of the UK Space Agency, Rebecca Evernden said:",
+                "tag": "p"
+            },
+            {
+                "content": "On Sentinel-3C, UK scientists and engineers at STFC RAL Space and Airbus Defence & Space played a key role in the design and development of the Sea and Land Surface Temperature Radiometer (SLSTR) instrument, drawing on the UK\u2019s instrument expertise developed through earlier European missions. Teledyne e2v were again involved in detector development whilst ABSL supplied batteries and calibration targets.",
+                "tag": "p"
+            },
+            {
+                "content": "Sentinel-3C joins its siblings 3A (launched in 2016) and 3B (launched in 2018), with plans for Sentinel-3C to eventually replace 3A, and be joined by 3D in 2028 to provide data continuity into the mid-2030s. This continuity is crucial because environmental trends are best understood through consistent, long-term records. The European Space Agency have already begun the development of the Sentinel-3 Next Generation missions, which will extend this heritage into the late 2030s.",
+                "tag": "p"
+            },
+            {
+                "content": "As Sentinel-3C and FLEX begin their missions, they will carry with them decades of UK expertise, a shared European commitment to understanding our changing planet, and will ensure that Europe continues to have a reliable and independent view of the Earth for years to come.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2026/09/15/sentinel-3c-flex-launch-into-orbit/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "From forecasting ocean conditions to understanding how crops respond to drought, two European satellites with key UK contributions have launched together and will expand our view of the Earth in unprecedented ways."
+    },
+    {
         "title": "Get ready to meet the new School Food Standards",
         "authors": [
             "Finn Morgan, Department for Education Commercial Lead for School Food"
