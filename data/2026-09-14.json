@@ -1,5 +1,743 @@
 [
     {
+        "title": "One role, many departments: defining agile coaching across government",
+        "authors": [
+            "Jill Wright, Head of Delivery, MoJ"
+        ],
+        "posted_on": "2026-09-18T16:45:00",
+        "categories": [
+            "Government Digital and Data"
+        ],
+        "content": [
+            {
+                "content": "Jill Wright has been the Head of Delivery at the Ministry of Justice for just over two years now.\u00a0\u00a0 In this blog, she writes about the Agile Coach role on the Capability Framework.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m really pleased to share an important step forward for the agile coaching community across government: the agile coach role has been added as a recognised role within the Government Digital and Data Profession Capability Framework.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Capability Framework provides a common definition of digital and data roles across government, including the skills people need at different levels. It supports recruitment, career development, capability assessment and workforce planning.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Adding agile coach may sound like a relatively small change to a framework, but it represents something much bigger for the people doing this work across government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It formally represents recognising agile coaching as a profession role in its own right - with a clearer professional identity, common expectations and greater portability across government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why agile coaching matters now \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I think the timing of this recognition is significant. ",
+                "tag": "p"
+            },
+            {
+                "content": "The environments in which our government teams operate are becoming increasingly complex and fast-moving.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Political priorities change. User needs evolve. Technology advances. New opportunities and constraints emerge. What looks relevant and viable today may look very different tomorrow.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our response cannot simply be to become better at following a particular Agile methodology. We need organisations and teams that can learn, adapt and respond to change. That's where I believe agile coaching has an increasingly important contribution to make.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At its best, agile coaching isn't about introducing ceremonies or telling teams which framework to follow. It's about helping teams, leaders and organisations develop the capability to inspect, learn and adapt for themselves. That distinction matters.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For me, the distinctive contribution of agile coaching is building sustainable capability across teams, portfolios and organisational systems. Delivery management, meanwhile, is primarily concerned with accountability for successful delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "Both matter, and both can complement and reinforce each other.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The existing capability framework already recognises Agile and Lean practices as an important capability for delivery managers, including coaching teams, selecting appropriate approaches and encouraging continuous improvement.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recognising agile coach alongside delivery manager gives us an opportunity to be much clearer about how those capabilities work together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A cross-government effort\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Developing the role was a collaborative effort. I had the privilege of leading a small team comprising a Lead Agile Coach; Head of Delivery Practice, and Head of Delivery.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together, we developed the case for why agile coach should be recognised within the framework and what distinguishes the contribution of agile coaching from other roles. ",
+                "tag": "p"
+            },
+            {
+                "content": "The proposal was considered and supported by a cross-government panel of profession experts, receiving resounding support. It demonstrated that agile coaching is a capability valued and needed across government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What this means\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Formal recognition within the profession framework will support:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Consistency across government\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Departments can establish a common understanding of the role, its responsibilities and the capabilities required, while retaining the flexibility to decide where and how agile coaches operate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Professional recognition\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Agile Coach becomes a recognised profession role rather than simply a job title used by individual departments.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Career portability\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Agile coaches can have a clearer professional identity and career pathway that can transfer between government departments rather than being defined solely by local structures or grading.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Clearer role boundaries\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "This gives us an opportunity to better articulate the difference between\u00a0agile coaching and delivery management, while acknowledging where their capabilities overlap. \u00a0\u2028\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Better capability development\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Common expectations give agile coaches something against which to\u00a0assess themselves, identify areas for development and progress\u00a0professionally.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improved recruitment and workforce planning\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Departments can recruit against more consistent expectations and develop a better understanding of where agile coaching capability\u00a0exists and where more may be needed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Importantly, it gives us an opportunity to put the emphasis on competence rather than certification.\u00a0Effective agile coaching isn't simply about knowing Agile frameworks or holding particular qualifications. It draws on capabilities such as coaching, facilitation, systems thinking, organisational change, developing others and helping organisations continuously improve.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recognition is the start, not the finish\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This is important recognition for our agile coaches, but more importantly, it's an investment in government's ability to adapt and deliver in an increasingly complex world.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It also gives us an opportunity to challenge some of our own assumptions about the role. As our environment changes, agile coaching needs to evolve with it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Adding agile coach to the framework is an important milestone, but the real value will come from what we do with that recognition:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The role should be focused not on preserving methods or frameworks, but on helping our organisations become more adaptive, more evidence-informed and better able to respond to complexity and change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you are a public servant working as an agile coach, carrying out agile coaching as part of your role or actively training to become one, the existing agile coaching cohort in the DWP and MoJ will be launching a new cross-government Agile Coaching Community. Please complete the sign-up form to receive details of the sessions and join the community.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m incredibly grateful to Government Digital and Data colleagues for the expertise, energy and challenge they brought to developing this work. I\u2019m also grateful to the wider agile coaching and delivery communities whose experience has helped demonstrate why this capability matters, and I'm looking forward to seeing where we take it next.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cddo.blog.gov.uk/2026/09/18/one-role-many-departments-defining-agile-coaching-across-government/",
+        "blog": "Government Digital and Data",
+        "blog_link": "https://cddo.blog.gov.uk",
+        "description": "Agile coach is now a recognised Government Digital and Data role on the Capability Framework, bringing greater clarity, consistency and opportunity across the profession."
+    },
+    {
+        "title": "Where communities and nature meet: lessons from Pear Tree Park\u00a0",
+        "authors": [
+            "Tony Juniper"
+        ],
+        "posted_on": "2026-09-18T16:16:42",
+        "categories": [
+            "Connecting People with Nature",
+            "Countryside Code",
+            "Development",
+            "Green Infrastructure",
+            "Mental health and wellbeing",
+            "Natural England",
+            "Nature",
+            "Nature Recovery",
+            "Parks, trails and nature reserves",
+            "Tree Planting",
+            "Wildfire",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Tony Juniper, Chair of Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog, NE Chair Tony Juniper reflects on his recent visit to Pear Tree Park in Ealing with the Deputy Mayor Mete Coban to talk about the importance of green spaces for local communities and the amazing work that goes into creating and maintaining these spaces.",
+                "tag": "p"
+            },
+            {
+                "content": "In late August I had the pleasure of visiting the Pear Tree Park rewilding project in Ealing, alongside London\u2019s Deputy Mayor for Environment and Energy, Mete \u00c7oban. It was inspiring to see how a place so close to the centre of London is being transformed for Nature, while also becoming a vital space for people \u2014 especially young people \u2014 to come together, learn new skills and build a deeper connection with the natural world.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "West London Regional Park & Cultivate London\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "The day started with us meeting at Pear Tree Park, just a short bus trip from central Ealing, where we were introduced to the site by Sam Parry from Ealing Council. Previously a golf course, this park reopened two years ago and is now home to a mix of wildflower meadows, native trees and wetlands supporting pollinators and bird species. It is part of a wider ambition to create the West London Regional Park. This shared vision between Natural England, the Greater London Authority and other partners will connect green and blue spaces for communities across West London into one continuous landscape, supported by a Nature Towns and Cities grant.",
+                "tag": "p"
+            },
+            {
+                "content": "Following this introduction we then heard from Cultivate London, an organisation working across the city to engage communities with urban gardening and offer opportunities to learn about and work in horticulture. They are particularly focussed on working with communities that face barriers to visiting green spaces, and speaking to their volunteers, we heard about not only the benefits they had created for Nature but also the positives this work had brought to their own health and wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "Tree planting with Letting Grow\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "We then set out into the park to meet Ross Walker of Letting Grow, a London based charity that works with urban communities to create accessible green spaces. He and a group of young volunteers were busy planting tree saplings and Ross led us through a warm-up and activity, to ensure everyone felt welcome in this natural space, before we all got stuck in with the tree planting.",
+                "tag": "p"
+            },
+            {
+                "content": "It was especially heartening to work alongside young people who had chosen to spend part of their summer holidays caring for a local green space that clearly means a great deal to them. Together they had already planted more than 5,000 trees across the park, contributing to the borough\u2019s wider target of 50,000.",
+                "tag": "p"
+            },
+            {
+                "content": "What the evidence tells us\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "The visit also illustrated why access to nature is such an important issue for cities like London. The latest People and Nature Survey for England Annual Report found that people living in urban or socio-economically deprived areas, younger adults, and people identifying as Asian or Asian British are among those most likely to report not having a local green space within easy walking distance. These findings underline why improving access to high-quality green space is not simply an environmental issue, but a matter of fairness, health and opportunity.",
+                "tag": "p"
+            },
+            {
+                "content": "The evidence also shows that people feel more connected to nature when green spaces are within a five-minute walk of home. Yet fewer than half of adults reported feeling connected to Nature, even though most people agree that being in nature makes them happy and supports their physical and mental wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "These findings reinforce something that Natural England has long championed: nature should be part of people's everyday lives, not something they have to travel to experience. Places like Pear Tree Park demonstrate what can be achieved when partners work together to bring high-quality green spaces closer to communities, helping to tackle inequalities in access.",
+                "tag": "p"
+            },
+            {
+                "content": "Restoring nature along the\u00a0River Brent\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Our final stop took us to the River Brent, where we met representatives from Clean Up the River Brent, a community river cleaning group, and local volunteers helping to improve and protect this important waterway by clearing invasive species, such as Himalayan Balsam, and replacing with native wetland plants such as reeds and rushes. It also meant cleaning out rubbish from the river, the biggest catch of the day being two e-bikes which we were glad to see removed.",
+                "tag": "p"
+            },
+            {
+                "content": "This visit was a powerful reminder that connecting people with nature is not only good for individuals, but it is essential for long-term nature recovery. When communities are involved in shaping and caring for local green and blue spaces, they become active stewards of the natural environment.",
+                "tag": "p"
+            },
+            {
+                "content": "Resilient cities and communities\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "As well as supporting biodiversity and wellbeing, projects like Pear Tree Park play an increasingly important role in helping cities like London adapt to climate change. Trees, parks, and healthy waterways can help reduce flood risk, improve air quality and provide cooling during periods of extreme heat, like the capital has experienced this summer. Therefore, investing in nature is investing in healthier, more resilient communities.",
+                "tag": "p"
+            },
+            {
+                "content": "I left Pear Tree Park feeling optimistic. The partnership between communities, organisations and Ealing Council shows what can be achieved when people come together around a shared ambition for nature.",
+                "tag": "p"
+            },
+            {
+                "content": "As plans for the West London Regional Park develop, and initiatives such as Nature Towns and Cities gather momentum, places like Pear Tree Park offer a glimpse of a greener urban future \u2014 one where Nature recovery, community wellbeing and climate resilience are advanced together, for the benefit of generations to come.",
+                "tag": "p"
+            },
+            {
+                "content": "Read the new People and Nature Survey Annual Report: Adults' Year 6 Annual Report (April 2025 - March 2026) - GOV.UK\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about Nature Towns and Cities: Home - Nature Towns and Cities\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/09/18/where-communities-and-nature-meet-lessons-from-pear-tree-park/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Tony Juniper, Chair of Natural England In this blog, NE Chair Tony Juniper reflects on his recent visit to Pear Tree Park in Ealing with the Deputy Mayor Mete Coban to talk about the importance of green spaces for \u2026"
+    },
+    {
+        "title": "Can nuclear regulation protect people and the environment and support innovation? Moving from promise to safe, sustainable progress.",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-09-18T13:13:46",
+        "categories": [
+            "Nuclear",
+            "Regulated industry",
+            "Sustainability",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Jake Surman is the Environment Agency\u2019s innovation lead in our nuclear strategy team. As the Heads of Innovation Forum meets for its annual meeting, Jake provides an update on our work.",
+                "tag": "p"
+            },
+            {
+                "content": "New nuclear technologies, novel uses of radioactive substances and advancing digital innovations could help the UK produce cheaper low carbon energy, speed-up nuclear decommissioning and develop new medical treatments. They also raise important questions for people, places and the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "That is why good regulation matters. It helps innovation move forward in a way that protects people and the environment, rather than treating safety and environmental protection as something to think about later.",
+                "tag": "p"
+            },
+            {
+                "content": "Our regulatory work takes us out to nuclear sites and organisations that use radioactive substances. And it\u2019s there that our regulators are seeing and hearing about the challenges operators face. So, we\u2019re working with them to resolve these challenges. And yes, we can do both \u2013 support innovation and protect people and the environment. We\u2019re advocates of responsible innovation and will provide that early advice to industry to enable new ways of working \u2013 ensuring that environmental protection is at the heart of everything we do. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How are the Environment Agency and Office for Nuclear Regulation working with the nuclear industry?",
+                "tag": "p"
+            },
+            {
+                "content": "On 17 September the Environment Agency and Office for Nuclear Regulation (ONR) brought together 30 senior innovation leads from industry and regulation for the second nuclear industry Heads of Innovation Forum. The aim was simple: to share what has worked, learn what could be done better and agree where working together can make the biggest difference.",
+                "tag": "p"
+            },
+            {
+                "content": "We agreed the most important topics for our 2027/28 nuclear regulation and innovation work. This will help regulators and industry focus time and effort where they can have the greatest impact. These topics include:",
+                "tag": "p"
+            },
+            {
+                "content": "What support can regulators offer?",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll use three practical ways of working to help understand and tackle barriers. These are:",
+                "tag": "p"
+            },
+            {
+                "content": "These approaches let regulators and industry talk early about new ideas. They help everyone understand what may be possible, what the real challenges are and what evidence will be needed before decisions are made. Early advice can also help reduce the risk of costly changes or regulatory intervention later, by identifying issues while designs and plans are easier to adapt.",
+                "tag": "p"
+            },
+            {
+                "content": "These approaches do not replace formal decisions on permits or compliance. They sit alongside them. We separate our innovation work from regulatory decisions, so we can support new ideas without weakening our duty to protect people and the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "How do you use expert panels?",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve recently used expert panels to explore how we can regulate remote operations in nuclear facilities. An example of this is how robots used for radioactive waste management could be safely controlled from outside the boundary of a nuclear site to help speed up nuclear decommissioning. We\u2019ll publish the findings soon. The ONR has led the organisation of another expert panel looking at how decisions can be made across groups of similar facilities or technologies, which we\u2019re contributing to, and may help the fleet design and operation of nuclear reactors become a reality. This work is looking to learn from and build upon the replication case between Hinkley Point C and Sizewell C.",
+                "tag": "p"
+            },
+            {
+                "content": "How can early innovation advice support new ideas?",
+                "tag": "p"
+            },
+            {
+                "content": "Our innovation advice has supported work on novel medical radionuclides - radioactive substances used in medical diagnosis and treatment. The regulatory study we contributed to is helping inform investment in new treatments, including lead-212 generators that could support cutting edge cancer care.",
+                "tag": "p"
+            },
+            {
+                "content": "How does safe testing reduce uncertainty?",
+                "tag": "p"
+            },
+            {
+                "content": "Regulatory sandboxing lets regulators and industry test new ideas in a controlled way. With ONR, our sandboxes have explored artificial intelligence and machine learning applications in nuclear, including how new technologies could support radioactive waste management. Our work is helping to reduce uncertainty by bringing safety, security and environmental protection into the design and development stages.",
+                "tag": "p"
+            },
+            {
+                "content": "These projects are now shaping further work in the UK and overseas, including an international regulatory sandbox led through the Nuclear Energy Agency.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next for our nuclear regulation and innovation work?",
+                "tag": "p"
+            },
+            {
+                "content": "As we move forwards, we want innovators, operators and regulators to ask those questions that matter most. Working together early, and acting on evidence, can help new technologies and ideas in nuclear move from promise to safe, sustainable progress.",
+                "tag": "p"
+            },
+            {
+                "content": "Contact us: nuclear@environment-agency.gov.uk",
+                "tag": "p"
+            },
+            {
+                "content": "Follow our work on LinkedIn: https://www.linkedin.com/showcase/regulating-radioactive-substances",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/09/18/can-nuclear-regulation-protect-people-and-the-environment-and-support-innovation-moving-from-promise-to-safe-sustainable-progress/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Jake Surman is the Environment Agency\u2019s innovation lead in our nuclear strategy team. As the Heads of Innovation Forum meets for its annual meeting Jake provides an update on our work New nuclear technologies, novel uses of radioactive substances and advancing digital innovations could help the UK produce cheaper low carbon energy, speed-up nuclear decommissioning \u2026"
+    },
+    {
+        "title": "Moving Share Homes for Ukraine data\u2019s code to open source",
+        "authors": [
+            "Kat Stevens, Lead Developer, Homes for Ukraine Digital"
+        ],
+        "posted_on": "2026-09-18T10:22:56",
+        "categories": [
+            "Homes for Ukraine",
+            "Technology",
+            "Ways of working"
+        ],
+        "content": [
+            {
+                "content": "Share Homes for Ukraine data, our in-house system for managing Homes for Ukraine data turned one this week! In this blog post, I talk about how we recently open-sourced the code for the system and why it matters.",
+                "tag": "p"
+            },
+            {
+                "content": "Open source coding is software built on teamwork, where developers freely share their code with the public. It means anyone can look under the hood of a digital component or service. For public services, this collaborative approach matters, especially because it saves money by allowing other public sector organisations to reuse software instead of rebuilding it from scratch.",
+                "tag": "p"
+            },
+            {
+                "content": "Why do we want to make our code public?",
+                "tag": "h2"
+            },
+            {
+                "content": "Working in the open can be daunting! All your mistakes would be there for the world to see in a public code repository, with nowhere to hide... However, open source code is part of how we build software in the Ministry of Housing, Communities and Local Government (MHCLG) and a key part of the government Service Manual for digital services (\"make source code open and reusable\"). Sharing our code means that other government departments and people in outside organisations can benefit from our work, saving time and money.",
+                "tag": "p"
+            },
+            {
+                "content": "There are some exceptions to this rule. Some code may need to be kept private for security reasons, for commercial reasons, or to prevent revealing details of a policy before the government is ready to announce it publicly, for example. The 'Share Homes for Ukraine data' (or 'Share' for short) application code had to remain private at the start of the project for commercial reasons. However, it's usually best to work in the open from the start wherever possible.",
+                "tag": "p"
+            },
+            {
+                "content": "How we did it",
+                "tag": "h2"
+            },
+            {
+                "content": "Before we made our Share application code open, we did some due diligence, following the guidance set out in The MHCLG Way and the government Service Manual.",
+                "tag": "p"
+            },
+            {
+                "content": "We did a thorough review of the code base to check for any security concerns, including using automated scanning tools. Our repository was thankfully already in good shape \u2013 no committed secret values or vulnerabilities in the code. We discussed our open-sourcing plan with the MHCLG Cyber Security team, who were happy for us to proceed.",
+                "tag": "p"
+            },
+            {
+                "content": "We reviewed our code to make sure it didn\u2019t contain anything commercially sensitive. We also looked at the content of our test data \u2013 our codebase shouldn't contain 'real' looking names or emails that could be flagged as personally identifiable information. We changed all the email addresses used in our tests to be an 'example.com' domain, and made sure any names were clearly anonymous, for example 'Joe Bloggs'.",
+                "tag": "p"
+            },
+            {
+                "content": "We looked at our code comments, to check for any language that didn\u2019t meet the Civil Service Code. While doing this, we found a number of 'TODO' statements that were left over from the speedy development needed before the deadline. Some actions were already done but the 'TODO' was still there as a comment! We tidied these up.",
+                "tag": "p"
+            },
+            {
+                "content": "GitHub \u2013 the source code tool used at MHCLG \u2013 doesn\u2019t just store code, it also stores the history of every change made. Reviewing the history would be too time consuming, so we decided to make a clean start with a fresh repository, a fresh history and a fresh changelog. The old repository would be archived so that our developers could always refer back to it if necessary.",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing the new open source repository",
+                "tag": "h2"
+            },
+            {
+                "content": "The exciting part! The whole team got together on a call to set up the new GitHub repository. First, we created an empty repository with an MIT licence, as recommended in The MHCLG Way.",
+                "tag": "p"
+            },
+            {
+                "content": "Before we moved over any code, we needed to 'harden' the GitHub repository settings to ensure our code and our deployments remain secure. This was very important, as we use GitHub to deploy our code to our project\u2019s cloud hosting provider, AWS. We wanted to reduce the risk of compromising this connection to our live environment as much as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "We did the following:",
+                "tag": "p"
+            },
+            {
+                "content": "As well as preparing the repository, we also prepared our engineering team. We have updated our internal team manual with guidance on coding in the open, including also useful reminders such as the importance of following the Civil Service Code when writing commit messages, comments and pull requests.",
+                "tag": "p"
+            },
+            {
+                "content": "Once we were happy with the configuration of the repository, we were ready to move the code. This was as simple as checking out the new repository locally, then copying over the files we wanted to keep from the old repository, to start a fresh git history.",
+                "tag": "p"
+            },
+            {
+                "content": "Some other small tasks were needed to hook up the new repository to our deployment pipeline. We adjusted our AWS/GitHub OpenIDConnect policy to allow the new repository to connect to AWS and copied over the necessary environment variables and secrets to the new repository.",
+                "tag": "p"
+            },
+            {
+                "content": "We also added a link to MHCLG\u2019s vulnerability reporting route so that friendly security researchers can disclose issues to us in a safe way.",
+                "tag": "p"
+            },
+            {
+                "content": "Ironing out teething problems",
+                "tag": "h2"
+            },
+            {
+                "content": "After we moved over to the new public repository, there were some minor teething problems.",
+                "tag": "p"
+            },
+            {
+                "content": "Some of our GitHub 'actions' workflows relied on the result of a previous run. These failed when we first moved over to the new repository, as there was no 'previous' run to compare with. We had to force-merge the initial pull request, in order to bypass one of these failed checks. We also had to manually create our first 'release', which is normally an automated process.",
+                "tag": "p"
+            },
+            {
+                "content": "Our automated security tool automatically flagged up an issue with one of our dependencies \u2013 not a security issue (which would have been detected previously), but a licensing issue. The dependency used a GPL (GNU General Public Licence) restricted licence, instead of a permissive licence like MIT. Imagine a friend let you borrow an item \u2013 would you then be allowed to lend that item to someone else without permission? After reviewing the licence terms, we determined this specific instance was OK, as the dependency was only used internally, for code linting \u2013 that is, we wouldn\u2019t be lending it to anyone else!",
+                "tag": "p"
+            },
+            {
+                "content": "Public GitHub repositories have had some unexpected advantages for our team:",
+                "tag": "p"
+            },
+            {
+                "content": "What's next",
+                "tag": "h2"
+            },
+            {
+                "content": "Overall, the switch went smoothly for our developer team. The new repository served as a good opportunity to make sure everyone had their pre-commit hooks set up correctly, and an up-to-date local environment.",
+                "tag": "p"
+            },
+            {
+                "content": "The Homes for Ukraine Digital team hope to open up more of our private repositories in the future.",
+                "tag": "p"
+            },
+            {
+                "content": "If you work in the public sector and are interested in open-sourcing your repository, feel free to get in touch if you have any questions.",
+                "tag": "p"
+            },
+            {
+                "content": "You can view our shiny new GitHub repository here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/09/18/moving-share-homes-for-ukraine-datas-code-to-open-source/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Share Homes for Ukraine data, our in-house system for managing Homes for Ukraine data turned one this week. In this blog post, we talk about how we recently open-sourced the code for the system and why it matters."
+    },
+    {
+        "title": "One question from a trustee changed everything about how we manage our finances\u00a0\u00a0",
+        "authors": [
+            "Shaukat Islam, CEO and Executive Headteacher, Inspire Education Community Trust"
+        ],
+        "posted_on": "2026-09-18T10:17:04",
+        "categories": [
+            "Banking",
+            "Banking and Finance",
+            "Reserves"
+        ],
+        "content": [
+            {
+                "content": "Shaukat Islam, CEO and Executive Headteacher, Inspire Education Community Trust, Birmingham, shares how a DfE-approved savings platform transformed how the trust maximises returns on its reserves.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Like most school leaders, I'm cautious with public money. When I first heard about cash savings platforms, my instinct was to stick with what I knew. We'd been with our main bank for years. It felt safe. It felt familiar. But it also meant our reserves were sitting in one place, earning rates that were quietly shrinking.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Something had to change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The trustee question I couldn\u2019t ignore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "A trustee on our finance, audit and risk committee raised a question I couldn't ignore:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe have a significant amount of money sitting with a single bank. Is that really the smartest approach?\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "We looked at spreading deposits across other banks. But the paperwork was exhausting. Every bank wanted separate applications, we got so far and gave up.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Then I spotted something in the Department for Education (DfE) Update about a savings platform called Insignis. The fact that it was DfE-approved made all the difference*. Without that, I would have walked away.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Minutes not days\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "I booked a demo. It was straightforward, intuitive, and crucially, it didn't mean opening several separate bank accounts from scratch.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Instead, Insignis gives us access to over 55 banks through a single hub. We set everything up once. After that, opening a new deposit account takes minutes, not days. Currently we have deposits with 13 banks making maximum use of Financial Services Compensation Scheme (FSCS) protection of \u00a3120,000 per bank.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The platform shows us the interest rate on offer from each bank, and how long we'd need to lock money away. We can choose easy access accounts for cash flow, or fixed-term deposits for our reserves. It's flexible, and it puts us in control. Insignis provides a regular update on each bank\u2019s credit ratings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Security we can trust\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Security was something I thought hard about too. The platform uses a two-person process and multi-factor authentication. Our business manager inputs the transactions, and I approve them. Money can only ever return to our nominated account. Nobody can move funds anywhere else. That peace of mind matters.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also use Insignis smartly with our day-to-day cash flow, not just our reserves. As soon as funding comes in, we move it into the hub, place it into our chosen accounts and draw it down as we need it. Even our working capital earns interest now.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My advice to every school leader reading this\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "If your reserves are sitting in one place earning low rates, please look at this.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I know change feels risky. I felt nervous too. But the DfE has approved this route. The setup is simple, the security is robust, and the returns are real.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By using this savings platform, we are expecting a return of around \u00a330,000 across one year which we plan to use on our classroom libraries (\u00a315,000 per school) providing reading books for our children, many of whom may never have books at home.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The money sitting in your accounts right now could be working much harder for your pupils.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ready to find out more? \u202fVisit the DfE's Buying for Schools page to explore the savings platform and banking comparison tool. It costs nothing to take a look, and it could be the best financial decision you make for your school this year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "* Please note: DfE does not recommend specific banks or give financial advice. Always get independent advice before making changes",
+                "tag": "p"
+            },
+            {
+                "content": "Any savings, benefits and outcomes described in this case study were provided by Inspire Education Community Trust and reflect its specific experience and circumstances. Individual results will vary between schools and trusts.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2026/09/18/one-question-from-a-trustee-changed-everything-about-how-we-manage-our-finances/",
+        "blog": "Maximising Value for Pupils (Max VP)",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "Shaukat Islam, CEO and Executive Headteacher, Inspire Education Community Trust, Birmingham, shares how a DfE-approved savings platform transformed how the trust maximises returns on its reserves.\u00a0 Like most school leaders, I'm cautious with public money. When I first heard about \u2026"
+    },
+    {
+        "title": "Enrichment activities: what parents need to know",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2026-09-18T09:49:25",
+        "categories": [
+            "Arts",
+            "Creative Arts",
+            "Languages",
+            "Mental Health",
+            "School sport"
+        ],
+        "content": [
+            {
+                "content": "Thousands more young people will get the chance to take part in activities beyond the classroom, thanks to a \u00a322.5 million government investment in more than 400 schools in disadvantaged communities.",
+                "tag": "p"
+            },
+            {
+                "content": "The funding builds on the government\u2019s recently published Enrichment Framework, which sets out how schools and colleges can help children develop new interests, skills and experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s what parents need to know.",
+                "tag": "p"
+            },
+            {
+                "content": "What is enrichment?",
+                "tag": "h3"
+            },
+            {
+                "content": "Enrichment gives young people opportunities beyond their normal lessons to try new activities, discover what they enjoy and build skills for life.",
+                "tag": "p"
+            },
+            {
+                "content": "Schools and colleges must provide opportunities across five areas:",
+                "tag": "p"
+            },
+            {
+                "content": "Why is enrichment important?",
+                "tag": "h3"
+            },
+            {
+                "content": "Enrichment can help young people build confidence, develop important life skills and feel more connected to their school community.",
+                "tag": "p"
+            },
+            {
+                "content": "Research suggests that taking part in enrichment activities can also support higher attainment, better wellbeing and improved mental health.",
+                "tag": "p"
+            },
+            {
+                "content": "However, young people from disadvantaged backgrounds are often less likely to have access to these opportunities.",
+                "tag": "p"
+            },
+            {
+                "content": "That is why the government is investing \u00a322.5 million through the Enrichment Expansion Programme, helping more than 400 mainstream, special and alternative provision secondary schools expand and improve their enrichment offer.",
+                "tag": "p"
+            },
+            {
+                "content": "Is my area included?",
+                "tag": "h3"
+            },
+            {
+                "content": "The secondary schools taking part are located across all nine regions of England. Areas were selected based on levels of deprivation and local need.",
+                "tag": "p"
+            },
+            {
+                "content": "They include Birmingham, Blackpool, County Durham, Croydon, Hull, Liverpool, Manchester, Middlesbrough, Newcastle, Nottingham, Plymouth, Portsmouth, Sheffield, Stoke-on-Trent and Sunderland, as well as many other communities across the country.",
+                "tag": "p"
+            },
+            {
+                "content": "Schools on the programme will start receiving support from January 2027.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the government doing to improve enrichment opportunities?",
+                "tag": "h3"
+            },
+            {
+                "content": "The government has introduced new Enrichment Benchmarks to support schools and colleges to offer a broad range of high-quality activities.",
+                "tag": "p"
+            },
+            {
+                "content": "The new funding will help participating schools put these benchmarks into practice, making sure more children can benefit from enrichment opportunities, regardless of their background or where they live.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2026/09/enrichment-activities-what-parents-need-to-know/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Thousands more young people will get the chance to take part in activities beyond the classroom, thanks to a \u00a322.5 million government investment in more than 400 schools in disadvantaged communities. The funding builds on the government\u2019s recently published Enrichment \u2026"
+    },
+    {
         "title": "Dragons' Den IP Blog - Series 23 Episode 12",
         "authors": [
             "Jack Fairhurst"
