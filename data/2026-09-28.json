@@ -1,0 +1,772 @@
+[
+    {
+        "title": "The fastest way to improve policy is to build it",
+        "authors": [
+            "Jamie Laing - Deputy Service Owner in Data and AI Services"
+        ],
+        "posted_on": "2026-09-28T15:59:33",
+        "categories": [
+            "Engineering and Technology",
+            "User Centred Design"
+        ],
+        "content": [
+            {
+                "content": "Introduction",
+                "tag": "h2"
+            },
+            {
+                "content": "Jamie Laing",
+                "tag": "p"
+            },
+            {
+                "content": "The UK\u2019s Modern Industrial Strategy opens with a clear assessment of the context in which government must now operate:",
+                "tag": "p"
+            },
+            {
+                "content": "We must adapt the ways we build public services too.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ve been working on the delivery of the British Industrial Competitiveness Scheme (BICS), an important part of the 10-year plan set out in that strategy. It will reduce electricity costs for some of the country\u2019s most important businesses, strengthening our industrial competitiveness, encouraging investment and supporting high-quality manufacturing jobs across Great Britain.",
+                "tag": "p"
+            },
+            {
+                "content": "The scheme had been announced with a clear deadline for delivering support to businesses, but there was still significant work to do. The policy required 2 consultations and legislative change. Partner organisations needed time to prepare. We also needed to build the service through which businesses would apply.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That deadline meant policy and delivery could not happen one after the other. We needed to work in parallel, quickly turning emerging policy into something we could test with businesses and using what we learned to strengthen both the service and the policy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We decided to quickly build something testable, so that our service could feed back into the policy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building the smallest useful thing",
+                "tag": "h3"
+            },
+            {
+                "content": "From a rapid discovery phase, we knew from comparative schemes that the complex eligibility requirements for BICS would make them difficult to understand and time-consuming to prepare for.",
+                "tag": "p"
+            },
+            {
+                "content": "With this in mind, we decided to build the smallest, useful thing we could: an eligibility checker, now live on GOV.UK, that helps businesses decide if the scheme is relevant to them before preparing a full application.",
+                "tag": "p"
+            },
+            {
+                "content": "By turning emerging policy into a set of questions and rules that a business could work through, we are now able to test it, while working towards something that could provide immediate value when released.",
+                "tag": "p"
+            },
+            {
+                "content": "Through the checker, we hope to:",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering value daily",
+                "tag": "h2"
+            },
+            {
+                "content": "Michal Charemza",
+                "tag": "p"
+            },
+            {
+                "content": "The first thing we decided was that we would not have separate mock-up, prototype and build stages. Instead, I used existing GOV.UK Design System and security components to make a limited, but working, checker. I then deployed it into a secure production-like environment from virtually day one.",
+                "tag": "p"
+            },
+            {
+                "content": "From that initial deployment we iterated, with the working principle that we should deliver value daily whenever possible. Every day, I tried to make a change to the checker that:",
+                "tag": "p"
+            },
+            {
+                "content": "The every day aspect was crucial to not get bogged down in a quest for perfection. \u201cWhat doesn\u2019t need to be done?\u201d or \u201cWhat can we leave until later?\u201d were questions I constantly asked myself and others.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, when deciding how to identify a user\u2019s company, we assumed we would need a search by company name. Initially, because it was easier, we asked the user for their Companies House number. This kept it simple for users during testing, so we kept the interface pretty much as it was and decided to spend our time elsewhere.",
+                "tag": "p"
+            },
+            {
+                "content": "Some of that time was spent improving the robustness of the lookup. We added features that made the experience faster and more reliable for users once they had entered their Companies House number. These included integration with our internal data service (the Company Data Layer), retries, and a short cache to reduce load and waiting times. These improvements were added gradually, once we had validated that using a Companies House number was the right solution for users.",
+                "tag": "p"
+            },
+            {
+                "content": "Testing different versions with users",
+                "tag": "h3"
+            },
+            {
+                "content": "Building the eligibility checker for real from the beginning helped clarify the key requirements for users, policy colleagues, and ourselves.",
+                "tag": "p"
+            },
+            {
+                "content": "Sometimes this clarity came from finding the best solution from a range, so we built 20 variants into the checker and switched between them to test our approach.",
+                "tag": "p"
+            },
+            {
+                "content": "They allowed us to observe how users interacted with an interface that behaved exactly like a production service would, giving us evidence grounded in their use of a real service. It opened discussions with users not just around the interface itself, but around policy, such as whether it was even possible for them to answer certain questions, or what evidence we could ask of them. Interestingly, not all users could conceive that they could have an impact on government policy. \u2018It is what it is\u2019 was an attitude I witnessed on several occasions. But they can!",
+                "tag": "p"
+            },
+            {
+                "content": "Iterating with policy",
+                "tag": "h3"
+            },
+            {
+                "content": "To build a working checker so early, we had to create and iterate on a shared language that users, policy and operational teams could all understand and agree on.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, research participants using the checker reported that they wanted it to resolve uncertainty so that they could decide whether it was worth continuing with an application.",
+                "tag": "p"
+            },
+            {
+                "content": "That prompted useful conversations between policy and delivery colleagues about how we communicated eligibility, helping us to make the checker service clearer and more useful. What seemed like subtle differences in wording raised important questions that helped inform the policy as it developed.",
+                "tag": "p"
+            },
+            {
+                "content": "Testing the checker early also highlighted the significance of defining the word \u2018site\u2019. BICS is applied at the level of a manufacturing site, but initially the policy definition of a \u2018site\u2019 was not clear. When users tried to use the checker to enter products they manufactured at a single site, they had difficulty using the vague definition. This forced us to confront the fact that users could not split up their products into sites without an easily applicable definition, and the policy evolved.",
+                "tag": "p"
+            },
+            {
+                "content": "Delivery as part of policy",
+                "tag": "h2"
+            },
+            {
+                "content": "Jamie Laing",
+                "tag": "p"
+            },
+            {
+                "content": "Instead of treating delivery as an interpretation of policy, delivery became one of the ways in which policy was developed.",
+                "tag": "p"
+            },
+            {
+                "content": "Building and testing how rules worked for businesses reduced policy risk, before further details were placed into legislation and announced publicly.",
+                "tag": "p"
+            },
+            {
+                "content": "It also reduced delivery risk. By building early, we brought forward work on reusable components and data integrations that we have now been able to reuse in the full application service. It will be launched in the autumn.",
+                "tag": "p"
+            },
+            {
+                "content": "The close relationship between policy and delivery has been one of the strongest features of BICS. Working as a multidisciplinary team meant assumptions could be turned into something testable, challenged by users and improved with evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "We are still adapting to this way of working and learning to balance rapid feedback with the pressure of a fixed deadline. As we are working towards a hard deadline to deliver the larger application service, we are testing a more deliberate division of work. One part of the team has protected space to build the agreed scope, while another looks ahead through research, testing and design.",
+                "tag": "p"
+            },
+            {
+                "content": "Build to learn",
+                "tag": "h3"
+            },
+            {
+                "content": "The biggest lesson from BICS is that building earlier actually creates more time to learn and helps to prioritise the areas where research and decisions are needed.",
+                "tag": "p"
+            },
+            {
+                "content": "Every day you delay putting something testable in front of users reduces the time available to learn from it.",
+                "tag": "p"
+            },
+            {
+                "content": "As government tackles increasingly urgent and complex policy challenges, digital teams can do more than implement policy. By turning assumptions into rules and testing them with real users, we can help make policy clearer and more practical and evidence-based from the start.",
+                "tag": "p"
+            },
+            {
+                "content": "What assumptions in your policy could you put in front of your users sooner?",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/09/28/the-fastest-way-to-improve-policy-is-to-build-it/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "Building the BICS eligibility checker taught us that testable delivery can actually help shape policy decisions, not just implement them. Here's what we learned."
+    },
+    {
+        "title": "Introducing inspector accreditation",
+        "authors": [
+            "Matthew Purves, National Director, Ofsted Academy"
+        ],
+        "posted_on": "2026-09-28T14:00:00",
+        "categories": [
+            "inspection",
+            "professional development"
+        ],
+        "content": [
+            {
+                "content": "We want everyone to feel confident in Ofsted inspections and the inspectors who carry them out.",
+                "tag": "p"
+            },
+            {
+                "content": "In April 2025, our Chief Inspector, Sir Martyn Oliver, committed to introducing inspector accreditation as a way of recognising and verifying inspectors\u2019 expertise. The aim was to establish a clear, robust and externally validated approach that recognises professional expertise, supports continuous development and helps people feel confident in the standards that underpin our inspections.",
+                "tag": "p"
+            },
+            {
+                "content": "Accreditation provides greater transparency about the standards inspectors are expected to meet and the ways we support them.",
+                "tag": "p"
+            },
+            {
+                "content": "This month, September 2026, we have begun the process of rolling out accreditation to all our inspectors. We have started with inspectors employed by Ofsted \u2013 His Majesty\u2019s Inspectors and Regulatory Inspectors working in education and social care.",
+                "tag": "p"
+            },
+            {
+                "content": "I am pleased to share that all eligible employed inspectors have now achieved accreditation. This is an important milestone for Ofsted and an important step in strengthening confidence in the way inspection is delivered.",
+                "tag": "p"
+            },
+            {
+                "content": "Independent assurance from the British Standards Institution",
+                "tag": "h2"
+            },
+            {
+                "content": "We have not undertaken this work alone. I\u2019m pleased to confirm that Ofsted\u2019s accreditation arrangements have achieved external certification through the British Standards Institution.",
+                "tag": "p"
+            },
+            {
+                "content": "This independent certification provides assurance that the systems supporting accreditation meet recognised international quality standards.",
+                "tag": "p"
+            },
+            {
+                "content": "Our certification by the British Standards Institution requires external verification of the high standards, training and professional development arrangements already embedded across Ofsted, and regular checking of our accreditation decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "Why accreditation matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Inspectors carry out their roles daily on behalf of children and learners with professionalism, empathy and expert judgement. It is essential that parents, learners, providers and inspectors themselves have the clear assurance that inspectors are consistently meeting high standards.",
+                "tag": "p"
+            },
+            {
+                "content": "Accreditation provides externally validated assurance that inspectors are working within a consistent framework of professional standards, training and quality assurance.",
+                "tag": "p"
+            },
+            {
+                "content": "It sets a framework in which inspector expertise is not assumed, but is recognised, maintained and independently validated.",
+                "tag": "p"
+            },
+            {
+                "content": "Accreditation also draws together existing high expectations around induction, training, professional development, reflective practice and quality assurance.",
+                "tag": "p"
+            },
+            {
+                "content": "It confirms that inspectors have demonstrated the knowledge, skills and behaviours expected of them and that these standards are supported through established quality assurance arrangements.",
+                "tag": "p"
+            },
+            {
+                "content": "In doing so it provides a clear and consistent framework for developing and maintaining an inspector\u2019s expertise throughout their entire career.",
+                "tag": "p"
+            },
+            {
+                "content": "It therefore means everyone can trust that inspection is carried out by professionals whose expertise has been formally recognised and independently verified.",
+                "tag": "p"
+            },
+            {
+                "content": "Together with independent certification from the British Standards Institution, accreditation demonstrates Ofsted\u2019s ongoing commitment to professionalism, continuous improvement and openness about how inspector expertise is developed, maintained and recognised.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "Inspector accreditation is now a significant part of how we support inspectors, and we will continue to develop and extend this approach over time.",
+                "tag": "p"
+            },
+            {
+                "content": "We have begun with our employed inspectors, but the benefits and standards of accreditation will be extended to all those who inspect on Ofsted\u2019s behalf. We will therefore be communicating shortly with our contracted Ofsted Inspector colleagues, letting them know how we will extend the benefits of a consistent and externally validated accreditation framework to them, so that all those who inspect on Ofsted\u2019s behalf are accredited to the same standard.",
+                "tag": "p"
+            },
+            {
+                "content": "As we do this, we will continue to strengthen the arrangements that support high-quality inspection and regulation, enabling parents and providers to feel greater confidence in Ofsted\u2019s work and ultimately contributing to better outcomes for children and learners.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationinspection.blog.gov.uk/2026/09/28/introducing-inspector-accreditation/",
+        "blog": "Ofsted: education",
+        "blog_link": "https://educationinspection.blog.gov.uk",
+        "description": "We want everyone to feel confident in Ofsted inspections and the inspectors who carry them out. In April 2025, our Chief Inspector, Sir Martyn Oliver, committed to introducing inspector accreditation as a way of recognising and verifying inspectors\u2019 expertise. The \u2026"
+    },
+    {
+        "title": "Marian Spain - from first conversations to Landscape Recovery: a career in the field",
+        "authors": [
+            "Marian Spain"
+        ],
+        "posted_on": "2026-09-28T11:58:09",
+        "categories": [
+            "Biodiversity",
+            "Farming",
+            "Landscape",
+            "Natural England",
+            "Nature",
+            "Species recovery",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Marian Spain, CEO of Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog, Marian Spain reflects on Landscape Recovery, the ambitious agri-environment scheme uniting farmers, NGOs and investors across whole landscapes for 20-year commitments. Highlighting projects like Upper Duddon, Boothby and Evenlode, Marian shows how nature restoration and farm resilience combine to deliver food security, climate benefits and thriving rural communities.",
+                "tag": "p"
+            },
+            {
+                "content": "I started my career on the very first agri-environment schemes, working with farmers in East Anglia to agree the small, practical changes that could bring nature back to their land. I spent years having those conversations, and what struck me most was how many farmers wanted to see more wildlife on their land. That is still important to many farmers, but I am also increasingly struck by how many farmers now see nature as a vital part of their business. Better soil health, more pollinators, shade from trees, more water and wetlands all help make farms more resilient and so contribute to food security, and the security of individual businesses.",
+                "tag": "p"
+            },
+            {
+                "content": "The importance of that connection between farming and nature has never left me. It's why, as I look back over my career, I feel such pride that it now includes the development of the most ambitious agri-environment scheme we've ever attempted: Landscape Recovery.",
+                "tag": "p"
+            },
+            {
+                "content": "Landscape Recovery is built on a simple idea: that nature and farm resilience are two sides of the same coin. It asks farmers, landowners and their partners to think bigger, working across whole landscapes rather than single fields, and to commit for the long term, for 20 years or more, so that changes can take root across a generation rather than a single business cycle. It also asks projects to bring in private finance alongside public funding, and to build real partnerships with the communities who live and work in these landscapes. In doing so, it answers a call made over a decade ago by Sir John Lawton for habitats that are bigger, better, and more joined up.",
+                "tag": "p"
+            },
+            {
+                "content": "None of this happens through one organisation alone. Landscape Recovery is a genuinely joint endeavour, delivered with Defra, the Environment Agency and the Forestry Commission and of course with all of the partners \u00a0- farmers, local authorities, environmental NGOs, National Parks and National Landscapes - involved in the projects, and I want to thank everyone who has helped shape this scheme from the ground up.",
+                "tag": "p"
+            },
+            {
+                "content": "Real progress, on the ground takes time \u2013 but the outcomes for the nation are huge",
+                "tag": "h4"
+            },
+            {
+                "content": "I know that Landscape Recovery can sometimes seem slow to develop \u2013 from initial ideas to things happening on the ground takes 2-3 years.\u00a0 Developing a project of this scale, across multiple landholdings, with farmers, tenants, environmental organisations and private investors all working towards a shared plan, does takes time. And a lot of hard work from all involved. It has to. We're asking projects to build something robust enough to last two decades and deliver genuine value for public money, and that means getting the foundations right before work starts.",
+                "tag": "p"
+            },
+            {
+                "content": "Results are coming through",
+                "tag": "h4"
+            },
+            {
+                "content": "Since the first round opened in 2022, 56 projects have come through our two pilot rounds developing proposals across more than 250,000 ha.\u00a0 This has involved over 1,000 farmers and land managers who have taken part in developing this scheme alongside environmental NGOs, academics and private finance partners. Three projects are now delivering for nature across c6,700ha, and more will be underway before the year is out, which together could mean a total of more than 20,000 ha in delivery contributing to nature recovery, climate resilience and farm sustainability.",
+                "tag": "p"
+            },
+            {
+                "content": "One of those is the Upper Duddon Landscape Recovery Project in South-West Cumbria which began delivery in July 2025 across roughly 2,800 hectares of upland farming country. Led by the University of Leeds, it brings tenant farmers, landowners and environmental partners together to protect fell farming traditions while restoring the River Duddon and its tributaries, improving water quality, reducing flood risk downstream, and creating jobs and volunteering opportunities for the local community.",
+                "tag": "p"
+            },
+            {
+                "content": "I recently had the pleasure of celebrating this milestone with the Duddon team, and I heard two things from the farmers I met:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe valley is coming back to life\u201d - more jobs, more people, more activity, more nature; and \u201cthe scheme gives us a future\u201d - the certainty of 20 years income means farmers and their successors can be confident to keep investing in their business and their family\u2019s livelihoods.\u00a0 That, for me, captures exactly what this scheme is about.",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside Duddon, the Boothby Landscape Recovery Project is an ambitious nature recovery and river restoration project in Lincolnshire, led by Nattergal covering over 600 hectares of land. \u00a0The project combines public and private investment to deliver long-term biodiversity recovery, carbon storage and flood resilience and is now well into implementation, signing its agreement in June 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "The Evenlode Landscape Recovery Project, is a farmer-led landscape restoration initiative across the Evenlode catchment in the Cotswolds, aiming to improve river health, biodiversity, flood resilience and sustainable farming across more than 3,000 hectares. It is led by the North East Cotswold Farmer Cluster CIC (NECFC) and involves over 50 farmers and land managers working collaboratively to deliver long-term environmental recovery.\u00a0 I'm delighted to see it progressing alongside our other pioneering projects.",
+                "tag": "p"
+            },
+            {
+                "content": "What we're learning from Landscape Recovery",
+                "tag": "h4"
+            },
+            {
+                "content": "For farmers considering their own path, the principles behind LR translate directly into farm-level benefits: restoring native habitats brings back pollinators and natural pest control, healthier soils support better yields, and re-meandering rivers or restoring wetlands can keep nutrients on your land and reduce flood risk. Entering an LR project also means working with your neighbours, with a local project manager to manage the scheme on behalf of everybody (and help with the paperwork!) \u00a0and with people who understand your local landscape and who tailor the project to it. You will also be contributing for the nation to ensure food security, climate resilience and more nature for everybody\u2019s wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you to all our partners",
+                "tag": "h4"
+            },
+            {
+                "content": "As Chief Executive, I have the responsibility of signing off each LR grant agreement, and I don't take that lightly. Every signature represents years of work by landowners, tenants, communities and partners to agree a shared vision and proof it can deliver.",
+                "tag": "p"
+            },
+            {
+                "content": "To everyone who took part in rounds one and two, the farmers and tenant farmers, environmental NGOs, academics, private finance partners and more, thank you.",
+                "tag": "p"
+            },
+            {
+                "content": "Your patience and ambition are spearheading and building something genuinely new for the benefit of your land and communities. ",
+                "tag": "p"
+            },
+            {
+                "content": "Let's continue to drive this ambition forward.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more:",
+                "tag": "h4"
+            },
+            {
+                "content": "Find out more about Landscape Recovery and its ongoing projects by searching \"Landscape Recovery\" on the Defra Farming Blog.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "View Landscape Recovery project video highlighting benefits to well-being: Boothby volunteer video: Volunteering for Wellbeing | Fin's story",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/09/28/marian-spain-from-first-conversations-to-landscape-recovery-a-career-in-the-field/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "In this blog, Marian Spain reflects on Landscape Recovery, the ambitious agri-environment scheme uniting farmers, NGOs and investors across whole landscapes for 20-year commitments. Highlighting projects like Upper Duddon, Boothby and Evenlode, Marian shows how nature restoration and farm resilience combine to deliver food security, climate benefits and thriving rural communities."
+    },
+    {
+        "title": "Historic Court Buildings: Derby's dungeons and royal visits",
+        "authors": [
+            "HMCTS Communications"
+        ],
+        "posted_on": "2026-09-28T10:22:22",
+        "categories": [
+            "Podcast"
+        ],
+        "content": [
+            {
+                "content": "What's it like to stand inside the oldest magistrates' court in the country?\u00a0\u00a0In this episode, Melissa visits Derby Justice Centre, joined by senior legal advisor Glyn to explore the history of the Shire Hall, built in 1665. ",
+                "tag": "p"
+            },
+            {
+                "content": "Hear about its origins as a medieval court and public entertainment space, to its links with the Pentrich Martyrs and a hidden underground dungeon.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They also discuss the building's royal connections, its award-winning restoration, and how centuries of history sit alongside modern courtrooms still in use today.",
+                "tag": "p"
+            },
+            {
+                "content": "Listen to the latest episode now, available wherever you get your podcasts from!",
+                "tag": "p"
+            },
+            {
+                "content": "Amazon",
+                "tag": "p"
+            },
+            {
+                "content": "Apple",
+                "tag": "p"
+            },
+            {
+                "content": "Buzzsprout",
+                "tag": "p"
+            },
+            {
+                "content": "Spotify",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0transcript\u00a0of the podcast\u00a0is also available.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2026/09/28/historic-court-buildings-derbys-dungeons-and-royal-visits/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "In this episode of Inside HMCTS, Melissa visits Derby Justice Centre, joined by senior legal advisor Glyn to explore the history of the Shire Hall, built in 1665, from its origins as a mediaeval court and public entertainment space to its links with the Pentrich Martyrs and a hidden underground dungeon."
+    },
+    {
+        "title": "We\u2019re hiring in Manchester: build your career with us in software development or delivery management",
+        "authors": [
+            "MHCLG Digital team"
+        ],
+        "posted_on": "2026-09-28T09:26:10",
+        "categories": [
+            "Careers"
+        ],
+        "content": [
+            {
+                "content": "Are you in the early stage of your career and looking for an opportunity where you\u2019ll be supported to learn, develop and progress?",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re recruiting early-career professionals to join our digital teams as Junior Developers and Associate Delivery Managers.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s an opportunity to progress fast in an inclusive and collaborative environment, while working on impactful digital projects and services that make a real difference to people\u2019s lives.",
+                "tag": "p"
+            },
+            {
+                "content": "You\u2019ll learn through hands-on experience, supported by senior colleagues, mentoring and dedicated learning and development opportunities tailored to your role.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re recruiting 10 people across 2 roles based in Manchester:",
+                "tag": "p"
+            },
+            {
+                "content": "Applications are open until Sunday, 11 October 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Do work that matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Our digital teams design, build and run services used by people and communities right across the UK. We\u2019re all about innovation, user-centred design and agile working to solve some of the most important public challenges, and deliver improved outcomes for citizens.",
+                "tag": "p"
+            },
+            {
+                "content": "As a Junior Developer, you\u2019ll get hands-on experience working with a mix of technology platforms and a modern tech stack in a Cloud-based environment.",
+                "tag": "p"
+            },
+            {
+                "content": "As an Associate Delivery Manager, you\u2019ll help multidisciplinary teams deliver user-centred services, using agile ways of working to solve real problems.",
+                "tag": "p"
+            },
+            {
+                "content": "You could work on a great variety of programmes, as well as using AI and emerging technologies to transform how we deliver services. Whatever you work on, you\u2019ll have opportunities to try new things, solve problems and learn from experienced colleagues.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn, develop and progress",
+                "tag": "h2"
+            },
+            {
+                "content": "You don\u2019t need to arrive knowing everything. These roles are designed to give you opportunities to develop your skills and grow professionally.",
+                "tag": "p"
+            },
+            {
+                "content": "You\u2019ll have access to learning and development tailored to your role and level. This includes on-the-job learning, mentoring, training and professional certifications, apprenticeships and opportunities to learn from your peers.",
+                "tag": "p"
+            },
+            {
+                "content": "You\u2019ll also be part of active Technology or Delivery communities of practice, where colleagues share knowledge, solve problems together and learn from each other.",
+                "tag": "p"
+            },
+            {
+                "content": "And your development does not stop with your first role. Working in the Ministry of Housing, Communities and Local Government (MHCLG) Digital as well as being part of the wider Digital and Data profession in government offers a wealth of opportunities to continue developing your skills and explore different career paths as you progress.",
+                "tag": "p"
+            },
+            {
+                "content": "Be part of an inclusive team",
+                "tag": "h2"
+            },
+            {
+                "content": "We want everyone to feel able to contribute, develop and be themselves at work.",
+                "tag": "p"
+            },
+            {
+                "content": "You\u2019ll work in small multidisciplinary teams where different experiences and perspectives are valued. We welcome applications from people of all backgrounds and encourage applications from groups that are currently underrepresented in our workforce.",
+                "tag": "p"
+            },
+            {
+                "content": "We support a healthy work-life balance with flexible and hybrid working, alongside a range of Civil Service benefits. These include generous annual leave and pension, and up to 6 days of fully paid volunteering leave each year, giving you time to support causes that matter to you.",
+                "tag": "p"
+            },
+            {
+                "content": "A chance to meet and get to know each other",
+                "tag": "h2"
+            },
+            {
+                "content": "Our recruitment process will give you different opportunities to demonstrate your potential and find out whether we\u2019re the right place for you.",
+                "tag": "p"
+            },
+            {
+                "content": "If you progress to our assessment centre, you\u2019ll meet friendly people from our digital teams and senior leaders, hear more about our work and learn about the opportunities available to develop your career.",
+                "tag": "p"
+            },
+            {
+                "content": "The assessment centre will include a collaborative team challenge, a technical exercise and an interview.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s not just about us assessing you. You\u2019ll also be able to ask questions, connect with potential colleagues in your specialism and get a feel for what working here could be like.",
+                "tag": "p"
+            },
+            {
+                "content": "Apply now",
+                "tag": "h2"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/09/28/were-hiring-in-manchester-build-your-career-with-us-in-software-development-or-delivery-management/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Are you a junior professional looking for a career opportunity where you\u2019ll be supported to learn, develop and progress fast? Join our digital teams as Junior Developer and Associate Delivery Manager in Manchester."
+    },
+    {
+        "title": "Stronger together in rabies diagnostics",
+        "authors": [
+            "Charlotte Marsh"
+        ],
+        "posted_on": "2026-09-28T09:00:00",
+        "categories": [
+            "Viral diseases"
+        ],
+        "content": [
+            {
+                "content": "In this blog, we hear from two members of the current rabies team whose careers reflect both the evolution of rabies surveillance and the enduring importance of teamwork, expertise and adaptability.",
+                "tag": "p"
+            },
+            {
+                "content": "Their reflections offer a unique insight into the challenges, achievements and unexpected moments that come with protecting animal and human health, while demonstrating why, in rabies diagnostics, we are always stronger together.",
+                "tag": "p"
+            },
+            {
+                "content": "Expect the unexpected: a year as Rabies Chief Diagnostician",
+                "tag": "h2"
+            },
+            {
+                "content": "Charlotte Marsh",
+                "tag": "p"
+            },
+            {
+                "content": "When I took on the role of Rabies Chief Diagnostician this year, I knew there would be plenty to keep me busy. What I quickly discovered was that no one can fully prepare you for quite how varied the role can be. Luckily, I joined a team with a huge depth of experience, including colleagues who have spent decades working in rabies diagnostics and have helped shape the service we deliver today.",
+                "tag": "p"
+            },
+            {
+                "content": "One of the most significant parts of my role is managing testing for the PETS travel scheme. The scheme involves testing pet serum samples for rabies antibodies, helping to ensure that pets meet the requirements to travel abroad. It might sound straightforward, but there is a lot involved in getting these tests right. Testing more than 17,000 samples last year, while also meeting required turnaround times, means managing the workload can be a challenge.",
+                "tag": "p"
+            },
+            {
+                "content": "Another important part of the role is managing the testing for the bat rabies passive surveillance scheme. This long-established project monitors bats in the United Kingdom (UK) for lyssaviruses, a group of viruses that can cause rabies. While I am new to leading this work, I am very aware that I am building on decades of surveillance and expertise developed by those who came before me.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK has been free of classical rabies for more than 100 years thanks to the work carried out at APHA, but European bat lyssaviruses (EBLV) have been increasingly detected in UK bats in recent years. As part of the surveillance scheme, we receive more than 1,200 bats each year, with the majority arriving during the summer months when bats are at their most active.",
+                "tag": "p"
+            },
+            {
+                "content": "And, of course, not everything that arrives in the laboratory is necessarily what you expect it to be. Alongside the bats, we have received specimens including frogs, squirrels and even insulation foam. One of the things I enjoy most about working in diagnostics is that there is always something new to learn, even if it is first figuring out whether a submission is actually a bat at all!",
+                "tag": "p"
+            },
+            {
+                "content": "A small percentage of the bats we receive test positive for EBLV. As rabies is a notifiable disease, it is vital that positive results are identified and reported as quickly as possible, particularly if there is a reported human or animal exposure. This highlights the importance of robust testing, quality assurance and a highly skilled diagnostic team.",
+                "tag": "p"
+            },
+            {
+                "content": "I am incredibly lucky to work alongside such an experienced and dedicated group of people. When the pressure is on, everyone pulls together. Whether it is managing the large volume of PETS samples, processing 40 bats a day during the busy summer months, or responding to something much more unexpected, such as testing suspect rabies animals with dubious import documents or confirming rabies in the human case last year, the team steps up. Listening to colleagues talk about the changes they have seen over the years gives me a real appreciation for how much the team has achieved and how its remit has grown.",
+                "tag": "p"
+            },
+            {
+                "content": "There is also a huge amount of quality assurance involved in running these tests. It may not always be the most visible part of diagnostic work, but it is absolutely essential. Every stage of the process needs to be robust and reliable, because behind every sample is a decision that can have important consequences for animal and human health.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking back over the year, this role has undoubtedly taught me the meaning of \"expect the unexpected\". No two days are quite the same, and just when you think you know what is coming through the laboratory door, along comes a pile of moss imitating a common pipistrelle.",
+                "tag": "p"
+            },
+            {
+                "content": "And now, as another year approaches, I find myself wondering one thing: what will next year have in store for us?",
+                "tag": "p"
+            },
+            {
+                "content": "Expect the unexpected: thirty years in the Rabies Team at Weybridge",
+                "tag": "h2"
+            },
+            {
+                "content": "Lorraine McElhinney",
+                "tag": "p"
+            },
+            {
+                "content": "I started work as a Scientific Officer in the Rabies Team in April 1996, before the UK's first case of bat rabies and before the pet travel scheme was introduced. There were six in the team, and our chief diagnostician was shared with the Avian Influenza workgroup. Back then, our team handled the rare suspect human and animal cases and tested only 200 sera a year for imported vaccinated pedigree dogs and cats, a small number of animals that died in quarantine and less than 200 bats per year.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking at the work undertaken by the team today, it is remarkable to see how much has changed. Watching colleagues like Charlotte take on the role of Rabies Chief Diagnostician has reminded me how much the service has evolved, while the fundamental purpose of protecting animal and human health has remained the same.",
+                "tag": "p"
+            },
+            {
+                "content": "In the past 30 years, I have worked with some amazing scientists through many changes and challenges. The detection of bat rabies in two species of bats in Great Britain led to a five-fold rise in bat submissions, while the growing popularity of international pet travel schemes resulted in a 100-fold increase in pet testing at APHA. We have also responded to the tragic confirmation of human rabies in travellers and expanded our international engagement as World Organisation for Animal Health (WOAH) and World Health Organisation (WHO) international rabies reference laboratories.",
+                "tag": "p"
+            },
+            {
+                "content": "One thing that has remained constant throughout those years is the dedication of the people involved. Whether responding to a complex suspect case, a surge in bat submissions or a new challenge nobody has encountered before, the team has always risen to the occasion. It has been incredibly rewarding to see new generations of scientists and diagnosticians bring fresh ideas and enthusiasm while continuing that tradition.",
+                "tag": "p"
+            },
+            {
+                "content": "I have also loved the wider connections with other scientists in the Science Directorate at APHA, Veterinary Exotic Notifiable Diseases Unit (VENDU), and imports and border staff. What started as a team of six has grown into a team of 24 staff with a remit to undertake research and testing for rabies and other viral zoonoses.",
+                "tag": "p"
+            },
+            {
+                "content": "I feel very privileged to have had such an amazing career in the rabies field at APHA and can certainly echo Charlotte's sentiments that my day job is far from predictable. In fact, despite thirty years of experience, I am still regularly surprised by what each day brings.",
+                "tag": "p"
+            },
+            {
+                "content": "Today, I am lucky enough to be in Kruger National Park where two of the team, Megan Golding and Joan Cuesta, will present their rabies PhD research to an international audience. Seeing colleagues share their work on a global stage is a reminder of how far both the team and the science have come.",
+                "tag": "p"
+            },
+            {
+                "content": "Building on the team's commitment to innovation and scientific excellence, one area helping to shape the future of rabies diagnostics is artificial intelligence. In the video below, Joan Cuesta shares his research exploring how AI could support and enhance diagnostic approaches, demonstrating how new technologies are helping advance rabies science at APHA and beyond.",
+                "tag": "p"
+            },
+            {
+                "content": "Watch the video below to learn more about Joan's work in AI and rabies diagnostics.",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst writing this blog, and just after attending an online meeting with other heads of rabies labs, I was joined by a baboon looking for food in my bin. Thirty years later, it seems the lesson is still the same: expect the unexpected.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2026/09/28/stronger-together-in-rabies-diagnostics/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "Meet the team behind APHA\u2019s rabies diagnostics this World Rabies Day 2026, and discover the challenges, successes and expertise driving the protection of animal and human health."
+    },
+    {
+        "title": "How TechTrack helped Sophie start a digital career\u00a0\u00a0",
+        "authors": [
+            "Sophie Metcalf, MoJ"
+        ],
+        "posted_on": "2026-09-28T07:00:00",
+        "categories": [
+            "DDaT",
+            "DDaT community",
+            "Digital learning and development"
+        ],
+        "content": [
+            {
+                "content": "TechTrack is a Level 4 digital apprenticeship programme that helps people develop technical skills through structured learning and practical experience.\u00a0 We spoke to Sophie Metcalf, one of the first TechTrack software developer apprentices, about changing careers and working in digital government.\u00a0\u00a0\u00a0Sophie previously worked in education and joined the programme with no prior experience in digital and data. She passed her end-point assessment with a distinction, and has since been promoted to a software developer in the Ministry of Justice.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How has the TechTrack apprenticeship helped you move into a digital role?\u00a0\u2028\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The TechTrack apprenticeship has been instrumental in helping me transition into a digital role.\u00a0\u00a0\u00a0Coming from a background in education with no prior experience or qualifications in development, it has required a big shift in ways of working and has involved learning a whole new technical skill set.\u00a0\u00a0\u00a0The apprenticeship allowed me to learn the technical skills I need in a hands-on, practical way, directly from experienced professionals.\u00a0\u00a0\u00a0I have found this such an effective way to learn, allowing me to contribute to projects as I learn.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What has surprised you most about working in a digital role in government?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As this was such a big change for me, I wasn\u2019t sure what to expect when I first started this process, but I have had a very positive experience of working in a digital government team.\u00a0\u00a0\u00a0I have had a great deal of support from everyone, and I really feel that I have been set up for success from day one. The range of expertise and experience in teams is evident, and I have been lucky to be able to learn from some talented people.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s been the most rewarding part of changing careers?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I feel very fortunate that I\u2019ve been able to begin my technical career in the Civil Service, because it has allowed me to be part of an organisation that is making a real difference through the work we\u2019re doing.\u00a0\u00a0\u00a0I have been able to draw on skills from my previous career such as communication, organisation and problem-solving, applying them in a new context to collaborate effectively with others, manage the workload of being a developer and completing an apprenticeship, and approaching technical challenges.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What kind of real-world impact have you been able to make in your role so far?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I think one of the best things about an apprenticeship is that you are doing the job from almost day one, meaning that I have felt able to add value to my team from early in my placement.\u00a0\u00a0\u00a0In a relatively short time, I\u2019ve been able to contribute to codebases, adding new features and fixing bugs. I\u2019ve been able to gradually take on more responsibility as my confidence and skills have grown. This has allowed me to make a meaningful difference, while still undertaking my own learning journey.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What 3 words sum up your apprenticeship?\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "SupportiveI constantly felt encouraged and supported, which improved my confidence and helped make difficult things easier to navigate.\u00a0\u00a0TransformativeCompleting the apprenticeship has changed the way I work, think, and approach my work. It has also given me a career I love and am proud of.\u00a0\u00a0MotivatingIt has inspired me to push myself and take initiative and has helped me prove to myself that I am capable of learning, adapting to, and succeeding in a completely new field.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What would you say to someone considering an apprenticeship in digital?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I would (and have) recommend this apprenticeship to anyone who wants a career in digital. The support, opportunities and learning experiences have been fantastic.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cddo.blog.gov.uk/2026/09/28/how-techtrack-helped-sophie-start-a-digital-career/",
+        "blog": "Government Digital and Data",
+        "blog_link": "https://cddo.blog.gov.uk",
+        "description": "Sophie Metcalf explains how a TechTrack apprenticeship helped her move from education into a software development career in government."
+    }
+]
