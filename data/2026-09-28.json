@@ -1,5 +1,1281 @@
 [
     {
+        "title": "Help us test the DVS register\u2019s machine-readable infrastructure\u00a0",
+        "authors": [
+            "Aniqa"
+        ],
+        "posted_on": "2026-09-29T17:02:50",
+        "categories": [
+            "OfDIA team"
+        ],
+        "content": [
+            {
+                "content": "The Office for Digital Identities and Attributes (OfDIA) is inviting digital verification service providers (DVSPs) to help test new infrastructure that will make the\u00a0digital verification services (DVS) register machine-readable.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the DVS market grows, it will become\u00a0increasingly important for organisations\u00a0to check that the services they use, rely on or connect with\u00a0are on the register. Machine-readable infrastructure will make it easier to check the register securely and at scale.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Technical testing will cover two models. The API model supports secure data exchange through direct connections between services, relying parties and public authorities. The credential model supports the verification of credentials presented through digital wallets. This post explains how each model works.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can find more detailed documentation about technical integration\u00a0on GitHub.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How the two technical models work\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "When organisations check the status of a service on the DVS register, the technical model they use will depend on the type of transaction taking place. We are building two models to support different transaction types.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "API model: establishing direct connections between services\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The API model supports transactions where one service connects directly to another service or organisation. For example, a DVSP might ask a public authority, such as DVLA, to validate an individual\u2019s data. Before sharing data, the public authority needs to check that the service trying to connect is registered. X.509 certificates and the OpenID Federation specification will enable this.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Credential model: verifying issuers, verifiers and credentials\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The credential model supports transactions where an individual presents a credential from a digital wallet. For example, a customer might need to prove their age at a supermarket checkout. Before sharing the credential, the wallet needs to confirm that the reader service is a registered verifier. The reader service also needs to confirm that the credential came from a registered issuer. Two signed lists, called a VICAL (Verifier Identity Certificate Authority List) and a RICAL (Reader Identity Certificate Authority List), will\u00a0enable this.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Using the new infrastructure ",
+                "tag": "h2"
+            },
+            {
+                "content": "Set up your service through the DVSP Portal\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "To support both models, we are developing a DVSP Portal. DVSPs will gain access to the portal when they join the DVS register. DVSPs that are already registered will receive instructions to create an account when the service is launched. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Submit information through the DVSP Portal\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "When a DVSP joins the register, they will use the portal to submit and manage information about their services. This includes technical information that will allow them to generate transport certificates and entity configurations.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Generate transport certificates\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Under the API model, each participating DVSP will generate\u00a0its own transport certificate bound to its identity. The DVSP will generate a key pair for each registered service and submit a certificate signing request to OfDIA via the DVSP Portal. The private key will remain under its control. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An appointed certificate authority will issue the certificate, and the certificate will chain back to an OfDIA root certificate authority. This creates a trust chain, so that when a DVSP presents a certificate, it can be\u00a0traced back to OfDIA.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Create and publish entity configurations\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Each service has\u00a0an entity identifier.\u00a0This is used to identify the service within the federation. The DVSP will publish a statement called an entity configuration\u00a0at a standard location under this entity identifier. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The entity configuration is a self-signed JSON Web Token (JWT), which contains metadata about the service, the public keys for verifying federation statements, and authority_hints pointing to OfDIA. It can also carry separately signed OpenID Federation trust marks attesting certification details. These are machine-readable assertions, separate to the UK CertifID trust mark.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Separately, OfDIA will publish a signed subordinate statement binding the service\u2019s entity identifier to its federation keys and applying the relevant metadata or policy. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How the API model establishes trust\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Check that a service is registered\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before relying on\u00a0a service, an organisation may want to check that it is on the DVS register. To do this under the API model, an organisation can:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An organisation may use\u00a0mutual TLS (mTLS) to check certificates. During the handshake, the DVSP\u00a0presents its transport certificate and proves possession of the matching private key.\u00a0This establishes a protected connection. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation receiving the connection checks that the certificate chains back to the OfDIA root certificate authority. It also checks that the certificate is within its validity period and has not been revoked.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OfDIA only issues transport certificates to registered services. Therefore, a valid transport certificate confirms that a service is on the DVS register. However, it does not confirm what the service is certified to do.",
+                "tag": "p"
+            },
+            {
+                "content": "An organisation or DVSP can check client identity\u00a0in two ways. They can use tls_client_auth, where a service proves its identity using a trusted certificate during the mutual TLS (mTLS) connection. Or they can use private_key_jwt, where it proves its identity by signing a JWT using a trusted private key.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Check what a service is certified to do\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before relying on a service, an organisation may want to check its role types, GPG 44/45 profiles, and supplementary codes to confirm what it is certified to do. To do this under the API model,\u00a0an organisation can:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation finds the service\u2019s entity identifier.\u00a0It then fetches the service\u2019s entity configuration from the standard location. The authority_hints value in the entity configuration points to OfDIA.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service\u2019s entity configuration points to OfDIA\u2019s\u00a0fetch endpoint. The organisation will use the fetch endpoint to obtain the\u00a0service\u2019s subordinate statement. ",
+                "tag": "p"
+            },
+            {
+                "content": "An organisation will validate the complete trust chain using OpenID Federation rules. It will:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A service will not be trusted if the chain fails the required validation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OfDIA will also provide a resolve endpoint. The resolve endpoint will validate the trust chain and return\u00a0information about the DVSP including its metadata and trust marks. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation applies the metadata and metadata policies from OfDIA\u2019s subordinate statement to the metadata in the service\u2019s entity configuration.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The resolved metadata reflects the service\u2019s certification details on the DVS register. This confirms the service\u2019s role types, GPG 44/45 profiles and supplementary codes. The service cannot claim certification details that OfDIA does not hold for it on the DVS register.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation checks that the resolved metadata belongs to the same service that presented the transport certificate.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation checks that the service\u2019s certification details meet its own authorisation requirements for the transaction. If they do, the two services can exchange information over the mTLS connection.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Removing a service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Validated information can be cached to enable offline transactions and to\u00a0avoid a central register lookup during every transaction. However, cached chains are usable only within their validity period and the profile\u2019s refresh limits. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If a service is removed from the register, OfDIA will revoke its transport certificate and stop publishing subordinate statements about it. The removal takes effect when the organisation revalidates the trust chain and trust evidence, or when its cached statements expire, whichever happens first.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How the credential model establishes trust \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Before accepting credentials, an organisation may want to verify that the parties involved in a transaction can be trusted. In the credential model, trust is established using two signed lists, both defined in the international standard ISO/IEC 18013-5:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A VICAL lets a verifier, such as an orchestration service provider, check that a credential was issued by a registered issuer, such as an attribute service provider. A RICAL lets a wallet, such as a holder service provider, check that a verifier is registered before sharing data. Both lists are published by OfDIA. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Under the credential model, an organisation can:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OfDIA publishes the VICAL and RICAL at an OfDIA URL. Each list includes information such as when it was issued and when it will next be updated.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Verifiers obtain the VICAL and wallets obtain\u00a0the RICAL. They check the list\u2019s signature and cache the list until its next update.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OfDIA will specify how long wallets and verifiers can use a list after its update date. This stops a device which has been offline from trusting an old list.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Individuals can store digital credentials in wallets. To\u00a0initiate device connection\u00a0in person, an individual could show a QR code from their wallet or tap their phone to the verifier\u2019s NFC reader. The wallet and the verifier then establish session keys\u00a0and an encrypted channel.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The verifier sends a request for the data it needs. The request is signed with the verifier\u2019s private key and includes its certificate chain.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before releasing any information, the wallet:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If the verifier passes these checks, the transaction continues. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The wallet may seek approval from the individual to share data with the verifier. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If the individual agrees, the wallet sends the data they have approved. This includes data signed by the issuer, and the issuer\u2019s document signer certificate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The verifier then:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The verifier accepts the credential only if all checks pass.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Removing an issuer or verifier\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If an issuer or verifier is removed from the register, OfDIA will remove its root certificate from the next version of the VICAL or RICAL. The change takes effect when wallets and verifiers obtain\u00a0the updated list.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next Steps\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In October 2026, we will be testing our machine-readable infrastructure onboarding process and starting to run interviews with DVSPs to understand readiness for integration testing.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have\u00a0also published the technical document for machine-readable infrastructure integration on GitHub. We will begin testing both technical models later this year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Take part in testing\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We need DVSPs to help us test the onboarding process and both technical models. To take part, email us digital.identity.register@dsit.gov.uk.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/09/29/help-us-test-the-dvs-registers-machine-readable-infrastructure/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "The Office for Digital Identities and Attributes (OfDIA) is inviting digital verification service providers (DVSPs) to help test new infrastructure that will make the\u00a0digital verification services (DVS) register machine-readable.\u00a0\u00a0 As the DVS market grows, it will become\u00a0increasingly important for organisations\u00a0to \u2026"
+    },
+    {
+        "title": "Building on the PSGA: better data, wider impact",
+        "authors": [
+            "Esther Oluwajana, Contract and Procurement Lead, Geospatial:GDS"
+        ],
+        "posted_on": "2026-09-29T15:06:22",
+        "categories": [
+            "Data",
+            "innovation",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "The Public Sector Geospatial Agreement has transformed access to Britain\u2019s national location data. We look at what GDS, Ordnance Survey and public-sector users have achieved together, how organisations are using the data and how the next phase can build on that progress.",
+                "tag": "p"
+            },
+            {
+                "content": "Britain\u2019s national location data has taken a significant step forward.The OS National Geographic Database (OS NGD) now contains 16 data collections and has received 70 major enhancements since its launch in 2022. Together, they form the most detailed and data-rich digital map of Britain produced by Ordnance Survey (OS).",
+                "tag": "p"
+            },
+            {
+                "content": "This is a significant milestone for the Public Sector Geospatial Agreement (PSGA), which GDS manages on behalf of government in partnership with OS. It also provides a strong foundation for the next phase of our work.",
+                "tag": "p"
+            },
+            {
+                "content": "Our emerging ambition is to build on the current agreement and develop a broader strategic partnership with OS. We want trusted, high-quality location data to reach more public services, digital platforms and users, while supporting innovation, the responsible use of data and AI, and economic growth.",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering better data through partnership",
+                "tag": "h2"
+            },
+            {
+                "content": "The PSGA was launched in 2020, providing a common framework through which eligible public-sector organisations can access OS data and expertise.",
+                "tag": "p"
+            },
+            {
+                "content": "It has delivered more than access to established mapping products. The agreement has supported a wider transformation in how Britain\u2019s national location data is structured, accessed and used.",
+                "tag": "p"
+            },
+            {
+                "content": "One of its most significant achievements has been the launch and development of the OS National Geographic Database. The OS NGD brings authoritative and detailed geographic data about Great Britain together in one place.",
+                "tag": "p"
+            },
+            {
+                "content": "Its latest release includes:",
+                "tag": "p"
+            },
+            {
+                "content": "Users can access OS NGD data through application programming interfaces and OS Select+Build, which allows organisations to create customised datasets.",
+                "tag": "p"
+            },
+            {
+                "content": "These improvements give public bodies a stronger foundation for planning services, understanding communities and making better-informed decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "They are the result of sustained collaboration. GDS provides strategic oversight of the agreement, helping to ensure that investment reflects government and public-sector priorities. OS captures, maintains and improves Britain\u2019s national location data, while feedback from users helps identify where further improvements could deliver the greatest value.",
+                "tag": "p"
+            },
+            {
+                "content": "Putting the data to work",
+                "tag": "h2"
+            },
+            {
+                "content": "Around 6,500 public-sector organisations across England, Scotland and Wales currently access authoritative OS data and expertise through the PSGA. The value of the agreement can already be seen in how organisations are using the data.",
+                "tag": "p"
+            },
+            {
+                "content": "Newark and Sherwood District Council has adopted the full range of OS NGD products and integrated the data into its systems. This has strengthened its geospatial capability and supported work including safer walking routes, planning CCTV locations and analysing access to local health services.",
+                "tag": "p"
+            },
+            {
+                "content": "Torfaen County Borough Council has combined roads, water, land-cover and sites data to create a more detailed view of its green infrastructure. This supports public engagement, planning decisions, contract tenders and the future maintenance of parks, paths and blue spaces.",
+                "tag": "p"
+            },
+            {
+                "content": "OS data has also supported a tool developed with Transport for the North to help local authorities understand regional differences in access to electric vehicle charging infrastructure. Using machine learning, the tool identifies which of the region\u2019s 6.4 million households are likely to have access to off-street parking and therefore the potential to charge an electric vehicle at home.",
+                "tag": "p"
+            },
+            {
+                "content": "These examples show how trusted national data can be combined with local knowledge and new technology to address practical public-policy challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "David Ball, Head of Public Sector at Ordnance Survey, said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe delivery of the PSGA to date has been a real success story for the public sector and for users of authoritative location data across Britain. Working closely with GDS, we have strengthened access to the data, expertise and services that organisations need to make better decisions and deliver better outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe continued development of the OS National Geographic Database is a clear example of that progress, bringing richer, more detailed and more accessible location data together in one place, and helping public-sector organisations turn trusted geospatial information into practical impact.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Mapping of Southwell town centre and surrounding residential streets showing the locations of litter bins as blue circular markers - helping keep the area clean and tidy.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting growth and the UK\u2019s data economy",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK is home to a world-leading geospatial ecosystem. Our collaboration with OS through the PSGA is helping to ensure that this strength delivers real benefits for citizens, public services and the economy.",
+                "tag": "p"
+            },
+            {
+                "content": "By improving access to high-quality location data, the PSGA is enabling innovation, supporting the responsible use of data and AI, and creating foundations for future growth across sectors.",
+                "tag": "p"
+            },
+            {
+                "content": "An independent Economic Impact Report commissioned by OS estimates that every \u00a31 of public funding invested in OS generates \u00a39.50 in societal benefit. It estimates an economic impact of more than \u00a310 billion over 10 years, equivalent to around \u00a31 billion each year across a wide range of sectors.",
+                "tag": "p"
+            },
+            {
+                "content": "Building the next phase of the PSGA",
+                "tag": "h2"
+            },
+            {
+                "content": "The PSGA has created a strong national data foundation. Our focus now is on increasing the value and impact generated from it.",
+                "tag": "p"
+            },
+            {
+                "content": "The next phase will build on what has worked while responding to changing technology, user needs and government priorities. It provides an opportunity to broaden access to trusted location data, make it easier to use and help more organisations apply it to public services and wider economic challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "This supports the ambition set out in GDS\u2019s roadmap for modern digital government, which explains how the public sector is using technology to make government work better for the citizens it serves. Trusted location data forms part of the digital public infrastructure needed to connect services, support responsible use of AI and make better-informed decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "Work under the current agreement will continue alongside planning for the future. GDS and OS will help organisations adopt OS NGD data and move from longstanding products to newer OS NGD-derived services. We will also continue listening to users and learning from their experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "The PSGA has demonstrated the value of investing in better data. The next phase is about ensuring that data reaches more users and delivers even greater impact for people, places and the economy.",
+                "tag": "p"
+            },
+            {
+                "content": "Help shape the future of location data services",
+                "tag": "h2"
+            },
+            {
+                "content": "GDS is undertaking engagement across the public sector to understand emerging challenges and opportunities that will shape the future iteration of the PSGA. If you haven't already done so, take this opportunity to provide your input and complete GDS's survey. ",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about PSGA at the PSGA autumn 2026 events register for a free place at one of the national or regional events.",
+                "tag": "p"
+            },
+            {
+                "content": "Read about the latest OS National Geographic Database release and data enhancements.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out how public-sector organisations can access OS data through the Public Sector Geospatial Agreement.",
+                "tag": "p"
+            },
+            {
+                "content": "You can\u00a0sign up\u202fto get an email notification every time we publish a new blog post. For more information on our work see the GDS gov.uk site, or follow us on\u202f\u00a0LinkedIn\u202f",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gdsgeospatial.blog.gov.uk/2026/09/29/building-on-the-psga-better-data-wider-impact/",
+        "blog": "Geospatial Insights",
+        "blog_link": "https://gdsgeospatial.blog.gov.uk",
+        "description": "The Public Sector Geospatial Agreement has transformed access to Britain\u2019s national location data. We look at what GDS, Ordnance Survey and public-sector users have achieved together, how organisations are using the data and how the next phase can build on \u2026"
+    },
+    {
+        "title": "Consultation opens on three joint UK pelagic FMPs",
+        "authors": [
+            "FMP team, Scottish Government's Marine Directorate"
+        ],
+        "posted_on": "2026-09-29T12:12:47",
+        "categories": [
+            "- Scotland led FMPs",
+            "Public consultation"
+        ],
+        "content": [
+            {
+                "content": "Today, the Scottish Government is opening a public consultation on three proposed joint UK fisheries management plans (FMPs).",
+                "tag": "p"
+            },
+            {
+                "content": "The plans cover:",
+                "tag": "p"
+            },
+            {
+                "content": "The North Sea horse mackerel FMP was developed jointly by Defra and the Scottish Government. The two greater silver smelt FMPs were developed jointly by Defra, the Department of Agriculture, Environment and Rural Affairs (DAERA) and the Scottish Government. The Scottish Government coordinated the development of all three plans. These are the last of the proposed joint UK FMPs to be consulted on.",
+                "tag": "p"
+            },
+            {
+                "content": "The plans bring together evidence on the current state of these pelagic fish stocks and how they are managed. They also set out policies and actions to restore stocks where needed and keep them healthy and sustainable for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Share your views",
+                "tag": "h2"
+            },
+            {
+                "content": "Anyone with an interest in these stocks is invited to give feedback on the proposals, including fishermen, industry representatives, environmental groups and members of the public.",
+                "tag": "p"
+            },
+            {
+                "content": "Your feedback will help shape the final fisheries management plans.",
+                "tag": "p"
+            },
+            {
+                "content": "Read the consultation document and submit your response.",
+                "tag": "p"
+            },
+            {
+                "content": "You can respond:",
+                "tag": "p"
+            },
+            {
+                "content": "The consultation closes at 11:55pm on 10 November 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "After the consultation closes, all responses will be reviewed and used to help finalise the plans before they are published.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2026/09/29/consultation-opens-on-three-joint-uk-pelagic-fmps/",
+        "blog": "Fisheries Management Plans",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Have your say on proposed joint UK fisheries management plans covering greater silver smelt and horse mackerel. Submit your response by 10 November 2026."
+    },
+    {
+        "title": "Wrong pipe, wrong place: the misconnection problem",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-09-29T11:37:59",
+        "categories": [
+            "Rivers",
+            "Water",
+            "Water Monitoring"
+        ],
+        "content": [
+            {
+                "content": "Elizabeth Maerz, Environment Officer for Cumbria",
+                "tag": "p"
+            },
+            {
+                "content": "Every day, our officers investigate pollution reports across the country's rivers and lakes. Surprisingly often, the cause is something quite ordinary: a household drainage system connected the wrong way round.",
+                "tag": "p"
+            },
+            {
+                "content": "Windermere, England's largest lake, has become one of the most visible examples of this hidden problem. Here's what misconnections are, why they matter, and how you can help us find and fix them.",
+                "tag": "p"
+            },
+            {
+                "content": "How do pipe misconnections happen?",
+                "tag": "p"
+            },
+            {
+                "content": "Most modern homes have two separate drainage systems. One carries wastewater from toilets, sinks and washing machines to a treatment works. The other carries rainwater from roofs and driveways straight to rivers and lakes.",
+                "tag": "p"
+            },
+            {
+                "content": "A misconnection happens when these get mixed up, usually during home improvements or renovations. When wastewater ends up in the surface water system, sewage, detergents and food waste flow directly into rivers and lakes, bypassing treatment entirely.",
+                "tag": "p"
+            },
+            {
+                "content": "You can sometimes spot one just by looking at the pipework outside a newer property: if a pipe from a bathroom or kitchen is connected to a rainwater downpipe, that's a red flag.",
+                "tag": "p"
+            },
+            {
+                "content": "These faults are surprisingly common and hard to trace. In 2019, Defra estimated that between 150,000 and 500,000 UK households may have a misconnection, and new ones keep appearing whenever drainage is altered during building work.",
+                "tag": "p"
+            },
+            {
+                "content": "Mill Beck: a case in point",
+                "tag": "p"
+            },
+            {
+                "content": "Mill Beck, which feeds into Windermere, shows just how tricky these faults can be to pin down. The beck has long had elevated phosphorus and bacteria levels, especially in dry summer months.",
+                "tag": "p"
+            },
+            {
+                "content": "We first investigated in 2018 and identified where pollution was entering the watercourse. United Utilities repaired nearby sewers, but monitoring by the Environment Agency, Windermere Town Council and the Big Windermere Survey showed the problem hadn't gone away.",
+                "tag": "p"
+            },
+            {
+                "content": "So, in summer 2025, we went back for more extensive monitoring, and found pollution was still entering at the same spot. That led to a joint investigation with United Utilities and Westmorland and Furness Council, using CCTV surveys and dye testing across the local sewer network. The evidence so far points to misconnections as a likely contributor.",
+                "tag": "p"
+            },
+            {
+                "content": "Next, we'll be working with residents to carry out further dye testing at properties in the area, to confirm whether domestic drainage is behind the pollution.",
+                "tag": "p"
+            },
+            {
+                "content": "How do I report a potential misconnection?",
+                "tag": "p"
+            },
+            {
+                "content": "Many of our investigations start with a member of the public noticing something odd while out walking or by the water. Around Windermere especially, local residents and visitors have been vital in flagging unusual smells, discoloured water and visible discharges.",
+                "tag": "p"
+            },
+            {
+                "content": "Watch out for:",
+                "tag": "p"
+            },
+            {
+                "content": "Not every discharge is a problem (garden watering run-off is harmless), but a persistent flow in dry weather is a warning sign.",
+                "tag": "p"
+            },
+            {
+                "content": "If you spot any of these, report it to the Environment Agency online or call our free 24-hour hotline: 0800 80 70 60. Your report could be the missing piece we need to track down a pollution source, whether that's at Windermere or a stream near you.",
+                "tag": "p"
+            },
+            {
+                "content": "How does the EA resolve misconnection problems?",
+                "tag": "p"
+            },
+            {
+                "content": "Once we've got a report, we investigate; water sampling, checking drainage systems, and working with water companies on dye testing and CCTV surveys to trace exactly where things have gone wrong. You might spot us doing this at Mill Beck in the coming weeks.",
+                "tag": "p"
+            },
+            {
+                "content": "Fixing a misconnection is legally the property owner's responsibility, and water companies provide guidance to help. Most people sort it out voluntarily; where they don't, local authorities can enforce action under the Building Act 1984.",
+                "tag": "p"
+            },
+            {
+                "content": "The good news: misconnections can be fixed, and each one we correct helps improve the health of our rivers and lakes.",
+                "tag": "p"
+            },
+            {
+                "content": "Working together for cleaner rivers",
+                "tag": "p"
+            },
+            {
+                "content": "Misconnections are hidden underground, but their impact is felt in every river, stream and lake we care about, from Windermere to the smallest local brook. Understand the problem, report what you see, and together we can help resolve it.",
+                "tag": "p"
+            },
+            {
+                "content": "Understand. Report. Resolve.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/09/29/wrong-pipe-wrong-place-the-misconnection-problem/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Elizabeth Maerz, Environment Officer for Cumbria Every day, our officers investigate pollution reports across the country's rivers and lakes. Surprisingly often, the cause is something quite ordinary: a household drainage system connected the wrong way round. Windermere, England's largest lake, \u2026"
+    },
+    {
+        "title": "Latest statement in response to small boat crossings",
+        "authors": [
+            "Home Office news team"
+        ],
+        "posted_on": "2026-09-29T11:15:40",
+        "categories": [
+            "Reactive statements"
+        ],
+        "content": [
+            {
+                "content": "A Home Office spokesperson said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe have made progress tackling the small boats. Crossings are down significantly, and we have just recorded the lowest number of summer arrivals since 2020.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe are taking action, with joint efforts preventing over 48,000 crossing attempts and seizing 1,100 boats and engines since the election.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cBut we must go further, which is why we are boosting the number of officers on the ground in France and removing the pull factors drawing people here through illegal and dangerous routes.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Background:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://homeofficemedia.blog.gov.uk/2026/09/29/latest-statement-in-response-to-small-boat-crossings/",
+        "blog": "Home Office in the media",
+        "blog_link": "https://homeofficemedia.blog.gov.uk",
+        "description": "A Home Office spokesperson said: \u201cWe have made progress tackling the small boats. Crossings are down significantly, and we have just recorded the lowest number of summer arrivals since 2020. \u201cWe are taking action, with joint efforts preventing over 48,000 \u2026"
+    },
+    {
+        "title": "There is no such thing as a typical woman in tech",
+        "authors": [
+            "Nava Ramanan"
+        ],
+        "posted_on": "2026-09-29T11:08:27",
+        "categories": [
+            "a great place to work",
+            "Our People",
+            "Our services",
+            "Technology Services",
+            "Women in Tech"
+        ],
+        "content": [
+            {
+                "content": "Across Justice Digital, Data and Technology (JDDS), we know that diverse teams build better services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our Technology Services colleagues play a vital role in delivering and supporting the technology that underpins justice services across the Ministry of Justice. From networks and cyber security to identity management and automation, our teams help keep critical services secure, resilient and available.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the heart of that work are talented people from a wide range of backgrounds and experiences.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are committed to creating an environment where everyone has the opportunity to learn, develop and thrive. For many women across Technology Services, that has meant building rewarding careers, taking on leadership roles and helping shape the future of technology across government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To celebrate their stories, we spoke to four women from across Technology Services about their career journeys, what inspires them and the advice they would give to others considering a future in technology.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing software thinking into network automation\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A passion for software engineering set Aafreen Ansari on a career path that would eventually lead her into the world of network automation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After studying Computer Science and completing a master's degree in Software Engineering, she spent many years working on software projects and doing something she genuinely loved: coding. When an opportunity arose to move into the Networks Team, she embraced the challenge, despite it taking her into an entirely new area of technology. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rather than leaving her software background behind, she discovered it gave her a unique perspective. The engineering principles, problem-solving skills and mindset she had developed throughout her career became valuable assets in networks services. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today, she helps shape the direction of network automation, developing \u00a0engineering capability and exploring how automation, cloud technologies and emerging tools can transform the way network services are designed and delivered. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What she enjoys most is helping others succeed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"The most rewarding part of my role is seeing transformation happen not just in the services we deliver, but in the confidence and ambition of the engineers around me.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout her time in Technology Services, she has continued to learn, embrace new challenges and influence how technology evolves across the organisation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Her advice? \"Don't wait until you feel completely ready. Sometimes the next opportunity is what makes you ready.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Proving there is no single route into technology\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Like many women working in Technology Services, Eleanor Thorne's route into the profession was anything but traditional.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After studying Sports Science and working as a personal trainer, she moved into sales and account management before joining a technology start-up. As the organisation adopted Agile ways of working, her role evolved into Product Ownership and ultimately led her into the world of technology delivery.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today, as Interim Service Owner for Identity and Access Management, she helps ensure the right people have access to the right systems at the right time while balancing user needs, security requirements and organisational risk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Her experience has taught her that many of the assumptions people make about careers in technology simply are not true.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"People often think technology is all about finding the right answer, but creativity and problem-solving are just as important.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "She believes that skills gained in other professions can be incredibly valuable and encourages people not to rule themselves out because they don't have a traditional technology background.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"Control the controllables and accept that there are some things you just can't plan for.\"\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From frontline justice services to technology leadership\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Michelle Peachey began her Civil Service career as an usher in the Court Service before progressing through a variety of operational roles. A career in technology wasn't part of the original plan.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Those experiences gave her first-hand insight into the challenges faced across the justice system and the importance of delivering services that work for staff, the judiciary and the public.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Her move into technology came through the Digital Infrastructure Supplier Contract (DISC) programme. Although she had no formal technical background, she quickly realised that understanding the business, managing supplier relationships and ensuring commitments were delivered were all valuable skills.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over time, she developed expertise in networks, service delivery and operational management, eventually progressing into senior leadership. Today, as Head of Network Operations, she is responsible for ensuring network services remain stable, secure and resilient.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Her career demonstrates that Technology Services values people with different experiences and provides opportunities to learn, grow and build new skills.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"Success isn't just about technology. It's about understanding people, processes and business needs so that solutions solve real problems.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Her advice to anyone considering a move into technology is simple:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"Never be afraid to fail at something new.\"\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building careers while protecting critical services\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Chantelle MacRae's career journey has taken her through records management, secure operations, coding, digital forensics and cyber security leadership.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Starting her career in 2004, she embraced opportunities to learn and develop across a wide range of roles before discovering a passion for digital forensics. She progressed from Junior Digital Forensic Analyst to Senior Forensic Analyst and later moved into cyber security leadership positions across government.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today, she leads teams within the Security Operations Centre that are responsible for detecting, investigating and responding to cyber threats that could affect critical public services.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Despite working in a highly technical area, Chantelle believes success depends on far more than technical expertise alone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"Curiosity, communication and problem-solving are just as important as technical skills.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What motivates her most is supporting other people and helping them realise their potential.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"The most rewarding part of my role is helping people build confidence and achieve things they didn't think were possible.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For Chantelle, Technology Services continues to provide opportunities to learn, develop and support the next generation of talent.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"Don't be afraid to ask questions because nobody succeeds alone.\"\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creating opportunities for women in technology\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The women featured here have followed very different paths into technology, but their stories share common themes: curiosity, resilience, continuous learning and a willingness to embrace new opportunities.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Their experiences reflect what we are striving to build across Technology Services and Justice Digital, Data and Technology (JDDS): an inclusive environment where people from all backgrounds can learn, develop and thrive.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether someone joins with years of technical expertise or experience from a completely different profession, we want people to feel supported to build new skills, grow their careers and realise their potential.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we continue delivering technology that supports critical services across the justice system, attracting and developing diverse talent remains essential to our success.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Interested in joining us? Explore careers and current opportunities in JDDS via our recruitment site ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2026/09/29/there-is-no-such-thing-as-a-typical-woman-in-tech/",
+        "blog": "Justice Digital, Data and Science ",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "Across Justice Digital, Data and Technology (JDDS), we know that diverse teams build better services.\u00a0 Our Technology Services colleagues play a vital role in delivering and supporting the technology that underpins justice services across the Ministry of Justice. From networks \u2026"
+    },
+    {
+        "title": "SSSIs: A Golden Thread Through My Career",
+        "authors": [
+            "Marian Spain"
+        ],
+        "posted_on": "2026-09-29T11:08:22",
+        "categories": [
+            "Farming",
+            "Land Use",
+            "Landscape",
+            "Natural England",
+            "Nature"
+        ],
+        "content": [
+            {
+                "content": "By Marian Spain, CEO of Natural England",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog, Marian Spain reflects on Sites of Special Scientific Interest (SSSIs) as a golden thread through her time as Chief Executive of Natural England. Highlighting Dearne Valley Wetlands, West Penwith Moors and Downs, and Teesmouth and Cleveland Coast, Marian shows how SSSIs have evolved from academic curiosities into the backbone of nature recovery, and argues that successful designation depends on partnership, communication and trust with the landowners and communities who care for these special places.",
+                "tag": "p"
+            },
+            {
+                "content": "As I prepare to leave Natural England after 8 years as Chief Executive, I have been reflecting on the themes that have run consistently through my career in nature conservation.",
+                "tag": "p"
+            },
+            {
+                "content": "One of those is protecting our most special places and most precious wildlife and geology, including by designating Sites of Special Scientific Interest (SSSI). One of the first things I did when I became CEO was designate the Down Farm SSSI and I\u2019m delighted then that one of the last things I have done is agree a new programme of sites being considered for designation in the next 3 years, together with a new approach to working with our stakeholders as we consider these. We\u2019ll be publishing that on GOV.UK very soon.",
+                "tag": "p"
+            },
+            {
+                "content": "SSSIs are among the most powerful tools we have to recognise and protect the very best of England's wildlife, habitats and geology, and we don\u2019t undertake them lightly: they have a big impact (including sometimes restricting what a landowner can and can\u2019t do) and need a very high level of scientific and legal proof to merit such significant protection. Currently we have 4,128, making up 8% of England\u2019s land area. ",
+                "tag": "p"
+            },
+            {
+                "content": "They celebrate places that are nationally important for nature, while helping to secure the benefits that healthy natural systems provide to society. They protect some of our most precious species and habitats and geology as the very best of a wide range of landscapes and seascapes in cities, countryside and the coast. And they also help deliver cleaner rivers, healthier soils, carbon storage, flood resilience and opportunities for people to experience nature close to home.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "SSSIs are and have always been about much more than just designation to protect wildlife and habitats. They represent our nation\u2019s commitment to recognising what is special, understanding why it matters, and ensuring it can thrive for future generations.",
+                "tag": "p"
+            },
+            {
+                "content": "Historically, they were often viewed primarily as representative examples for academic study. Increasingly, we now recognise them as the foundations of nature recovery. They are the places where our most valuable wildlife and habitats persist\u00a0and they are also the places from which nature can recover and spread across wider landscapes. They are the backbone of nature recovery, the reservoirs of biodiversity that help reconnect fragmented habitats and support thriving ecosystems for the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England is now taking a renewed approach to SSSI designation. We have strengthened the way we make decisions, improved planning and prioritisation, reconsidered the tasks and the resources to carry out designation projects, including spending enough time with those affected and those who will benefit to explain what will happen and why. That means we have also developed a more certain and more strategic programme for future designations. We are prioritising sites based on their contribution to nature recovery, the protection of vulnerable habitats and species, and the wider benefits they provide for society, with a programme phased to bring forward those which are closest to being able to be delivered, allowing us to focus on embedding our new ways of working.",
+                "tag": "p"
+            },
+            {
+                "content": "During my time as Chief Executive, I have been proud to see important places be designated to protect and conserve the wildlife and habitats that call these places home.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In South Yorkshire, the notification of Dearne Valley Wetlands as a new SSSI, recognised a remarkable landscape where nature has flourished alongside the legacy of industrial change. Its nationally important bird populations and wetland habitats demonstrate how nature recovery can transform places, delivering benefits not only for wildlife but also for local communities through access to nature and flood resilience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In Cornwall, the confirmation of West Penwith Moors and Downs as a SSSI protected more than 3,000 hectares of nationally important habitats and species. The designation recognised not only the extraordinary wildlife of the area but also the centuries of farming and land management that helped shape its distinctive character.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During my time at Natural England, the importance of protecting the wildlife and geology interest of Teesmouth and Cleveland Coast SSSI has also become a powerful example of how we must navigate the relationship between nature recovery and development. Its story illustrates one of the defining challenges of how we recover nature while also meeting society's need for homes, infrastructure and economic growth.",
+                "tag": "p"
+            },
+            {
+                "content": "Too often these objectives are presented as opposing choices. England needs new homes, new infrastructure and new investment. But we also need thriving wildlife, resilient ecosystems and access to nature. The challenge is not whether we choose nature or development, but how we plan, design and invest so that both can succeed, sites such as Teesmouth and Cleveland Coast, reinforce the importance of identifying opportunities where sustainable development can proceed while contributing positively to nature recovery. SSSIs don\u2019t stop economic activity happening \u2013 be that farming, development or natural resource use, but they make sure that for these very special places nature is given a \u201cseat at the table\u201d when decisions are made about land use.",
+                "tag": "p"
+            },
+            {
+                "content": "One of the most important lessons I have learned throughout my career is that nature recovery is not something that can be delivered to people. It is something that must be achieved with people.",
+                "tag": "p"
+            },
+            {
+                "content": "The success of any SSSI ultimately depends on the people who own, manage and care for the land. Farmers, commoners, landowners, conservation organisations and local communities are not simply stakeholders in these places; they are central to their future.",
+                "tag": "p"
+            },
+            {
+                "content": "That is why I am particularly pleased that Natural England's renewed approach to SSSI designation places such emphasis on partnership, communication and engagement. Alongside strengthening our internal processes, we have recognised the importance of working more closely with landowners and local communities from the outset, ensuring that people understand both the reasons for designation and the opportunities that can follow from it, as well as whether it will mean any limits on how land is managed in the future. We want designation to be something that is developed with people, and that landowners can be proud of, not something that feels as though it is being done to them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sometimes designation discussions can create uncertainty and concern. People understandably want to know what designation means for their businesses, their communities and the places they care about. We have learned that clear communication, transparency and early engagement are essential. Listening to concerns, explaining the evidence, and working through challenges together leads to better outcomes for everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "Recent experience has highlighted both the strength of feeling people have for the landscapes they manage and the importance of maintaining an open and constructive dialogue throughout the designation process. Those experiences have helped shape our future approach, placing greater emphasis on communication, stakeholder engagement and long-term relationships with those who manage these special places.\u00a0The most effective conservation does not happen when change is perceived as something being imposed. It happens when people share an understanding of what makes a place special, why it matters, and how protecting and enhancing it can benefit both nature and society.",
+                "tag": "p"
+            },
+            {
+                "content": "That is what Natural England is committed to do, in our mission of building partnerships for nature\u2019s recovery. And as our strategy says, recovering nature - including by making sure wildlife is thriving in protected sites - in ways that support growth, health and security.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/09/29/sssis-a-golden-thread-through-my-career/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "In this blog, Marian Spain reflects on Sites of Special Scientific Interest (SSSIs) as a golden thread through her time as Chief Executive of Natural England. Highlighting Dearne Valley Wetlands, West Penwith Moors and Downs, and Teesmouth and Cleveland Coast, Marian shows how SSSIs have evolved from academic curiosities into the backbone of nature recovery, \u2026"
+    },
+    {
+        "title": "ALIGN: a new national infrastructure spatial tool for evidence-based planning and growth decisions",
+        "authors": [
+            "The Digital Planning team"
+        ],
+        "posted_on": "2026-09-29T10:06:12",
+        "categories": [
+            "Data",
+            "Digital Planning"
+        ],
+        "content": [
+            {
+                "content": "The government\u2019s 10-Year Infrastructure Strategy commits to a more spatial approach to infrastructure planning, with better coordination across sectors and between national, regional and local levels. As part of this approach, the government\u2019s wider planning reforms will extend strategic planning across England through Spatial Development Strategies, and support faster preparation and adoption of Local Plans.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Planners and policymakers need to bring together large amounts of data to understand how proposed growth and changes in land use interact with infrastructure systems, including energy, water, transport and community services, as well as the environment. They must then assess the infrastructure needed to support development, and where current or future deficits could constrain it. For example, planners may need to understand whether the electricity network can support new homes or whether population growth will increase pressure on rail capacity.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Infrastructure evidence and data to answer these questions is often siloed and fragmented, produced separately by different organisations using different data and assumptions. Neighbouring strategic and local authorities can therefore find it difficult to compare infrastructure needs consistently or build a shared understanding of growth pressures across wider geographies. Producing and updating this evidence can also be costly and time-consuming. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What ALIGN does\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "ALIGN is a new national infrastructure spatial tool that brings together data, models and tools, including AI, to identify local infrastructure needs and constraints for numerous housing, industrial growth and land use scenarios. Developed by a cross-government team led by the National Infrastructure and Service Transformation Authority (NISTA) and the Ministry of Housing, Communities and Local Government\u2019s (MHCLG) Digital Planning programme, ALIGN supports both plan-making reform and delivery of the government\u2019s 10-year Infrastructure Strategy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By providing a common spatial evidence base, ALIGN allows users to explore how housing, employment and other growth scenarios interact with infrastructure capacity. For example, if you want to build 10,000 homes and new commercial floorspace in an area, the ALIGN models can tell you how much electricity and water you may need to meet that demand compared to planned capacity. By bringing together data and modelling in one place, it can speed up decision-making and plan-making for both central and local government, in turn helping to unlock and accelerate housing delivery and economic growth.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "ALIGN has two primary use cases at different levels of government:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Importantly, ALIGN doesn\u2019t make planning decisions. It provides complementary evidence to local insights and knowledge to help coordinate numerous stakeholders to test options, understand trade-offs and make informed judgements based on local circumstances.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "ALIGN complements government\u2019s wider suite of digital planning products and services, including the Planning Data platform, Open Digital Planning and Extract, helping local government self-serve through better use of data and tools to support growth and development.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s happening next\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Options are currently being considered for a phased rollout of the tool and its data this financial year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You will be able to find out more information about ALIGN, the data and models it uses at an upcoming webinar later this year. Register your interest if you'd like to be sent more information and be added to the invite.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/09/29/align-a-new-national-infrastructure-spatial-tool-for-evidence-based-planning-and-growth-decisions/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "ALIGN is a new national infrastructure spatial tool bringing together data, models and AI to identify local infrastructure needs and constraints. Supporting both central and local government, it will help assess whether existing infrastructure can support housing and local growth, and where additional investment may be needed."
+    },
+    {
+        "title": "Turning existing knowledge into AI-enabled learning",
+        "authors": [
+            "Nathan O'Gara"
+        ],
+        "posted_on": "2026-09-29T09:28:11",
+        "categories": [
+            "AI",
+            "Defra digital"
+        ],
+        "content": [
+            {
+                "content": "At Defra, we have no shortage of expertise. Across our Digital, Data, Technology and Security function colleagues have built deep knowledge of product management, delivery, agile practices and the many disciplines needed to deliver better services.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge is making that knowledge easy to share.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the past year, conversations with professions leads highlighted a common problem. Demand for skills training was increasing across Defra, but creating and delivering learning was still difficult.",
+                "tag": "p"
+            },
+            {
+                "content": "External training can be expensive and does not always reflect the reality of working in government. Internal training is more tailored, but it relies on busy subject matter experts finding time to create and deliver it. We needed an approach that was sustainable, scalable and grounded in Defra\u2019s own context.",
+                "tag": "p"
+            },
+            {
+                "content": "At the same time, we wanted to support more learning in the flow of work: shorter, practical learning that colleagues could access when they needed it and apply immediately.",
+                "tag": "p"
+            },
+            {
+                "content": "So, we asked a simple question: if the knowledge already exists in our documents, presentations and guidance, could we make it easier for people to learn from it?",
+                "tag": "p"
+            },
+            {
+                "content": "Exploring a different approach",
+                "tag": "h2"
+            },
+            {
+                "content": "That question became the starting point for a small, practical experiment: could we turn the knowledge colleagues had already created into learning that was easier to access, easier to reuse and easier to scale?",
+                "tag": "p"
+            },
+            {
+                "content": "To explore this, the product management and capability teams came together for a proof of concept. We wanted to test whether we could create high-quality learning products using our own expertise and low cost tools, rather than relying solely on expensive external provision.",
+                "tag": "p"
+            },
+            {
+                "content": "This was also an opportunity to put Defra\u2019s approach to AI into practice. We worked with Immersive Fox to understand how existing content could be transformed into structured digital learning.",
+                "tag": "p"
+            },
+            {
+                "content": "Using a range of non-sensitive, non-official input materials and data, we created learning pathways containing videos, transcripts and quizzes. We also developed Agile and product management courses as the first content for our e-learning platform and began developing templates and guidance that other teams can use to create learning in future.",
+                "tag": "p"
+            },
+            {
+                "content": "What surprised us",
+                "tag": "h2"
+            },
+            {
+                "content": "The biggest surprise was how quickly we could move from existing content to something colleagues could use.",
+                "tag": "p"
+            },
+            {
+                "content": "As an experiment, we took material that would traditionally be delivered through a two-day workshop and transformed it into interactive online learning in less than a day. Instead of spending weeks creating and producing training materials, we could focus our efforts on improving content, reviewing outputs and ensuring learning met genuine user needs. But the most important outcome was not speed.",
+                "tag": "p"
+            },
+            {
+                "content": "This proof of concept showed us that AI can help make better use of the expertise we already have. Rather than asking subject matter experts to deliver the same content repeatedly, we can capture their knowledge once and make it available to many more colleagues. That frees up more of their time for coaching, discussion and deeper support. This ensures that foundational learning is available whenever people need it.",
+                "tag": "p"
+            },
+            {
+                "content": "What we've learned so far",
+                "tag": "h2"
+            },
+            {
+                "content": "Perhaps the most important lesson is that successful AI adoption is about people as much as technology.",
+                "tag": "p"
+            },
+            {
+                "content": "The proof of concept reinforced that expertise remains our most valuable asset. AI can help reduce some of the effort involved in creating learning products, but it cannot replace the judgement, context and experience that subject matter experts bring.",
+                "tag": "p"
+            },
+            {
+                "content": "What excites us most is the potential to create a repeatable model for capability development. The proof of concept was designed not only to create learning products, but to explore an approach that other professions and teams can adopt, adapt and scale.",
+                "tag": "p"
+            },
+            {
+                "content": "We are continuing to evaluate the outcomes, but early learning suggests there is real potential to make knowledge more accessible, create learning products more efficiently and help colleagues develop skills in ways that are tailored to Defra's needs. If successful, this approach could help ensure that the expertise already present across Defra reaches more people, more quickly, and with less effort to maintain over time.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "If you're interested in finding out more about what we do in Defra Digital Data Technology and Security\u00a0check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow?",
+                "tag": "p"
+            },
+            {
+                "content": "Like what you read?\u00a0Subscribe to the blog\u00a0for all the latest updates.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2026/09/29/turning-existing-knowledge-into-ai-enabled-learning/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "Nathan O'Gara explores how, in Defra, we\u2019re finding new ways to share our expertise, using AI to make learning easier to create, reuse and access."
+    },
+    {
+        "title": "What are the principles of prototyping?",
+        "authors": [
+            "Charlie Fountaine \u2013 Service Designer, GOV.UK Publishing Team, GDS"
+        ],
+        "posted_on": "2026-09-29T09:00:00",
+        "categories": [
+            "Community",
+            "Design"
+        ],
+        "content": [
+            {
+                "content": "A prototype is a way to learn something before making a bigger commitment. When designing services, many of the things we need to test are intangible: policies, processes, conversations, operating models. A prototype can go beyond the screen - we can prototype with an email, text message, or an event.",
+                "tag": "p"
+            },
+            {
+                "content": "The GOV.UK Service Manual outlines: \u2018You must make prototypes of your service to explore, share and test different designs before you commit to building anything. You can quickly make and test multiple prototypes and discard the ones that do not test well. You should use the prototype that best meets your needs at the time.\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "Digital prototyping tools have become more accessible. New AI-assisted tools may also help teams explore and visualise ideas more quickly. But while the tools have changed, the purpose and principles of prototyping have not.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A prototype can be anything",
+                "tag": "h2"
+            },
+            {
+                "content": "As long as a person uses it, and we learn something.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We need shared principles that help teams focus on finding out what they need to know in order to move forward. Prototyping is about learning rather than producing artefacts.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At Services Week 2026, we hosted an interactive session on the \u2018Principles of Prototyping\u2019. Rather than presenting a finished set of principles, we shared a draft list of principles and invited people from across government to test, critique and improve it. Thank you to the 124 people who contributed. The 9 principles below are the result of that session.",
+                "tag": "p"
+            },
+            {
+                "content": "9 Principles of prototyping",
+                "tag": "h2"
+            },
+            {
+                "content": "1. A prototype answers a question.",
+                "tag": "h3"
+            },
+            {
+                "content": "Before creating a prototype, think about the questions you need to answer to make a decision and move forward. To develop these questions, you could involve a designer, a user researcher, a product manager and other members of the team.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. A prototype is only as detailed as we need to answer our question.",
+                "tag": "h3"
+            },
+            {
+                "content": "If we know the research question we are trying to answer, we can create a prototype that helps us answer that question. The prototype does not necessarily need to be complex to answer a simple question. This is particularly true in the early stages of developing a service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. A prototype can be any format.",
+                "tag": "h3"
+            },
+            {
+                "content": "A prototype does not always have to be digital. A prototype can be a blog post, or a word document that people use and give feedback on.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. A prototype is tested with people who will use the service.",
+                "tag": "h3"
+            },
+            {
+                "content": "A prototype is tested with the people who are going to use the future service; that\u2019s how we learn. We can find ways to meet these people where they are.",
+                "tag": "p"
+            },
+            {
+                "content": "At NHS Digital, Rhiannon Smith, Content Designer for NHS.UK worked on making content about skin symptoms more inclusive. Before the improvements, skin symptoms were mostly described in terms of how they appear on white skin. The team improved the content and tested it with the people who use the website to get their feedback. You can read more about this case study on the NHS Digital blog.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. A prototype is accessible.",
+                "tag": "h3"
+            },
+            {
+                "content": "A prototype should be accessible. If we use an event as a prototype for a service we are developing, the event should be held in a venue that is accessible for all, particularly for the users that will be accessing the service. If we use an email as a way of prototyping a bit of communication around a service, that email should be written in a way that everyone can understand.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. A prototype involves team collaboration.",
+                "tag": "h3"
+            },
+            {
+                "content": "Prototyping is not only the domain of interaction designers and service designers. It also involves user researchers, product managers and policy experts. A policy expert could prototype a piece of policy and then show it to the people who would be affected by that policy for feedback. Or a designer could create a prototype with input from lots of colleagues about what they need to find out.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An example of this is the multidisciplinary team from Camden Council who formed to redesign debt support in Camden. The team included a service designer, design researcher, officers, money and debt advisors, and policy experts. You can read more about this case study on the Change by Design blog.",
+                "tag": "p"
+            },
+            {
+                "content": "7. A prototype reduces the risk of delivering something that is not needed.",
+                "tag": "h3"
+            },
+            {
+                "content": "The intention of prototyping is to understand if something is needed, create a service that works for people, and to learn about risks early. If a prototype causes an unintended consequence, it\u2019s useful to know that early in the process rather than finding out when something is fully live. It's also useful to understand people\u2019s reactions to a prototype to understand if it meets their needs. The service may need to change to meet people's needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. A prototype should be changed.",
+                "tag": "h3"
+            },
+            {
+                "content": "As we learn from the prototyping process and get feedback from people, we should change and iterate the prototype. A prototype is not intended as a finished artefact. The change can be small, such as revising the wording to make something clearer. Or it can be big, for instance by providing a piece of information via email as well as text message so that people can understand it better.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. A prototype can be archived.",
+                "tag": "h3"
+            },
+            {
+                "content": "Sometimes a prototype leads to a change in a live service. Sometimes a prototype leads to a completely new service or policy being developed. Or we learn that the prototype does not achieve goals the team is trying to achieve. If this happens, it\u2019s good to share the knowledge with people, write down why the prototype is not being taken forward, and don\u2019t be afraid to archive it.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://designnotes.blog.gov.uk/2026/09/29/what-are-the-principles-of-prototyping/",
+        "blog": "Design in government",
+        "blog_link": "https://designnotes.blog.gov.uk",
+        "description": "An evolving set of prototyping principles to help people use prototypes to learn and improve their products or services. These principles were contributed to by people across government during Services Week 2026."
+    },
+    {
         "title": "The fastest way to improve policy is to build it",
         "authors": [
             "Jamie Laing - Deputy Service Owner in Data and AI Services"
