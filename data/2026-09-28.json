@@ -1,5 +1,1287 @@
 [
     {
+        "title": "Assembling architects to improve local public services\u00a0",
+        "authors": [
+            "Phil Rumens, Principal Technologist, GDS"
+        ],
+        "posted_on": "2026-10-01T14:49:47",
+        "categories": [
+            "Architecture",
+            "GDS Local",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "Government Digital Service (GDS) recently brought together dozens of architects from across local government and central government for the first Architects Assemble event, hosted by the Local Government Association in London.\u00a0While attendees came from different organisations and disciplines, they shared a common goal: improving local public services through better collaboration, better decision making, and firmer foundations for technology, digital and data.\u00a0Architecture often happens behind the scenes, helping organisations navigate complexity, make informed decisions and deliver change. Yet many of the challenges we face are shared across the sector.\u00a0\u00a0Architects Assemble was designed to create space for people to connect and learn from one another, through three workshops and general discussion, to explore how we can start to tackle those challenges together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Growing adoption of the Local Government Architecture Model\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The first workshop explored how wider adoption of the Local Government Architecture Model (LGAM) could be achieved across the sector.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participants discussed what would give councils the confidence to adopt the model and the factors that are most important when deciding whether to invest time and effort in a new approach.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The discussion then focused on practical application, exploring what would make the LGAM easier to use in day-to-day architecture and transformation work. There was a strong emphasis on ensuring the model is accessible, actionable and relevant to the challenges councils face.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, participants considered what GDS could do over the next 12 months to make the LGAM feel indispensable to everyday practice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The discussion generated a wealth of ideas that will help shape the next phase of the model's development by GDS Local and designs for the adoption approach.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creating the conditions for better decisions\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The second workshop focused on how better architectural decision making can help create firmer foundations for local government technology, digital and data.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participants explored how better decision making can help organisations move beyond short-term choices and create the conditions for long-term success. This included discussions about governance, standards, strategic planning and how architecture can provide a framework for making consistent decisions across organisations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A recurring theme was that stronger foundations are not created through technology alone. They require clear outcomes, shared understanding and better alignment between business, data, digital and technology perspectives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building a public sector architecture community\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The third workshop focused on building and sustaining a thriving community of practice for architects working to improve local public services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Many participants recognised that they are often tackling similar challenges, whether related to service transformation, data sharing, organisational change or technology modernisation. Creating opportunities to connect enables people to learn from one another, share what works and avoid solving the same problems repeatedly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The discussions generated a range of ideas for how the community can continue to develop, including opportunities for peer support, sharing patterns and practices, showcasing work from across the sector and creating more regular opportunities for collaboration.\u00a0 The aim is to put in place a monthly community webinar, hold quarterly face to face workshops, and extend the community to people who don't have \"architect\" in their job title.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Architects Assemble was never intended to be a one-off event.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The conversations throughout the day demonstrated both the value of bringing architects together and the appetite for continued collaboration.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether discussing adoption of the LGAM, creating firmer foundations for technology, digital and data, or growing a sustainable community of practice, participants were united by a common ambition: improving public services on a local and national scale.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The challenges facing the sector are significant, but so is the collective expertise, experience and willingness to collaborate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By continuing to connect architects from across organisations and disciplines, we can help create the conditions for better decisions, firmer foundations and ultimately better outcomes for communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re interested in following or getting involved in GDS\u2019s work in this space, sign up to the GDS Local Newsletter. ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2026/10/01/assembling-architects-to-improve-local-public-services/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "Architects came together for our first \u2018Architects Assemble\u2019, to create firmer foundations for technology and data, and ultimately better outcomes for communities."
+    },
+    {
+        "title": "Get Tech Certified 2026: build your technology and digital skills for free\u00a0",
+        "authors": [
+            "Angie Jones, Communications and Engagement Lead, Government Digital Service"
+        ],
+        "posted_on": "2026-10-01T13:00:00",
+        "categories": [
+            "Architecture",
+            "Artificial Intelligence (AI)\u00a0",
+            "Cloud",
+            "Cyber Security",
+            "Data",
+            "FinOps\u00a0",
+            "Quantum Computing\u00a0",
+            "Software Engineering",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "Today, Get Tech Certified 2026 opens to people working across the UK public sector, offering free digital and technology learning pathways and recognised certifications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you\u2019re exploring technology for the first time, looking to build your confidence or already working in a digital and technology role and want to deepen your expertise, there\u2019s a pathway for you.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get Tech Certified runs from 1 October to 31 December 2026, giving you three months to explore the learning available and build skills that can support you in your current role and beyond.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Free learning from leading technology providers\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Get Tech Certified is delivered by Government Digital and Data in partnership with leading technology providers, bringing high-quality industry learning and certification opportunities to people working across the UK public sector \u2013 for free.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get Tech Certified is available to eligible civil and public servants. Contractors are not eligible to take part in the campaign.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our participating providers include some of the organisations developing and delivering the technologies used across industry and the public sector, including Amazon Web Services (AWS), Celonis, Databricks, Datadog, Google, HashiCorp, Microsoft, MongoDB, Oracle, ProsperOps, Science and Technology Facilities Council UKRI, ServiceNow, Snowflake and WSO2.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through Get Tech Certified, participating providers are making a wide range of digital and technology learning opportunities and recognised certifications available at no cost. This gives you the opportunity to develop practical, relevant skills through learning created by organisations with deep expertise in their technologies and subject areas.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are opportunities for different levels of experience too. Whether you\u2019re taking your first steps into a subject, developing skills you already use in your role or looking for more advanced learning and certification, you can choose a pathway that works for you.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This year, you can explore learning across:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building digital and technology capability across the public sector\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Technology continues to change how government and public services work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building digital and technology capability across the public sector is not only about developing specialist technologists. It is also about giving people across different professions and organisations the skills and confidence to understand and make the most of technology in their work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get Tech Certified helps make these development opportunities more accessible by bringing together free learning from leading technology providers in one place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For individuals, that could mean developing skills that help you in your current role, exploring a completely new area of technology or gaining a recognised certification that supports your professional development.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For teams and organisations, it is an opportunity to encourage continuous learning and strengthen digital and technology capability across the workforce.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building on Get Tech Certified 2025\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Last year demonstrated the appetite for digital and technology learning across the public sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In 2025, Get Tech Certified attracted more than 10,000 sign-ups across 336 public sector organisations, giving colleagues access to thousands of free learning opportunities across a range of digital and technology skills. ",
+                "tag": "p"
+            },
+            {
+                "content": "Learners achieved more than 1,200 recognised certifications through the campaign, helping colleagues build and demonstrate their digital and technology skills.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In 2026, we want to build on that momentum and encourage even more people from across the public sector to take advantage of the learning available.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you work in central or local government, health, education or another public sector organisation, Get Tech Certified provides an opportunity to invest in your digital and technology skills.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting Women in Tech\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This year, Get Tech Certified also includes a dedicated Women in Tech strand, supporting more women to explore opportunities, develop their skills and progress in digital and technology.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout the campaign, we\u2019ll be highlighting learning opportunities, case studies, communities and events designed to encourage and support women at different stages of their digital and technology careers. Look out for a Women in Tech blog post coming soon and find out more about what's is available as part of this strand on our hub page.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find the pathway for you\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Getting started is simple.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Visit the Government Digital and Data Hub to explore the learning available from participating technology providers. You can find out what each pathway offers, consider which opportunities best match your interests, experience and development goals, and follow the information provided to start learning.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You don\u2019t need to be a technology expert to Get Tech Certified.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you want to learn something new, build on your existing expertise, gain a recognised certification or explore where digital and technology skills could take you next, there\u2019s an opportunity to get involved.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get Tech Certified 2026 runs until 31 December 2026. Any free certification vouchers available through the campaign must be claimed by 31 December 2026. Once claimed, you may have additional time to use your voucher, often up to six months, so you do not necessarily need to complete your certification by 31 December. Redemption periods vary by provider, so please check the relevant learning page for the specific redemption period and any provider-specific deadlines.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Explore the learning pathways and start building your digital and technology skills for free.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Explore Get Tech Certified 2026 on the Government Digital and Data Hub\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2026/10/01/get-tech-certified-2026-build-your-technology-and-digital-skills-for-free/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "Get Tech Certified 2026 is now live, with free digital and technology learning and recognised certifications for the UK public sector."
+    },
+    {
+        "title": "Helping probation practitioners spend less time searching and more time supporting people",
+        "authors": [
+            "Probation Data Science\u202f Team"
+        ],
+        "posted_on": "2026-10-01T11:54:49",
+        "categories": [
+            "Data Science",
+            "Our services",
+            "Probation",
+            "User research"
+        ],
+        "content": [
+            {
+                "content": "When probation practitioners take on a new case, they often need to quickly understand a person's history, risks and support needs. That information is stored in Delius, the main case management system used across probation, where more than 40 million contact logs are recorded each year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Finding the right information among thousands of records isn't always straightforward. Different practitioners may use different terminology, acronyms, abbreviations or spellings to describe the same thing, making it difficult to know exactly what to search for.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To address this challenge, colleagues from the Delius team, Probation Data Science and Technical Architecture worked together to improve how search works within Delius, helping practitioners find relevant information more quickly and with less effort.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why existing search wasn't always enough\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "In October 2021, Delius introduced a free text search function that allowed practitioners to search contact logs using specific words, phrases and acronyms. While useful, feedback showed that finding information often depended on knowing the exact terms used by the person who originally recorded the contact.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, one practitioner might record information about \"smoking\" while another writes \"cigarettes\". Someone searching could try several related terms before feeling confident they had found everything relevant. The team saw this pattern repeatedly in service data, with users carrying out multiple searches using similar words to avoid missing important information.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For practitioners managing risk, preparing for appointments or taking over cases from colleagues, that extra effort can add up. ",
+                "tag": "p"
+            },
+            {
+                "content": "Practitioners can be assigned new cases from colleagues due to resourcing, risk, and\u202fexpertise. So, they are reviewing their own contacts, but sometimes contacts written by colleagues too.\u202fOver time, feedback from users\u202fshowed\u202fclear pain points\u202fwith the search:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "These pain points were most clearly\u202fevidenced\u202fas\u202f\u201csearch flurries\u201d -\u202fusers typing\u202fdifferent related terms to double check nothing had\u202fbeen missed\u202fin their search\u202fe.g.\u202fsmoking, cigarettes.\u202f Our teams were determined to improve this, so we brought together technical colleagues including Probation Data Scientists and Technical Architects to work collaboratively and investigate areas for improvement.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After analysing the Free Text Search audit log, our team estimated these flurries, and search gaps more generally\u202fand found\u202fit was\u202fusing up a\u202fmeaningful amount of staff time.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Probation Data Science\u202fthen\u202fcompleted an evaluation of\u202fsearch\u202fmodels and ran a thorough ethical evaluation. The model recommendation was then passed on to the Probation Integration Team who\u202fdeployed the\u202fupdated search in October 2025.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building a better search experience\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The team explored different approaches and carried out detailed evaluation work to understand what would best meet users' needs. They ultimately introduced a new hybrid search experience that combines traditional keyword search with technology capable of recognising related meanings, common misspellings and probation-specific terminology.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This new hybrid search offered three improvements:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can read more data science details about this project on\u202fMoJ: nDelius Contact Log Semantic Search - GOV.UK.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Establishing trust from the start\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Responsible use of data and technology was a core part of the project\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ethical considerations were built in from the start and reviewed throughout.We designed our product in line with the Ministry of Justice AI and Data Science Ethics Framework that was produced in collaboration with the Alan Turing Institute.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We did a range of analyses to quantify the real impact of any potential bias on the model outputs. We investigated group associations (e.g. male / female) with concepts (e.g. violence / pacifism). We used both theoretical analysis (WEAT testing) and product-specific testing on 30,000 probation contacts, finding no overall evidence of systematic bias.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We do ongoing monitoring and get additional feedback from users to mitigate any bias risk and improve the product.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Putting the new search into practice\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After deployment, we did some\u202finitial\u202fmonitoring for feedback\u202ffrom our users (probation practitioners)\u202fand the in-built thumbs up\u202f/\u202fdown\u202fbut those provided little context.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Quantitative analysis revealed how difficult it can be\u202fto track time savings, due to\u202fdifficulties\u202fdefining and\u202finterpreting user\u202fbehaviour (search flurries). The proportion of time\u202flost on flurries\u202fand average time between consecutive searches\u202fsaw\u202fsmall\u202fchanges,\u202falthough usage of Free Text Search has\u202fsignificantly\u202fincreased\u202fover the last half year.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u202fInstead, we relied on User Research to evaluate whether the semantic search model reduced search effort and cognitive load,\u202fwhilst\u202fmaintaining\u202ftrust and confidence\u202fin the search results. We were able to\u202fvalidate\u202freduced effort and load\u202fin most user cases, with trust\u202fremaining\u202fhigh.\u202fAlthough\u202feffort\u202fwas not entirely removed, with it shifting to choosing the right terms and judging results, especially for broad terms.",
+                "tag": "p"
+            },
+            {
+                "content": "The impact was most evident when practitioners began using the improved search in real-life situations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One Performance Quality Officer told the team: \"I think it is amazing. It cut down that need to have to read everything.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A Referral Hub Officer described the search as: \"Pretty much instant, if the information is there.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And a Senior Probation Officer working in Electronic Monitoring said: \"Very easy to use. Our team would be lost without it.\"\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Three Reflections\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As with any service improvement, the launch provided valuable insights that will help shape future development. ",
+                "tag": "p"
+            },
+            {
+                "content": "\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The work doesn\u2019t stop here",
+                "tag": "h2"
+            },
+            {
+                "content": "We jointly worked with the Delius team to prioritise next steps.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Firstly, we are working\u202fwith the Delius team to do a\u202fsmall-scale\u202fcommunications plan for promoting the free text search and particularly help and guidance as that was a shortcoming observed during user research; we will work with Regional IT trainers and Change\u202fManagement\u202fteams to offer a suite of\u202fonline resources and potentially\u202fin-person training.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Secondly, we will\u202fwork with Technical Architects to rollout the semantic search to a new probation digital service which launched nationally in April 2026 to help practitioners manage their caseload (Manage a Person on\u202fProbation, also called MPOP).\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will continue to monitor usage, learn from feedback and look for new opportunities to improve the service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This project has shown how small improvements to everyday tools can make a real difference. When probation practitioners can find the right information more quickly and with less effort, they can spend more time focusing on what matters most: supporting people, managing risk and protecting the public.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2026/10/01/helping-probation-practitioners-spend-less-time-searching-and-more-time-supporting-people/",
+        "blog": "Justice Digital, Data and Science ",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "When probation practitioners take on a new case, they often need to quickly understand a person's history, risks and support needs. That information is stored in Delius, the main case management system used across probation, where more than 40 million \u2026"
+    },
+    {
+        "title": "Understanding surrogate outcomes in cancer screening research trials",
+        "authors": [
+            "UK NSC Secretariat team"
+        ],
+        "posted_on": "2026-10-01T11:33:14",
+        "categories": [
+            "UK National Screening Committee"
+        ],
+        "content": [
+            {
+                "content": "Health system leaders and policymakers attended a Cancer Research UK (CRUK) event to get an insight into the UK National Screening Committee (UK NSC) position on the use of surrogate outcomes in cancer screening trials.",
+                "tag": "p"
+            },
+            {
+                "content": "The CRUK Early Diagnosis Event Series session raised awareness of the UK National Screening Committee\u2019s (UK NSC) newly published position statement on surrogate outcomes in cancer screening trials.",
+                "tag": "p"
+            },
+            {
+                "content": "The event was chaired by UK NSC Chair Prof Sir Mike Richards and speakers included Prof Anne Mackie (UK NSC Director of Screening), Dr Sarah Batson (Assistant Professor at University of Warwick), Dr Tasmin Sommerfield (Scottish Director of Screening), and Dr Lisa Douet (National Institute for Health and Care Research (NIHR) Scientific Advisor).",
+                "tag": "p"
+            },
+            {
+                "content": "Read the CRUK summary report of the event: Understanding surrogate outcomes in cancer screening trials: implications for screening policy and practice.",
+                "tag": "p"
+            },
+            {
+                "content": "Why alternative indicators of screening effectiveness would be helpful",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC only recommends a screening programme if evidence shows that its benefits would outweigh any harms.",
+                "tag": "p"
+            },
+            {
+                "content": "The gold-standard measure of effectiveness for any cancer screening programme is achieving a reduction in deaths from that cancer. However, it can take many years or even decades to collect the cancer-specific mortality data required from large trials.",
+                "tag": "p"
+            },
+            {
+                "content": "Academics have therefore been looking for alternative measurements or indicators of screening effectiveness. These outcomes act as a \u2018surrogate\u2019 for the desired outcome of mortality reduction before that long-term data is available.",
+                "tag": "p"
+            },
+            {
+                "content": "To date, the most promising surrogate outcomes proposed for cancer screening trials have included:",
+                "tag": "p"
+            },
+            {
+                "content": "However, the evidence is not yet strong enough for surrogate outcomes to replace cancer mortality as the definitive measure of the overall benefit of screening.",
+                "tag": "p"
+            },
+            {
+                "content": "This is because finding more cancers at an earlier stage does not necessarily mean fewer people will die from cancer. Additional cancers detected may be very slow-growing or may never cause harm during a person's lifetime. In addition, what is considered a \u2018late-stage\u2019 cancer varies between cancer types, and the link between surrogate outcomes and cancer mortality is not the same for all cancers.",
+                "tag": "p"
+            },
+            {
+                "content": "Implications and next steps",
+                "tag": "h2"
+            },
+            {
+                "content": "The CRUK event provided an overview of the UK NSC\u2019s position statement on surrogate outcomes and explored its implications for health system leaders and policymakers.",
+                "tag": "p"
+            },
+            {
+                "content": "Overall, the session reinforced the committee\u2019s view that surrogate outcomes can inform screening research, evaluation and policy discussions, but cannot yet replace cancer-specific mortality as the main measure of cancer screening benefit.",
+                "tag": "p"
+            },
+            {
+                "content": "Attendees heard that while a reduction in late-stage disease is encouraging as a surrogate outcome, it is not yet sufficient to demonstrate the benefit of screening.",
+                "tag": "p"
+            },
+            {
+                "content": "Participants explored how health systems can try to make evidence-informed decisions in the face of uncertainty. They also discussed the use of in-service evaluations (ISEs) as an important approach to generating evidence in real-world settings.",
+                "tag": "p"
+            },
+            {
+                "content": "The summary report concludes with actions and next steps for policy makers and researchers to consider when shaping the future of cancer screening.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u202fregister to receive updates\u202fdirect to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u00a0uknsc@dhsc.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2026/10/01/understanding-surrogate-outcomes-in-cancer-screening-research-trials/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "Cancer Research UK event gives insight into UK NSC position on use of surrogate outcomes in cancer screening trials."
+    },
+    {
+        "title": "How does the Environment Agency manage abstraction to protect the environment?",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-10-01T11:15:47",
+        "categories": [
+            "agriculture",
+            "Climate change",
+            "Drought",
+            "Regulated industry",
+            "Rivers",
+            "Water"
+        ],
+        "content": [
+            {
+                "content": "Water is essential for drinking, farming, industry,\u202fwildlife\u202fand recreation. Sustainable\u202fwater abstraction is essential to ensure that river flows and groundwater levels support ecology and natural resilience.\u202fWe work side by side with abstractors, combining their knowledge of the land with ours, to safeguard the environment and balance the needs of the society, the economy, industry and farmers\u202fover the long term.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "The pressures are real: floods and droughts are hitting harder and more often. 2026 has seen the driest July in 190 years, with just 5 per cent of expected rainfall and the joint hottest August on record.\u202f The summer overall saw 64 per cent of expected rainfall, resulting in a very difficult harvest for farmers and impacts on fish stocks, bird populations, and wider ecosystems. New research has shown we need 120 per cent of typical rainfall over the next seven months for all areas to be considered out of drought.",
+                "tag": "p"
+            },
+            {
+                "content": "This has placed significant demands on abstraction, particularly for irrigation, and agricultural reservoir stocks have declined rapidly, especially where abstractors rely heavily on storage.\u202fIf you own,\u202foperate\u202for are\u202fplanning to build a reservoir, our new\u202fplanning guides\u202fexplain the\u202frequirements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are abstraction licences?\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Abstraction is the process of taking water from a river,\u202flake\u202for groundwater source for uses such as irrigation, industry,\u202frecreation\u202for drinking water. We grant abstraction licences to protect the environment and the rights of existing lawful water users.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Those with abstraction licences are\u202fallowed\u202fto take water in line with\u202fthe\u202fconditions\u202fof their licence.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Abstracting more than 20 cubic metres a day\u202fgenerally requires\u202fa licence, though some activities, such as firefighting,\u202fare exempt. If you take water from the same source at multiple points, the combined total must be 20 cubic metres or less a day to qualify for exemption.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u202fdon't\u202fhold a licence, you may be able to agree a trade or share with an existing licence holder, permanently or temporarily, provided all licence conditions can still be met. Where an abstraction is moved to a different abstraction point,\u202fthe\u202fbuyer of the abstraction right\u202fwould\u202fnormally have to apply\u202ffor\u202ftheir own licence or change their existing licence if they have one.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Not all activities require an abstraction licence to take place with\u202fsome being exempt.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Abstraction licence holders can\u202fmanage their accounts online\u202fto see a summary of their licence and past returns.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How can the Environment Agency restrict abstraction?\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are two main types of restrictions\u202fthat\u202fthe\u202fEnvironment\u202fAgency\u202fcan implement\u202fon abstractors\u202fat times of pressure:\u202fhands-off flow\u202fconditions\u202fand Section 57\u202frestrictions.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Hands-off flow\u202fconditions\u202fon licences\u202freduce or prevent abstraction to protect other abstractors\u202fand\u202fthe environment.\u202fMany\u202fof\u202fthese restrictions\u202fhave\u202fcome\u202finto effect\u202fin 2026 due to\u202fvery\u202flow\u202friver flows. Licence holders\u202fwho have hands-off flow\u202fcondition\u202fon\u202ftheir licences\u202fwill be notified when\u202fthe\u202fcondition\u202fcomes into force, with as much advance notice as possible.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Section 57\u202fof the\u202fWater Resources Act 1991\u202fallows\u202fformal\u202fnotices to be issued to holders\u202fof\u202fspray irrigation abstraction licences to protect river flows during drought\u202fthroughout a catchment.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Spray irrigation abstraction licence holders\u202fcan help make\u202fthe\u202fmost of the water which their\u202flicence authorises to take\u202fby:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Environment Agency updated prospects for irrigation report for summer 2026 can be found on\u202fgov.uk.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u202fwork closely with farmers,\u202fthe\u202fNational Farmers Union (NFU), Water Abstraction Groups (WAGs)\u202fand Internal Drainage Boards (IDBs) to give as much advanced notice as possible before stopping or reducing conditions are needed on abstraction licences to protect the environment.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We continue to carry out irrigation patrols and other compliance checks to ensure all abstractors are\u202fcomplying with\u202ftheir licence conditions to help protect water availability.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If abstractors believe that they may not be able to\u202fcomply with\u202ftheir abstraction licence or have issues accessing water supplies,\u202fthey should\u202fcontact\u202ftheir\u202flocal area Environment Agency office for further advice as soon as possible.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What support is available for those with abstraction licences\u202fwho may have restrictions in place?\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Drought is putting real pressure on farmers this year. From Thursday 1 October, we're letting abstraction licence holders start refilling their water storage reservoirs early, typically a month ahead of schedule. This temporary Regulatory Position Statement runs from 1 October to 31 October.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Eligible licence holders can act now, without waiting for a local Environment Agency drought assessment. At a time when every week counts, this means farmers can secure water when they need it most.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This isn't a blanket relaxation of the rules. Protecting wildlife and sensitive water environments means some tough decisions: the RPS does not apply to Principal Salmon Rivers or to catchments with a section 57 spray irrigation restriction in place. Where drought restrictions already apply, abstraction stays restricted. Existing licence conditions, including hands-off flow and level constraints, remain in force.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wider general guidance\u202fis available for abstraction licence holders affected by prolonged dry weather and drought, alongside short and long-term options to improve water access and resilience.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also have policy positions that allow farmers to take water during flood conditions, supporting opportunities to capture high flows whilst continuing to protect rivers and the wider environment.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For short term support:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Managing abstraction for the\u202flong\u202fterm\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know that getting a long duration abstraction licence has been difficult, and that this has held back investment in sustainable abstraction, including farm storage reservoirs. We have therefore changed how we assess long duration abstraction licence requests, and the evidence needed to support them, for those who don't currently hold a licence. This should make it easier to invest for the long term. New applicants can find out more here.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For existing abstractors, there are\u202fa number of\u202fschemes that can help generate water resilience. For more information on these schemes and how to manage your land and farm in dry weather, including information on looking after livestock, managing farm reservoirs, storing flammable\u202fmaterials\u202fand creating firebreaks please visit the\u202fDefra Farming Blog.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re encouraging the establishment of Water Abstractor Groups (WAGs) to work together to understand and jointly plan for their future water needs. Defra provided funding to Regional Water Resources Groups to support these activities and updated guidance to help farmers setup Water Abstractor Groups. \u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also recently launched the latest round of Local Resource Option (LRO) Screening Studies, helping groups of farmers identify practical solutions for long-term water resilience. The 2026/27 application window is now closed and projects selected, but further projects may be offered on a first-come-first-served basis if funds remain. Contact WRAgriculture@environment-agency.gov.uk for details.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reporting incidents\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you are\u202fout and\u202fabout,\u202fplease report incidents to our hotline - 0800 80 70 60.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It's\u202ffree and open 24 hours a day.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Incidents you should report include:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "More information on other incidents and how to report can be\u202ffound on gov.uk.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For any further questions\u202fyou can call our National Customer Contact Centre on\u202f03708 506 506.\u202f\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/10/01/how-the-environment-agency-manages-abstraction-to-protect-the-environment/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Water is essential for drinking, farming, industry,\u202fwildlife\u202fand recreation. Sustainable\u202fwater abstraction is essential to ensure that river flows and groundwater levels support ecology and natural resilience.\u202fWe work side by side with abstractors, combining their knowledge of the land with ours, to \u2026"
+    },
+    {
+        "title": "Help for first time directors: Training and resources from the Institute of Directors (IoD)",
+        "authors": [
+            "Hugo Legh - Head of External Affairs, Institute of Directors"
+        ],
+        "posted_on": "2026-10-01T11:06:51",
+        "categories": [
+            "Running a company",
+            "Starting a company"
+        ],
+        "content": [
+            {
+                "content": "The Institute of Directors (IoD) supports directors and senior leaders in their careers. It provides practical guidance, professional development opportunities and resources to help you lead with confidence and impact.",
+                "tag": "p"
+            },
+            {
+                "content": "Becoming a director is a significant career step, but it also brings new responsibilities. The IoD Boardroom Foundations and Code of Conduct resources can:",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding your role as a director",
+                "tag": "h2"
+            },
+            {
+                "content": "As a new director, you'll likely already have extensive senior experience. But taking on board-level responsibility is a different proposition from managing the day-to-day. You\u2019ll need to understand your legal duties and governance obligations, balance the interests of your stakeholders and keep the long-term success of your organisation firmly in view.",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding this early will help you navigate complex decisions, ask the right questions and make an impact in the boardroom.",
+                "tag": "p"
+            },
+            {
+                "content": "Build confidence with Boardroom Essentials",
+                "tag": "h2"
+            },
+            {
+                "content": "If you\u2019re new to the boardroom \u2013 or are hoping to be appointed in the future \u2013 the IoD\u2019s free Boardroom Essentials course gives you a solid grounding in what a director role realistically involves.",
+                "tag": "p"
+            },
+            {
+                "content": "You\u2019ll get practical guidance on the areas you\u2019ll need to understand, including:",
+                "tag": "p"
+            },
+            {
+                "content": "A framework for responsible leadership",
+                "tag": "h2"
+            },
+            {
+                "content": "Knowing your responsibilities matters. But it's just as important to understand the standards you're expected to uphold. That\u2019s where the IoD Code of Conduct for Directors comes in. It\u2019s a practical framework for ethical, responsible leadership, setting out the principles you\u2019ll need to demonstrate integrity, accountability and professionalism in the boardroom.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s a resource you\u2019ll return to throughout your directorship, particularly when you\u2019re weighing up your responsibilities or working through a difficult situation.",
+                "tag": "p"
+            },
+            {
+                "content": "The benefits of continued professional development",
+                "tag": "h2"
+            },
+            {
+                "content": "Investing in your professional development brings benefits beyond growth on an individual level. As your knowledge, judgement and confidence develops, you\u2019ll be better equipped to contribute effectively in the boardroom. It can support your organisation in strengthening its performance, make better decisions and create sustainable value.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s the Director Dividend: the personal and organisational return generated by more capable, informed and effective directors.",
+                "tag": "p"
+            },
+            {
+                "content": "Take the next step",
+                "tag": "h2"
+            }
+        ],
+        "link": "https://companieshouse.blog.gov.uk/2026/10/01/help-for-first-time-directors-training-and-resources-from-the-institute-of-directors-iod/",
+        "blog": "Companies House",
+        "blog_link": "https://companieshouse.blog.gov.uk",
+        "description": "In this guest blog post, the Institute of Directors (IoD) shares information on training and resources to help first time directors understand their responsibilities."
+    },
+    {
+        "title": "My first day at Natural England: sustainable development for people and nature\u00a0",
+        "authors": [
+            "Neil Hornby"
+        ],
+        "posted_on": "2026-10-01T11:06:03",
+        "categories": [
+            "Biodiversity",
+            "Natural England",
+            "Nature",
+            "Nature Recovery",
+            "Nature Restoration Fund",
+            "Planning"
+        ],
+        "content": [
+            {
+                "content": "Reflections from Neil Hornby, Chief Executive of Natural England\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog, Neil Hornby marks their first day as Chief Executive of Natural England with a visit to Kent to see how housing development and nature recovery can work hand in hand. Reflecting on a new Operational Statement that lets Natural England focus its planning advice where it matters most, and on early progress through the Nature Restoration Fund and the Norfolk Environmental Delivery Plan, Neil sets out a vision for an organisation that is ambitious for nature, pragmatic in its approach, and genuinely collaborative with developers, farmers and communities alike.",
+                "tag": "p"
+            },
+            {
+                "content": "I wanted my first day as Chief Executive of Natural England to begin not behind a desk, but out on the ground with colleagues and partners. So today I will visit Kent to meet with Barratt Redrow and see their Conningbrook development \u2013 where I will see first-hand how homes, infrastructure and nature recovery can be planned and delivered together. I will also visit a partner\u2019s environmental works, to look at how mitigation for nutrient pollution can be developed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As Chief Executive, I want Natural England to be ambitious in its efforts to recover nature and be straightforward in the way it works: an organisation that protects and restores nature, uses the best available science and evidence, listens to its customers and partners and delivers effectively. I don\u2019t want us to just be known for identifying environmental risks and issues, but for helping people find solutions that are a win-win for nature and people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0I know I am stepping into a critically important role at a vital time. As we face the twin crises of biodiversity loss and climate change - in one of the most nature-depleted countries in the world - our work to recover nature and improve access to it has never been more important or more urgent.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Too much of the wildlife that inspired my love of nature as a child has been lost and too many people have become disconnected from the natural world. And that\u2019s why I am committed to this important task.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At Conningbrook, I will see a growing community alongside a 3.2 hectare nutrient mitigation wetland. The site is a practical example of development working with nature: early engagement from both the developer and our teams, a clear understanding of environmental pressures and partnership working have helped create space for new homes, green space and addressed impacts on the internationally important Stodmarsh wetland site.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A clear purpose and a focused way of working\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That is the approach I want us to build on. Today, Natural England are also publishing a new Operational Statement allowing us to prioritise our planning advice more strategically to have the greatest impact for nature and people. This follows recent changes in the Planning and Infrastructure Act 2025. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Previously, Natural England was required to provide advice on every request relating to development under the Town and Country Planning Act. This meant specialist expertise was spread across a high volume of consultations, including routine cases where established guidance already existed. The amended duty brings our role more closely in line with other statutory consultees.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In practice, this means engaging earlier with local authorities in developing plans and strategic solutions, providing clearer standing advice, standard guidance and evidence for routine or lower-risk proposals, and reserving bespoke input for the most complex cases and those presenting the greatest risks or opportunities for nature.\u00a0 This approach is intended to provide greater certainty and consistency for local planning authorities and developers while ensuring specialist advice is focused where it can add the greatest value for nature and people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Statutory consultation requirements remain unchanged, as do the protections for important habitats, species and designated sites. We will continue to fulfil our legal responsibilities and provide responses where planning and environmental legislation requires it.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new approach will be carefully introduced through a phased approach with partners.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From site-by-site mitigation to work at scale\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This focus on strategic engagement and larger scale solutions is already reflected in our work on the Nature Restoration Fund, where developers can make a levy payment towards a coordinated programme of conservation measures, rather than commissioning fragmented mitigation site by site.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our first draft Environmental Delivery Plan for Norfolk, published for consultation in the last fortnight, builds on our previous work on providing strategic solutions to tackle the impacts of pollution and support the recovery of protected species.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The first plan is intended to help unlock up to 15,780 homes while raising more than \u00a330 million for large-scale improvements to rivers and wetlands, including the Norfolk Broads. We welcome your feedback on this plan as we seek to roll out this important scheme.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My vision for Natural England\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England\u2019s core purpose - to achieve nature recovery - is clear and non-negotiable. I\u2019m clear that our strategy, Recovering Nature for Growth, Health and Security, provides the blueprint for the outcomes we seek and how we will achieve them. We must deliver successful nature recovery at scale and across all parts of our country. This will mean developing new approaches and building strong partnerships to ensure that nature\u2019s essential contribution to our economy, health and national security is fully valued.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I want to be relentlessly focused on how Natural England can deliver for nature in a way that is customer focused, collaborative and pragmatic. That means making our advice timely and practical, setting expectations clearly and focusing our expertise where it can achieve the greatest impact. And it means Natural England working in genuine partnership with infrastructure developers, housebuilders, farmers, land managers, businesses, local authorities and communities to deliver shared objectives on growth, clean energy, food security, health and nature recovery together.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the coming weeks and months, I look forward to hearing from colleagues, customers and partners about our work together and to exploring opportunities to do more to deliver for people and nature.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/10/01/my-first-day-at-natural-england-sustainable-development-for-people-and-nature/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "In this post, new Natural England Chief Executive, Neil Hornby, reflects on his first day at Natural England and his ambitions for the organisation."
+    },
+    {
+        "title": "Rollout begins of in-service evaluation of SMA screening in England",
+        "authors": [
+            "UK NSC Secretariat team"
+        ],
+        "posted_on": "2026-10-01T11:05:55",
+        "categories": [
+            "Newborn Blood Spot Screening",
+            "UK National Screening Committee"
+        ],
+        "content": [
+            {
+                "content": "The in-service evaluation (ISE) of newborn screening for spinal muscular atrophy (SMA) is under way in NHS services in England.",
+                "tag": "p"
+            },
+            {
+                "content": "From 1 October 2026, babies born in maternity units across the West Midlands are being tested for SMA, a rare but serious genetic condition that affects approximately 1 in 10,000 babies. SMA is being added to the serious conditions that newborn babies are already screened for using the routine newborn blood spot (NBS) screening test.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK National Screening Committee (UK NSC) recommended an ISE to assess the feasibility and effectiveness of adding SMA to the NBS screening programme in the long term. ISEs are used to test a change in screening policy if evidence gaps can only be reasonably filled by data collection and evaluation in a live NHS setting. Data from the evaluation will help inform a definitive UK NSC recommendation on whether and how to continue newborn screening for SMA.",
+                "tag": "p"
+            },
+            {
+                "content": "After its launch in the Birmingham NBS screening laboratory, the ISE will be rolled out in phases to the 6 other English regional laboratories already participating in the ISE of screening for severe combined immunodeficiency (SCID). The government\u2019s ambition is for the roll-out to then extend to the country\u2019s remaining 6 regional laboratories so that all babies born in England will be offered SMA screening as part of the ISE.",
+                "tag": "p"
+            },
+            {
+                "content": "The aim of screening will be to help identify SMA before symptoms develop. When SMA is detected early, babies can be referred promptly for clinical assessment and treatment, which can significantly improve outcomes. Evidence suggests that introducing SMA screening throughout England could, each year, prevent around 3 early deaths, prevent around 2 babies from needing permanent ventilation, prevent around 30 babies from being confined to sitting, and enable around 37 babies to live largely normal lives.",
+                "tag": "p"
+            },
+            {
+                "content": "NHS England is updating all its national NBS screening information for professionals and the public to cover the introduction of screening for SMA.",
+                "tag": "p"
+            },
+            {
+                "content": "The NBS screening e-learning module on NHSE elfh Hub now includes information about SMA screening. Targeted training sessions are being delivered in advance of the ISE rollout in each screening laboratory to maternity units and staff. Details of these sessions will be shared through existing communication routes.",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, SMA UK is launching a campaign, SpotSMA, to raise awareness of the symptoms of the condition among health professionals.",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile, the Screening tests for you and your baby information is being updated for all parents and there will be a new leaflet for parents of babies who screen positive for SMA.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u202fregister to receive updates\u202fdirect to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u00a0uknsc@dhsc.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2026/10/01/rollout-begins-of-in-service-evaluation-of-sma-screening-in-england/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "The in-service evaluation of newborn screening for spinal muscular atrophy is under way in NHS services in England."
+    },
+    {
+        "title": "From community meadows to nature corridors: Local Nature Recovery Strategies in action",
+        "authors": [
+            "Hannah Foster"
+        ],
+        "posted_on": "2026-10-01T10:37:11",
+        "categories": [
+            "Community",
+            "Local Nature Recovery Strategies"
+        ],
+        "content": [
+            {
+                "content": "Nature recovery needs action at every scale.",
+                "tag": "p"
+            },
+            {
+                "content": "We all need to be working together to create the bigger, better and more joined-up network of habitats that nature needs to recover.",
+                "tag": "p"
+            },
+            {
+                "content": "From the parish resident planting wildflowers for pollinators, to the farmer creating new habitats on their land. Or the local government planner thinking about how to ensure sustainable development and the water company looking to improve the water quality of a river catchment. We all have a part to play.",
+                "tag": "p"
+            },
+            {
+                "content": "That is exactly why Local Nature Recovery Strategies (LNRSs) were created.",
+                "tag": "p"
+            },
+            {
+                "content": "Not to sit on a shelf, but to be community-owned plans for environmental improvement that are embedded in the planning system, and that carry weight in public body decision-making. They apply across places and sectors, from neighbourhoods and fields all the way up to counties and catchments.",
+                "tag": "p"
+            },
+            {
+                "content": "On 30 September, we announced that Government is supporting local areas to deliver their LNRS through a \u00a326 million investment over the next three years.",
+                "tag": "p"
+            },
+            {
+                "content": "This money will support the strategy owners, called \u2018responsible authorities\u2019, to keep working with their local partners and communities to better target nature recovery across the country.",
+                "tag": "p"
+            },
+            {
+                "content": "In this post, we\u2019ll look at how responsible authorities are already using their LNRSs to help communities and organisations direct efforts where they\u2019ll have the most impact.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting national and local nature priorities, and driving opportunities",
+                "tag": "p"
+            },
+            {
+                "content": "LNRSs are developed by responsible authorities in partnership with communities, businesses, land managers, planners and environmental organisations.",
+                "tag": "p"
+            },
+            {
+                "content": "They provide a shared blueprint for where action will have the greatest local impact on nature, while contributing to our national environmental priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "With most LNRSs now published, we can clearly see the priorities that each community is working on to address their environmental challenges, and the wider national impact their actions will make when combined.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, restoring wetlands and floodplains can reduce flood risk for homes and businesses downstream. Creating green corridors and urban tree canopy can cool city streets and protect people's health during heatwaves. Improving soil health and riverside vegetation can filter pollutants and improve water quality in local rivers.",
+                "tag": "p"
+            },
+            {
+                "content": "By rooting priorities in local conditions, LNRSs ensure that action for nature delivers tangible benefits for the people who live alongside it, with knock-on benefits that reach much further afield.",
+                "tag": "p"
+            },
+            {
+                "content": "Examples of local, grassroots change",
+                "tag": "p"
+            },
+            {
+                "content": "In Shropshire, a parish community has been leading efforts to restore meadows in its local area and are already seeing amazing results, demonstrating the difference that can be made when people come together around a shared vision for nature and place. To help build on this momentum, partners across Shropshire have collaborated to create a practical workbook to support town and parish councils in delivering the Shropshire and Telford & Wrekin LNRS in their own communities.",
+                "tag": "p"
+            },
+            {
+                "content": "Farmers too are finding LNRSs useful for guiding land management decisions. In Hull and East Yorkshire, the local nature partnership has developed tools to help align Sustainable Farming Incentive and Countryside Stewardship Higher Tier actions with LNRS priorities, making it easier to deliver joined-up outcomes for nature and farm profitability.",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile across the country, responsible authorities and their partners are exploring ways to support community-led delivery. In the West of England, for example, the new Community Nature Fund is helping communities and local organisations take practical action that contributes to the priorities identified through the region's LNRS.",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst in the West Midlands, the new Nature Investment Hub is helping local businesses and investors to connect with impactful projects that might otherwise struggle to get off the ground. Projects on the Hub link directly back to the West Midlands LNRS, showcasing how the project will deliver shared priorities for the area.",
+                "tag": "p"
+            },
+            {
+                "content": "Connecting local actions into landscape-scale change",
+                "tag": "p"
+            },
+            {
+                "content": "When communities, land managers, businesses, planners and public bodies work from a shared understanding of local priorities, their individual actions can begin to connect.",
+                "tag": "p"
+            },
+            {
+                "content": "Small habitat improvements, new wildlife-friendly management practices and local restoration projects can collectively create larger, more resilient networks of nature. LNRSs are designed to support large-scale change like this, by highlighting opportunities where partners could join-up efforts to result in landscape-scale change.",
+                "tag": "p"
+            },
+            {
+                "content": "We are already seeing examples of this happening.",
+                "tag": "p"
+            },
+            {
+                "content": "The first trees have been planted at Pucklechurch Wood in South Gloucestershire \u2013 a 30-hectare site that will form part of the Western Forest, the UK's first new national forest in over three decades.",
+                "tag": "p"
+            },
+            {
+                "content": "Stretching from the Cotswolds to the Mendips, the Western Forest aims to plant 20 million trees by 2050, bringing together councils, parish communities, the Forest of Avon and local volunteers in exactly the kind of coordinated, place-based delivery that LNRSs are designed to enable.",
+                "tag": "p"
+            },
+            {
+                "content": "LNRSs can also support landscape-scale change in urban areas. In March 2026, a partnership was formed in London to drive forward a new regional park, designed to connect green and blue spaces across west London into a more continuous landscape.",
+                "tag": "p"
+            },
+            {
+                "content": "The Mayor of London, responsible authority for London\u2019s LNRS, sits on that partnership. Their LNRS aligns with and supports the new regional park, which will implement one of the green corridors identified in the LNRS.",
+                "tag": "p"
+            },
+            {
+                "content": "The regional park will improve biodiversity, climate resilience, access, and long-term economic growth in the area, contributing to many of the priorities and measures set out in the LNRS.",
+                "tag": "p"
+            },
+            {
+                "content": "Local leadership for local delivery",
+                "tag": "p"
+            },
+            {
+                "content": "The successful development of LNRSs has been a collaborative effort. Responsible authorities have worked closely with local communities, environmental organisations, farmers, businesses, planners and many other partners to create strategies that reflect local priorities. They continue to bring these groups together to turn the proposals set out in LNRSs into action on the ground.",
+                "tag": "p"
+            },
+            {
+                "content": "Government\u2019s role now is to help make that local delivery easier, better connected and more impactful.",
+                "tag": "p"
+            },
+            {
+                "content": "Through a feedback loop of information from local areas on how delivery is going, we\u2019re able to better understand what is working well, where more support is needed, and where we can make better use of national policy measures to direct investment and action where it can have the most impact.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re supporting responsible authorities to provide strategic leadership for environmental delivery and coordinate action in line with their LNRS, and are providing \u00a326 million over the next three years to help them take on this role. Defra bodies, such as the Environment Agency, Forestry Commission and Natural England, are also providing technical expertise, data and delivery support to help translate plans into practical action.",
+                "tag": "p"
+            },
+            {
+                "content": "How to play your part in nature\u2019s recovery",
+                "tag": "p"
+            },
+            {
+                "content": "Nature recovery clearly depends on collective action.",
+                "tag": "p"
+            },
+            {
+                "content": "Every action matters. And when those actions are guided by a shared vision, they have the potential to add up to something much bigger: a healthier, more resilient and more connected natural environment for generations to come.",
+                "tag": "p"
+            },
+            {
+                "content": "Are you looking to support nature in your community? Your local LNRS can help identify where your efforts will make the biggest difference.",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more about LNRSs or learn how you can contribute to nature recovery in your area, visit GOV.UK or find your local strategy.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/10/01/from-community-meadows-to-nature-corridors-local-nature-recovery-strategies-in-action/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "Discover how these community-owned plans are making a real difference, both locally and nationally."
+    },
+    {
+        "title": "My journey from communications to delivery management",
+        "authors": [
+            "Pippa Savill, Senior Delivery Manager"
+        ],
+        "posted_on": "2026-10-01T09:02:34",
+        "categories": [
+            "Careers"
+        ],
+        "content": [
+            {
+                "content": "MHCLG Digital has launched early-career opportunities for 5 Associate Delivery Managers and 5 Junior Developers to join our teams in Manchester.",
+                "tag": "p"
+            },
+            {
+                "content": "Pippa, Senior Delivery Manager, moved into delivery management last summer after 10 years working in communications. She shares what she has learnt over the last year, from the valuable transferable skills she brought to the role to what it means to be a delivery manager.",
+                "tag": "p"
+            },
+            {
+                "content": "How my comms career showed me the impact of digital services",
+                "tag": "h2"
+            },
+            {
+                "content": "While many of us would rather forget COVID-19, it played a pivotal role in my career and without me realising, started me on the path of digital delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "After an enjoyable 3 years creating communications campaigns for government, charity and private sector at an education consultancy, I moved into local government as a communications manager.",
+                "tag": "p"
+            },
+            {
+                "content": "Six weeks later, the pandemic hit.",
+                "tag": "p"
+            },
+            {
+                "content": "I went from a children and young people campaign to delivering urgent public health messaging to residents and businesses. Alongside policy and operational colleagues, I produced a conveyor belt of campaigns, covering everything from social distancing guidance to vaccine uptake and business grants.",
+                "tag": "p"
+            },
+            {
+                "content": "Many of those campaigns communicated new or rapidly evolving digital services supporting residents and businesses remotely. Looking back, that was probably my first exposure to digital delivery. Forget my carefully crafted social media posts and newsletters, there were teams building services at pace, improving processes and solving emerging problems for users.",
+                "tag": "p"
+            },
+            {
+                "content": "Two years later, I joined the Ministry of Housing, Communities and Local Government's (MHCLG's) Local Digital team, supporting local authorities with digital transformation and cyber resilience. After fumbling my way through a fog of agile terminology, I found my rhythm engaging councils with funded programmes, working alongside brilliant product, delivery and user-centred design colleagues.",
+                "tag": "p"
+            },
+            {
+                "content": "In 2024, I moved to head up communications in the Funding Service. I was struck by how effectively multidisciplinary teams worked together to design and build MHCLG\u2019s digital funding service, solving problems, navigating competing priorities and continually improving the experience for users.",
+                "tag": "p"
+            },
+            {
+                "content": "Making the move to delivery management",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019d been considering a role outside communications for a while but was nervous about stepping outside my comfort zone and unsure where I could best apply my skills.",
+                "tag": "p"
+            },
+            {
+                "content": "When a delivery gap emerged on a discovery project focusing on understanding user needs across the funding landscape, my line manager and Deputy Director encouraged me to give it a go. It was a great opportunity to try something new within the familiarity of the Funding Service and the department.",
+                "tag": "p"
+            },
+            {
+                "content": "Colleagues across my team and the wider directorate were incredibly generous with their time, helping me understand what delivery management involved beyond the job description, answering my endless questions, and reassuring me whenever imposter syndrome crept in.",
+                "tag": "p"
+            },
+            {
+                "content": "Six months of hands-on experience later, I knew this was exactly what I wanted to do. When a Senior Delivery Manager role came up in my team, I jumped at the opportunity and that started a new chapter of my career!",
+                "tag": "p"
+            },
+            {
+                "content": "The skills that transferred surprisingly well",
+                "tag": "h2"
+            },
+            {
+                "content": "I was worried that moving profession meant starting from scratch, so it was reassuring to find delivery management relied on some skills that I had already developed while working in comms.",
+                "tag": "p"
+            },
+            {
+                "content": "Stakeholder management",
+                "tag": "h3"
+            },
+            {
+                "content": "Over the last 10 years, I\u2019ve worked with a diverse range of stakeholders including senior political and government figures, community leaders and industry experts. A standout moment during COVID-19 was coordinating funeral guidance with input from public health officials, religious leaders and cabinet members!",
+                "tag": "p"
+            },
+            {
+                "content": "Just like communications, delivery management involves listening to different perspectives, understanding what matters to people and finding common ground. The quicker you can get people aligned on what you\u2019re trying to achieve, the easier it is down the line.",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing people together",
+                "tag": "h3"
+            },
+            {
+                "content": "One of my favourite aspects of any role is bringing people together. In delivery management you get plenty of opportunities to do this through stand ups, workshops, retrospectives and other team activities.",
+                "tag": "p"
+            },
+            {
+                "content": "In comms, my role was often about connecting people to tell richer stories. In delivery management, it\u2019s about creating spaces for people with different expertise, perspectives and experiences to solve problems together. Plus, I love hearing about people\u2019s hobbies, pets, and sometimes niche interests outside work!",
+                "tag": "p"
+            },
+            {
+                "content": "Translating complexity",
+                "tag": "h3"
+            },
+            {
+                "content": "Something that\u2019s not changed much is translating complexity. In comms, I turned complex policy language into something residents or local authorities could understand and use. I do the same thing now, just with delivery challenges, technical concepts or user needs. The subject matter might be different, but the aim is the same: help people understand what is happening, why it matters and what needs to happen next.",
+                "tag": "p"
+            },
+            {
+                "content": "The skills I\u2019m still learning",
+                "tag": "h2"
+            },
+            {
+                "content": "While I\u2019ve transferred some skills relatively easily, others have required a bit more of an adjustment.",
+                "tag": "p"
+            },
+            {
+                "content": "Knowing when to step in and when to step back",
+                "tag": "h3"
+            },
+            {
+                "content": "One of the things I\u2019ve found most difficult is recognising that I don\u2019t need to solve every problem myself. Often the sole comms professional in a busy team, I was responsible for owning a piece of work and seeing it through from start to finish.",
+                "tag": "p"
+            },
+            {
+                "content": "In delivery management, the role is less about doing the work yourself and more about creating the conditions for your team to succeed. I\u2019m still learning when to offer direction and where to step back, but I\u2019ve found giving a team space to work through a problem leads to much better ideas than whatever I\u2019d come up with; a humbling but important lesson!",
+                "tag": "p"
+            },
+            {
+                "content": "Delivery management tools and techniques",
+                "tag": "h3"
+            },
+            {
+                "content": "A steep learning curve has been getting to grips with the seemingly endless range of tools, techniques and frameworks in delivery management. Just when I get my head around one, another seems to appear!",
+                "tag": "p"
+            },
+            {
+                "content": "Through working with my mentor Jon (who recently published this brilliant blog post about our Principles of Delivery) and line manager, I\u2019ve learned that you don\u2019t need to use every tool available.",
+                "tag": "p"
+            },
+            {
+                "content": "There are well-established tools and techniques in the department and wider government delivery community to help you get started. Part of being a delivery manager is learning when to use them and building a broad and flexible toolkit that you can adapt to your team, the problem and context. I\u2019m still very much building mine and have found shadowing other delivery managers, through MHCLG\u2019s delivery community of practice, really helpful in seeing how different approaches work in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "My advice: take the leap!",
+                "tag": "h2"
+            },
+            {
+                "content": "I\u2019m not much of a risk taker, but stepping out of my comfort zone into delivery management has been one of the most rewarding decisions I\u2019ve made.",
+                "tag": "p"
+            },
+            {
+                "content": "Being able to learn by doing, with support and encouragement from my team and directorate, made it so much easier to take the leap.",
+                "tag": "p"
+            },
+            {
+                "content": "While I\u2019m learning something new every day, it\u2019s reassuring to discover that many of the skills I built working in comms are just as valuable in a different context.",
+                "tag": "p"
+            },
+            {
+                "content": "My advice to anyone considering a move into delivery, or another profession entirely: give it a go, you might be more prepared than you think!",
+                "tag": "p"
+            },
+            {
+                "content": "If you're at the start of your career and interested in delivery management, make sure to check out our Associate Delivery Managers opportunities in Manchester. Applications are open until 11 October.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/10/01/my-journey-from-communications-to-delivery-management/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "MHCLG Digital has launched early-career opportunities for 5 Associate Delivery Managers to join our teams in Manchester. Find out from Pippa, Senior Delivery Manager, what she has learnt since moving from communications to delivery management, including the valuable transferable skills she brought to her role and what it means to be a delivery manager."
+    },
+    {
         "title": "Help us test the DVS register\u2019s machine-readable infrastructure\u00a0",
         "authors": [
             "Aniqa"
