@@ -1,5 +1,658 @@
 [
     {
+        "title": "Testing how AI could help improve case readiness in the Crown Court",
+        "authors": [
+            "Amar Morjaria - Deputy Director Digital Delivery and AI"
+        ],
+        "posted_on": "2026-10-02T14:00:00",
+        "categories": [
+            "Crime",
+            "Digital services",
+            "General"
+        ],
+        "content": [
+            {
+                "content": "We want to use court time as effectively as possible. That means making sure that, where possible, cases are ready to proceed when they come before a judge.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of our wider work to tackle delays and improve the way the justice system works, HMCTS and the Ministry of Justice are exploring where artificial intelligence (AI) could help.",
+                "tag": "p"
+            },
+            {
+                "content": "We are identifying specific problems where technology could support our people, make processes more efficient and ultimately help us provide a better service for everyone who uses our courts and tribunals.",
+                "tag": "p"
+            },
+            {
+                "content": "Our focus is on using AI where it can solve real problems, while making sure appropriate safeguards, human oversight and clear governance are in place. We test new tools carefully, learn from how they work in practice and only consider wider use where there is clear evidence of benefit.",
+                "tag": "p"
+            },
+            {
+                "content": "In October 2026, we will take another step in that work by beginning a pilot of an AI Case Readiness Assistant at Inner London Crown Court.",
+                "tag": "p"
+            },
+            {
+                "content": "Helping staff identify issues earlier",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0A lot of work happens before a Crown Court case reaches trial.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0For a trial to go ahead as planned, important steps must be completed and key information must be available at the right time. If problems or missing information are only identified shortly before a hearing, this can lead to delays or mean the hearing cannot go ahead.",
+                "tag": "p"
+            },
+            {
+                "content": "The AI Case Readiness Assistant is being tested to explore whether technology can help court staff identify and track these issues earlier.",
+                "tag": "p"
+            },
+            {
+                "content": "The tool uses AI to review case information and identify actions that may still need to be completed. By highlighting potential issues earlier, this could help staff focus on what needs attention and take action earlier to help get cases ready to proceed.",
+                "tag": "p"
+            },
+            {
+                "content": "Court staff will review the information identified by the tool and remain responsible for deciding what action, if any, needs to be taken. The Case Readiness Assistant will not make or recommend judicial decisions and will not determine the outcome of a case or how the law should be applied.",
+                "tag": "p"
+            },
+            {
+                "content": "As always, listing remains a judicial function.\u00a0The judiciary continues to engage closely with the development and use of AI across the justice system through the Criminal Courts Improvement Group (CCIG) AI\u00a0working group, chaired by Mr Justice Johnson, the Deputy Senior Presiding Judge. This group considers how emerging technologies can support efficiency and fairness while maintaining appropriate human oversight and ethical safeguards.",
+                "tag": "p"
+            },
+            {
+                "content": "This builds on the approach we have previously outlined for AI at HMCTS, which puts human oversight at the heart of how we develop and test the technology. ",
+                "tag": "p"
+            },
+            {
+                "content": "Starting small and learning from the pilot",
+                "tag": "h2"
+            },
+            {
+                "content": "Introducing new technology into the justice system requires care. That is why we are starting with a pilot at Inner London Crown Court rather than immediately introducing the tool more widely.",
+                "tag": "p"
+            },
+            {
+                "content": "Working with court staff, we will use the pilot to understand how the technology performs in a real operational environment.",
+                "tag": "p"
+            },
+            {
+                "content": "We want to understand whether it helps staff identify outstanding issues earlier, whether it supports more effective case preparation and whether, in practice, it can contribute to better use of court time.",
+                "tag": "p"
+            },
+            {
+                "content": "The pilot will also give us an opportunity to learn directly from the people using the tool and understand where it works well and where it may need to improve.",
+                "tag": "p"
+            },
+            {
+                "content": "We will use that evidence to inform what happens next. We will only consider taking the technology further if it demonstrates clear value and can be used safely and responsibly. ",
+                "tag": "p"
+            },
+            {
+                "content": "Our wider approach to AI",
+                "tag": "h2"
+            },
+            {
+                "content": "This pilot is one part of our wider work to understand how AI could support the administration of justice.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve previously explained how HMCTS is exploring AI to address specific challenges, including work involving transcription and summarisation, anonymisation, and search and assistant capabilities within case management systems.",
+                "tag": "p"
+            },
+            {
+                "content": "Technology alone will not solve the pressures facing the justice system. Used carefully and responsibly, it has the potential to help our people to spend their time more effectively and to support the delivery of a justice system that is faster, simpler and easier to use.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2026/10/02/testing-how-ai-could-help-improve-case-readiness-in-the-crown-court/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "We want to use court time as effectively as possible. That means making sure that, where possible, cases are ready to proceed when they come before a judge. As part of our wider work to tackle delays and improve the way the justice system works, HMCTS and the Ministry of Justice are exploring where artificial \u2026"
+    },
+    {
+        "title": "What owning land or property near a public highway can mean",
+        "authors": [
+            "Joel Roberts, Practice Adviser, Customer Engagement and Development"
+        ],
+        "posted_on": "2026-10-02T11:05:05",
+        "categories": [
+            "Law and practice"
+        ],
+        "content": [
+            {
+                "content": "Key points in brief",
+                "tag": "h3"
+            },
+            {
+                "content": "If your property is next to a public highway, it is not always obvious where the highway ends and your land begins. This can affect what land is included in your title, what you can build or change, and who is responsible for different areas.",
+                "tag": "p"
+            },
+            {
+                "content": "In practice, this does not usually present a problem, but\u00a0there are some things to think about.",
+                "tag": "p"
+            },
+            {
+                "content": "What is a public highway?",
+                "tag": "h3"
+            },
+            {
+                "content": "A public highway is land that the public has a right to use to get from one place to another. This can include:",
+                "tag": "p"
+            },
+            {
+                "content": "Sometimes the limits of a public highway are easy to identify, with features such as pavements, hedges, fences or walls marking the edge. In other places, it can be harder to tell whether land forms part of the highway. There is no standard width or length that applies in every case.",
+                "tag": "p"
+            },
+            {
+                "content": "Many highways are looked after by the local highway authority and maintained at public expense. In these cases, the authority controls the surface of the highway, some of the ground beneath it, and the airspace needed for ordinary use of the highway under section 263 of the Highways Act 1980.",
+                "tag": "p"
+            },
+            {
+                "content": "Why does it matter if my property is next to a public highway?",
+                "tag": "h3"
+            },
+            {
+                "content": "It matters because the boundary between private land and public highway land may not be exact or obvious. If land is part of a public highway, the local highway authority may have legal duties and powers over the highway which affect the ownership, use and control of the land.",
+                "tag": "p"
+            },
+            {
+                "content": "This can affect:",
+                "tag": "p"
+            },
+            {
+                "content": "In many cases, this does not cause a problem. But it is important to check with the local highway authority if ownership or responsibility is unclear.",
+                "tag": "p"
+            },
+            {
+                "content": "Does the red line on a title plan show the exact boundary?",
+                "tag": "h3"
+            },
+            {
+                "content": "The red line on an HM Land Registry title plan usually shows the general position of the property boundary.",
+                "tag": "p"
+            },
+            {
+                "content": "Known as a general boundary, it does not usually show the exact position of the legal boundary.",
+                "tag": "p"
+            },
+            {
+                "content": "Most title plans indicate general boundaries only. If this applies, the title plan will say that it shows the general position of the boundaries, not the exact line.",
+                "tag": "p"
+            },
+            {
+                "content": "This means the red line is only an indication of the boundary. It is not proof of the exact legal boundary.",
+                "tag": "p"
+            },
+            {
+                "content": "This also means that land may appear to be inside the red line on a title plan but not actually be included in the registered title. The opposite can also happen. Land may appear to be outside the red line but still be included in the registered title.",
+                "tag": "p"
+            },
+            {
+                "content": "The general boundaries rule does not define or limit how much land can be affected.",
+                "tag": "p"
+            },
+            {
+                "content": "Can land inside the red line still be part of a public highway?",
+                "tag": "h3"
+            },
+            {
+                "content": "Yes. Land may appear to be inside the red line on a title plan but still form part of the public highway, even where this is not mentioned in the title register.",
+                "tag": "p"
+            },
+            {
+                "content": "Public highways are not usually included inside the red line on a title plan - one reason why it can be hard to tell exactly where private land ends and the public highway begins.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens if the red line appears to include part of a public highway?",
+                "tag": "h3"
+            },
+            {
+                "content": "If the red line on a title plan appears to include part of a public highway, that part of the highway will usually be excluded from the registered title.",
+                "tag": "p"
+            },
+            {
+                "content": "This will include:",
+                "tag": "p"
+            },
+            {
+                "content": "This means a title plan may appear to include land that is still subject to public highway rights or control by the local highway authority.",
+                "tag": "p"
+            },
+            {
+                "content": "Can land that looks private still be public highway land?",
+                "tag": "h3"
+            },
+            {
+                "content": "Yes, land that appears to be private may still form part of a public highway.",
+                "tag": "p"
+            },
+            {
+                "content": "This can include land such as:",
+                "tag": "p"
+            },
+            {
+                "content": "You should not rely on appearance, a fence line or the red line on a title plan to decide whether land is private or part of a public highway.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are unsure, check with the local highway authority as any highway rights or requirements will override your private rights.",
+                "tag": "p"
+            },
+            {
+                "content": "How can I check if land is part of a public highway?",
+                "tag": "h3"
+            },
+            {
+                "content": "If you want to check whether land forms part of a public highway, contact your local highway authority. They keep records of public highways and public rights of way.",
+                "tag": "p"
+            },
+            {
+                "content": "GOV.UK also explains what public rights of way are, what to do if there is a problem and how to contact the right authority: Rights of way and accessing land: Use public rights of way - GOV.UK",
+                "tag": "p"
+            },
+            {
+                "content": "FindMyStreet can also help. It lists streets in England and Wales and shows where a street is, its official name and which highway authority looks after it.",
+                "tag": "p"
+            },
+            {
+                "content": "Council websites may also publish guidance about public rights of way (often shortened to \u2018PRoW\u2019), including information about encroachment and adopted roads.",
+                "tag": "p"
+            },
+            {
+                "content": "Where can I find more information?",
+                "tag": "h3"
+            },
+            {
+                "content": "You can read more guidance from HM Land Registry and other public bodies. Some guidance is quite complex and mainly written for solicitors and conveyancers.",
+                "tag": "p"
+            },
+            {
+                "content": "Useful guidance includes:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://hmlandregistry.blog.gov.uk/2026/10/02/what-owning-land-or-property-near-a-public-highway-can-mean/",
+        "blog": "HM Land Registry",
+        "blog_link": "https://hmlandregistry.blog.gov.uk",
+        "description": "This guide explains how public highways can affect property boundaries, ownership and responsibility for land."
+    },
+    {
+        "title": "Learning, growing and feeling valued as a developer",
+        "authors": [
+            "Mohsina Ahmed Chowdhury, Developer"
+        ],
+        "posted_on": "2026-10-02T09:32:01",
+        "categories": [
+            "Careers"
+        ],
+        "content": [
+            {
+                "content": "MHCLG Digital has launched early-career opportunities for 5 Junior Developers and 5 Associate Delivery Managers to join our teams in Manchester.",
+                "tag": "p"
+            },
+            {
+                "content": "Mohsina, Developer, shares how support from colleagues has helped her build her skills and grow professionally since joining the department as a junior developer back in 2024.",
+                "tag": "p"
+            },
+            {
+                "content": "Joining MHCLG Digital",
+                "tag": "h2"
+            },
+            {
+                "content": "I was hired by the Ministry of Housing, Communities and Local Government (MHCLG) through one of their in-person digital recruitment days in Manchester. I remember feeling very welcomed by the team from the moment I arrived for my interview. That feeling continued when I joined, especially during my onboarding. Everyone was very supportive and made me feel comfortable picking up work from the start.",
+                "tag": "p"
+            },
+            {
+                "content": "Learning",
+                "tag": "h2"
+            },
+            {
+                "content": "As a junior developer, I was curious about everything and wanted to understand even the little things. I was always encouraged to ask questions. As my lead developer says, \"there is no such thing as a stupid question\".",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019d describe my work environment as a perfect, guilt-free platform to learn from senior developers. You get the space try new approaches, learn new techniques, ask questions and grow at your own pace.",
+                "tag": "p"
+            },
+            {
+                "content": "I was able to pair with different developers in the team, so I got to see different ways of working and learned a lot from everyone. Over time, this made me more confident, and before long, I started picking up work more independently and suggesting ideas that could make a difference.",
+                "tag": "p"
+            },
+            {
+                "content": "Growing",
+                "tag": "h2"
+            },
+            {
+                "content": "I feel lucky to have been part of the Delta team since I started working in MHCLG. Delta is the main internal platform the department uses to collect data and make payments, and one of the most critical internal services in the department.",
+                "tag": "p"
+            },
+            {
+                "content": "What I enjoy most is that we are continually evolving the platform, building new features to meet user needs, and working with a modern and varied technology stack. Every day brings opportunities to learn something new and contribute to work that has a real impact.",
+                "tag": "p"
+            },
+            {
+                "content": "The team mostly works with Java, PostgreSQL, AWS and MarkLogic (NoSQL database). I had never even heard of MarkLogic before joining the department, but over time I've developed the skills and confidence to work with it, contribute code and support the platform. Most recently, I was involved in a major server and database upgrade, which was a valuable learning experience.",
+                "tag": "p"
+            },
+            {
+                "content": "The role has also given me exposure to DevOps practices and ways of working, which I find particularly exciting. Being able to work across different areas of the technology stack has helped me broaden my skills and gain a better understanding of how large-scale services are built and maintained.",
+                "tag": "p"
+            },
+            {
+                "content": "Most importantly, every single member in the Delta team has helped me grow in some way, and help has always been available whenever I needed it.",
+                "tag": "p"
+            },
+            {
+                "content": "Feeling heard",
+                "tag": "h2"
+            },
+            {
+                "content": "I think MHCLG is a perfect example of an inclusive Civil Service environment. We have people from different ethnicities, cultures and backgrounds, and everyone is welcomed and respected for who they are. I\u2019ve always felt that people are given a chance to speak, and that their opinions genuinely matter. For me, that sense of being heard and included is one of the things I value most about working here.",
+                "tag": "p"
+            },
+            {
+                "content": "A great place to build your career as a developer",
+                "tag": "h2"
+            },
+            {
+                "content": "I honestly can't ask for much more from what I've got from the department. This junior developer role opened a new door for me. It has given me the support and opportunities to learn, contribute and grow \u2013 and I\u2019m still learning!",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re thinking about building your career in software development, I encourage you to take a look at the current Junior Developer opportunities in Manchester. You can apply until 11 October.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about how you can build your career with us.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/10/02/learning-growing-and-feeling-valued-as-a-developer/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "MHCLG Digital has launched early-career opportunities for 5 Junior Developers to join our teams in Manchester. Mohsina, one of our developers, shares how support from colleagues has helped her build her skills and grow professionally since joining the department as a junior developer in 2024."
+    },
+    {
+        "title": "Don't spark disaster: changing public behaviour as UK wildfire risk grows",
+        "authors": [
+            "Nina Beadle"
+        ],
+        "posted_on": "2026-10-02T09:12:26",
+        "categories": [
+            "Climate change",
+            "Community",
+            "National Parks",
+            "Peat"
+        ],
+        "content": [
+            {
+                "content": "This year, we have seen largescale wildfires decimate landscapes at home and across Europe.",
+                "tag": "p"
+            },
+            {
+                "content": "In the UK, wildfires have affected moorland, woodlands, grasslands, farmland and community green spaces close to homes and infrastructure.",
+                "tag": "p"
+            },
+            {
+                "content": "In fact, Prime Minister Andy Burnham has announced that he will soon host a wildfire summit, focused on how we can increase our resilience to wildfire.",
+                "tag": "p"
+            },
+            {
+                "content": "As we experience more frequent periods of hot, dry weather, activities that once carried relatively little perceived risk can have far greater consequences. Disposable barbecues, campfires, discarded cigarettes, glass bottles and reflective litter can all increase ignition risk.",
+                "tag": "p"
+            },
+            {
+                "content": "As Communications Officer at the North York Moors National Park Authority, I have personally seen how a single ignition can escalate into a major incident.",
+                "tag": "p"
+            },
+            {
+                "content": "One spark can have a devastating impact",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s been a year since a wildfire affected around 20 square kilometres of the North York Moors National Park, becoming one of the largest and most prolonged incidents ever faced in the area.",
+                "tag": "p"
+            },
+            {
+                "content": "The Fylingdales Moor wildfire began in late June 2025 and wasn't formally closed until 6 months later. An investigation by North Yorkshire Fire & Rescue Service found the most likely cause of the blaze was cooking activity with a gas burner or campfire in a remote part of Langdale Forest.",
+                "tag": "p"
+            },
+            {
+                "content": "Strong winds, dry vegetation and underlying peat allowed the fire to breach an initial firebreak and spread rapidly across grazed moorland, while the presence of historic unexploded ordnance from former military training activity added significant complexity and risk to firefighting operations.",
+                "tag": "p"
+            },
+            {
+                "content": "A nearby secondary fire that broke out in August was caused by a cigarette, thought to have been discarded by a bystander who had stopped their vehicle to observe the main incident.",
+                "tag": "p"
+            },
+            {
+                "content": "Communication needs to encourage behaviour change",
+                "tag": "h4"
+            },
+            {
+                "content": "The fire highlighted the importance of clear, timely communication and strong partnership working. We need to think differently about how we talk about wildfire risk in the UK, to encourage people to change their behaviour and reduce that risk.",
+                "tag": "p"
+            },
+            {
+                "content": "Communicating fire risk is not new to the National Park Authority. When Met Office data indicates particularly dry ground conditions and the potential for fires to spread rapidly, Extreme Fire Risk warning signs are erected at key locations across the North York Moors. Regional media are alerted through a press release, and the public are reminded how to help prevent fires and what to do if they see smoke or flames.",
+                "tag": "p"
+            },
+            {
+                "content": "This approach has been effective, but it has largely been a seasonal response to periods of increased risk - a message delivered when conditions require additional caution.",
+                "tag": "p"
+            },
+            {
+                "content": "As wildfire risk becomes a recognised consequence of a changing climate, we need to move beyond simply communicating when the risk is high, towards building a wider understanding that wildfire is a growing reality for the UK, not a distant threat associated with other countries.",
+                "tag": "p"
+            },
+            {
+                "content": "Behaviour change is a form of climate adaptation",
+                "tag": "h4"
+            },
+            {
+                "content": "Working for a National Park Authority, I usually encounter climate adaptation through large-scale interventions such as restoring peatlands or reducing flood risk by improving river catchments.",
+                "tag": "p"
+            },
+            {
+                "content": "Yet adaptation also depends on the cumulative effect of everyday decisions. For wildfire, behaviour change is one of the most immediate and cost-effective forms of climate adaptation available to us.",
+                "tag": "p"
+            },
+            {
+                "content": "It is important that we avoid the potentially dangerous assumption that wildfires are caused only by deliberate or reckless behaviour, rather than recognising that risk also exists when everyday activities are carried out in hazardous conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "The challenge is not simply to tell people what to avoid, but to help them understand that the environmental conditions in which those actions take place have changed.",
+                "tag": "p"
+            },
+            {
+                "content": "Don\u2019t Spark Disaster",
+                "tag": "h4"
+            },
+            {
+                "content": "In 2026, we have taken a different tack. \u2018Don\u2019t Spark Disaster\u2019 has been designed as a broader, longer-term awareness campaign, moving beyond seasonal warnings towards a coordinated approach to wildfire prevention.",
+                "tag": "p"
+            },
+            {
+                "content": "A key difference has been the scale of partnership involvement, bringing together North Yorkshire\u2019s two National Parks with those working across the Fire and Rescue service, forestry, tourism and the wider Local Resilience Forum. This has enabled wildfire prevention messaging to extend beyond a single National Park boundary and across North Yorkshire.",
+                "tag": "p"
+            },
+            {
+                "content": "What has been particularly striking is the level of engagement with the campaign\u2019s educational content. Videos showing the heat generated by disposable barbecues through an infrared camera proved especially effective in helping audiences visualise the risks associated with these items in dry conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "Partnerships with online creators such as Whitby Mumbler and Muslim Hikers have also helped us explore lighter, more accessible ways of encouraging lower-risk choices, such as swapping barbecues for picnic foods that require no cooking. This messaging is backed up by increased patrols at higher-risk locations, with Assistant and Voluntary Rangers providing advice and reinforcing the campaign\u2019s fire safety messages.",
+                "tag": "p"
+            },
+            {
+                "content": "The early results suggest that practical, relatable wildfire prevention messages can achieve significant public engagement. As the campaign develops, we will continue building on this foundation, exploring how positive messages around responsible countryside enjoyment can support a stronger culture of wildfire prevention. As with any campaign linked to climate and environmental risk, responses have not been universally positive. Some people remain sceptical about the seriousness of climate change or its connection to wildfire risk. Our approach has been to respond with clear evidence, scientific fact and trusted sources of information.",
+                "tag": "p"
+            },
+            {
+                "content": "As wildfire becomes recognised as a domestic climate risk, National Parks have an important role in supporting adaptation at a landscape scale, while also helping people understand how these changes affect the places they live, work and enjoy.",
+                "tag": "p"
+            },
+            {
+                "content": "Wildfire resilience involves many aspects of landscape management, including work to restore healthy peatlands that retain water and are better able to withstand dry conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "But alongside this, one area where communities and visitors can have an immediate impact is reducing avoidable ignitions. By helping people understand how everyday actions interact with changing environmental conditions, we can support a stronger culture of prevention and help protect the landscapes we all value.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/10/02/dont-spark-disaster-changing-public-behaviour-as-uk-wildfire-risk-grows/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "Nina tells us about the impact of wildfires on the North York Moors, and how her team are adapting their public communications to meet this evolving risk."
+    },
+    {
+        "title": "Forests and people: why managing forests for people matters",
+        "authors": [
+            "Alison Hallas"
+        ],
+        "posted_on": "2026-10-02T08:00:00",
+        "categories": [
+            "People and access"
+        ],
+        "content": [
+            {
+                "content": "Many of our woodlands and forests have been shaped over the decades as much by people as by soil, water and climate. From supporting health and wellbeing to strengthening local economies and communities, trees and forests remain a vital part of our everyday lives.",
+                "tag": "p"
+            },
+            {
+                "content": "The UKFS recognises this and provides woodland owners with a framework to managing people\u2019s use of forests alongside wider management objectives such as biodiversity and timber production.",
+                "tag": "p"
+            },
+            {
+                "content": "Why managing forests for people matters",
+                "tag": "h2"
+            },
+            {
+                "content": "From small community woodlands to larger forests, UK woodlands deliver a wide range of social and economic benefits. They provide places to exercise and relax, spaces for learning, and opportunities for volunteering and employment. Demand for access to green space is growing, but Natural England research shows access inequalities persist across different communities.1",
+                "tag": "p"
+            },
+            {
+                "content": "Woodlands can help address both demand and inequality, which is why the UKFS encourages forest management that:",
+                "tag": "p"
+            },
+            {
+                "content": "For woodland managers, this isn\u2019t about opening every site to all activities. It\u2019s about making evidence-based decisions that reflect a woodland\u2019s sensitivities, objectives and local context. In return, visitors can help care for the woodland and report problems, such as antisocial behaviour or wildfire, so that they can be dealt with quickly.",
+                "tag": "p"
+            },
+            {
+                "content": "Health and wellbeing benefits",
+                "tag": "h2"
+            },
+            {
+                "content": "Evidence of the positive impacts of trees and woodlands on physical and mental health continues to grow. Regular access to green spaces is linked to improved mental wellbeing and reduced stress levels.2",
+                "tag": "p"
+            },
+            {
+                "content": "The UKFS supports woodland managers by encouraging:",
+                "tag": "p"
+            },
+            {
+                "content": "Where managers experience issues such as informal path creation or anti\u2011social behaviour, positive access management can help guide people to suitable areas while reducing pressure on sensitive habitats.",
+                "tag": "p"
+            },
+            {
+                "content": "Forests for everyone",
+                "tag": "h2"
+            },
+            {
+                "content": "Public access is one of the most visible aspects of people\u2019s connection to forests. The UKFS supports appropriate and well\u2011managed access, highlighting legal responsibilities and providing a set of key principles including:",
+                "tag": "p"
+            },
+            {
+                "content": "Where managers face issues such as conflict between users or pressure on infrastructure, the UKFS provides a clear rationale for zoning, seasonal restrictions or managed routes.",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, not everyone experiences forests in the same way and barriers to access can include physical ability, confidence, cultural perception and location.",
+                "tag": "p"
+            },
+            {
+                "content": "The UKFS highlights legal requirements for equality and encourages inclusive design and engagement with underrepresented groups, for example people with reduced mobility, to make sure that everyone\u2019s needs are met wherever possible. One of the key principles is the need to remove unintentional barriers and avoid introducing new ones, such as removing stiles where they aren\u2019t needed or replacing steps with a ramp. Addressing this helps to ensure forests benefit everyone, not just those already confident in visiting them.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting the rural economy",
+                "tag": "h2"
+            },
+            {
+                "content": "Woodlands are central to local and rural economies, creating and supporting jobs in forestry, recreation, tourism, education and land management. Recent Forestry Commission experimental research suggests that the contribution of forest recreation and leisure businesses to the UK economy is significant.3",
+                "tag": "p"
+            },
+            {
+                "content": "The UKFS highlights how recreation and tourism can sit well alongside timber and conservation objectives. Well-managed access can support local businesses, such as accommodation and hospitality providers by offering high quality places to visit. Commercial recreation activities such as high rope courses and children\u2019s play trails can also contribute in a sustainable way.",
+                "tag": "p"
+            },
+            {
+                "content": "For woodland managers navigating multiple management objectives, the UKFS supports transparent decision making and collaboration with local partners.",
+                "tag": "p"
+            },
+            {
+                "content": "Forests are powerful learning environments",
+                "tag": "h2"
+            },
+            {
+                "content": "Forests and woodlands can also offer learning opportunities from early years exploration to vocational training. The UKFS encourages collaboration with learning providers, helping to deepen people\u2019s connection with the natural world and to build forestry skills for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Educational use needn\u2019t be large scale. Simple interpretation boards can support self\u2011led learning and occasional visits can be accommodated in many woodlands with good planning. Partnerships help manage expectations and responsibilities as well as building stronger relationships with the local community.",
+                "tag": "p"
+            },
+            {
+                "content": "Well\u2011managed educational access can also improve the public\u2019s understanding of forestry practices. This can help to address concerns about harvesting or forestry operations, and strengthen public support for woodlands and the timber and forestry industries.",
+                "tag": "p"
+            },
+            {
+                "content": "Working with local communities",
+                "tag": "h2"
+            },
+            {
+                "content": "Engaging communities can transform how woodlands are valued and cared for. The UKFS promotes positive community involvement, from volunteering and citizen science to participatory planning.",
+                "tag": "p"
+            },
+            {
+                "content": "This approach can help address challenges such as:",
+                "tag": "p"
+            },
+            {
+                "content": "By involving people early and clearly explaining decisions, managers can build trust and shared responsibility, while retaining professional oversight of management and forestry operations. They can also tap into valuable local knowledge.",
+                "tag": "p"
+            },
+            {
+                "content": "Public safety and management",
+                "tag": "h2"
+            },
+            {
+                "content": "Keeping people safe is central to the UKFS. It highlights legal responsibilities, some of the common hazards in woodland environments and reinforces industry best practice approaches of proportionate risk management, including:",
+                "tag": "p"
+            },
+            {
+                "content": "Putting the UKFS into practice",
+                "tag": "h2"
+            },
+            {
+                "content": "For woodland managers, the UKFS offers a practical framework for responding to real world challenges. It helps manage public benefits alongside sustainable management, aiding decisions that are evidence-based, transparent and support the long-term health of people and forests.",
+                "tag": "p"
+            },
+            {
+                "content": "By planning for people as carefully as we plan for trees, we can ensure forests remain places that support health, learning, livelihoods and community wellbeing \u2013 now and for generations to come.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2026/10/02/forests-and-people-why-managing-forests-for-people-matters/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Alison Hallas, Woodland Access Adviser at the Forestry Commission, explores how the UK Forestry Standard (UKFS) offers a practical framework to woodland owners to manage woodlands and forests for people, and respond to real world challenges."
+    },
+    {
         "title": "Assembling architects to improve local public services\u00a0",
         "authors": [
             "Phil Rumens, Principal Technologist, GDS"
