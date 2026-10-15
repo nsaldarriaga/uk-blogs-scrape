@@ -1,5 +1,1234 @@
 [
     {
+        "title": "UKHSA Complete UK Pre-entry Health Screening\u00a0Beta reassessment",
+        "authors": [
+            "Man-Yee Lam"
+        ],
+        "posted_on": "2026-10-14T16:01:21",
+        "categories": [
+            "Beta",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From:\u00a0DHSCAssessment date:\u00a004/12/2025Amber review date:\u00a030/04/2026Stage:\u00a0Beta reassessmentResult:\u00a0Green at reassessmentService provider:\u00a0UKHSA",
+                "tag": "p"
+            },
+            {
+                "content": "Service description",
+                "tag": "h2"
+            },
+            {
+                "content": "The 'Complete UK pre-entry health screening' service provides a secure, digitised platform for overseas clinic staff (administrators, panel physicians and radiologists) to record data required for a pulmonary tuberculosis screening of visa applicants from high-incidence countries.  It clarifies expectations set by the UK Tuberculosis Technical Instructions (UKTBTIs), streamlines reporting to UKHSA, improves data quality and timeliness, enhances fraud detection and supports national TB prevent efforts.",
+                "tag": "p"
+            },
+            {
+                "content": "Over 300 international clinics across 6 continents participate in this programme.  This enables UKHSA to deliver on its \"prepare\" strategy: identifying future health threats and building tools to protect against them.",
+                "tag": "p"
+            },
+            {
+                "content": "Service users",
+                "tag": "h2"
+            },
+            {
+                "content": "Primary users\u202f\u2013\u202fdirectly interact with\u202fthe service\u202f:",
+                "tag": "p"
+            },
+            {
+                "content": "Overseas clinic staff\u202fwho\u202fneed\u202fto\u202frecord\u202fTB UK pre-entry health\u202fscreenings\u202fon behalf of\u202fUK\u202fvisa applicants:\u202f\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Secondary users\u202f\u2013\u202findirectly\u202for\u202foccasionally\u202fuse the service\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Additional\u202fclinic staff\u202fwho\u202fhave\u202fsupportive\u202froles\u202fthat\u202ffacilitate\u202fthe TB UK pre-entry health screening:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The\u202fHeathrow Health Control Unit\u202fhas\u202fbackstage roles that\u202fminimise risk of\u202fUK\u202fTB cases rising\u202fand supporting service users:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision ",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision ",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated amber for point 2 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "This is amber because:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment:",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 2 of the Standard",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision ",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 3 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision ",
+                "tag": "h3"
+            },
+            {
+                "content": " The service was rated amber for point 4 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "This is amber because:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment:",
+                "tag": "h3"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated amber for point 5 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "This is amber because:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment:",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision ",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 6 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 7 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve\u00a0frequently",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated amber for point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is amber because:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment:",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 9 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated amber for point 10 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "This is amber because:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment:",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 10 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated\u00a0green\u00a0for\u00a0point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 12 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common\u00a0components\u00a0and patterns\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 13 of the Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "14.\u00a0Operate\u00a0a reliable service\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next Steps\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This service can now move into a\u00a0public beta phase, subject to addressing the amber points within three months time and GDS spend approval.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This service now has permission to launch on a GOV.UK service domain with a beta banner.\u00a0\u00a0These instructions\u00a0explain how to set up your *.service.gov.uk domain.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2026/10/14/ukhsa-complete-uk-pre-entry-health-screening-beta-reassessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "Read about the beta reassessment of Complete UK pre-entry health screening from UKHSA."
+    },
+    {
+        "title": "Lessons from steering a speedboat: what leading the Manage People on Probation service taught me",
+        "authors": [
+            "Ros-Marie-Mitova"
+        ],
+        "posted_on": "2026-10-14T11:41:00",
+        "categories": [
+            "digital services",
+            "Digital Transformation",
+            "Our services",
+            "Women in Tech"
+        ],
+        "content": [
+            {
+                "content": "As Women in Tech Week is being marked across government and the wider community, I have been reflecting on my own experiences of leading digital transformation in a complex environment. Over the past year, I have had the privilege of serving as Service Owner for Manage People on Probation (MPOP), helping to take a new service from an early pilot to national rollout. As I prepared to move on to my next role, I wanted to share some of the lessons I have learned about leadership, delivery and transformation.",
+                "tag": "p"
+            },
+            {
+                "content": "Manage People on Probation (MPOP) is a new digital service from Probation Digital that provides a single view of people on probation, helping probation staff manage individuals under their supervision, complete tasks, and record case activity more efficiently and effectively. MPOP provides time savings and quality improvements at scale, by making high-volume, everyday tasks simpler and quicker to complete.",
+                "tag": "p"
+            },
+            {
+                "content": "Early in 2025, Probation Digital was gearing up to respond to growing capacity pressure\u00a0 in HMPPS, and MPOP was identified as a major potential time-saver for practitioners. The Ministry of Justice also defined our delivery into two kinds: speedboats, which are faster pilots and proofs of concept, and tankers, which are slower transformations of our core systems. MPOP was described as a speedboat and an exemplar, and was set to go live nationally within 12 months. I joined as Service Owner to mature the delivery model and accelerate the rollout. I relied on a steering group of senior leaders who were deeply bought into the vision, and a multi-disciplinary team that worked and deployed alongside our probation users.",
+                "tag": "p"
+            },
+            {
+                "content": "Today, MPOP is live nationally, adoption has reached nearly 90% of the target cohort, which is made up of probation practitioners with a caseload, and the team has tripled in size. ",
+                "tag": "p"
+            },
+            {
+                "content": "I wanted to share my reflections on what it\u2019s like to steer a speedboat and what makes it different from other products. This is what I learned.",
+                "tag": "p"
+            },
+            {
+                "content": "Building around what practitioners needed most",
+                "tag": "p"
+            },
+            {
+                "content": "MPOP was in Alpha when I joined the team. The team\u2019s hypothesis was that we could help practitioners find the information they need to make effective decisions, reduce re-keying across systems, and join up the journey between them. In a pilot of 20 users, practitioners told us they wouldn't adopt another tool in an already crowded space unless it let them do more. We pivoted by rebuilding the roadmap around the highest-volume tasks practitioners did, and moving to a multi-squad model to deliver features in parallel.",
+                "tag": "p"
+            },
+            {
+                "content": "Lesson 1: Scaling should happen alongside delivery",
+                "tag": "p"
+            },
+            {
+                "content": "We didn't have the luxury of slow and steady governance gates deciding and assuring whether and when we can launch the service. Our challenge was that we were going to be live with all users within 12 months. To de-risk that timescale, I thought that the safest approach was to scale consistently alongside the building work. ",
+                "tag": "p"
+            },
+            {
+                "content": "After the initial pilot with 20 users, we onboarded 200 more practitioners to test our early product decisions at a larger scale. We tested our scalability by growing to 700 users and more challenges started coming up - the product load times increased as more people logged in, and we also started seeing the data quirks from the legacy estate that appeared when more people had their casework exposed through the new interface. ",
+                "tag": "p"
+            },
+            {
+                "content": "Onboarding at least one team from each of the 12 probation regions also meant we can test if the journeys work within the regional variances of practice. A big-bang launch would have shown us all that, but on a national scale with the whole organisation watching, so our decision to roll out steadily proved useful.",
+                "tag": "p"
+            },
+            {
+                "content": "Lesson 2: The most complex feature shouldn\u2019t set the pace",
+                "tag": "p"
+            },
+            {
+                "content": "We knew early on that non-compliant appointments and contacts will be complex features. They required longer discoveries and more iterations. In order to continue speedily releasing value to users at the earliest opportunity we intentionally decided to not include them as our first set of functionality.",
+                "tag": "p"
+            },
+            {
+                "content": "There were plenty of other high-volume, high-value features we could work on \u2013 we know practitioners schedule multiple appointments throughout their day and record a very high volume of contacts that require no further action. We shipped those journeys first and we added some \u201cdelighters\u201d to them to add value, such as automation with practitioners' Outlook calendars, and SMS notifications for people on probation.",
+                "tag": "p"
+            },
+            {
+                "content": "With a speedboat like MPOP it was crucial that different parts of the service moved at a different pace. This helped us ensure that we\u2019re not bottle-necked behind complexity, and that we can ship value with the simpler features upfront.",
+                "tag": "p"
+            },
+            {
+                "content": "Lesson 3: A speedboat can\u2019t do everything",
+                "tag": "p"
+            },
+            {
+                "content": "The benefits of speedboats mean that we can take people to their destination really quickly! But a speedboat was never intended to move the large complex infrastructure that is required for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Behind the scenes, MPOP still reads and writes to NDelius, the legacy system and database that all probation staff use, which also means that our transformation and blue-sky thinking was limited by the current shape of the technology estate. Our scaled live service performance also demonstrated that the organisation needs larger, and more in-depth transformation of the data domains and core processes to support the new ambitious products in Probation Digital.",
+                "tag": "p"
+            },
+            {
+                "content": "Approximately 6 months into scaling MPOP we kicked off additional work to address the foundations and technical architecture of Probation Digital. The Probation Digital Services platform is now responsible for moving the data, creating common capability, reporting and reference, and to unify the journey across services. I intentionally set that programme of work to be bigger and slower, with a 3-year roadmap and multiple dependencies.",
+                "tag": "p"
+            },
+            {
+                "content": "Leading this takes optimism and what comes next",
+                "tag": "p"
+            },
+            {
+                "content": "Transformation requires optimism. If you ever find yourself in charge of a speedboat, those three points above are my advice for you. We face many challenges and constraints - established ways of working and habits that are hard to break, a highly pressurised workforce, and a policy landscape that shifts constantly. My favourite descriptions of the complex work we do in digital government is \"just a cold, dark night on the side of Everest\". Nobody who signs up to climb Everest thinks it will be easy.",
+                "tag": "p"
+            },
+            {
+                "content": "The platform is the next chapter, and the team building it will continue that story. It's a different kind of delivery: bigger and deliberately foundational, and it will require different lessons that I can\u2019t wait to hear about.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2026/10/14/lessons-from-steering-a-speedboat-what-leading-the-manage-people-on-probation-service-taught-me/",
+        "blog": "Justice Digital, Data and Science ",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "As Women in Tech Week is being marked across government and the wider community, I have been reflecting on my own experiences of leading digital transformation in a complex environment. Over the past year, I have had the privilege of \u2026"
+    },
+    {
+        "title": "Working together sustains Hen Harrier numbers in 2026",
+        "authors": [
+            "Matthew Heard"
+        ],
+        "posted_on": "2026-10-14T10:35:17",
+        "categories": [
+            "Evidence",
+            "Hen Harriers",
+            "Monitoring",
+            "Natural England",
+            "Nature",
+            "Science and evidence"
+        ],
+        "content": [
+            {
+                "content": "By Matt Heard, National Delivery Director",
+                "tag": "p"
+            },
+            {
+                "content": "Hen Harriers are one of the UK\u2019s most distinctive birds of prey and, after decades of decline, have gradually returned to northern England as their population has recovered. Natural England and its partners are working to support this recovery through the Joint Action Plan, helping to balance conservation with wider land management priorities. Annual monitoring shows a long-term positive trend, with efforts focused on tracking breeding success across England. This blog gives the latest figures for 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Numbers of nesting Hen Harriers in England increased in 2026, according to data collected by Natural England, RSPB and partners.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Hen Harriers are a charismatic yet elusive bird of prey species, at home on upland moorland landscapes in the UK. Once reduced to just a few isolated pockets, Hen Harriers have spread from Scotland and returned to the north of England as their numbers have gradually recovered over the past few decades.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Conflicting land management priorities have slowed their recovery, but Natural England and partners have been working to secure their future in England through cooperation under the Joint action plan to increase the English hen harrier population, which was published by Defra in 2016.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Securing a future for the Hen Harrier in England is one of the ways in which Natural England is working to deliver our latest strategy: Recovering Nature for Growth, Health and Security, strengthening the resilience of England's ecosystems and the services they provide through the protection and recovery of key ecosystem components, including species like the Hen Harrier.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Monitoring the recovery of hen harriers in England",
+                "tag": "h4"
+            },
+            {
+                "content": "As part of the Joint Action Plan, Natural England and partners including the RSPB and raptor monitoring groups collect data on the number of breeding Hen Harriers each year, and, where possible, the number of chicks that successfully fledge each year. It is unlikely that all the breeding Hen Harriers in England are counted, but great effort is made to work with landowners and managers to ensure as many as possible are added to the records to give the best estimate each year. While the data collected by Natural England and partners does not always show an increase on the preceding year, the overall trend of the species' population has shown much growth on a longer timescale, in both number and distribution. Previous annual reporting on the national population, published by Natural England, can be seen here: 2025, 2024, 2023, 2022.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Breeding figures and regional breakdown",
+                "tag": "h4"
+            },
+            {
+                "content": "In 2026, Natural England, RSPB and partners recorded a total of 45 breeding attempts in England (39 in 2025), of which 33 were successful (33 in 2025), fledging 112 chicks (106 in 2025). This gives an average of 3.4 chicks per successful nest (3.2 in 2025).\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We recorded 1 second breeding attempt in 2026. Therefore, it is estimated that there was a minimum of 44 breeding females in England (39 in 2025).",
+                "tag": "p"
+            },
+            {
+                "content": "Trends in Hen Harrier numbers\u00a0\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "The overall figures show a steady increase in breeding attempts by Hen Harriers over the past 2 years, following a crash in 2024. Anecdotal observations by field staff reported an increase in the availability of prey items (including voles) in 2026, which is likely to have contributed to this increase. However, this was not the case in all areas and a number of factors will also have played an influential role. Annual population fluctuations are to be expected for any species of wild animal, but while the national population remains so small the ability for a population to recover from a decline is significantly reduced. This highlights the need for continued effort to increase the number of Hen Harriers in England and improve their resilience to bounce back from poorer breeding years, which can result from variables such as prey and habitat availability, which may in turn be affected by land management regimes and a changing climate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This year only 9 of the 45 recorded breeding attempts were made on moors managed for grouse in England, with the remainder across other moorland and water catchment locations (including but not limited to nature reserves). The relatively small number of breeding attempts on grouse moors could be due to the reduced monitoring of grouse moors in 2026 in comparison to previous years. Our monitoring team would welcome the opportunity to work with more moorland owners and agree access and monitoring agreements, with the aim of getting a more complete picture of Hen Harrier numbers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working with partners is key\u00a0\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "We are grateful for the efforts of our partners to monitor, protect and manage Hen Harrier nests and breeding habitats. We work closely with RSPB staff who record the nesting attempts on RSPB reserves, and on the United Utilities Estate in Bowland. We are also grateful for the contributions of volunteer Raptor Study Groups and Natural England volunteers to nest monitoring, and to landowners and agencies including Forestry England, National Parks, National Landscapes, the National Trust, NatureScot and Natural Resources Wales.\u00a0 Natural England field staff lead on liaison with privately-owned grouse shooting estates, and we extend our gratitude to those land managers who are encouraging Hen Harriers to nest successfully alongside their wider estate management for grouse and other wildlife.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2026 marks 30 years of consolidated data for Hen Harrier breeding activity in England. Natural England is committed to recovering nature, and the Hen Harrier is one example of how long-term dedication can have real meaningful impact for species and landscapes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are committed to continue to work with all partners and communities to improve the long-term recovery of Hen Harriers.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/10/14/working-together-sustains-hen-harrier-numbers-in-2026/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Matt Heard, National Delivery Director Hen Harriers are one of the UK\u2019s most distinctive birds of prey and, after decades of decline, have gradually returned to northern England as their population has recovered. Natural England and its partners are \u2026"
+    },
+    {
+        "title": "Organic Action Plan for England published today",
+        "authors": [
+            "Catherine Frayne"
+        ],
+        "posted_on": "2026-10-14T10:16:50",
+        "categories": [
+            "Organic Farming",
+            "Supply chain"
+        ],
+        "content": [
+            {
+                "content": "Published today, the Organic Action Plan for England (OAPE)\u00a0sets out how government and the organic sector will work together from 2026 to 2036 and beyond, to grow domestic production, improve market opportunities and help more people understand what organic farming offers.",
+                "tag": "p"
+            },
+            {
+                "content": "Publication of the plan is the next step in the delivery of government\u2019s \u2018Farming Roadmap 2050: Growing England\u2019s Future\u2019. The Farming Roadmap acknowledges the vital role that organic systems play in improving soil health, cutting chemical and synthetic inputs, and supporting biodiversity.",
+                "tag": "p"
+            },
+            {
+                "content": "Organic farming is a whole-farm approach that can help farm businesses reduce their exposure to input costs, such as artificial fertiliser and pesticides, and reach markets where demand is growing.",
+                "tag": "p"
+            },
+            {
+                "content": "It can also support healthier soils, cleaner water, more wildlife and high standards of animal welfare.",
+                "tag": "p"
+            },
+            {
+                "content": "Defra-funded research shows strong links between organic farming and benefits for biodiversity, soil health and reduced chemical exposure. It also shows how organic systems can support climate adaptation.",
+                "tag": "p"
+            },
+            {
+                "content": "Consumer demand for organic products continues to grow. UK organic retail sales reached \u00a33.9 billion in 2025. The plan aims to support English farmers to fulfil a greater share of this growing market, with an ambition to increase the proportion of agricultural land farmed organically from around 3.4% towards 10% by 2036.",
+                "tag": "p"
+            },
+            {
+                "content": "Organic food plays an important role in public procurement. Produce qualifies under the Higher Environmental Production Standards within the Government Buying Standards for Food and Catering Services. Programmes such as Food for Life Served Here show what can already be achieved, with 22 catering providers spending \u00a37.5 million on organic produce in 2024.",
+                "tag": "p"
+            },
+            {
+                "content": "There\u2019s a strong opportunity for English farmers, growers and food businesses to expand domestic production.",
+                "tag": "p"
+            },
+            {
+                "content": "In this post, we look at how government and industry action - aligned with the themes and outcomes in the plan - will help encourage more farmers to convert to an organic farming system.",
+                "tag": "p"
+            },
+            {
+                "content": "Purpose of the plan",
+                "tag": "h2"
+            },
+            {
+                "content": "Defra has collaborated with the English Organic Forum (EOF), a group of organic organisations that work together to represent the sector, to develop a plan that responds to the sector\u2019s needs, with direct input from organic producers and sector leaders across the country. Defra and the EOF will jointly oversee its delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "The plan is primarily focused on England, but some actions will involve partners across the UK. It's a 10-year plan but includes action that will stretch beyond 2036.",
+                "tag": "p"
+            },
+            {
+                "content": "The OAPE recognises that organic farming is not the right choice for every farm but, for some businesses, organic production can offer a stronger route to market and lower exposure to some input costs.",
+                "tag": "p"
+            },
+            {
+                "content": "The plan sets out a clear pathway to grow England's organic sector and create more opportunities across the supply chain.",
+                "tag": "p"
+            },
+            {
+                "content": "For farmers and growers, it aims to provide better access to information, advice, innovation and peer support, making it easier to start or expand organic production.",
+                "tag": "p"
+            },
+            {
+                "content": "For businesses, it seeks to improve understanding of where domestic supply can meet demand, helping producers, processors and buyers identify new market opportunities.",
+                "tag": "p"
+            },
+            {
+                "content": "For consumers and public sector buyers, it aims to increase awareness of organic certification and encourage greater uptake of English organic produce.",
+                "tag": "p"
+            },
+            {
+                "content": "What this means for farmers and growers",
+                "tag": "h2"
+            },
+            {
+                "content": "The plan is designed to sit alongside existing agri-environment schemes (AES). Since 2024, the Sustainable Farming Incentive (SFI) has included options for organic conversion and maintenance. As committed in the first year of the plan, Defra will maintain and clearly explain the organic offer within Environmental Land Management (ELM) schemes for farmers considering organic conversion.",
+                "tag": "p"
+            },
+            {
+                "content": "In order to grow organic production, the OAPE focuses on actions that break down other barriers to farmers converting to an organic farming system. This includes access to information, advice, peer networks, markets and supply chains.",
+                "tag": "p"
+            },
+            {
+                "content": "The English Organic Forum and the wider sector will build on existing services so farmers considering conversion can find information on certification, funding, business planning and routes to market.",
+                "tag": "p"
+            },
+            {
+                "content": "The sector will also work to provide one-to-one guidance and learning between farmers.",
+                "tag": "p"
+            },
+            {
+                "content": "Further work will identify opportunities in horticulture, arable, dairy, red meat and poultry. Opportunities will be underpinned by better data on organic production, trade and purchasing, so farm businesses can make decisions using clearer evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "Case studies",
+                "tag": "h2"
+            },
+            {
+                "content": "We have spoken with two farm businesses about their experiences of working within an organic farming system:",
+                "tag": "p"
+            },
+            {
+                "content": "Riverford Organic Farmers",
+                "tag": "h3"
+            },
+            {
+                "content": "Riverford Organic Farmers began in 1986. Guy Singh-Watson started growing organic vegetables on three acres at Wash Farm in Devon. The company has since grown from the UK\u2019s first organic veg box into a business with over \u00a3100m annual turnover, delivering directly to around 70,000 customers each week.",
+                "tag": "p"
+            },
+            {
+                "content": "They became employee-owned in 2018, with 100% of the business now held in an Employee Trust for the equal benefit of its approximately 1,000 employees.",
+                "tag": "p"
+            },
+            {
+                "content": "Certified organic since 1989, they grow and sell food without artificial pesticides or fertilisers, GM ingredients, routine antibiotics, or artificial preservatives and colours.",
+                "tag": "p"
+            },
+            {
+                "content": "Organic farming supports Riverford\u2019s long-term resilience. Improving soil fertility, biodiversity, carbon and water storage helps the farm cope with increasing floods and drought and maintains productivity levels. It also underpins the business\u2019s commercial identity, giving customers confidence that their food is produced to clear, trusted and independently certified organic standards.",
+                "tag": "p"
+            },
+            {
+                "content": "Riverford\u2019s principal route to market is its organic box scheme, with 70% of box contents grown in the UK and produce delivered directly from farm to customer.",
+                "tag": "p"
+            },
+            {
+                "content": "The business has long-term partnerships with growers across the country, supported through its Supplier Charter, which commits to agreed prices and volumes, accepts cosmetically imperfect produce and promotes collaborative solutions when crops vary.",
+                "tag": "p"
+            },
+            {
+                "content": "Riverford also works with their farmers to assess and improve performance across soil health, water, biodiversity, carbon, animal welfare and social impact.",
+                "tag": "p"
+            },
+            {
+                "content": "Shimpling Park Farm",
+                "tag": "h3"
+            },
+            {
+                "content": "Shimpling Park Farm, owned and run by John, Alice and Rufus Pawsey, is a 700-hectare mixed organic farm near Bury St Edmunds in Suffolk, managed as a whole-farm organic system and certified by the Soil Association.",
+                "tag": "p"
+            },
+            {
+                "content": "The farm grows combinable crops including milling oats, spelt, heritage wheat, quinoa, chia and lentils, alongside herbal and fertility leys. Around 200 New Zealand Romney sheep graze two-year grass-and-clover leys, integrating livestock with the arable rotation.",
+                "tag": "p"
+            },
+            {
+                "content": "The organic mixed-farming system links crops, leys and livestock to build fertility and reduce reliance on external inputs. Grass, clover, legumes and herbal leys support soil health and biodiversity, while sheep turn forage into a saleable product and contribute to the rotation. As part of their system, roughly 90 hectares of leguminous and herbal leys help build soil health, biodiversity and nature.",
+                "tag": "p"
+            },
+            {
+                "content": "On-farm trials also help the business identify practical approaches that can maintain yields while strengthening nature and long-term resilience. The team trials different seed rates, weed and disease controls, bi-cropping, green manures and undersowing to improve crop production while enhancing the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "A diverse crop base, local flour milling, building rentals and other activities provide diversified income streams.",
+                "tag": "p"
+            },
+            {
+                "content": "The Shimpling team have an open and collaborative approach welcoming many people to their farm for wider connection and learning.",
+                "tag": "p"
+            },
+            {
+                "content": "The farm uses Sustainable Farming Incentive (SFI) and Countryside Stewardship scheme funding to focus on landscape restoration, farmland birds and education. It is also participating in a Landscape Recovery pilot through the Suffolk Wool Towns cluster, which aims to connect ancient and secondary woodlands across 20,000 hectares. Earlier Countryside Stewardship funding supported pond restoration, the restoration of two medieval moated sites and medieval wood pasture, hedge replanting, and coppicing of ancient woodland.",
+                "tag": "p"
+            },
+            {
+                "content": "Stay up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "Read the Organic Action Plan for England to see the full actions and timescales.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll continue to work closely with the organic sector as the plan progresses and share further updates on the Farming Blog.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll also post a blog about future funding opportunities for farmers to convert to an organic farming system.",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the blog to receive an email notification whenever we publish a new post.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/10/14/organic-action-plan-for-england-published-today/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "Published today, the Organic Action Plan for England (OAPE) sets out steps to support the growth of the domestic organic sector and help more English farmers and businesses meet growing consumer demand."
+    },
+    {
+        "title": "Direct consumer enforcement: 18 months on",
+        "authors": [
+            "Emma Cochrane"
+        ],
+        "posted_on": "2026-10-14T10:00:30",
+        "categories": [
+            "Consumer protection"
+        ],
+        "content": [
+            {
+                "content": "We are now just over halfway through the second year of the Competition and Markets Authority\u2019s (CMA) direct consumer enforcement regime under the Digital Markets, Competition and Consumers Act 2024 (DMCC Act).",
+                "tag": "p"
+            },
+            {
+                "content": "Over the past 6 months, the CMA\u2019s new consumer enforcement regime has moved firmly into delivery phase. We have secured practical results for consumers while sharpening our focus on the harms and reforms that will shape the year ahead.",
+                "tag": "p"
+            },
+            {
+                "content": "Our work so far this year",
+                "tag": "h2"
+            },
+            {
+                "content": "Since April 2026, we have:",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside our investigations, we have also continued our work to promote compliance, including:",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "In the months ahead, we will continue to focus on practices that can cause significant consumer harm across markets, including continuing to bear down on drip pricing, misleading time limited offers or fake reviews. But our investigations into Adobe, Euro Car Parks, Ryanair and Microsoft show we are also willing to investigate conduct by individual businesses. We will act on intelligence and where there are problems, we expect businesses to put issues right quickly.",
+                "tag": "p"
+            },
+            {
+                "content": "Pricing practices and online choice",
+                "tag": "h2"
+            },
+            {
+                "content": "We will continue to tackle drip pricing, partition pricing and online designs that obscure the true cost of a purchase or distort consumer choice. We have settled 7 of our 8 original online pricing practice investigations launched in November 2025, most recently Gold\u2019s Gym, Wayfair and Buy It Direct, imposing penalties of over \u00a36,000,000 and securing over \u00a3440,000 in consumer redress in these three cases.",
+                "tag": "p"
+            },
+            {
+                "content": "Our newer investigations into Virgin Atlantic, Trainline and Red Driving School show that complete, accurate pricing remains a priority so consumers always know the total price that they will pay. We are also reviewing how online retailers disclose delivery fees and expect to provide an update shortly.",
+                "tag": "p"
+            },
+            {
+                "content": "Using our intelligence capabilities, we are also watching for businesses who might be using misleading discounts.",
+                "tag": "p"
+            },
+            {
+                "content": "Our expectation:",
+                "tag": "h3"
+            },
+            {
+                "content": "Discounts must be genuine and businesses must show the total price clearly and throughout the purchasing journey, without opting customers in by pre-selecting extra services. Online journeys should support informed choices. The rules are clear, and businesses have had ample time to comply.",
+                "tag": "p"
+            },
+            {
+                "content": "Fake and misleading reviews",
+                "tag": "h2"
+            },
+            {
+                "content": "We continue to progress our investigations into Autotrader, Feefo, Dignity, Just Eat and Pasta Evangelists over concerns that consumer law on misleading reviews may have been broken, and we expect to provide a further update in the coming months. We have provided clear guidance about publishing consumer reviews and complying with consumer protection law.",
+                "tag": "p"
+            },
+            {
+                "content": "Our expectation:",
+                "tag": "h3"
+            },
+            {
+                "content": "Businesses that host or use reviews should have effective systems to prevent misleading content and should act promptly when problems are identified. They should also bear in mind that commissioning reviews can take many forms and isn\u2019t limited to paying consumers for them, for example unlawful conduct could include a business requesting members of staff to write reviews about its products or services.",
+                "tag": "p"
+            },
+            {
+                "content": "AI products and services",
+                "tag": "h2"
+            },
+            {
+                "content": "We are actively monitoring how AI products are marketed and used, working with consumer groups and businesses to identify how benefits can be harnessed as well as emerging risks. Our guidance on using AI agents explains how existing consumer law applies to agentic AI.",
+                "tag": "p"
+            },
+            {
+                "content": "In July we also opened an investigation examining concerns about how Microsoft presented information to consumers about changes to Microsoft 365 Personal and Family subscriptions, including the addition of new, AI-related features such as Copilot.",
+                "tag": "p"
+            },
+            {
+                "content": "Our expectation:",
+                "tag": "h3"
+            },
+            {
+                "content": "Providers and businesses deploying AI must be responsible and accountable to consumers. New technology does not change their responsibility to comply with consumer law.",
+                "tag": "p"
+            },
+            {
+                "content": "Subscription contracts",
+                "tag": "h2"
+            },
+            {
+                "content": "A new subscription contracts regime will come into force in January to ensure customers are better informed and make it easier for people to cancel plans they no longer want. Ahead of this, the government will be publishing secondary legislation and further guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "In the early months of the regime, the CMA\u2019s focus will be on supporting businesses to get this right to help drive the best outcomes for consumers. However, businesses should not assume that our support for compliance means enforcement of the rules is being delayed. Conduct during this period may still be considered as part of enforcement action.",
+                "tag": "p"
+            },
+            {
+                "content": "In line with our approach to consumer protection, we will use our powers proportionately by focusing enforcement on more egregious conduct, particularly in areas where businesses should already be clear about their obligations under the existing law. We will consider genuine efforts to comply with the new subscription rules when deciding whether to intervene.",
+                "tag": "p"
+            },
+            {
+                "content": "Our expectation: ",
+                "tag": "h3"
+            },
+            {
+                "content": "Businesses will be working to bring themselves into compliance with the new subscription contracts rules as quickly as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "Summing up",
+                "tag": "h2"
+            },
+            {
+                "content": "Over the last 6 months, we have continued to build on the strong foundations laid in the first year of the direct enforcement regime. The first half of this year has shown that our twin approach of helping businesses comply while showing the real consequences for those who don\u2019t is continuing to deliver real benefits for consumers.",
+                "tag": "p"
+            },
+            {
+                "content": "You may also be interested in:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2026/10/14/direct-consumer-enforcement-18-months-on/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "How we\u2019ve used our new powers to protect consumers in the second year of the regime, and our priorities for the months ahead."
+    },
+    {
+        "title": "Take part in the 2026 Space Sector Skills Survey",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2026-10-14T10:00:00",
+        "categories": [
+            "Space skills"
+        ],
+        "content": [
+            {
+                "content": "The third national Space Sector Skills Survey has launched to give all space sector employers across the UK the chance to tell us about the challenges they are facing with securing the right workforce they need.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Baroness Lloyd, Minister for Space, Cyber and Regulatory Reform said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Complete the survey.",
+                "tag": "p"
+            },
+            {
+                "content": "If we take a moment to think about what is the most important part of a space endeavour, we could think of a lot of elements - securing funding, successfully making technologies that probably don\u2019t exist yet, gaining licenses, generating revenue, or successfully getting off the launch pad and ensuring everything works when we reach the destination.",
+                "tag": "p"
+            },
+            {
+                "content": "But arguably the most important factor is the people making it happen. All of those important steps to success need the right people first - including those who dream up bold innovative ideas, have specialist skills to design and build new technologies, those who possess business development and communication skills, or those with scientific research and analytical skills - and we are only scratching the surface of the breadth of skills and roles needed in the space sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In 2020, we first surveyed the sector in partnership with BMG Research, and the survey set out to quantify and provide a first national picture of challenges and issues being discussed locally.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "96 space companies participated and provided a baseline of insights in the published report. Broadly we learned that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The report provided the evidence base to secure funding and a new and expanded education and skills programme, which delivered, among other things, a high impacting school and social learning engagement programme to showcase space careers, an expansion on the already successful space internship programme that had already placed over 600 students, and the development of several new training programmes for over 5000 delegates.",
+                "tag": "p"
+            },
+            {
+                "content": "To understand how best to target these new interventions, we surveyed the sector again in 2023, in partnership with the Space Skills Alliance. The published report provided an updated and expanded view with 218 organisations participating, including representation from academia (~9%) this time, and enabled us to engage with the space sector to agree the top priority skills areas to target.",
+                "tag": "p"
+            },
+            {
+                "content": "We saw that the main challenges were evolving and, in some areas, increasing:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These findings have most recently supported and evidenced the skills and workforce actions set out in the 2026 UK Space Strategy, as part of an expanded focus on the space ecosystem, which aims to support the environment for UK space companies to grow and succeed.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But the data is now three years old, and the sector continues to evolve rapidly. At the same time, we are developing skills policies for space, and wider government is developing policies for skills more broadly. This new set of space skills surveys will support these developments directly, starting in 2026 and monitoring regularly with follow ups in 2028 and 2030 to provide more agile robust data.",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Craig Brown, UK Space Agency's Deputy Director for Space Ecosystem said:",
+                "tag": "p"
+            },
+            {
+                "content": "What is new in the 2026 Space Skills Survey? ",
+                "tag": "h2"
+            },
+            {
+                "content": "IFF Research are independently undertaking the survey, which has been updated and expanded to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The survey is open to all space employers in the UK, and we need as many UK space organisations as possible to participate to give the best possible picture of workforce issues \u2013 this is your opportunity to tell us about the problems you are experiencing. It should take no more than 15mins to complete.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Complete the survey.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2026/10/14/take-part-in-the-2026-space-sector-skills-survey/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "The third national Space Sector Skills Survey has launched to give all space sector employers across the UK the chance to tell us about the challenges they are facing with securing the right workforce they need."
+    },
+    {
+        "title": "From condition to confidence: caring for flood defences in a changing climate\u00a0",
+        "authors": [
+            "Ian Hodge, Chief Engineer"
+        ],
+        "posted_on": "2026-10-14T10:00:00",
+        "categories": [
+            "Flood"
+        ],
+        "content": [
+            {
+                "content": "Behind England\u2019s flood defences are thousands of engineers, inspectors and specialists working in all weathers, around the clock. As Chief Engineer at the Environment Agency, I am proud to lead that effort. This Flood Action Week, we are asking everyone to check whether they are at risk and to know what to do if flooding happens. It is also a good moment to explain how we look after the tens of thousands of flood defences, structures and systems that help keep communities safer, reduce coastal erosion and manage water.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why we need to keep adapting\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are aware of and listening to the concerns and frustrations of communities. Many flood defences are ageing, and more frequent and severe weather is placing them under greater pressure. It\u2019s important to know that if an asset is below required condition, it does not automatically mean it has failed or stopped protecting people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Nevertheless, we know the condition of the flood defences we manage because we inspect and monitor them regularly and draw on the knowledge of our local teams. We assess the risk, prioritise the work and put extra checks or other measures in place while repairs are planned or completed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have moved more funding into maintenance and targeted repairs and as a result, the proportion of our most important assets meeting the condition we require remained broadly stable at 92\u201393% through to December 2025.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The message is clear: as the climate changes, the way we care for flood defences must change too. Regular inspections and maintenance remain essential. Better information will also help us spot deterioration earlier and direct funding to the places where it can do most to reduce flood risk.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A fuller picture of how our defences are performing\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more than fifteen years, we have used condition checks as the main way of judging how well flood defences, navigation structures and water-management assets are being looked after. Those checks remain important, but they cannot tell us everything. We are therefore developing a broader approach, called Asset Health, to show not only an asset\u2019s condition but also how well it is likely to perform over time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Asset Health will give us a clearer, more complete picture of how each asset is performing and the part it plays in protecting a wider area. It will combine what we learn from inspections and monitoring with evidence about how an asset is ageing, what could cause it to fail, what the effects might be and how reliable our information is. This will help us intervene earlier and invest where action can make the greatest difference to homes, businesses, communities and the environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By 2028, every asset we manage will have a target health rating based on the role it plays and what would happen if it failed. This will help us make better decisions about when to inspect, maintain, repair or replace an asset\u2014and explain those decisions more clearly to the public.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What's already changing\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is already beginning. We have updated our standards and, over the next few years, will make greater use of technology that can check assets from a distance. This will support\u2014not replace\u2014the regular inspections carried out by our teams and help us spot changes sooner.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, laser surveys can measure the shape and height of earth banks, while sensors can send us regular information without waiting for a site visit. These tools will not replace our inspectors, whose expertise and judgement remain essential. They will give inspectors a fuller picture of how assets are changing and provide earlier warning of possible problems.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Innovation with purpose (and proof)\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We use innovation where there is clear evidence that it can solve real problems more safely, quickly or affordably.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Targeted support helped Internal Drainage Boards\u2014local public bodies that manage water levels in low-lying areas\u2014repair and upgrade important equipment after the exceptionally wet winter of 2023\u201324. At Black Sluice in Lincolnshire, funding paid for mobile pumps and the equipment needed to use them. When flooding occurred in January 2025, the team deployed the pumps quickly, helping to reduce the risk to homes, businesses and farmland.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On the Rother Tidal Walls East project, our innovation fund supported the use of a specialist excavator that can work safely on steep or difficult ground. Compared with conventional heavy machinery, this cut project costs by around 40% and potential carbon emissions by approximately 90%. It is a practical example of how tested new approaches can save money, reduce carbon and sustain flood protection.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learning from the world, leading at home\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Agency is one of many organisations that manage flood risk. In England, drainage boards, councils and landowners also look after flood defences, so working together is essential. We share practical lessons with partners in the UK and overseas\u2014for example, how to maintain movable barriers and how different grasses can strengthen earth banks while supporting nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sharing evidence and experience helps us improve faster, test our assumptions and adopt approaches that have already worked elsewhere.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Flood risk is growing as the climate changes, and many of the structures we rely on are ageing. We are clear about that challenge, and we are acting on it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know the condition of the assets we manage and are improving our understanding of how they are ageing. That evidence helps us decide when and where to act. Through sustained maintenance, targeted repairs, better monitoring and close partnership, we will continue to look after these assets so they can keep reducing flood risk for communities into the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There will always be more to do, and no flood defence can remove every risk. Managing flood risk is a shared responsibility. During Flood Action Week, our teams will keep inspecting, maintaining and improving defences. Everyone can help by checking their own flood risk, signing up for warnings where available and knowing what to do if flooding happens.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more about how you can protect your home or business this Flood Action Week, visit Flood Action Online.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/10/14/from-condition-to-confidence-caring-for-flood-defences-in-a-changing-climate/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Behind England\u2019s flood defences are thousands of engineers, inspectors and specialists working in all weathers, around the clock."
+    },
+    {
+        "title": "Using AI to analyse legacy systems faster: what our pilots revealed\u00a0",
+        "authors": [
+            "Joe Ward, Head of Firmer Foundations Strategy & Policy Team | Office of Chief Technology Officer, Digital Transformation Directorate, GDS"
+        ],
+        "posted_on": "2026-10-14T09:30:00",
+        "categories": [
+            "AI",
+            "Artificial Intelligence (AI)\u00a0",
+            "Legacy Technology",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "AI can help organisations analyse legacy systems faster\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the biggest barriers to modernising legacy technology is understanding how existing systems work.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To modernise systems, organisations first need a clear picture of how applications work, connect and depend on one another. That process can take weeks or even months. Documentation is often incomplete or out of date, knowledge may be concentrated in a small number of specialists, and some systems rely on technologies that few engineers still work with regularly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our pilots indicate that AI-assisted approaches could help technical teams analyse some legacy systems more quickly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across participating organisations, activities estimated to take weeks using traditional approaches were completed in hours.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working with organisations including the Student Loans Company (SLC), the UK Hydrographic Office (UKHO), the Met Office, and our delivery partner Kainos, we found that AI can help teams analyse unfamiliar systems, identify dependencies and build technical knowledge more quickly than traditional approaches alone. The pilots covered different systems and technical environments, so the results should not be treated as directly applicable to every legacy estate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, for organisations managing large and complex technology estates, this could make some modernisation activities easier to prioritise, plan and deliver.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What happened at the Student Loans Company\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "At the Student Loans Company, teams explored how AI assisted approaches could be used to analyse an estate of 33 applications written in Clojure and support future modernisation planning.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Using traditional approaches, the work was estimated to take around five weeks. During the pilot, teams completed the analysis in less than a day.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The analysis gave the team a clearer view of the 33 applications and their dependencies, which it used to inform migration planning and work towards supported versions of Java.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The most significant finding was not the reduction in effort itself, but the ability to unlock work that had previously been difficult to prioritise.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What happened at the UK Hydrographic Office\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "At the UK Hydrographic Office, teams focused on a 20-year old desktop application that previously had no automated tests.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "AI assisted techniques were used to generate automated tests for the application. Test coverage increased from 0% to 96%, while regression testing that had previously required around 15 days of manual effort was reduced to approximately 30 minutes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The benefits extended beyond faster testing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Teams reported greater confidence in making changes to the application safely and maintaining it over time. For many legacy systems, the perceived risk of change can be a barrier to improvement. The pilot indicated that AI-assisted testing could give engineers more evidence when assessing proposed changes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The examples from SLC and UKHO illustrate a wider challenge facing organisations across the public sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Legacy systems often support critical services, but analysing them can be complex and expensive. Teams may spend weeks mapping dependencies, reviewing code and building technical knowledge before they can assess risks or plan change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The strongest finding from the pilots was that AI can help accelerate this discovery and assessment phase. That may sound modest, but it addresses a critical point where many modernisation efforts slow down or stall.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By helping teams understand systems more quickly, AI assisted approaches can make it easier to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In short, AI can help organisations spend less time understanding their systems and more time improving them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "AI is not a substitute for good delivery\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The pilots also reinforced an important lesson.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "AI does not remove the need for good governance, engineering expertise or delivery capability.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Successful outcomes depended on organisations having the right foundations in place, including clear ownership, access to systems and information, experienced technical teams and established delivery processes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In practice, the pilots showed that AI amplified existing strengths and weaknesses rather than replacing them.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Used well, AI can accelerate analysis, improve visibility of complex systems and help organisations make progress more quickly. Used without appropriate controls, it can amplify existing problems and accelerate poor decision making.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where AI-assisted analysis may help\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The pilots suggest that AI can significantly reduce the effort required to assess complex systems, helping organisations move more quickly from discovery to modernisation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For organisations managing large and complex technology estates, this can help engineers, architects and delivery teams to identify risks earlier, making modernisation activities easier to plan, justify and deliver.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We are continuing to work with organisations using AI assisted approaches to analyse, assess and modernise legacy systems, building on the lessons from these pilots.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this work, we are developing a playbook of good practice that captures practical approaches, lessons learned and implementation considerations for organisations looking to apply AI to legacy technology challenges. The playbook is currently undergoing user testing, review and approval ahead of publication.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "If your organisation is exploring AI assisted approaches to analysing, documenting or modernising legacy systems, or would like to share experiences and engage with our wider Firmer Foundations programme, we would like to hear from you. Get in touch at firmer.foundations@dsit.gov.uk\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2026/10/14/using-ai-to-analyse-legacy-systems-faster-what-our-pilots-revealed/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "Activities estimated to take weeks were completed in hours. Automated test coverage increased from 0% to 96%, meaning almost all code in a legacy application could be checked automatically before making changes. These findings from our pilots show how AI assisted approaches can help organisations analyse legacy systems faster and modernise them with greater confidence."
+    },
+    {
         "title": "UK NSC seminar on HPV vaccination and the future of cervical screening",
         "authors": [
             "TJ Day"
