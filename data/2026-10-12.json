@@ -1,5 +1,1358 @@
 [
     {
+        "title": "Publishing the third year of digital verification inclusion data",
+        "authors": [
+            "Anjali Gurumoorthy"
+        ],
+        "posted_on": "2026-10-15T17:05:35",
+        "categories": [
+            "Inclusion",
+            "OfDIA team"
+        ],
+        "content": [
+            {
+                "content": "This week we published our third annual report on inclusion in the certified digital verification services (DVS) market. The report helps to monitor inclusion and accessibility in the certified digital identity market over time. This year's report shows continued progress on accessibility, alongside some barriers that still need to be addressed. You can read the full report on GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Digital verification services can help people access services by proving their identity or other information about themselves online. These services must be accessible and inclusive to ensure that all people can benefit from them. The Office for Digital Identities and Attributes monitors inclusion across the certified DVS market to understand where providers are making progress, where barriers remain, and where government action may be needed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How we monitor inclusion\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Services certified against the UK digital verification services trust framework must complete an annual inclusion monitoring survey. This year, 44 organisations across the certified digital verification services market completed the survey.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The survey covers areas including documentation and evidence, accessibility, biometric verification, data collection, and user support. Responses are anonymous and individual organisations are not assessed. Instead, we combine the responses to build an overall picture of inclusion and accessibility across certified digital verification services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Previous years' reports can be found below:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Key findings\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The findings show continued progress in several areas:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cost and limited alternatives remain barriers\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "While the overall picture is positive, organisations continue to report barriers to improving inclusion.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cost remains the most reported barrier, with a majority (61%) identifying the cost of implementing inclusive features as a key challenge, up from 50% in 2025. A significant minority (34%) also identified limited access to government-held data as a barrier, down from 48% in 2025.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alternatives to biometric verification also remain limited. Of the 44 organisations surveyed, 39 reported using biometric technology as part of their service. Around half of those organisations offer another route for people who cannot or do not wish to provide biometric information.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Vouching remains uncommon. Vouching is a process where a person formally confirms someone else\u2019s identity. It can help people who do not have traditional identity documents access digital verification services. Three organisations reported offering vouching, but none currently have a vouching route within the scope of their certification. Organisations identified fraud concerns and reluctance among relying parties (organisations accepting identity checks) as the main barriers to wider use. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What have we learned from three years of monitoring?",
+                "tag": "h2"
+            },
+            {
+                "content": "This is now the third year of inclusion monitoring, allowing us to build a clearer picture of trends across the certified DVS market. The findings show where progress is being made and where further work is needed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The findings also show that inclusion cannot be understood through a single measure. Accessibility features and standards are important. So are alternative ways to complete an identity check, information about where users encounter difficulties, and evidence about whether services work for diverse groups. We will use these findings to inform our future policy work and ensure that anyone who chooses to use a digital identity can do so.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Read the 2026 inclusion monitoring report on GOV.UK.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/10/15/publishing-the-third-year-of-digital-verification-inclusion-data/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "This week we published our third annual report on inclusion in the certified digital verification services (DVS) market. The report helps to monitor inclusion and accessibility in the certified digital identity market over time. This year's report shows continued progress \u2026"
+    },
+    {
+        "title": "From messy data to meaningful connections: Introducing Splink 5",
+        "authors": [
+            "Robin Linacre"
+        ],
+        "posted_on": "2026-10-15T15:07:02",
+        "categories": [
+            "Data",
+            "Our services",
+            "Splink"
+        ],
+        "content": [
+            {
+                "content": "We are excited to introduce Splink 5, the latest version of the Ministry of Justice's open-source software for linking records across datasets.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Developed to tackle some of government's most complex data-linking challenges, Splink has grown into a tool used across the UK public sector and around the world.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across large organisations, information about the same person can be spread across multiple systems, duplicated, incomplete or inconsistent. Connecting those records accurately is essential for delivering better services, better research and better decision-making.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That's where Splink comes in.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Splink helps organisations identify records that belong to the same person or entity, even when the underlying data is messy or inconsistent. For example, someone's name may be spelled differently across two systems, they may have changed address, or one record may contain a typo.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While this might sound like a niche challenge, it is something almost every large organisation encounters. Accurately linking records improves data quality, reduces duplication and helps organisations make better use of their data.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That's one reason Splink has seen substantial adoption across the public sector, with more than 22 million downloads and use across at least 10 central government departments and agencies.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What Splink 5 brings to the table\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Splink 5 is our biggest step forward yet, making it easier to link data at a scale that was previously difficult or impossible for many organisations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new release can handle substantially larger datasets and is now one of the fastest linkage engines in the world. In our testing, Splink linked a billion records in less than 10 minutes, helping organisations turn vast amounts of data into meaningful insights more quickly than ever\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Detailed release notes for Splink users can be found here\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Impact across the justice system\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Within the Ministry of Justice, Splink plays a vital role in bringing together information from courts, prisons and probation services. By connecting data that would otherwise remain fragmented across multiple systems, it helps create a more complete understanding of people's interactions with the justice system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The technology powers JustLink and supports the Data First research programme, enabling richer analysis of court outcomes, offending patterns and journeys through the justice system. It also sits at the heart of Core Person Record and is beginning to give frontline prison and probation officers more timely and accurate linked data.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A home-grown tool with a global footprint\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Built to solve justice-system challenges, Splink is now delivering impact far beyond the Ministry of Justice and is used widely\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recent use cases include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Australian Bureau of Statistics won a public sector award for their work using Splink to build the 2025 National Linkage Spine\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Try it out\u00a0for yourself",
+                "tag": "h3"
+            },
+            {
+                "content": "Splink 5 is entirely free, open source, and available to anyone right now.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What started as a solution to some of the Ministry of Justice's most complex data-linking challenges is now helping organisations across government, academia and beyond connect data with greater accuracy and confidence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From supporting justice services to enabling research around the world, Splink is helping organisations turn messy data into meaningful connections.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2026/10/15/from-messy-data-to-meaningful-connections-introducing-splink-5/",
+        "blog": "Justice Digital, Data and Science ",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "We are excited to introduce Splink 5, the latest version of the Ministry of Justice's open-source software for linking records across datasets.\u00a0\u00a0 Developed to tackle some of government's most complex data-linking challenges, Splink has grown into a tool used across \u2026"
+    },
+    {
+        "title": "Two nations, one rising tide: how the Environment Agency and the Netherlands work together to keep communities safe\u00a0",
+        "authors": [
+            "Caroline Douglass, Exec Director of Flood and Coastal Risk Management"
+        ],
+        "posted_on": "2026-10-15T15:00:00",
+        "categories": [
+            "Flood"
+        ],
+        "content": [
+            {
+                "content": "Water doesn't respect borders. Neither does the expertise needed to manage it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This month, we welcomed colleagues from Rijkswaterstaat, the Dutch Ministry of Infrastructure and Water Management's executive agency to England, bringing together two organisations that manage some of the world's most significant flood and water challenges.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It's a timely moment for this kind of exchange. As we mark Flood Action Week, we're asking people across England to think about their own flood risk and what they can do to prepare.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Meeting with our Dutch counterparts is a reminder that the same thinking applies at a much larger scale: none of us can manage the pressures of a changing climate alone, and we all stand to benefit from sharing what we've learned.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Discussions focused on common challenges including ageing infrastructure, asset management, workforce capability and long-term resilience. Most importantly, they reinforced a shared commitment to continued collaboration and practical action that benefits the communities we serve.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why this matters now\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Climate change is not waiting for anyone. Rainfall is becoming more intense, sea levels are rising, and coastal communities across the world are adapting to a future that looks different from the past. No single organisation has all the answers. But by pooling our knowledge with organisations globally, we get closer to the solutions communities need.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are all adapting to more extreme weather, managing ageing infrastructure and working to build resilience for future generations. By learning from one another and sharing expertise openly, we can move further and faster than we could alone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Built on people, not paperwork\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These aren\u2019t partnerships that live in a filing cabinet. They are sustained through regular engagement between senior leaders, technical specialists swapping notes on real projects, and joint learning activities that put people from both organisations in the same room, tackling the same problems.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That matters because flood risk management isn't theoretical. It's about whether a family's home stays dry. Whether a business can keep trading after a storm. Whether a coastal town has time to prepare before the water arrives.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The relationships we build with organisations like Rijkswaterstaat translate directly into better decisions here in England on crucial topics from maintaining critical assets and developing future skills to strengthening our long-term planning for climate resilience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we've learned, and what's next\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We don't claim to have solved flood risk. No one has. But we can say, with confidence, that we are better equipped to face it because of our partnerships.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The recent visit from Rijkswaterstaat reaffirmed that there is enormous value in these relationships. While our organisations may operate in different countries the challenges facing England and the Netherlands are remarkably similar.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Furthermore, we are united by a common purpose: protecting people, places and livelihoods from the impacts of flooding and coastal change. That shared purpose will continue to guide our work together in the years ahead because the challenges of flooding and coastal change don't stop at a coastline or a border.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Protecting people from flooding is core to what we do. Partnerships like this one help us do it better, but we also need your help.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about how you can protect your home or business this Flood Action Week by visiting www.gov.uk/flood-action.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/10/15/two-nations-one-rising-tide-how-the-environment-agency-and-the-netherlands-work-together-to-keep-communities-safe/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "None of us can manage the pressures of a changing climate alone, and we all stand to benefit from sharing what we've learned.\u00a0"
+    },
+    {
+        "title": "Join our  FluSurvey\u202f programme and contribute to protecting the nation\u2019s health this winter\u00a0 \u00a0",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-10-15T14:00:00",
+        "categories": [
+            "flu",
+            "Winter"
+        ],
+        "content": [
+            {
+                "content": "Our scientists are tracking influenza (flu) and other respiratory viruses and they need your help. Join our FluSurvey UK-wide citizen science programme and contribute directly to protecting the nation\u2019s health this winter.",
+                "tag": "p"
+            },
+            {
+                "content": "When you register for FluSurvey, you'll be invited to report any respiratory symptoms on our website on a weekly basis. It\u2019s quick and easy to submit the information, and you\u2019ll be playing a part in protecting the health of all of us across the country. You\u2019ll also be able to track your symptoms on your profile each week. We\u2019d also encourage you to share the link with your friends and family - the more of us who participate, the better the data will be.",
+                "tag": "p"
+            },
+            {
+                "content": "At points during this winter season, some eligible adults with respiratory symptoms who live in England may also be invited to take part in PCR testing as part of our preparedness and surveillance activities.",
+                "tag": "p"
+            },
+            {
+                "content": "We are ramping up our\u00a0comprehensive surveillance systems\u00a0to monitor flu and other seasonal respiratory viruses over the winter season, and FluSurvey is one of the key methods we use to understand how these viruses are spreading in our communities. This is valuable information for us because not everyone who feels unwell will call 111, visit their GP, or go to hospital, so their symptoms may not be captured. Community-based systems like FluSurvey include data from those who manage their symptoms at home, giving us an early understanding of respiratory illness activity across the whole population. FluSurvey metrics are also presented on our award-winning UKHSA data dashboard, which shares public health data in a simple, inclusive and accessible way.",
+                "tag": "p"
+            },
+            {
+                "content": "When added to our existing sources of information, the value of real-time data on respiratory illnesses, provided directly by people across the country, is immense. It's like having thousands of health detectives scattered across the country, all working together to build a comprehensive picture of flu-like illnesses. By taking part in FluSurvey, you would be contributing a vital piece to a larger puzzle.",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re interested in taking part,\u00a0sign up for FluSurvey today.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/10/15/join-our-flusurvey-programme-and-contribute-to-protecting-the-nations-health-this-winter/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Our scientists are tracking influenza (flu) and other respiratory viruses and they need your help. Join our FluSurvey UK-wide citizen science programme and contribute directly to protecting the nation\u2019s health this winter."
+    },
+    {
+        "title": "Progressing SFI26 applications from Windows 1 and 2",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-10-15T13:45:42",
+        "categories": [
+            "Sustainable Farming Incentive"
+        ],
+        "content": [
+            {
+                "content": "In this blog, we give an update on the nearly 19,000 applications received during Windows 1 and 2 of the SFI26 offer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It also confirms arrangements for Window 2 exception groups.",
+                "tag": "p"
+            },
+            {
+                "content": "Progress on agreement offers",
+                "tag": "h2"
+            },
+            {
+                "content": "The Rural Payments Agency (RPA) continues to process applications as quickly and efficiently as possible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We received around 6,700 applications in Window 1. Of these, we\u2019ve issued roughly 6,600 agreement offers, of which 95% have now started.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Of the approximately 12,200 applications received in Window 2, the RPA has issued around 2,500 agreement offers so far. Roughly 36% of these agreement offers are now live.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applications are usually processed in the order in which they were submitted. Some applications require additional checks and can therefore take longer to process. However, processing is progressing well overall.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "SFI26 Window 2 \u2018exception groups\u2019",
+                "tag": "h2"
+            },
+            {
+                "content": "Previously, we said we would allow two small \u2018exception groups\u2019, who contacted the RPA before Window 2 closed, to continue with their applications, as follows:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Given the short Window 2 application period, Ministers have decided to extend the \u2018technical issue\u2019 exception group to include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Farmers who reported issues after 11:59pm on 29 September will not qualify for the extended technical issue exception group.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is a targeted response to the specific set of circumstances for Window 2. It does not set a precedent for how we will approach exception groups in future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The RPA is continuing to work through queries received from farmers and agents as quickly as possible. This includes assessing reports of technical issues. This may take a few more weeks to complete.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some farmers and agents have reported that a technical issue prevented them from applying for SFI actions on 22 September which they expected to be available. However, in many of these cases, the system correctly prevented them from applying for combinations of ineligible actions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where, following assessment, the RPA finds that this is the case, these SFI26 applications will not be considered as a technical issue exception. This will similarly be the case for queries without sufficient supporting evidence for the RPA to confirm that there was a valid technical issue.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Following assessment, the RPA will write to farmers and agents to confirm whether they are considered to be in an exception group or not.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are continuing our close work with farmers and stakeholders to look at how we can improve SFI for next year. As part of this, we are exploring alternatives to a first come, first served application process for SFI in 2027.",
+                "tag": "p"
+            },
+            {
+                "content": "Funding available through Higher Tier",
+                "tag": "h2"
+            },
+            {
+                "content": "Farmers can still apply for Countryside Stewardship Higher Tier (CSHT) funding via the Expression of Interest (EOI) process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can submit EOIs for woodland improvement and agroforestry, as well as new single-focus agreements for management of species rich grassland and scheduled monument management.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/10/15/progressing-sfi26-applications-from-windows-1-and-2/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "This blog gives an update on the nearly 19,000 applications received during Windows 1 and 2 of the SFI26 offer. It also confirms arrangements for Window 2 exception groups."
+    },
+    {
+        "title": "How Derbyshire County Council successfully transitioned 250 schools to the DfE's Risk Protection Arrangement (RPA)\u00a0",
+        "authors": [
+            "Hazel Coates, Insurance Manager, Derbyshire County Council"
+        ],
+        "posted_on": "2026-10-15T13:05:51",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Hazel Coates from Corporate Services and Transformation at Derbyshire County Council, shares how her local authority realised greater benefits for schools and saved over \u00a3600,000 by switching to RPA.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reasons for change\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "For years, Derbyshire County Council provided insurance cover for around 450 schools through a pooled approach. This system worked well  by combining all schools together, the Council could negotiate better rates and give every school comprehensive protection, even if some didn't need all the cover included.",
+                "tag": "p"
+            },
+            {
+                "content": "However, as more schools became academies over the years, the pool shrank from 450 schools to around 250.",
+                "tag": "p"
+            },
+            {
+                "content": "With fewer schools contributing to the insurance fund, competition from the DfEs Risk Protection Arrangement (RPA) \u2013 the departments alternative to commercial insurance, and the rising cost and complexity of cyber cover meant the Council could no longer offer the same value.",
+                "tag": "p"
+            },
+            {
+                "content": "When Derbyshire County Council compared their existing school insurance with the RPA, it wasn't just comparable,  it was actually better in key areas, especially for cyber protection and at a significantly lower cost per pupil.",
+                "tag": "p"
+            },
+            {
+                "content": "This led to a clear decision: all remaining council-maintained schools in Derbyshire would transition to the RPA.",
+                "tag": "p"
+            },
+            {
+                "content": "Keys to success\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Schools particularly valued how both the council and DfE handled the administrative burden. Rather than each school navigating complex insurance changes individually, they managed the work together , including bulk enrolment, registering all schools in one go.",
+                "tag": "p"
+            },
+            {
+                "content": "The result has been overwhelmingly positive feedback from schools about what proved to be a largely seamless transition. Schools could focus on educating children while benefiting from insurance that's both comprehensive and cost-effective.",
+                "tag": "p"
+            },
+            {
+                "content": "Benefits for our schools\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Transition to the RPA offers several significant advantages for Derbyshire schools:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wider benefits\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The move to the RPA has allowed the Council to redirect resources previously used to subsidise school insurance towards delivering its other major statutory responsibilities for adult and children\u2019s social care, highways and public health.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Transferring schools to the RPA has enabled the Council to substantially reduce the cost of its insurance premiums and to halve its insurance excess for property.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Importantly, Derbyshire County Council maintains its responsibility towards education and continues to work with schools on various aspects of risk management. For example, during severe weather events or flooding, the Council will still work collaboratively with schools, the Environment Agency, and other stakeholders to provide support, regardless of whether they're RPA members.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Its role has simply shifted from being the insurance provider to being a partner in risk mitigation and support.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In summary, the transition to the RPA has been a positive experience for both Derbyshire schools and the Council, made significantly easier by the excellent support provided by the DfE.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The move reflects the Council\u2019s commitment to finding the best value and most appropriate solutions for our schools, even when that means stepping back from services it traditionally provided.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Act now\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "This was purely a \u2018business decision\u2019. The Council always prides itself on the service it gives to schools, and which is highly valued by them. It\u2019s about ensuring our schools have access to the most cost-effective and suitable arrangements in an ever-changing educational landscape.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If your local authority hasn't yet explored the RPA, start conversations now. The potential savings and improved coverage could significantly benefit your school's budget and protection.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The RPA represents a sustainable, cost-effective approach to school insurance that benefits both schools and local authorities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Any savings, benefits and outcomes described in this blog were provided by Derbyshire County Council and reflect its specific experience and circumstances. Individual results will vary between schools and trusts.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2026/10/15/how-derbyshire-county-council-successfully-transitioned-250-schools-to-the-dfes-risk-protection-arrangement-rpa/",
+        "blog": "Maximising Value for Pupils (Max VP)",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "Hazel Coates from Corporate Services and Transformation at Derbyshire County Council, shares how her local authority realised greater benefits for schools and saved over \u00a3600,000 by switching to RPA.\u00a0\u00a0 Reasons for change\u00a0 For years, Derbyshire County Council provided insurance cover \u2026"
+    },
+    {
+        "title": "NHSE Home Test\u00a0Alpha Assessment",
+        "authors": [
+            "Man-Yee Lam"
+        ],
+        "posted_on": "2026-10-15T11:52:32",
+        "categories": [
+            "Alpha",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From:\u00a0DHSCAssessment date:\u00a030/04/2026Stage:\u00a0Alpha assessmentResult:\u00a0GreenService provider:\u00a0NHSE",
+                "tag": "p"
+            },
+            {
+                "content": "Service description\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This service aims to solve the problem of enabling people to order clinically approved home testing kits through a national digital platform, integrated with the NHS App. The service supports discreet, accessible testing outside of traditional clinical settings, starting with HIV self\u2011testing and designed to scale to additional test types in future. Users can order a test, receive clear guidance on how to complete it, return samples where required, and receive results with appropriate follow\u2011up information and signposting to care. The service is designed to improve access, equity and public health outcomes while supporting local authorities and\u00a0suppliers through a consistent national platform.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Initial HIV use case\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Scalable multi-test platform\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for\u00a0point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that the team actively sought out inexperienced testers and marginalised users through community pop-up research sessions rather than relying solely on standard recruitment. We liked that the team used this research to create visual step-by-step guides that support people with reading difficulties and those for whom English is a second language.",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 2 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that the team took a mature, systemic view to solve a whole problem by clearly mapping the boundaries between the NHS App, third-party test suppliers, and local clinical pathways. We liked that the team applied rigorous data minimisation by stripping identifiable information from the results API payload to reduce data leakage risks across systems.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 3 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that the team simulated parallel offline touchpoints, such as physical testing kits and promotional posters, alongside the digital prototypes during research sessions. We liked that the team established a clear operational split for user support, where NHS England handles pre-order queries and test suppliers handle post-order queries.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that the team streamlined the ordering flow to reduce cognitive load. The panel liked that the team removed confusing intermediate pages and reframed address collection around eligibility to make the process quick and straightforward. The panel was impressed that the team made a strategic decision in making best use of their resources to follow the \u201cfail fast and fix it\u201d principle during alpha.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u00a0\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that the team embedded an accessibility auditor in the team and reviewed production code at an accessibility lab to identify structural improvements. We liked that the team used plain language and avoided medical jargon to ensure the service is inclusive for people with low health literacy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 6 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 7 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve frequently\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that the team uses highly iterative, user-centred design cycles to quickly evolve the service. The panel liked that the team not only tested their designs, but actively retested new iterations with the exact same user groups to confidently validate that their changes worked. A great example of this was when they identified that users with reading difficulties were overwhelmed by the start page, and then successfully proved their redesigned, simplified page resolved the issue.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 9 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 10 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 12 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common components and patterns\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 13 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel liked that the team built the service using established, accessible patterns from the NHS App and GOV.UK design systems to reduce cognitive load and provide a familiar experience. The panel was impressed that the team rigorously tracked pattern reuse in their page evolution history, successfully borrowing proven elements from parallel services like Digital Health Checks and the Hepatitis C home testing journey.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "14. Operate a reliable service\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that the technical architecture uses intelligent decoupling (such as Amazon SQS queues) to prevent orders from being lost if a third-party supplier goes offline. We liked that the team has proactively mapped out unhappy paths - such as unreturned kits, insufficient blood samples, and API drops - and acknowledged the need to tackle these carefully.",
+                "tag": "p"
+            },
+            {
+                "content": "Next Steps\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Green - alpha",
+                "tag": "h3"
+            },
+            {
+                "content": "This service can now move into a private beta phase, subject to getting approval from the CDDO spend control team. The service must meet the standard at beta assessment before launching public beta.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2026/10/15/nhse-home-test-alpha-assessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "Find out about Home Test alpha assessment by NHS England."
+    },
+    {
+        "title": "What is severe drought?",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-10-15T11:36:29",
+        "categories": [
+            "Drought",
+            "Water"
+        ],
+        "content": [
+            {
+                "content": "Drought is tightening its grip on England\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On 15 October 2026, Severe drought status was declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex after the driest April to September in over a century depleted local reservoir levels - with further dry weather expected for the rest of October.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This summer was exceptionally hot and dry, with record temperatures and prolonged periods of low rainfall. These conditions have continued into autumn, placing significant pressure on water across the country. The usual seasonal rainfall has yet to arrive, and 82% of England remains in drought.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a result, several reservoirs are at exceptionally low levels for this time of year. To recover in some areas, we need 120% of typical rainfall over the next six months. Without it, drought conditions will continue and could worsen. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Without sufficient autumn rainfall and continued intervention measures, there is an increasing risk to water supplies. Given the seriousness of the situation and the potential impact on essential water resources, severe drought status has now been declared in parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is severe drought?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Severe drought is the highest level of drought that can be declared. It\u2019s declared when our evidence shows drought is causing, or will soon cause, serious harm, and that emergency action is needed to protect people, water supplies, the environment, farming, infrastructure or other critical services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does a severe drought declaration mean?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Exceptional action is now needed to conserve water and protect public supplies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Severe drought doesn't automatically trigger restrictions, and it isn't a civil emergency. But it is serious. It means government and other organisations step up their response together, acting where it matters most to reduce harm and support recovery. It gives everyone involved a shared, evidence-based understanding of how serious things are, so we can coordinate more effectively\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does severe drought mean for the public?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Severe drought doesn't automatically mean new restrictions. But in areas affected, your water company may introduce further water-saving measures to protect supply. This could include taking more water from the environment, limiting some business use, supply interruptions, or reducing mains pressure. Your water company will contact you directly if this affects you.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can help protect water supplies too. Small changes at home and at work make a real difference: taking shorter showers, fixing leaks, using water carefully in the garden, using the eco-setting on dishwashers and washing machines, avoiding pre-rinsing dishes before loading the dishwasher, fitting a low-flow shower head, using a Cistern Displacement Device, filling washing machines to their recommended load, installing a water butt, and turning off taps when brushing teeth. These aren't token gestures. They cut the amount of water we need to take from rivers and groundwater, protecting supplies for people and leaving more for wildlife, wetlands and the natural systems we all depend on.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The choices we make about water, in drought and beyond, help protect England's rivers, wetlands and wildlife for the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more on how to save water.",
+                "tag": "p"
+            },
+            {
+                "content": "Why have only certain areas declared severe drought? \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We've declared severe drought where public water supply is most at risk:\u00a0 around Ardingly in West Sussex and Wimbleball in Somerset. The severe drought declaration covers the homes and businesses served by these two reservoirs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Check with your water company to find out if you're affected.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is the Environment Agency doing to protect water supplies?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are working closely with Defra and the affected water companies to protect water supplies during these exceptional circumstances. This includes an enhanced incident response, increased monitoring and reporting, supportive communications and continuing to regulate companies.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We're increasing our scrutiny of water companies to make sure they stick to their statutory drought plans. That means more monitoring, more checks, and faster processing of permit applications, so we can protect public water supplies while safeguarding the environment and local wildlife.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Given the exceptional circumstances, in close discussion with the Government, the Environment Agency is using its regulatory discretion to give priority to protecting public water supply in specified severe drought areas when exercising its relevant functions.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How does the Environment Agency support severe drought declaration?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Science underpins everything we do to manage water resources and prepare for climate change. It tells us what's happening now, flags emerging risks, and shapes how we plan ahead. Most importantly, it turns evidence into action.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our scientists and hydrologists monitor rainfall, river flows, groundwater levels and reservoir storage across England every day. This evidence shows us how drought is developing and what it means for people, water supplies and the environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We work with water companies, government, farmers and environmental groups to agree practical steps: closer monitoring of vulnerable rivers and habitats, promoting water efficiency, and managing water resources carefully through dry periods.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We share this evidence with partners through the National Drought Group and regional drought groups, so we can respond to changing conditions in real time. It shapes decisions on drought status and wider government action, and helps us identify where wildlife and habitats are under the greatest pressure.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Science is not something that happens alongside decision-making; it absolutely underpins how we regulate, the advice we provide and the actions we take.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Until enough rain brings recovery, we will not hesitate to take the action needed to protect water supplies.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We continue to monitor conditions closely, working with partners and the government to reduce the impact of severe drought to communities and the environment.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/10/15/what-is-severe-drought/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "On 15 October 2026, Severe drought status was declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex after the driest April to September in over a century depleted local reservoir levels - with further dry weather expected for the rest of October.\u00a0\u00a0"
+    },
+    {
+        "title": "Ebola: what are the symptoms and how does it spread?",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-10-15T09:54:50",
+        "categories": [
+            "Global health"
+        ],
+        "content": [
+            {
+                "content": "Ebola has been in the news since the World Health Organization's declaration of a public health emergency of international concern on 17 May 2026, for an outbreak affecting the Democratic Republic of the Congo (DRC) and Uganda. This blog post outlines what the disease is, how it spreads, and what it means for the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "What is Ebola?",
+                "tag": "h2"
+            },
+            {
+                "content": "Ebola disease is caused by a group of viruses known as orthoebolaviruses. It affects both humans and animals, and was first identified in 1976 during near-simultaneous outbreaks in Zaire, now the DRC, and Sudan, now South Sudan.",
+                "tag": "p"
+            },
+            {
+                "content": "Between 1979 and 1994, no human cases were reported. Since then, outbreaks have occurred with increasing frequency, including a large West Africa outbreak between 2014 and 2016, which caused over 28,000 reported cases and saw intense transmission in urban areas for the first time. Several countries, including the UK, reported imported cases linked to that outbreak.",
+                "tag": "p"
+            },
+            {
+                "content": "Four species of the virus are known to cause disease in humans, alongside a fifth found only in animals so far, and a sixth discovered specifically in bats in 2018, whose potential to infect humans is still unknown.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the risk for the UK?",
+                "tag": "h2"
+            },
+            {
+                "content": "The current outbreak poses a low risk to the UK population. Imported cases are extremely rare, and only 4 confirmed cases have been reported in the UK since 1976, and there have been no UK deaths from the disease. The NHS has established procedures and specialist centres for managing any suspected cases.",
+                "tag": "p"
+            },
+            {
+                "content": "How do you catch Ebola?",
+                "tag": "h2"
+            },
+            {
+                "content": "Ebola spreads through close contact. Person-to-person transmission happens through contact with the body fluids of someone who is infected, sick or has died from the disease, or through contact with contaminated objects such as needles or soiled clothing.",
+                "tag": "p"
+            },
+            {
+                "content": "In rarer cases, people become infected through contact with infected animals, such as bats or non-human primates, in countries where the virus is present. Fruit bats are believed to be the natural reservoir for the virus: a species where the virus can live, grow, and multiply.",
+                "tag": "p"
+            },
+            {
+                "content": "Importantly, an infected person can only spread the virus once symptoms begin. There's no evidence that Ebola spreads through intact skin, or through coughing or sneezing, in the way that flu or COVID-19 does. The virus can also persist in certain parts of the body, including the testes, eyes and central nervous system, after someone has recovered, and transmission through sexual contact with a survivor has been documented, with the virus detectable in semen for over a year.",
+                "tag": "p"
+            },
+            {
+                "content": "What are the symptoms?",
+                "tag": "h2"
+            },
+            {
+                "content": "Symptoms usually appear suddenly, between 2 and 21 days after infection, with an average of 8 to 10 days. Early symptoms are flu-like: high temperature, extreme tiredness, muscle aches, sore throat and headache.",
+                "tag": "p"
+            },
+            {
+                "content": "These are often followed a few days later by vomiting, diarrhoea and stomach pain. Some people go on to develop a rash, cough, shortness of breath, red eyes, bruising, and yellowing of the skin and eyes. In more severe cases, bleeding can occur as the disease progresses. This may include blood in poo and bleeding from different parts of the body.",
+                "tag": "p"
+            },
+            {
+                "content": "Because early symptoms are non-specific, diagnosis can be difficult, and cases are sometimes mistaken for malaria, typhoid or meningitis in the early stages. Laboratory testing, carried out under high-level biological containment, is needed to confirm infection.",
+                "tag": "p"
+            },
+            {
+                "content": "How serious is Ebola?",
+                "tag": "h2"
+            },
+            {
+                "content": "Ebola is rare but can be fatal. The average case fatality rate is around 50%, though this has ranged from 25% to 90% in past outbreaks, depending on the virus species and other factors, including patients' age and access to care.",
+                "tag": "p"
+            },
+            {
+                "content": "Can it be treated?",
+                "tag": "h2"
+            },
+            {
+                "content": "There's no specific cure, but patients require intensive supportive care, including fluids and help maintaining blood pressure and oxygen levels. Two monoclonal antibody treatments are available for Ebola caused by the Zaire virus species, the strain responsible for most major outbreaks, though there are currently no licensed treatments for other species.",
+                "tag": "p"
+            },
+            {
+                "content": "Is there an Ebola vaccine?",
+                "tag": "h2"
+            },
+            {
+                "content": "Two vaccines are licensed to help prevent infection from the Zaire virus. One is given as a single dose and can be used to respond quickly during an outbreak. The other requires 2 doses given 8 weeks apart, so is less suited to emergency response but can still play a role in prevention. Neither vaccine is currently effective against the Sudan virus species, though vaccines for this strain are in development.",
+                "tag": "p"
+            },
+            {
+                "content": "Preventing spread relies heavily on strict infection control. Patients need to be isolated, and healthcare workers and carers need to use appropriate protective equipment, since procedures like handling blood or inserting intravenous lines carry particular risk. The bodies of those who have died from Ebola remain highly infectious and must be safely buried or cremated.",
+                "tag": "p"
+            },
+            {
+                "content": "What is UKHSA\u2019s role in Ebola outbreaks?",
+                "tag": "h2"
+            },
+            {
+                "content": "UKHSA is responsible for protecting the UK from health threats like Ebola. This means monitoring outbreaks overseas, assessing risk to the UK, and coordinating the public health response when needed. UKHSA also works with the Foreign, Commonwealth & Development Office (FCDO), the Department for Transport (DfT) and Border Force, so that travellers returning from affected areas know what to do if they develop symptoms. We also provide testing through the NHS for anyone who becomes unwell after travelling to an affected region.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK Public Health Rapid Support Team (UK-PHRST) helps low- and middle-income countries respond to infectious disease outbreaks. The team was established after the 2014 to 2015 West Africa Ebola outbreak and funded by the Department of Health and Social Care (DHSC). To date, the team has delivered both in-person and remote deployments to support World Health Organization (WHO), both in WHO headquarters and country offices in DRC, the Republic of the Congo and South Sudan. We have offered technical expertise across a range of disciplines including infection prevention and control, epidemiology, risk communication and community engagement, data modelling and readiness training at both country and regional levels.",
+                "tag": "p"
+            },
+            {
+                "content": "The deployments follow formal requests for assistance through the Global Outbreak Alert and Response Network, with UK-PHRST working alongside WHO, UNICEF and partners throughout.",
+                "tag": "p"
+            },
+            {
+                "content": "The DHSC-funded, UKHSA-delivered International Health Regulations Strengthening Project (IHR-SP) is supporting the Ebola response within our partner countries and across the region. We\u2019ve helped the Africa Centres for Disease Control and Prevention establish an expert advisory cell to guide strategy, and by strengthening cross-border surveillance and coordination in higher-risk countries, including an agreement between Uganda and South Sudan to improve health security collaboration. The response has shown the value of embedding UKHSA experts within African institutions from the outset of an emergency, providing immediate, trusted support while building longer-term regional health security capacity.",
+                "tag": "p"
+            },
+            {
+                "content": "Where can I find out more?",
+                "tag": "h2"
+            },
+            {
+                "content": "There is a dedicated page on GOV.UK that lists outbreaks and case locations of haemorrhagic fevers Ebola and Marburg.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/10/15/ebola-what-are-the-symptoms-and-how-does-it-spread/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Ebola has been in the news since the World Health Organization's declaration of a public health emergency of international concern on 17 May 2026, for an outbreak affecting the Democratic Republic of the Congo and Uganda. This blog post outlines what the disease is, how it spreads, and what it means for the UK."
+    },
+    {
+        "title": "Name the UK Space Agency\u2019s First National Mission! \ud83d\udef0\ufe0f\ud83c\udf0d",
+        "authors": [
+            "UK Space Agency"
+        ],
+        "posted_on": "2026-10-15T09:30:00",
+        "categories": [
+            "Space sustainability"
+        ],
+        "content": [
+            {
+                "content": "Be a part of history by naming the UK\u2019s Active Debris Removal Mission, the UK Space Agency\u2019s first ever national space mission.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK is leading the way in space sustainability, taking action to clean up our orbital environment.",
+                "tag": "p"
+            },
+            {
+                "content": "Currently, satellites are thrown away after they stop working, sometimes for the simplest of reasons; like running out of fuel! This has led to an increasingly cluttered and potentially dangerous space environment. ",
+                "tag": "p"
+            },
+            {
+                "content": "New technologies are being developed to allow the repair or removal of broken and old satellites. We want your help to name our pioneering Active Debris Removal Mission.",
+                "tag": "p"
+            },
+            {
+                "content": "If your mission name is selected, you will be making history by naming\u00a0the ADR Mission and you will see the name etched on the side of a spacecraft!",
+                "tag": "p"
+            },
+            {
+                "content": "Our competition is easy to enter and closes on Thursday 10 December 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK Space Agency is launching its first national space mission to tackle the growing threat of space debris. This marks a pivotal step in the UK\u2019s efforts to protect vital space technology and ensure the long-term safety of the Earth\u2019s orbit.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A special spacecraft built by ClearSpace UK with advanced British technology will fly into space and grab two old satellites that no longer work. It will gently guide them back towards Earth, where they will safely burn up in the atmosphere, helping to keep space clean and protecting the remaining satellites that we rely on every day for things like maps on our phones.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learn more about the ADR Mission.",
+                "tag": "p"
+            },
+            {
+                "content": "Did you know?",
+                "tag": "p"
+            },
+            {
+                "content": "Why do space missions have names?",
+                "tag": "h2"
+            },
+            {
+                "content": "Space missions are often given memorable names that help people connect with and understand their purpose. Inspired by exploration, discovery, science and mythology, these names become an important part of a mission's identity and legacy.",
+                "tag": "p"
+            },
+            {
+                "content": "A good mission name can tell a story, reflect the mission's objectives, celebrate discovery and exploration, or capture the imagination of the public.",
+                "tag": "p"
+            },
+            {
+                "content": "Examples of famous mission names",
+                "tag": "h3"
+            },
+            {
+                "content": "Why naming matters for the Active Debris Removal mission",
+                "tag": "h3"
+            },
+            {
+                "content": "The Active Debris Removal mission is a pioneering step towards a safer and more sustainable space environment. Naming the mission will help raise public awareness, inspire future generations, celebrate UK innovation, and create a lasting identity for a mission that protects the space services we rely on every day.",
+                "tag": "p"
+            },
+            {
+                "content": "The Competition",
+                "tag": "h2"
+            },
+            {
+                "content": "The theme for the competition is:",
+                "tag": "p"
+            },
+            {
+                "content": "\"A name inspired by keeping space clean and safe for future generations\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Entrants must provide:",
+                "tag": "p"
+            },
+            {
+                "content": "What to think about for your name idea:",
+                "tag": "p"
+            },
+            {
+                "content": "Enter here.",
+                "tag": "h2"
+            },
+            {
+                "content": "Scope",
+                "tag": "h3"
+            },
+            {
+                "content": "Prizes",
+                "tag": "h2"
+            },
+            {
+                "content": "Winner",
+                "tag": "h3"
+            },
+            {
+                "content": "Competition Timeline",
+                "tag": "h3"
+            },
+            {
+                "content": "Additional Resources",
+                "tag": "h2"
+            },
+            {
+                "content": "https://www.gov.uk/guidance/space-related-educational-resources",
+                "tag": "p"
+            },
+            {
+                "content": "See below links:",
+                "tag": "p"
+            },
+            {
+                "content": "Terms and Conditions",
+                "tag": "h2"
+            },
+            {
+                "content": "Full Competition Terms and Conditions can be found here.",
+                "tag": "p"
+            },
+            {
+                "content": "Reserve Rights Clause",
+                "tag": "h3"
+            },
+            {
+                "content": "The UK Space Agency retains the right not to select a public entry if:",
+                "tag": "p"
+            },
+            {
+                "content": "The winning entrant could instead be recognised as the inspiration for the final selected name.",
+                "tag": "p"
+            },
+            {
+                "content": "Entries will be judged by a team in the UK Space Agency.\u00a0\u00a0The winning name is the judges\u2019 decision and it's final.",
+                "tag": "p"
+            },
+            {
+                "content": "Royalties & IP Rights",
+                "tag": "h3"
+            },
+            {
+                "content": "The UK Space Agency own all the rights to use the winning name for the purposes outlined in this document and for purposes related to UK Space Agency communications.",
+                "tag": "p"
+            },
+            {
+                "content": "Personal Data:",
+                "tag": "h3"
+            },
+            {
+                "content": "Information on how your personal data will be processed and stored and contact details can be found in the attached Privacy Notice.",
+                "tag": "p"
+            },
+            {
+                "content": "Your rights under the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018 are not affected.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2026/10/15/name-the-uk-space-agencys-first-national-mission-%f0%9f%9b%b0%ef%b8%8f%f0%9f%8c%8d/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "Be a part of history by naming the UK\u2019s Active Debris Removal Mission, the UK Space Agency\u2019s first ever national space mission."
+    },
+    {
+        "title": "What can a small flatfish tell us about pollution in our seas?",
+        "authors": [
+            "John Bignell"
+        ],
+        "posted_on": "2026-10-15T08:03:00",
+        "categories": [
+            "Animal Health",
+            "data",
+            "Pollution",
+            "Science"
+        ],
+        "content": [
+            {
+                "content": "For more than three decades, a small flatfish in the UK has been helping scientists investigate some difficult questions: is pollution in the marine environment getting better or worse, and does it have an impact on the marine life that lives there? Sudden pollution incidents such as oil spills do unfortunately occur from time-to-time, which can have a devastating impact on marine life. However, there are also teams of UK scientists dedicated to investigating the long-term environmental impacts of human activities, specifically concerning chemicals that we have become dependent on in our day-to-day lives.",
+                "tag": "p"
+            },
+            {
+                "content": "The common dab (Limanda limanda) flatfish is not a species known for attracting public attention, but for marine scientists, dab have long played an important role as a sentinel species that can help reveal the biological effects of marine pollution. In a newly published study in Environment International, Cefas scientists examined long-term trends in liver tumours in dab collected from 29 monitoring sites from five biogeographical marine regions in the UK. The results showed a significant decrease in the overall prevalence of these tumours over time, providing encouraging evidence that the biological effects of hazardous chemicals may have reduced in parts of the UK marine environment. However, the story is not simply one of recovery. While the study shows that things appear to be moving in the right direction, liver tumour prevalence remains high in some areas, particularly parts of the Irish Sea and North Sea, despite the observed decrease. Understanding why these patterns persist is now an important scientific and policy question.",
+                "tag": "p"
+            },
+            {
+                "content": "Why do scientists investigate liver tumours in fish?",
+                "tag": "h3"
+            },
+            {
+                "content": "The liver is one of the main organs responsible for the processing and excretion of chemicals. In fish, as in other animals, it can show abnormal tissue changes (pathology) which can provide evidence of exposure to harmful substances. Certain liver pathologies, including tumours, have been used for many years in marine monitoring programmes as indicators of biological effects associated with chemical exposure. This does not mean that every tumour has a simple or single cause. Marine environments are complex, and fish are exposed to many natural and human pressures throughout their lives. But when patterns are observed consistently across time, location and age groups, they can provide important clues about the health of the wider environment.",
+                "tag": "p"
+            },
+            {
+                "content": "A long-term investigation",
+                "tag": "h3"
+            },
+            {
+                "content": "This is one of the largest studies ever conducted to investigate long-term trends in liver tumours in fish and their potential causes. Linking chemical exposure to biological effects in wildlife is notoriously difficult and relies on the consistent long-term collection of baseline monitoring data. The value of monitoring is often only fully realised after many years, when the time series becomes long enough to reveal patterns that would otherwise remain hidden. One of the strengths of this Cefas study is the length and consistency of the offshore surveys that underpinned this work, conducted under the Clean Seas Environmental Monitoring Programme (CSEMP) on board the RV Cefas Endeavour. This is the UK government\u2019s principal monitoring programme for understanding the health of our seas by bringing together chemical measurements in sediments and fish with biological effects data, including liver pathology. It has been established for several decades monitoring approximately 29 locations from five biogeographic marine regions around the UK including the Northern North Sea, Southern North Sea, Irish Sea, Eastern Channel, and Western Channel and Celtic Sea. The integrated approach of CSEMP allows scientists to look beyond the presence of contaminants alone and assess whether chemical pressures are associated with measurable effects in marine wildlife. Each fish represents a small piece of evidence including where it was collected, how old it was, how large it was, and what liver pathology was seen under the microscope. Individually, those observations tell us relatively little. However, when thousands of observations are brought together across years and locations, they become a powerful dataset. This allows scientists to determine whether disease patterns are changing, whether some marine regions are more affected than others, and whether environmental improvements are being reflected in the health of wild fish.",
+                "tag": "p"
+            },
+            {
+                "content": "Encouraging signs, but questions remain",
+                "tag": "h3"
+            },
+            {
+                "content": "The overall decrease in liver tumour prevalence is an encouraging finding that may reflect the benefits of improved regulation and reductions in some hazardous chemical inputs into the marine environment. However, the higher prevalence of tumours in parts of the Irish and North Seas suggests that some areas may still be adversely affected by additional pressures, including historical contamination and/or continuing inputs. Furthermore, whilst improved regulation may be a contributing factor to the observed reduction in prevalence, scientists are still uncertain about which chemicals are responsible for dab liver tumour formation in UK waters. The Cefas study showed that concentrations in dab livers of a now banned and highly persistent family of chemicals, the Polychlorinated Biphenyls (PCBs), were correlated with higher incidences of liver tumours, although the team treated this finding cautiously. While it was interesting to observe this correlation, as scientists we need to be cautious regarding what our data show, because correlation does not always mean causality. On closer examination, this relationship may partly reflect the spatial structure of the dataset. Specifically, compared with other marine regions, the higher number of sampling sites, and by extension higher numbers of fish, in the Irish Sea was considered likely to heavily influence the observed correlation.",
+                "tag": "p"
+            },
+            {
+                "content": "So, could another family of chemicals be involved in causing liver tumours in dab? This is where the investigation becomes both interesting and challenging. In North America, a wealth of studies have pointed towards the Polycyclic Aromatic Hydrocarbons (PAHs), as important contributors to liver tumours in several fish species. However, these studies typically focused on species sampled in relatively shallow inshore habitats where environmental contaminants are generally more concentrated. In the Cefas study, the focus was mostly at offshore locations, where measured sediment contaminant concentrations were typically lower. However, dab may not spend their whole lives in the same place.",
+                "tag": "p"
+            },
+            {
+                "content": "There are several observations that provide additional clues to the possible causes of liver tumours in dab. Unlike some infections that result in acute clinical signs of disease, carcinogenesis is generally a chronic process, with tumours developing over an extended period. Our data also show that liver tumours are rarely observed in dab younger than three years of age. Together, these observations suggest that the events initiating carcinogenesis may occur considerably earlier in life, well before tumours become detectable. This is particularly interesting because many marine fish can spend their early life in coastal and inshore habitats before moving farther offshore as they mature. Taken together, the evidence supports the hypothesis that dab may be exposed to hazardous chemicals closer inshore and at a much younger age, with the resulting tumours only becoming apparent later, once the fish have moved offshore. In other words, the tumours observed in offshore dab may be evidence of earlier exposure, but their location does not necessarily tell us where that exposure occurred.",
+                "tag": "p"
+            },
+            {
+                "content": "Following the exposure pathway",
+                "tag": "h3"
+            },
+            {
+                "content": "The latest Cefas study published in Environment International was the result of monitoring that helps inform the UK\u2019s progress towards Good Environmental Status under the UK Marine Strategy Regulations. The next step is a period of complementary research to better understand where and when exposure occurs, and which chemicals or chemical groups are most likely to be involved. We are about to embark on a four-year research project funded by the Department for Environment, Food and Rural Affairs (Defra) Marine and Fisheries Research & Development Commission to investigate whether trace element and isotope analysis of otoliths, the ear bones of fish, can reveal more about the life history and origins of dab, and ultimately the chemicals they may have been exposed to. This R&D matters because marine policy and management depend on knowing not only that biological effects are occurring, but also what pressures are driving them and what can be done about it. Identifying exposure pathways could help improve future monitoring, strengthen understanding of contaminant sources, and support more effective action to protect marine ecosystems.",
+                "tag": "p"
+            },
+            {
+                "content": "The common dab may be a somewhat modest flatfish, but it has been telling an important story about pollution, recovery, and the continuing need to follow the evidence.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinescience.blog.gov.uk/2026/10/15/what-can-a-small-flatfish-tell-us-about-pollution-in-our-seas/",
+        "blog": "Marine Science",
+        "blog_link": "https://marinescience.blog.gov.uk",
+        "description": "For more than three decades, a small flatfish in the UK has been helping scientists investigate some difficult questions: is pollution in the marine environment getting better or worse, and does it have an impact on the marine life that \u2026"
+    },
+    {
         "title": "UKHSA Complete UK Pre-entry Health Screening\u00a0Beta reassessment",
         "authors": [
             "Man-Yee Lam"
