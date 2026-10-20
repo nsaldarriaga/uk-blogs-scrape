@@ -1,0 +1,601 @@
+[
+    {
+        "title": "From Research to Recommendation: My Summer in DDaT at UKEF",
+        "authors": [
+            "Razan Osman"
+        ],
+        "posted_on": "2026-10-19T16:16:54",
+        "categories": [
+            "DDAT",
+            "User Centred Design",
+            "user research"
+        ],
+        "content": [
+            {
+                "content": "Over the last few months, I had an opportunity to intern in the Data, Digital and Technology (DDaT) division in UK Export Finance. I began this role directly after finishing my degree in law, so I was excited to embark on this adventure in the civil service. I was unsure on whether coming from a non-technical background would make me feel wildly out of my depth. I assumed that delivering digital services in the public sector would require a great deal of specialised technical experience, so I was curious to see how the skills I developed throughout university could add value to projects. ",
+                "tag": "p"
+            },
+            {
+                "content": "From the outset of my internship, I was welcomed into a friendly team that made integrating into a new environment seamless! To settle in, I had many 1-1 meetings which gave me an opportunity to get to know everyone personally and provided an insight into their daily roles. The introductions helped broaden my understanding of DDaT and put to bed any worries I previously had about coming from a non-technical background.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "After those first two weeks, I felt a lot more confident in possible future career choices, and excited to get involved in work impacting users across UKEF.",
+                "tag": "p"
+            },
+            {
+                "content": "The Digital & Transformation Playbook",
+                "tag": "h2"
+            },
+            {
+                "content": "The development of the Digital & Transformation playbook was the main project I worked on during my internship. The project aimed to answer one simple question: How can information across DDaT\u2019s professions be organised in a way that make sense to the diverse teams? ",
+                "tag": "p"
+            },
+            {
+                "content": "Currently, information is spread across multiple resources and internal sites, resulting in disjointed information and confusing access for users. These pain points underpin the rationale behind developing a playbook which was more connected and usable across teams. Before starting this internship, I thought I would be assisting on the sidelines, but I was grateful to be able to take full ownership of this project from research to prototype iteration. I started to feel less like an intern and more like a colleague in the team.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "Through the duration of the project I:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reflections",
+                "tag": "h2"
+            },
+            {
+                "content": "One of my biggest take aways from this experience was that understanding users is integral to the success of any digital service. When I first learnt about the playbook, I thought that reorganising information would be the challenge, however, through user research methods, I quickly realised that the greatest challenge is understanding how users navigate and understand information. ",
+                "tag": "p"
+            },
+            {
+                "content": "This insight made me realise that, contrary to my initial assumption, digital departments do involve a great deal of human interaction demonstrating the importance of empathy and understanding in informing service design. ",
+                "tag": "p"
+            },
+            {
+                "content": "Perhaps my greatest reflection of the internship was that growth and confidence come from being trusted. In my first week I would not have thought that I would be independently leading such a major project, especially in a digital space. From researching to iterating prototypes, I surprised myself with the work I was able to take ownership of. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I wouldn\u2019t have been able to do this without my wonderful team that were so helpful and supportive. I am super grateful for my incredible line manager, Ben Johnson, who gave me the foundation of confidence I needed to achieve such amazing things over the internship. I am immensely thankful for the time and effort that the team so generously offered and following this internship I am excited about the possibility of pursuing a career in the Civil Service. ",
+                "tag": "p"
+            },
+            {
+                "content": "This experience was truly a once in a lifetime opportunity and I feel ever so privileged to have started the first leg of my career in UKEF.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukefdigital.blog.gov.uk/2026/10/19/from-research-to-recommendation-my-summer-in-ddat-at-ukef/",
+        "blog": "UK Export Finance Digital, Data and Technology blog",
+        "blog_link": "https://ukefdigital.blog.gov.uk",
+        "description": "Over the last few months, I had an opportunity to intern in the Data, Digital and Technology (DDaT) division in UK Export Finance."
+    },
+    {
+        "title": "Opening GOV.UK Wallet sandbox to digital verification services\u00a0",
+        "authors": [
+            "Nicola Betz, Head of Policy, Strategy & Engagement, GOV.UK One Login & GOV.UK Wallet"
+        ],
+        "posted_on": "2026-10-19T14:28:24",
+        "categories": [
+            "Digital Centre"
+        ],
+        "content": [
+            {
+                "content": "The Government Digital Service (GDS) is inviting registered digital verification service (DVS) providers to join the GOV.UK Wallet sandbox. This will be the first time that private sector organisations can test their verifier technology in a closed test environment (the sandbox) with a test digital driving licence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is a significant moment in the development of the digital driving licence. It allows us to start testing how services offered by DVS providers will interact with government issued credentials in the GOV.UK Wallet, helping us to learn, improve and build confidence before we start to introduce the digital driving licence from next year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "DVS providers who are independently certified against government standards and are on the government\u2019s DVS register can join the sandbox. The technology they provide will enable information from the digital driving licence to be shared securely with other organisations who will accept the digital driving licence, such as pubs, cinemas and supermarkets.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach helps people use digital credentials with confidence, knowing they are sharing information through trusted providers. This will also help to support the wider use of trusted digital credentials in the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Responsible, safe and secure technology\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As you would expect for a product that will in time be available to millions of people across the UK, we are building the digital driving licence in a responsible, safe and secure way.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Following on from our testing at the end of last year, GDS and the Driver and Vehicle Licensing Agency (DVLA) have continued to design, build and test the product. This has included:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have also been building on the work of the first credential for the GOV.UK Wallet, the digital Veteran Card. Like the Veteran Card, the digital driving licence is designed to be an alternative to the physical card, not a replacement for it.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The sandbox goes live \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The sandbox gives registered DVS providers access to a collection of tools, including test credentials and test data, allowing them to experiment and build integrations in a safe environment that is separate from live user data and designed specifically for testing and learning.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Specifically, the sandbox allows DVS providers to:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This collaboration in the test environment enables learning on both sides. DVS providers gain an opportunity to prepare their own services, while government gains valuable insight into how the ecosystem will work in real life.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working with industry to prepare for rollout\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Many organisations will play a role in helping people use and verify digital credentials in the future. DVS providers are a key part of that.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working closely with DVS providers helps us understand how digital credentials will operate in practice, are shared securely, and identify issues early. That\u2019s why we're creating opportunities for industry partners to test, learn and share feedback as the programme develops.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Building and inviting the DVS providers into the sandbox is one step in a wider programme of testing and collaboration.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Later this year, GDS will host a testing event with stakeholders to help us further test technical integration and collect feedback ahead of launch. More information on this will follow.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This work aims to build confidence across the whole system:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Transforming the driver experience\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Roadmap for modern digital government sets out to make life easier for people, drive growth and deliver on smarter, more efficient public services. The digital driving licence is part of this transformation, and is being achieved alongside other important product updates for drivers. This includes the GOV.UK App adding the Driver and vehicles account feature as a native feature, which is now in testing with wider release planned in a few months. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these products will make it easier for people to interact with government in ways that are convenient for them, delivering on the Roadmap\u2019s ambitions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re a registered DVS provider, register for access to the GOV.UK Wallet sandbox\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2026/10/19/opening-gov-uk-wallet-sandbox-to-digital-verification-services/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Registered digital verification service (DVS) providers are now able to apply to join the GOV.UK Wallet sandbox."
+    },
+    {
+        "title": "Food Crime Update\u00a0",
+        "authors": [
+            "Katie Pettifer, Chief Executive"
+        ],
+        "posted_on": "2026-10-19T14:00:49",
+        "categories": [
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "Trust in food isn\u2019t something we can take for granted and one of the biggest threats to that trust is food crime. Sadly, there will always be individuals who are willing to risk confidence in British food for a quick profit, which is why the on-going work of the FSA\u2019s National Food Crime Unit (NFCU) remains so essential. The past few months have shown just how active this fight continues to be.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In Dudley, a joint operation with the local council and police partners uncovered an unapproved meat cutting plant, leading to four arrests and the removal of more four tonnes of illegal meat from the food chain. In another operation, involving multiple partners\u202fincluding the Greater Manchester and Staffordshire Police, and Stoke-on-Trent City Council, an investigation into illegal frozen food products has resulted in one arrest and the seizure of more than 33 tonnes of suspect stock across more than a hundred businesses.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In Leicester, we worked alongside local authorities and the police to tackle the online sale of illegally prepared \u2018smokies\u2019, removing unsafe meat from circulation and making one arrest. Meanwhile, in Essex, our officers investigated suspected counterfeit wine worth more than half a million pounds.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These cases span different regions, products, and criminal methods but they share a common thread. Food crime is never victimless. It puts public health at risk, defrauds the public, and undermines the honest businesses that play by the rules. Left unchecked, food crime erodes the confidence that underpins our entire food system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Protecting the public means staying one step ahead of those who seek to exploit the system for profit. That\u2019s why we need to stay proactive and continue working closely with the police, local authorities, and other partners.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to keep updated about the risks from food crime and share best practice on strengthening the industry\u2019s response to\u202fit, you can subscribe to the NFCU\u2019s news bulletin.\u00a0 You can also report food crime to Food Crime Confidential, in full confidence, at gov.uk/food-crime/report or by calling 0800 028 1180.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Katie PettiferChief Executive of FSA",
+                "tag": "p"
+            },
+            {
+                "content": "Nid yw ymddiriedaeth mewn bwyd yn rhywbeth y gallwn ei gymryd yn ganiataol, ac un o\u2019r bygythiadau mwyaf i\u2019r ymddiriedaeth honno yw troseddau bwyd. Yn anffodus, bydd rhai bob amser yn ceisio manteisio ar y system er mwyn gwneud elw cyflym, hyd yn oed os yw hynny\u2019n peryglu hyder y cyhoedd mewn bwyd, a dyna pam mae gwaith parhaus Uned Genedlaethol Troseddau Bwyd (NFCU) yr Asiantaeth Safonau Bwyd (ASB) mor hanfodol. Mae\u2019r misoedd diwethaf wedi dangos bod y frwydr yn erbyn troseddau bwyd yn parhau i fod yn ddiddiwedd.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn Dudley, arweiniodd ymgyrch ar y cyd rhwng y cyngor lleol a phartneriaid yn yr heddlu at ddatgelu ffatri torri cig heb ei chymeradwyo. O ganlyniad, arestiwyd pedwar unigolyn a thynnwyd dros bedair tunnell o gig anghyfreithlon o\u2019r gadwyn fwyd. Mewn ymgyrch arall a oedd yn cynnwys nifer o bartneriaid, gan gynnwys Heddlu Manceinion Fwyaf, Heddlu Swydd Stafford a Chyngor Dinas Stoke-on-Trent, mae ymchwiliad i gynhyrchion bwyd wedi\u2019u rhewi a oedd dan amheuaeth o fod yn anghyfreithlon wedi arwain at arestio unigolyn ac atafaelu dros 33 tunnell o stoc amheus o fwy na chant o fusnesau.",
+                "tag": "p"
+            },
+            {
+                "content": "Yng Nghaerl\u0177r, buom yn gweithio ar y cyd ag awdurdodau lleol a\u2019r heddlu i fynd i\u2019r afael \u00e2 gwerthu \u2018smokies\u2019 ar-lein, sef cynnyrch anghyfreithlon yn y DU, gan arwain at arestio unigolyn a sicrhau bod cig anniogel yn cael ei dynnu oddi ar y farchnad. Yn y cyfamser, yn Essex, cynhaliodd ein swyddogion ymchwiliad i win dan amheuaeth o fod yn ffug, a oedd werth dros hanner miliwn o bunnoedd.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Er bod yr achosion hyn yn amrywio o ran lleoliad, y cynhyrchion dan sylw a\u2019r dulliau troseddol a ddefnyddiwyd, mae un peth yn gyffredin rhyngddynt. Mae rhywun wastad yn dioddef yn sgil troseddau bwyd. Mae\u2019n peryglu iechyd y cyhoedd, yn twyllo defnyddwyr, ac yn tanseilio\u2019r busnesau gonest hynny sy\u2019n dilyn y rheolau. Heb gamau i\u2019w hatal, mae troseddau bwyd yn difetha\u2019r hyder sy\u2019n sail i\u2019n system fwyd gyfan.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae diogelu\u2019r cyhoedd yn golygu aros un cam ar y blaen i\u2019r rhai sy\u2019n ceisio camfanteisio ar y system er budd ariannol. Dyna pam mae angen i ni fod yn rhagweithiol a pharhau i weithio\u2019n agos gyda\u2019r heddlu, awdurdodau lleol a phartneriaid eraill.",
+                "tag": "p"
+            },
+            {
+                "content": "Os hoffech gael yr wybodaeth ddiweddaraf am y risgiau o droseddau bwyd a rhannu arferion gorau ar gryfhau ymateb y diwydiant iddynt, gallwch danysgrifio i fwletin newyddion yr NFCU. Gallwch hefyd roi gwybod yn gyfrinachol am droseddau bwyd i\u2019r llinell gymorth Trechu Trosedd Bwyd yn Gyfrinachol yn gov.uk/troseddau-bwyd/rhoi-gwybod neu drwy ffonio 0800 028 1180.",
+                "tag": "p"
+            },
+            {
+                "content": "Katie PettiferPrif Weithredwr yr ASB",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2026/10/19/food-crime-update/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Katie Pettifer, FSA Chief Executive, on food crime and the work of the National Food Crime Unit (NFCU)"
+    },
+    {
+        "title": "Why post-market surveillance is a priority for the MHRA AI Airlock programme",
+        "authors": [
+            "Zaynab Khalid Zia"
+        ],
+        "posted_on": "2026-10-19T11:39:37",
+        "categories": [
+            "AI Airlock",
+            "Post-Market Surveillance"
+        ],
+        "content": [
+            {
+                "content": "It is widely recognised that AI technologies have the potential to positively transform healthcare by improving patient outcomes, supporting clinical decision-making and helping health services work more efficiently. However, AI systems can behave differently once they move from controlled testing environments into real-world clinical settings. The data, users, workflows and patient populations they encounter may also change over time, and these changes can affect performance.",
+                "tag": "p"
+            },
+            {
+                "content": "Manufacturers of medical devices are required to monitor how their devices perform once they are in use. This is achieved through post-market surveillance (PMS), the ongoing process of collecting and reviewing information about a device's safety, performance and effectiveness throughout its lifetime. PMS helps manufacturers identify emerging issues, understand how devices are performing in real-world settings and take action where needed.",
+                "tag": "p"
+            },
+            {
+                "content": "However, the importance of PMS extends beyond regulatory compliance. The National Commission into the Regulation of AI in Healthcare highlighted that AI regulation should be lifecycle-based, recognising that assurance does not end at market entry but continues throughout deployment and use. The Commission also emphasised that the safe adoption of AI is a system-wide responsibility, requiring manufacturers, healthcare organisations, professionals, regulators and others to play a role in identifying, managing and responding to risks as evidence emerges in real-world settings. Finally, as we move into a world where device performance is increasingly data sensitive and may rapidly change, proactively monitoring for and responding to emerging trends will be an important part of safe and responsible device deployment. This blog looks at what the AI Airlock has learned about applying PMS to AI-enabled medical devices, why practical challenges remain, and how the next phase of the programme will build on this work.",
+                "tag": "p"
+            },
+            {
+                "content": "What earlier Airlock work told us",
+                "tag": "h2"
+            },
+            {
+                "content": "Over the past two years, during the pilot and Phase 2, the AI Airlock has explored PMS across a range of candidate technologies through workshops and engagement with regulatory, clinical and technical stakeholders. This work has helped the programme examine how existing PMS requirements apply to AI-enabled medical devices in practice and identify the areas where further evidence and testing are needed.",
+                "tag": "p"
+            },
+            {
+                "content": "Phase 1 \u2013 FAMOS and continuous monitoring",
+                "tag": "h3"
+            },
+            {
+                "content": "The pilot phase first explored this challenge through Newton\u2019s Tree\u2019s FAMOS platform, one of the programme\u2019s first four case studies, which examined whether continuous, near-real-time monitoring could strengthen PMS for AI-enabled medical devices. Building on the case study\u2019s real-world testing across 2 deployment sites, a simulation workshop considered how monitoring could detect changes arising from the model, input data and interactions between users and the device, and how the earlier identification of emerging risks and performance changes might support risk management. The case study also explored monitoring measures related to data quality, performance drift and automation bias. Together, the work highlighted the potential for earlier identification of performance trends that could affect safety, while also raising practical questions about access to suitable real-world data, clinically meaningful thresholds, false alarms, stakeholder responsibilities and the action required when a signal is detected (AI Airlock Sandbox Pilot Programme Report; PMS simulation workshop report).",
+                "tag": "p"
+            },
+            {
+                "content": "Phase 2: PMS and predetermined change control plans (PCCPs)",
+                "tag": "h3"
+            },
+            {
+                "content": "Phase 2 tested these questions further across several AI technologies. The Phase 2 findings, captured in the Programme Report, reinforced a central lesson: point-in-time, pre-market validation alone may not fully reflect how an AI medical device will perform in practice. Real-world performance can be difficult to reproduce or to address entirely or accurately in a controlled setting. That is why post-market monitoring needs to be considered early and prospectively designed as complementary to the device\u2019s pre-market evidence, intended use and lifecycle plans.",
+                "tag": "p"
+            },
+            {
+                "content": "Phase 2 also examined the relationship between PMS and predetermined change control plans (PCCPs), which describe planned modifications to software and how those modifications will be assessed, across several AI technologies, including through a dedicated simulation workshop. The work showed that managing change in AI-enabled medical devices requires a joined-up lifecycle approach: pre-market evidence should reflect the intended use, deployment environment and anticipated changes, while PMS should monitor real-world performance and identify changes that may affect safety, performance or the device\u2019s intended purpose. The workshop also explored how manufacturers might assess whether a change is significant and whether it falls within an agreed PCCP or requires further regulatory action. Together, the findings highlighted the importance of defining monitoring measures, decision thresholds and responsibilities early, as well as proactively capturing usage and performance data post-market, while retaining sufficient flexibility to respond to evidence generated once the device is in use (AI Airlock Sandbox Phase 2 Programme Report and Insights from the AI Airlock Simulation Workshop: Post Market Surveillance and Predetermined Change Control Plans).",
+                "tag": "p"
+            },
+            {
+                "content": "Why PMS remains a practical challenge",
+                "tag": "h2"
+            },
+            {
+                "content": "While the principles of PMS remain the same, applying them to AI medical devices can present different challenges compared with more traditional or relatively static devices. Unlike fixed devices, AI systems may be particularly sensitive to changes in input data, the clinical environment and the way people use and rely on the device, creating additional complexity when monitoring real-world performance.",
+                "tag": "p"
+            },
+            {
+                "content": "The importance of PMS has also been reinforced by the National Commission into the Regulation of AI in Healthcare, which highlighted the need for stronger post-market assurance, including monitoring and the use of real-world evidence. The Commission recognised the Airlock\u2019s findings that assurance for AI does not end at market entry, but must continue throughout the product lifecycle, with manufacturers, healthcare organisations, professionals, regulators and others all playing a role in the safe deployment and oversight of AI technologies.",
+                "tag": "p"
+            },
+            {
+                "content": "Manufacturers may therefore need further support to translate existing PMS requirements into monitoring arrangements that are effective and appropriate for AI. The practical questions include what to monitor, how to set clinically meaningful thresholds, how to identify and investigate drift, how to obtain suitable real-world data, and when a detected change should trigger action.",
+                "tag": "p"
+            },
+            {
+                "content": "Continuous or near-real-time monitoring may enable emerging trends to be identified earlier, but may not be appropriate in every case. The approach should be proportionate to the device, its risk and the context in which it is used, with a clear purpose for the data collected and agreed responsibilities for reviewing signals and responding to them.",
+                "tag": "p"
+            },
+            {
+                "content": "Further clarity may also be needed on the respective roles of manufacturers, healthcare organisations and other actors. The aim is to provide regulatory confidence without imposing impractical monitoring arrangements or generating large volumes of data that do not support meaningful decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "What the next phase will explore\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Building on these findings, the Airlock has selected post-market surveillance and lifecycle oversight as the first regulatory focus area for Phase 3, recognising the need for further evidence on how these approaches can be applied effectively and proportionately in practice (AI Airlock Phase 3 application).",
+                "tag": "p"
+            },
+            {
+                "content": "To help shape this phase, the Airlock held a series of expert stakeholder workshops over the summer with colleagues contributing regulatory, clinical and technical perspectives. The discussions examined how PMS expectations apply to AI-enabled medical devices, including:",
+                "tag": "p"
+            },
+            {
+                "content": "These discussions informed the PMS challenge areas and the questions that applicants are now invited to explore.",
+                "tag": "p"
+            },
+            {
+                "content": "Supported by multi-year funding from DHSC, Phase 3 will allow the programme to move beyond annual funding cycles, be more flexible in project design and pursue more ambitious, longer-term testing. Working with innovators and stakeholders, the Airlock will explore and test practical approaches to capturing deployment-context factors more proactively; defining meaningful thresholds and proportionate actions when signals arise; maintaining effective monitoring in remote, at-home or direct-to-consumer settings with varying levels of oversight; and ensuring that the right information on safety, performance and change effectively reaches the right people at the right time.",
+                "tag": "p"
+            },
+            {
+                "content": "The aim is not to predetermine a single solution or policy position, but to generate evidence about which approaches work in practice, how they can be tailored to a device, its risk and deployment context, and where existing requirements are sufficient or further guidance, tools or regulatory support may be needed. Taking this approach, the Airlock hopes to identify practical, proportionate methodologies and/or processes that support innovation while protecting patients and the public as AI-enabled medical devices are deployed across the health system.",
+                "tag": "p"
+            },
+            {
+                "content": "The Phase 3 call for applications is now open and applications can be submitted on a rolling basis. We welcome proposals from AI-enabled medical device developers and manufacturers, providers of solutions to regulatory challenges, and other stakeholders who can help test practical approaches to PMS and lifecycle oversight. If your organisation could contribute to these challenge areas, find out more and apply through the AI Airlock Phase 3 application page. AI Airlock Phase 3 application - GOV.UK.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://medregs.blog.gov.uk/2026/10/19/why-post-market-surveillance-is-a-priority-for-the-mhra-ai-airlock-programme/",
+        "blog": "MedRegs",
+        "blog_link": "https://medregs.blog.gov.uk",
+        "description": "It is widely recognised that AI technologies have the potential to positively transform healthcare by improving patient outcomes, supporting clinical decision-making and helping health services work more efficiently. However, AI systems can behave differently once they move from controlled testing \u2026"
+    },
+    {
+        "title": "Historic Court Buildings: The Royal Courts of Justice, from Queen Victoria to the bear pit",
+        "authors": [
+            "HMCTS Communications"
+        ],
+        "posted_on": "2026-10-19T11:03:39",
+        "categories": [
+            "Podcast"
+        ],
+        "content": [
+            {
+                "content": "Over 1,000 rooms, three and a half miles of corridors, and the biggest Victorian mosaic floor in Europe.",
+                "tag": "p"
+            },
+            {
+                "content": "In this episode, we are joined by Richard from the Royal Courts of Justice Estates Office to explore the history of this iconic building, from its construction in the 1880s to its connections with Queen Victoria, who watched barristers arguing below from a balcony, in an area that became known as the 'bear garden'.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We discuss some of the building's more unusual stories, including a mysterious room number staff have never been able to fully remove, and an accident involving the clock tower.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Listen to the latest episode now, available wherever you get your podcasts from!",
+                "tag": "p"
+            },
+            {
+                "content": "Amazon",
+                "tag": "p"
+            },
+            {
+                "content": "Apple",
+                "tag": "p"
+            },
+            {
+                "content": "Buzzsprout",
+                "tag": "p"
+            },
+            {
+                "content": "Spotify",
+                "tag": "p"
+            },
+            {
+                "content": "A\u00a0transcript\u00a0of the podcast\u00a0is also available.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2026/10/19/historic-court-buildings-the-royal-courts-of-justice-from-queen-victoria-to-the-bear-pit/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "In this episode, we are joined by Richard from the Royal Courts of Justice Estates Office to explore the history of this iconic building, from its construction in the 1880s to its connections with Queen Victoria, who watched barristers arguing below from a balcony, in an area that became known as the 'bear garden'."
+    },
+    {
+        "title": "Inside Defra's octopus conference",
+        "authors": [
+            "Non-quota species team, Defra"
+        ],
+        "posted_on": "2026-10-19T11:03:29",
+        "categories": [
+            "- Defra led FMPs"
+        ],
+        "content": [
+            {
+                "content": "Since 2025, fishermen in south-west England have seen a sharp increase in octopus catches. While this has created new opportunities for some, others have raised concerns about impacts on shellfish fisheries. Even where the increase has brought benefits, it has meant adapting to a fishery that has looked very different from the one many fishermen have known for years.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Similar increases have been reported elsewhere in Europe over the past few years, raising questions about what is driving the change and what it could mean for the future. There is still no clear agreement on what is causing the increase in octopus numbers, how long they are here to stay, or how fisheries should respond.",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing people together",
+                "tag": "h2"
+            },
+            {
+                "content": "To explore these issues, Defra hosted a conference on 15 October bringing together fishermen, fisheries managers, international experts, and scientists. The conference provided an opportunity for people with different experiences and expertise to share\u00a0what they are seeing. ",
+                "tag": "p"
+            },
+            {
+                "content": "Fishermen spoke about the practical impacts on their businesses and local fisheries \u2013 setting out both the opportunities and the consequences. ",
+                "tag": "p"
+            },
+            {
+                "content": "Scientists shared the latest scientific findings and evidence on the species, highlighted the unknowns, and set out what's planned in terms of data collection and research. ",
+                "tag": "p"
+            },
+            {
+                "content": "International experts shared lessons from their experiences in managing a similar octopus bloom in Brittany - and we also heard from the Marine Stewardship Council on how MSC certified fisheries in Spain and Australia are managed.",
+                "tag": "p"
+            },
+            {
+                "content": "Fisheries managers explained the challenges of making decisions when there is still limited evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "Participants also discussed ideas for future management and identified priorities for further research.",
+                "tag": "p"
+            },
+            {
+                "content": "Reflections from the conference",
+                "tag": "h2"
+            },
+            {
+                "content": "What did people tell us?",
+                "tag": "h3"
+            },
+            {
+                "content": "The clearest message from the day was that the increase in octopus numbers is being experienced differently across fisheries and locations. ",
+                "tag": "p"
+            },
+            {
+                "content": "For some fishermen, increased catches have created a new opportunity. For others, particularly those working in shellfish fisheries, it has added pressure to already challenging conditions and raised concerns about octopus feeding on shellfish, gear interactions, displacement and future access.",
+                "tag": "p"
+            },
+            {
+                "content": "What did we learn?",
+                "tag": "h3"
+            },
+            {
+                "content": "The discussions also showed how much is still unknown. People were keen to better understand whether the increase in octopus numbers is likely to continue, and what, if any, action should be taken while we continue to learn more. ",
+                "tag": "p"
+            },
+            {
+                "content": "Hearing directly from fishermen, scientists, fisheries managers and speakers from other countries helped bring different perspectives together. It also showed the value of combining practical experience with scientific evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next?",
+                "tag": "h2"
+            },
+            {
+                "content": "The conference helped us hear different views and experiences from across the fishing industry and fisheries management. A repeated theme was the need for decisions that are evidence-based, adaptable and fair across fisheries.",
+                "tag": "p"
+            },
+            {
+                "content": "We will use what we learned, alongside existing evidence and feedback, to identify where more research is needed and help guide future work on octopus in English waters.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2026/10/19/inside-defras-octopus-conference/",
+        "blog": "Fisheries Management Plans",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Defra brought fishermen, scientists and fisheries managers together to share evidence, discuss impacts and help shape future work on the octopus fishery."
+    },
+    {
+        "title": "Avoidable requisitions are falling. What\u2019s next?",
+        "authors": [
+            "Andrew Robertson, Head of Customer Policy"
+        ],
+        "posted_on": "2026-10-19T10:56:22",
+        "categories": [
+            "Law and practice"
+        ],
+        "content": [
+            {
+                "content": "At a glance",
+                "tag": "h3"
+            },
+            {
+                "content": "In our previous blog, Avoidable requisitions continue to fall as we work together, we thanked customers, industry bodies and HM Land Registry caseworkers for helping to reduce avoidable requisitions. To recap, the number of avoidable requisitions has fallen by at least 40% since 2022, and the rate of avoidable issues per 1,000 applications has almost halved.",
+                "tag": "p"
+            },
+            {
+                "content": "That progress matters. It means fewer applications are being delayed by issues that could usually have been prevented before submission, less rework for conveyancers, fewer follow-up queries for customers and a smoother process for everyone involved.",
+                "tag": "p"
+            },
+            {
+                "content": "But there is still more to do. Avoidable requisitions continue to account for a significant amount of unnecessary work across the registration process. The next phase is about focusing on the issues that still occur most often and taking practical action to prevent them.",
+                "tag": "p"
+            },
+            {
+                "content": "Focus checks where they will have most impact",
+                "tag": "p"
+            },
+            {
+                "content": "The infographic above groups the leading avoidable requisitions into broad categories, giving an at-a-glance view of where issues arise most often. Recurring themes include missing or unclear information in forms and plans, missing identity and other supporting evidence, and incorrect fees. These are areas where small improvements in preparation and checking can make the next significant difference.",
+                "tag": "p"
+            },
+            {
+                "content": "Broad categories such as \u201cmissing information\u201d can hide several different problems. Incomplete application details, an unsigned plan and missing Stamp Duty Land Tax evidence each need a different solution. Looking at the individual reasons for requisitions gives firms a clearer basis for checks, training and quality assurance.",
+                "tag": "p"
+            },
+            {
+                "content": "Our next infographic shows the leading 10 avoidable points over 2025. A requisition may contain one or more of these:",
+                "tag": "p"
+            },
+            {
+                "content": "One of the most effective ways to reduce avoidable requisitions is to understand where they are happening. Many avoidable requisitions can be reduced through simple, consistent checks before submission. These checks do not need to add unnecessary complexity. They are about making sure the application, supporting evidence and any plans tell the same clear story.",
+                "tag": "p"
+            },
+            {
+                "content": "The checklist below addresses the current top 10 avoidable requisition points. You can download a copy from our training hub.",
+                "tag": "p"
+            },
+            {
+                "content": "Use your data to target improvement",
+                "tag": "p"
+            },
+            {
+                "content": "HM Land Registry currently emails avoidable requisition data to customers every six months. We plan to make this data available through Portal, making it easier for firms to identify recurring issues and focus improvement activity.",
+                "tag": "p"
+            },
+            {
+                "content": "Different firms will see different patterns. Reviewing avoidable requisition data over time can show where an internal checklist needs updating, where staff may benefit from training or where an additional quality check would prevent repeat problems. Customers can use HM Land Registry support, training and guidance to target specific issues for maximum effect.",
+                "tag": "p"
+            },
+            {
+                "content": "What HM Land Registry will do",
+                "tag": "p"
+            },
+            {
+                "content": "Customers\u2019 checks are only part of the picture. We will continue to:",
+                "tag": "p"
+            },
+            {
+                "content": "Keep the momentum going",
+                "tag": "p"
+            },
+            {
+                "content": "Reducing avoidable requisitions is a shared responsibility. Firms can use their data to focus checks and training on the issues that affect them most. HM Land Registry will continue to improve guidance, data, support and caseworker accuracy.",
+                "tag": "p"
+            },
+            {
+                "content": "Every preventable issue removed from the process saves time and helps applications progress more smoothly for conveyancers, their clients and HM Land Registry.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://hmlandregistry.blog.gov.uk/2026/10/19/avoidable-requisitions-are-falling-whats-next/",
+        "blog": "HM Land Registry",
+        "blog_link": "https://hmlandregistry.blog.gov.uk",
+        "description": "Avoidable requisitions are falling, but preventable errors still create additional work and delay. We look at the main issues that remain, what firms can do now and how HM Land Registry is supporting further improvement."
+    }
+]
