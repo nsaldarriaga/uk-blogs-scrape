@@ -1,5 +1,561 @@
 [
     {
+        "title": "Quality assurance: from administration control to governance priority",
+        "authors": [
+            "Jemma Byrne - Senior Pensions Consultant"
+        ],
+        "posted_on": "2026-10-23T16:55:29",
+        "categories": [
+            "Pensions",
+            "Pensions administration"
+        ],
+        "content": [
+            {
+                "content": "Last year I wrote about why quality assurance (QA) matters in pensions administration: it protects members, strengthens trust and supports good governance.",
+                "tag": "p"
+            },
+            {
+                "content": "Since then, the context has changed. The Pensions Regulator\u2019s General Code is now in force. Enhanced online member self-service is expanding, dashboards are moving closer to reality, and schemes are accelerating automation to manage demand and cost pressures. QA needs to evolve too.",
+                "tag": "p"
+            },
+            {
+                "content": "Assurance should not sit at the end of the process; it must be embedded in governance, operations, technology and member communications.",
+                "tag": "p"
+            },
+            {
+                "content": "What's changed, and why QA needs to evolve",
+                "tag": "h2"
+            },
+            {
+                "content": "The Pensions Regulator\u2019s General Code places greater emphasis on effective systems of governance, internal controls and the ability to evidence how those controls work. QA can form an important part of a scheme\u2019s wider assurance framework and provide valuable evidence to support its Own Risk Assessment.",
+                "tag": "p"
+            },
+            {
+                "content": "At the same time, factor updates, rectification projects and changing tax and legislative requirements create more opportunities for error. Digital journeys and straight-through processing can allow a small mistake to affect many members quickly. As dashboards and self-service develop, data quality will become increasingly visible to members.",
+                "tag": "p"
+            },
+            {
+                "content": "Automation and AI can improve efficiency, but they introduce new risks. Their outputs, data inputs and underlying controls must be tested and monitored as carefully as traditional calculations.",
+                "tag": "p"
+            },
+            {
+                "content": "Four practical approaches",
+                "tag": "h2"
+            },
+            {
+                "content": "Not every case requires the same level of checking. Apply a simple risk score based on factors such as benefit type, value, member vulnerability, manual intervention and recent rule changes.",
+                "tag": "p"
+            },
+            {
+                "content": "High-risk or manual cases may require detailed checking, while lower-risk cases may be subject to proportionate sample checking and periodic reviews. Review outputs regularly, particularly errors found after issue, and adjust the sampling approach where necessary.",
+                "tag": "p"
+            },
+            {
+                "content": "QA should begin before a process reaches live operation. Build controls into calculation engines and workflows, including effective-date checks, data validation, version-controlled factors and calculation tools and reasonableness checks.",
+                "tag": "p"
+            },
+            {
+                "content": "Have clear segregation between the person completing a calculation and the person checking it. Maintain appropriate test packs and rerun them whenever systems, factors or rules change. \u00a0Controls should also cover operational resilience, including testing whether backup, recovery and incident-response arrangements work in practice.",
+                "tag": "p"
+            },
+            {
+                "content": "Define data-quality rules for mandatory fields, valid ranges and permissible combinations, with clear ownership for maintaining them. Monitor data quality regularly and identify whether problems originate in employer uploads, manual input, legacy migrations or system interfaces.",
+                "tag": "p"
+            },
+            {
+                "content": "Data incidents should be managed like other operational incidents: assess member impact, identify the root cause and record preventive action. This is important as dashboards and digital services increase reliance on accurate, timely and well-matched data.",
+                "tag": "p"
+            },
+            {
+                "content": "QA should focus on member outcomes, not only calculations. Maintain a controlled library of templates with agreed terminology, version histories and review dates. Check high-volume communications for accuracy, readability and accessibility, including alternative formats and plain-language explanations where appropriate.",
+                "tag": "p"
+            },
+            {
+                "content": "Automation and spreadsheets should have named owners, documented purposes, defined inputs and outputs, and evidence of testing. Where AI or large language models are used, outputs should be reviewed, inputs restricted to approved data and usage limited to clearly defined tasks. Piloting in low-risk areas is sensible, but it does not replace effective governance.",
+                "tag": "p"
+            },
+            {
+                "content": "Controls that prevent errors and improve service",
+                "tag": "h2"
+            },
+            {
+                "content": "Practical controls can stop issues reaching members and reduce rework. Examples include:",
+                "tag": "p"
+            },
+            {
+                "content": "The right controls will depend on the scheme\u2019s risks but should be proportionate, documented and reviewed when processes or systems change.",
+                "tag": "p"
+            },
+            {
+                "content": "Measure whether QA is working",
+                "tag": "h2"
+            },
+            {
+                "content": "Metrics are useful only when linked to risk and materiality. Schemes should consider monitoring:",
+                "tag": "p"
+            },
+            {
+                "content": "Materiality thresholds should reflect the potential impact on members, for example, the value of an incorrect payment or the consequences of missing a payment date. Reporting should highlight trends and significant risks.",
+                "tag": "p"
+            },
+            {
+                "content": "Learn from errors",
+                "tag": "h2"
+            },
+            {
+                "content": "When errors occur, the priority is to identify affected members, put benefits right promptly and prevent recurrence. A shared classification of root causes ,such as data, rules, system logic, manual error, communication or automation failure, can make reviews more consistent.",
+                "tag": "p"
+            },
+            {
+                "content": "A short, fact-based review should record what happened, the member impact, corrective actions, owners and deadlines. If the same cause recurs, the response should move beyond retraining to changes in process, system design or supplier management.",
+                "tag": "p"
+            },
+            {
+                "content": "Final thought",
+                "tag": "h2"
+            },
+            {
+                "content": "QA cannot be a tick box exercise. Done well, it helps schemes deliver one of the most fundamental outcomes of good pensions administration: paying the right benefits to the right people at the right time, first time.",
+                "tag": "p"
+            },
+            {
+                "content": "By making QA risk-based, technology-aware, member-focused and properly evidenced, schemes can reduce errors, complaints and rework while strengthening governance and meeting regulatory expectations.",
+                "tag": "p"
+            },
+            {
+                "content": "Effective QA does more than catch mistakes: it helps prevent them, freeing administrators to spend more time improving services and supporting members.",
+                "tag": "p"
+            },
+            {
+                "content": "Disclaimer",
+                "tag": "h3"
+            },
+            {
+                "content": "The views expressed are the author\u2019s own and the opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page. ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://actuaries.blog.gov.uk/2026/10/23/quality-assurance-from-administration-control-to-governance-priority/",
+        "blog": "Actuaries in government",
+        "blog_link": "https://actuaries.blog.gov.uk",
+        "description": "Pension schemes face growing demands from regulation, digital change and automation. This blog outlines practical steps to build risk-based, member-focused quality assurance that cuts errors, meets expectations and gets benefits right first time."
+    },
+    {
+        "title": "When a nuclear power station becomes a demolition site",
+        "authors": [
+            "Emma Nichol"
+        ],
+        "posted_on": "2026-10-23T13:23:09",
+        "categories": [
+            "Mission delivery",
+            "Operations"
+        ],
+        "content": [
+            {
+                "content": "It\u2019s 70 years since Calder Hall, the world\u2019s first commercial-scale nuclear power station, began operating.",
+                "tag": "p"
+            },
+            {
+                "content": "The people who worked there in the 1950s were pioneers of a new technology.",
+                "tag": "p"
+            },
+            {
+                "content": "Today, we\u2019re pioneers of a different kind.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re figuring out how to safely and securely decommission and demolish the facility.",
+                "tag": "p"
+            },
+            {
+                "content": "That doesn\u2019t sound as glamorous as building and operating it.",
+                "tag": "p"
+            },
+            {
+                "content": "But the new methods and approaches we\u2019re trialling could revolutionise our industry, just like those before us did.",
+                "tag": "p"
+            },
+            {
+                "content": "It all comes down to risk.",
+                "tag": "p"
+            },
+            {
+                "content": "When you think about Sellafield, most people imagine the nuclear risk. The dangers of contamination or radiation. Making sure we\u2019re managing nuclear material safely.",
+                "tag": "p"
+            },
+            {
+                "content": "At Calder Hall, that\u2019s no longer the case.",
+                "tag": "p"
+            },
+            {
+                "content": "The station stopped generating electricity more than 20 years ago. Its fuel has been removed, and years of decommissioning have steadily reduced the nuclear and radiological hazards.",
+                "tag": "p"
+            },
+            {
+                "content": "That means the risks we manage today are mostly conventional.",
+                "tag": "p"
+            },
+            {
+                "content": "The same risks you\u2019d get on any construction or demolition site, like the condition of buildings, heavy machinery, lifting operations, working at height, and safely sequencing demolition work.",
+                "tag": "p"
+            },
+            {
+                "content": "Thinking about the challenge in this way has allowed us to develop a new approach, known as a risk case.",
+                "tag": "p"
+            },
+            {
+                "content": "We did this with input from all the safety specialists and plant personnel who would be using it to ensure it was made for them, with their use in mind.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking at the whole risk picture",
+                "tag": "p"
+            },
+            {
+                "content": "Traditionally, different types of risk are managed through separate processes.",
+                "tag": "p"
+            },
+            {
+                "content": "Nuclear, radiological, environmental, and conventional safety risks have their own assessments.",
+                "tag": "p"
+            },
+            {
+                "content": "But looking at them separately can make it harder to see which risks matter most at a particular point in a facility's life.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s where the risk case comes in.",
+                "tag": "p"
+            },
+            {
+                "content": "The principle is simple: instead of starting with one type of hazard, we bring the important risks together and compare them in one place.",
+                "tag": "p"
+            },
+            {
+                "content": "That gives us a clearer picture of what could cause harm, how those risks are being controlled, and which ones deserve the greatest attention.",
+                "tag": "p"
+            },
+            {
+                "content": "At Calder Hall, that picture has shown the remaining nuclear risk is now small compared with many of the conventional hazards associated with decommissioning and demolition.",
+                "tag": "p"
+            },
+            {
+                "content": "Matching the controls to the job",
+                "tag": "p"
+            },
+            {
+                "content": "As the nuclear hazard has reduced, we\u2019ve shown the remaining radiological risks can be managed through appropriate radiation protection arrangements.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s helped us to move away from a safety case for an operational power station to arrangements fit for Calder Hall today.",
+                "tag": "p"
+            },
+            {
+                "content": "For project teams, the difference can be very practical.",
+                "tag": "p"
+            },
+            {
+                "content": "It gives them a clear picture of the risks they need to manage and helps them plan the work around those risks from the outset.",
+                "tag": "p"
+            },
+            {
+                "content": "That can mean simpler arrangements, fewer unnecessary steps, and greater use of standard approaches where they are appropriate. All while maintaining the high standards needed to keep people and the environment safe.",
+                "tag": "p"
+            },
+            {
+                "content": "Using proven demolition methods",
+                "tag": "p"
+            },
+            {
+                "content": "One of the benefits is greater flexibility in how Calder Hall is dismantled.",
+                "tag": "p"
+            },
+            {
+                "content": "Where the risk allows, teams can use established techniques and equipment familiar across the demolition industry.",
+                "tag": "p"
+            },
+            {
+                "content": "That could mean conventional excavators, demolition sequencing, and construction controls used on non-nuclear projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Making decommissioning simpler",
+                "tag": "p"
+            },
+            {
+                "content": "The risk case also gives teams a common view of the facility.",
+                "tag": "p"
+            },
+            {
+                "content": "It provides a clear overview of the risks and can be easily updated to keep it live.",
+                "tag": "p"
+            },
+            {
+                "content": "Project managers, safety specialists, operators, and contractors can all see the same information and understand which risks are driving the work.",
+                "tag": "p"
+            },
+            {
+                "content": "Because it can be updated as the facility changes, it can follow Calder Hall through the different stages of decommissioning rather than becoming a static document.",
+                "tag": "p"
+            },
+            {
+                "content": "Learning for the future",
+                "tag": "p"
+            },
+            {
+                "content": "Calder Hall is the first facility at Sellafield to pilot this approach, but the principle has wider potential.",
+                "tag": "p"
+            },
+            {
+                "content": "As more facilities move from operations into decommissioning their risk profiles will also change.",
+                "tag": "p"
+            },
+            {
+                "content": "Sellafield has a wide variety of facilities with a broad risk profile that includes non-nuclear risks.",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding when controls can change with them could help us make better decisions about where we focus our time, expertise and money.",
+                "tag": "p"
+            },
+            {
+                "content": "For me, that is what proportionate decommissioning means: understanding the risks properly, concentrating effort where it makes the biggest difference, and using straightforward, proven approaches when they are the right answer.",
+                "tag": "p"
+            },
+            {
+                "content": "Playing our part in wider reforms",
+                "tag": "p"
+            },
+            {
+                "content": "The value of this work won\u2019t only be felt at Sellafield.",
+                "tag": "p"
+            },
+            {
+                "content": "It aligns with the government\u2019s challenge to the nuclear industry to reduce costs and speed up delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "The Nuclear Regulatory Taskforce has called on operators and regulators to move away from disproportionate risk aversion and a focus on process over outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "If we get this right at Calder Hall, we can provide a blueprint for the rest of the UK to follow.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nda.blog.gov.uk/when-a-nuclear-power-station-becomes-a-demolition-site/",
+        "blog": "Cleaning up our nuclear past: faster, safer and sooner",
+        "blog_link": "https://nda.blog.gov.uk",
+        "description": "Calder Hall helped launch the nuclear age. Now it's helping shape the future of decommissioning. Emma Nichol explains how a pioneering risk-based approach could make projects safer, simpler and more efficient."
+    },
+    {
+        "title": "Transforming towns and cities for people and nature",
+        "authors": [
+            "Natural England"
+        ],
+        "posted_on": "2026-10-23T11:58:34",
+        "categories": [
+            "Connecting People with Nature",
+            "Green Infrastructure",
+            "Natural England",
+            "Nature",
+            "Nature Towns and Cities",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Chloe Fay, Principal Officer for Urban Greening and Nature Towns and Cities",
+                "tag": "p"
+            },
+            {
+                "content": "Nature Towns and Cities is a UK-wide movement helping urban areas become greener, healthier and more connected to nature. Recent learning events in Sunderland and Bristol brought local authorities, communities and partners together to share ideas and visit local projects, from regenerated green spaces to community-led \"Greening Permits\". Read on to see how both cities are turning ambition into action, and what it means for the programme's goal of improving green space for 10 million people over the next decade.",
+                "tag": "p"
+            },
+            {
+                "content": "How can we put nature at the heart of the places where people live, work and spend their everyday lives? That ambition sits at the centre of Nature Towns and Cities, a growing movement helping make urban areas greener, healthier and more connected to the natural world.",
+                "tag": "p"
+            },
+            {
+                "content": "Founded by The National Lottery Heritage Fund, Natural England and the National Trust, the programme supports towns and cities across the UK to create places where people and nature can thrive together.",
+                "tag": "p"
+            },
+            {
+                "content": "Recent learning events in Sunderland and Bristol offered a glimpse of what this looks like in practice. Local authorities, voluntary organisations and delivery partners shared ideas, reflected on challenges and explored practical solutions. Discussions ranged from green finance and partnership governance to tree equity and public engagement, while site visits showcased inspiring local projects and thriving green and blue spaces.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England was represented at both events, with Chief Officer for Strategy Oliver Harmar attending in Sunderland and our new Chief Executive, Neil Hornby, joining partners in Bristol. Together, the events demonstrated the enthusiasm, creativity and commitment helping turn ambition into action across the Nature Towns and Cities network.",
+                "tag": "p"
+            },
+            {
+                "content": "Sunderland: nature and pride in place",
+                "tag": "h4"
+            },
+            {
+                "content": "In Sunderland, local authorities, partners and community organisations highlighted how investment in nature can support regeneration and strengthen pride in place.",
+                "tag": "p"
+            },
+            {
+                "content": "Supported by a \u00a3490,000 grant from The National Lottery Heritage Fund through Nature Towns and Cities, Sunderland is creating more opportunities for residents to experience and shape their local natural environment while building on the city's distinctive identity.",
+                "tag": "p"
+            },
+            {
+                "content": "Its shipbuilding and mining heritage remains central to its story. Alongside it, nature recovery, public realm improvements and community spaces are helping create places that celebrate Sunderland's past while looking confidently to its future.",
+                "tag": "p"
+            },
+            {
+                "content": "Visits to Copt Hill, King George V Park and Flint Mill brought that change to life. At Copt Hill, a once-overlooked landscape has become an inviting green space, while King George V Park is attracting visitors and supporting a thriving local caf\u00e9. At Flint Mill, habitat improvements and better access are helping people enjoy the environment on their doorstep.",
+                "tag": "p"
+            },
+            {
+                "content": "The common thread was people. These projects are not simply improving landscapes; they are helping local neighbourhoods rediscover and reconnect with the places around them. Reflecting on the visit, Natural England's Chief Officer for Strategy, Oliver Harmar, said: \u201cIt has been brilliant over the last year and a half to see Nature Towns and Cities growing from strength to strength. While this may be a national initiative, what I saw in Sunderland were inspiring examples of local leadership and innovation, all focused on bringing the benefits of nature and green space to those who need them most.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Bristol: empowering communities to act",
+                "tag": "p"
+            },
+            {
+                "content": "In Bristol, our new Chief Executive, Neil Hornby, joined partners to see a different approach to bringing nature closer to people. Supported by a \u00a3984,126 grant from The National Lottery Heritage Fund through Nature Towns and Cities, Bristol's Nature Together project is transforming how the city works with partners and communities to support local action for nature. ",
+                "tag": "p"
+            },
+            {
+                "content": "One innovation is the Greening Permit, a simple scheme that enables residents and community groups to create small-scale nature projects in council-owned green spaces, such as planters, wildflower areas and tree planting. By streamlining permissions, it helps communities turn ideas into action while supporting neighbourhood nature planning and strengthening volunteering, community leadership and ecological expertise across the city.",
+                "tag": "p"
+            },
+            {
+                "content": "Visits to Lockleaze, The Ardagh and Horfield Common demonstrated what collaboration can achieve when local people have the support and opportunity to shape their green spaces. The events were also about learning from each other. People from different towns, cities and organisations came together to discuss successes, challenges and new approaches, generating ideas that can travel between places.",
+                "tag": "p"
+            },
+            {
+                "content": "Growing a movement for urban nature",
+                "tag": "p"
+            },
+            {
+                "content": "Sunderland and Bristol are different cities with different opportunities, but both demonstrate the value of bringing local authorities, partners and residents together around nature. For Natural England, being part of Nature Towns and Cities means contributing expertise and partnerships to that collective effort, while also listening and learning from the places already making change happen.",
+                "tag": "p"
+            },
+            {
+                "content": "Nature Towns and Cities has an ambition to improve neighbourhood green space for 10 million people over the next decade. With the partnership continuing to grow and more places sharing their knowledge and experience, Sunderland and Bristol offer an exciting glimpse of what's possible when nature is woven into the fabric of everyday life. Through greener neighbourhoods, stronger local connections and better access to nature, the programme is bringing to fruition Natural England\u2019s strategic aim to build nature into everyday life for more people in towns and cities across the country.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more on the Nature Towns and Cities website.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/10/23/transforming-towns-and-cities-for-people-and-nature/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Chloe Fay, Principal Officer for Urban Greening and Nature Towns and Cities Nature Towns and Cities is a UK-wide movement helping urban areas become greener, healthier and more connected to nature. Recent learning events in Sunderland and Bristol brought \u2026"
+    },
+    {
+        "title": "From stored devices to circular value",
+        "authors": [
+            "Anna Fountain"
+        ],
+        "posted_on": "2026-10-23T11:50:00",
+        "categories": [
+            "Circular economy",
+            "Sustainable ICT"
+        ],
+        "content": [
+            {
+                "content": "Across government, devices, chargers and cables can remain unused in cupboards, drawers and storerooms long after they have stopped supporting a business need. This equipment may look like waste, but can still be a valuable asset, both in terms of economic but also environmental and social value.",
+                "tag": "p"
+            },
+            {
+                "content": "Making it easy for people to return unwanted technology can recoup money, extend the life of usable equipment, recover valuable materials and reduce the risks associated with inappropriate disposal.",
+                "tag": "p"
+            },
+            {
+                "content": "The scale of the challenge",
+                "tag": "h2"
+            },
+            {
+                "content": "E-waste is one of the world\u2019s fastest-growing solid waste streams. The UN Global E-waste Monitor estimates that 62 million tonnes were generated worldwide in 2022, but only 22.3% was documented as formally collected and recycled. Global e-waste could reach 82 million tonnes by 2030 driven by AI causing an increased demand for new hardward and faster replacement cycles.",
+                "tag": "p"
+            },
+            {
+                "content": "For public sector technology leaders, this is not only a waste-management issue. It is also about responsible procurement, information assurance, asset management, carbon reduction and the resilience of material supply chains.",
+                "tag": "p"
+            },
+            {
+                "content": "When equipment is retained without a purpose assets depreciate in value and organisations lose opportunities to redeploy donate or recover materials such as copper, gold and rare earth elements. Poor disposal can also allow hazardous substances to pollute air, soil and water.",
+                "tag": "p"
+            },
+            {
+                "content": "A practical intervention in Exeter",
+                "tag": "h2"
+            },
+            {
+                "content": "Defra recently held an IT amnesty at its Exeter office with technology partner Atos. Colleagues returned nearly 1,000 pieces of unused work devices, personal electrical equipment and hundreds of cables. Some items dated from the early 2000s.",
+                "tag": "p"
+            },
+            {
+                "content": "The volume collected showed how quickly technology can accumulate when return routes are not visible, convenient or regularly promoted. It also demonstrated the value of a focused event: a clear call to action gave colleagues a secure and straightforward opportunity to give a second life to equipment they no longer needed.",
+                "tag": "p"
+            },
+            {
+                "content": "Each returned item can now follow an appropriate route, whether that is secure reuse, recycling or responsible disposal. The amnesty formed part of Atos\u2019s social value commitments, and Defra plans to run an event each year.",
+                "tag": "p"
+            },
+            {
+                "content": "In 2024/25, Defra generated 40 tonnes of e-waste and reused 30% of it, recycling virtually all the rest. The amnesty supports a wider programme to improve that position by keeping devices and materials in circulation for longer, reusing (for example selling or donating) more of the devices we no longer need, and recycling them if this is not possible.",
+                "tag": "p"
+            },
+            {
+                "content": "What other organisations can take from this",
+                "tag": "h2"
+            },
+            {
+                "content": "An IT amnesty is a visible intervention, but it works best as part of a broader circular approach to technology. Useful considerations include:",
+                "tag": "p"
+            },
+            {
+                "content": "These actions complement Defra\u2019s commitments to send no IT equipment to landfill, extend device lifecycles through performance monitoring, match equipment to user needs and support recycling in countries without suitable facilities",
+                "tag": "p"
+            },
+            {
+                "content": "Turning unused technology into a resource",
+                "tag": "h2"
+            },
+            {
+                "content": "The Exeter amnesty is a reminder that progress can begin with a practical, well-communicated action and collaboration with suppliers. By bringing together digital, commercial, estates, security and sustainability teams, public sector organisations can make responsible technology returns part of normal operations rather than an occasional clean-up exercise.",
+                "tag": "p"
+            },
+            {
+                "content": "Every device returned through an approved route is an opportunity to retain value, reduce demand for virgin materials and improve the evidence available for sustainable ICT decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "Defra\u2019s approach to e-waste is set out in the Defra digital sustainability strategy 2025 to 2030.",
+                "tag": "p"
+            },
+            {
+                "content": "Anna Fountain is a Sustainability Lead in Defra\u2019s Digital Sustainability Team.",
+                "tag": "p"
+            },
+            {
+                "content": "If you're interested in finding out more about what we do in Defra Digital Data Technology and Security\u00a0check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow?",
+                "tag": "p"
+            },
+            {
+                "content": "Like what you read?\u00a0Subscribe to the blog\u00a0for all the latest updates.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://sustainableict.blog.gov.uk/2026/10/23/from-stored-devices-to-circular-value/",
+        "blog": "UK Government Sustainable ICT",
+        "blog_link": "https://sustainableict.blog.gov.uk",
+        "description": "Anna Fountain reflects on how a simple IT amnesty helped Defra recover nearly 1,000 items \u2014 and what other public sector organisations can learn from it."
+    },
+    {
         "title": "Exploring how digital services can prevent gambling harms\u00a0",
         "authors": [
             "Hayley Sorrell"
