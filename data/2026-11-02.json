@@ -1,5 +1,567 @@
 [
     {
+        "title": "UK providing specialist care to aid worker with Ebola",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-11-05T21:00:55",
+        "categories": [
+            "Global health"
+        ],
+        "content": [
+            {
+                "content": "This post relates to an emerging incident and will be updated as new information becomes available",
+                "tag": "p"
+            },
+            {
+                "content": "A British person has been diagnosed with Ebola after helping with the outbreak response in the DRC and has been brought to the UK for specialist treatment.",
+                "tag": "p"
+            },
+            {
+                "content": "They have been safely transported back to the UK via medevac - a specialist flight during which an individual receives detailed medical care, and are now in one of the UK's High Consequence Infectious Disease (HCID) units at the Royal Free Hospital, London. HCID units are specialist NHS units designed to safely treat people diagnosed with rare and serious infections.",
+                "tag": "p"
+            },
+            {
+                "content": "Large infectious disease outbreaks like the current Ebola outbreak in the Democratic Republic of the Congo (DRC) require a large scale, international response. Specialists from countries around the world are assisting on the ground in DRC. Outbreak responses like this one always carry risk of the infection spreading to those who are responding.",
+                "tag": "p"
+            },
+            {
+                "content": "The risk to the UK public remains low. The UK has well-established systems, specialist facilities and highly trained staff for managing infectious diseases like Ebola. This post explains what is happening, how Ebola spreads and what you need to do.",
+                "tag": "p"
+            },
+            {
+                "content": "Why is this person being medically evacuated and why can\u2019t they remain in DRC for treatment?",
+                "tag": "h2"
+            },
+            {
+                "content": "The medical evacuation of a British worker with a high consequence infectious disease such as Ebola is part of our duty of care to those serving in challenging and high-risk environments overseas. This ensures the individual has access to specialist care within the UK health system, while being closer to family and other support networks during treatment and recovery.",
+                "tag": "p"
+            },
+            {
+                "content": "This approach reflects the UK's commitment to supporting humanitarian workers who undertake difficult and important work on behalf of vulnerable communities around the world.",
+                "tag": "p"
+            },
+            {
+                "content": "Due to the precautions taken, this medical evacuation will not increase the risk to the UK public.",
+                "tag": "p"
+            },
+            {
+                "content": "Do I need to take any extra precautions?",
+                "tag": "h2"
+            },
+            {
+                "content": "No. The overall risk to the UK has not changed, and the patient is being treated in isolation. You do not need to take any extra precautions.",
+                "tag": "p"
+            },
+            {
+                "content": "How is the specialist unit at the Royal Free Hospital different from an ordinary hospital ward?",
+                "tag": "h2"
+            },
+            {
+                "content": "The Royal Free Hospital has specialist high-level isolation beds and some of the best facilities in the world for treating unusual infectious diseases. The patient is being treated in isolation. This means there is minimal risk of Ebola spreading as a result of this case.",
+                "tag": "p"
+            },
+            {
+                "content": "Staff in these units are highly trained and follow strict protocols to protect themselves, other NHS staff and the public.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Can Ebola spread to other people during a medevac transfer to the UK?",
+                "tag": "h2"
+            },
+            {
+                "content": "This is extremely unlikely. The patient was transported by highly trained specialists who wear full personal protective equipment (PPE) and follow strict infection control procedures throughout the journey.",
+                "tag": "p"
+            },
+            {
+                "content": "How does Ebola spread?",
+                "tag": "h2"
+            },
+            {
+                "content": "Ebola spreads through direct contact with the body fluids of a person who is sick with the virus, such as vomit, diarrhoea or blood. It is not airborne, so it cannot be caught from particles in the air. This makes it very different from infections such as flu and COVID-19, which spread much more easily through coughs and sneezes.",
+                "tag": "p"
+            },
+            {
+                "content": "Healthcare workers caring for patients with Ebola wear full protective equipment when they are in close contact with a patient. This prevents the infection spreading by creating a barrier between the healthcare worker and the bodily fluids of an infected person.",
+                "tag": "p"
+            },
+            {
+                "content": "What are the symptoms of Ebola, and how long do they take to appear?",
+                "tag": "h2"
+            },
+            {
+                "content": "Symptoms can appear between 2 and 21 days after coming into contact with the infection, and on average after 8 to 10 days. Illness usually starts suddenly with a fever, headache, tiredness, muscle pain and a sore throat. After a few days, symptoms such as nausea, diarrhoea and vomiting often follow.",
+                "tag": "p"
+            },
+            {
+                "content": "Many other illnesses, such as malaria, cause similar symptoms which is much more common in returning travellers.",
+                "tag": "p"
+            },
+            {
+                "content": "Is the NHS prepared?",
+                "tag": "h2"
+            },
+            {
+                "content": "The NHS has well-established processes for managing an Ebola case, including rapid testing and strict infection prevention and control in healthcare settings. The UK Health Security Agency (UKHSA) provides clinical advice and testing to the NHS for viral haemorrhagic fevers, including Ebola, and has a test for the strain causing this outbreak in the DRC.",
+                "tag": "p"
+            },
+            {
+                "content": "What should I do if I think I might have Ebola?",
+                "tag": "h2"
+            },
+            {
+                "content": "Unless you have visited an affected country and been in contact with the body fluids of an infected person, there is very little chance that you have Ebola.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have visited the DRC or other affected surrounding areas in the last 21 days and you become unwell with symptoms such as fever, chills, muscle aches, vomiting, diarrhoea or a sore throat, you should:",
+                "tag": "p"
+            },
+            {
+                "content": "You should not go to a GP surgery or hospital without calling first.",
+                "tag": "p"
+            },
+            {
+                "content": "Is there a vaccine or treatment?",
+                "tag": "h2"
+            },
+            {
+                "content": "There are currently no licensed vaccines or treatments for most species of Ebola virus, including the Bundibugyo strain causing the current outbreak. Vaccines and treatments exist for a different species of Ebola virus. Specialist teams will provide the patient with the best available supportive care.",
+                "tag": "p"
+            },
+            {
+                "content": "I'm planning to travel to an affected area. What should I do?",
+                "tag": "h2"
+            },
+            {
+                "content": "If you are planning to visit an area affected by the current outbreak, think carefully about your plans and speak to a travel health specialist. You can find advice on the NaTHNaC Ebola disease page and from the FCDO.",
+                "tag": "p"
+            },
+            {
+                "content": "Organisations sending workers to affected areas, where they may be exposed to Ebola through their work, should register them with the UKHSA Returning Workers Scheme. The scheme has been activated to protect and monitor the health of these workers. UKHSA is closely monitoring the situation and will provide updates if anything changes. A dedicated page on GOV.UK lists outbreaks and case locations of haemorrhagic fevers Ebola and Marburg.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/11/05/uk-providing-specialist-care-to-aid-worker-with-ebola/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "A British person has been diagnosed with Ebola after helping with the outbreak response in the DRC and has been brought to the UK for specialist treatment."
+    },
+    {
+        "title": "Misleading reporting on the Overnight Visitor Levy",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-11-05T15:48:51",
+        "categories": [
+            "Council finance",
+            "Devolution",
+            "Local government"
+        ],
+        "content": [
+            {
+                "content": "This week the government introduced the Visitor Levy Bill in Parliament, bringing local leaders a step closer to new powers to invest in the high streets, cultural sites and attractions that make communities great places to live, work and visit.",
+                "tag": "p"
+            },
+            {
+                "content": "This was welcomed by almost a dozen mayors, as well as cultural organisations and academics.",
+                "tag": "p"
+            },
+            {
+                "content": "However, there has been some misleading media reports claiming that accommodation providers face 14 years in jail for not paying the Overnight Visitor Levy and could have to repay it for up to 20 years.",
+                "tag": "p"
+            },
+            {
+                "content": "The fact is, no one will go to prison for an honest mistake or a minor breach like an occasional error when collecting the levy.",
+                "tag": "p"
+            },
+            {
+                "content": "Just as is the case for other charges, like VAT, prison would only be considered in the most serious cases, including where the levy has been deliberately evaded. And only in serious cases could money be recovered over a longer period as long as 20 years.",
+                "tag": "p"
+            },
+            {
+                "content": "Sentencing decisions are always a matter for the courts.",
+                "tag": "p"
+            },
+            {
+                "content": "Suggesting accommodation providers could be jailed for anything less is simply wrong \u2013 that is the last resort. The strategic authorities introducing the levy will focus on helping providers get it right. ",
+                "tag": "p"
+            },
+            {
+                "content": "The Bill will now go through Parliament, after which mayors and local leaders will consult businesses and local people in their areas and be able to set out their plans by March 2028, should they wish to bring a levy in",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/11/05/misleading-reporting-on-the-overnight-visitor-levy/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "This week the government introduced the Visitor Levy Bill in Parliament, bringing local leaders a step closer to new powers to invest in the high streets, cultural sites and attractions that make communities great places to live, work and visit. \u2026"
+    },
+    {
+        "title": "One year as Commissioner for the Tenant Farming Sector",
+        "authors": [
+            "Alan Laidlaw"
+        ],
+        "posted_on": "2026-11-05T13:02:20",
+        "categories": [
+            "Guest post",
+            "Tenant Farming Sector"
+        ],
+        "content": [
+            {
+                "content": "In September 2025, I took on the role of Commissioner for the Tenant Farming Sector because I believe a thriving tenant farming sector is essential to the future of English agriculture.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the past year, my office has brought tenants, landlords and advisers together through regional roundtables. We launched our first sector survey and shared key insights with sector stakeholders and Defra policy colleagues. These conversations and findings have helped us better understand the challenges people face and the importance of raising concerns before relationships break down.",
+                "tag": "p"
+            },
+            {
+                "content": "In this post, I\u2019ll explain how we support the whole tenant farming sector, what we\u2019ve heard and how it informs policy. I\u2019ll also share why early contact matters, and our priorities for the next 12 months.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting the whole tenant farming sector",
+                "tag": "h2"
+            },
+            {
+                "content": "The role was created as recommended in Baroness Rock\u2019s review of the tenant farming sector. The Commissioner\u2019s purpose is to encourage fair working relationships across the tenanted sector, guided by the Agricultural Landlord and Tenant Code of Practice for England, which I\u2019ll refer to as the Code.",
+                "tag": "p"
+            },
+            {
+                "content": "One point I have been keen to emphasise since my appointment is that my role covers the whole tenant farming sector, not just tenants.",
+                "tag": "p"
+            },
+            {
+                "content": "That distinction matters.",
+                "tag": "p"
+            },
+            {
+                "content": "Good tenancy relationships depend on everyone involved working constructively together, including tenants, landlords, agents and solicitors. My office helps encourage constructive conversations and relationships.",
+                "tag": "p"
+            },
+            {
+                "content": "Listening is central to this role, and I have been encouraged by how willing people have been to share their experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "By listening during our casework, engagements and conversations, we have gained a deeper understanding of the challenges facing tenants, landlords and advisers across the sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Several consistent themes have emerged from these conversations including:",
+                "tag": "p"
+            },
+            {
+                "content": "With more farmers taking part in Sustainable Farming Incentive and Countryside Stewardship Higher Tier agreements, Landscape Recovery projects, biodiversity initiatives and emerging private markets for nature, people want to understand how tenants can take part fairly and how benefits and responsibilities are shared.",
+                "tag": "p"
+            },
+            {
+                "content": "These are often complex issues with no simple answers. Open and constructive dialogue between all parties helps us understand the detail of each issue and identify insights that my team can share anonymously with relevant colleagues in Defra and delivery bodies to inform future policy design.",
+                "tag": "p"
+            },
+            {
+                "content": "Helping your experiences shape policy",
+                "tag": "h2"
+            },
+            {
+                "content": "Turning what we hear into evidence for policy is an important part of our work alongside investigations. Much of this takes place behind the scenes, helping to strengthen understanding of tenant farming issues in wider policy discussions.",
+                "tag": "p"
+            },
+            {
+                "content": "We have worked closely with Defra policy colleagues, sharing insights from the sector and contributing evidence through the joint Defra and industry-led \u2018Farm Tenancy Forum\u2019. This helps ensure the lived experiences of those involved in agricultural tenancies are better understood by policymakers.",
+                "tag": "p"
+            },
+            {
+                "content": "We also launched our first anonymous survey of the tenant farming sector. The results show respondents\u2019 views on relationships, their experiences and their awareness of the Commissioner and the Code. They\u2019ve helped us identify areas for future work.",
+                "tag": "p"
+            },
+            {
+                "content": "We shared our findings with representative bodies to highlight the sentiment and challenges reported. We\u2019ll use these results as a starting point to assess our progress in future years.",
+                "tag": "p"
+            },
+            {
+                "content": "Our regional roundtables have brought people from across the sector together to discuss common challenges and opportunities. The most recent, in Cornwall, showed the value of creating space for frank, constructive conversations. These discussions can reveal insights formal consultations could miss.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My team and I have also attended industry conferences, agricultural shows, representative body meetings and other events across the country. In the last 6 months, we have:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our regular regional roundtables have been among the most effective ways to bring people together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why raising concerns early matters\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the clearest lessons from our first year is the value of raising concerns early.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Investigating individual cases of relationship or contractual problems is a major part of our work. Each case is different, but together they help us identify recurring concerns and build a broader picture of the issues affecting the sector.",
+                "tag": "p"
+            },
+            {
+                "content": "In a significant number of cases, people contact us only after relationships have broken down or legal proceedings, arbitration or notices to quit are already underway. By then, options become limited, positions become harder to change, trust more difficult to rebuild, and solutions more costly for all parties.",
+                "tag": "p"
+            },
+            {
+                "content": "My advice is simple: do not wait until a disagreement becomes a crisis. Raising concerns with my office early gives us more opportunity to identify constructive solutions that may work for both sides.",
+                "tag": "p"
+            },
+            {
+                "content": "Even if you are not sure you have a formal case, my office is available to everyone in the sector to raise questions and concerns.",
+                "tag": "p"
+            },
+            {
+                "content": "You can contact us through the GOV.UK service or via our mailbox at ctfs@defra.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "Thank you to everyone who has spoken with us, responded to our survey, attended an event or shared experiences, ideas and concerns. I\u2019m also grateful to colleagues across Defra and the wider policy community who have helped establish and develop the office.",
+                "tag": "p"
+            },
+            {
+                "content": "There is still much to do. Over the next year, we\u2019ll focus on strengthening the evidence available to the sector. By sharing lessons, case studies and examples of good practice, alongside positive and negative experiences, we want to help people understand what good tenancy relationships look like and how to achieve better outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll continue to raise awareness of the Commissioner and the Code through more regional roundtables and new ways of sharing our work and findings. A follow-up survey will help us understand what difference our first year\u2019s work has made.",
+                "tag": "p"
+            },
+            {
+                "content": "We also want to keep hearing from people across England. We welcome invitations to visit farms and organisations\u2019 offices or join meetings online. These conversations help strengthen collaboration and identify emerging issues early.",
+                "tag": "p"
+            },
+            {
+                "content": "I remain committed to supporting a thriving, professional and resilient tenant farming sector. That means promoting the Code, encouraging open discussion and helping people build stronger working relationships.",
+                "tag": "p"
+            },
+            {
+                "content": "The sector faces considerable challenges, but it also has significant opportunities through food production, environmental work and its contribution to rural economies. Working together will help tenants, landlords and advisers make the most of those opportunities.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/11/05/one-year-as-commissioner-for-the-tenant-farming-sector/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "In this post, the Commissioner for the Tenant Farming Sector reflects on his first year in the role. He shares how his role supports the whole tenant farming sector, what he\u2019s heard and how it informs policy, and his priorities for the year ahead."
+    },
+    {
+        "title": "Prepare for gear changes",
+        "authors": [
+            "Steve Johnston, Compliance Impact Manager"
+        ],
+        "posted_on": "2026-11-05T10:45:08",
+        "categories": [
+            "fisheries"
+        ],
+        "content": [
+            {
+                "content": "The UK and EU have agreed a package of additional technical fisheries measures for 2026 to support the recovery of severely depleted fish stocks in the Celtic Sea, Channel and Irish Sea.",
+                "tag": "p"
+            },
+            {
+                "content": "These measures respond to scientific advice indicating critical stock conditions, including zero-catch advice for certain Celtic Sea cod, haddock and whiting stocks.",
+                "tag": "p"
+            },
+            {
+                "content": "The agreed approach focuses on increasing fishing gear selectivity, particularly through larger mesh sizes and mandatory use of selective devices designed to reduce the capture of vulnerable species.",
+                "tag": "p"
+            },
+            {
+                "content": "The measures apply primarily to vessels using otter trawls, seines and beam trawls and are intended to reduce bycatch of cod, haddock, whiting, sole and plaice while allowing sustainable fishing opportunities for other target species such as anglerfish, hake, megrim and nephrops.",
+                "tag": "p"
+            },
+            {
+                "content": "The measures",
+                "tag": "p"
+            },
+            {
+                "content": "Fishing vessels operating in the designated Celtic Sea Protection Zone will be required to use larger cod-end mesh sizes in trawl nets or install more selective escape panels and sorting devices that allow juvenile and vulnerable fish to escape.",
+                "tag": "p"
+            },
+            {
+                "content": "The measures are intended to reduce unwanted catches of cod, haddock and whiting while maintaining fishing opportunities for species such as monkfish (anglerfish), hake, megrim and nephrops, better known as Dublin Bay prawns or langoustines.",
+                "tag": "p"
+            },
+            {
+                "content": "Vessels targeting nephrops will face some of the most significant changes. Boats with catches containing more than 30% Norway lobster will be required to fit specialist selective equipment such as Nordm\u00f8re sorting grids, Netgrid devices or large-mesh escape panels designed to prevent cod and other depleted species from entering the catch.",
+                "tag": "p"
+            },
+            {
+                "content": "Channel Fisheries Face New Restrictions",
+                "tag": "p"
+            },
+            {
+                "content": "The agreement also introduces tougher measures in the English Channel, where stocks of cod, sole and plaice are considered depleted. Vessels using trawls and seines in ICES Division 7e will generally be required to use 100mm cod-end mesh sizes. Fisheries previously operating with smaller meshes will be required to increase to at least 90mm subject to permitted derogations, a move expected to reduce the capture of younger fish and allow more individuals to reach spawning age.",
+                "tag": "p"
+            },
+            {
+                "content": "Officials have also committed to considering further restrictions in the eastern Channel during 2026, including the possibility of increasing minimum mesh sizes for additional trawl fisheries.",
+                "tag": "p"
+            },
+            {
+                "content": "Irish Sea Measures Target Cod and Whiting Recovery",
+                "tag": "p"
+            },
+            {
+                "content": "In the Irish Sea, attention is focused on rebuilding cod and whiting stocks, both of which remain at historically low levels.",
+                "tag": "p"
+            },
+            {
+                "content": "Nephrops fisheries will again be required to adopt additional selective gear aimed at reducing bycatch of these species. Catch thresholds will be monitored using the live weight of fish landed after each trip.",
+                "tag": "p"
+            },
+            {
+                "content": "Recovery Plans to Follow",
+                "tag": "p"
+            },
+            {
+                "content": "The UK and EU have also committed to ongoing scientific monitoring and technical reviews.",
+                "tag": "p"
+            },
+            {
+                "content": "Officials have been working on longer-term rebuilding plans for the most vulnerable stocks, with the aim of restoring populations to levels capable of delivering Maximum Sustainable Yield, the internationally recognised benchmark for sustainable fisheries management.",
+                "tag": "p"
+            },
+            {
+                "content": "These changes were subject to licence conditions made on 1 November and will become enforceable on 26 November 2026.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2026/11/05/prepare-for-gear-changes/",
+        "blog": "Marine Development Blog",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "The UK and EU have agreed a package of additional technical fisheries measures for 2026 to support the recovery of severely depleted fish stocks in the Celtic Sea, Channel and Irish Sea. These measures respond to scientific advice indicating critical \u2026"
+    },
+    {
+        "title": "Protecting England's seahorses, stalked jellyfish and the seagrass meadows they depend on",
+        "authors": [
+            "Jemma Aitken-Peaker, Marine Conservation Manager"
+        ],
+        "posted_on": "2026-11-05T09:51:32",
+        "categories": [
+            "Coastal",
+            "marine conservation",
+            "marine recreation",
+            "Science"
+        ],
+        "content": [
+            {
+                "content": "England\u2019s seas support some of our most important and sensitive marine habitats and species, many of which are protected within marine protected areas (MPAs).",
+                "tag": "p"
+            },
+            {
+                "content": "This includes seagrass, an important habitat for some of our most fascinating marine species, the seahorse and the stalked jellyfish.",
+                "tag": "p"
+            },
+            {
+                "content": "Both depend on seagrass a marine flowering plant, which forms underwater meadows within the shelter of shallow, protected bays.",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding how marine non-licensable activities (mNLA) interact with seagrass and the species it supports is essential for informing future management decisions in MPAs and helping to protect them for future generations.",
+                "tag": "p"
+            },
+            {
+                "content": "Seahorses\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One of our most intriguing marine species associated with seagrass meadows is the seahorse.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Seahorses wrap their tails around seagrass to anchor themselves while feeding, sheltering and breeding. England's waters support two species of seahorse, the spiny. or long snouted seahorse (Hippocampus guttulatus) and the short snouted seahorse (Hippocampus hippocampus). Both species are protected under UK wildlife legislation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stalked jellyfish",
+                "tag": "p"
+            },
+            {
+                "content": "Another less well known but nationally important species that can be found in seagrass beds and other shallow-water habitats in the UK, is the stalked jellyfish. ",
+                "tag": "p"
+            },
+            {
+                "content": "Not all jellyfish drift with the ocean currents, and unlike the free-swimming jellyfish most people are familiar with, stalked jellyfish are found attached to vegetation or algae and spend much of their lives fixed in one place, stalked jellyfish are rare and have specialised habitat requirements.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK is home to a number of species including the St. John\u2019s stalked jellyfish (Calvadosia cruxmelitensis) and the kaleidoscope jellyfish (Haliclystus octoradiatus).",
+                "tag": "p"
+            },
+            {
+                "content": "The value of seagrass",
+                "tag": "p"
+            },
+            {
+                "content": "In the UK, we have two species of seagrass, the common eelgrass (Zostera marina) and dwarf eelgrass (Zostera noltii). Seagrass beds are among the most valuable coastal habitats in the UK as they stabilise sediment, improve water quality, store carbon, provide nursery areas for commercially important fish species and support a wide range of marine life.",
+                "tag": "p"
+            },
+            {
+                "content": "Seagrass is gaining global recognition for its environmental importance, with Blue Planet III showcasing how these underwater meadows help sustain life on Earth by generating oxygen and supporting marine biodiversity.",
+                "tag": "p"
+            },
+            {
+                "content": "Impacts of marine recreation\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Seagrass habitats are vulnerable to physical disturbance because their roots and rhizomes lie close to the seabed surface. Anchoring, in particular, has been found to have a significant impact on this habitat. Anchors and anchor chains can disturb, uproot and damage seagrass plants during deployment, while vessels swing at anchor and during anchor retrieval. Repeated anchoring can create bare patches known as anchor scars, fragmenting seagrass beds and reducing their ability to recover.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Healthy seagrass habitats are essential for supporting seahorse and stalked jellyfish populations. Damage to these habitats can therefore have knock-on effects for the species that rely on them. Fragmentation and habitat loss can affect the distribution and survival of both species by reducing suitable attachment surfaces for stalked jellyfish, and the feeding opportunities, shelter and breeding habitat available to seahorses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recovery through management\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Evidence from Studland Bay Marine Conservation Zone has shown encouraging signs of seagrass recovery following the introduction of a voluntary no anchor zone and the installation and use of advanced mooring systems also known as eco-moorings. Monitoring has identified new areas of seagrass growth and reductions in the size of previously recorded anchor scars. Learn more:\u00a0Studland Bay seagrass shows dramatic recovery as MMO backed eco-moorings prove effective. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These findings demonstrate how targeted, evidence-led management measures can support habitat recovery while allowing people to continue enjoying the marine environment responsibly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Have your say\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "MMO is currently seeking additional evidence on the impacts of mNLA on birds, benthic habitats, reef, and seagrass. If you have relevant research, monitoring data, reports or observations, we ask you to respond to our current call for evidence and respond before it closes on 25 November 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By sharing information, you can help improve our understanding of these impacts and support the effective protection of England\u2019s seagrass beds and associated species that rely on them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more detailed guidance on how to contribute, why this is important and the types of evidence that we find useful, please visit our previous blog: Share your evidence on the impacts of recreational activities in England\u2019s marine protected areas (MPAs) \u2013 Marine Development Blog\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you require support completing our survey or submitting evidence, please let us know: conservation@marinemanagement.org.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinedevelopments.blog.gov.uk/2026/11/05/protecting-englands-seahorses-stalked-jellyfish-and-the-seagrass-meadows-they-depend-on/",
+        "blog": "Marine Development Blog",
+        "blog_link": "https://marinedevelopments.blog.gov.uk",
+        "description": "England\u2019s seas support some of our most important and sensitive marine habitats and species, many of which are protected within marine protected areas (MPAs). This includes seagrass, an important habitat for some of our most fascinating marine species, the seahorse \u2026"
+    },
+    {
         "title": "Enhancing public protection and helping probation staff focus on what matters most\u00a0",
         "authors": [
             "Erica Campolongo"
