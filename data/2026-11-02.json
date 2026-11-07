@@ -1,5 +1,348 @@
 [
     {
+        "title": "How can collaboration across user-centred design teams support complex digital delivery?\u00a0",
+        "authors": [
+            "Kate Charles"
+        ],
+        "posted_on": "2026-11-06T12:09:30",
+        "categories": [
+            "Design",
+            "Our services",
+            "User Centred Design",
+            "User research"
+        ],
+        "content": [
+            {
+                "content": "People do not experience justice services as fragmented products or user flows. While we have to create artificial product boundaries and team divides to deliver a service, the experience of the end user does not mirror these divides. In real life, people\u2019s journeys cross different systems and processes. Improving one part in isolation is rarely enough.",
+                "tag": "p"
+            },
+            {
+                "content": "Beneath that cohesive experience, at the heart of MoJ service transformation, is complexity. How can digital service delivery at its best simplify complexity at a strategic level and create smooth, unified experiences?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What Really is Complexity?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "According to systems thinking, complexity describes interconnected systems. The difference between a complex system and a complicated one is predictability. Interconnectivity is complicated when connected parts impact each other predictably. Contrastingly, the behaviour of complex elements and how they will affect each other is often unpredictable, with change emerging over time. Outcomes can never be entirely known.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Let\u2019s Get Strategic: Smarter not Harder\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There is a principle in UX law that systems come to mirror the team structures that build them, known colloquially as the \u2018pants over trousers\u2019 rule. Similarly, it\u2019s easy for this to occur in reverse: methods come to mirror system complexity. Teams introduce many varied, tactical solutions with a whack-a-mole effect, rather than stepping back and looking at wider strategy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thanks to their brilliance, our teams tackle this complexity skilfully and willingly. However, we understand that it\u2019s inevitable among proactive teams that solutions-at-speed pop up that are tactical, rather than strategic: Localised, short-term improvements in isolated areas can lead to the creation of new issues, potentially taking a toll on efficiency and even wellbeing.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, which strategic initiatives support complexity? Here are a few we have found work well\u2026\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "End-to-End Research Benefits All\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Historically, the Crime Applications service consisted of several, siloed product teams, some on legacy and some on newly transformed parts of the product. User researchers from four teams collaborated to design usability testing for the entire end-to-end journey across both legacy and transformed services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "End-to-end insight revealed previously unseen offline tasks, which were then prioritised and incorporated into the digital journey.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately, this uncovered how the products work together as one, rather than in isolation, replicating how they are really experienced. The result was not only a more cohesive and consistent experience. The initiative encouraged closer ways of working between teams, who continue to develop a shared strategy to improve the end-to-end journey holistically.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dig a Little Deeper: root-causes\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing teams together can take different shapes and forms. When challenges and blockers have come to seem intractable, we have found the Five Why workshop format allows us to come together and collectively uncover root causes. The format moves beyond the obvious issue by repeatedly asking \u2018why?\u2019 to get closer to the underlying cause. It follows basic if/then logic, applying cause-and-effect thinking.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We recently joined two teams together, where one team represented user submissions and the other represented users assessing submissions. Merging the teams meant both sides of the service interaction could be considered as one whole and allowed for closer collaboration. During the merger, we ran a Five Whys workshop to better understand the root causes where collaboration had created delays or uncertainty. This helped us understand where the real gaps were and how they connected across the service, rather than looking for a solution within a single team.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Single-Source-of-Truth\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wherever possible, we try to create a single source of truth to support collective understanding at a higher-level.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recently within Legal Aid Agency Digital (LAAD), we collaborated with policy colleagues to create detailed journey maps of the crime and civil end-to-end. This has supported conversations between policy, digital and operations to decide which steps in the process are ripe for 'simplification', change that requires not just a new digital skin but changes to the rules that govern things. Our researchers and service designers combined our disparate insights into one map, which they shared among different disciplines across the business to both validate and discuss implications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creating a \u2018visual map\u2019 like this enables us to demonstrate impact on users more effectively than written reports. Senior stakeholders can see the \u2018headlines\u2019 at a glance. Similarly, a single service blueprint is invaluable, even more so when it includes issues experienced by users. A single log of user needs allows strategic needs (those that shape real product change) to be highlighted.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Powerful Insights\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Justice Research team is creating a central research repository, using AI to bring insights from across the organisation together. The aim is to enable us to look across services, agencies and teams to understand common, powerful themes and issues across the justice system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However sometimes holistic insight is a happy side-effect. Wherever possible we have tried to centre cross-cutting activities around knowledge-share that actively strengthens collective insight, which in turn enhances cohesive product quality.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cross-cutting Justice Design Crits, for example, have the incidental benefit of requiring people to share why they would suggest certain improvements, whether it\u2019s due to previously little-known caseworker way-of-working or a provider need. As a result, group understanding of justice users grows together, as well as embedding that group intelligence into the product. People become a guardrail for quality.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond Artificial Siloes\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To get a complex usable product across the line it\u2019s necessary to be product orientated. However, this can lead us to overlook the fact that digital products play only a small - and hopefully supportive - part in rich, real experiences.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To combat this, over the last nine months in LAAD, we have established a small working group whose aim is to understand how the LAAD product is experienced, as a whole. The group consists of one service designer and two user researchers with the benefit of working primarily outside product teams. Their insights are not constrained to product silos and instead reflect the holistic way end users truly access a product.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This helps us think beyond product boundaries and identify opportunities for service transformation that we may not have previously identified. The team is identifying gaps in our understanding as an organisation, prioritising those discovery opportunities with the greatest potential for impact.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Beta\u2019 is Better than Never (and Sooner is Best!)\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kicking off these types of initiatives sooner rather than later has several perks. Discovery is exponentially richer, more insightful and impactful. Teams grow together and are more adaptable to change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Laying down a stable foundation ensures quality later. Activities like exploratory end-too-end research and root cause analysis give teams the opportunity to think slow, as well as fast. Implementing them from the start creates cohesion of both insight and people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s the golden thread across these examples? A holistic view is invaluable.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is a common sentiment that simplifying complexity is part of user-centred design; but we cannot do that without stepping out of the weeds to identify how parts of the user experience connect and to scan for what is being overlooked. It is often only a bird\u2019s eye view that allows you to see the most impactful, simple solutions that align with the daily lives of users.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2026/11/06/how-can-collaboration-across-user-centred-design-teams-support-complex-digital-delivery/",
+        "blog": "Justice Digital, Data and Science ",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "People do not experience justice services as fragmented products or user flows. While we have to create artificial product boundaries and team divides to deliver a service, the experience of the end user does not mirror these divides. In real \u2026"
+    },
+    {
+        "title": "From the classroom to code - Why it is never too late to be curious",
+        "authors": [
+            "karlharvey1"
+        ],
+        "posted_on": "2026-11-06T08:06:47",
+        "categories": [
+            "#GFIEsuccessstory",
+            "Break down barriers to opportunity",
+            "Life Chance Recruitment",
+            "National STEM Day",
+            "Pathway to STEM"
+        ],
+        "content": [
+            {
+                "content": "National STEM (Science, Technology, Engineering and Mathematics) Day 2026 takes place on 8th November and the focus is on innovation\u2014challenging us to ask questions, solve problems, and build something new.",
+                "tag": "p"
+            },
+            {
+                "content": "For Lauren, curiosity and the willingness to try something completely new have taken her from primary school teaching and running her own photography business, to starting a new career in technology through the GFiE Pathways to STEM scheme at the Intellectual Property Office (IPO).",
+                "tag": "p"
+            },
+            {
+                "content": "Lauren\u2019s journey shows that there is no single route into STEM, and that you do not need to have started your career in technology to build a future in it.",
+                "tag": "p"
+            },
+            {
+                "content": ".",
+                "tag": "p"
+            },
+            {
+                "content": "About Pathways to STEM",
+                "tag": "h3"
+            },
+            {
+                "content": "Pathways to STEM is a GFiE-accredited Pathway designed to help address STEM skills shortages across the Civil Service, while breaking down barriers to employment for people from underrepresented groups. Working with partners, the pathway creates accessible, skills-focused routes into STEM for people whose potential may not always be recognised through traditional recruitment routes.",
+                "tag": "p"
+            },
+            {
+                "content": "Lauren\u2019s journey is one example of the difference these opportunities can make. By focusing on potential and a willingness to learn, Pathways to STEM helps people from different backgrounds access opportunities, develop new skills and build careers in STEM that they may once have thought were out of reach.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are interested in using Pathways to STEM to recruit talented individuals into STEM roles for your department, please contact the Pathway to STEM Lead on GFiE@ipo.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gfie.blog.gov.uk/2026/11/06/from-the-classroom-to-code-why-it-is-never-too-late-to-be-curious/",
+        "blog": "Life Chance Recruitment - Going Forward into Employment (GFiE)",
+        "blog_link": "https://gfie.blog.gov.uk",
+        "description": "National STEM (Science, Technology, Engineering and Mathematics) Day 2026 takes place on 8th November and the focus is on innovation\u2014challenging us to ask questions, solve problems, and build something new. For Lauren, curiosity and the willingness to try something completely \u2026"
+    },
+    {
+        "title": "Inside our AI and Data accelerator: what we are learning from test and learn work in Barnsley",
+        "authors": [
+            "Ashna Devaprasad - Government Outcomes Lab"
+        ],
+        "posted_on": "2026-11-06T07:30:00",
+        "categories": [
+            "Test, Learn and Grow programme"
+        ],
+        "content": [
+            {
+                "content": "Rarely a day goes by without hearing the words \u2018artificial intelligence\u2019. From news reports to boardroom strategies to conversations during the daily commute, AI seems to be everywhere. And a day in government is no different.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Policymakers in Whitehall want to scale up AI adoption to transform public services. The Prime Minister's new AI Taskforce is the latest sign of this ambition. But we still know very little about what it actually takes to deploy and evaluate these technologies in the public sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Our Test, Learn and Grow (TLG) accelerator on AI and data for children\u2019s services is trying to change that by working directly with local authorities to \u2018test\u2019 how AI can improve services before committing to rolling anything out at scale. The Government Outcomes Lab works as TLG\u2019s independent learning and evaluation partner.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Clare and Ashna both work on the accelerator. Clare oversees the accelerators work day-to-day with Barnsley partners and Ashna brings her evaluation expertise - observing how the work evolves and feeding back learnings that could help others adapt and scale similar projects elsewhere. In this blog, they share three early learnings from Wave 1 of the accelerator\u2019s work.",
+                "tag": "p"
+            },
+            {
+                "content": "To see this work in action watch this video.",
+                "tag": "p"
+            },
+            {
+                "content": "Why Barnsley, why now?",
+                "tag": "h2"
+            },
+            {
+                "content": "A local authority is where most citizens engage tangibly with the state. It is where families access essential services; from housing, education, health and social care, to benefits, tax, and safeguarding. But local authorities are busy, complex, multi-layered organisations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The number of looked after children has increased 70% in 30 years, now consuming a quarter of Local Authority service budgets. In 2025, Barnsley had 56 children in external residential care placements, costing \u00a30.5m per child a year in April 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know we want to improve public services so they work more efficiently, are better connected to local communities and improve lives. However, without testing an idea or plan using a prototype, it becomes impossible to know whether AI might play a valuable role, and the risks it might pose for residents accessing public services.",
+                "tag": "p"
+            },
+            {
+                "content": "This accelerator is working closely with partners in Barnsley to explore whether council teams can use data and technology to take a more prevention-focused approach to service delivery, so that at-risk children and families in Barnsley receive the right support, at the right time and avoid care placements.",
+                "tag": "p"
+            },
+            {
+                "content": "This work is also taking place as Barnsley becomes the UK\u2019s first government-backed Tech Town. Tech Town is a partnership between central government, Barnsley Council and local organisations, set up to explore practical, AI use cases that originate in place. The ambition is for Barnsley to act as a trailblazer, testing how AI can tackle bespoke challenges in different sectors, and as a result, improve everyday life while keeping change rooted in local priorities, institutions and residents\u2019 perspectives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That work is already underway: from new AI skills and training programmes for residents, workers and businesses, including the AI Upskilling Challenge Fund and the AI Career Launchpad. Barnsley Council is also developing The Seam Digital Campus and National Centre for Digital Technologies, and offering programmes such as Ignite AI and Meld AI to help local businesses build the confidence and capability to use AI. Together, these Tech Town initiatives make up the wider context and local conditions in which the TLG Accelerator is working. For evaluation, it is important to monitor how this wider activity may influence the accelerator\u2019s progress.",
+                "tag": "p"
+            },
+            {
+                "content": "Three early lessons",
+                "tag": "h2"
+            },
+            {
+                "content": "After starting in December 2025, most of the accelerator\u2019s early work involved conducting sessions with Barnsley Council and frontline services to understand the issue and design a clear roadmap for this work.",
+                "tag": "p"
+            },
+            {
+                "content": "Learning 1: Defining the right problem to focus on takes time, and involves a lot of people and decision making\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Working out the exact scope of the problem and finding the right people to talk to at different levels of a local authority is crucial. Before testing anything, the accelerator has recognised the value of doing relational work first:",
+                "tag": "p"
+            },
+            {
+                "content": "The learning generated from this \u2018discovery\u2019 process has opened up more questions, such as:",
+                "tag": "p"
+            },
+            {
+                "content": "Learning 2: Being willing to change course is a good thing, and perhaps the very essence of doing \u2018test and learn\u2019",
+                "tag": "h3"
+            },
+            {
+                "content": "A couple of months in, the accelerator made a deliberate decision to change focus and pivot from their original plans, which was improving productivity for frontline staff in the council.",
+                "tag": "p"
+            },
+            {
+                "content": "This happened after several conversations and brainstorming exercises with place partners, who understood that frontline teams in Barnsley often work in crisis mode. The question became: could a more targeted, strategic intervention create change in an organisation constantly trapped in crisis?",
+                "tag": "p"
+            },
+            {
+                "content": "They used this insight to shift the focus to strategic-level stakeholders, to help develop a shared \u2018service delivery transformation ambition\u2019 for the council.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Although this decision to pivot caused a temporary drop in confidence levels for the accelerator team, having this insight from frontline teams meant that this was valuable learning and a useful course-correction early in the process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learning 3: Data and AI solutions can\u2019t be adopted in isolation from the wider institution\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The accelerator\u2019s own pace of technology adoption can only move as fast as the local authority - as an institution and system - is able to absorb it. Institutional practice and organisational culture matter just as much as the technology itself. For this accelerator, this has meant understanding:",
+                "tag": "p"
+            },
+            {
+                "content": "Without understanding how their \u2018test and learn\u2019 work interacts with these local conditions, it is hard to say what is working and what needs to change.",
+                "tag": "p"
+            },
+            {
+                "content": "Evaluating a moving target",
+                "tag": "h2"
+            },
+            {
+                "content": "As a team of evaluators, we are in a unique and unusual position. In traditional government evaluation, findings are often published at the end of a programme. The Government Outcomes Lab is part of a live TLG partnership, so we can share learning as we go, and the programme can act on it in real time.",
+                "tag": "p"
+            },
+            {
+                "content": "This also makes us think carefully about our role in a programme where the work keeps evolving. What counts as good evidence? How do we balance the flexibility an agile accelerator needs with the rigour a robust evaluation demands? What outcomes should we hold a reform programme accountable for, when it's built on learning from failure as much as success? We'll return to this in a future post.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s coming next",
+                "tag": "h2"
+            },
+            {
+                "content": "A lot of what we have seen so far is likely to change as the accelerator\u2019s work progresses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We expect that insights from Barnsley will help us understand how to approach AI implementation in other regions and types of services.",
+                "tag": "p"
+            },
+            {
+                "content": "Want to learn more or get involved?",
+                "tag": "h2"
+            }
+        ],
+        "link": "https://testlearnandgrow.blog.gov.uk/2026/11/06/inside-our-ai-and-data-accelerator-what-we-are-learning-from-test-and-learn-work-in-barnsley/",
+        "blog": "Test, Learn and Grow",
+        "blog_link": "https://testlearnandgrow.blog.gov.uk",
+        "description": "As government interest in AI grows, using it in local public services is still very new. Discover key lessons from the Test, Learn and Grow project in Barnsley\u2014including why building strong relationships early matters, how to adapt when plans change, and why AI must fit into existing council processes."
+    },
+    {
         "title": "UK providing specialist care to aid worker with Ebola",
         "authors": [
             "Blog Editor"
