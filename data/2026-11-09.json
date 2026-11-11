@@ -1,5 +1,728 @@
 [
     {
+        "title": "From carbon stores to carbon opportunities: a new map for nature recovery",
+        "authors": [
+            "Sonja Schmidt"
+        ],
+        "posted_on": "2026-11-10T15:53:23",
+        "categories": [
+            "Carbon",
+            "Ecosystem Services",
+            "Mapping",
+            "Natural Capital",
+            "Natural England",
+            "Science and evidence"
+        ],
+        "content": [
+            {
+                "content": "Author: Sonja Schmidt, PhD, Natural England Senior Specialist \u2013 Climate Change",
+                "tag": "p"
+            },
+            {
+                "content": "England's habitats and soils hold vast amounts of carbon, but some places store far more than others, and some have lost much of what they once held. A new Natural England StoryMap and mapping tool brings together carbon storage, sequestration and loss in one place, so you can see where protecting or restoring land could do the most good for climate and nature. Find out why peat soils matter so much, why the answer isn't always more trees, and how planners, land managers and local authorities can put the evidence to work.",
+                "tag": "p"
+            },
+            {
+                "content": "A new Natural England StoryMap and mapping tool shows where protecting and restoring habitats could store the most carbon.",
+                "tag": "p"
+            },
+            {
+                "content": "As world leaders meet at COP31, the UN's annual climate conference, one of our most powerful allies in tackling climate change is right beneath our feet.",
+                "tag": "p"
+            },
+            {
+                "content": "England's habitats and soils hold huge amounts of carbon. Woodlands, grasslands, wetlands and peatlands all lock it away, but not equally. Some places store far more than others, some are capturing more carbon year after year, and some have lost much of what they once held.",
+                "tag": "p"
+            },
+            {
+                "content": "For anyone planning nature recovery, that raises a practical question: with limited time and money, where will action make the biggest difference?",
+                "tag": "p"
+            },
+            {
+                "content": "A new way to see the picture",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England has launched the Spatial Prioritisation of Land Management for Carbon StoryMap\u00a0 and mapping tool to help answer that question. A StoryMap is an interactive web page that combines maps, text and images to walk you through the evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "The tool brings together three things that have not previously been easy to see side by side:",
+                "tag": "p"
+            },
+            {
+                "content": "Seen together, they show where protecting what we already have, or restoring what has been lost, could do the most good for both nature and climate",
+                "tag": "p"
+            },
+            {
+                "content": "Not all land is equal",
+                "tag": "p"
+            },
+            {
+                "content": "Peat soils are carbon heavyweights. Some of England\u2019s largest below-ground carbon stores are found in peat-rich landscapes, making protection of existing peat carbon a major priority.",
+                "tag": "p"
+            },
+            {
+                "content": "Drained lowland peat is a major carbon-loss hotspot. Drainage and intensive cultivation expose carbon-rich peat to oxidation and continuing greenhouse-gas emissions. Areas such as the Fens therefore represent important opportunities for better water and land management.",
+                "tag": "p"
+            },
+            {
+                "content": "The answer isn\u2019t always more trees. Woodland creation can deliver substantial carbon gains on suitable mineral soils, but planting on carbon-rich peat can put much larger soil carbon stores at risk. It is about putting the right habitat in the right place.",
+                "tag": "p"
+            },
+            {
+                "content": "Carbon storage and sequestration vary greatly between habitats and locations, so targeting matters. Restoring the right places can deliver much greater climate benefits, while also supporting wildlife, healthier soils and more resilient landscapes. ",
+                "tag": "p"
+            },
+            {
+                "content": "From map to action",
+                "tag": "p"
+            },
+            {
+                "content": "The tool is designed to support the people making decisions about the land.",
+                "tag": "p"
+            },
+            {
+                "content": "For instance, a team drawing up a Local Nature Recovery Strategy can use it to identify the areas where restoration would add the most carbon benefit alongside other priorities. Local authorities and environmental partnerships can use it to align climate action with nature recovery at a landscape scale. Land managers and conservation practitioners can use it to understand how carbon is distributed across the places they work.",
+                "tag": "p"
+            },
+            {
+                "content": "It is a guide for landscape-scale planning. For decisions about individual sites, it should be used alongside local evidence and expertise.",
+                "tag": "p"
+            },
+            {
+                "content": "Helping England reach net zero",
+                "tag": "p"
+            },
+            {
+                "content": "Healthy habitats cannot replace the need to cut emissions, but they have an important role to play. By showing where nature recovery can deliver the greatest carbon benefits, this evidence can help target that supports England's net zero ambitions as well as wildlife recovery.",
+                "tag": "p"
+            },
+            {
+                "content": "Explore the tool",
+                "tag": "p"
+            },
+            {
+                "content": "The StoryMap introduces the datasets, evidence and methodology behind the tool, and lets you explore the maps yourself.",
+                "tag": "p"
+            },
+            {
+                "content": "If you want to go further, you can access the underlying open datasets through the Natural England Open Data Geoportal, and find supporting evidence through the Access to Evidence catalogue.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/11/10/from-carbon-stores-to-carbon-opportunities-a-new-map-for-nature-recovery/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "Author: Sonja Schmidt, PhD, Natural England Senior Specialist \u2013 Climate Change England's habitats and soils hold vast amounts of carbon, but some places store far more than others, and some have lost much of what they once held. A new \u2026"
+    },
+    {
+        "title": "Testing secure and scalable checks against the DVS register\u00a0",
+        "authors": [
+            "Aniqa"
+        ],
+        "posted_on": "2026-11-10T13:50:19",
+        "categories": [
+            "OfDIA team"
+        ],
+        "content": [
+            {
+                "content": "We have started testing the technology that will allow organisations to check information on the digital verification services (DVS) register securely and at scale. We will test capabilities in phases, with the first phase expected to last 2 weeks.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Phase 1: Testing secure connections\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "In Phase 1, we are testing transport certificates and client authentication. These allow services to prove their identity when they connect.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Testing is taking place in a controlled environment where participants can test the technology without connecting to the live DVS register or using real data.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participating DVSPs can:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This will test whether a registered service can securely identify itself and access information through the technology.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participating DVSPs can also use one of 2 methods to authenticate their service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have published the technical guidance for Phase 1 of testing on GitHub.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next phase\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "As we develop more capabilities, we plan to expand testing to include OpenID Federation, user interfaces, and the full onboarding journey. Phase 2 will begin testing the trust resolution chain and is expected to start in 2 weeks.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Testing in phases allows us to learn from DVSPs while we develop the technology. The feedback will help us identify what works, what needs to change, and how we can make the technology work well for its users.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will share further updates as testing progresses and more capabilities become available.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Take part in testing\u00a0\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "If you are a registered DVSP, you can help us test the technology in a controlled environment. Email digital.identity.register@dsit.gov.uk to register your interest.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/11/10/testing-secure-and-scalable-checks-against-the-dvs-register/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "We have started testing the technology that will allow organisations to check information on the digital verification services (DVS) register securely and at scale. We will test capabilities in phases, with the first phase expected to last 2 weeks.\u00a0\u00a0 Phase \u2026"
+    },
+    {
+        "title": "When fire devasted our school, the RPA was there",
+        "authors": [
+            "Mungo Sheppard, Headteacher, Ash Green Community Primary School"
+        ],
+        "posted_on": "2026-11-10T12:29:57",
+        "categories": [
+            "Advice and support",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "On 1 February 2022, an arson attack destroyed the entire key stage 2 block at Ash Green Community Primary School in Calderdale.",
+                "tag": "p"
+            },
+            {
+                "content": "Mungo Sheppard, headteacher at Ash Green Community Primary School talks about how being a member of the Department for Education\u2019s (DfE\u2019s) Risk Protection Arrangement (RPA) \u2013 the department\u2019s alternative to commercial insurance, supported his school to rebuild after this devastating arson attack.",
+                "tag": "p"
+            },
+            {
+                "content": "That night we were incredibly fortunate that fire crews arrived quickly, managing to save the rest of the school. Our fire doors also played a crucial role in containing the blaze. Even so, a large part of the building was gone. The rest had smoke and water damage.",
+                "tag": "p"
+            },
+            {
+                "content": "Our school is a member of the DfE\u2019s Risk Protection Arrangement (RPA), calling them was top of my list that night. Their support was immediate. Together with our local authority, they guided us through a salvage operation that started straight away. That meant partial demolition and temporary repairs so we could keep going.",
+                "tag": "p"
+            },
+            {
+                "content": "I cannot overstate how much that mattered. I did not have to work out what to do alone while dealing with a crisis. Today, we are fully rebuilt, with all our children back on the original site, but it has been quite a journey.",
+                "tag": "p"
+            },
+            {
+                "content": "Building a village of cabins",
+                "tag": "h3"
+            },
+            {
+                "content": "It was a strange process, starting with quite literally fighting fires. The initial phase was all about addressing operational and strategic needs with the long-term goal of rebuilding bigger and better.",
+                "tag": "p"
+            },
+            {
+                "content": "In the aftermath of the fire, we were fortunate to have an incredible team working with us, including colleagues from the RPA and strategic leaders managing the project. We moved about a third of the pupils to our lower site and some to other sites in the community that had opened up to us. We provided learning and food packs to the remaining children.",
+                "tag": "p"
+            },
+            {
+                "content": "The first few weeks were intense, balancing the care of our children with the massive task of clearing the site and auditing everything lost in the fire. Teams worked tirelessly, taking down ceilings, removing floors, and addressing water damage. Every computer was meticulously cleaned and tested. Security was maintained 24/7, and demolition companies began removing dangerous structures.",
+                "tag": "p"
+            },
+            {
+                "content": "Other local schools offered us places and we were grateful, but our community wanted to stay together. By the end of February half term, all children were back on our upper site, in cramped but workable rooms.",
+                "tag": "p"
+            },
+            {
+                "content": "The next phase involved setting up portable cabins and within three weeks, we had a new kind of village with classrooms, intervention spaces, and all necessary facilities. The children and volunteers from the community all helped move the new resources to start working in those portable cabins.",
+                "tag": "p"
+            },
+            {
+                "content": "It felt like running two roads at once. One was keeping school going day to day, the other was a huge building project. Weekly meetings with architects, the Department for Education and the local authority kept both moving.",
+                "tag": "p"
+            },
+            {
+                "content": "As we moved into 2023, the demolition of the old building left a huge void where the school used to be. Seasonal changes brought new challenges, like setting up scaffolding corridors to protect children from harsh weather.",
+                "tag": "p"
+            },
+            {
+                "content": "By summer 2023, we had put the project out to tender, we were determined to provide the best possible environment for our children.",
+                "tag": "p"
+            },
+            {
+                "content": "The children had a front-row seat. From their cabins, they watched their new school rise. We took them to see the foundations when it was safe. We also ran virtual tours for pupils and families. The excitement grew with every update.",
+                "tag": "p"
+            },
+            {
+                "content": "The difference it made",
+                "tag": "h3"
+            },
+            {
+                "content": "We were all thrilled as the project progressed, and with the support of the RPA. In July 2024, we held an opening ceremony. Seeing the children's faces on their first day in the new classrooms was priceless.",
+                "tag": "p"
+            },
+            {
+                "content": "Now we have this incredible building, the first net zero building in Calderdale, which is doing so much good for our environment. It\u2019s the smartest, newest school building in the area, and it\u2019s been an amazing piece of work. Talking about it makes me feel humble but immensely proud.",
+                "tag": "p"
+            },
+            {
+                "content": "Our new extension fits in with the old Victorian building. It has extra solar panels and is the first net zero building in Calderdale. We even gained more playground space.",
+                "tag": "p"
+            },
+            {
+                "content": "The whole journey took 30 months. It felt like the longest 2 and a half years of my career. But it brought our community closer together in amazing ways. Our children are in this incredible building, giving us a brighter future.",
+                "tag": "p"
+            },
+            {
+                "content": "You can hear more about Mungo's experience of being an RPA member when he joins the RPA Power Hour webinar on 19 November at 2pm.",
+                "tag": "p"
+            },
+            {
+                "content": "Register to join the Power Hour.",
+                "tag": "p"
+            },
+            {
+                "content": "Has your school or trust joined the Risk Protection Arrangement yet? The RPA is open to state-funded schools and academy trusts across England. Joining gives you cover and support to help you recover if the worst happens as well as other benefits. Find out more and join on GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Any savings, benefits and outcomes described in this blog were provided by Ash Green Community Primary School and reflect its specific experience and circumstances. Individual results will vary between schools and trusts.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2026/11/10/when-fire-devasted-our-school-the-rpa-was-there/",
+        "blog": "Maximising Value for Pupils (Max VP)",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "On 1 February 2022, an arson attack destroyed the entire key stage 2 block at Ash Green Community Primary School in Calderdale. Mungo Sheppard, headteacher at Ash Green Community Primary School talks about how being a member of the Department \u2026"
+    },
+    {
+        "title": "Designing an AI assistant people can trust",
+        "authors": [
+            "Farhana Abdul Alim"
+        ],
+        "posted_on": "2026-11-10T12:14:00",
+        "categories": [
+            "AI",
+            "Defra digital"
+        ],
+        "content": [
+            {
+                "content": "The problem we set out to solve",
+                "tag": "h2"
+            },
+            {
+                "content": "When someone at Defra has an idea for how to use artificial intelligence (AI), how do they know if AI is suitable, and who can help? We built two connected features in the Defra AI digital toolkit. The first, \u201cCheck if AI is right for your idea\u201d, helps people assess their ideas. The second, 'Ask the Toolkit', answers questions using the toolkit\u2019s own guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "Here, I\u2019ll explain how we designed the Ask assistant to help people find guidance, check answers and get support when they need it.",
+                "tag": "p"
+            },
+            {
+                "content": "See Ask the Toolkit in action",
+                "tag": "h2"
+            },
+            {
+                "content": "Here\u2019s how it works in practice. We asked, \u201cHow do I decide whether AI is the right approach for my service?\u201d The answer suggests checking whether a simpler option, such as a search, a formula or a script, would do the job better. It also explains how the AI Capability and Enablement team scores requests.",
+                "tag": "p"
+            },
+            {
+                "content": "We then asked a follow-up: \u201cCan you give me an example of a good and a bad use case?\u201d The assistant understood we were still talking about AI suitability. It gave examples from the toolkit\u2019s pilots, such as checking expenses claims against policy. It also explained what makes a poor fit: tasks with one right answer every time, or where the data is hard to reach.",
+                "tag": "p"
+            },
+            {
+                "content": "Each answer ends with \u201cGuidance used\u201d links to the toolkit pages it drew on, so people can check the source. It also reminds them that AI can make mistakes and offers a way to report a problem or get help from a person.",
+                "tag": "p"
+            },
+            {
+                "content": "Check the answer against the source",
+                "tag": "h2"
+            },
+            {
+                "content": "Our guiding principle was that giving a wrong answer about a rule is the failure that matters most. An AI language model can sound confident while explaining a policy incorrectly. So, we check its answer before showing it to the user.",
+                "tag": "p"
+            },
+            {
+                "content": "We run two checks first. We remove any source link that does not point to a page provided by our service. We also check quoted rules against the source page. A quotation only appears if its exact words are on that page. If the model has used different words, we remove the quotation and show a plain explanation with a link instead.",
+                "tag": "p"
+            },
+            {
+                "content": "Sometimes that means a less impressive answer, and that\u2019s deliberate. We would rather show less information than present a rewritten explanation as the policy\u2019s own wording.",
+                "tag": "p"
+            },
+            {
+                "content": "Designing for when things go wrong",
+                "tag": "h2"
+            },
+            {
+                "content": "We designed the difficult cases first, because that\u2019s where trust is won or lost. The assistant has a separate heading and message for each outcome: answered, needs more detail, cannot answer, talk to a person, blocked and error.",
+                "tag": "p"
+            },
+            {
+                "content": "Wording mattered more than we expected. When a question is blocked, we avoid words like \u201cflagged\u201d or \u201cfiltered\u201d. These can sound like an accusation to someone unfamiliar with the technology.",
+                "tag": "p"
+            },
+            {
+                "content": "Feedback from people who tested the service helped us improve the wording. \u201cThe toolkit does not cover this yet\u201d left people stuck. The message now encourages them to contact the AI Capability and Enablement team.",
+                "tag": "p"
+            },
+            {
+                "content": "We also changed what happens when an answer fails. The user sees an error message at the top of the page, and their question stays in the box. We do not add the failed answer to the conversation.",
+                "tag": "p"
+            },
+            {
+                "content": "Small details that carry weight",
+                "tag": "h2"
+            },
+            {
+                "content": "Several changes I'm proudest of are tiny:",
+                "tag": "p"
+            },
+            {
+                "content": "Running tests before the AI model was ready",
+                "tag": "h2"
+            },
+            {
+                "content": "We built the Ask feature with prepared answers before the AI model was ready. A setting let us switch these on for quality assurance, and the service matched keywords in questions to those answers. This let us review the wording, check accessibility and run through every outcome before connecting a working AI model.",
+                "tag": "p"
+            },
+            {
+                "content": "Assistant, not autopilot",
+                "tag": "h2"
+            },
+            {
+                "content": "I see AI as an assistant, not an autopilot. It can help you find information and spend less time searching, but it does not replace professional judgement. Check the source, consider the context and remain responsible for how you use the answer.",
+                "tag": "p"
+            },
+            {
+                "content": "Ask the Toolkit is one of Defra\u2019s first public-facing AI tools. We have deliberately started with a clearly defined use case so we can test it carefully, learn from how people use it and strengthen security before applying what works elsewhere.",
+                "tag": "p"
+            },
+            {
+                "content": "Making the service public also lets us show our approach to AI in practice: begin with a real need, use trusted guidance, test carefully and keep people accountable for the outcome.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "h2"
+            },
+            {
+                "content": "Farhana Abdul Alim is a Software Developer in the AI Capability and Enablement team.",
+                "tag": "p"
+            },
+            {
+                "content": "Farhana plans to write a follow-up blog, where she will explore how she built the Ask assistant and considered different ways for users to prove their identity.",
+                "tag": "p"
+            },
+            {
+                "content": "If you're interested in finding out more about what we do in Defra Digital Data Technology and Security\u00a0check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow?",
+                "tag": "p"
+            },
+            {
+                "content": "Like what you read?\u00a0Subscribe to the blog\u00a0for all the latest updates.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2026/11/10/designing-an-ai-assistant-people-can-trust/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "How do you design an AI assistant people can trust? Farhana Abdul Alim and her colleagues in the AI Capability and Enablement team explore how source checks, thoughtful wording and accessibility testing shaped Defra\u2019s Ask the Toolkit keeping people, not AI, responsible for the outcome."
+    },
+    {
+        "title": "Asset management funding to help councils strengthen their cyber resilience",
+        "authors": [
+            "The Local Digital team"
+        ],
+        "posted_on": "2026-11-10T09:27:04",
+        "categories": [
+            "Local Digital"
+        ],
+        "content": [
+            {
+                "content": "Strengthen your council's cyber resilience with \u00a350,000 of funding and specialist support to improve your asset management and cyber resilience.",
+                "tag": "p"
+            },
+            {
+                "content": "Local Digital is launching a new asset management support offer to help English councils and mayoral strategic authorities improve their asset management capabilities and strengthen their cyber resilience.",
+                "tag": "p"
+            },
+            {
+                "content": "Through the Cyber Assessment Framework (CAF) for local government, we have identified maintaining an accurate view of the technology systems, devices, software and digital services operating across their council as a common challenge.",
+                "tag": "p"
+            },
+            {
+                "content": "Effective asset management is foundational to wider cyber security and resilience. Without effective asset management, councils may be unable to secure, maintain or recover critical assets, increasing their exposure to cyber threats.",
+                "tag": "p"
+            },
+            {
+                "content": "To help address this challenge, Local Digital is launching a new asset management support offer for councils and mayoral strategic authorities.",
+                "tag": "p"
+            },
+            {
+                "content": "The asset management support offer forms part of Local Digital's wider support for councils. We are launching it alongside a second round of CAF support funding, which will allocate up to \u00a37 million in grants for up to 50 councils that have completed their CAF assessment, helping them accelerate improvements to their cyber resilience.",
+                "tag": "p"
+            },
+            {
+                "content": "About the asset management support",
+                "tag": "h2"
+            },
+            {
+                "content": "The support is designed to help councils strengthen and accelerate their asset management capability, reducing their cyber risk.",
+                "tag": "p"
+            },
+            {
+                "content": "The programme will provide a combination of funding and specialist support to help councils:",
+                "tag": "p"
+            },
+            {
+                "content": "Successful councils will receive:",
+                "tag": "p"
+            },
+            {
+                "content": "Councils will receive support tailored to their starting point and current asset management capability.",
+                "tag": "p"
+            },
+            {
+                "content": "The funding can support councils to increase their asset management capability by helping them to:",
+                "tag": "p"
+            },
+            {
+                "content": "Councils will be expected to make significant progress over the next 12 months, aligned with the Indicators of Good Practice (IGP) in the CAF for local government. Depending on their starting point, councils will be expected to work towards meeting the IGPs for asset management.",
+                "tag": "p"
+            },
+            {
+                "content": "We also welcome applications from councils that consider themselves to have already met the IGPs for asset management. Strong asset management provides a foundation for wider cyber resilience. This support can help councils build on that foundation and drive further improvements in areas such as vulnerability management and supply chain security.",
+                "tag": "p"
+            },
+            {
+                "content": "Join the webinar on Tuesday, 1 December, at 10am to:",
+                "tag": "p"
+            },
+            {
+                "content": "Council eligibility",
+                "tag": "h2"
+            },
+            {
+                "content": "How to apply for asset management funding",
+                "tag": "h2"
+            },
+            {
+                "content": "Applications are now open. To apply for asset management funding, complete the form by Friday, 18 December.",
+                "tag": "p"
+            },
+            {
+                "content": "Applications will be reviewed in January 2027. Funding will then be awarded with support starting from February 2027.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any questions about the asset management support offer, email caf@localdigital.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "Stay in touch",
+                "tag": "h2"
+            },
+            {
+                "content": "You can keep up to date with our cyber work by:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/11/10/asset-management-funding-for-councils/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Local Digital is launching a new asset management support offer to help English councils and mayoral strategic authorities improve their asset management capabilities and strengthen their cyber resilience. This blog post shares how councils can apply for funding."
+    },
+    {
+        "title": "Woodland carbon and productive forestry: how the Woodland Carbon Code works in practice",
+        "authors": [
+            "Mark Broadmeadow"
+        ],
+        "posted_on": "2026-11-10T08:00:00",
+        "categories": [
+            "Carbon"
+        ],
+        "content": [
+            {
+                "content": "The Woodland Carbon Code has been part of the UK\u2019s land use landscape for 15 years. I have been involved in its development and governance since it was introduced, nearly 20 years ago. ",
+                "tag": "p"
+            },
+            {
+                "content": "It was created to help bring private finance into woodland creation, while maintaining the high standards expected of a high quality carbon scheme. At the time of its introduction, the domestic woodland carbon market could have been described as the 'wild west', and was suffering serious criticism in the media.",
+                "tag": "p"
+            },
+            {
+                "content": "Interest in carbon markets and domestic timber is growing. Along with that interest come questions about what kind of woodland the code supports, particularly whether it supports productive and commercial forestry. These are fair questions. Woodland creation involves long-term investment, a mix of public grants and private finance, and a regulatory framework designed to protect environmental standards.",
+                "tag": "p"
+            },
+            {
+                "content": "What is additionality and why does it matter?",
+                "tag": "h2"
+            },
+            {
+                "content": "At the heart of the code is a principle called additionality. This means that carbon units must represent a genuine reduction in atmospheric carbon dioxide, one that would not have happened without carbon finance.",
+                "tag": "p"
+            },
+            {
+                "content": "The code applies 2 tests:",
+                "tag": "p"
+            },
+            {
+                "content": "For commercial forestry, financial additionality is often the most important consideration. If a productive woodland would be viable through timber income and public grants alone, then issuing carbon units for it would undermine the credibility of the carbon credit and the scheme itself.",
+                "tag": "p"
+            },
+            {
+                "content": "This discipline is precisely why the code has become a respected and robust scheme. It\u2019s the first government\u2011run carbon standard to reach the full assessment process of the Integrity Council for the Voluntary Carbon Market, a body that assesses the quality of carbon credit schemes worldwide. Weakening the financial additionality test would put this credibility, and the code\u2019s support for productive forestry, at risk. Some within the commercial forestry sector feel that it is 'stacked' against them. The grant figures later show why that\u2019s not the case, and what it takes to pass it.",
+                "tag": "p"
+            },
+            {
+                "content": "Productive forestry in context",
+                "tag": "h2"
+            },
+            {
+                "content": "People often assume that commercial plantations dominate England\u2019s woodland. In reality, they don\u2019t. Conifers currently make up around 23% of England\u2019s woodland area, down from about 28% in 2010.1 This is reflected in the 50\u2011year softwood availability forecast, meaning the UK may have less home-grown softwood in future, at a time when global demand for timber is expected to rise sharply.",
+                "tag": "p"
+            },
+            {
+                "content": "Since 2000, England has created 85,690 hectares of new woodland. Of that, only 6,140 hectares is conifer.2 That gap is often overlooked.",
+                "tag": "p"
+            },
+            {
+                "content": "Given this, supporting a domestic supply of both timber and carbon is strategically important. The real challenge is not whether we should support productive forestry but how to make sure carbon finance goes only to projects that genuinely need it.",
+                "tag": "p"
+            },
+            {
+                "content": "Grants and financial additionality",
+                "tag": "h2"
+            },
+            {
+                "content": "The way woodland creation grants and carbon finance interact is often misunderstood, especially for productive or conifer\u2011dominated schemes.",
+                "tag": "p"
+            },
+            {
+                "content": "Woodland creation grants are more generous in England than in Scotland and Wales, reflecting England\u2019s economic situation and the value of land. For example, the England Woodland Creation Offer provides:",
+                "tag": "p"
+            },
+            {
+                "content": "On poorer land, and with fast\u2011growing species such as Sitka spruce, it can be difficult to show that the woodland wouldn\u2019t be planted without carbon finance. Because of this, the code limits how much grant a project can claim. This is based on a transparent cashflow assessment that considers:",
+                "tag": "p"
+            },
+            {
+                "content": "This transparent process also means third-party validators can scrutinise projects without having to pick through endless financial models and statements.",
+                "tag": "p"
+            },
+            {
+                "content": "A project can always pass the financial additionality test; where the level of grant support would otherwise prevent a project from passing the financial additionality test, accepting a lower grant will enable it to pass. The appropriate combination of public funding, carbon finance and private investment will depend on the economics of the individual project. This makes sure carbon finance goes where it makes a real difference, without replacing investment that would have happened anyway.",
+                "tag": "p"
+            },
+            {
+                "content": "Illustrative grant outcomes by woodland type",
+                "tag": "h2"
+            },
+            {
+                "content": "The table below shows how much grant a 100\u2011hectare woodland creation project in England could claim, per hectare, depending on land quality and species mix, while still passing the financial additionality test. These figures assume mid-range establishment costs.",
+                "tag": "p"
+            },
+            {
+                "content": "*Good land quality is defined as Agricultural Land Classification grades 1, 2 and 3; poor is defined as grades 4 and 5.",
+                "tag": "p"
+            },
+            {
+                "content": "These figures make an important point: productive woodland is supported, but grant levels and carbon finance must reflect its underlying economics. Designing a scheme to maximise short\u2011term grant income won\u2019t always give you the best long\u2011term woodland value or timber returns.",
+                "tag": "p"
+            },
+            {
+                "content": "Sitka spruce, as the mainstay of the commercial timber sector, generally grows faster and has a shorter rotation than other conifers, so it\u2019s treated differently in the financial additionality test. Even in a woodland managed for timber, adding a wider mix of species can significantly affect the level of grant you can claim, while still passing the test. Diversifying the species mix will also make the woodland more resilient to the effects of climate change and to pest and diseases.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting consent and funding without delay",
+                "tag": "h2"
+            },
+            {
+                "content": "Creating a new woodland in the UK is regulated to meet Environmental Impact Assessment regulations and the requirements of the UK Forestry Standard. The Forestry Commission bases consent decisions on evidence, not simply on the number of objections received. We\u2019ve published maps showing areas with no known sensitivities for woodland creation, which can help you choose planting sites where getting consent should be more straightforward.",
+                "tag": "p"
+            },
+            {
+                "content": "You can get funding through the Woodland Creation Planning Grant to help develop compliant well\u2011designed proposals. Where a site is straightforward and planting stock has been ordered, planting within a year of application is achievable.",
+                "tag": "p"
+            },
+            {
+                "content": "The key to a fast decision is choosing a site without sensitivities and preparing a plan with all the necessary information from the start. To support this, the Forestry Commission has introduced:",
+                "tag": "p"
+            },
+            {
+                "content": "How long does woodland carbon last?",
+                "tag": "h2"
+            },
+            {
+                "content": "A common concern among investors is how durable woodland carbon really is.",
+                "tag": "p"
+            },
+            {
+                "content": "Woodland is a permanent land use in the UK, as set out in the 1967 Forestry Act and 1998 Environmental Impact (Forestry) Regulations. Tree carbon stocks change through thinning, harvesting and restocking, but the land itself stays as woodland. To reflect this, the code limits the number of woodland carbon units it issues, based on how the woodland is managed, so units reflect the long-term increase in carbon stocks, averaged over several management cycles, rather than the highest carbon stock at maturity.",
+                "tag": "p"
+            },
+            {
+                "content": "The code also manages risk through a pooled buffer. 20% of all woodland carbon units issued go into this buffer and are never sold. It covers the small number of permanent losses caused by development or severe natural disturbance. On top of this, the number of units a project can claim is reduced by a further 20% at the planning stage to prevent projects overestimating their carbon savings.",
+                "tag": "p"
+            },
+            {
+                "content": "Recent analysis looked at current rates of permanent woodland loss from development and natural disturbance. It found that woodland carbon under the code lasts for an estimated 2,300 years. This makes it one of the most durable, nature\u2011based, carbon options available.",
+                "tag": "p"
+            },
+            {
+                "content": "The Woodland Carbon Code and harvested wood products",
+                "tag": "h2"
+            },
+            {
+                "content": "Of course, when trees are harvested, much of the carbon remains as \u2018harvested wood products\u2019 in some cases for many decades or even centuries, representing another pool of durable carbon. However, the code only accounts for carbon within the forest boundary, where it can be measured and independently verified. The UK\u2019s national greenhouse gas inventory does include harvested wood products, but the code operates at a project scale.",
+                "tag": "p"
+            },
+            {
+                "content": "Currently, it is not possible to track individual timber batches through mills, into finished products, and through their working life, without risking double counting. If woodland owners could claim carbon in harvested wood products, the businesses using that timber further down the supply chain couldn\u2019t also claim a carbon credit for using low-carbon materials. This would undermine their own low-carbon claims.",
+                "tag": "p"
+            },
+            {
+                "content": "However, Grown in Britain has published the Biogenic Stored Carbon Quotient, the UK\u2019s first certification scheme to measure and verify how much carbon is stored long-term in buildings using timber and other biogenic materials.",
+                "tag": "p"
+            },
+            {
+                "content": "For now, keeping the boundary at the forest gate is essential for maintaining confidence in the carbon units issued and the reputation of the code.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "The code supports native, mixed and productive woodland, as long as carbon finance and public funding are applied proportionately and reported transparently. Its strength lies in its consistency, credibility and conservative design. Maintaining these safeguards will also be essential as government explores new ways of giving woodland creators greater certainty over future carbon revenues, while attracting more private investment into woodland creation.",
+                "tag": "p"
+            },
+            {
+                "content": "As the UK looks to scale up woodland creation and attract private finance, the challenge isn\u2019t choosing between carbon, timber or nature. It\u2019s about aligning all three in a way that maintains trust and long\u2011term value.",
+                "tag": "p"
+            },
+            {
+                "content": "For landowners and investors, well\u2011designed woodland remains a resilient, long\u2011term asset, delivering carbon, timber and wider public benefits within a robust and trusted framework.",
+                "tag": "p"
+            },
+            {
+                "content": "Having worked on the code from the start, I\u2019m confident that maintaining its credibility is what will support confidence for investors into the future.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2026/11/10/woodland-carbon-and-productive-forestry-how-the-woodland-carbon-code-works-in-practice/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Mark Broadmeadow, Head of Climate Change at the Forestry Commission, explains how the Woodland Carbon Code works, why certain safeguards exist, how productive and commercial forestry fit within the scheme and addresses some common misconceptions."
+    },
+    {
         "title": "How should schools prepare for snow, storms and flooding, and will they close?",
         "authors": [
             "Media Officer"
