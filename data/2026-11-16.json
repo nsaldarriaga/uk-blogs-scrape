@@ -1,5 +1,599 @@
 [
     {
+        "title": "Commercial arrangements for digital proof of age for alcohol\u00a0\u00a0",
+        "authors": [
+            "Paul Donati"
+        ],
+        "posted_on": "2026-11-17T17:51:32",
+        "categories": [
+            "Digital proof of age",
+            "OfDIA team"
+        ],
+        "content": [
+            {
+                "content": "The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2026 is now in force. It enables licensed premises and club premises with a certificate in England and Wales to accept digital proof of age when selling or supplying alcohol, provided they comply with the legal requirements and any local licensing conditions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One of the requirements under the legislation is that the \u201cresponsible person\u201d for the licensed premises or premises holding a club premises certificate must be covered by an agreement with a registered digital verification service provider (\u201cDVSP\u201d) for the provision of digital verification services. The legislation calls this provider the \u201crelevant DVSP\u201d.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our previous posts have explored how digital proof of age can work for alcohol sales from a number of different angles. In this blog post, we look at another area that providers and businesses interested in digital proof of age for alcohol sales have asked us about: how the requirement for an agreement might apply to different technical and commercial models, including where more than one DVSP is involved.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The responsible person must be covered by an agreement with a registered DVSP\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "When a customer chooses to use a digital proof of age, the responsible person may accept it only where they are covered by an agreement with a registered DVSP for the provision of digital verification services.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Under the legislation, that agreement must include a requirement that the DVSP will deliver digital proof of age to the responsible person which:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In simple terms, a \u201clevel of confidence\u201d indicates how sure the DVSP is that the customer is who they say they are. You can read more about the \"medium\" level of confidence in our previous blog.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You do not need separate agreements with customers\u2019 DVSPs\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Where more than one DVSP is involved in producing or checking a digital proof of age, the responsible person does not need to be covered by separate agreements with each DVSP. Instead, they must be covered by an agreement with the DVSP for delivery of digital proof of age.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The legislation recognises that the required level of confidence may have been verified either by the DVSP delivering the digital proof of age to the responsible person, or by another registered DVSP.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Different technical and commercial models may involve multiple DVSPs. The legislation does not prescribe a particular model, provided the statutory requirements are met.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where the verification of a digital form of identification involves one or more intermediary DVS, the statutory guidance recommends that the agreement between the licence or certificate holder and the delivering DVS makes it clear that any intermediary DVS must be a certified and registered DVS. This will help to provide reassurance that any digital form of identification meets the necessary requirements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The legislation does not prescribe a particular form of contract\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Neither the legislation nor the DVS trust framework specifies that the agreement must take the form of a freestanding, separately signed contract.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The requirement is that the responsible person is covered by an agreement with the relevant registered DVSP containing the necessary provisions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Depending on the commercial model, those provisions may, for example, be incorporated into standard terms and conditions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What matters is not the title or format of the document, but that the requirements in the legislation are met.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The legislation remains technology-neutral\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The legislation sets out the conditions which must be met in order to accept digital proof of age in this context, but does not prescribe a specific technical approach for how licence and certificate holders implement these requirements in practice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It also does not prescribe how contractual arrangements should be structured, as the appropriateness of particular contractual terms will depend on the specific circumstances and commercial arrangements of the parties involved. Organisations should consider their own circumstances and seek independent legal advice where appropriate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This flexibility allows different technical and commercial models to develop while ensuring that the statutory safeguards continue to apply.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about digital proof of age for alcohol sales\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "You can also read our previous posts on:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/11/17/commercial-arrangements-for-digital-proof-of-age-for-alcohol/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2026 is now in force. It enables licensed premises and club premises with a certificate in England and Wales to accept digital proof of age when selling or supplying alcohol, provided \u2026"
+    },
+    {
+        "title": "Healthcare innovation: making it work in the real world",
+        "authors": [
+            "sshah"
+        ],
+        "posted_on": "2026-11-17T14:40:33",
+        "categories": [
+            "Artificial Intelligence",
+            "Data",
+            "Data science",
+            "Healthcare",
+            "Innovation"
+        ],
+        "content": [
+            {
+                "content": "Why do some innovations fail? Even the best inventions can be hindered when it comes to adoption, integration and delivery. This can happen when risk has not been assessed and addressed before an innovation is rolled out in the real world.There is no shortage of good ideas in healthcare. The difficult bit is turning them into something that genuinely works for patients, staff and the wider system.In his latest article, ACE Healthcare Customer Engagement Lead Waleed Backler explores what de-risking innovation means for the healthcare sector and why identifying risks, testing assumptions and learning early really matters.Read Waleed\u2019s original article on LinkedIn \u2013 Post | LinkedInTrying something genuinely different will always bring some uncertainty.At ACE, we test how healthcare innovation can support earlier diagnosis, timely intervention and more personalised care across the UK. We work in areas where we don\u2019t always have all the answers, so identifying risks, testing assumptions and learning early really matters.Innovation is not always invention.Too often innovation is confused with invention.Something can be new, exciting and technically impressive without necessarily solving the problem it was designed to address. Equally, innovation doesn\u2019t always have to involve inventing something completely new.It can mean applying existing technology differently, bridging a gap, improving a pathway or simply finding a better way of tackling an age-old problem.So, we need to start with the challenge and who it affects, not the technology.Why does the problem exist? What are we trying to change? And what would better actually look like?Genuine innovation happens when those questions can be answered and the solution leads to something that can make a meaningful difference in the real world. But identifying the right problem and developing a promising solution is only part of the challenge. Getting it adopted, integrated and scaled across healthcare is another.Testing in the real worldA solution must work for the people using it and should function within existing pathways, infrastructure and current ways of working. Something that works well in one setting may not necessarily work in another, and understanding those differences is an important part of the innovation process.This is why testing matters, so we can focus on solving real-life operational challenges and challenges faced by clinicians and patients, rather than simply demonstrating that the technology works.Moving quickly shouldn\u2019t mean deploying faster. It should mean testing assumptions, learning what works and adapting while there is still time to do so.We need to move from \u201cthis looks promising\u201d to \u201cwe understand where and how this can work and how it will make a difference.\u201dUnderstanding risk earlyUnderstanding the risks involved is an important part of that process, particularly for AI-enabled technologies.Risk doesn\u2019t suddenly appear at the point of deployment, and our understanding of it shouldn\u2019t start or stop there either.Crucially, this isn\u2019t about creating another barrier to innovation. It\u2019s about understanding the risks early enough to adjust and make better decisions. Sometimes discovering quickly that an approach isn\u2019t going to work is a valuable outcome in itself.That means starting with the problem, involving the right expertise early, testing assumptions in real-world settings and building evidence and learning into the process.Because if we only assess risk when a solution is ready to deploy, we may already have left it too late.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ace.blog.gov.uk/2026/11/17/healthcare-innovation-making-it-work-in-the-real-world/",
+        "blog": "Accelerated Capability Environment",
+        "blog_link": "https://ace.blog.gov.uk",
+        "description": "Why do some innovations fail? Even the best inventions can be hindered when it comes to adoption, integration and delivery. This can happen when risk has not been assessed and addressed before an innovation is rolled out in the real \u2026"
+    },
+    {
+        "title": "Our Chief Executive\u2019s speech to the Institute of Grocery Distribution (12 November 2026)",
+        "authors": [
+            "Katie Pettifer, Chief Executive"
+        ],
+        "posted_on": "2026-11-17T13:05:45",
+        "categories": [
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "FSA Chief Executive Katie Pettifer addressed the Institute of Grocery Distribution\u2019s Food Safety and Resilience Conference on Thursday 12 November. ",
+                "tag": "p"
+            },
+            {
+                "content": "Katie argued that as food safety risks become more complex, interconnected and unpredictable, the UK food system must shift from reacting to incidents to preventing them through better intelligence, risk-based regulation, and close collaboration between industry, government and regulators.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Speech as follows:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Building a More Resilient Food System: Collaboration, Prevention and Preparedness in Times of Volatility\u2019\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Good morning, everyone. It's a pleasure to be here with many familiar faces, and hopefully a chance to meet many more of you today.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The people in this room keep the food system running, day in, day out. So, first of all, thank you for the great work you do, and for the chance to spend some time with you this morning.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m not going to say anything today that you don\u2019t already know.\u00a0 The collective knowledge of the food system in this room is vast.\u00a0 But I will try to set out how we\u2019re looking at food system resilience at the FSA, and how we can work together with others in government, with local authorities and with you to achieve it.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Because resilience in the food system is a topic which informs so much of what we do: from future food regulation to approving innovative new food products for the market. For us, resilience and food safety go hand in hand - and I think that\u2019s a good place to start.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why resilience matters more than ever\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ten or fifteen years ago the operating environment for the food system felt a bit more predictable. Incidents, costs, and competition have, of course, always been part of the landscape, but pressures perhaps felt steadier and more predictable. But that's not the world we're in anymore.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Global shocks to the system have become the new normal. What used to feel exceptional is becoming routine. Whether it\u2019s geopolitical instability disrupting trade and supply; economic pressure on businesses and households, or climate-related impacts on agricultural production. Food safety risks are emerging, and evolving, ever more rapidly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I know that none of this is news to you, but let me put some numbers around it, because I think they're striking.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last year, the FSA dealt with more than 1,800 food and feed safety incidents, while monitoring more than 12,500 intelligence signals across the food system. While that overall volume has stayed broadly stable, compared to previous years, the complexity and scale of incidents is rising year on year.\u00a0 We classify the incidents we deal with as low, medium or high priority.\u00a0 A few years ago, I\u2019d have been telling you that the low-priority incidents were the largest group.\u00a0 Last year around 90% were medium or high.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s not only incidents that are becoming more complex. Recent trends in foodborne disease point to growing underlying pressures in the system. The FSA's latest analysis confirmed that two of the four key pathogens we monitor, Campylobacter and Salmonella, exceeded our established thresholds for action, which has led to further investigation into the causes of those increases. ",
+                "tag": "p"
+            },
+            {
+                "content": "Together, these pathogens are responsible for more than 330,000 foodborne illnesses each year in the UK, with significant impacts on public health and the economy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This picture is reinforced by recent incidents. This year, for example, we\u2019ve taken action in response to an outbreak of Salmonella Enteritidis linked to imported eggs from a supplier in Ukraine, which triggered product withdrawals and recalls across the supply chain.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our engagement through the international food safety network, INFOSAN, is also up too, from 987 notifications to 1,147.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today's incidents increasingly cross organisational, geographic, and national boundaries. They pull in microbiologists, toxicologists, risk assessors, local authorities, international regulators and industry partners, often all at once, rather than sitting neatly within one business or one location.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A few examples from the last couple of years bring this to life better than any statistic.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The first is the E. coli outbreak linked to salad leaves which happened in 2024. The FSA and UKHSA investigated an outbreak of STEC O145 that was ultimately traced to lettuce used in ready-to-eat products. This was the largest ever STEC outbreak on record in the UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Two hundred and seventy-five cases were reported across the UK. Forty-nine per cent of those people were hospitalised. Seven people developed haemolytic uraemic syndrome and sadly two people died. These aren\u2019t just statistics, they\u2019re real lives.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A single ingredient, appearing in sandwiches, wraps and salads supplied through numerous retailers and manufacturers, meant that growers, processors, manufacturers, retailers, local authorities, UKHSA and the FSA all had to work together, at pace. Multiple product withdrawals and recalls followed across the country.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The outbreak also highlighted areas where we needed to improve, and since then the FSA and industry have worked closely together to apply the lessons learned, strengthen prevention measures and enhance our ability to detect and respond to emerging risks. I'm confident that those improvements are making a difference.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The second example is the peanut contamination of mustard ingredients which we were dealing with last year. This incident, for me, is a clear illustration of just how interconnected this system has become.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mustard ingredients supplied by one relatively small-scale company turned out to be potentially contaminated with peanut. A clear risk, obviously, to those with an allergy. ",
+                "tag": "p"
+            },
+            {
+                "content": "Those ingredients were already in spice blends, seasonings, ready meals, sauces, snacks, foodservice products and retail own-brand lines. An issue with one ingredient, cascading through multiple tiers of the supply chain, triggered an exceptionally large recall programme across many brands and retailers. This incident alone contributed to a 55% increase in FSA allergy alerts for that year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This was not just a contamination incident. It exposed a vulnerability in the system itself: we could not reliably trace the affected batches through the supply chain, and certainly not quickly enough, forcing us to advise people with a peanut allergy to avoid all products containing mustard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And once again, this year, we were reminded how wide-reaching a failure early in the supply chain can be, when contamination was identified in arachidonic acid oil supplied from China, an ingredient used in the manufacture of infant formula. Its effects were felt across the global market because multiple manufacturers relied on the same supplier for this ingredient.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It showed us that modern food systems are not only complex and globally interconnected but can also be dependent on a limited number of suppliers. When those single points of failure emerge, the consequences can quickly spread across supply chains, reducing resilience and affecting supply.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These incidents highlight an emerging reality for food regulation: resilience is no longer just about managing individual risks but understanding how risks interact across complex systems. Common dependencies can create hidden vulnerabilities, meaning that a failure in one supplier, ingredient or process can have system-wide consequences.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building resilience therefore requires us to look beyond individual businesses and products to better understand the interconnected nature of modern supply chains, identify critical points of dependence and work collectively to manage the risks they create.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This isn\u2019t just a passing phase. If we look ahead at potential future pressures, particularly the impact of extreme weather on agricultural production and supply availability it's clear that resilience will be vital to meet new challenges head-on.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What do we mean by food system resilience?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before I go further, it's worth pausing on what we actually mean by resilience, because all of us in this room may be looking at it through a slightly different lens.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you run a food business, resilience probably means commercial and financial resilience: can you keep operating, keep supplying, keep trading through disruption. If you're a technical leader, it probably means supply chain integrity and operational continuity: can you trust what's coming into your business and keep it moving safely. ",
+                "tag": "p"
+            },
+            {
+                "content": "At the FSA, our lens is food safety, authenticity and consumer protection: can people trust that the food on the shelves is safe, is what it says it is, and is accessible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These are different lenses, looking at the same system. At the FSA we find it useful to think about this in three layers:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There's global resilience: the wider environment of climate, politics, energy markets, transport and infrastructure, much of which sits outside any single organisation's control.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There's food system resilience: the ability of the system as a whole to anticipate, absorb and adapt to disruption.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And there's food safety resilience, which is the FSA\u2019s particular focus within that: safe, authentic food, and reliable consumer protection.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In terms of resilience, the question we all need to address is not whether future shocks will occur. We know they will. The question is whether we build a system capable of withstanding them and recovering quickly when they do.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Five building blocks of a resilient food system\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So let me set out how I think we do that. I want to talk about five building blocks. None of these will be new to you, but I think the combination is important.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "First: better intelligence and horizon scanning\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In a food system that\u2019s becoming more complex, interconnected and exposed to global shocks, we need a stronger understanding of the risks that may emerge in the months and years ahead.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That means investing in data, scientific evidence, international networks and analytical capability to identify changing patterns, detect early warning signs and understand what is coming down the track.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether the challenge comes from foodborne disease, climate change, geopolitical disruption, technological innovation or changing consumer behaviours, our ability to anticipate risk will increasingly determine our ability to respond effectively. ",
+                "tag": "p"
+            },
+            {
+                "content": "Building resilience starts with seeing risks sooner and understanding their potential impact.\u00a0 It\u2019s one of the areas where new technology has huge potential to help us \u2013 we've got tools available now that can help us analyse data and make connections at a far greater scale than we could ever do before.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But horizon scanning isn\u2019t something we can do in isolation, because these risks don\u2019t fall into neat boxes.\u00a0 The drivers of risk, and the consequences, cut across organisational boundaries.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "For example, the risks to food safety are often indivisible from risks to food supply.\u00a0 So, the FSA and Defra need to work as one on this within Government, and with our colleagues in Wales, Northern Ireland and Scotland.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Second: Regulation that uses intelligence effectively",
+                "tag": "p"
+            },
+            {
+                "content": "Gathering information is only valuable if it informs action. The goal is not simply to identify risks, but to use data and insight to prevent harm, target interventions where they are needed most, and take action before issues escalate into incidents. ",
+                "tag": "p"
+            },
+            {
+                "content": "This means applying intelligence-led and risk-based regulation, focusing resources on the areas of greatest concern while reducing unnecessary burdens elsewhere.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The development of the FSA's new food standards delivery model reflects this approach, using better data and intelligence to support more targeted, proportionate and effective regulatory interventions. By acting earlier and more precisely, we can strengthen consumer protection while making the regulatory system more resilient and responsive to change.\u200b\u200b\u200b\u200b\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Third: stronger preparedness",
+                "tag": "p"
+            },
+            {
+                "content": "How well you've prepared determines how well you respond to a risk in the system. We're reviewing and strengthening our own resilience planning, building readiness for increasingly complex incidents, and developing stronger cross-government and cross-sector coordination.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But I want to flag a new ambition here specifically: we want to exercise with industry, not just within government. Testing our assumptions together, before a crisis, rather than discovering the gaps in the middle of one.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That takes your participation in joint exercises and a willingness to share learning openly, including the challenging lessons. Preparedness can\u2019t be built during an emergency. It has to be built beforehand and built together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Fourth: effective incident management and response",
+                "tag": "p"
+            },
+            {
+                "content": "Even the most resilient system will experience unexpected events, the examples I opened with prove that. We're continually improving our response capability, learning systematically from incidents, and improving coordination and decision-making. We've built on some genuinely successful collaborative work with industry and with IGD already.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Incident management is wider than just the immediate action taken in incidents. The most critical part, if we\u2019re to strengthen resilience, is to take the learnings from each incident and use them to embed prevention throughout the food and animal feed chain.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Fifth: partnership, trust and shared responsibility",
+                "tag": "p"
+            },
+            {
+                "content": "All of the previous four building blocks depends on this one.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We need to understand different perspectives. As we\u2019ve been discussing, we each view resilience through a different lens, and understanding each other's view makes our collaboration stronger, not weaker.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building trusted information sharing is vital. I know there are real commercial sensitivities we need to be conscious of, and I don't underestimate the significance of this. ",
+                "tag": "p"
+            },
+            {
+                "content": "But we need to keep developing trusted ways of sharing information that will strengthen the resilience of the whole system, not just one part of it. Recognising that actions in one part of the system have consequences elsewhere, often far from where they originated. No single organisation sees the whole picture alone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On our side, that means continuing to build stronger partnerships, creating forums for collaboration like this one, and working with you to address shared risks directly. What we need from you is early engagement, openness, trust, and a willingness to solve problems jointly rather than at arm's length.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From response to prevention\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Assembling those five building blocks together, I want to put them in a strategic context.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Resilience conversations have historically focused heavily on response: how do we react well when something goes wrong. That remains important, and I'm not suggesting we stop investing in it. But increasingly, our collective effort has to be directed towards prevention, early warning, and early intervention.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A resilient food system isn't one that simply responds well to crises. It's one that prevents more of those crises from happening in the first place.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That shift to prevention is something we want to support in the FSA, and we want to do that in partnership with Defra, with colleagues across the UK and with everyone in this room.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we're asking of you\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So let me turn that into something more concrete. I have three practical asks.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "First, help us build stronger intelligence. Continue sharing your insights, your evidence, and your early sight of emerging risks. You often see things before we do.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Second, help us strengthen preparedness. Over the coming months and years, work with us, and others in government, to test and exercise our plans together, before we need them for real.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Third, help us deepen trust and find better ways to share information. We need to build a shared understanding of risk across the system, even where that information feels commercially sensitive. That trust has to be built in advance. It's tested in the moment, but it's built long before the incident occurs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The pressures on this system are not going away. Volatility is becoming the new normal, not a temporary disruption to business as usual.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "No regulator can solve that alone. No business or trade body can either. But together, we can build a system that's more resilient, better prepared, better informed and better connected.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The future resilience of our food system won't be determined by how any of us act alone. It will be determined by how effectively we work together to anticipate risk, prevent harm, and protect consumers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2026/11/17/our-chief-executives-speech-to-the-institute-of-grocery-distribution-12-november-2026/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "FSA Chief Executive Katie Pettifer addressed the Institute of Grocery Distribution\u2019s Food Safety and Resilience Conference on Thursday 12 November."
+    },
+    {
+        "title": "Safeguarding Should Help Us Live the Lives We Want",
+        "authors": [
+            "Dr Clenton Farquharson CBE"
+        ],
+        "posted_on": "2026-11-17T11:08:25",
+        "categories": [
+            "Events",
+            "Leadership",
+            "Our profession",
+            "Safeguarding",
+            "Society",
+            "Viewpoint"
+        ],
+        "content": [
+            {
+                "content": "Safeguarding should help us live the lives we want - blog by Dr Clenton Farquharson CBE",
+                "tag": "h3"
+            },
+            {
+                "content": "I am someone who draws on care and support and a former carer for my late mum. I employ personal assistants who help me live my life on my own terms.",
+                "tag": "p"
+            },
+            {
+                "content": "Feeling safe, for me, means being able to speak honestly without fear, ask for help without judgement, and have control over my everyday life. Safeguarding decisions affect our homes, relationships and freedom. A safeguarding plan should help me feel safe while protecting my relationships, choices and freedom.",
+                "tag": "p"
+            },
+            {
+                "content": "On the theme of co-production and shared decision-making, my starting point is simple: people must have real influence over decisions about their own lives.",
+                "tag": "p"
+            },
+            {
+                "content": "Start with the person and their life",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cHow do we keep this person safe?\u201d is an understandable question. But it can lead to decisions being made before we have understood the person and what they stand to lose.",
+                "tag": "p"
+            },
+            {
+                "content": "I want us to ask together: \u201cWhat matters to you? What helps you feel safe? What are you worried about? How can we support you to live the life you want?\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "For me, that includes being in my own home, spending time with family, contributing through work and making everyday choices. If a proposed plan made it harder to see my family or leave home, I would want people to understand what I would lose and explore alternatives with me.",
+                "tag": "p"
+            },
+            {
+                "content": "Being heard must lead to influence",
+                "tag": "h3"
+            },
+            {
+                "content": "Co-production means sharing power over how concerns are understood, what options are considered and what happens next. Inviting me to a meeting is a beginning. Can my contribution change the decision?",
+                "tag": "p"
+            },
+            {
+                "content": "I need information in a format that works for me, time to understand the options, and communication support where needed. I may want someone I trust alongside me. These arrangements should help me express my own wishes.",
+                "tag": "p"
+            },
+            {
+                "content": "I want to know how my views shaped the plan. If something I ask for cannot happen, explain why and explore alternatives with me.",
+                "tag": "p"
+            },
+            {
+                "content": "It can be difficult to challenge someone whose help you depend on every day. I need confidence that raising concerns will be taken seriously and will not lead to threats about losing support. Disagreeing with a plan should prompt a conversation about my reasons, rather than an assumption that I am being difficult.",
+                "tag": "p"
+            },
+            {
+                "content": "Stay alongside us when decisions are difficult",
+                "tag": "h3"
+            },
+            {
+                "content": "There will be difficult situations involving coercion or serious harm. Practitioners carry real responsibilities, and I recognise the judgement their work requires. Sharing decisions does not mean we will always agree.",
+                "tag": "p"
+            },
+            {
+                "content": "If you believe action is necessary, explain your concerns, what alternatives have been considered, what choices remain and how I can challenge the decision. Keep listening to what matters to me throughout.",
+                "tag": "p"
+            },
+            {
+                "content": "My life, relationships and support needs can change. I want to know who will stay in touch, when we will review the plan, and what will happen if it makes my life harder.",
+                "tag": "p"
+            },
+            {
+                "content": "Judge success by what changes in our lives",
+                "tag": "h3"
+            },
+            {
+                "content": "A safeguarding process can end while someone still feels frightened, isolated or unheard. Ask me whether I feel safer, whether I have kept the relationships that matter, and whether I have more control over my life. Ask whether anything done in the name of safety has made life harder.",
+                "tag": "p"
+            },
+            {
+                "content": "Our influence should also extend to designing safeguarding services and deciding how success is judged. When I share my experience to help improve services, I want support to do so and honest feedback about what changed.",
+                "tag": "p"
+            },
+            {
+                "content": "Making Safeguarding Personal ",
+                "tag": "h3"
+            },
+            {
+                "content": "This is what Making Safeguarding Personal means to me: protecting people from harm while making sure they have a real say in what happens next. A simple place to start is to ask,\u201cwhat would feeling safer look like for you?\u201d. We should then come back to that question, not just at the end of a safeguarding process, but throughout, to understand what has changed and whether the person feels safer, more in control and heard.",
+                "tag": "p"
+            },
+            {
+                "content": "For anyone wanting to keep this approach at the heart of their practice, these resources may be helpful:",
+                "tag": "p"
+            },
+            {
+                "content": "For me, person-shaped safeguarding starts with my life, relationships and communication needs, and shapes support around them. Its success should be felt in everyday life: greater safety, dignity, connection and the freedom to live a gloriously ordinary life.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialworkwithadults.blog.gov.uk/2026/11/17/safeguarding-should-help-us-live-the-lives-we-want/",
+        "blog": "Social work with adults",
+        "blog_link": "https://socialworkwithadults.blog.gov.uk",
+        "description": "Sarah McClinton, Chief Social Worker for Adults: I\u2019m delighted to introduce this thoughtful and personal blog from Dr Clenton Farquharson CBE, who is also a member of the National Adult Safeguarding Board. Drawing on his own experience of care and \u2026"
+    },
+    {
         "title": "Understanding Annex 1: A Harmonised Approach to Interpretation",
         "authors": [
             "grahamcarroll"
