@@ -1,5 +1,2150 @@
 [
     {
+        "title": "DHSC Search Medical Product Evidence Alpha Reassessment",
+        "authors": [
+            "Man-Yee Lam"
+        ],
+        "posted_on": "2026-11-18T16:57:36",
+        "categories": [
+            "Alpha",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From: DHSCAssessment date: 19/02/2026\u00a0Reassessment date:\u00a004/11/2026Stage:\u00a0Alpha Result:\u00a0Green at reassessmentService provider:\u00a0 DHSC",
+                "tag": "p"
+            },
+            {
+                "content": "Service description\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Service users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This service is for DHSC/NHSE employees, those mainly focussed on procurement.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Anticipated users of the service are:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Procurement Professionals will access the service to review evaluations, to gain insight into the best products available, compare products based on clinical outcomes, understand long-term value, rather than price alone to make informed value-based procurement decisions.\u00a0 Procurement Professionals are also expected to provide their own procurement documentation and contact information to help foster collaboration within their profession and assist clinicians.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Clinicians will access the service to review evaluations to gain an insight into products that are used by other NHS Trusts, understand the efficiency of products and compare products to assist Procurement Professionals with the choice of devices. Clinicians will also be expected to upload clinical evaluations and provide contact information to foster collaboration.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Suppliers will access the service to review evaluative documents relating to their products.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Things the service team has done well:\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 2 of the Standard.\u00a0\u00a0The team demonstrated a strong understanding of how Project Compass fits into the broader ecosystem of NHS procurement and the \"whole problem\" of value-based decision-making. Rather than acting as an isolated tool, the service is designed to bridge the gap between high-level clinical evidence and real-world Trust experience.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 3 of the Standard.\u00a0\u00a0The team has established clear entry points for the service through policy initiatives, digital service signposting (such as NHS Supply Chain), and community engagement. However, the automated communication journey remains largely untested.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "End-to-End Journey\u00a0While the service triggers automated emails for sign-up verifications and peer-to-peer contact alerts, the team acknowledged that the content, timing, and frequency of these notifications have not yet been validated with users.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Offline Integration\u00a0There is a clear \"Contact support\" call-to-action, but the specific design of the offline support journey and how user feedback from support tickets will iterate the service design is not yet fully defined.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The team demonstrated strong evidence of iterative design on the homepage to reduce cognitive load and define a clearer service proposition.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated amber for point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The team has been transparent regarding the significant accessibility barriers identified in research, specifically the challenges legacy document formats (PDFs, Excel) pose for users with screen readers or voice control software.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is amber because:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Updated Decision 04/11/2026\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated amber for point 6 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is amber because:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Updated Decision 04/11/2026\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 6 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The service was rated green for point 7 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve frequently\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 9 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 10 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 12 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common components and patterns\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The service was rated green for point 13 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "14. Operate a reliable service\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2026/11/18/dhsc-search-medical-product-evidence-alpha-reassessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "Read about the alpha reassessment of Search medical product evidence from DHSC"
+    },
+    {
+        "title": "Inaccurate reporting on the Visitor Levy",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-11-18T15:44:24",
+        "categories": [
+            "Devolution",
+            "Local government"
+        ],
+        "content": [
+            {
+                "content": "On 4 November, we introduced the Visitor Levy Bill in Parliament, which is the next step towards giving local leaders powers to invest in their high streets, cultural sites, and tourist attractions and boost their local economies.",
+                "tag": "p"
+            },
+            {
+                "content": "However, there has been media reporting suggesting that an overnight levy could add as much as \u00a3100 to a typical family break to London.",
+                "tag": "p"
+            },
+            {
+                "content": "This figure is misleading. For this to be true, a family would need to spend around \u00a32,000 on accommodation during their stay in London with a levy at 5%. And any estimated cost of a London levy is entirely hypothetical because London has not yet set out its exact plans for one.",
+                "tag": "p"
+            },
+            {
+                "content": "For a typical family break, we estimate the cost to be much lower, with a 1% levy adding around \u00a34 to the average three-to-four-night break for a family of four in England and a 5% levy adding around \u00a320. This is based on VisitBritain data on holidays with children in England.",
+                "tag": "p"
+            },
+            {
+                "content": "Reporting has also suggested that the levy could lead to 33,000 job losses. We don\u2019t recognise this figure, and it is based on uncertain assumptions about the impact of a levy on visitor spending.",
+                "tag": "p"
+            },
+            {
+                "content": "The levy is also designed so that decisions are taken locally, businesses must be consulted before a levy is introduced, and lower-cost stays will have proportionately low charges \u2013 protecting budget holidays and taking businesses\u2019 views into account. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And visitor levies are already commonplace internationally, including in cities in Germany, Italy and the United States.",
+                "tag": "p"
+            },
+            {
+                "content": "All the money raised will stay in the local area and can be reinvested to boost the visitor economy, including in transport, high streets, public spaces and events.",
+                "tag": "p"
+            },
+            {
+                "content": "We can already see the benefits of the levy in Greater Manchester, with a \u00a31 per room per night charge in 2023 raising \u00a32.8 million in its first year. The revenue raised has supported the city\u2019s success in hosting the first BRIT Awards to be staged outside of London, as well as the 2026 Women\u2019s Cricket World Cup, showing how impactful even a small charge can be for visitors and the local economy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Local leaders who choose to introduce a levy will be able to set out their plans for how the money raised would be invested from early 2028.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/11/18/inaccurate-reporting-on-the-visitor-levy/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "On 4 November, we introduced the Visitor Levy Bill in Parliament, which is the next step towards giving local leaders powers to invest in their high streets, cultural sites, and tourist attractions and boost their local economies. However, there has \u2026"
+    },
+    {
+        "title": "APHA's mapping experts are turning data into decisions",
+        "authors": [
+            "Stuart Mckay"
+        ],
+        "posted_on": "2026-11-18T15:00:00",
+        "categories": [
+            "Data analysis & modelling"
+        ],
+        "content": [
+            {
+                "content": "Many people associate geographic information systems (GIS) with maps. But in my work at the Animal and Plant Health Agency (APHA), I see that their real value is often in something much bigger: helping people turn complex data into information they can actually use.",
+                "tag": "p"
+            },
+            {
+                "content": "One of my favourite examples is ibTB, our free online mapping service for sharing information about bovine tuberculosis (bTB). ibTB has been around since 2015 and was developed to make detailed information about bTB incidents available at the individual herd level, helping farmers and others in the livestock industry make more informed decisions about disease risk and biosecurity.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over the last decade ibTB has continued to evolve. The recent introduction of bTB test history and movement information for individual animals \u00a0in England represents another major step forward in that journey. As we celebrate GIS Day, I thought it was a good opportunity to look at how ibTB has developed and some of the work that goes on behind the map.",
+                "tag": "p"
+            },
+            {
+                "content": "Why location matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Bovine TB remains one of the most significant animal health challenges facing Great Britain, with disease control costing taxpayers more than \u00a3150 million a year.",
+                "tag": "p"
+            },
+            {
+                "content": "But disease data is not just about numbers. It is also about place. Every herd and every disease incident has a location. Putting this information on an interactive map can make disease patterns and local risks much easier to understand than they might be from rows of data or a report.",
+                "tag": "p"
+            },
+            {
+                "content": "That thinking was fundamental to the development of ibTB, and in 2015 Defra committed to making detailed bTB information available at individual herd level so that farmers could make more informed, or \u201cknowledge-based\u201d, decisions about bTB biosecurity.",
+                "tag": "p"
+            },
+            {
+                "content": "Today, having this kind of information available online may not seem particularly unusual. But making disease information available geographically and at individual herd level gives farmers a new way of understanding the disease situation around them.",
+                "tag": "p"
+            },
+            {
+                "content": "Helping farmers make informed choices",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the important ideas behind ibTB is something called risk-based trading. Put simply, when farmers buy cattle, disease risk can be considered alongside the other information they use to make purchasing decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "ibTB allows the farming community to explore current bTB incidents as well as incidents that have closed during the previous ten years. This gives users a way of exploring both an individual herd's history and the wider disease picture in the surrounding area.",
+                "tag": "p"
+            },
+            {
+                "content": "The introduction of the Health Rating added another useful piece of information. It shows the number of years a herd has been clear of bTB, providing a simple measure designed to encourage informed trading.",
+                "tag": "p"
+            },
+            {
+                "content": "This is ultimately about giving users good quality information that allows them to make informed decisions. And farmers have certainly made use of the service. Since its launch, the site has been visited more than 1.5 million times and receives around 1,200 unique users each month, meaning 1,200 individual people visit the site, regardless of how many times each person visits.",
+                "tag": "p"
+            },
+            {
+                "content": "From herds to individual animals",
+                "tag": "h2"
+            },
+            {
+                "content": "Perhaps the most exciting recent development has been the move beyond information about herds to information about individual animals in England. Interestingly, this is not a completely new ambition. When future developments for ibTB were being considered some years ago, adding individual animal data was already on the list of potential enhancements.",
+                "tag": "p"
+            },
+            {
+                "content": "That ambition has now become a reality. For people using the system, the result is straightforward: more detailed information is available to help them understand disease risk related to the potential purchase of individual animals. Behind the scenes, however, it is a much bigger change.",
+                "tag": "p"
+            },
+            {
+                "content": "Moving from information about herds to information about individual animals increases both the amount and the complexity of data that needs to be processed and prepared for publication. And this is where the part of GIS that users do not normally see becomes particularly important.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens behind the map?",
+                "tag": "h2"
+            },
+            {
+                "content": "When people use ibTB, they see a map. What they do not see is all the work taking place behind it.",
+                "tag": "p"
+            },
+            {
+                "content": "My colleagues in APHA's Data Systems Group (DSG) and GIS teams work with data from operational and surveillance systems, preparing and checking it so that it can ultimately be presented through ibTB. As the amount and complexity of information grows, reliable data processing and quality assurance become increasingly important.",
+                "tag": "p"
+            },
+            {
+                "content": "For me, that is one of the interesting things about modern GIS. The map may be the part everyone sees, but it is only the final stage in a much longer journey. Before information reaches that map, data has to be brought together, processed, checked and transformed into something that can be used by the service.",
+                "tag": "p"
+            },
+            {
+                "content": "The addition of individual animal information has made that work even more important. It means dealing with larger and more complex datasets while still providing information in a way that is useful to the people accessing ibTB.",
+                "tag": "p"
+            },
+            {
+                "content": "It is a good reminder that successful GIS is not only about making good maps. It depends just as much on accurate data, reliable processes and the people behind them.",
+                "tag": "p"
+            },
+            {
+                "content": "What the ibTB journey shows us",
+                "tag": "h2"
+            },
+            {
+                "content": "ibTB today looks very different from the service that launched in 2015. It started by making herd-level bTB information available through an online GIS. Since then, developments such as Health Ratings have added new ways for users to understand disease history, while the introduction of individual animal information in England has taken the level of detail available another significant step forward.",
+                "tag": "p"
+            },
+            {
+                "content": "There will always be opportunities to improve how we use data and technology to communicate animal health information. But I think the journey so far already demonstrates something important.",
+                "tag": "p"
+            },
+            {
+                "content": "GIS is often described as a way of putting data onto a map. In reality, it can do much more than that. It can bring together complex information and make it more understandable and useful to the people who need it.",
+                "tag": "p"
+            },
+            {
+                "content": "ibTB is a great example. What began as a way of publishing herd-level disease information has continued to evolve as technology, data and the needs of users have changed. For me, that is what makes it a particularly good story for GIS Day.",
+                "tag": "p"
+            },
+            {
+                "content": "Behind what appears to be a relatively simple map is animal health science, data, technology and a lot of work by people across APHA and beyond, all coming together to help livestock keepers make better-informed decisions.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2026/11/18/aphas-mapping-experts-are-turning-data-into-decisions/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "Discover how APHA\u2019s information bovine Tuberculosis (ibTB) mapping service turns complex bovine TB data into practical insights, helping farmers understand disease risk and make informed decisions."
+    },
+    {
+        "title": "DHSC Find Public Health Data\u00a0Alpha reassessment",
+        "authors": [
+            "Man-Yee Lam"
+        ],
+        "posted_on": "2026-11-18T14:11:52",
+        "categories": [
+            "Alpha",
+            "Assurance",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From: DHSCAssessment date:\u00a004/09/2025Reassessment date: 21/01/2026Stage:\u00a0Alpha reassessmentResult:\u00a0Green at reassessmentService provider:\u00a0 DHSC\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service description\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "FPHD aims to improve and protect health and reduce inequalities through high-quality public health intelligence, available to all.\u202f\u00a0\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "FPHD enables users to find, access and use public health data about England, via a single, trustworthy and accessible platform, so that they can make informed decisions and get the information they need, whether that's updating a JSNA (Joint Strategic Needs Assessment), building a policy case, evaluating a public health intervention, conducting research, or understanding the health landscape of their local area.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Things the service team has done well:\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated amber for point 2 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0This is amber because: \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Updated Decision\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for\u00a0 point 2 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated amber for point 3 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is amber because: \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Updated Decision\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 3 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated amber for point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is amber because:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Updated Decision\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated amber for point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is amber because: \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Updated Decision\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 6 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 7 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve frequently\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 9 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Find Public Health Data technical project team reviewed the current architecture and then provided a target technical architecture, software options analysis, authentication options (Public & Publisher), hosting options, API framework/design pattern and UI framework.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The team demonstrated that they understand how to manage risks at this stage of the project life cycle:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the Beta Phase, evidence for the above should be readily available for review.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 10 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Optional advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 12 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common components and patterns\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 13 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Service team considered the use of open standards, common components and patterns for the next phase of the work. These considerations include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For the Beta phase, the team should continually explore the use of open sources, common components and patterns. Where third-party software choices are made, it should be evident that there has been consideration of avoiding lock in with specific technologies. Finally, the technology governance should be robust, to include SMEs from architecture, including data, technical & security service management. As well as engineering and others. This is to ensure all aspects of governance have good coverage",
+                "tag": "p"
+            },
+            {
+                "content": "14. Operate a reliable service\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service was rated green for point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Advice to help the service team continually improve the service:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2026/11/18/dhsc-find-public-health-data-alpha-reassessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "Read about the alpha reassessment for Find public health data from DHSC"
+    },
+    {
+        "title": "Professional curiosity: looking beyond the obvious",
+        "authors": [
+            "Tamara Cooper"
+        ],
+        "posted_on": "2026-11-18T13:25:56",
+        "categories": [
+            "Events",
+            "Leadership",
+            "Safeguarding",
+            "Viewpoint"
+        ],
+        "content": [
+            {
+                "content": "Professional Curiosity: looking beyond the obvious - Blog by Tamara Cooper",
+                "tag": "h3"
+            },
+            {
+                "content": "One day, many years ago, I visited a house it the UK. I worked for the police and neighbours had reported the sounds of a disturbance. When I arrived, a female opened the door and invited me in. The female was home alone. It was a very nice house, immaculate in fact and the female took me into the large kitchen where I explained the purpose of my visit. We talked for some time, and the female denied any disturbance and said that everything was fine. I just felt something was not quite right. She appeared nervous and was constantly taking a hair band on and off her hair. I tried different ways to engage with the female, but she was unable to talk about her life. I felt an over-whelming sense of hopelessness in this beautiful home, but could I not reach her. ",
+                "tag": "p"
+            },
+            {
+                "content": "As I got up to leave, I saw a dog bowl in the corner of the kitchen. I said to the female, how lovely, where is your dog?",
+                "tag": "p"
+            },
+            {
+                "content": "There was no dog.",
+                "tag": "p"
+            },
+            {
+                "content": "The bowl was where the female was forced by her partner to eat her meals.",
+                "tag": "p"
+            },
+            {
+                "content": "You may consider this to have been a demonstration of professional curiosity. In truth, I was desperately looking for a way in, a way to reach someone I instinctively felt to be frightened and at risk.",
+                "tag": "p"
+            },
+            {
+                "content": "All practitioners from all agencies are likely to be familiar with the term professional curiosity. We are quite adept at using language skilfully and creatively, but what do we actually mean by advocating the use of professional curiosity?",
+                "tag": "p"
+            },
+            {
+                "content": "In my view, this is about being wholly emotionally and intellectually present and being willing to look beyond what appears obvious. People who have seldom been heard or are actively being abused or neglected are unlikely to find it easy to communicate their truth and it is possible that they are the very people who will be targeted by those who seek to hurt other people because of their vulnerabilities and the perception that they are less likely to be believed or validated.",
+                "tag": "p"
+            },
+            {
+                "content": "Despite the indefatigable efforts of many professionals, there remain some who proceed to judge and minimalise the lived experience of people using services.",
+                "tag": "p"
+            },
+            {
+                "content": "Consider these two scenarios.",
+                "tag": "p"
+            },
+            {
+                "content": "Scenario 1; Beryl is eighty-eight and lives in a care home. Beryl reports to her daughter that she has been sexually assaulted by a carer. The manager of the care home tells police that Beryl has a UTI and does get confused and exhibits early signs of dementia. The police leave and record no crime. They do not speak to Beryl. They do not know if Beryl has capacity. They do not see Beryl. They do not hear Beryl. Beryl is invisible. The offender is free to abuse someone else.",
+                "tag": "p"
+            },
+            {
+                "content": "Scenario 2; As scenario 1 but police do not rely on the word of the manager. They visit Beryl. Beryl does have capacity. Beryl can give an account of her assault. Beryl is heard. Beryl is not invisible. Beryl is safe. The offender is arrested and charged. Vulnerable victims are safeguarded.",
+                "tag": "p"
+            },
+            {
+                "content": "In my current role in policing, with a national, regional and local focus on adults at risk, I am often heard to say to my colleagues and partners, you must turn up, suspend judgment and genuinely open your eyes and ears and ask the questions that may get an answer. People who need our help and those who love them are seeking assurance right now that we will turn up for them and people who want to harm may try to disrupt us in doing so. Do not be a passive bystander if your instinct is telling you something isn\u2019t right, it probably isn\u2019t.",
+                "tag": "p"
+            },
+            {
+                "content": "Experience over years has led me to believe that it can be just one person who shines a light in a dark tunnel that enables someone previously unable to communicate their truth. One social worker, one teacher, one police officer, one human who stops by long enough to see and hear the journey towards this day. Be determined to be that person. You may change a life or safeguard someone in a way that they did not think was possible.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialworkwithadults.blog.gov.uk/2026/11/18/professional-curiosity-looking-beyond-the-obvious/",
+        "blog": "Social work with adults",
+        "blog_link": "https://socialworkwithadults.blog.gov.uk",
+        "description": "Sarah McClinton , Chief Social Worker for Adults: I welcome the opportunity to share this powerful and thoughtful blog by Tamara Cooper, a member of the National Adult Safeguarding Board and Adult Safeguarding Lead, National Police Chiefs\u2019 Council. Her reflections \u2026"
+    },
+    {
+        "title": "Black Tech Fest: learning for an inclusive digital government",
+        "authors": [
+            "Thomas Beautyman, Deputy Director Digital Capability and Workforce"
+        ],
+        "posted_on": "2026-11-18T12:30:49",
+        "categories": [
+            "Artificial Intelligence (AI)\u00a0",
+            "Digital Workplace",
+            "Event",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "Black Tech Fest brought together conversations about inclusive artificial intelligence (AI), cyber resilience and routes into government technology careers. On 29 October 2026, we attended Black Tech Fest at Tobacco Dock in London.",
+                "tag": "p"
+            },
+            {
+                "content": "The festival connects technologists, creatives and innovators. Organisers advertised this year\u2019s event for 5,000 attendees, with more than 100 speakers.",
+                "tag": "p"
+            },
+            {
+                "content": "Government participants included:",
+                "tag": "p"
+            },
+            {
+                "content": "Kalbir\u2019s and Bella\u2019s sessions connected the day\u2019s conversations with our work to develop digital and cyber skills.",
+                "tag": "p"
+            },
+            {
+                "content": "Listening to people interested in government technology",
+                "tag": "h2"
+            },
+            {
+                "content": "At the joint Government Digital and Data Profession and Government Cyber Profession stand, hundreds of people stopped to talk. Many wanted to understand what government does in technology and how they could get into cyber. Their questions included:",
+                "tag": "p"
+            },
+            {
+                "content": "These conversations gave us a chance to explain government\u2019s technology work and help people understand how they could contribute.",
+                "tag": "p"
+            },
+            {
+                "content": "To transform public services, government needs to attract, retain and develop people with digital skills. Black Tech Fest was an opportunity to reach people from diverse backgrounds who may not have considered government technology careers. Listening to their questions is part of making those careers more accessible.",
+                "tag": "p"
+            },
+            {
+                "content": "Broadening participation and building trust in AI",
+                "tag": "h2"
+            },
+            {
+                "content": "In 'Is the UK Ready for AI?', Kalbir connected participation in the AI economy with access to government services. He highlighted two priorities: enabling a wide range of people to contribute to technological change, and making sure everyone can get the core services they need.",
+                "tag": "p"
+            },
+            {
+                "content": "Building trust in AI starts with being open about how it is used. Kalbir set out the questions people need answered about AI in a service:",
+                "tag": "p"
+            },
+            {
+                "content": "He pointed to algorithmic transparency records as a practical way of making that use more visible.",
+                "tag": "p"
+            },
+            {
+                "content": "This sits alongside our wider work to accelerate the responsible adoption of AI across the public sector. We\u2019re working with departments to identify opportunities, strengthen technical capability and ensure AI is deployed safely, ethically and at scale.",
+                "tag": "p"
+            },
+            {
+                "content": "Taken together, the connection for our work was clear: inclusion means both who shapes technology and who benefits from it.",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing for evolving cyber threats",
+                "tag": "h2"
+            },
+            {
+                "content": "Bella joined the panel 'Are We Ready for the Next Generation of Cyber Threats?'. A key lesson was the need to consider risks across government, not just within individual organisations.",
+                "tag": "p"
+            },
+            {
+                "content": "The discussion explored investment to improve understanding of the technology used across government, helping teams respond to and recover from cyber threats. It also covered work under the Government Cyber Action Plan to support this effort.",
+                "tag": "p"
+            },
+            {
+                "content": "Another focus was using innovation to strengthen cyber defence, including adopting frontier AI.",
+                "tag": "p"
+            },
+            {
+                "content": "Collaboration was another theme: organisations do not face these complex security challenges alone. Security leaders have a role in bringing people together across organisational boundaries to explore innovation and manage risk.",
+                "tag": "p"
+            },
+            {
+                "content": "Together, the sessions highlighted the need for services that are understandable and dependable, backed by people with the skills to build and secure them.",
+                "tag": "p"
+            },
+            {
+                "content": "Finding your route into government technology",
+                "tag": "h2"
+            },
+            {
+                "content": "There are several routes into government technology, whether you are exploring an apprenticeship, looking for a role that fits your skills or returning after a career break.",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships through TechTrack",
+                "tag": "h3"
+            },
+            {
+                "content": "TechTrack combines structured learning with practical experience in government digital and cyber roles. About 100 TechTrack apprentices now work across government, bringing experience from a range of backgrounds and career paths.",
+                "tag": "p"
+            },
+            {
+                "content": "Other digital, data and cyber career routes",
+                "tag": "h3"
+            },
+            {
+                "content": "Beyond apprenticeships, explore the following to see where your skills and interests could fit:",
+                "tag": "p"
+            },
+            {
+                "content": "Returning to technology after a career break",
+                "tag": "h3"
+            },
+            {
+                "content": "The Returnship Programme is for people who have been out of work for 18 months or more. It offers 18 months of experience before participants can apply for a full-time role within their teams.",
+                "tag": "p"
+            },
+            {
+                "content": "Developed with the Ministry of Justice and Home Office, the pilot focused on senior software developer roles. The programme aims to diversify the profession and bring experienced people back into technology.",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing an application",
+                "tag": "h3"
+            },
+            {
+                "content": "The Government Digital and Data Candidate Information Pack offers further guidance on these pathways and tips for applying.",
+                "tag": "p"
+            },
+            {
+                "content": "Developing skills in public service",
+                "tag": "h2"
+            },
+            {
+                "content": "Developing skills also means supporting people already working in public service. Civil servants and UK public sector colleagues can access free learning and certification pathways through Get Tech Certified until 31 December 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "The Women in Tech learning offer brings together learning, events and opportunities to connect, supporting women across the public sector to develop their skills and careers.",
+                "tag": "p"
+            },
+            {
+                "content": "Taking the learning forward",
+                "tag": "h2"
+            },
+            {
+                "content": "Black Tech Fest helped us connect government\u2019s technology work with people interested in contributing. This outreach sits alongside TechTrack and the Returnship Programme as part of a wider effort to broaden participation and develop the people who build and secure public services.",
+                "tag": "p"
+            },
+            {
+                "content": "Choose a next step that fits your circumstances:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2026/11/18/black-tech-fest-learning-for-an-inclusive-digital-government/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "Learning from Black Tech Fest on inclusive artificial intelligence (AI), cyber resilience and opening up government technology careers."
+    },
+    {
+        "title": "Free procurement training for school business professionals available during Spring term",
+        "authors": [
+            "Communications Team"
+        ],
+        "posted_on": "2026-11-18T12:02:24",
+        "categories": [
+            "CIPS",
+            "Training",
+            "Workforce, Recruitment and Development"
+        ],
+        "content": [
+            {
+                "content": "Applications for the FREE Spring 2027 Procurement Fundamentals programme for schools and trusts in England are now open. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Delivered by Chartered Institute of Procurement and Supply (CIPS) experts, this training is a facilitated, one-day (6-hour) virtual workshop covering essential procurement processes and techniques.",
+                "tag": "p"
+            },
+            {
+                "content": "The training is particularly suitable for school business professionals (SBPs) who undertake procurement as part of their role, as well as procurement specialists who are new to the profession. It provides participants with an understanding of the fundamental principles of procurement.",
+                "tag": "p"
+            },
+            {
+                "content": "Free, DfE-funded places are limited so apply for your place now.",
+                "tag": "p"
+            },
+            {
+                "content": "More confident and proactive about procurement",
+                "tag": "h3"
+            },
+            {
+                "content": "Anthony Degnan, Finance Manager at\u00a0Ad Astra Academy Trust in North East England, has done the training and found it practical and relevant to his role - building confidence and reinforcing good practice.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cIn education, procurement isn\u2019t just about picking a supplier you like. There are rules, fairness, and compliance to consider,\u201d he said. \u201cI wanted reassurance that we were doing things properly and confidence when discussing procurement decisions with colleagues.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cPersonally, I feel more confident and more proactive\u00a0about procurement projects having done this training.\u00a0I\u2019m\u00a0planning better, thinking about timelines, and asking the right\u00a0questions.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Multi-academy trusts interested in the Procurement Fundamentals training being delivered to a group of their staff should contact CIPS directly.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2026/11/18/free-procurement-training-for-school-business-professionals-available-during-spring-term/",
+        "blog": "Maximising Value for Pupils (Max VP)",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "Applications for the FREE Spring 2027 Procurement Fundamentals programme for schools and trusts in England are now open. \u00a0 Delivered by Chartered Institute of Procurement and Supply (CIPS) experts, this training is a facilitated, one-day (6-hour) virtual workshop covering essential \u2026"
+    },
+    {
+        "title": "\u2018Document upload\u2019 is here: a quicker, easier way to send us your documents\u00a0",
+        "authors": [
+            "RPA Editor"
+        ],
+        "posted_on": "2026-11-18T10:46:50",
+        "categories": [
+            "Online service",
+            "Rural Payments service",
+            "Support"
+        ],
+        "content": [
+            {
+                "content": "You can now use the new Document upload service in the Rural Payments service to send documents and supporting evidence securely online.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service gives existing customers a simpler way to provide information to us. Instead of using different methods to send documents, you can upload them directly through the Rural Payments service whenever it suits you.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Documents submitted through the service go straight to the team that needs them, helping us process information more quickly and reducing delays.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why use Document upload?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Document upload is designed to make it easier for you to send us the documents we need to see.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When you upload documents through the Rural Payments service, you can:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By receiving more information directly through the service, we can spend less time sorting and routing documents and more time processing customer requests.",
+                "tag": "p"
+            },
+            {
+                "content": "What you can use the service for\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can use Document upload to send documents and evidence for:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Keep track of what you've sent\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service also gives you a history of the documents you've uploaded through Rural Payments, making it easier to see what you've submitted and when.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get started\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sign in to the Rural Payments service using your Customer Reference Number (CRN) and password.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before you upload your documents:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you're sending supporting evidence, updating information or responding to a request from us, Document upload offers a faster, more straightforward way to get information to the right team.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ruralpayments.blog.gov.uk/2026/11/18/document-upload-is-here-a-quicker-easier-way-to-send-us-your-documents/",
+        "blog": "Rural payments",
+        "blog_link": "https://ruralpayments.blog.gov.uk",
+        "description": "You can now use the new Document upload service in the Rural Payments service to send documents and supporting evidence securely online.\u00a0 The service gives existing customers a simpler way to provide information to us. Instead of using different methods \u2026"
+    },
+    {
+        "title": "One year of the Company Data Layer",
+        "authors": [
+            "Pedro Pinto Da Silva, Senior Data Architect"
+        ],
+        "posted_on": "2026-11-18T10:37:16",
+        "categories": [
+            "Data and Insight"
+        ],
+        "content": [
+            {
+                "content": "The complexity surrounding business support",
+                "tag": "h2"
+            },
+            {
+                "content": "Business support is at the core of the government\u2019s economic growth mission. To meet the diverse needs of businesses and remove barriers to growth, the government relies on a wide range of digital services. This digital support offer is complex and to be effective, it must be well connected and coherent.",
+                "tag": "p"
+            },
+            {
+                "content": "Business needs can be described through research, but data is also needed to deliver value to them through a complex network of services.",
+                "tag": "p"
+            },
+            {
+                "content": "Company data tells us who businesses are such as their size, location and financial performance. Advisers use business profiles to identify businesses most likely to benefit from government support. Digital systems use profile data to create personalised workflows and reduce the data entry burden.",
+                "tag": "p"
+            },
+            {
+                "content": "Until recently, however, the value of company data was offset by the work required to use it. ",
+                "tag": "p"
+            },
+            {
+                "content": "Across BIST, teams and individuals:",
+                "tag": "p"
+            },
+            {
+                "content": "Introducing the Company Data Layer",
+                "tag": "h2"
+            },
+            {
+                "content": "A year ago, we set out to change this. We wanted to create one reusable source of company data that could allow teams from across BIST to access what they need.",
+                "tag": "p"
+            },
+            {
+                "content": "We created the Company Data Layer (CDL), a common component for company data that does the work once. It gives services a simple way to find reliable company information, without each team sourcing, cleaning and maintaining its own data. Over the last year, the CDL has demonstrated its value in real services. We have reliably delivered insights to our internal CRM, the application and case management systems for the British Industrial Competitiveness Scheme (BICS), and other services across BIST.",
+                "tag": "p"
+            },
+            {
+                "content": "After 6 months of being in beta, we can reflect on the CDL\u2019s impact on our services and look ahead to future possibilities.",
+                "tag": "p"
+            },
+            {
+                "content": "How BIST is benefiting from the Company Data Layer",
+                "tag": "h2"
+            },
+            {
+                "content": "Improving data quality across the support ecosystem",
+                "tag": "h3"
+            },
+            {
+                "content": "When services can identify businesses reliably, the data they collect becomes more useful and easier to reuse. Easy access to business identification tools, like search and data matching, helps teams capture recognised identifiers earlier in the user journey. This improves downstream data linking and use.",
+                "tag": "p"
+            },
+            {
+                "content": "Speeding up digital product and service delivery",
+                "tag": "h3"
+            },
+            {
+                "content": "Using or searching through company data is now as easy as making an Application Programming Interface (API) request or consuming an integration event. Teams can remove the burden of sourcing, cleaning and storing company data and focus on creating the compelling user experiences that make their products uniquely valuable. Michal Charemza, Lead Data Engineer working on the British Industrial Competitiveness Scheme, says:",
+                "tag": "p"
+            },
+            {
+                "content": "Martin Tierney is a Senior Software Engineer working on the Data Hub Customer Relationship Management (CRM) tool. He says:",
+                "tag": "p"
+            },
+            {
+                "content": "Revealing data problems and complexity",
+                "tag": "h3"
+            },
+            {
+                "content": "Having a single source of data can simplify complexity and reveal and resolve discrepancies. Company data can be spread across sources and described in different ways, so simplifying and checking it required great manual effort before the CDL.",
+                "tag": "p"
+            },
+            {
+                "content": "Smoother and more effective back-office processes",
+                "tag": "h3"
+            },
+            {
+                "content": "Improvements to data quality means it is easier to join the dots across the ecosystem to understand users and their activity. Cross-service activity provides invaluable contextual information to BIST advisers who need it to deliver effective support to businesses.",
+                "tag": "p"
+            },
+            {
+                "content": "How the Company Data Layer has acheived this",
+                "tag": "h2"
+            },
+            {
+                "content": "While the Company Data Layer\u2019s value is generated from widespread adoption, its success stems largely from its design features. ",
+                "tag": "p"
+            },
+            {
+                "content": "Users choose the CDL over alternatives because of extensibility, flexibility and resilience.",
+                "tag": "p"
+            },
+            {
+                "content": "The CDL can be extended",
+                "tag": "h3"
+            },
+            {
+                "content": "We designed it to easily extend to more data sources as we acquire them by:",
+                "tag": "p"
+            },
+            {
+                "content": "Flexibility is built in",
+                "tag": "h3"
+            },
+            {
+                "content": "We recognise that different services and users need to consume our data in different ways. The service supports:",
+                "tag": "p"
+            },
+            {
+                "content": "Soon, we will support a connector for our internal AI tools, and a way of searching for lists of businesses based on customisable criteria. This will allow users to interact with the CDL using queries in English through their AI chat of choice. The combination of these features opens new opportunities, such as allowing our business advisors to find promising leads.",
+                "tag": "p"
+            },
+            {
+                "content": "As we expand to more services, we help them access rich and consistent data allowing them to be smarter and more personal for their users. For example, the ability to look at a business\u2019s history is critical for funding and grants leading to better decisions and reducing bureaucratic effort for businesses.",
+                "tag": "p"
+            },
+            {
+                "content": "The CDL is designed for resilience",
+                "tag": "h3"
+            },
+            {
+                "content": "We have invested in the CDL\u2019s resilience due to its importance for our infrastructure. It scales automatically based on demand. We now have a complete suite of alerts notifying the team of various problems, including slow responses, old data, or unusual traffic. ",
+                "tag": "p"
+            },
+            {
+                "content": "We work with the services using the CDL to ensure we have robust fallback mechanisms. This means that they can continue to operate if the CDL experiences any short-term issues. We now have the confidence to expand adoption at pace and onboard citizen-facing services.",
+                "tag": "p"
+            },
+            {
+                "content": "What is next for the Company Data Layer?",
+                "tag": "h2"
+            },
+            {
+                "content": "Company data is used across government to support businesses and growth. If you work in local government or partner organisations such as the Growth Hub network and Chambers of Commerce, you likely face many of the same data challenges we faced in BIST.",
+                "tag": "p"
+            },
+            {
+                "content": "Our ambition is to make the Company Data Layer accessible beyond BIST, so that other departments and organisations can benefit from it. We have built a service that is extendible, flexible and scalable from the ground up.",
+                "tag": "p"
+            },
+            {
+                "content": "If you work with businesses, you can help us by sharing your interest in the CDL. Tell us who you are and what challenges you face with company data. We would be excited to showcase our service capabilities and supported use cases. Please get in touch at datamatching@businessandtrade.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/11/18/one-year-of-the-company-data-layer/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "One year after launching the Company Data Layer, we look at the problems it was designed to solve, what the team has built and what we have learned about providing shared company-data capabilities."
+    },
+    {
+        "title": "Ten years of transparency: How Food Hygiene Ratings changed the way we choose where to eat\u00a0",
+        "authors": [
+            "Kathryn Baker, Chief Environmental Health Officer"
+        ],
+        "posted_on": "2026-11-18T10:27:31",
+        "categories": [
+            "Food Hygiene Ratings"
+        ],
+        "content": [
+            {
+                "content": "As Northern Ireland marks ten years of mandatory Food Hygiene Rating display, we spoke to Kathryn Baker, Chief Environmental Health Officer at the Department of Health in Northern Ireland, about the development of the scheme, the importance of transparency and the people who have helped make it a success.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When choosing somewhere to eat, many of us look for the familiar green and black Food Hygiene Rating sticker displayed at food businesses. But ten years ago, displaying that rating wasn\u2019t a legal requirement in Northern Ireland.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today, the sticker is an established part of the food landscape, giving customers information about the hygiene standards found when a business was inspected.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For Kathryn Baker, who previously worked at the Food Standards Agency (FSA), leading on the Food Hygiene Rating Scheme in Northern Ireland, the tenth anniversary is a particularly meaningful milestone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe food hygiene rating scheme is very close to my heart, because before I joined the Department of Health, I worked in the Food Standards Agency and for many years I led on the development of the scheme in Northern Ireland.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A decade of progress\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Food Hygiene Rating Scheme was introduced in Northern Ireland in 2010, with the FSA working alongside district councils to provide consumers with clear information about food hygiene standards.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The principle was straightforward: businesses would receive a rating from 0 to 5, giving consumers an easy way to understand the hygiene standards of a business.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, while businesses were awarded ratings and consumers could check them online, displaying the rating at the premises was initially voluntary.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By 2013, evidence of the scheme\u2019s impact was beginning to emerge, with 54% of businesses achieving the highest rating of 5.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the years that followed, the proportion of businesses achieving the top rating continued to increase. By 2016, 70% of businesses were achieving a rating of 5, with the figure rising to 84% by 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For Kathryn, that progress is an achievement worth recognising.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThat is a remarkable increase \u2014 and an achievement that belongs first and foremost to the food businesses and their staff who have worked hard to raise and maintain standards.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But a significant change in 2016 helped make those standards more visible to consumers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ten years of transparency\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On 7 October 2016, the Food Hygiene Rating Act (Northern Ireland) 2016 came into operation, making it a legal requirement for rated food businesses to display their Food Hygiene Rating.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kathryn explained how this marked an important turning point in making food hygiene information more accessible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cBefore mandatory display, businesses were given ratings and consumers could access that information. But mandatory display put that information directly in front of the customer.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cYou didn\u2019t need to search a website. You didn\u2019t need to know that a rating existed. You simply walked through the door and it was there.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The change meant that customers could see a business\u2019s rating before deciding whether to eat there, while businesses had a visible way to demonstrate their hygiene standards.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A Food Hygiene Rating tells customers about the hygiene standards found at the time a business was inspected. Environmental Health Officers assess how food is handled, the cleanliness and condition of the premises, and how food safety is managed.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Businesses receive a rating from 0 to 5, with 5 indicating very good hygiene standards. The rating is not a review of the taste or quality of the food or the service provided. Instead, it gives people information to help them make informed choices about where they eat or order food.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kathryn believes making this information visible has been one of the scheme\u2019s most important achievements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThat approach has helped create a culture where good food hygiene is not something that happens behind the scenes.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cIt is something businesses can demonstrate publicly. And consumers can see.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A scheme recognised across Northern Ireland\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ten years on, the familiar green and black sticker has become widely recognised.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "According to the FSA\u2019s Food and You 2 research, 93% of people in Northern Ireland had heard of the Food Hygiene Rating Scheme, while 95% recognised the rating sticker when shown it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Research also found that 49% of people in Northern Ireland who eat out had checked a food business\u2019s hygiene rating in the previous 12 months.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For Kathryn, these findings demonstrate the importance of making food hygiene information available to everyone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe rating is therefore doing exactly what it was intended to do: giving people information that helps them make informed choices.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The scheme has become part of everyday life, helping consumers consider hygiene standards when deciding where to eat.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A partnership that works\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While mandatory display has played an important role in the scheme\u2019s development, Kathryn is clear that legislation alone cannot explain its success.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cBut the food hygiene rating scheme cannot succeed through legislation alone. The real success story is the partnership and the people behind it.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Northern Ireland\u2019s eleven district councils and their Environmental Health Officers are at the heart of the scheme.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They carry out inspections, assess hygiene standards and work directly with businesses, while the FSA provides the framework and works with councils to ensure consistency.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kathryn is keen to recognise the commitment of those involved.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cOur district councils and their environmental health professionals are at the heart of the system and I want to pay tribute to the Environmental Health Officers and food safety teams across Northern Ireland\u2019s councils.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThey inspect food businesses, assess compliance, provide advice and take enforcement action where necessary. Their role is vital and ultimately, it\u2019s about protecting the public.\u201d\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kathryn also recognises the work that takes place every day within food businesses to maintain good hygiene standards.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cBehind every rating is a team of people cleaning premises, controlling temperatures, preventing cross-contamination, managing food safety, training staff and putting effective food safety procedures into practice.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cA rating of 5 doesn\u2019t happen by accident. It reflects a sustained commitment to doing things properly.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For Kathryn, the progress made over the past decade belongs to everyone who has contributed to making food hygiene standards more visible and helping consumers make informed choices.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead to the next ten years\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the way people buy and order food continues to evolve, making food hygiene information accessible remains just as important.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Customers are increasingly making decisions online, whether booking a restaurant, ordering a takeaway or choosing somewhere new to eat.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kathryn recognises a challenge for the years ahead is ensuring people continue to have access to the information they need, wherever they choose to buy food.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cOver the next ten years, our task is to make sure that same confidence follows consumers wherever they choose to buy their food, whether that be in person or online.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And while the scheme has developed considerably since its introduction, its underlying purpose remains unchanged.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWhen people have information, they can make informed choices and when businesses know that high standards are visible, there is a powerful incentive to maintain them.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For Kathryn, ten years of mandatory Food Hygiene Rating display is about more than the familiar green and black sticker. It represents a decade of greater transparency, partnership and commitment to food hygiene standards across Northern Ireland.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cBecause food safety is not simply about meeting a standard. It\u2019s about earning the public\u2019s trust.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Check before you choose\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you\u2019re visiting a restaurant, caf\u00e9 or takeaway, look for the green and black Food Hygiene Rating sticker or check the business\u2019s rating online at food.gov.uk/ratings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Remember, a Food Hygiene Rating tells you about the hygiene standards found at the time of inspection, helping you make an informed choice.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2026/11/18/ten-years-of-transparency-how-food-hygiene-ratings-changed-the-way-we-choose-where-to-eat/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "As Northern Ireland marks ten years of mandatory Food Hygiene Rating display, we spoke to Kathryn Baker, Chief Environmental Health Officer at the Department of Health in Northern Ireland"
+    },
+    {
+        "title": "Data-driven development management: consulting on England's first mandatory application data standard \u00a0",
+        "authors": [
+            "The Digital Planning team"
+        ],
+        "posted_on": "2026-11-18T10:21:13",
+        "categories": [
+            "Artificial Intelligence",
+            "Data",
+            "Digital Planning",
+            "Innovation"
+        ],
+        "content": [
+            {
+                "content": "Every year, England's local planning authorities (LPAs) receive more than 500,000 planning applications. This data has enormous potential to speed up decision-making, improve efficiency and give government, councils and communities a clearer picture of what is being proposed and where. But right now, there is no consistent, trusted foundation of planning application data, and no reliable way to find, analyse and build digital services around it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is largely because applicants often enter information in different formats when they complete an application form online. Some details a local planning authority (LPA) needs can be incomplete, or hard to find or understand. Planning officers have to follow this up, which adds time to the planning application process. Each council also stores this information differently, using different software that can make it hard for stakeholders to find, compare and use this data.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Consistent data at the point of application would enable the smooth flow through to later stages and make the whole process more efficient. It would also give developers of digital tools, including artificial intelligence (AI), a reliable foundation to build services that help LPAs, applicants and communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A data standard sets out exactly what information must be shared and how it should be structured. It means applicants know what to provide, and LPAs can accept, process and publish it more easily. That is why today we have launched a consultation on introducing the first mandatory planning application data standard in England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are we proposing\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Using the planning data powers in the Levelling Up and Regeneration Act, we\u2019re proposing regulations that will require all planning applications to be submitted and shared as consistent, structured, machine-readable data. The planning application standard will define the structure of information recorded at 2 key moments: when an application is submitted, and when a decision is reached. This will support a consistent, end-to-end data record of the planning permission process in England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The initial planning application data standard will cover the data on the current planning application forms for the most common application types. It will also cover the data that must be published as open data from the application and decision process. Services that applicants use to submit applications will have to provide data in line with the standard. LPAs will then have to process and publish the data to the same specification.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Built collaboratively\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the most significant aspects of this work is how we have done it. Since October 2024, we've designed the proposed planning application data standard collaboratively and in the open working with a community across government, local authorities, technology companies and established planning software providers. Members have contributed to, tested and challenged the emerging specification throughout its development. They have done this through community sessions and online forums, including GitHub (a web-based platform which facilitates collaborative development of software projects) and design.planning.gov.uk. This has been invaluable in verifying our approach and making sure the standard meets the needs of the people who use the planning system.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have funded 5 pilot projects, through the Development Management Software Fund. These pilots have been working with each of the main back-office planning system providers used by LPAs across England to process planning applications, to test the standard in practice, help shape it and identify where more guidance is needed.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a practical demonstration, we have developed a prototype form generator. This shows how planning application forms can be produced directly from the published data standard, demonstrating how the specification works in practice.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This collaborative, open approach is a template for how we will continue to unlock more planning data in the future. The tools and methods we have developed are repeatable, and we intend to use them as we expand the standard over time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What this data standard means in practice\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The open data published under the standard by LPAs will be compiled into a national data set on the Planning Data platform, making it easy to find, download and use. This includes access via an API (a way for other computer systems to automatically retrieve and use the data), allowing software developers, researchers and analysts to build tools and services directly from up-to-date planning data.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once implemented the standard will: \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Overall, a consistent approach across the country will make submitting a planning application a more predictable and transparent process, with the potential for faster validation and processing.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Have your say\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The planning application data standard represents the start of a genuine step-change in how the planning system works and we want to hear from everyone affected by these proposals. The consultation document sets out the proposals including the scope of the initial standard, the approach to secondary legislation and the implementation timeframe.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are particularly keen to hear from LPAs, software suppliers, developers and applicants, to make sure those most affected can help shape how the standard is implemented and works in practice. The consultation closes on 30 December 2026. We will then consider all responses as we finalise the regulations and our approach to implementation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With the right data standard in place, we can get the planning system flowing more quickly, adopt new digital tools and services and make planning data available for everyone to see and use.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more information\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Have your say in the consultation on a planning application data standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Read our previous MHCLG Digital blog posts about this work:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about this work and register to take part on the data standards community homepage, where you'll also find updates and relevant links. The next meeting is on 25 November 2026 at 10:30am.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/11/18/data-driven-development-management-consulting-on-englands-first-mandatory-application-data-standard/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Local planning authorities handle over 500,000 planning applications a year, but much of the data is locked in documents and inconsistent formats. We're consulting on England's first mandatory planning application data standard, to speed up planning and support new digital tools."
+    },
+    {
+        "title": "Fraud Awareness Week 2026: A scam can happen to anyone\u00a0",
+        "authors": [
+            "Counter Fraud team"
+        ],
+        "posted_on": "2026-11-18T09:46:07",
+        "categories": [
+            "General"
+        ],
+        "content": [
+            {
+                "content": "\n[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Scammers are getting better at making their messages look genuine. They often pretend to be trusted organisations, including HM Courts & Tribunals Service (HMCTS), to pressure people into making payments or sharing personal information.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What a scam call can look like\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Sally receives a phone call from someone claiming to be from HMCTS. The caller says she has missed a court payment and must pay immediately to avoid enforcement action. The number looks official. The caller sounds confident. They create a sense of urgency and warn her that officers could visit her home if she does not act now.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How Sally stopped the scam",
+                "tag": "h2"
+            },
+            {
+                "content": "Instead of paying, she stopped and thought about what was happening. She spotted 3 warning signs:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So she hung up. She then looked up our guidance on HMCTS related scams. This told her that we would not pressure anyone to pay over the phone or ask for bank details in this way.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By taking a moment to check, Sally kept her money and her information safe.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What to do if you get a suspicious call, email or text\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Remember: Stop, Think, Check\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Scammers rely on panic and pressure. If something does not feel right, trust your instincts. Take a moment to check before you act.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you believe you have been the victim of a scam and paid money, report it to Report Fraud or phone 0300 123 2040.",
+                "tag": "p"
+            },
+            {
+                "content": "\n[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Wythnos Ymwybyddiaeth o Dwyll 2026: Gall sgam ddigwydd i unrhyw un",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae sgamwyr yn gwella eu gallu i wneud i'w negeseuon edrych fel rhai go iawn. Maent yn aml yn smalio bod yn sefydliadau y gellir ymddiried ynddynt, gan gynnwys Gwasanaeth Llysoedd a Thribiwnlysoedd EF (GLlTEF) i roi pwysau ar bobl i wneud taliadau neu rannu gwybodaeth bersonol.",
+                "tag": "p"
+            },
+            {
+                "content": "Y ffordd all sgam edrych",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae Sally yn cael galwad ff\u00f4n gan rywun sy'n honni eu bod yn gweithio i GLlTEF. Mae'r unigolyn sy'n ffonio yn dweud wrth Sally ei bod wedi methu \u00e2 thalu taliad llys a bod rhaid iddi dalu ar unwaith i osgoi camau gorfodi. Mae'r rhif ff\u00f4n yn edrych fel un swyddogol. Mae'r galwr yn siarad mewn modd hyderus. Maent yn creu teimlad o frys ac yn ei rhybuddio y gall swyddogion ymweld \u00e2'i chartref os na fydd hi'n gweithredu nawr.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut wnaeth Sally stopio'r sgam",
+                "tag": "h2"
+            },
+            {
+                "content": "Yn lle talu, mi wnaeth hi stopio a meddwl am beth oedd yn digwydd. Mi wnaeth hi nodi 3 pheth oedd yn arwydd o rybudd:",
+                "tag": "p"
+            },
+            {
+                "content": "Felly mi wnaeth Sally roi'r ff\u00f4n i lawr. Wedyn mi aeth ati i chwilio am ein harweiniad ar sgamiau sy'n ymwneud \u00e2 GLlTEF. Roedd hwn yn dweud wrthi na fyddem ni byth yn rhoi pwysau ar rywun i dalu dros y ff\u00f4n neu ofyn am fanylion banc yn y ffordd hon.",
+                "tag": "p"
+            },
+            {
+                "content": "Trwy gymryd eiliad i wirio'r sefyllfa, mi wnaeth Sally gadw ei harian a'i gwybodaeth yn ddiogel.",
+                "tag": "p"
+            },
+            {
+                "content": "Beth i'w wneud os byddwch yn cael galwad, neges e-bost neu neges destun amheus",
+                "tag": "h2"
+            },
+            {
+                "content": "Cofiwch: Stopiwch, Meddyliwch, Gwiriwch",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae sgamwyr yn dibynnu ar banic a phwysau. Os ydy rhywbeth ddim yn teimlo'n iawn, dylech wrando ar eich greddf. Arhoswch am eiliad i wirio pethau cyn gweithredu.",
+                "tag": "p"
+            },
+            {
+                "content": "Os ydych yn credu eich bod wedi bod yn ddioddefwr sgam, ac wedi talu arian, dylech adrodd amdano i Report Fraud neu ffonio 0300 123 2040.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2026/11/18/fraud-awareness-week-2026-a-scam-can-happen-to-anyone/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "Scammers are getting better at making their messages look genuine. They often pretend to be trusted organisations, including HM Courts & Tribunals Service (HMCTS), to pressure people into making payments or sharing personal information. Scammers rely on panic and pressure. If something does not feel right, trust your instincts. Take a moment to check before \u2026"
+    },
+    {
+        "title": "AI and coursework: how we can tackle this together\u00a0",
+        "authors": [
+            "Jo Handford"
+        ],
+        "posted_on": "2026-11-18T09:30:00",
+        "categories": [
+            "A levels and GCSEs",
+            "Artificial intelligence",
+            "Coursework",
+            "Malpractice",
+            "Qualifications"
+        ],
+        "content": [
+            {
+                "content": "Coursework season is starting. If a student uses AI to do their coursework, they risk losing the whole qualification. And even if they're never caught, they lose the skills and understanding the coursework was meant to build. We're asking teachers for one honest conversation with their students about both, and we've built a toolkit that makes it easy.",
+                "tag": "p"
+            },
+            {
+                "content": "What we're asking of teachers",
+                "tag": "h2"
+            },
+            {
+                "content": "Have one conversation with your students about the risks of using AI to do their coursework. The lesson plan, poster and assembly presentation are ready to use with no preparation.",
+                "tag": "p"
+            },
+            {
+                "content": "The conversation in two points\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The risk students know about ",
+                "tag": "h3"
+            },
+            {
+                "content": "Using AI to do coursework and handing it in as your own is cheating. If it's discovered, a student can lose the whole qualification, not just the coursework mark. Last year, more than 1,100 students lost an entire GCSE or A Level.",
+                "tag": "p"
+            },
+            {
+                "content": "The risk that's easier to miss",
+                "tag": "h3"
+            },
+            {
+                "content": "Even if a student is never caught, coursework exists to build skills and understanding they'll need later. If AI does the work, they don't build them. The grade may look fine, but it won't reflect what they can do, and the gap shows up when it matters.",
+                "tag": "p"
+            },
+            {
+                "content": "You don't need to identify AI-generated work or decide where lines fall on specific uses. You need to make the case honestly, and most teachers already feel able to. In our September 2026 survey with Teacher Tapp, 85% of secondary teachers said they felt confident having a direct conversation with a student about AI use.",
+                "tag": "p"
+            },
+            {
+                "content": "Why we think this will work\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Students are most likely to listen to a trusted adult in their school, not a regulator. That's you.",
+                "tag": "p"
+            },
+            {
+                "content": "A large study of students in a school system overseas found that heavier use of AI for schoolwork was linked to weaker exam results over time, even though it improved the homework students handed in. It's one study from a different system, so we wouldn't read its figures across to England. But it matches what teachers tell us.",
+                "tag": "p"
+            },
+            {
+                "content": "If a student pushes back\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "You will probably hear some of these. You don't need a perfect answer. A calm, honest one is enough.",
+                "tag": "p"
+            },
+            {
+                "content": "If a student says they're stuck, or has already used AI\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Tell them to come to you. That is what we are telling them to do as well, so they will hear the same advice from us. A student who is stuck should ask their teacher. It is a much easier conversation to have then, than a malpractice investigation afterwards.",
+                "tag": "p"
+            },
+            {
+                "content": "What's in the toolkit\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Available now on Ofqual's Teacher Hub:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The bottom line\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "A student who hands in work AI produced isn't getting away with something. If they're caught, they can lose the qualification. If they're not, they've still lost the chance to build a skill they'll need. A short conversation now could help them see that before it matters.",
+                "tag": "p"
+            },
+            {
+                "content": "We'd ask every school and college with coursework subjects to use the toolkit.",
+                "tag": "p"
+            },
+            {
+                "content": "Jo Handford, Director of Assessment Integrity and Innovation, Ofqual",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofqual.blog.gov.uk/2026/11/18/ai-and-coursework-how-we-can-tackle-this-together/",
+        "blog": "The Ofqual blog",
+        "blog_link": "https://ofqual.blog.gov.uk",
+        "description": "We're asking teachers to have an honest conversation with their students about coursework and AI, and we've built a toolkit that makes it easy."
+    },
+    {
+        "title": "Best AI tools for coursework? There isn't one, and here's why that's worth knowing before you start",
+        "authors": [
+            "Jo Handford"
+        ],
+        "posted_on": "2026-11-18T09:30:00",
+        "categories": [
+            "A levels and GCSEs",
+            "Artificial intelligence",
+            "Malpractice",
+            "Qualifications"
+        ],
+        "content": [
+            {
+                "content": "If you've searched for the best AI tool for helping you write your coursework \u2013 ChatGPT, Claude, Gemini, Copilot, or a writing aid like Grammarly or QuillBot \u2013 the clear answer is that there isn't a 'best' one. But that\u2019s because using any of them to produce any part of your coursework is cheating.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If AI-produced work is submitted as your own, it can be identified and the consequences can include losing marks for the coursework or the entire qualification.",
+                "tag": "p"
+            },
+            {
+                "content": "That's not the answer most 'best AI tools' roundups give you.",
+                "tag": "p"
+            },
+            {
+                "content": "Why this isn't about which tool you use",
+                "tag": "h2"
+            },
+            {
+                "content": "The question that matters isn't which AI tool is best. It's not even really about AI tools at all. It's about whether the work you submit is actually yours.",
+                "tag": "p"
+            },
+            {
+                "content": "The work has to be your own: your thinking, your research, your structure and your writing. And any AI use has to be declared, as your exam board's rules require. Declaring that AI wrote your answer doesn't turn it into your work, and work that is mostly your own can still get you into trouble if you hid that AI was involved.",
+                "tag": "p"
+            },
+            {
+                "content": "Passing off work that AI produced as your own is the problem, and it can cost you the whole qualification. Exam boards and teachers are increasingly experienced at identifying work that isn't a student's own, including AI-generated content. The safest approach is simple: make sure the work you submit is genuinely yours and follow the rules on declaring any permitted AI use.",
+                "tag": "p"
+            },
+            {
+                "content": "The risk you already know about",
+                "tag": "h2"
+            },
+            {
+                "content": "When AI-generated work is identified in coursework, the consequences can be severe. You can lose marks for the assessment, lose the qualification, and in the most serious cases face additional sanctions. These aren't theoretical risks. Cases are investigated every year, and students found to have cheated face significant consequences.",
+                "tag": "p"
+            },
+            {
+                "content": "The risk that's easier to miss",
+                "tag": "h2"
+            },
+            {
+                "content": "There's another reason coursework should be your own. Coursework is designed to show what you know and can do. If AI produces the work, your submission no longer reflects your own knowledge, understanding and skills. That is exactly why submitting AI-generated work as your own is treated as malpractice.",
+                "tag": "p"
+            },
+            {
+                "content": "A word of caution if you ever do ask AI something",
+                "tag": "h2"
+            },
+            {
+                "content": "If you ask an AI tool a question and it gives you facts, sources or quotes, don't take them on trust. Large language models are known to confidently state things that sound plausible but aren't true, including inventing sources that don't exist. That's one more reason the thinking in your coursework needs to be yours: you're the one who can tell when something's actually right.",
+                "tag": "p"
+            },
+            {
+                "content": "If you're stuck, or you've already used AI",
+                "tag": "h2"
+            },
+            {
+                "content": "If you're turning to AI because you're stuck or not sure how to approach something, talk to your teacher instead. They are there to help, and it won't put your grade at risk.",
+                "tag": "p"
+            },
+            {
+                "content": "If you've already used AI for your coursework, speak to your teacher now. It's far better to address the issue before submission than to face a malpractice investigation once the work has been reviewed.",
+                "tag": "p"
+            },
+            {
+                "content": "The bottom line",
+                "tag": "h2"
+            },
+            {
+                "content": "There's no AI tool that's safe to use to produce your coursework, whatever its marketing says about being a study aid or a writing assistant. The question isn't which one is best. The question is whether it's worth risking your coursework marks, your qualification and a malpractice investigation. No AI tool can make that risk disappear.",
+                "tag": "p"
+            },
+            {
+                "content": "Jo Handford, Director of Assessment Integrity and Innovation, Ofqual",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofqual.blog.gov.uk/2026/11/18/best-ai-tools-for-coursework-there-isnt-one-and-heres-why-thats-worth-knowing-before-you-start/",
+        "blog": "The Ofqual blog",
+        "blog_link": "https://ofqual.blog.gov.uk",
+        "description": "The question that matters for students isn't which AI tool is best. It's not even really about AI tools at all. It's about whether the work you submit is actually yours. The work has to be your own: your thinking, your research, your structure and your writing."
+    },
+    {
+        "title": "What could be hiding in imported raw meat for pet food: detecting antimicrobial resistance at the UK border",
+        "authors": [
+            "Nicholas Duggett"
+        ],
+        "posted_on": "2026-11-18T09:00:00",
+        "categories": [
+            "Antimicrobial Resistance",
+            "Bacterial diseases"
+        ],
+        "content": [
+            {
+                "content": "Some bacterial infections can be treated with antimicrobial drugs. But what if the bacteria responsible could no longer be treated effectively with antibiotics? Antimicrobial resistance (AMR) is making that possibility increasingly real, allowing resistant bacteria to move silently through animals, food and the environment before reaching people. In reality, these bacteria can also cross national borders, meaning that what begins on a farm or in a food production setting has the potential to affect us all.",
+                "tag": "p"
+            },
+            {
+                "content": "For World Antimicrobial Resistance Awareness Week, we wanted to share a new project funded through the Integrated Security Fund and delivered with colleagues at Veterinary Medicines Directorate (VMD). It is exploring whether imported raw meat intended for pet food could provide a route for resistant bacteria and their genes to enter the United Kingdom (UK).",
+                "tag": "p"
+            },
+            {
+                "content": "The project is called Antimicrobial Resistance Biosecurity at the Borders, or AMRBioBorders. It brings together border sampling, laboratory science, data analysis and policy expertise across government, to examine an area not currently covered by routine AMR surveillance.",
+                "tag": "p"
+            },
+            {
+                "content": "Why antimicrobial resistance matters",
+                "tag": "h2"
+            },
+            {
+                "content": "Antibiotics are medicines used to treat bacterial infections, but bacteria can change over time and become resistant to the medicines used to tackle the infections they cause, making those infections harder to treat. Resistant bacteria can spread between people, animals and the environment, which is why tackling AMR requires a One Health approach that considers all three together. The UK has made good progress in reducing antibiotic use and resistance in food-producing animals, but bacteria do not respect borders. The movement of people, animals and products means we also need to monitor emerging threats from overseas.",
+                "tag": "p"
+            },
+            {
+                "content": "Why look at raw pet food?",
+                "tag": "h2"
+            },
+            {
+                "content": "Raw pet food contains uncooked animal products such as meat and offal. Unlike cooked or heat-treated products, it does not undergo a step designed to kill bacteria before it is sold. This does not mean that every raw pet food product contains harmful or resistant bacteria. It does mean that careful production, storage and handling are important.",
+                "tag": "p"
+            },
+            {
+                "content": "A recent Food Standards Agency survey examined 380 raw dog and cat food samples bought from shops and online retailers in the UK. Pathogenic bacteria were detected in 35% of the samples, and some of the bacteria found were also resistant to selected antibiotics. The Food Standards Agency advises owners to store, defrost and handle raw pet food safely to reduce the risk of cross-contamination.",
+                "tag": "p"
+            },
+            {
+                "content": "Our project asks a different question: what can we learn by looking further upstream, at imported raw meat ingredients, intended to become raw pet food? At present, there is no routine AMR surveillance of imported raw meat at the UK border. We therefore may have an important gap in our understanding of what bacteria and resistance genes may be arriving through this route. Through AMRBioBorders, personnel at selected ports are collecting samples of imported raw meat ingredients destined for raw pet food and scientists at APHA are developing and applying computer-based methods to identify the bacteria and antimicrobial resistance genes within them.",
+                "tag": "p"
+            },
+            {
+                "content": "Reading all the genetic clues at once",
+                "tag": "h2"
+            },
+            {
+                "content": "Traditionally, scientists investigate bacteria by growing them in the laboratory. This remains essential, but it can mean selecting particular organisms in advance. AMRBioBorders utilises a technique called metagenomic sequencing to look more widely.",
+                "tag": "p"
+            },
+            {
+                "content": "Put simply, metagenomics allows us to examine genetic material from many different microorganisms, including bacteria, in a sample at the same time. Rather than asking only, \u201cIs this particular bacterium present?\u201d, we can look more widely at the microbial community and search for genes associated with AMR or disease.",
+                "tag": "p"
+            },
+            {
+                "content": "Metagenomic findings would then help us select bacteria for traditional laboratory culture and whole genome sequencing. Comparing the results would allow us to assess how reliably the broader metagenomic approach detects organisms and resistance markers in this type of sample.",
+                "tag": "p"
+            },
+            {
+                "content": "From scientific data to practical action",
+                "tag": "h2"
+            },
+            {
+                "content": "Generating data is only useful if people can act on it. This project, therefore, goes beyond the laboratory. It brings together APHA, Veterinary Medicines Directorate, Food Standards Agency, UK Health Security Agency, the Department for Environment, Food and Rural Affairs, port authorities and others with responsibilities across the raw meat and pet food chain.",
+                "tag": "p"
+            },
+            {
+                "content": "By mapping those responsibilities alongside the scientific evidence, the project could identify gaps, support more joined-up surveillance and help government decide where future monitoring would have the greatest value.",
+                "tag": "p"
+            },
+            {
+                "content": "The findings could also help us work constructively with industry to build a better evidence base, identify where risks may be mitigated and support proportionate decisions that protect animal and public health.",
+                "tag": "p"
+            },
+            {
+                "content": "Building a clearer picture",
+                "tag": "h2"
+            },
+            {
+                "content": "This research is just getting started, so we do not yet know what the samples might reveal. That uncertainty is precisely why the work matters. We may detect antimicrobial resistance mechanisms that are already familiar to us, or resistances that we have not detected in the UK. We may find that risks vary according to the type or origin of a product. We may also learn important lessons about the practicality of border sampling and metagenomic surveillance. Whatever the findings, the project has the potential to give us a clearer view of a currently underexplored route into the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "This is what One Health action looks like in practice: scientists, policymakers, border professionals and industry working together across organisational boundaries. By combining new technology with existing expertise, we can improve our ability to spot potential threats early and make decisions based on evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "AMR is a shared challenge. Understanding how it moves is one of the first steps towards stopping it.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2026/11/18/what-could-be-hiding-in-imported-raw-meat-for-pet-food/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "APHA Bacterial Characterisation Workgroup Lead Nicholas Duggett explains how scientists are investigating imported raw pet food as a potential route for antibiotic-resistant bacteria and their genes to enter the UK."
+    },
+    {
         "title": "Commercial arrangements for digital proof of age for alcohol\u00a0\u00a0",
         "authors": [
             "Paul Donati"
