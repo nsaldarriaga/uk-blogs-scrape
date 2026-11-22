@@ -1,5 +1,150 @@
 [
     {
+        "title": "Meet the bacteria-eating viruses helping fight antibiotic resistance in poultry",
+        "authors": [
+            "Conor Graham"
+        ],
+        "posted_on": "2026-11-21T09:00:00",
+        "categories": [
+            "Antimicrobial Resistance",
+            "Bacterial diseases"
+        ],
+        "content": [
+            {
+                "content": "APHA molecular microbiologist Conor Graham reveals how research into bacteria-eating viruses is uncovering promising ways to tackle antibiotic resistance in poultry.",
+                "tag": "p"
+            },
+            {
+                "content": "My name is Conor, and I am a microbiologist at the Animal and Plant Health Agency (APHA), where I work on developing alternative ways to control bacteria on farms.",
+                "tag": "p"
+            },
+            {
+                "content": "One area of my work that I find particularly exciting, is bacteriophage research. The idea that we can use viruses to selectively target harmful bacteria, while potentially leaving beneficial bacteria unaffected, offers an interesting alternative to conventional antimicrobial treatments. My current work is exploring exactly how effective these treatments could be, and how we can investigate them without relying entirely on experiments in live animals.",
+                "tag": "p"
+            },
+            {
+                "content": "Why One Health matters",
+                "tag": "h2"
+            },
+            {
+                "content": "The health of people, animals and the environment is closely connected, a principle known as One Health. Antimicrobial resistance (AMR) is a clear example of why this matters. Every time we use antibiotics, we create opportunities for bacteria to develop resistance. These bacteria can spread between animals, people and the environment, making infections potentially more difficult to treat.",
+                "tag": "p"
+            },
+            {
+                "content": "Reducing reliance on antibiotics in livestock is therefore important not just for animal health, but for protecting the effectiveness of these medicines for everyone. Finding alternative ways to control bacterial infections is an important part of this effort.",
+                "tag": "p"
+            },
+            {
+                "content": "Using viruses to fight bacteria",
+                "tag": "h2"
+            },
+            {
+                "content": "Bacteriophages, or phages for short, are viruses that specifically infect bacteria. They attach to the surface of a bacterial cell, inject their genetic material and use the bacterium to produce more phages. Eventually, the bacterial cell bursts, releasing new phages that can infect other bacteria.",
+                "tag": "p"
+            },
+            {
+                "content": "Unlike many antibiotics, which can affect a broad range of bacteria, individual phages generally have a much narrower host range. This selectivity is particularly interesting because it means we could potentially target harmful bacteria without disrupting the beneficial microorganisms that make up the gut microbiome.",
+                "tag": "p"
+            },
+            {
+                "content": "With antimicrobial resistance becoming an increasing global concern, there is renewed interest in understanding how we might use these viruses in modern veterinary medicine.",
+                "tag": "p"
+            },
+            {
+                "content": "Targeting Salmonella Infantis in poultry",
+                "tag": "h2"
+            },
+            {
+                "content": "My main research focus has been a project investigating bacteriophage treatment against multidrug-resistant Salmonella Infantis in poultry. This work forms part of an international collaboration through the Joint Programming Initiative on Antimicrobial Resistance (JPIAMR), bringing together researchers with expertise in bacteriophages, microbiology and animal health.",
+                "tag": "p"
+            },
+            {
+                "content": "Salmonella Infantisis a bacterial pathogen associated with poultry production that can cause illness in people. Some strains carry a large section of additional DNA, called a plasmid, which can be transferred between bacteria. Plasmids can contain genes that make bacteria resistant to multiple antibiotics, including some important antibiotics used to treat infections in hospitals.",
+                "tag": "p"
+            },
+            {
+                "content": "Our aim was to investigate whether bacteriophages could effectively control this pathogen, particularly strains carrying these antimicrobial resistance genes.",
+                "tag": "p"
+            },
+            {
+                "content": "Initially, potentially useful phages were identified using plaque assays. These are relatively simple laboratory tests that allow us to see whether a phage can infect and kill a particular bacterial strain. However, bacteria do not exist in isolation in the gut. They are part of a complex community of microorganisms, and the surrounding environment can influence how effectively a treatment works.",
+                "tag": "p"
+            },
+            {
+                "content": "This is where our work at APHA became particularly important. Our role was to take promising phages identified by the wider research consortium, and investigate their effectiveness in a much more complex system that is more representative of real life.",
+                "tag": "p"
+            },
+            {
+                "content": "Recreating the chicken gut without infecting live animals",
+                "tag": "h2"
+            },
+            {
+                "content": "To do this, we used an in vitro chicken gut model. Rather than experimentally infecting live chickens, this system uses material collected from the caecum, a part of the chicken intestine that contains a diverse community of microorganisms.",
+                "tag": "p"
+            },
+            {
+                "content": "The model recreates important features of the chicken gut environment, including its temperature, acidity and lack of oxygen. We introduce bacteria and phages into small vessels containing the chicken gut material, allowing us to monitor how their populations change over time.",
+                "tag": "p"
+            },
+            {
+                "content": "The system also uses continuous culture, meaning that fresh nutrients are supplied while waste products are removed. This helps maintain a more stable environment and allows us to study interactions between bacteria, phages and the wider microbiome over several days.",
+                "tag": "p"
+            },
+            {
+                "content": "One of the biggest advantages of this approach is that we can investigate potential treatments in a complex biological environment without needing to carry out experimental infections in live animals. We can also collect samples at different time points to investigate not just whether a treatment works, but how it affects the wider bacterial community.",
+                "tag": "p"
+            },
+            {
+                "content": "What did we find?",
+                "tag": "h2"
+            },
+            {
+                "content": "The results were encouraging. Following a single phage cocktail treatment, we observed an approximately 99.9% reduction in Salmonella Infantis. Importantly, this reduction was maintained throughout the remaining three days of the experiment.",
+                "tag": "p"
+            },
+            {
+                "content": "We also used DNA sequencing to investigate what was happening to the wider gut microbiome. This allowed us to examine hundreds of different bacterial groups rather than focusing solely on Salmonella.",
+                "tag": "p"
+            },
+            {
+                "content": "We found no significant changes in overall microbial diversity following treatment. Although some individual bacterial groups increased or decreased, the broader microbial community remained relatively stable.",
+                "tag": "p"
+            },
+            {
+                "content": "This is particularly interesting when compared with conventional broad-spectrum antibiotics, which can affect many different bacterial groups, including those that are beneficial to gut health.",
+                "tag": "p"
+            },
+            {
+                "content": "Our findings demonstrate the potential of targeted phage treatment to control an important antibiotic-resistant pathogen while limiting disruption to the wider gut microbiome. They also demonstrate the usefulness of the gut model as a tool for evaluating potential treatments before progressing to animal studies.",
+                "tag": "p"
+            },
+            {
+                "content": "Where next?",
+                "tag": "h2"
+            },
+            {
+                "content": "This research is part of a much wider effort to develop alternatives to conventional antimicrobial treatments. At APHA, we are continuing to explore ways of improving our experimental gut models and incorporating complementary approaches, including intestinal tissue culture, to better understand how treatments interact with the host and its microbiome.",
+                "tag": "p"
+            },
+            {
+                "content": "I am also involved in collaborative research through the European Partnership on Animal Health and Welfare, which brings together research institutions across Europe to investigate ways of improving animal health while reducing antimicrobial use. This includes further work investigating bacteriophages against bacterial pathogens such as enterotoxigenic Escherichia coli, a type of E. coli that produces toxins in the gut and can cause diarrhoea.",
+                "tag": "p"
+            },
+            {
+                "content": "Phages are not a universal replacement for antibiotics. Bacteria can develop resistance to them, and their narrow host range means that treatments need to be carefully matched to the bacteria being targeted. However, I believe they could become a valuable addition to our approach to controlling bacterial infections.",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately, the aim is not simply to replace one treatment with another, but to develop better ways of preventing and controlling disease. Combining targeted treatments with surveillance, vaccination and improved farm management could help reduce antimicrobial use, improve animal welfare and tackle antimicrobial resistance as part of a wider One Health strategy.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2026/11/21/meet-the-bacteria-eating-viruses-helping-fight-antibiotic-resistance-in-poultry/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "APHA molecular microbiologist Conor Graham reveals how research into bacteria-eating viruses is uncovering promising ways to tackle antibiotic resistance in poultry."
+    },
+    {
         "title": "What the new UK-EU SPS agreement means for food and feed safety and food businesses",
         "authors": [
             "Katie Pettifer, Chief Executive"
