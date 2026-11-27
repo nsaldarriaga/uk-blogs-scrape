@@ -1,5 +1,917 @@
 [
     {
+        "title": "Leading the Way: How GFiE Turns Experience Into Empowerment",
+        "authors": [
+            "karlharvey1"
+        ],
+        "posted_on": "2026-11-26T15:59:39",
+        "categories": [
+            "#GFIEsuccessstory",
+            "Break down barriers to opportunity",
+            "Care Experienced",
+            "Care Leavers",
+            "Life Chance Recruitment",
+            "National Care Leavers Month"
+        ],
+        "content": [
+            {
+                "content": "Every journey brings unique insights, but for care-experienced individuals, turning lived experience into a career path can often feel like an uphill battle. That\u2019s exactly where Going Forward into Employment (GFiE) steps in.",
+                "tag": "p"
+            },
+            {
+                "content": "Aligned with this year\u2019s \u2018National Care Leavers Month\u2019\u00a0 theme, \"Leading the Way: From Experience to Empowerment,\" GFiE is dedicated to unlocking potential, removing traditional hiring obstacles, and creating real opportunities for growth within public service.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "Through a series of thoughtful initiatives, GFiE translates this theme into meaningful action and ensures every candidate is supported from application to career progression.",
+                "tag": "p"
+            },
+            {
+                "content": "How GFiE Removes Barriers",
+                "tag": "h3"
+            },
+            {
+                "content": "Traditional job applications can feel overwhelming, GFiE breaks down these hurdles by focusing on potential rather than academic credentials or complex competency frameworks.",
+                "tag": "p"
+            },
+            {
+                "content": "GFiE emphasises care-experienced individuals as self-determined leaders rather than passive recipients of care and acknowledges them as key advocates championing meaningful transformation throughout the care system.",
+                "tag": "p"
+            },
+            {
+                "content": "Making It Happen",
+                "tag": "h3"
+            },
+            {
+                "content": "When GFiE received some roles in DWP, based in Leeds, we were keen to work with Leeds City Council's Employment and Skills team, who are delivering the newly formed Healthy Working Lives Skills and Employment (Connect to Work) service. Having spoken to the team, we knew that their remit involved providing up to 12 months of personalised, one-to-one support with an employment specialist. The programme focuses on:",
+                "tag": "p"
+            },
+            {
+                "content": "Our experience of the service demonstrated the above - we were able to arrange a drop in session with some of the care-experienced young people to demystify the role and answer any questions. The team at Leeds City Council supported the young people to write applications that clearly outlined their transferable skills and strengths.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Going forward to interviews, the candidates described themselves as feeling at ease, and the vacancy holders were able to see their potential and alignment to DWP\u2019s values.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Local partners working in this way led to successful offers for all of the roles, and we hope this will be just the start of some fantastic careers for the care-experienced young people.",
+                "tag": "p"
+            },
+            {
+                "content": "Get Involved & Learn More",
+                "tag": "h3"
+            },
+            {
+                "content": "Whether you\u2019re a care leaver ready to begin your career journey or a manager looking to host a placement, GFiE provides the guidance, network, and tools to help you succeed. Head over to the GFiE blog to explore candidate stories, access support resources, and find out how you can get involved today!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gfie.blog.gov.uk/2026/11/26/leading-the-way-how-gfie-turns-experience-into-empowerment/",
+        "blog": "Life Chance Recruitment - Going Forward into Employment (GFiE)",
+        "blog_link": "https://gfie.blog.gov.uk",
+        "description": "Every journey brings unique insights, but for care-experienced individuals, turning lived experience into a career path can often feel like an uphill battle. That\u2019s exactly where Going Forward into Employment (GFiE) steps in. Aligned with this year\u2019s \u2018National Care Leavers \u2026"
+    },
+    {
+        "title": "Five practical foundations for artificial intelligence (AI) readiness",
+        "authors": [
+            "Victoria McKinney, Senior Data Engineer"
+        ],
+        "posted_on": "2026-11-26T11:28:51",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Artificial intelligence (AI) is changing how teams across government work. AI tools can help people find information, analyse data, develop ideas and complete routine tasks. But using AI tools is only one part of being ready for AI. Government also needs strong digital and data foundations. Teams need to understand the technology they use and where data is held and processed. teams also need to know how new ideas can move safely from early testing into live services. The State of digital government review highlights the need to strengthen these foundations to take full advantage of AI. Here are 5 practical areas teams can focus on. 1. Map government's technology infrastructure Government's technology infrastructure has changed significantly over the past decade. The Government\u2019s Cloud First policy, introduced in 2013, encouraged public sector organisations to consider public cloud services before other options. Cloud services now support many government tools and services, bringing greater flexibility and access to new technologies. However, teams also need a clear view of how their systems, technologies and suppliers connect. This can help them understand how existing cloud solutions could work alongside newer approaches. These include WebGPU, which processes data directly on a user's device, and on-premises hosting, such as edge computing, where data is processed close to where it is collected. A clearer picture of government's technology infrastructure can help teams make informed choices about AI, identify risks earlier and spot opportunities to share and reuse technology. The Cloud Challenge Book 2026 explores this challenge. It invites industry to work with government on issues including legacy modernisation and the digital infrastructure needed for an AI era. 2. Understand where data is processed Being ready for AI means understanding what happens to the data that feeds AI models. Teams should know: ",
+                "tag": "p"
+            },
+            {
+                "content": "Technologists need enough understanding to make informed decisions and manage risk effectively. The GOV.UK principles for securing personal data in government services highlight the importance of knowing who owns data and who is accountable for its security. The AI Playbook for Government provides practical guidance on using AI safely, responsibly and effectively. Addressing these questions early helps teams identify and manage potential barriers before they become problems. Teams should also be open about how and where they have used AI in developing a tool, product or service. 3. Create a clear route from prototype to service A successful prototype is not the same as a live government service. AI tools can make it easier to test ideas and develop early versions of products. But teams still need a route into secure, reliable and supported services. Teams need to consider security, data protection, infrastructure, accessibility, ownership, approvals and ongoing support. The Technology Code of Practice and Service Standard help teams address these areas throughout development, rather than after a prototype is complete. Clear routes to live service can help teams identify requirements and decision makers earlier. This reduces delays when successful prototypes move towards production. The aim is not to create one platform or process for every project. It is to give data engineering teams a clearer route for building, testing and launching technology responsibly. 4. Build technology that can be reused and adapted Government already has strong examples of technology built once and made available to others. Services such as GOV.UK Pay, GOV.UK Notify and GOV.UK One Login help organisations meet common needs without building everything from scratch. Similar thinking can be applied to data and AI. Using open standards, clearly documented interfaces and reusable patterns can reduce duplication and help teams build on work that has already been tested. Reuse does not mean every team must use the same technology. It means helping people find what exists, assess whether it meets their needs and adapt it where appropriate. 5. Strengthen peer support AI readiness is about people as well as technology. Teams across government are working through similar questions about AI, data, cloud infrastructure, security and moving ideas into live services. Peer networks, such as the AI Community, can help people share what they have learned, find examples that have worked elsewhere and get support with common challenges. This is particularly valuable for smaller teams and organisations without extensive specialist resources. As AI develops, stronger connections between practitioners can help good practice spread more quickly and reduce duplicated effort. Building stronger foundations for AI Moving from AI adoption to safe, scalable AI enablement means looking beyond individual tools. By understanding our technology infrastructure and data, creating clearer routes from prototype to service, building reusable technology and strengthening peer support, we can create the foundations needed to use AI responsibly, securely and at scale. A practical place to start is with the data you already use. Read the guidance on making government datasets ready for AI and consider how you can make your data easier to find, understand, use and trust. You can also explore GDS guidance and resources on using AI safely, effectively and securely across government and the public sector. If you use data in algorithmic tools or AI that informs decisions with a public effect, or that interacts directly with the public, you may also need to publish an Algorithmic Transparency Recording Standard (ATRS) record. Taking these steps early can help teams move from experimentation to AI services that are secure, sustainable and ready to scale.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dataingovernment.blog.gov.uk/2026/11/26/five-practical-foundations-for-artificial-intelligence-ai-readiness/",
+        "blog": "Data in government",
+        "blog_link": "https://dataingovernment.blog.gov.uk",
+        "description": "Is government ready for AI? Five practical considerations can help teams understand their data, systems and infrastructure before adopting AI."
+    },
+    {
+        "title": "Update on the CMA's private dentistry market study\u00a0",
+        "authors": [
+            "Sarah Cardell"
+        ],
+        "posted_on": "2026-11-26T10:11:17",
+        "categories": [
+            "Consumer protection",
+            "Markets"
+        ],
+        "content": [
+            {
+                "content": "Millions of people across the UK rely on private dentistry. Around 60% of patients pay privately for at least some dental care. For many people, including those on low incomes and receiving state benefits, private care can be a necessity rather than a preference: it is their only route to essential treatment when NHS care is unavailable. Those unable to access NHS care or afford private treatment may delay care or go without altogether.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thousands of dedicated dental professionals across the UK work hard to deliver dental care every day. Since millions of people rely on private dental provision for essential care, it is critical that the market is working well to deliver fair and affordable outcomes. This is why, in March 2026, the CMA launched a market study into private dental services.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we've found so far\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Private provision of an essential service can work well where effective competition rewards providers for offering better prices, quality, service and choice. Our emerging findings show that the private dental services market is not consistently working well for patients.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The problems we see are systemic:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout our work it has become increasingly clear that public and private dentistry are deeply interconnected, often sharing the same practices and workforce. Government decisions on NHS funding, commissioning, contracts and workforce therefore shape not only patients\u2019 choices about use of private care, but also providers\u2019 incentives and behaviour and outcomes across the sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our assessment of the evidence points to a market where patients often cannot exert the competitive pressure that would normally discipline prices and commercial behaviour. Dental care is a credence service: patients rely heavily on their dentist\u2019s advice and cannot readily assess whether treatment is necessary, appropriate, good quality or good value, even after it is provided. Their ability and willingness to shop around is further constrained by their needs and preferences, including the importance of NHS availability, proximity and continuity of care or the need for urgent treatment. The information that is available on prices and treatment is often incomplete and difficult to compare. As a result, switching between practices is low and the competitive pressure exerted by patients is weak. Where patients do switch, the most common reason is moving home or workplace rather than seeking better value.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Shortage of dentists\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Workforce constraints further weaken competition. The UK had 6.7 dentists per 10,000 people in 2024, compared with 8 or more in most European Economic Area countries. Recruitment and retention difficulties limit practices\u2019 ability to expand and new providers\u2019 ability to enter. Practices operating near capacity have little incentive to lower prices to attract more patients, while patients have fewer alternatives. Price competition is weak, despite a fragmented market in which independent firms account for over 60% of practices. We found examples of documents from among the four largest dental groups that focus on raising prices towards those of nearby practices rather than undercutting them. Some also refer to opportunities to increase prices due to patients\u2019 limited price sensitivity, as well as to increase prices following acquisitions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Commercial incentives\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "At the same time, practices and clinicians have commercial incentives to increase revenue. Dentists\u2019 pay typically takes the form of a substantial share of the revenue generated by the treatment they provide, and owner-dentists benefit from practice profits and value. Internal documents from large groups show strategies to increase prices, convert NHS patients to private care, sell higher-value treatments and dental payment plans, and increase treatment and recall activity. Commercial incentives to increase profits are part and parcel of a private market and when combined with strong competition which rewards providers for offering better quality and prices, can be aligned with customer interests. But in private dentistry, patients\u2019 reliance on professional advice and workforce constraints create a risk that commercial incentives to increase revenue may conflict with patients\u2019 interests in obtaining good value dental care.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The outcomes we observe are consistent with that diagnosis. Prices at large dental groups increased by an estimated 7% a year on average between 2023 and 2025, ahead of consumer price inflation and wage growth. We have also seen significant variation in prices in local areas, for example, listed minimum prices for a composite white filling ranged from \u00a380 to \u00a3223 in Preston. But patients are not easily able to find and switch to potentially better-value options.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, we have identified variation in outcomes across the regions and nations of the UK, for example in terms of access to dental services, affordability and workforce capacity. This means that where a patient lives can affect both what care is available and what it costs relative to income.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Gaps in regulation\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Regulation provides important consumer protections, but it is both complex and not as effective as it could be. It focuses heavily on individual professionals, even where many decisions that impact patients are taken by practice owners, managers or groups. Enforcement is often geared towards the most serious professional misconduct, complaints and redress routes are difficult to navigate, and relevant NHS or consumer protections do not always appear to be enforced. Providers also report complexity, duplication and administrative burden. In our emerging view, the answer is therefore not more regulation but better-focused accountability, proportionate enforcement and accessible redress.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we're proposing\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Our emerging view is that a substantial package of interconnected changes is required to deliver better outcomes in this market. Our proposals aim to create the conditions in which dental professionals and businesses can thrive by meeting patients\u2019 needs well, while widening access to affordable essential care. The issues we have found are systemic, rather than a judgement on individual dental professionals.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We provisionally propose a mutually reinforcing package of measures which would:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Measures to improve information, comparison and switching, increase workforce capacity, and reform regulation and redress should together deliver substantial improvements for patients. These reforms are necessary, but not in our view sufficient on their own to address the systemic issues in this market. Patients cannot be expected to transform this essential market simply by voting with their feet, and regulation cannot substitute fully for effective competitive constraints. Rather, governments will need to intervene further, playing a more direct market-shaping role, and using their position as major purchasers and commissioners of dentistry to influence incentives and outcomes for private as well as NHS patients. Failing this, price controls might be needed to ensure good outcomes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "These are interim findings and proposals and we invite further input and insight from across the sector. During the next phase of the study we will consult on our analysis, deepen our evidence on prices, profitability, ownership, financing and local outcomes, and work with stakeholders to understand how real change could be achieved in this critically important market.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our final recommendations will aim to take into account policy and practical differences between nations and regions, as well as the importance of preserving clinical judgement, workforce supply, and provider viability. In assessing their feasibility and likely impact, we will take account not only of the market as it stands today but consider how different market dynamics arising from a package of measures might combine to change incentives and outcomes over time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We want to hear from you\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We're consulting on our interim report and findings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Share your views by 17 December.",
+                "tag": "p"
+            },
+            {
+                "content": "We'll publish our final report by the statutory deadline of 4 March 2027.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2026/11/26/update-on-the-cmas-private-dentistry-market-study/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "Our emerging findings show that the private dental services market is not consistently working well for patients."
+    },
+    {
+        "title": "We\u2019re introducing a new way for customers to register with us",
+        "authors": [
+            "RPA Editor"
+        ],
+        "posted_on": "2026-11-26T10:09:41",
+        "categories": [
+            "Online service",
+            "Rural Payments service",
+            "Support"
+        ],
+        "content": [
+            {
+                "content": "We\u2019re introducing a new online service, making it easier for people who need a Customer Reference Number (CRN) to register and access the Rural Payments service. \u00a0\u00a0This change will make registering with us more convenient by allowing customers to self-serve, while strengthening identity checks.\u00a0\u00a0A CRN is the unique number used to identify customers who use our services. New customers who need to request a CRN could include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you already have a CRN, you don\u2019t need to register again.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A new self-serve process\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To request a CRN, a new customer will:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Using GOV.UK One Login\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "GOV.UK One Login provides a secure way to sign in and prove your identity when using government services. ",
+                "tag": "p"
+            },
+            {
+                "content": "Because GOV.UK One Login is linked to the individual, you must complete your own identity verification. An agent can\u2019t do this on your behalf.\u00a0\u00a0If an agent doesn\u2019t already have their own CRN, they\u2019ll also need to complete the new registration process using their own GOV.UK One Login. The appropriate permissions will still need to be in place on the Rural Payments service before an agent can act for a customer or business.",
+                "tag": "p"
+            },
+            {
+                "content": "Support will still be available\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We understand that some customers will need help with the new service.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An offline route will remain available for customers who cannot complete the online process. More information about this support will be provided before the new service is introduced.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens next\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new registration service is currently planned for December 2026. We\u2019ll share more information before it\u2019s introduced so customers and agents know what to expect and where to go for help.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Existing customers do not need to do anything. If you already have a CRN, you should continue to use it as normal.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ruralpayments.blog.gov.uk/2026/11/26/were-introducing-a-new-way-for-customers-to-register-with-us/",
+        "blog": "Rural payments",
+        "blog_link": "https://ruralpayments.blog.gov.uk",
+        "description": "We\u2019re introducing a new online service, making it easier for people who need a Customer Reference Number (CRN) to register and access the Rural Payments service. \u00a0\u00a0This change will make registering with us more convenient by allowing customers to self-serve, \u2026"
+    },
+    {
+        "title": "From coral reefs to farming communities: measuring the impact of Defra\u2019s international work\u00a0",
+        "authors": [
+            "Grace Pitkethly"
+        ],
+        "posted_on": "2026-11-26T10:07:50",
+        "categories": [
+            "Climate change",
+            "Community",
+            "Marine",
+            "Nature"
+        ],
+        "content": [
+            {
+                "content": "Climate change, nature loss and pollution do not stop at national borders. ",
+                "tag": "p"
+            },
+            {
+                "content": "When ecosystems break down, food, water, health and economies unravel \u2013 fuelling poverty, instability, insecurity and conflict across the globe. This is particularly critical in developing countries, where much of the world\u2019s biodiversity is concentrated.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Defra\u2019s international programmes are delivered across a range of developing countries. They focus on critical global ecosystems that underpin UK resilience and national security and where the potential for impact on poverty and biodiversity outcomes is greatest.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding the impact of our international investments is crucial in helping us to target funding where it will make the most difference.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today we have published our 2026 annual results, our latest estimate of what we\u2019ve achieved through Defra\u2019s international programmes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The figures show that, through Defra-supported programmes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But the numbers only tell part of the story. For me, the important question is: what is changing for the people whose lives and livelihoods depend on nature?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Behind the numbers are communities changing how natural resources are managed, farmers adopting safer and more sustainable approaches, and partnerships helping protect ecosystems on which people depend.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Protecting oceans and livelihoods\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The scale of this work is particularly visible in the Coral Triangle in South-East Asia. Coral reefs support food security, climate resilience and livelihoods, but are threatened by overfishing and habitat destruction.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across Indonesia and the Philippines, seven Defra-supported marine programmes have directly enabled sustainable management of an estimated 1.08 million hectares of marine, coastal and mangrove environments \u2013 an area roughly half the size of Wales.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One example is a sustainable fisheries project in Southeast Sulawesi, Indonesia, supported through the Ocean Risk and Resilience Action Alliance. It is working with local communities to protect important reefs and breeding areas while maintaining sustainable fishing and livelihoods.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So far, three locally managed areas have been established, putting around 22,000 hectares under community-led sustainable fisheries management. Hundreds of coastal community representatives have helped map and design the areas and make decisions about how they should be managed. Some sites are already showing stable or increasing fish populations, reduced destructive fishing and community patrols to protect no-take zones.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting farmers to make lasting change\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our results are also about people and the connection between a healthy environment and secure livelihoods.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In Vietnam, Defra\u2019s Environmental Pollution Programme has supported farmers to adopt integrated pest management, an approach that uses better understanding of crops and natural pest-control methods to reduce reliance on chemical pesticides. The initiative trained more than 6,500 farmers to limit their chemical pesticide use.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On participating tea farms, insecticide use fell by 82% within two years. Farmers adopting the approach recorded annual incomes 10% to 31% higher than conventional farmers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Importantly, the project was designed to ensure that its benefits are shared equitably rather than concentrated among the majority. This has included establishing 32 female-led farmer groups and 21 demonstration farms managed by women.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For me, examples like these are an important reminder of why measuring results and capturing stories matters. It helps us understand what is changing, who benefits and where we can improve.",
+                "tag": "p"
+            },
+            {
+                "content": "Being open about what the numbers tell us\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Caring about the people behind the results also means being honest about the evidence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These results are estimates. Programmes and partners work in very different settings, and their data can vary in completeness and accuracy. Before publication, Defra analysts review the information and supporting evidence, making adjustments where necessary to avoid overstating our impact.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I want readers to understand both what the figures show and their limits. A large number is not the whole story, and it should not stand in for evidence about what is changing for people and nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That is why reporting matters. It connects the bigger picture with changes in people\u2019s lives and helps us understand how protecting nature around the world contributes to a more secure future, abroad and at home.",
+                "tag": "p"
+            },
+            {
+                "content": "Read the report in full.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/11/26/from-coral-reefs-to-farming-communities-measuring-the-impact-of-defras-international-work/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "A new report published today shows the impact of Defra's international investments on people and nature."
+    },
+    {
+        "title": "Natural England and Department for Work and Pensions: a partnership for people, skills and nature",
+        "authors": [
+            "David Drake"
+        ],
+        "posted_on": "2026-11-26T09:54:05",
+        "categories": [
+            "Connecting People with Nature",
+            "Education",
+            "Mental health and wellbeing",
+            "Natural England"
+        ],
+        "content": [
+            {
+                "content": "Author: David Drake, Director of People and Nature at Natural England.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England and the Department for Work and Pensions have launched a new partnership to help young people overcome barriers to employment through nature-based activities, skills development and improved wellbeing. The initiative will create pathways into volunteering, training and green jobs while supporting nature recovery across England. The partnership aims to help more young people access meaningful work while developing the skilled workforce needed to restore and protect nature across England.",
+                "tag": "p"
+            },
+            {
+                "content": "Thousands of young people face barriers to employment, often linked to confidence, wellbeing and limited opportunities to gain practical experience. At the same time, evidence continues to show that spending time in nature can improve wellbeing, build skills and strengthen connections with communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That's why Natural England and the Department for Work and Pensions (DWP) have launched a new partnership to help more people build skills, improve wellbeing and move towards employment while contributing to nature recovery across England.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The partnership brings together Natural England's expertise in nature recovery and connecting people with nature, alongside DWP's reach into communities across the country. Together, we will create opportunities that help people access training, volunteering and employment while contributing to nature recovery.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Research continues to demonstrate the benefits of spending time in nature. The People and Nature Survey found that 89% of regular visitors felt that nature benefited their mental health and wellbeing. However, access to nature remains unequal, with people in poorer health and those living in more deprived communities less likely to spend time outdoors.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The partnership supports the ambitions set out in the recently published Milburn Review, which highlighted the need for earlier support and better integration of health and employment services for young people.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting young people through nature\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One of the first initiatives under the partnership is a pilot programme in the North East of England for young people who are not in education, employment or training (NEETs).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Starting this month, young people referred through local Jobcentres and Youth Hubs will take part in a six-week programme of nature-based activities designed to improve wellbeing, develop practical skills and support progression into volunteering, training or work.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In Sunderland, activities will be delivered in partnership with Durham Wildlife Trust at Rainton Meadows Nature Reserve, where participants will gain hands-on experience in habitat management and countryside skills.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The pilot builds on learning from previous programmes that demonstrated the value of nature-based activities in developing transferable skills and supporting people facing barriers to employment.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting green skills, jobs and nature recovery\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A key focus of the partnership is helping people access opportunities within the growing green economy. Natural England and DWP will work together to connect people with skills development, work experience and employment opportunities, while helping to build the workforce needed to deliver nature recovery across England.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This work complements the Government's Youth Guarantee, which is expanding access to training, employment and workplace opportunities for young people. As demand for skills in nature recovery, conservation and environmental management continues to grow, nature-based programmes can help create pathways into rewarding careers while supporting economic growth and environmental improvement.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The expansion of the Jobs Guarantee creates further opportunities to connect young people with practical experience and meaningful work. Through this partnership, Natural England and DWP will explore how opportunities across the nature and conservation sector can support young people to gain experience, develop employability skills and take their next step towards long-term employment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Nature recovery is one of the country's biggest long-term challenges, requiring a skilled and diverse workforce. By helping more people develop the skills and experience needed to work in environmental roles, this partnership can contribute to both thriving communities and a healthier natural environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creating joined-up support through Youth Hubs and communities\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this, Natural England and DWP are exploring opportunities to enhance nature within and around Jobcentres and Youth Hubs. Access to green spaces can create more positive environments for staff and service users and encourage engagement with employment services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This aligns with the Milburn Review's vision for bringing employment, skills, health and wider support together locally. It also supports wider ambitions to create more green space in towns and cities, delivering benefits for physical and mental health, community cohesion and access to nature for people who may not otherwise experience it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working together for people and nature\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through this partnership, Natural England and DWP will help more people access the benefits of nature while creating pathways into training and employment. By investing in both people and places, we can create opportunities for individuals, strengthen local communities and help ensure that nature's recovery benefits everyone, now and for generations to come.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/11/26/natural-england-and-department-for-work-and-pensions-a-partnership-for-people-skills-and-nature/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "Natural England and the Department for Work and Pensions have launched a new partnership to help young people overcome barriers to employment through nature-based activities, skills development and improved wellbeing."
+    },
+    {
+        "title": "MHRA expectations concerning packaging operations to minimise the risk of mix-ups",
+        "authors": [
+            "Callum McLoughlin"
+        ],
+        "posted_on": "2026-11-26T09:35:41",
+        "categories": [
+            "GMP",
+            "Good manufacturing practice"
+        ],
+        "content": [
+            {
+                "content": "Problems during packaging operations involving the mix-up of components and products present an unacceptable risk to patient safety. There have recently been a number of recalls initiated, and several critical deficiencies raised by GMP Inspectors, due to failures to implement adequate controls during packaging operations.",
+                "tag": "p"
+            },
+            {
+                "content": "This blog is intended to draw attention to the risks associated with packaging operations and outline the expectations of the MHRA that will be reviewed during inspections. The principles should be extended to other areas where mix-ups may occur. For example, it has been known for companies to mix up granules prior to compression into tablets and filling into hard shell capsules.",
+                "tag": "p"
+            },
+            {
+                "content": "Risk Assessment, Identification and Control",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the foundations of Good Manufacturing Practice (GMP) is the appropriate implementation of Quality Risk Management (QRM) principles. This is described in ICH Q9 and EU GMP Chapter 1 as the design of the system should incorporate appropriate risk management principles including the use of appropriate tools. GMP is explicit in Chapter 1.3 that QRM tools should be used to review critical processes, identify specific risk factors, and ensure robust controls are in place.",
+                "tag": "p"
+            },
+            {
+                "content": "Well-controlled primary and secondary packaging operations are critical to the safety, quality and efficacy of medicinal products. Therefore, sufficiently detailed risk assessments should be performed to identify potential hazards and the controls necessary to protect patient safety. These assessments should confirm that controls are in place and effective or generate actions (CAPAs) to implement additional controls where required.",
+                "tag": "p"
+            },
+            {
+                "content": "Generic risk assessments that are high-level and confirmatory in nature, for example simply confirming that general procedures are in place, are unlikely to be of sufficient substance to protect patient safety and demonstrate compliance with GMP.",
+                "tag": "p"
+            },
+            {
+                "content": "Component Version Control",
+                "tag": "h2"
+            },
+            {
+                "content": "Version control of documentation within the Pharmaceutical Quality System is a given. Universally, controlled documents are allocated unique reference numbers and version numbers.",
+                "tag": "p"
+            },
+            {
+                "content": "However, despite printed packaging components stating legally required information that is often critical to those prescribing, dispensing and taking medicines, there are occasions when companies do not version-control printed packaging component specifications and/or artwork master documents or indeed the printed items themselves using unique item codes.",
+                "tag": "p"
+            },
+            {
+                "content": "This is poor practice, as it is essential that only the current approved version of any packaging item is used in production.",
+                "tag": "p"
+            },
+            {
+                "content": "The sole use of internal batch numbers or GRNs for picking and checking packaging materials onto the line without reference to the material itself is not an adequate mechanism to provide proper control.",
+                "tag": "p"
+            },
+            {
+                "content": "Line Clearance",
+                "tag": "h2"
+            },
+            {
+                "content": "Suitable line clearance is a specific requirement of EU GMP Chapter 5. However, poor application of QRM principles often leads to underdeveloped Standard Operating Procedures and Work Instructions that lack detail and clear roles and responsibilities.",
+                "tag": "p"
+            },
+            {
+                "content": "Subject matter experts should be involved in designing an appropriate process with a clear appreciation of where product and component entrapment within machines is possible.",
+                "tag": "p"
+            },
+            {
+                "content": "Attention should also be paid to ancillary equipment such as de-blistering machines, product and packaging rejection points, and computerised systems where variable print data can be retained and carried over.",
+                "tag": "p"
+            },
+            {
+                "content": "Adequate time should be allowed for line clearance, as it is easy for areas to be overlooked by busy staff endeavouring to change over the line to meet scheduling demands.",
+                "tag": "p"
+            },
+            {
+                "content": "Consideration should be given to dedicating personnel to the checking of completed line clearance where they can operate free from distraction and competing priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "Additional controls and checks may be required where changeover processes permit packaging materials to be retained on the line and carried over from one batch to another, particularly where there are changes in product strength during campaign packaging.",
+                "tag": "p"
+            },
+            {
+                "content": "Once line-clearance processes are designed, there must be adequate means to ensure that knowledge is translated into consistent and reliable action by staff. A comprehensive training process is expected, with consideration given to practical assessments and challenge exercises. Companies should ensure that any checklists are supported by appropriately comprehensive procedures and/or reference guides, and that high-risk entrapment locations are clearly understood and identifiable so that misinterpretation of requirements is minimised to the greatest extent possible.",
+                "tag": "p"
+            },
+            {
+                "content": "Technology",
+                "tag": "h2"
+            },
+            {
+                "content": "Pharmacode technology has been available for approximately 50 years; however, not all automated commercial packaging operations have this installed on their equipment or available within their artwork. Equally, other types of printed packaging materials do not routinely have corresponding online technology to verify the identity of what has been provided for packaging operations, for example lidding foil.",
+                "tag": "p"
+            },
+            {
+                "content": "Regulation 74(1) of the Human Medicines Regulations 2012 (SI 2012/1916) states:",
+                "tag": "p"
+            },
+            {
+                "content": "\"The holder of a UK marketing authorisation must keep under review the methods of manufacture and control of the product to which the authorisation relates, taking account of scientific and technical progress.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Marketing Authorisation Holders and manufacturers should endeavour to ensure that, where technological controls are available, these are utilised, particularly where the consequence of error could cause significant harm to patients.",
+                "tag": "p"
+            },
+            {
+                "content": "Where technological controls are not available, suitable organisational controls must be implemented in line with QRM principles. These controls cannot be static and should be reviewed regularly in line with equipment functionality and site operations. For example, where pharmacode readers are installed and a breakdown occurs, detectability of a mix-up risk will be reduced. The QRM process should identify this and balance the risk by implementing other mitigations to ensure that mix-up risks are not inappropriately elevated in the short term.",
+                "tag": "p"
+            },
+            {
+                "content": "Reconciliation of Packaging Components",
+                "tag": "h2"
+            },
+            {
+                "content": "The objective of undertaking reconciliation of materials following packaging operations is not simply to ensure that a figure of 100% can be recorded in the batch record. It is to identify potential mix-ups, or other failures within the process (for example, missing product or patient information leaflets), through careful evaluation to confirm that operations have been completed properly and without error.",
+                "tag": "p"
+            },
+            {
+                "content": "Perfect reconciliation figures can, on a superficial level, be attractive targets. However, for large-scale packaging operations, these may be unrealistic and can lead to poor behaviours, such as \"finding extra waste\", in order to avoid investigations and delays to line changeovers.",
+                "tag": "p"
+            },
+            {
+                "content": "QRM principles should be used to establish reconciliation limits (inclusive of bulk) based on the risks associated with the process and product, such as batch size, product potency, toxicity, and intended use or patient population.",
+                "tag": "p"
+            },
+            {
+                "content": "Inherent variability in component quantities supplied by approved vendors should be understood. Outputs from the QRM process can be used as inputs into vendor-assurance programmes and Quality Technical Agreements, so that suitable upstream controls and limits are implemented to provide maximum assurance that reconciliation activities remain reliable indicators.",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, label reconciliation can be hampered where labels on a reel are not sequentially numbered, making it difficult to establish an accurate quantity. Internal QC sampling operations should be carefully controlled to ensure that any quantity changes are documented and visible to production staff.",
+                "tag": "p"
+            },
+            {
+                "content": "It must also be understood that yield and reconciliation are different concepts. Regrettably, this continues to be misunderstood.",
+                "tag": "p"
+            },
+            {
+                "content": "Storage",
+                "tag": "h2"
+            },
+            {
+                "content": "Earlier in this article, I described how not all components are routinely printed with pharmacodes and gave lidding foil as an example. Surprisingly, it remains common to find reels of lidding foil for different products, or more alarmingly, for the same product but a different strength, stored together in the same location, sometimes on the same or adjacent pallet or rack and without any physical segregation.",
+                "tag": "p"
+            },
+            {
+                "content": "This approach has facilitated an error chain to develop that directly led to a Class 2 recall. Careful attention to process design using QRM principles should reasonably be expected to identify such practices and drive improvement.",
+                "tag": "p"
+            },
+            {
+                "content": "During inspections, materials of different status have been found in staging areas adjacent to packaging lines. For example, materials that have been fully checked and released by QC/QA and are ready for packaging have been stored alongside materials awaiting release by QC/QA that have been transferred to the area for convenience without any clear differentiation between the two.",
+                "tag": "p"
+            },
+            {
+                "content": "It is vitally important that the status of any stock can be readily ascertained and that adequate segregation is maintained, whether physical and/or electronic, to prevent mix-ups.",
+                "tag": "p"
+            },
+            {
+                "content": "Customer Complaints",
+                "tag": "h2"
+            },
+            {
+                "content": "Customer complaints are an important mechanism for identifying product defects that have, despite a site's best efforts, escaped its controls. As such, customer complaints should be considered properly and with an open mind.",
+                "tag": "p"
+            },
+            {
+                "content": "With particular consideration to packaging errors, routine reviews of batch records, deviations raised at the time, and inspection of retain samples are important. However, these activities, together with a justification that procedures are in place, are not sufficiently robust on their own to categorically rule out the possibility that a genuine complaint has been received.",
+                "tag": "p"
+            },
+            {
+                "content": "Except where reported mix-ups involve products not manufactured at the same facility, careful evaluation of the circumstances and the potential for a mix-up during manufacture or within the supply chain (hospitals, pharmacies or the patient's home) is imperative.",
+                "tag": "p"
+            },
+            {
+                "content": "This should include establishing the affected products and batches and identifying potential chronological and/or physical overlap within the manufacturing facility. For example, were the batches in the production area at the same time? Were they processed or packaged on adjacent lines?",
+                "tag": "p"
+            },
+            {
+                "content": "Trending of customer complaints should be performed on an ongoing basis and used when considering the overall validity and extent of reported product defects so that appropriate risk-reducing actions can be taken.",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "When designing and undertaking packaging operations, EU GMP Chapter 5 requires particular attention to be given to minimising the risk of cross-contamination, mix-ups and substitutions. To do this effectively, the Pharmaceutical Quality System (PQS) should incorporate appropriate Quality Risk Management principles, including the use of suitable tools.",
+                "tag": "p"
+            },
+            {
+                "content": "GMP Inspectors often hear from companies that failures could never occur because checks are performed at each stage of established processes. However, those Inspectors, as well as the MHRA Defective Medicines Report Centre (DMRC), regularly encounter situations where those \"never events\" have indeed occurred and, regrettably, continue to occur.",
+                "tag": "p"
+            },
+            {
+                "content": "Complacency through a lack of critical review and continuous improvement of technologies and procedures is itself a significant risk to product quality.",
+                "tag": "p"
+            },
+            {
+                "content": "Companies should use the examples described in this article to inspire their own critical review of their operations, rather than assume that these failures could not occur at their site. Qualified Persons should ensure that this review is undertaken and that they have properly considered the risks identified and the effectiveness of the controls in place as part of their ongoing assurance that production operations comply with GMP. The review should involve those who undertake and oversee the activities, with attention given to how controls operate in practice, not simply how they are described in procedures. Where weaknesses are identified, appropriate actions should be assigned, implemented in a timely manner and checked for effectiveness. It should not take a customer complaint, a product recall or an inspection finding to prompt this review.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspectors will verify that a robust approach has been taken to minimise these risks and, in doing so, ensure that public health is being properly safeguarded.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhrainspectorate.blog.gov.uk/2026/11/26/mhra-expectations-concerning-packaging-operations-to-minimise-the-risk-of-mix-ups/",
+        "blog": "MHRA Inspectorate",
+        "blog_link": "https://mhrainspectorate.blog.gov.uk",
+        "description": "Problems during packaging operations involving the mix-up of components and products present an unacceptable risk to patient safety. There have recently been a number of recalls initiated, and several critical deficiencies raised by GMP Inspectors, due to failures to implement \u2026"
+    },
+    {
+        "title": "Out of the box: a reusable template for case management",
+        "authors": [
+            "Dani Shepherd, Senior Content Designer"
+        ],
+        "posted_on": "2026-11-26T09:27:41",
+        "categories": [
+            "Culture and Ways of Working",
+            "Products"
+        ],
+        "content": [
+            {
+                "content": "How many times do government teams design and build a case management capability from scratch?",
+                "tag": "p"
+            },
+            {
+                "content": "At the Department for Business, Innovation, Science and Trade (BIST), we have multiple services dedicated to case management, particularly for managing different types of trade licence applications. Case management services receive, review and progress applications from submission to decision.",
+                "tag": "p"
+            },
+            {
+                "content": "Although these services may serve different policy areas, many solve similar problems. Case management services need similar things:",
+                "tag": "p"
+            },
+            {
+                "content": "Building these common parts separately for every service can duplicate effort. It can also make services more expensive and complex to maintain.",
+                "tag": "p"
+            },
+            {
+                "content": "Putting reuse to the test",
+                "tag": "h2"
+            },
+            {
+                "content": "What if we stopped designing and building case management services for each separate policy area in isolation?",
+                "tag": "p"
+            },
+            {
+                "content": "What if, instead, we built a user-centred template based on shared capabilities and functionality that is ready to go \u2013 \u2018out of the box\u2019 \u2013  when the next policy request comes in?",
+                "tag": "p"
+            },
+            {
+                "content": "This is the question a keen group of reusable enthusiasts asked themselves during a recent Firebreak project. Our aim was to take one licensing case management service and test whether the same structure, design and code could be applied to a different licence and policy context, within a week.",
+                "tag": "p"
+            },
+            {
+                "content": "We were not trying to build a finished product. We wanted to test our vision that designs and code can, and should, be replicated and iterated rather than recreated.",
+                "tag": "p"
+            },
+            {
+                "content": "Speed was everything. We wanted to demonstrate what might be possible when we treat common case management needs as reusable capabilities at pace. Our bigger ambition is to turn our rough prototype into a longer-term reusable foundation.",
+                "tag": "p"
+            },
+            {
+                "content": "The problem, and indeed the solution, is not a new one. A cross-government working group has also explored an \u2018applying for something\u2019 service pattern, which is a relevant example for our project.",
+                "tag": "p"
+            },
+            {
+                "content": "There has already been plenty of excellent work done at BIST on licensing case management services and reusable design patterns. This means that we were not starting with this problem from scratch.",
+                "tag": "p"
+            },
+            {
+                "content": "Designing for reuse",
+                "tag": "h2"
+            },
+            {
+                "content": "We started with evidence-backed patterns from an existing licensing service and reusable information flows based on existing user research insights and content design best practice. Our aim was to create a simple baseline that other services could build on.",
+                "tag": "p"
+            },
+            {
+                "content": "That changed the question we were asking. Rather than, \u2018what does this current service use?\u2019, we asked, \u2018which parts could another service use?\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "That small shift changed how we approached the design.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, licence applications often ask users to add several things of the same type. These might be products, organisations, people or documents.",
+                "tag": "p"
+            },
+            {
+                "content": "Instead of designing separate interactions for each one, we explored reusable patterns that allow users to add information, see a summary, then change, remove or add another item.",
+                "tag": "p"
+            },
+            {
+                "content": "We also looked at how information entered earlier in an application could change what users are asked to do later.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, an answer could trigger a mandatory document upload. The service could then tell the user exactly what they need to provide, rather than expecting them to remember. ",
+                "tag": "p"
+            },
+            {
+                "content": "These are relatively simple ideas on their own. The interesting part is thinking about them as building blocks that can be combined in different ways.",
+                "tag": "p"
+            },
+            {
+                "content": "What we built in 5 days",
+                "tag": "h2"
+            },
+            {
+                "content": "By the end of Firebreak, we had created a prototype licensing service using reusable capabilities.",
+                "tag": "p"
+            },
+            {
+                "content": "It allowed external users to:",
+                "tag": "p"
+            },
+            {
+                "content": "It also allowed internal users to:",
+                "tag": "p"
+            },
+            {
+                "content": "Rather than just producing individual screens, we had enough of the end-to-end journey to demonstrate how reusable design and technical capabilities could work together, particularly when capturing structured data.",
+                "tag": "p"
+            },
+            {
+                "content": "The prototype does not prove that we now have a reusable case management product ready for every situation. We do not.",
+                "tag": "p"
+            },
+            {
+                "content": "What it does give us is something tangible. Instead of discussing reuse as an abstract ambition, we have demonstrated that reusing existing code and designs allows us to build at pace to test a prototype properly. It is then possible to customise, based on specific service needs at a fraction of the design and build time usually required.",
+                "tag": "p"
+            },
+            {
+                "content": "Watch members of the Firebreak project team Cal Gott (Senior Business Analyst) and Karwai Pun (Lead Interaction Designer) discuss and give a demo of what we managed to achieve in 5 days.",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like a full demo of our prototype, you can contact us through the comments.",
+                "tag": "p"
+            },
+            {
+                "content": "Where could this go next?",
+                "tag": "h2"
+            },
+            {
+                "content": "We hope to take what we built during Firebreak and apply that to real-world licensing examples.",
+                "tag": "p"
+            },
+            {
+                "content": "First, we want to develop the prototype into a workable end-to-end licensing service and identify which parts form a genuinely reusable core.",
+                "tag": "p"
+            },
+            {
+                "content": "The real test would then come with a second licensing journey. How quickly could we adapt what already exists? Which parts would transfer cleanly, and which would need to change? Crucially, we would measure how much time the reusable approach saves.",
+                "tag": "p"
+            },
+            {
+                "content": "The project would be as much a discovery as it would be a delivery opportunity. There will be new questions and challenges as we go.",
+                "tag": "p"
+            },
+            {
+                "content": "We also plan to add any patterns, components and capabilities we create as part of this work to BIST\u2019s wider design system, so other teams can build on them too.",
+                "tag": "p"
+            },
+            {
+                "content": "What we learned",
+                "tag": "h2"
+            },
+            {
+                "content": "Our biggest lesson was how much value already exists in previous work. That includes not only designs and code, but the research and insight that led to them. Before creating something new, it is worth asking whether another team has already solved part of the problem.",
+                "tag": "p"
+            },
+            {
+                "content": "Reusable design and code are not only valuable, but vital in a landscape that demands more from digital teams, with increasingly less time and fewer resources.",
+                "tag": "p"
+            },
+            {
+                "content": "That does not mean every government service should look or work in exactly the same way. It means recognising where our problems overlap and treating that overlap as an opportunity.",
+                "tag": "p"
+            },
+            {
+                "content": "Firebreak was also a great opportunity to turn the regular constraint of time into a fun challenge between colleagues \u2013 to see what we can create when we\u2019re on the clock.",
+                "tag": "p"
+            },
+            {
+                "content": "Five focused days will not solve every problem. But opportunities like this can give a multidisciplinary team enough space to challenge assumptions, make an idea tangible and show what might be possible. What do you think you could achieve in 5 days?",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2026/11/26/out-of-the-box-a-reusable-template-for-case-management/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "This blog showcases how a Firebreak project explored building a reusable licensing case management template that could enable future services to be assembled more quickly and efficiently."
+    },
+    {
         "title": "Could your school recover money from its energy bills?",
         "authors": [
             "Communications Team"
